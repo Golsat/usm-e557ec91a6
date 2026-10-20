@@ -3,6 +3,2402 @@ window.EDIZIONI["2026-10-20-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z2ea11eba",
+   "sez": "cultura",
+   "titolo": "Trainspotting torna nelle sale per tre giorni a trent'anni dall'uscita",
+   "orig": "La vita ti passa a spot e flash",
+   "lead": "A quasi trent'anni dalla sua prima apparizione sul grande schermo, il celebre film Trainspotting diretto da Danny Boyle torna nelle sale cinematografiche d'autore in una versione restaurata. La pellicola, tratta dall'omonimo romanzo degli anni Novanta scritto da Irvine Welsh, sarà riproposta al pubblico per un evento speciale della durata di tre giorni, dal 19 al 21 ottobre. L'iniziativa permette di riscoprire un'opera che ha segnato la cultura cinematografica e generazionale di quel decennio. Lo riferisce San Marino RTV.",
+   "more": [
+    "Uscito nel 1996, Trainspotting ha raccontato con uno stile visivo innovativo le vite tormentate di un gruppo di giovani di Edimburgo alle prese con la dipendenza da eroina, la povertà e l'emarginazione sociale. Il film ha lanciato a livello internazionale la carriera del regista Danny Boyle e dell'attore protagonista Ewan McGregor."
+   ],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/news/cultura-c6/la-vita-ti-passa-a-spot-e-flash-a297516",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-20T12:05+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z1033d362",
+   "sez": "tech",
+   "titolo": "Problemi a Google Cloud provocano il blocco dei servizi di Revolut a Londra",
+   "orig": "Care este motivul căderii serviciilor Revolut",
+   "lead": "I servizi della banca digitale britannica Revolut hanno subito una pesante interruzione operativa causata da un contemporaneo disservizio dell'infrastruttura di Google Cloud. Diversi servizi della piattaforma cloud del colosso statunitense hanno infatti segnalato guasti nella regione londinese. Secondo quanto riferito a Reuters da una persona informata sui fatti, il blocco temporaneo che ha colpito le attività e le transazioni dei clienti di Revolut è direttamente collegato alle difficoltà tecniche registrate sui server di Google. Lo riferisce HotNews.",
+   "more": [
+    "Molte aziende fintech e banche digitali si affidano a infrastrutture cloud esterne per gestire enormi volumi di transazioni in tempo reale. Quando i data center centrali affrontano problemi di connettività o di alimentazione, i servizi collegati possono diventare inaccessibili fino al completo ripristino dei server."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/care-este-motivul-caderii-serviciilor-revolut-2381082",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-20T09:56+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "ze05899dc",
+   "sez": "sport",
+   "titolo": "La UEFA designa gli arbitri per le gare europee di Benfica e Torreense",
+   "orig": "UEFA nomeia árbitros para compromissos europeus de Benfica, Torreense e Sp. Braga",
+   "lead": "La UEFA ha annunciato le nomine arbitrali per i prossimi impegni internazionali delle squadre portoghesi nelle competizioni continentali. Il fischietto belga Jasper Vergoote è stato scelto per dirigere giovedì la sfida di Europa League tra i ciprioti dell'Omonia e il Benfica. Per la trasferta del Torreense sul campo degli ungheresi del Ferencváros è stato invece designato il direttore di gara francese Jérôme Brisard. Il quadro delle designazioni comprende anche la sfida europea dello Sporting Braga. Lo riferisce RTP.",
+   "more": [
+    "Le designazioni dei direttori di gara per le coppe europee vengono decise dal comitato arbitrale della federazione continentale in base al rendimento e alla categoria degli arbitri internazionali, garantendo la presenza di ufficiali provenienti da federazioni neutrali rispetto alle formazioni impegnate sul campo."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/liga-europa/uefa-nomeia-arbitros-para-compromissos-europeus-de-benfica-torreense-e-sp-braga_d1772902",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z2815d7dc",
+   "sez": "salute",
+   "titolo": "In Pakistan Momin Agha diventa il nono segretario alla Sanità in 19 mesi",
+   "orig": "Health ministry gets Momin Agha as 9th secretary in 19 months",
+   "lead": "Il ministero della Sanità del Pakistan ha nominato Momin Agha come nuovo vertice amministrativo dell'istituzione. Si tratta del nono segretario a insediarsi durante il mandato del ministro della Sanità Mustafa Kamal, in carica dal febbraio 2025. Agha, funzionario di alto livello del Pakistan Administrative Service al grado BS-22, è stato trasferito e assegnato al nuovo ruolo attraverso una notifica ufficiale diffusa dall'Establishment Division. La continua rotazione alla guida amministrativa evidenzia una marcata instabilità nella gestione burocratica del dicastero sanitario. Lo riferisce Dawn.",
+   "more": [
+    "Il ruolo di segretario ministeriale nei paesi con amministrazione di derivazione britannica corrisponde alla massima carica burocratica non elettiva. Questa figura coordina i dipartimenti operativi, gestisce i bilanci e garantisce la continuità delle politiche pubbliche anche attraverso i frequenti avvicendamenti di natura politica."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038508/health-ministry-gets-momin-agha-as-9th-secretary-in-19-months",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-20T13:53+05:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z9db46566",
+   "sez": "ingegneria",
+   "titolo": "Approvata la seconda fase di Cambridge Road Estate con 383 nuove abitazioni",
+   "orig": "Vistry, Kingston Council receive permission for new homes",
+   "lead": "L'impresa edile Vistry e il Kingston Council hanno ottenuto l'autorizzazione urbanistica per avviare la seconda fase della riqualificazione del Cambridge Road Estate. Il progetto residenziale, disegnato dallo studio di architettura BPTW, prevede la costruzione di 383 nuove abitazioni nell'area urbana di Kingston. Questo intervento rappresenta un tassello fondamentale di un piano di rigenerazione molto più esteso, destinato a realizzare complessivamente 2.170 case sul territorio, migliorando l'offerta abitativa e le infrastrutture locali per i residenti del quartiere. Lo riferisce Construction Index.",
+   "more": [
+    "I programmi di rigenerazione urbana nelle aree metropolitane britanniche mirano a sostituire o riqualificare complessi residenziali obsoleti, aumentando l'efficienza energetica degli stabili e incrementando la quota di edilizia residenziale mista, pubblica e privata, per rispondere alla carenza di alloggi."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/vistry-kingston-council-receive-permission-for-new-homes",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T08:14+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zcec229fe",
+   "sez": "tech",
+   "titolo": "Samsung amplia il polo di Pyeongtaek per la produzione di memorie per l'IA",
+   "orig": "A visit to Samsung’s massive new semiconductor hub",
+   "lead": "Per rispondere alla crescente domanda di semiconduttori avanzati necessari all'intelligenza artificiale generativa, Samsung sta espandendo il suo monumentale complesso manifatturiero a Pyeongtaek, in Corea del Sud. I moderni modelli di calcolo richiedono potenti processori grafici abbinati a memorie specializzate impilate ad altissima velocità. Nel sito produttivo tre grandi fabbriche sono già operative a ciclo continuo senza sosta, mentre una quarta struttura sta per entrare in funzione per accelerare la produzione su scala globale dei nuovi chip. Lo riferisce MIT Technology Review.",
+   "more": [
+    "L'addestramento e l'esecuzione di complessi modelli di intelligenza artificiale richiedono memorie ad ampia larghezza di banda (HBM). Queste memorie collegano verticalmente più strati di chip per consentire il trasferimento rapido di enormi moli di dati verso i processori principali."
+   ],
+   "fonti": [
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T09:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z2b30b7e5",
+   "sez": "mondo",
+   "titolo": "Trump lega le tensioni sociali in Francia alle politiche migratorie",
+   "orig": "Trump liga crise francesa à Imigração e exige fronteiras fechadas",
+   "lead": "L'ex presidente statunitense Donald Trump è intervenuto pubblicamente sulla situazione politica e sociale della Francia, collegando direttamente i disordini nel Paese europeo alle politiche di gestione dei flussi migratori. Secondo la tesi sostenuta da Trump, i problemi francesi non derivano da carenze nel sistema scolastico o educativo, ma sono la conseguenza diretta dell'apertura delle frontiere. L'esponente politico americano ha quindi rinnovato la richiesta di una rigorosa chiusura dei confini nazionali per preservare la stabilità e la sicurezza interna. Lo riferisce RTP.",
+   "more": [
+    "Il dibattito sul legame tra immigrazione e coesione sociale è ricorrente nelle agende delle forze conservatrici internazionali. La Francia affronta periodicamente tensioni nelle periferie urbane, sulle cui cause sociologi e leader politici esprimono giudizi divergenti tra integrazione economica ed efficacia dei controlli di frontiera."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/trump-liga-crise-francesa-a-imigracao-e-exige-fronteiras-fechadas_v1772899",
+     "angolo": "",
+     "atlas": "Portugal"
+    }
+   ],
+   "data": "",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z375c5851",
+   "sez": "sport",
+   "titolo": "Dall'era dei magnati all'autosufficienza: l'evoluzione economica della Serie A",
+   "orig": "Jakten på det fortapte fotballparadiset",
+   "lead": "Il campionato di Serie A si trova a fronteggiare una profonda trasformazione del proprio modello finanziario rispetto all'epoca d'oro vissuta alla fine del secolo scorso. Negli anni Novanta i principali club calcistici italiani potevano contare sulle imponenti risorse economiche fornite da grandi industriali, magnati dell'energia, la famiglia Agnelli e Silvio Berlusconi. Nel contesto attuale la massima divisione italiana non può più contare su quei capitali a fondo perduto e deve cercare una complessa sostenibilità economica fondata sull'autosufficienza finanziaria. Lo riferisce NRK.",
+   "more": [
+    "Nel corso degli anni Novanta il campionato italiano attirava i migliori giocatori al mondo grazie agli investimenti personali dei proprietari dei club. Oggi le normative sul fair play finanziario e la concorrenza internazionale, soprattutto della Premier League inglese, impongono una gestione rigorosa basata su ricavi commerciali e diritti televisivi."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/sport/xl/jakten-pa-det-fortapte-fotballparadiset-1.18058980",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-20T09:09+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zeef1a402",
+   "sez": "tech",
+   "titolo": "False notizie e psicosi su WhatsApp e TikTok tra gli studenti in Lombardia",
+   "orig": "Scontri, nelle chat falsi allarmi per creare la psicosi: “Attenti, incendi in università e stupri”",
+   "lead": "Un'ondata di disinformazione e allarmismo si è diffusa rapidamente tra i giovani attraverso le chat di WhatsApp e i video pubblicati su TikTok in diverse città della Lombardia. Messaggi non verificati hanno paventato gravi pericoli per gli studenti, diffondendo voci prive di fondamento su presunti incendi appiccati all'interno delle università e aggressioni sessuali. La rapida circolazione di questi falsi allarmi ha generato un clima di psicosi, costringendo sindaci e rappresentanti studenteschi a intervenire pubblicamente per smentire le notizie e rassicurare la popolazione. Lo riferisce la Repubblica.",
+   "more": [
+    "Le piattaforme di messaggistica istantanea e i social network possono amplificare rapidamente contenuti non verificati a causa della velocità di inoltro tra gruppi di pari. L'assenza di filtri editoriali favorisce la creazione di panico collettivo, rendendo necessari chiarimenti istituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://milano.repubblica.it/cronaca/2026/10/20/news/scontri_milano_falsi_allarmi_chat_stupri_incendi-425659521/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T06:24+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zc81d1b41",
+   "sez": "ingegneria",
+   "titolo": "Murphy Plant rinnova la flotta con 19 escavatori compatti Kubota",
+   "orig": "Murphy takes 19 Kubota compact excavators",
+   "lead": "L'azienda Murphy Plant ha completato l'acquisto di 19 escavatori compatti del modello Kubota KX085-5 per potenziare la propria flotta di macchinari da cantiere. La fornitura delle unità operative è stata interamente gestita e portata a termine dal rivenditore autorizzato Shellplant nel Regno Unito. Questo investimento permette all'impresa di rafforzare la propria capacità di intervento nei cantieri edili e infrastrutturali, impiegando mezzi di scavo moderni pensati per operare con efficienza anche in spazi di lavoro ristretti. Lo riferisce Construction Index.",
+   "more": [
+    "Gli escavatori compatti da circa otto tonnellate sono veicoli da cantiere molto richiesti nei lavori urbani e infrastrutturali. Garantiscono un equilibrio ottimale tra potenza di scavo, consumo di carburante e facilità di manovra in prossimità di strade ed edifici."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/murphy-takes-19-kubota-compact-excavators",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T08:06+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zadca2f3d",
+   "sez": "dibattito",
+   "titolo": "Le proteste studentesche a Firenze contro i tagli ai fondi e le riforme",
+   "orig": "Protesta studentesca a Firenze, una decina di istituti coinvolti: nel mirino dei ragazzi i tagli alla scuola e le ultime riforme",
+   "lead": "Al centro del confronto sulla scuola a Firenze c'è la mobilitazione degli studenti, che contestano i tagli alle risorse destinati agli istituti e le recenti riforme educative. La protesta, partita con l'occupazione di un primo istituto scolastico cittadino, si è rapidamente diffusa a macchia d'olio coinvolgendo una dozzina di scuole superiori del capoluogo toscano. I ragazzi chiedono maggiori finanziamenti pubblici per l'istruzione e il ripensamento delle modifiche legislative, manifestando attraverso occupazioni e assemblee, mentre le autorità seguono l'evolversi della mobilitazione per garantire la gestione delle strutture scolastiche. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Le proteste autunnali nelle scuole superiori italiane vedono storicamente gli studenti mobilitarsi sulle riforme dell'istruzione, l'edilizia scolastica e le risorse per la didattica. Le forme di dissenso includono assemblee permanenti, cortei cittadini e occupazioni degli edifici per aprire momenti di confronto politico."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/protesta-studentesca-a-firenze-una-decina-di-istituti-coinvolti-nel-mirino-dei-ragazzi-i-tagli-alla-scuola-e-le-ultime-riforme/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T08:10+00:00"
+    },
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/scioperi-e-lezioni-perse-a-cagliari-in-un-liceo-scattano-le-sanzioni-sul-voto-in-condotta/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T09:47+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z0e3b0982",
+   "sez": "cucina",
+   "titolo": "Nelle mense scolastiche americane arrivano le polpette ibride a ridotto contenuto di carne",
+   "orig": "These startups hope “blended” food will cut our appetite for red meat",
+   "lead": "Alcune startup del settore alimentare stanno sperimentando nuovi prodotti ibridi nelle mense scolastiche americane per diminuire il consumo di carne rossa tra gli adolescenti. Nell'autunno del 2025, Jeff Dodge ha allestito un bancone nella mensa della Cane Bay High School a Summerville, nella Carolina del Sud, per sottoporre le preparazioni al giudizio di 150 studenti. L'esperimento culinario ha proposto polpette fumanti con salsa marinara realizzate combinando carne bovina e ingredienti vegetali, nel tentativo di offrire alternative sostenibili gradite ai giovani consumatori. Lo riferisce MIT Technology Review.",
+   "more": [
+    "I cibi cosiddetti blended uniscono carne tradizionale a ingredienti vegetali come funghi, legumi o cereali. Questo approccio punta a ridurre l'impatto ambientale dell'allevamento e migliorare il profilo nutrizionale dei pasti, preservando al tempo stesso il sapore e la consistenza della carne."
+   ],
+   "fonti": [
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T09:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z921cfbc3",
+   "sez": "musica",
+   "titolo": "Il festival 82WORLD debutta a Los Angeles con le esibizioni di ATEEZ e P1Harmony",
+   "orig": "82WORLD: LA Best Moments: ATEEZ Brings It Home, P1Harmony’s Big Tease and a BTS Throwback",
+   "lead": "La prima edizione del festival musicale 82WORLD si è svolta a Los Angeles offrendo agli appassionati di musica una rassegna ricca di performance dal vivo. Tra i momenti salienti della manifestazione hanno spiccato le esibizioni principali dei gruppi coreani ATEEZ e P1Harmony, che hanno entusiasmato il pubblico presente. L'evento ha proposto anche tributi speciali dedicati ai brani storici dei BTS e spazi di contatto ravvicinato tra gli artisti sul palco e i loro ammiratori, consolidando la popolarità del K-pop negli Stati Uniti. Lo riferisce Billboard.",
+   "more": [
+    "Il pop coreano ha acquisito una dimensione globale grazie a un'intensa attività sui social media, coreografie elaborate e produzioni musicali sofisticate. Grandi festival dedicati al genere vengono organizzati regolarmente nelle principali metropoli americane per attrarre un pubblico giovane e internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/lists/82world-la-festival-2026-best-moments/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T06:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zf498a0ac",
+   "sez": "salute",
+   "titolo": "I prezzi di lancio dei nuovi farmaci negli Stati Uniti restano su livelli elevati",
+   "orig": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
+   "lead": "I costi di introduzione sul mercato per i farmaci di nuova generazione negli Stati Uniti rimangono estremamente elevati, nonostante una leggera flessione recente. Un'analisi di settore evidenzia che il prezzo netto mediano di 202 medicinali approvati di recente è salito nell'ultimo anno a 257.000 dollari, registrando un incremento del 35% rispetto ai 173.000 dollari rilevati nel 2022. La persistenza di tariffe così gravose continua a pesare in maniera considerevole sui bilanci dei sistemi di assistenza sanitaria pubblici e privati. Lo riferisce STAT.",
+   "more": [
+    "Negli Stati Uniti i prezzi dei farmaci da prescrizione non sono regolati direttamente dal governo federale come avviene in Europa, ma dipendono da negoziazioni tra aziende farmaceutiche e intermediari assicurativi, generando costi medi molto superiori alla media internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T10:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z831097ed",
+   "sez": "ambiente",
+   "titolo": "Allarme bostrico nei boschi della Repubblica Ceca dopo un anno di siccità",
+   "orig": "Revenge of the beetle: Year of drought spells disaster for Czech forests",
+   "lead": "I boschi della Repubblica Ceca affrontano una nuova e grave minaccia ambientale dopo una stagione caratterizzata da scarse precipitazioni. Esperti forestali lanciano l'allarme per l'arrivo di una nuova ondata distruttiva del bostrico tipografo, l'insetto parassita che già negli anni passati ha decimato centinaia di ettari di boschi di conifere nel Paese. La persistente siccità debilita gli alberi, riducendo la loro capacità naturale di respingere le infestazioni e aprendo la strada a un possibile disastro ecologico per le foreste ceche. Lo riferisce Expats.cz.",
+   "more": [
+    "Il bostrico dell'abete è un piccolo coleottero che scava gallerie sotto la corteccia degli alberi, interrompendo il flusso di linfa. Le estati secche e calde indeboliscono le piante riducendo la produzione di resina protettiva, facilitando così la proliferazione epidemica del parassita."
+   ],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/revenge-of-the-beetle-a-year-of-drought-spells-disaster-for-czech-forests",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-20T09:11+02:00"
+    },
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/is-czech-beer-at-risk-drought-takes-a-toll-on-hops-and-barley",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-20T10:25+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z46817839",
+   "sez": "spazio",
+   "titolo": "Un satellite militare russo si avvicina a un apparato commerciale usato da Kiev",
+   "orig": "La Russie rapproche un satellite militaire d'un satellite commercial qui renseigne l'Ukraine",
+   "lead": "Un satellite militare lanciato dalla Russia ha effettuato una manovra di avvicinamento a meno di 1,6 chilometri da un satellite commerciale orbitante impiegato per fornire dati di sicurezza nazionale a paesi terzi, tra cui l'Ucraina. Secondo le informazioni diffuse dall'emittente CNN, la manovra nello spazio potrebbe rappresentare un avvicinamento senza precedenti verso un velivolo civile, compiuto in assenza di qualsiasi autorizzazione preventiva. L'operazione ha sollevato forti preoccupazioni in merito alla protezione delle infrastrutture spaziali private utilizzate per scopi difensivi. Lo riferisce La Nouvelle Tribune.",
+   "more": [
+    "Le costellazioni di satelliti commerciali svolgono oggi compiti strategici fondamentali, fornendo immagini ad alta risoluzione e comunicazioni sicure a governi e forze armate. Le manovre di avvicinamento non concordate in orbita rischiano di innescare incidenti o manovre di disturbo elettronico."
+   ],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/la-russie-rapproche-un-satellite-militaire-dun-satellite-commercial-qui-renseigne-lukraine/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z40e60fd4",
+   "sez": "mondo",
+   "titolo": "Divisioni tra i Democratici negli USA sul nuovo programma di voucher scolastici",
+   "orig": "Can the new federal voucher program help public schools? Democrats are torn",
+   "lead": "Negli Stati Uniti il Partito Democratico si trova diviso di fronte all'introduzione del nuovo programma federale di borse di studio basato sui crediti d'imposta per l'istruzione. Da un lato, il piano potrebbe consentire alle famiglie degli studenti delle scuole pubbliche di finanziare specifici servizi educativi supplementari. Dall'altro, numerosi sostenitori dell'istruzione pubblica esprimono forti timori, temendo che l'assegnazione di voucher fiscali possa sottrarre preziose risorse economiche al sistema statale a favore di istituti privati, producendo conseguenze dannose per l'istruzione generale. Lo riferisce NPR.",
+   "more": [
+    "I sistemi di tax credit scholarship permettono a contribuenti e imprese di ottenere agevolazioni fiscali a fronte di donazioni verso enti che erogano borse di studio. Negli Stati Uniti il dibattito oppone chi sostiene la libertà di scelta educativa a chi difende il finanziamento diretto della scuola pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T05:00-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z8dd63b44",
+   "sez": "cultura",
+   "titolo": "A Tunisi il Japan Festival celebra i settant'anni di relazioni con Tokyo",
+   "orig": "Coopération tuniso-japonaise : Le « Japan Festival » célèbre sept décennies de coopération",
+   "lead": "La Tunisia e il Giappone celebreranno settant'anni di relazioni diplomatiche con l'organizzazione del Japan Festival, in programma dal 30 ottobre al primo novembre 2026 presso la Città della Cultura di Tunisi. In vista della manifestazione, l'ambasciatore giapponese Saito Jun ha incontrato la ministra degli Affari culturali tunisina per coordinare le tappe dell'iniziativa. L'evento culturale mira a valorizzare i legami storici, la cooperazione bilaterale e gli scambi artistici consolidati tra i due Paesi nel corso di sette decenni di scambi istituzionali. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "I legami tra Giappone e Tunisia affondano le radici nel reciproco riconoscimento diplomatico avvenuto nel 1956, anno dell'indipendenza tunisina. Negli anni Tokyo ha finanziato progetti di sviluppo economico e infrastrutturale nel Paese nordafricano, promuovendo parallelamente manifestazioni culturali congiunte."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/20/cooperation-tuniso-japonaise-le-japan-festival-celebre-sept-decennies-de-cooperation/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-20T08:53+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z3b56768d",
+   "sez": "tech",
+   "titolo": "Presentato Plim, il robot domestico per l'assistenza e il contatto con gli anziani",
+   "orig": "Plim je robot koji pomaže starijima i omogućava im da budu u kontaktu sa porodicom",
+   "lead": "È stato presentato ufficialmente Plim, un nuovo robot domestico progettato per affiancare le persone anziane nelle loro necessità quotidiane e favorire la vicinanza familiare. Il dispositivo tecnologico è dotato di funzionalità avanzate per consentire agli utenti di effettuare conversazioni video faccia a faccia con parenti e amici residenti in qualsiasi parte del mondo. L'apparecchio mira a ridurre il senso di isolamento sociale nella terza età, integrando strumenti di comunicazione immediata con funzioni di supporto all'interno delle mura domestiche. Lo riferisce N1 Serbia.",
+   "more": [
+    "La robotica assistenziale si concentra su dispositivi autonomi progettati per supportare soggetti vulnerabili o con mobilità ridotta. Attraverso interfacce vocali semplificate e display video, questi strumenti aiutano a monitorare la routine domestica e facilitare le relazioni con i caregiver."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/magazin/scitech/kucni-robot-za-pomoc-starijima-moze-da-poveze-voljene-osobe-licem-u-lice/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T12:15+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z1dcdacb4",
+   "sez": "ingegneria",
+   "titolo": "Al via i lavori da 32 milioni per l'ampliamento della scuola Foxwood Academy",
+   "orig": "Morgan Sindall starts £32m SEND school expansion",
+   "lead": "L'impresa Morgan Sindall Construction ha avviato i lavori di costruzione per l'ampliamento della Foxwood Academy, istituto specializzato per alunni con bisogni educativi speciali situato a Bramcote, nel Nottinghamshire. L'intervento edile, dal valore complessivo di 32 milioni di sterline, è stato progettato dallo studio Noviun Architects e vede la gestione tecnica affidata a Gleeds. Il progetto consentirà di realizzare spazi moderni, aule accessibili e attrezzature didattiche su misura per rispondere alla crescente richiesta di percorsi formativi inclusivi nel territorio. Lo riferisce Construction Index.",
+   "more": [
+    "L'edilizia scolastica destinata a studenti con esigenze educative speciali (SEND) richiede criteri di progettazione specifici, tra cui percorsi privi di barriere architettoniche, ambienti sensoriali controllati e soluzioni acustiche adeguate a favorire l'apprendimento e il benessere degli alunni."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/morgan-sindall-starts-32m-send-school-expansion",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T07:53+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z02c7f3e9",
+   "sez": "cultura",
+   "titolo": "Arriva Monster Mia, l'animazione per ragazzi su una scuola per mostri spaventosi",
+   "orig": "Monster Mia review – kooky kid discovers school of beastly besties in wholesome Halloween fun",
+   "lead": "Il cinema d'animazione per preadolescenti propone Monster Mia, pellicola in cui una ragazzina dal carattere esuberante trova la sua vocazione frequentando una scuola per maestri dello spavento, tra compagni di classe che includono persino un vampiro vegano. Il racconto mette a confronto due gemelle dal carattere opposto: una studentessa modello integrata e dedita alla danza classica, e la protagonista Mia, caotica e anticonformista, entrambe residenti nella tranquilla cittadina di Primrose. La commedia esplora l'accettazione di sé in un contesto spensierato. Lo riferisce The Guardian.",
+   "more": [
+    "I film d'animazione dedicati al pubblico giovanile utilizzano spesso metafore mostruose o bizzarre per trattare il tema della ricerca della propria identità e del conformismo sociale, offrendo modelli di amicizia inclusivi in grado di valorizzare le specificità individuali."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T08:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zae015d2b",
+   "sez": "musica",
+   "titolo": "Il festival Pitch Music & Arts presenta il programma per il decimo anniversario",
+   "orig": "Pitch Music & Arts Unveils 2027 Lineup for 10th Anniversary Edition",
+   "lead": "Gli organizzatori del Pitch Music & Arts hanno svelato i primi artisti della rassegna prevista per il marzo 2027, edizione che festeggerà il decimo anniversario della manifestazione in Australia. Tra i musicisti e dj che saliranno sui palchi allestiti nella suggestiva cornice naturale dei Grampians, nello Stato di Victoria, figurano Patrick Mason, HAAi, CHRIS STASSY, Chlär, CLOUDY, Peach e X CLUB. L'evento attira ogni anno migliaia di cultori della musica elettronica e delle arti visive internazionali. Lo riferisce Billboard.",
+   "more": [
+    "I festival di musica elettronica e arti visive combinano installazioni scenografiche a cielo aperto ed esibizioni di artisti internazionali. La regione montuosa dei Grampians, in Australia, è celebre per i suoi paesaggi naturali che offrono una cornice suggestiva per manifestazioni culturali su più giorni."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/concerts/pitch-music-arts-2027-lineup-1236363410/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T05:57+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zaf104247",
+   "sez": "mondo",
+   "titolo": "I quesiti sulla sanità e i diritti al voto nei referendum di medio termine negli USA",
+   "orig": "STAT+: The key health care ballot measures we’re watching in the midterms",
+   "lead": "In occasione delle elezioni di medio termine negli Stati Uniti, gli elettori di diversi Stati saranno chiamati a esprimersi su importanti referendum dedicati all'assistenza sanitaria. Le consultazioni popolari riguardano questioni particolarmente divisive della società americana, tra cui l'ampliamento della copertura medica garantita dal programma pubblico Medicaid e le tutele per i diritti delle persone transgender. L'esito delle urne fornirà preziose indicazioni sulle posizioni dell'opinione pubblica statunitense in merito all'accesso alle cure e ai servizi sociosanitari. Lo riferisce STAT.",
+   "more": [
+    "Negli Stati Uniti i referendum statali che accompagnano le elezioni politiche permettono ai cittadini di votare direttamente su riforme legislative o emendamenti alle costituzioni locali, determinando in modo vincolante i requisiti di accesso ai programmi di assistenza sanitaria statali."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T08:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z4d6d1ec4",
+   "sez": "dibattito",
+   "titolo": "Il dibattito sulla violenza giovanile e le responsabilità del mondo adulto",
+   "orig": "Ci stupiamo se la violenza arriva tra i ragazzi? Il mondo adulto è il primo a mostrarla",
+   "lead": "Il tema degli episodi di violenza tra i giovani è al centro di una riflessione pubblica scaturita dalle immagini dei recenti scontri di piazza, dove si sono registrati lanci di petardi, cassonetti incendiati e oggetti scagliati contro le forze dell'ordine da parte di manifestanti incappucciati. Nel dibattito c'è chi pone l'accento sulla necessità inderogabile di accertare le responsabilità individuali, evidenziando anche la possibile infiltrazione di soggetti estranei ai cortei; al contempo, l'analisi sottolinea come tali comportamenti non vadano isolati, ma ricondotti all'esempio e ai modelli conflittuali espressi dalla società adulta. Lo riferisce Il Fatto Quotidiano.",
+   "more": [
+    "Le manifestazioni di piazza sfociate in tensioni accendono regolarmente il confronto tra le esigenze di ordine pubblico e l'analisi sociologica del disagio giovanile. Gli esperti e le istituzioni dibattono sulla prevenzione della devianza minorile e sui contesti educativi necessari per disinnescare la violenza urbana."
+   ],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/20/violenza-giovanile-proteste-studenti-adulti-notizie/8544198/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T10:23+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zaf3a203b",
+   "sez": "cultura",
+   "titolo": "Arte e natura per i più giovani alla Biennale di Abu Dhabi",
+   "orig": "Abu Dhabi Biennale Uses Art and Nature to Inspire Young Minds",
+   "lead": "La Biennale di Abu Dhabi punta a stimolare la creatività delle nuove generazioni unendo espressione artistica e ambiente naturale. All'interno del parco Umm Al Emarat sono state allestite installazioni interattive pensate per incoraggiare bambini e ragazzi a imparare attraverso il gioco, a esplorare il mondo della natura e a trovare modalità inedite per esprimere se stessi. Il progetto intende offrire uno spazio didattico e ricreativo aperto alla partecipazione attiva dei visitatori più giovani. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [
+    "I parchi urbani e le rassegne d'arte contemporanea integrano sempre più spesso percorsi sensoriali e laboratori all'aperto dedicati all'infanzia. L'obiettivo educativo consiste nel sensibilizzare il pubblico più giovane al rispetto dell'ambiente e alla fruizione culturale fin dalla prima età scolare, ricorrendo a forme di apprendimento non formale."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/abu-dhabi-biennale-uses-art-and-nature-to-inspire-young-minds",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-20T10:05+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zb2fccda5",
+   "sez": "economia",
+   "titolo": "Le ragioni dietro l'oscillazione dei prezzi alimentari negli Stati Uniti",
+   "orig": "Why are some food prices up and others down? Here are the stories of 5 items",
+   "lead": "Negli Stati Uniti l'andamento dei prezzi dei beni alimentari di uso comune continua a mostrare forti differenze a seconda del comparto. Mentre alcuni prodotti vedono crescere i propri costi al dettaglio, altri registrano cali significativi. Un'analisi su cinque alimenti quotidiani, tra cui la carne macinata di manzo, le uova e i biscotti con gocce di cioccolato, illustra i diversi fattori produttivi e distributivi che determinano i rincari o le riduzioni sui cartellini della spesa delle famiglie. Lo riferisce NPR.",
+   "more": [
+    "I prezzi degli alimenti possono variare notevolmente a causa di molteplici fattori congiunturali. Tra questi figurano l'andamento dei raccolti agricoli, il costo dell'energia per la lavorazione e il trasporto, la diffusione di patologie veterinarie negli allevamenti e le variazioni della domanda dei consumatori sul mercato interno e globale."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T05:00-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z1149a9cb",
+   "sez": "cultura",
+   "titolo": "«Romanzo criminale» debutta in forma di opera lirica a Firenze",
+   "orig": "'Romanzo criminale' diventa un'opera lirica, De Cataldo: 'E' un sogno che si avvera'",
+   "lead": "L'opera letteraria «Romanzo criminale» approda sul palcoscenico operistico con il debutto in prima assoluta previsto al Teatro del Maggio il 23 ottobre. La direzione musicale è affidata a Nicola Piovani sul podio, mentre la regia dello spettacolo è curata da Massimo Popolizio. L'autore Giancarlo De Cataldo ha accolto con entusiasmo la trasposizione teatrale del suo celebre testo, definendo la realizzazione di questo adattamento lirico come il concretizzarsi di un autentico sogno artistico. Lo riferisce ANSA.",
+   "more": [
+    "La trasposizione di romanzi contemporanei o opere teatrali in forma di melodramma rappresenta una pratica consolidata nella storia della lirica. Questa operazione permette di esplorare tematiche civili e vicende storiche recenti attraverso il linguaggio musicale colto e la recitazione scenica tipica del teatro d'opera."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/10/19/romanzo-criminale-diventa-unopera-lirica-de-cataldo-e-un-sogno-che-si-avvera_f649ba6e-3983-4b46-97c8-d483c40396c8.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T09:22+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z03745590",
+   "sez": "economia",
+   "titolo": "Egitto, il governo sollecita i giovani a puntare sulle competenze digitali",
+   "orig": "Investment Minister urges youth to embrace technology, continuous learning to seize job opportunities",
+   "lead": "Il ministro dell'Investimento e del Commercio estero egiziano, Mohamed Farid Saleh, ha invitato i giovani ad abbracciare l'innovazione tecnologica e la formazione continua per cogliere le occasioni offerte dal mercato del lavoro. Intervenendo lunedì 19 ottobre 2026, il ministro ha sottolineato come la rapida evoluzione dell'intelligenza artificiale e dei servizi digitali stia aprendo nuove strade per creare imprese ed espandere le proprie competenze, rendendo indispensabile l'acquisizione di conoscenze pratiche aggiornate per rispondere alle richieste economiche emergenti. Lo riferisce Egypt Independent.",
+   "more": [
+    "I mercati del lavoro contemporanei richiedono una costante riconversione delle abilità professionali a fronte della diffusione massiccia di automazione e tecnologie dell'informazione. I programmi di formazione continua mirano a ridurre il divario tra la preparazione accademica e le concrete necessità delle aziende."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/investment-minister-urges-youth-to-embrace-technology-continuous-learning-to-seize-job-opportunities/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-20T09:32+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z24484735",
+   "sez": "sport",
+   "titolo": "Basket africano, il KPA si riscatta nella Zone Five",
+   "orig": "KPA bounce back as Equity Hawks suffer second loss in Zone Five",
+   "lead": "Nel torneo regionale Zone Five di pallacanestro, i campioni nazionali in carica del Kenya Premier League, il KPA, sono tornati al successo sconfiggendo la formazione del Dynamo nel Gruppo A. La vittoria ha consentito alla squadra di lasciarsi alle spalle la pesante battuta d'arresto subita nel match inaugurale, perso 95-79 contro i ruandesi del REG. Nella medesima competizione, un'altra rappresentante kenyota, le Equity Hawks, ha invece incassato la sua seconda sconfitta. Lo riferisce Citizen Digital.",
+   "more": [
+    "I tornei per club organizzati a livello zonale costituiscono passaggi fondamentali nella pallacanestro africana per determinare le gerarchie sportive regionali e qualificare le migliori formazioni alle principali competizioni continentali promosse dalla federazione internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/kenyan-sides-kenya-ports-authority-kpa-and-equityhawks-recorded-mixed-results-on-day-three-of-the-n392381",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T08:32+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zecbd0ff0",
+   "sez": "ingegneria",
+   "titolo": "McLaughlin & Harvey scelta per i lavori al porto di Dover",
+   "orig": "McLaughlin & Harvey picked for Dover port frameworks",
+   "lead": "L'impresa di costruzioni McLaughlin & Harvey è stata selezionata per entrare a far parte del nuovo accordo quadro destinato agli appaltatori dei progetti presso il porto di Dover. La nomina giunge dopo la conclusione delle opere realizzate la scorsa estate con Boskalis Westminster per il rilancio dei bacini occidentali dello scalo britannico. L'intesa consentirà all'azienda di partecipare ai futuri interventi di ammodernamento e sviluppo infrastrutturale dell'area portuale. Lo riferisce Construction Index.",
+   "more": [
+    "Gli accordi quadro nel settore delle grandi opere infrastrutturali consentono alle autorità portuali di affidare interventi complessi a partner edili qualificati in tempi rapidi, garantendo la continuità dei lavori di manutenzione, ampliamento delle banchine e adeguamento dei terminal commerciali."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/mclaughlin-harvey-picked-for-dover-port-frameworks",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T07:44+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zc662e99b",
+   "sez": "cultura",
+   "titolo": "«The Cycle», un dramma familiare tra anatomia e orrore sovrannaturale",
+   "orig": "The Cycle review – forensic scientist autopsies her dad in grisly psychodrama that turns supernatural",
+   "lead": "Il film «The Cycle» segue la vicenda di una scienziata forense impegnata a eseguire l'autopsia sul corpo del proprio padre, in un cupo psicodramma che a metà narrazione vira verso il genere horror vero e proprio con sequenze sovrannaturali. L'opera sfrutta una dettagliata sequenza di metamorfosi ricca di effetti speciali, sebbene la parte visiva legata alla creatura mostri talvolta soluzioni plastiche simili alla stampa tridimensionale, attenuando gradualmente l'interesse iniziale riposto nelle complesse dinamiche familiari dei protagonisti. Lo riferisce The Guardian – Cinema.",
+   "more": [
+    "Il cinema horror contemporaneo sperimenta sovente la contaminazione tra dramma psicologico e sovrannaturale, impiegando la figura del mostro come metafora visiva di traumi irrisolti o di legami familiari conflittuali all'interno di scenari scientifici o investigativi."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/20/the-cycle-review-forensic-scientist-autopsies-her-dad-in-grisly-psychodrama-that-turns-supernatural",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T06:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "za17df1e7",
+   "sez": "musica",
+   "titolo": "Gli Angine de Poitrine convincono dal vivo a Londra",
+   "orig": "Angine de Poitrine live in London: alien pair are out of this world",
+   "lead": "Il duo math rock Angine de Poitrine si è esibito in concerto alla sala Troxy di Londra il 19 ottobre 2026, confermando le proprie qualità musicali davanti al pubblico. Sebbene il concept ispirato a figure aliene susciti una forte curiosità e attiri numerosi spettatori, la prova dal vivo ha evidenziato come il vero punto di forza della band risieda nella solida perizia tecnica e nella complessità delle loro esecuzioni strumentali sul palco. Lo riferisce NME.",
+   "more": [
+    "Il math rock è un sottogenere del rock alternativo caratterizzato da strutture ritmiche complesse e asimmetriche, frequenti cambi di tempo e intrecci strumentali elaborati, che richiedono un elevato livello di coordinazione tecnica da parte dei musicisti durante le esibizioni dal vivo."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/reviews/live/angine-de-poitrine-troxy-london-live-review-setlist-photos-3973587?utm_source=rss&utm_medium=rss&utm_campaign=angine-de-poitrine-troxy-london-live-review-setlist-photos",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T10:15+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "za16abc27",
+   "sez": "dibattito",
+   "titolo": "Usa, discussione sulle tutele dell'orario di lavoro per i medici specializzandi",
+   "orig": "Opinion: Resident physicians may lose some of their most important work hour protections",
+   "lead": "Negli Stati Uniti si discute della possibile cancellazione di alcune tutele fondamentali relative agli orari dei medici specializzandi negli ospedali. L'argomento coinvolge l'organizzazione della sanità e la sostenibilità dei turni. Secondo la posizione del medico Arifeen Rahman, è indispensabile mantenere barriere rigorose a separazione dei turni più pesanti, poiché il carico fisico, intellettuale ed emotivo rischia di generare l'esaurimento psico-fisico degli specializzandi. La questione riguarda la ricerca del giusto equilibrio tra le esigenze pratiche dei reparti e la salvaguardia della salute e del riposo dei giovani sanitari. Lo riferisce STAT.",
+   "more": [
+    "La regolamentazione degli orari dei medici in formazione rappresenta un nodo centrale nei sistemi ospedalieri moderni. Turni prolungati oltre determinati limiti possono ridurre la concentrazione e aumentare il rischio di errori clinici, incidendo sulla sicurezza delle cure fornite ai ricoverati."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T08:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z935be64f",
+   "sez": "dibattito",
+   "titolo": "Italia, le posizioni divergenti sui metodi di piazza nelle chat delle proteste",
+   "orig": "“Spaccare tutto giova a Meloni e Vannacci”, “meglio, così cresce la rabbia”: ecco la chat di chi protesta in piazza",
+   "lead": "In Italia si discute sulle forme di lotta politica da adottare durante le manifestazioni di piazza, alla luce di alcuni scambi interni a una chat tra attivisti. Un orientamento contesta i saccheggi, le devastazioni e le vetrine distrutte, sostenendo che gli episodi violenti finiscano per rafforzare sul piano del consenso il governo guidato da Giorgia Meloni e l'esponente politico Roberto Vannacci. All'opposto, una componente favorevole alla radicalizzazione ritiene che le azioni distruttive rappresentino la via della rivoluzione e alimentino la rabbia sociale, considerando prive di differenze la destra e la sinistra istituzionali. Lo riferisce Il Fatto Quotidiano.",
+   "more": [
+    "Il dibattito sull'efficacia delle manifestazioni pacifiche rispetto all'azione diretta radicale attraversa da decenni i movimenti di protesta sociale. La riflessione verte principalmente sulla capacità di attrarre consenso popolare verso le rivendicazioni o sul rischio di isolare politicamente le istanze sollevate."
+   ],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/20/movimento-17-ottobre-chat-telegram-manifestanti-notizie/8543181/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T10:13+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z597fbb56",
+   "sez": "ambiente",
+   "titolo": "Il Dna antico rivela un gigante sconosciuto dell'era glaciale in Siberia",
+   "orig": "Ancient DNA Uncovers a Lost Ice Age Giant in Siberia",
+   "lead": "Le analisi sul Dna antico hanno consentito a una squadra di scienziati di identificare una nuova specie animale risalente all'ultima era glaciale nei territori della Siberia. La scoperta è stata effettuata partendo da piccolissimi frammenti ossei fossili databili a decine di migliaia di anni fa. L'organismo individuato presentava tratti fisici affini a quelli dell'odierno yak ed è rimasto a lungo ignoto ai paleontologi, aprendo nuove prospettive sulla biodiversità della megafauna pleistocenica. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [
+    "Le moderne tecniche di estrazione e sequenziamento genomico da reperti ossei degradati consentono di ricostruire la mappa evolutiva di specie estinte da millenni, aiutando a comprendere come i grandi mammiferi rispondevano ai cambiamenti climatici e ambientali del passato geologico."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/ancient-dna-uncovers-a-lost-ice-age-giant-in-siberia",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-20T09:41+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z6db1d342",
+   "sez": "mondo",
+   "titolo": "Indonesia, Prabowo festeggia due anni di mandato tra crescita e nuove sfide",
+   "orig": "Indonesian President Prabowo marks 2 years in office with economic gains, but challenges loom",
+   "lead": "Il presidente indonesiano Prabowo Subianto compie due anni di governo registrando significativi progressi sul fronte economico, mentre si prepara ad affrontare il terzo anno del suo mandato presidenziale. Secondo gli analisti, la sfida principale per l'amministrazione consisterà nel tramutare le ambiziose riforme promesse in traguardi concreti e visibili per la popolazione, mantenendo un attento equilibrio tra le aspettative dei cittadini, le esigenze di stabilità politica e la tenuta economica del Paese. Lo riferisce CNA.",
+   "more": [
+    "L'Indonesia è la maggiore economia del Sud-Est asiatico e un membro chiave dell'Asean. La sua stabilità interna e i tassi di sviluppo dipendono ampiamente dalla capacità di attirare investimenti esteri nelle infrastrutture, gestendo al contempo le forti disparità sociali nell'arcipelago."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-subianto-2-years-in-office-economic-gains-challenges-6474906",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-20T18:26+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zeb873c11",
+   "sez": "sport",
+   "titolo": "La calciatrice keniota Calta Nasambu approda nel massimo campionato turco",
+   "orig": "Calta Nasambu secures move to Turkish Women's Football Super League",
+   "lead": "La calciatrice kenyota ventunenne Calta Nasambu giocherà nella Turkish Women's Football Super League, il massimo campionato femminile della Turchia. L'atleta, che in passato ha militato nel Barcelona Ladies SC a Laikipia prima di trasferirsi al Kayole Starlets nel febbraio 2026, è partita per la Turchia lunedì 20 ottobre per unirsi alla sua nuova squadra. Il contratto stipulato sarà valido dall'ottobre 2026 fino alla conclusione della stagione fissata per il maggio 2027, con un'opzione di rinnovo. Lo riferisce Citizen Digital.",
+   "more": [
+    "Il movimento calcistico femminile internazionale sta registrando una progressiva espansione del mercato dei trasferimenti, con un crescente numero di atlete africane ingaggiate nei campionati europei grazie a prestazioni di rilievo nelle competizioni nazionali e continentali."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/calta-nasambu-secures-move-to-turkish-womens-football-super-league-n392379",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T07:32+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zd9d4997d",
+   "sez": "tech",
+   "titolo": "Sudafrica, un sistema digitale per tracciare la profilassi contro l'Hiv",
+   "orig": "South Africa: From First Jab to the Next - The Data System Tracking South Africa's LEN Roll-Out",
+   "lead": "In Sudafrica la somministrazione semestrale delle iniezioni per la prevenzione dell'Hiv tramite lenacapavir (LEN) viene supportata da una nuova rete digitale di monitoraggio. Il sistema collega le diverse cliniche per registrare se gli utenti si presentano regolarmente all'appuntamento per la dose successiva, per controllare in tempo reale le scorte di farmaco disponibili e per identificare chi rischia di interrompere la profilassi. L'innovazione tecnologica mira a garantire continuità al programma di salute pubblica. Lo riferisce allAfrica.",
+   "more": [
+    "I farmaci antiretrovirali a lunga durata d'azione rappresentano un importante passo avanti nelle strategie preventive contro il virus dell'Hiv. L'impiego di piattaforme telematiche centralizzate consente di ottimizzare la logistica sanitaria e contenere il fenomeno dell'abbandono delle terapie."
+   ],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610200218.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T05:49+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z4dc7d93f",
+   "sez": "mondo",
+   "titolo": "I superstiti dell'alluvione di Timure trascorrono il Dashain sfollati a Kathmandu",
+   "orig": "For Timure’s flood survivors, Dashain brings memories of the lives they lost",
+   "lead": "Per i sopravvissuti alle devastanti alluvioni causate dalle piene del fiume Bhotekoshi a Timure, le celebrazioni della tradizionale festività del Dashain sono segnate dal ricordo doloroso delle perdite subite. Circa 111 famiglie sfollate stanno trascorrendo il periodo di festa all'interno di un monastero a Kathmandu, portando il lutto per la scomparsa dei propri cari e attendendo nell'incertezza indicazioni sulle tempistiche e sulle possibilità concrete di fare ritorno alle proprie case distrutte. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il festival del Dashain è la più importante ricorrenza religiosa e culturale del calendario nepalese, tradizionalmente dedicata alla riunione dei nuclei familiari. Gli eventi meteorologici estremi nell'Himalaya provocano con frequenza dissesti idrogeologici che lasciano intere comunità prive di rifugio."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/20/for-timure-s-flood-survivors-dashain-brings-memories-of-the-lives-they-lost",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z685d2442",
+   "sez": "economia",
+   "titolo": "Patrizia acquisisce 24 supermercati Lidl in Italia, Francia e Spagna",
+   "orig": "Patrizia acquisisce 24 supermercati Lidl per oltre 160 milioni tra Italia Francia e Spagna",
+   "lead": "La società di gestione degli investimenti in beni reali Patrizia ha finalizzato l'acquisizione di un portafoglio immobiliare composto da ventiquattro supermercati a marchio Lidl di recente apertura, situati tra Italia, Francia e Spagna. Il controvalore finanziario complessivo dell'operazione transnazionale supera i 160 milioni di euro. L'operazione rafforza la presenza del gestore nel segmento degli immobili commerciali destinati alla grande distribuzione organizzata nei mercati dell'Europa occidentale. Lo riferisce Il Sole 24 Ore – Casa24.",
+   "more": [
+    "Gli investimenti nel settore immobiliare commerciale legato alla distribuzione alimentare sono considerati difensivi dai grandi fondi internazionali, poiché la domanda di beni di prima necessità mantiene flussi di cassa stabili anche in fasi di rallentamento dell'economia generale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore – Casa24",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/patrizia-acquisisce-24-supermercati-lidl-oltre-160-milioni-italia-francia-e-spagna-AJf1s0oB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T07:50+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "ze0047444",
+   "sez": "salute",
+   "titolo": "Dall'Australia un sistema di editing genetico per regolare le terapie cellulari",
+   "orig": "Clinician-led approach could give doctors a control dial for cell therapies",
+   "lead": "Un gruppo di ricerca guidato da medici australiani ha sviluppato una nuova piattaforma di editing genetico concepita per fornire al personale sanitario un meccanismo di controllo più preciso sulle terapie cellulari. L'innovazione tecnologica opera come un selettore graduato, consentendo di modulare l'attività delle cellule reintrodotte nell'organismo e rendendo questi trattamenti avanzati maggiormente praticabili ed efficaci per i pazienti affetti da patologie immunitarie particolarmente complesse. Lo riferisce Medical Xpress.",
+   "more": [
+    "Le terapie cellulari avanzate consistono nell'ingegnerizzare cellule umane per contrastare patologie gravi, ma presentano spesso il rischio di risposte immunitarie incontrollate. Sistemi di regolazione fine permettono ai medici di gestire tempestivamente l'intensità della risposta terapeutica."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-clinician-approach-doctors-dial-cell.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T05:52-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z57a3f4ca",
+   "sez": "dibattito",
+   "titolo": "Milano, prosciolti due studenti minorenni per gli scontri dopo il corteo pro-Pal",
+   "orig": "Scontri in Centrale dopo il corteo pro-Pal, prosciolti due studenti minorenni: reati estinti dopo la messa alla prova",
+   "lead": "A Milano si torna a discutere delle sanzioni penali legate alle tensioni durante le manifestazioni studentesche, dopo il proscioglimento di due giovani che erano stati arrestati il 22 settembre 2025 all'età di 17 anni. I fatti risalgono agli scontri avvenuti alla stazione Centrale al termine di un corteo a sostegno di Gaza e della Palestina. Le accuse contestate erano di resistenza a pubblico ufficiale aggravata e danneggiamento. Il Tribunale per i minorenni ha dichiarato l'estinzione dei reati in seguito al buon esito del percorso di messa alla prova. Lo riferisce Il Fatto Quotidiano.",
+   "more": [
+    "L'istituto della messa alla prova nel processo penale minorile consente la sospensione del procedimento giudiziario a fronte di un percorso rieducativo e di svolgimento di attività socialmente utili. Il completamento positivo porta all'estinzione del reato contestato."
+   ],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/20/scontri-centrale-milano-minorenni-prosciolti-notizie/8544192/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T10:02+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zd4514e14",
+   "sez": "ambiente",
+   "titolo": "Isole Salomone, il governo chiede l'intervento del Consiglio dei ministri per la siccità",
+   "orig": "Government to seek Cabinet support for drought response",
+   "lead": "Nelle Isole Salomone il governo ha annunciato l'intenzione di richiedere un intervento formale al Consiglio dei ministri per approvare un piano organico di risposta alla grave siccità che colpisce l'arcipelago pacifico. Il prolungato periodo di carenza idrica sta creando forti disagi alle popolazioni e all'agricoltura locale, spingendo le istituzioni nazionali a sollecitare risorse di emergenza e un sostegno coordinato tra i vari dicasteri per contrastare gli effetti del fenomeno climatico. Lo riferisce SIBC.",
+   "more": [
+    "Le nazioni insulari del Pacifico presentano una vulnerabilità elevata agli sbalzi meteoclimatici. La siccità prolungata esaurisce rapidamente le scarse riserve d'acqua dolce sotterranea e l'acqua piovana raccolta, minacciando le coltivazioni di sussistenza e i servizi primari."
+   ],
+   "fonti": [
+    {
+     "n": "SIBC",
+     "p": "XX",
+     "c": "Honiara",
+     "u": "https://www.sibconline.com.sb/government-to-seek-cabinet-support-for-drought-response/",
+     "angolo": "",
+     "atlas": "Solomon Is.",
+     "t": "2026-10-20T07:05+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z6daf7ca1",
+   "sez": "economia",
+   "titolo": "Apec, Hong Kong sollecita alleanze economiche globali contro le crisi",
+   "orig": "Economic alliances 'key as global challenges evolve'",
+   "lead": "In occasione della riunione dei ministri delle Finanze dell'Apec tenutasi martedì, il segretario per i Servizi finanziari e il Tesoro di Hong Kong, Christopher Hui, ha richiamato le economie internazionali alla cooperazione per garantire una prosperità durevole. Nel corso di un seminario sui finanziamenti al commercio, alle catene di fornitura e alla sostenibilità ambientale, Hui ha sottolineato l'importanza del confronto tra regolatori, esperti e dirigenti aziendali dell'area asiatica per rafforzare la resilienza finanziaria di fronte all'evoluzione delle sfide geopolitiche ed economiche. Lo riferisce RTHK.",
+   "more": [
+    "L'Asia-Pacific Economic Cooperation (Apec) è un forum economico intergovernativo istituito per promuovere il libero commercio, gli investimenti e la cooperazione tra i Paesi che si affacciano sull'Oceano Pacifico, incentivando pratiche finanziarie sostenibili a livello globale."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874604-20261020.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T16:31+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zafd6cd08",
+   "sez": "cultura",
+   "titolo": "I Seventeen primi nella classifica asiatica dei tour con 97 milioni di dollari",
+   "orig": "Seventeen tops Pollstar Asia touring chart with $97m in revenue",
+   "lead": "Il gruppo musicale sudcoreano Seventeen ha conquistato la vetta della classifica Pollstar relativa alle tournée in Asia, generando entrate per 97,4 milioni di dollari attraverso la vendita di 661.088 biglietti. I dati pubblicati dall'organo di settore statunitense fanno riferimento all'Asia Focus Charts per il periodo compreso tra il primo agosto 2025 e il 31 luglio 2026. La band ha migliorato la prestazione dell'annata precedente, quando si era posizionata al secondo posto dietro la formazione britannica dei Coldplay. Lo riferisce The Korea Herald.",
+   "more": [
+    "L'industria del K-pop genera introiti ingenti attraverso tournée mondiali che riempiono gli stadi dell'intera regione asiatica e occidentale. Le classifiche di incasso testimoniano l'influenza economica globale assunta dai gruppi musicali sudcoreani nel settore dell'intrattenimento dal vivo."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10909037",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z33f31c82",
+   "sez": "mondo",
+   "titolo": "Germania, hacker sottraggono oltre 400 mila email del partito AfD",
+   "orig": "Hackers steal 421,000 emails belonging to members of Germany's far-right AfD party",
+   "lead": "In Germania un gruppo di pirati informatici ha sottratto circa 421.000 messaggi di posta elettronica appartenenti a membri del partito di estrema destra Alternative für Deutschland (AfD). Al momento non è stata resa nota l'identità dei responsabili dell'attacco cibernetico, né è stato chiarito se siano stati compromessi ulteriori dati riservati oltre ai messaggi di corrispondenza sottratti dai server interni della formazione politica. Le autorità mantengono il riserbo sull'ampiezza complessiva della violazione informatica. Lo riferisce Euronews.",
+   "more": [
+    "Gli attacchi informatici ai danni di organizzazioni e partiti politici costituiscono un fenomeno in forte crescita a livello internazionale. Tali intrusioni possono mirare all'esfiltrazione di informazioni riservate, al ricatto o al condizionamento del dibattito pubblico attraverso fughe di notizie strategiche."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/20/hackers-steal-421000-emails-belonging-to-members-of-germanys-far-right-afd-party",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T11:41+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z82e7c50a",
+   "sez": "cultura",
+   "titolo": "Francis Kurkdjian riproduce in miniatura un teatro del Seicento nell'era dell'IA",
+   "orig": "Perfumer Francis Kurkdjian on handcrafting a miniature 17th-century theatre in the age of AI",
+   "lead": "In occasione della campagna natalizia della Maison Francis Kurkdjian, il celebre profumiere ha realizzato a mano una fedele riproduzione in miniatura dello storico Théâtre de la Reine di Versailles. Intervistato, il creatore ha descritto il progetto come una celebrazione autentica dell'artigianato umano, ponendo l'accento sul valore della manualità tradizionale in un'epoca dominata dal rapido sviluppo dell'intelligenza artificiale e dalla produzione digitale standardizzata. Lo riferisce Wallpaper*.",
+   "more": [
+    "L'artigianato di precisione e l'alta profumeria condividono una lunga tradizione legata al patrimonio artistico francese del Sei e Settecento. Il richiamo all'opera manuale evidenzia la ricerca di unicità estetica in contrapposizione alle tecniche di rendering automatizzate."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/fashion-beauty/fragrance/francis-kurkdjian-2026-holiday-campaign-bts",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T10:27+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z9d8dfb37",
+   "sez": "musica",
+   "titolo": "Regno Unito, Sam Fender diffonde indizi sul tour negli stadi del 2027",
+   "orig": "Has Sam Fender shared the locations of his 2027 UK stadium tour?",
+   "lead": "Il cantautore britannico Sam Fender ha diffuso sui propri canali promozionali alcuni indizi che sembrano svelare le tappe del suo futuro tour negli stadi del Regno Unito, in programma per il 2027. Attraverso la citazione «The Beacons Are Lit!» («I fuochi di segnalazione sono accesi!»), il musicista ha catturato l'attenzione del pubblico e degli appassionati, alimentando le attese su un imminente annuncio formale delle città che ospiteranno i suoi grandi concerti all'aperto nei prossimi anni. Lo riferisce NME.",
+   "more": [
+    "I tour musicali negli stadi richiedono una pianificazione anticipata di diversi anni per ragioni logistiche, di sicurezza e di disponibilità delle grandi arene sportive, con strategie promozionali che precedono di molto l'apertura delle vendite dei biglietti."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/music/has-sam-fender-shared-the-locations-of-his-2027-uk-stadium-tour-3973564?utm_source=rss&utm_medium=rss&utm_campaign=has-sam-fender-shared-the-locations-of-his-2027-uk-stadium-tour",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T08:50+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zfb39d901",
+   "sez": "salute",
+   "titolo": "Cirrosi alcolica, controlli sistematici estendono la vita contro il tumore epatico",
+   "orig": "Routine liver cancer checks could extend lives below current screening thresholds for alcohol-related cirrhosis",
+   "lead": "Uno studio condotto dai ricercatori del Mass General Brigham indica che effettuare controlli periodici per il tumore al fegato si rivela efficace per allungare la vita e sostenibile sul piano economico nei pazienti con cirrosi legata al consumo di alcol. Il beneficio si mantiene anche quando il rischio annuo individuale di sviluppare la neoplasia risulta inferiore a meno della metà rispetto ai livelli di guardia indicati dalle attuali linee guida sanitarie per avviare lo screening diagnostico. Lo riferisce Medical Xpress.",
+   "more": [
+    "Il cancro primitivo del fegato, come l'epatocarcinoma, si sviluppa frequentemente su tessuti affetti da cirrosi epatica cronica. La diagnosi precoce mediante ecografia periodica permette di individuare le lesioni tumorali in stadi iniziali, quando le opzioni di trattamento sono più efficaci."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-routine-liver-cancer-current-screening.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T05:50-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z7c023452",
+   "sez": "cultura",
+   "titolo": "La storia del contenitore per il cibo cinese da asporto negli Stati Uniti",
+   "orig": "Behind the carton: the story of the classic US Chinese takeaway container",
+   "lead": "La scatola bianca in cartone piegato a trapezio, talvolta provvista di manico in filo metallico o decorata con la sagoma rossa di una pagoda orientale, rappresenta un'icona riconosciuta dei ristoranti cinesi da asporto. Sebbene contenga preparazioni tipiche, l'oggetto è a tutti gli effetti un'invenzione statunitense. Il design combina l'ingegno industriale americano con l'influenza delle culture immigrate e la ricerca di praticità nel consumo dei pasti casalinghi, diventando un elemento radicato nelle abitudini alimentari nazionali. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Il packaging alimentare per il cibo d'asporto è nato per consentire il trasporto sicuro e l'isolamento termico delle vivande. Il contenitore a scatola piegata è divenuto nel tempo un simbolo visivo ampiamente diffuso nella cultura popolare e nel cinema."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/food-drink/article/3371450/behind-carton-story-classic-us-chinese-takeaway-container",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T10:15+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z66e34f2e",
+   "sez": "mondo",
+   "titolo": "Tirana, gli studenti espongono le foto dei tafferugli sulla sede del governo",
+   "orig": "Refuzuan ftesën për dialog, protestuesit ngjisin në muret e Kryeministrisë foto nga përplasjet me policinë (VIDEO)",
+   "lead": "A Tirana è proseguita in modo pacifico la protesta degli studenti universitari, ai quali martedì si sono uniti anche i docenti per rafforzare la mobilitazione. Dopo aver respinto un invito al dialogo formulato dalle autorità, i manifestanti hanno attaccato sulle pareti esterne della sede del primo ministro una serie di fotografie che testimoniano le violenze e le cariche subite da parte delle forze dell'ordine negli otto giorni precedenti di tafferugli, accompagnando le immagini con scritte di dissenso. I contestatori chiedono riforme educative. Lo riferisce Euronews Albania.",
+   "more": [
+    "Le proteste universitarie in Albania hanno più volte coinvolto ampie fasce del corpo docente e studentesco per contestare riforme dell'istruzione superiore, aumenti delle tasse universitarie e la gestione dei fondi destinati agli atenei pubblici nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/refuzuan-ftesen-per-dialog-protestuesit-ngjisin-ne-muret-e-kryeministrise-foto-nga-perplasjet-me-policine-video/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-20T09:56+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z4aa1cdf0",
+   "sez": "ambiente",
+   "titolo": "Il Kirghizistan sostiene alla COP17 la tutela degli ecosistemi montani",
+   "orig": "Kyrgyzstan advocates for biodiversity conservation in high-mountain ecosystems at COP17",
+   "lead": "Il Kirghizistan ha formalizzato il proprio impegno per promuovere la conservazione della biodiversità negli ecosistemi montani ad alta quota in occasione della conferenza COP17. Le autorità del Paese centroasiatico intendono richiamare l'attenzione dei delegati globali sulla fragilità degli habitat d'altitudine, particolarmente vulnerabili alle mutazioni climatiche e alle pressioni ambientali, sollecitando strategie di salvaguardia multilaterali a tutela delle specie vegetali e animali caratteristiche delle aree montane. Lo riferisce AKIpress.",
+   "more": [
+    "Gli ecosistemi montani ospitano una parte rilevante della biodiversità terrestre e fungono da riserve idriche essenziali. A causa del riscaldamento globale, lo scioglimento dei ghiacciai e la perdita di habitat alpini minacciano gli equilibri naturali di intere regioni contigue."
+   ],
+   "fonti": [
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:926099",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-20T16:23+06:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z67b7f597",
+   "sez": "economia",
+   "titolo": "Chisinau, salari bassi e pochi giovani docenti mettono in crisi la scuola",
+   "orig": "Shortage of young specialists and low wages. The challenges in education were discussed at a municipal forum in Chisinau",
+   "lead": "In un forum municipale tenutosi a Chisinau sono state esaminate le criticità strutturali del comparto educativo moldavo, segnato dalla carenza di giovani professionisti e da retribuzioni ridotte. Dai dati presentati emerge che nell'anno scolastico 2025-2026 appena il 7,5% del personale docente e direttivo negli istituti possiede un'età inferiore ai 30 anni, mentre oltre il 22% degli insegnanti ha raggiunto o superato la soglia dei 60 anni. La scarsa attrattività economica ostacola il necessario ricambio generazionale tra le cattedre. Lo riferisce IPN.",
+   "more": [
+    "L'invecchiamento del corpo insegnante e la fuga dei laureati verso impieghi più remunerativi all'estero o nel settore privato rappresentano un problema comune a diverse nazioni dell'Europa orientale, incidendo sulla continuità didattica e sull'innovazione dei metodi formativi scolastici."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/shortage-of-young-specialists-and-low-wages-the-challenges-in-education-were-discussed-at-a-municipal-forum-in-chisinau/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-20T10:21+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z4692ae9b",
+   "sez": "cultura",
+   "titolo": "La mostra \"Thinking Hands\" nei Paesi Bassi esplora il legame tra mente e corpo",
+   "orig": "What does it mean to have a disconnect between the mind and the body? A Netherlands exhibition finds out",
+   "lead": "Nei Paesi Bassi lo spazio Thea, una realtà dedicata all'incontro tra espressione artistica e tecnologia, presenta la mostra intitolata Thinking Hands. L'esposizione riunisce diversi artisti chiamati a riflettere sul significato della disconnessione tra mente e corpo umano, concentrandosi in particolare sull'impatto che il senso del tatto e il contatto fisico esercitano sull'esperienza individuale. Attraverso le opere selezionate, il progetto indaga le conseguenze della separazione sensoriale nella società contemporanea e invita il pubblico a considerare il valore della dimensione corporea. Lo riferisce Wallpaper*.",
+   "more": [
+    "Il rapporto tra corpo e mente rappresenta da secoli un tema centrale nella filosofia e nelle scienze cognitive. Negli ultimi decenni, con l'avvento degli ambienti digitali e della comunicazione a distanza, molti teorici e creativi hanno analizzato come l'interazione virtuale modifichi la percezione tattile e la presenza fisica, ridefinendo il nostro modo di apprendere, comunicare e sviluppare relazioni empatiche."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/art/exhibitions-shows/thinking-hands-thea-netherlands-review",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T09:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z2a9b9811",
+   "sez": "tech",
+   "titolo": "Case pieghevoli e prefabbricate: i dubbi sulla reale soluzione al caro affitti",
+   "orig": "Si comprano online e si aprono in poche ore: le case pieghevoli o capsule house sono davvero la risposta al caro affitti?",
+   "lead": "Le case pieghevoli e le capsule house prefabbricate vengono proposte sempre più spesso come un'alternativa economica per fronteggiare la crisi abitativa e l'aumento degli affitti. Queste strutture modulari possono essere acquistate tramite internet, trasportate a bordo di un camion e montate in poche ore nel corso di un pomeriggio, a un prezzo nettamente inferiore rispetto a quello degli immobili tradizionali. Tuttavia, la loro reale praticità e sostenibilità dipendono da vincoli normativi, costi accessori e permessi edilizi necessari per l'installazione definitiva. Lo riferisce Focus.",
+   "more": [
+    "Il modello dell'edilizia prefabbricata modulare mira a ridurre i tempi di costruzione e l'impatto dei cantieri tradizionali attraverso componenti standardizzati realizzati in fabbrica. Ciononostante, nella maggior parte dei Paesi, l'uso residenziale di queste unità richiede la conformità ai piani regolatori urbanistici, l'allacciamento alle reti idriche ed elettriche e il rilascio di specifiche autorizzazioni edilizie per garantire sicurezza e abitabilità."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/focus-offerte/si-comprano-online-e-si-aprono-in-poche-ore-la-verita-sulle-case-pieghevoli-prefabbricate",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T11:00+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zf4d0e691",
+   "sez": "musica",
+   "titolo": "Rachel Chinouriri racconta il suo passato nel nuovo album \"I Think I Spoke Too Soon\"",
+   "orig": "Rachel Chinouriri embraces her party girl past on ‘I Think I Spoke Too Soon’: “I don’t have to demonise that experience”",
+   "lead": "La cantautrice indie-pop britannica Rachel Chinouriri ha presentato il suo secondo album in studio, intitolato I Think I Spoke Too Soon. All'interno del nuovo progetto discografico, l'artista ha scelto di ripercorrere e rielaborare le esperienze giovanili legate alle notti trascorse sulle piste da ballo, spiegando di non voler più demonizzare quella fase della propria esistenza. L'opera musicale segna un momento di maturazione personale per la musicista, che punta a lasciarsi alle spalle i periodi più turbolenti per aprirsi a prospettive più equilibrate. Lo riferisce NME.",
+   "more": [
+    "La musica indie-pop contemporanea unisce spesso melodie orecchiabili a testi introspettivi e autobiografici. Molti artisti emergenti utilizzano la scrittura musicale come strumento di riflessione personale, affrontando apertamente temi complessi quali la salute mentale, il superamento delle fragilità del passato e la ricerca di un equilibrio nella vita adulta all'interno dell'industria discografica moderna."
+   ],
+   "fonti": [
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/features/music-interviews/rachel-chinouriri-i-think-i-spoke-too-soon-interview-3973538?utm_source=rss&utm_medium=rss&utm_campaign=rachel-chinouriri-i-think-i-spoke-too-soon-interview",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T08:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z6dbcf690",
+   "sez": "salute",
+   "titolo": "Gli ultrasuoni cerebrali mirati possono attenuare i deliri nella schizofrenia",
+   "orig": "Gentle brain ultrasound may help ease delusions in schizophrenia",
+   "lead": "I primi risultati di una sperimentazione clinica indicano che l'applicazione mirata di onde sonore a bassa intensità in una regione profonda del cervello può ridurre in modo sicuro i deliri nei pazienti con schizofrenia e disturbo schizoaffettivo. Queste patologie psichiatriche possono provocare allucinazioni visive o uditive e portare allo sviluppo di convinzioni errate fortemente radicate. L'impiego degli ultrasuoni transcranici apre una nuova prospettiva terapeutica non invasiva per alleviare i sintomi psicotici più complessi senza ricorrere a interventi chirurgici invasivi. Lo riferisce Medical Xpress.",
+   "more": [
+    "La schizofrenia è una patologia psichiatrica cronica complessa che altera il pensiero, le emozioni e il comportamento, spesso trattata mediante farmaci antipsicotici. Tuttavia, una parte dei pazienti presenta forme resistenti alle terapie convenzionali. Le tecnologie basate sulla neuromodulazione mirano a stimolare o inibire specifici circuiti cerebrali profondi per ristabilire un funzionamento neuronale più regolare."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-gentle-brain-ultrasound-ease-delusions.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T05:00-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z5934a367",
+   "sez": "cultura",
+   "titolo": "Il film \"Bird of Paradise\" racconta il riscatto domestico attraverso la pole dance",
+   "orig": "Bird of Paradise review: Catherine Chau takes up pole dancing in light-hearted family drama",
+   "lead": "Il lungometraggio Bird of Paradise segna il debutto cinematografico della regista e sceneggiatrice Joey Wu Chui-yi a Hong Kong. La pellicola, una commedia drammatica a tema familiare, vede l'attrice Catherine Chau Ka-yee nel ruolo principale di una devota donna di mezza età che decide di dedicarsi alla pole dance per rompere la monotona routine di pulizie e cucina svolta per la famiglia. Il film affronta dinamiche relazionali quotidiane con toni accessibili, offrendo alla protagonista una rara occasione da interprete principale. Lo riferisce South China Morning Post – Cultura.",
+   "more": [
+    "Il cinema indipendente di Hong Kong esplora con frequenza le pressioni sociali e i ruoli di genere tradizionali imposti alle donne all'interno della famiglia. Attraverso il genere della commedia agrodolce, molte produzioni recenti descrivono il desiderio di emancipazione individuale di madri e casalinghe, affrontando temi di attualità sociale con un linguaggio narrativo leggero e vicino al grande pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/entertainment/article/3371368/bird-paradise-review-catherine-chau-takes-pole-dancing-light-hearted-family-drama",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T08:15+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z415dfc34",
+   "sez": "sport",
+   "titolo": "Ippica a Hong Kong: l'allenatore Caspar Fownes cerca nuovi successi all'Happy Valley",
+   "orig": "‘Very happy’ Caspar Fownes turns to Love Together at the Valley to continue strong start",
+   "lead": "L'allenatore di cavalli da corsa Caspar Fownes si è detto molto soddisfatto dell'avvio della sua stagione agonistica a Hong Kong, dove punta a consolidare la serie di successi nell'appuntamento del mercoledì sera all'ippodromo di Happy Valley. Il tecnico, già vincitore di cinque campionati e soprannominato il \"Re della Valle\", schiererà cavalli come Love Together, Perfect General e Forza Toro per migliorare la sua posizione in classifica, che attualmente lo vede al quinto posto con nove vittorie complessive già conquistate. Lo riferisce South China Morning Post – Sport.",
+   "more": [
+    "L'ippica rappresenta una delle discipline sportive e di intrattenimento più seguite e regolamentate di Hong Kong, gestita storicamente dall'Hong Kong Jockey Club. Gli ippodromi di Sha Tin e Happy Valley ospitano eventi settimanali di alto profilo che coinvolgono allenatori, fantini e scuderie internazionali, attirando un vasto pubblico di appassionati e scommettitori da tutta la regione asiatica."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/racing/article/3371519/very-happy-caspar-fownes-turns-love-together-valley-continue-strong-start",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T10:14+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z60e3c83c",
+   "sez": "economia",
+   "titolo": "Circa cinquecento imprese attese a Chișinău per la fiera \"Made in Moldova\"",
+   "orig": "“Made in Moldova”: a new edition in January, with about 500 participating companies",
+   "lead": "Circa cinquecento aziende parteciperanno alla ventiquattresima edizione della mostra nazionale intitolata Made in Moldova, in programma nel mese di gennaio presso il centro fieristico Moldexpo a Chișinău. L'evento espositivo rappresenta un appuntamento centrale per valorizzare la produzione locale moldava, favorire incontri commerciali e promuovere le novità del tessuto imprenditoriale del Paese. La manifestazione offrirà alle imprese partecipanti una piattaforma strategica per presentare prodotti e servizi, consolidando i rapporti economici interni e aprendosi a possibili collaborazioni con partner internazionali. Lo riferisce IPN (inglese).",
+   "more": [
+    "Le fiere nazionali costituiscono per le economie emergenti uno strumento essenziale per promuovere le piccole e medie imprese locali e incentivarne la competitività sui mercati esteri. In Paesi come la Moldavia, queste esposizioni favoriscono il dialogo tra istituzioni pubbliche e settore privato, sostenendo lo sviluppo industriale, la diversificazione commerciale e l'attrazione di investimenti esteri."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/made-in-moldova-a-new-edition-in-january-with-about-500-participating-companies/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-20T09:12+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zb6eccf25",
+   "sez": "cultura",
+   "titolo": "Willy Chavarria e Adidas presentano adiSignature, linea ispirata allo streetwear",
+   "orig": "Willy Chavarria and Adidas unveil adiSignature, a fresh take on streetwear classics",
+   "lead": "Lo stilista statunitense Willy Chavarria ha avviato una collaborazione con il marchio sportivo Adidas per lanciare adiSignature, una nuova collezione di abbigliamento pensata per reinterpretare i classici dello streetwear contemporaneo. Il designer americano ha assunto la direzione creativa della linea, concepita come una celebrazione aperta della cultura e dello stile urbano attraverso capi iconici rivisitati. Il progetto punta a combinare l'eredità storica dell'azienda di abbigliamento con la visione sartoriale e concettuale caratteristica delle sfilate firmate da Chavarria negli ultimi anni. Lo riferisce Wallpaper*.",
+   "more": [
+    "Le collaborazioni tra grandi marchi di abbigliamento sportivo e stilisti dell'alta moda rappresentano una tendenza consolidata nel mercato globale. Questi progetti congiunti consentono ai brand sportivi di posizionarsi nel segmento del lusso contemporaneo e ai designer di raggiungere un pubblico internazionale più ampio, reinterpretando capi iconici della cultura popolare urbana."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/fashion-beauty/willy-chavarria-adisignature",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T08:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z92113850",
+   "sez": "tech",
+   "titolo": "I bambini assimilano gli stereotipi sessisti dai genitori fin dall'infanzia",
+   "orig": "I bambini ereditano il sessismo dai genitori",
+   "lead": "Secondo una ricerca scientifica, i bambini cominciano a interiorizzare i pregiudizi di genere e il sessismo direttamente dai propri genitori già a partire dagli otto anni di età. L'indagine rileva che i figli tendono a riprodurre i medesimi schemi di pensiero espressi da madri e padri nei confronti delle donne, lasciandosi condizionare anche dalle forme di cosiddetto sessismo benevolo. Questo tipo di atteggiamento, percepito apparentemente come protettivo, viene spesso considerato accettabile o persino giusto dai più piccoli, perpetuando disuguaglianze relazionali. Lo riferisce Focus.",
+   "more": [
+    "La socializzazione di genere durante l'infanzia avviene principalmente attraverso l'osservazione dei comportamenti e dei modelli verbali proposti in ambito familiare. La psicologia dello sviluppo evidenzia come i bambini assorbano precocemente stereotipi e ruoli tradizionali, rendendo fondamentale l'educazione alla parità affinché le nuove generazioni sviluppino visioni critiche e inclusive verso ogni forma di discriminazione."
+   ],
+   "fonti": [
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/comportamento/psicologia/i-bambini-ereditano-il-sessismo-dai-genitori",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T10:00+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zf04c8b84",
+   "sez": "salute",
+   "titolo": "Scoperto il meccanismo immunitario che provoca danni polmonari da radioterapia",
+   "orig": "New study identifies immune trigger behind radiation-related lung damage",
+   "lead": "Un gruppo di ricercatori dell'istituto City of Hope ha scoperto una via immunitaria specifica che contribuisce ai danni polmonari provocati dall'esposizione alle radiazioni terapeutiche, individuando al contempo una potenziale strategia biologica per bloccarla. I risultati dello studio preclinico, pubblicati sulla rivista scientifica Nature Communications, potrebbero aprire la strada a terapie innovative destinate a proteggere il tessuto polmonare sano durante i trattamenti oncologici. L'obiettivo consiste nel prevenire lesioni permanenti e migliorare in modo significativo la qualità della vita dei pazienti sottoposti a radioterapia. Lo riferisce Medical Xpress.",
+   "more": [
+    "La radioterapia rappresenta uno dei trattamenti cardine per molti tumori toracici, ma le radiazioni ionizzanti possono danneggiare le cellule sane circostanti e innescare infiammazioni polmonari croniche, come la polmonite attinica e la fibrosi. Comprendere i percorsi immunitari coinvolti in queste reazioni avverse è fondamentale per sviluppare farmaci protettivi capaci di preservare la funzionalità respiratoria."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-immune-trigger-lung.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T05:00-04:00"
+    },
+    {
+     "n": "Focus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.focus.it/scienza/salute/candida-auris-scoperto-un-nuovo-meccanismo-di-resistenza-ai-trattamenti",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T09:00+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zc155ce68",
+   "sez": "sport",
+   "titolo": "Calcio a Hong Kong: l'allenatore del Kitchee chiede interventi per far crescere il movimento",
+   "orig": "Hong Kong Premier League coach urges local football chiefs to help grow game in city",
+   "lead": "L'allenatore spagnolo del Kitchee, Inigo Calderon, ha rivolto un appello ai dirigenti calcistici di Hong Kong affinché collaborino attivamente per favorire lo sviluppo del calcio locale. La richiesta è arrivata subito dopo la vittoria per cinque a uno contro il Lee Man, considerata la prestazione più completa nei suoi quindici mesi alla guida della squadra. Calderon ha spiegato di voler fare la propria parte senza alibi, criticando l'orario delle partite e la scarsa qualità dei campi da gioco cittadini. Lo riferisce South China Morning Post – Sport.",
+   "more": [
+    "Il calcio professionistico a Hong Kong affronta da anni sfide strutturali legate alla disponibilità di impianti sportivi adeguati, alla manutenzione dei terreni di gioco e al coinvolgimento del pubblico negli stadi. La Hong Kong Premier League cerca costantemente di attrarre allenatori e calciatori stranieri per elevare la qualità tecnica dei tornei e stimolare l'interesse delle nuove generazioni locali verso lo sport."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/football/article/3371467/hong-kong-premier-league-coach-urges-local-football-chiefs-help-grow-game-city",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T09:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z086d4d57",
+   "sez": "cultura",
+   "titolo": "\"Shaun, vita da pecora: Operazione Z.U.C.C.A.\", la nuova avventura Aardman",
+   "orig": "Shaun Vita Da Pecora - Operazione Z.U.C.C.A., una clip esclusiva del film",
+   "lead": "In occasione delle celebrazioni per i cinquant'anni del celebre studio britannico Aardman Animations, arriva sul grande schermo Shaun, vita da pecora: Operazione Z.U.C.C.A., terzo capitolo cinematografico dedicato al celebre personaggio in stop-motion. Il film d'animazione, diretto dai registi Steve Cox e Matthew Walker e distribuito nelle sale da Lucky Red a fine ottobre, aprirà ufficialmente il festival Lucca Comics & Games. La trama è ambientata nel periodo di Halloween e racconta le peripezie del gregge alle prese con la scomparsa del contadino e una misteriosa creatura. Lo riferisce Sky TG24.",
+   "more": [
+    "L'animazione in stop-motion realizzata dallo studio Aardman di Bristol rappresenta una delle tradizioni più apprezzate del cinema britannico, fondata sull'uso meticoloso di pupazzi in plastilina e su una forte comicità visiva priva di dialoghi. Questo stile artigianale ha conquistato il pubblico internazionale attraverso personaggi iconici capaci di intrattenere spettatori di diverse generazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/spettacolo/cinema/video/2026/10/20/shaun-vita-da-pecora-operazione-zucca-1133021",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z2720376e",
+   "sez": "ingegneria",
+   "titolo": "Architettura in Cile: Casa Asomada si ispira al profilo di un serpente",
+   "orig": "A snake nodding to the horizon makes for an unlikely inspiration for this Chilean house",
+   "lead": "Lo studio di progettazione Whale! ha completato la realizzazione di Casa Asomada, una singolare residenza per le vacanze situata in Cile che trae ispirazione dalla forma sinuosa di un serpente proteso verso la linea dell'orizzonte. L'opera architettonica è stata appositamente concepita per adattarsi alla conformazione irregolare del terreno e per resistere alle forti correnti ventose caratteristiche della zona costiera. La struttura integra soluzioni costruttive moderne che assecondano gli elementi naturali, offrendo continuità visiva tra gli ambienti interni e il paesaggio circostante. Lo riferisce Wallpaper*.",
+   "more": [
+    "L'architettura residenziale contemporanea lungo la costa cilena si distingue spesso per la capacità di dialogare con condizioni ambientali e topografiche estreme. L'impiego di volumetrie geometriche orientate per schermare il vento e sfruttare la luce naturale testimonia una ricerca progettuale che unisce efficienza bioclimatica, rispetto per il paesaggio e valorizzazione dei materiali locali."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/architecture/residential/casa-asomada-whale-chilean-house",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T07:59+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z38f6e186",
+   "sez": "salute",
+   "titolo": "Una nuova tecnica PET individua quasi tutte le lesioni del tumore al rene",
+   "orig": "New PET imaging approach detects almost all lesions in common form of kidney cancer",
+   "lead": "Un innovativo approccio di diagnostica per immagini tramite tomografia a emissione di positroni ha dimostrato di poter individuare il 97,9% delle lesioni provocate dal carcinoma a cellule renali chiare, la forma più comune di tumore del rene. I risultati sono stati illustrati durante la trentanovesima edizione del congresso annuale della Società europea di medicina nucleare. Questa metodica avanzata consente ai medici di ottenere un quadro estremamente dettagliato sulla posizione e sull'estensione della patologia nel corpo del paziente, migliorando le diagnosi. Lo riferisce Medical Xpress.",
+   "more": [
+    "Il carcinoma a cellule renali chiare rappresenta la maggioranza dei tumori maligni del rene e spesso non manifesta sintomi precoci evidenti. L'impiego della medicina nucleare avanzata permette di individuare precocemente metastasi o recidive mediante radiofarmaci specifici, consentendo agli oncologi di pianificare terapie chirurgiche o farmacologiche personalizzate con maggiore precisione ed efficacia."
+   ],
+   "fonti": [
+    {
+     "n": "Medical Xpress",
+     "p": "US",
+     "c": "Douglas",
+     "u": "https://medicalxpress.com/news/2026-10-pet-imaging-approach-lesions-common.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T03:50-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "za451a3fa",
+   "sez": "cultura",
+   "titolo": "Zagabria celebra i centocinquant'anni del cimitero monumentale di Mirogoj",
+   "orig": "Mirogoj Cemetery turns 150 with exhibition in Zagreb",
+   "lead": "Il Museo della Città di Zagabria ha inaugurato una mostra speciale dedicata alla storia e al patrimonio culturale del cimitero monumentale di Mirogoj, allestita in occasione dei centocinquant'anni dalla sua fondazione. Il percorso espositivo analizza l'evoluzione architettonica del complesso funerario della capitale croata, celebre per i suoi portici storici e per le opere d'arte che custodisce. L'iniziativa invita i visitatori a riscoprire il valore storico e memoriale di questo luogo simbolico, nel quale riposano numerose figure illustri del Paese. Lo riferisce Croatia Week.",
+   "more": [
+    "Progettato alla fine del diciannovesimo secolo dal celebre architetto Hermann Bollé, il cimitero di Mirogoj a Zagabria è considerato uno dei complessi monumentali più rilevanti d'Europa. La sua architettura eclettica, caratterizzata da imponenti cupole e lunghi porticati alberati, unisce diverse tradizioni religiose e costituisce un museo a cielo aperto di grande pregio storico e artistico."
+   ],
+   "fonti": [
+    {
+     "n": "Croatia Week",
+     "p": "XX",
+     "c": "Zagabria",
+     "u": "https://www.croatiaweek.com/mirogoj-cemetery-150-years-exhibition-zagreb/",
+     "angolo": "",
+     "atlas": "Croatia",
+     "t": "2026-10-20T07:36+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z54a4d241",
+   "sez": "sport",
+   "titolo": "Calcio: amichevole tra Uzbekistan e Russia a Tashkent il 12 novembre",
+   "orig": "Uzbekistan to Face Russia in Tashkent on 12 November",
+   "lead": "La nazionale di calcio dell'Uzbekistan disputerà una partita amichevole contro la Russia il prossimo 12 novembre sul terreno dello stadio Pakhtakor di Tashkent. Il confronto sportivo si terrà all'interno della finestra temporale riservata dalla FIFA agli impegni internazionali delle rappresentative nazionali. L'incontro offrirà alla selezione uzbeka un banco di prova di rilievo davanti al pubblico di casa, permettendo ai rispettivi staff tecnici di testare schemi tattici e nuovi convocati in vista delle future competizioni ufficiali previste dal calendario. Lo riferisce UzDaily.",
+   "more": [
+    "Le finestre del calendario internazionale della FIFA offrono alle federazioni calcistiche l'opportunità di organizzare gare amichevoli ufficiali per testare gli atleti e accumulare punti utili per il ranking mondiale. Per la nazionale russa, esclusa dai principali tornei europei e mondiali per motivi geopolitici, queste partite rappresentano l'unico strumento per mantenere competitività sportiva sul piano internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-to-face-russia-in-tashkent-on-12-november/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-20T14:40+05:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z167b620c",
+   "sez": "economia",
+   "titolo": "Tanzania: calano le transazioni interbancarie mentre salgono i tassi d'interesse",
+   "orig": "Interbank cash market activity slows as rates rise",
+   "lead": "In Tanzania il mercato monetario interbancario ha registrato una sensibile diminuzione nei volumi delle transazioni durante il mese di agosto, parallelamente a un incremento dei tassi d'interesse medi. Secondo i dati pubblicati dalla Banca di Tanzania nel rapporto economico mensile, il totale delle operazioni è sceso dai 5,63 trilioni di scellini registrati a luglio fino a quota 4,57 trilioni in agosto. Questo andamento riflette mutamenti significativi nelle strategie di finanziamento a breve termine adottate dagli istituti di credito commerciali tanzaniani. Lo riferisce Daily News (Tanzania).",
+   "more": [
+    "Il mercato interbancario rappresenta il canale attraverso cui le banche commerciali si scambiano liquidità a brevissimo termine per soddisfare i requisiti normativi e bilanciare la tesoreria. Quando i tassi di interesse salgono, il costo del denaro aumenta, spingendo gli istituti di credito a ridurre i prestiti reciproci e a gestire con maggiore prudenza la propria liquidità disponibile."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/interbank-cash-market-activity-slows-as-rates-rise/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-20T07:28+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z0136f3a3",
+   "sez": "ingegneria",
+   "titolo": "Bali: Potato Head e lo studio OMA aprono il \"Good Times General Store\"",
+   "orig": "Potato Head opens the Good Times General Store by OMA",
+   "lead": "Nella cornice dell'isola di Bali, il celebre marchio dell'ospitalità Potato Head ha inaugurato il Good Times General Store, uno spazio commerciale progettato dallo studio internazionale di architettura OMA. La struttura è stata concepita per proporre un modello innovativo di vendita al dettaglio incentrato sul concetto di consumo sostenibile e rigenerativo. Il progetto architettonico unisce materiali ecologici e forme contemporanee, consolidando una partnership di lunga data tra gli albergatori balinesi e gli architetti dello studio fondato da Rem Koolhaas. Lo riferisce Wallpaper*.",
+   "more": [
+    "Il commercio orientato alla sostenibilità mira a ridurre i rifiuti attraverso l'adozione di principi dell'economia circolare, il riciclo di materiali locali e la vendita di beni a basso impatto ambientale. Nel settore turistico globale, molte strutture d'eccellenza integrano architettura innovativa e pratiche ecologiche per sensibilizzare i visitatori sulla conservazione delle risorse naturali e sul consumo responsabile."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/design-interiors/potato-head-bali-good-times-general-store-oma",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T07:29+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z7b625765",
+   "sez": "tech",
+   "titolo": "Nasce Silaara: avatar con intelligenza artificiale per imprese e siti web",
+   "orig": "?Silaara?, nasce il progetto degli avatar intelligenti per siti web, assistenza clienti e produzioni di contenuti",
+   "lead": "È stato presentato il progetto tecnologico Silaara, un'iniziativa volta a integrare sistemi di intelligenza artificiale avanzata nelle attività quotidiane di aziende e professionisti. La piattaforma propone la creazione di avatar interattivi e assistenti digitali intelligenti, progettati per essere impiegati direttamente sui siti web, nei servizi di assistenza ai clienti e nelle produzioni di contenuti multimediali. L'obiettivo degli sviluppatori è quello di rendere l'interazione digitale più immediata e personalizzata, fornendo strumenti innovativi per ottimizzare la comunicazione aziendale verso il pubblico. Lo riferisce Il Messaggero – Tecnologia.",
+   "more": [
+    "Gli avatar virtuali basati sull'intelligenza artificiale combinano modelli linguistici avanzati e grafica computerizzata per simulare conversazioni umane in tempo reale. Questa tecnologia viene sempre più adottata dalle imprese per automatizzare il supporto alla clientela, ridurre i tempi di risposta e creare contenuti informativi dinamici capaci di interagire in modo coerente e multilingue con gli utenti online."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/silaara_avatar_intelligenti_siti_web_contenuti_come_funziona-9836924.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zb8145419",
+   "sez": "salute",
+   "titolo": "In Ghana oltre duecento persone sottoposte a screening oncologici a Techiman",
+   "orig": "KGL Foundation screens over 200 people in Techiman for breast cancer and other conditions",
+   "lead": "Oltre duecento residenti della città di Techiman, in Ghana, hanno usufruito di visite sanitarie gratuite organizzate dalla KGL Foundation in occasione del mese dedicato alla sensibilizzazione sul cancro al seno. L'iniziativa, condotta in collaborazione con strutture sanitarie locali come la clinica Koranteng Memorial e AgricoHub, ha compreso controlli diagnostici per il tumore mammario, la pressione arteriosa, il papillomavirus umano, l'epatite B e C e problemi oculari. I promotori hanno voluto favorire la diagnosi precoce tra le fasce più vulnerabili della popolazione locale. Lo riferisce MyJoyOnline.",
+   "more": [
+    "I programmi di screening preventivo e gratuito sono essenziali nelle comunità rurali e nei Paesi in via di sviluppo, dove l'accesso alle cure ospedaliere specialistiche è spesso limitato. L'individuazione precoce del cancro e delle infezioni virali riduce sensibilmente la mortalità, consentendo interventi tempestivi ed evitando l'aggravarsi di patologie croniche non curate."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/kgl-foundation-screens-over-200-people-in-techiman-for-breast-cancer-and-other-conditions/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-20T10:02+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z1b95046f",
+   "sez": "cultura",
+   "titolo": "Zimbabwe: una tavola rotonda tra direttori di festival sulla cultura sostenibile",
+   "orig": "Jacaranda Festival Managers Roundtable in Zimbabwe",
+   "lead": "In Zimbabwe si è svolta una tavola rotonda tra direttori di eventi culturali nell'ambito delle iniziative collegate al Jacaranda Festival. All'incontro ha partecipato l'organizzatore culturale Jiggs Thorne, intervenuto con una relazione incentrata sull'architettura sostenibile dei festival, sulla crescita istituzionale e sulla progettazione di modelli di business durevoli nelle piattaforme artistiche regionali. Il dibattito ha offerto ai manager del settore un'opportunità di confronto sulle migliori pratiche gestionali necessarie per creare strutture organizzative solide, formare professionisti e garantire longevità alle manifestazioni musicali africane. Lo riferisce Times of Eswatini.",
+   "more": [
+    "I festival culturali e musicali nel continente africano svolgono una funzione cruciale non solo per la promozione dell'identità artistica, ma anche per lo sviluppo economico e turistico locale. La pianificazione finanziaria a lungo termine e la formazione di operatori specializzati rappresentano fattori determinanti per garantire la sostenibilità di queste manifestazioni nel tempo."
+   ],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46740/lifestyle/jacaranda-festival-managers-roundtable-in-zimbabwe/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-20T10:26+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z734ff86c",
+   "sez": "economia",
+   "titolo": "Filippine: l'Istruzione chiede al Senato 147 miliardi di pesos aggiuntivi per le scuole",
+   "orig": "After lower budget in House version, DepEd asks Senate for P147 billion more",
+   "lead": "Nelle Filippine, il Dipartimento dell'Istruzione ha chiesto formalmente al Senato uno stanziamento aggiuntivo di centoquarantasette miliardi di pesos per il bilancio statale, a seguito delle riduzioni approvate dalla Camera dei Rappresentanti. I fondi supplementari richiesti dal dicastero sono destinati principalmente a sostenere il programma di alimentazione nelle mense scolastiche e il piano ARAL per il recupero degli apprendimenti degli studenti. I responsabili dell'istruzione sperano che l'aula senatoria possa accogliere l'istanza per garantire risorse adeguate ai servizi essenziali dell'anno scolastico. Lo riferisce Rappler.",
+   "more": [
+    "La spesa per l'istruzione pubblica nei Paesi in via di sviluppo è considerata un investimento strategico per ridurre i divari socioeconomici. I programmi di nutrizione a scuola, in particolare, favoriscono la presenza in classe e il rendimento degli allievi provenienti da famiglie bisognose, mentre i percorsi di supporto didattico aiutano a contrastare l'abbandono scolastico precoce."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/department-education-request-senators-additional-2027-budget/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-20T17:25+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zeed0f6fe",
+   "sez": "ingegneria",
+   "titolo": "Macchine da cantiere: premiato il concept Bobcat RogueX3 per il design del futuro",
+   "orig": "Bobcat RogueX3 Recognised For Advancing Future Equipment Design",
+   "lead": "Il prototipo concettuale RogueX3 sviluppato dall'azienda di macchinari Bobcat ha ottenuto un importante riconoscimento di settore per il suo contributo all'evoluzione del design delle attrezzature da cantiere. La piattaforma serve come banco di prova avanzato per sperimentare tecnologie di automazione, soluzioni energetiche alternative e approcci ingegneristici innovativi destinati alle future generazioni di veicoli da lavoro. Il progetto si distingue per la totale riconfigurazione della postazione operatore e dei sistemi operativi, anticipando nuovi standard di efficienza e sicurezza nei cantieri. Lo riferisce Construction Business News Middle East.",
+   "more": [
+    "L'industria dei macchinari pesanti e da costruzione sta attraversando una transizione rapida verso la sostenibilità e la digitalizzazione. La sperimentazione di veicoli a guida autonoma o a zero emissioni consente di migliorare la sicurezza nei luoghi di lavoro pericolosi, ridurre i consumi energetici e ottimizzare le operazioni nei grandi progetti infrastrutturali moderni."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/machinery/bobcat-roguex3-recognised-for-advancing-future-equipment-design/",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-20T10:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zf1ba9262",
+   "sez": "tech",
+   "titolo": "Tesla presenta la nuova Roadster dotata di propulsori a razzo",
+   "orig": "Tesla, la nuova macchina \"volante\": ecco come funziona e quanto costa la Roadster",
+   "lead": "La casa automobilistica statunitense Tesla ha svelato ulteriori dettagli tecnici sulla nuova versione della supercar elettrica Roadster, capace di percorrere brevi tratti in volo mediante propulsori ausiliari a razzo. L'amministratore delegato Elon Musk ha annunciato il funzionamento e i costi previsti per questo innovativo modello sportivo, spiegando come il sistema di spinta ad aria compressa consenta accelerazioni eccezionali e brevi distacchi dal suolo. La presentazione ha riacceso l'attenzione globale sulle soluzioni ingegneristiche estreme promesse dall'azienda per il settore dei veicoli elettrici ad altissime prestazioni. Lo riferisce Il Messaggero – Tecnologia.",
+   "more": [
+    "L'applicazione di ugelli e getti di gas compresso nei veicoli stradali deriva da tecnologie di derivazione aerospaziale, solitamente impiegate per il controllo di assetto dei satelliti. Sebbene susciti grande clamore mediatico, l'impiego effettivo su vetture di serie pone complesse sfide legate all'omologazione stradale, alla sicurezza dei pedoni e all'autonomia complessiva della batteria."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/tesla_volante_come_funziona_quanto_costa-9828785.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z7d3c6a45",
+   "sez": "salute",
+   "titolo": "Ghana: piano del governo per migliorare l'assistenza materna e i posti letto negli ospedali",
+   "orig": "Government develops roadmap to improve maternal healthcare and hospital bed management",
+   "lead": "Il governo del Ghana sta predisponendo un piano operativo nazionale per superare le gravi criticità nell'assistenza sanitaria materna e ottimizzare la gestione dei posti letto ospedalieri in tutte le regioni del Paese. L'annuncio è stato dato dalla viceministra della Sanità, la dottoressa Grace Ayensu-Danquah, la quale ha spiegato che la tabella di marcia mira a incrementare la qualità delle cure e a evitare sovraffollamenti nei reparti di ostetricia. L'iniziativa intende garantire un accesso tempestivo alle terapie per madri e neonati nelle strutture pubbliche. Lo riferisce MyJoyOnline.",
+   "more": [
+    "La salute materno-infantile costituisce una delle principali sfide sanitarie nell'Africa subsahariana, dove complicazioni durante il parto e carenza di posti letto possono aumentare la mortalità perinatale. Pianificare una distribuzione equa delle risorse e migliorare i protocolli di accoglienza ospedaliera sono passaggi indispensabili per rafforzare i sistemi sanitari e tutelare le comunità vulnerabili."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/government-develops-roadmap-to-improve-maternal-healthcare-and-hospital-bed-management/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z48e38d31",
+   "sez": "mondo",
+   "titolo": "Francia: il presidente del Senato Gérard Larcher ipotizza il bando di France Insoumise",
+   "orig": "Dérive autoritaire, suite : au tour de Gérard Larcher d’envisager une interdiction de LFI",
+   "lead": "In Francia infuria lo scontro politico dopo che il presidente del Senato, Gérard Larcher, ha prospettato la possibilità di mettere al bando il movimento di sinistra La France Insoumise. La proposta giunge in seguito agli episodi di violenza verificatisi il 17 ottobre e si inserisce in un clima di forte contrapposizione parlamentare. Le forze moderate di centro e di destra vengono accusate di assecondare tendenze autoritarie e di inseguire le posizioni dell'estrema destra, mentre i dirigenti del partito respingono con fermezza qualsiasi ipotesi di interdizione politica. Lo riferisce Libération.",
+   "more": [
+    "La Costituzione della Repubblica francese tutela la libertà di associazione e il pluralismo politico, stabilendo criteri estremamente restrittivi per la dissoluzione di partiti o movimenti democratici. Iniziative di questo tipo richiedono gravi violazioni dell'ordine costituzionale o il ricorso sistematico alla violenza armata, rendendo ogni dibattito sulla messa al bando di una forza parlamentare un tema istituzionale senza precedenti."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/derive-autoritaire-suite-au-tour-de-gerard-larcher-denvisager-une-interdiction-de-lfi-20261020_LAGIGMA7L5EYPJH7VLEPQDDNBQ/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-20T09:02+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "ze7ca2f17",
+   "sez": "cultura",
+   "titolo": "Monaco di Baviera: prima del nuovo film di Bora Dagtekin \"Der perfekte Urlaub\"",
+   "orig": "Premiere von „Der perfekte Urlaub“: „Man ist froh, dass man selbst nicht erleben muss, was wir auf der Leinwand erleben“",
+   "lead": "A Monaco di Baviera si è tenuta la prima proiezione ufficiale del film Der perfekte Urlaub, la nuova commedia cinematografica firmata dal regista Bora Dagtekin e girata durante l'inverno sull'isola di Maiorca. Sul tappeto rosso della serata bavarese hanno sfilato i protagonisti della pellicola, tra cui l'attore Elyas M'Barek, accolti dal pubblico e dalla stampa. L'opera narra una serie di disavventure vacanziere dai risvolti comici e paradossali, portando sul grande schermo situazioni estreme che gli interpreti hanno ironicamente definito sollevati di non dover affrontare nella vita reale. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "La commedia cinematografica tedesca ha trovato negli ultimi anni un notevole successo al botteghino grazie alla collaborazione collaudata tra il regista Bora Dagtekin e attori popolari della scena nazionale. Le trame affrontano spesso temi relazionali e dinamiche turistiche contemporanee, unendo ironia caustica ed elementi popolari per intrattenere un vasto pubblico di spettatori in sala."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/muenchen/der-perfekte-urlaub-premiere-muenchen-elyas-m-barek-li.3553390",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T09:18+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z5273328b",
+   "sez": "tech",
+   "titolo": "Vinted rimuove gli annunci sospetti dopo le proteste in Francia",
+   "orig": "Vinted cancella gli annunci sospetti dopo le rivolte in Francia",
+   "lead": "La piattaforma online di compravendita di abiti e oggetti di seconda mano Vinted ha deciso di intensificare le verifiche interne per eliminare le inserzioni sospettate di essere collegate ai furti verificatisi durante le rivolte del diciassette ottobre in Francia. Il provvedimento giunge dopo che le autorità governative francesi hanno formalmente convocato i responsabili dei principali siti di commercio elettronico, sollecitando un tempestivo ritiro dei prodotti potenzialmente illeciti per evitare che il mercato digitale diventi un canale di ricettazione per le merci rubate. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "Le piattaforme di compravendita tra privati utilizzano filtri automatici e team di moderazione per intercettare merci rubate o contraffatte. Quando si verificano disordini o saccheggi, i canali online possono essere sfruttati per smaltire rapidamente la refurtiva, spingendo governi e autorità di pubblica sicurezza a pretendere cooperazione e misure tempestive da parte dei gestori digitali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/20/news/vinted_cancella_annunci_sospetti_francia-425660025/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T11:57+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zd20b9c8d",
+   "sez": "mondo",
+   "titolo": "Spagna, Feijóo avvia contatti con Vox per le liste del Senato",
+   "orig": "Feijóo confirma conversaciones con Vox para las elecciones al Senado: \"Sería un error facilitar al 'sanchismo' el control\"",
+   "lead": "Il leader del Partito Popolare spagnolo Alberto Núñez Feijóo ha confermato l'apertura di un confronto con la formazione di destra Vox in vista delle future elezioni al Senato, motivando il dialogo con la necessità di impedire alla coalizione guidata dal premier Pedro Sánchez di mantenere la maggioranza. Feijóo ha prospettato la possibilità di concedere seggi senatoriali di rappresentanza regionale a Vox a patto che il partito guidato da Santiago Abascal decida di ritirare le proprie candidature in alcune circoscrizioni provinciali strategiche. Lo riferisce El Mundo.",
+   "more": [
+    "In Spagna il Senato ha un sistema elettorale maggioritario che premia le coalizioni o le forze politiche capaci di concentrare il voto provinciale. Negli ultimi anni il Partito Popolare e Vox hanno stretto alleanze in diverse comunità autonome per governare insieme, pur mantenendo accese divergenze programmatiche su questioni territoriali, europee e sociali."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad710e4e9cf4aed3d8b459a.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-20T10:06+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z0842e94f",
+   "sez": "economia",
+   "titolo": "Il Tagikistan presenta le sue priorità al vertice dell'Organizzazione per la Cooperazione di Shanghai",
+   "orig": "Rahmon outlines Tajikistan’s priorities at SCO meeting in Dushanbe",
+   "lead": "Nel corso della riunione dell'Organizzazione per la Cooperazione di Shanghai svoltasi a Dushanbe, il presidente tagiko Emomali Rahmon ha illustrato i principali obiettivi perseguiti dal suo Paese a livello regionale. La proposta presentata dalla presidenza include l'espansione dei programmi di cooperazione economica e tecnologica tra gli Stati membri, l'adozione di misure volte a consolidare la sicurezza collettiva e iniziative coordinate dedicate alla salvaguardia delle risorse idriche nell'area asiatica, considerata vulnerabile ai mutamenti ambientali e alla gestione condivisa dei bacini fluviali. Lo riferisce Asia-Plus.",
+   "more": [
+    "L'Organizzazione per la Cooperazione di Shanghai, fondata nel 2001, riunisce potenze come Cina, Russia e India insieme a nazioni dell'Asia centrale. Sebbene nata inizialmente con finalità di cooperazione militare e sicurezza sui confini, l'organizzazione ha progressivamente allargato il proprio raggio d'azione alle intese commerciali, energetiche, tecnologiche e alla gestione delle risorse naturali."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/20/emomali-rahmon-outlines-tajikistans-priorities-in-the-sco/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-10-20T10:09+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z0697c465",
+   "sez": "dibattito",
+   "titolo": "Danni da intelligenza artificiale: il dibattito sulle tutele per i cittadini in Italia",
+   "orig": "L’IA è troppo grande per un tribunale",
+   "lead": "In Italia si discute sull'efficacia delle norme introdotte dal trenta settembre a tutela di chi subisce danni causati da sistemi di intelligenza artificiale. Da una parte l'ordinamento mette a disposizione nuovi strumenti giudiziari per permettere ai cittadini di chiedere risarcimenti; dall'altra parte si fa notare che i rischi segnalati dagli stessi creatori delle tecnologie digitali sono di una portata molto più vasta. Molti osservatori evidenziano come le attuali risposte normative rimangano limitate a iniziative nazionali, volontarie e frammentarie, insufficienti a fronteggiare l'impatto globale di questi strumenti. Lo riferisce la Repubblica – Tecnologia.",
+   "more": [
+    "La regolamentazione dell'intelligenza artificiale rappresenta uno dei temi più complessi per i sistemi giuridici contemporanei. Individuare la responsabilità civile o penale per gli errori prodotti da algoritmi opachi, modelli generativi o sistemi decisionali autonomi richiede standard condivisi a livello sovranazionale, poiché i prodotti tecnologici operano su scala globale ignorando i confini giurisdizionali dei singoli Stati."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/20/news/l_ia_e_troppo_grande_per_un_tribunale-425659942/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T11:17+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z1bdc7ddf",
+   "sez": "sport",
+   "titolo": "La parabola di Valdas Dambrauskas, dalla vittoria in un quiz alla Champions League",
+   "orig": "Der spannendste Trainer der Champions League ist ein Quizshow-Gewinner aus Litauen",
+   "lead": "Il lituano Valdas Dambrauskas si sta distinguendo come uno dei tecnici più singolari presenti nell'attuale edizione della Champions League. Prima di intraprendere con successo la carriera sportiva, l'allenatore era salito alla ribalta vincendo un popolare quiz televisivo, per poi trasferirsi nel Regno Unito, a Londra, dove ha lavorato come giardiniere e operaio edile pur di finanziare privatamente i propri corsi di abilitazione federale. I suoi sacrifici sono stati infine ripagati dalla qualificazione ottenuta alla massima competizione europea alla guida di una formazione priva di grandi stelle. Lo riferisce Der Standard.",
+   "more": [
+    "L'accesso alla fase principale della Champions League garantisce visibilità e introiti milionari alle società calcistiche. Per gli allenatori emergenti provenienti da campionati minori europei, guidare squadre sfavorite su palcoscenici continentali rappresenta una rara opportunità per mettere in mostra competenze tattiche e farsi notare dai club dei tornei più blasonati."
+   ],
+   "fonti": [
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344987/der-spannendste-trainer-der-champions-league-ist-ein-quizshow-gewinner-aus-litauen?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-20T08:54+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z3068ad07",
+   "sez": "cultura",
+   "titolo": "Senegal, la fiera del libro di Dakar si chiude con l'allarme sulla disaffezione dei giovani",
+   "orig": "Désamour de la lecture : La FILDAK 2026 s'achève sur un constat alarmant de la jeunesse face aux livres",
+   "lead": "L'edizione 2026 della Fiera Internazionale del Libro e dell'Editoria di Dakar si è conclusa con una riflessione amara sul rapporto tra le nuove generazioni e la pagina scritta in Senegal. Al termine della manifestazione, addetti ai lavori ed educatori hanno espresso viva preoccupazione per il progressivo allontanamento dei giovani dalla lettura. Questo disinteresse diffuso fa temere che in futuro diventi estremamente difficile per il panorama culturale nazionale vedere emergere nuovi autori capaci di eguagliare la statura e il prestigio di maestri letterari quali Cheikh Hamidou Kane o Mariama Bâ. Lo riferisce Seneweb.",
+   "more": [
+    "Cheikh Hamidou Kane e Mariama Bâ sono considerati tra i maggiori pilastri della letteratura africana francofona del Novecento. Le loro opere, celebri a livello internazionale, hanno esplorato le tensioni tra tradizioni locali e modernità occidentale, oltre a denunciare questioni sociali cruciali quali la condizione delle donne e l'identità post-coloniale."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Culture/desamour-de-la-lecture-la-fildak-2026-sacheve-sur-un-constat-alarmant-de-la-jeunesse-face-aux-livres_n_999001217.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T09:56+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z51493c6d",
+   "sez": "tech",
+   "titolo": "Delegazione cinematografica nordcoreana in visita in Cina per studiare i video con intelligenza artificiale",
+   "orig": "North Korean film delegation tours Chinese company known for AI videos, agents",
+   "lead": "Una delegazione cinematografica proveniente dalla Corea del Nord ha visitato la sede della società cinese SHARE Technology, con sede nell'Hunan, specializzata nello sviluppo di agenti intelligenti e nella produzione di video sintetici mediante intelligenza artificiale. In base a quanto reso noto dall'azienda in un comunicato, gli esponenti di Pyongyang hanno espresso una chiara intenzione di avviare forme di collaborazione. La visita suggerisce il possibile interesse delle autorità nordcoreane nell'integrare strumenti di intelligenza artificiale nella realizzazione di film e contenuti audiovisivi destinati al pubblico. Lo riferisce NK News.",
+   "more": [
+    "L'impiego dell'intelligenza artificiale generativa nella produzione di contenuti audiovisivi permette di abbattere i costi di animazione ed effetti speciali. In Corea del Nord la cinematografia statale svolge da sempre una funzione primaria di propaganda politica e intrattenimento controllato, motivo per cui l'aggiornamento tecnologico resta attentamente seguito dal regime."
+   ],
+   "fonti": [
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/north-korean-film-delegation-tours-chinese-company-known-for-ai-videos-agents/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-10-20T06:36+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z42ea6595",
+   "sez": "cucina",
+   "titolo": "La scienza dietro il durian, il frutto asiatico dal peculiare odore solforato",
+   "orig": "Il durian è il frutto più puzzolente al mondo: com’è fatto e perché ha quell’odore pungente",
+   "lead": "Il durian, frutto tropicale tradizionalmente definito il re dei frutti, è conosciuto in tutto il mondo per la sua fragranza sgradevole e pungente che ricorda il gas e le uova marce. Questa caratteristica olfattiva è dovuta a una specifica anomalia genetica della pianta, che induce una produzione eccessiva di composti chimici solforati. Benché per l'olfatto umano tale combinazione risulti nauseante, dal punto di vista ecologico rappresenta un'efficace strategia evolutiva, sviluppata dall'albero per attirare gli animali della foresta indispensabili alla dispersione naturale dei propri semi. Lo riferisce Geopop.",
+   "more": [
+    "Molto consumato nel Sud-Est asiatico, il durian presenta una spessa buccia spinosa e una polpa morbida e cremosa. A causa della sua persistente esalazione solforata, in diversi Paesi orientali vigono rigidi divieti che ne proibiscono il trasporto a bordo dei mezzi pubblici, negli aeroporti e all'interno delle strutture alberghiere."
+   ],
+   "fonti": [
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/il-durian-e-il-frutto-piu-puzzolente-al-mondo-come-fatto-e-perche-ha-quellodore-pungente/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T08:04+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zecf6c35c",
+   "sez": "economia",
+   "titolo": "Recensioni online trasparenti: le nuove linee guida dell'Antitrust in Italia",
+   "orig": "Recensioni online, dalla prova d’acquisto alla stretta sui giudizi in cambio di vantaggi: le linee guida Antitrust",
+   "lead": "L'Autorità Garante della Concorrenza e del Mercato ha diffuso una serie di linee guida destinate a contrastare il fenomeno delle valutazioni mendaci sul web e a frenare la concessione di benefici in cambio di commenti favorevoli. Per certificare che le recensioni siano autentiche e scritte da reali clienti, l'Antitrust indica varie soluzioni operative da adottare per alberghi e ristoranti, quali l'invio di collegamenti telematici per i giudizi soltanto dopo la consegna della merce, l'uso di codici digitali sui tavoli e l'allegazione di scontrini fiscali. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "La trasparenza delle recensioni sui portali turistici e commerciali è fondamentale per tutelare la libera concorrenza e proteggere i consumatori da pratiche ingannevoli. La normativa europea impone agli operatori economici di informare chiaramente gli utenti se e in che modo garantiscano che le recensioni provengano effettivamente da chi ha acquistato il servizio."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/recensioni-online-prova-d-acquisto-stretta-giudizi-cambio-vantaggi-linee-guida-antitrust-AJU4wVoB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z3aa5565b",
+   "sez": "economia",
+   "titolo": "Il Governo Regionale del Kurdistan vieta il trading di criptovalute e il forex elettronico",
+   "orig": "Kurdistan Region Government Bans Digital Currency Trading And Electronic Forex Exchange",
+   "lead": "Il governo della Regione del Kurdistan ha introdotto il divieto formale del commercio di valute digitali e delle operazioni di cambio valutario elettronico. La disposizione è stata trasmessa a tutti i fornitori di servizi di connettività internet sul territorio con l'ordine di procedere a un'applicazione immediata del blocco informatico. La misura governativa recepisce una precedente delibera approvata a settembre dal consiglio dei ministri locale e si conforma alla direttiva della Banca Centrale dell'Iraq che impone la chiusura di tutte le compagnie forex attive nella regione curda. Lo riferisce Kurdistan24.",
+   "more": [
+    "Le autorità monetarie di vari Paesi del Medio Oriente monitorano con crescente rigore il mercato dei cambi non regolamentato e le valute digitali. Tali attività finanziarie telematiche vengono spesso limitate per prevenire la fuga di capitali, tutelare i risparmiatori da frodi prive di garanzie statali e impedire il riciclaggio di proventi illeciti."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947353/kurdistan-region-government-bans-digital-currency-trading-and-electronic-forex-exchange",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-20T13:07+03:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zb7827793",
+   "sez": "salute",
+   "titolo": "La riabilitazione dopo un trauma sugli sci richiede una preparazione graduale",
+   "orig": "Tornare a sciare dopo un infortunio: il recupero passa dalla preparazione",
+   "lead": "La decisione su quando rimettere gli sci ai piedi dopo aver subito un infortunio non può essere stabilita in base a scadenze prefissate sul calendario. Il ritorno alle attività sulla neve esige una valutazione clinica accurata che varia a seconda dell'entità del trauma subito e dei progressi riscontrati durante il programma di guarigione. Per riprendere la pratica sportiva in sicurezza evitando pericolose ricadute, il percorso riabilitativo deve passare attraverso un'adeguata preparazione muscolare e articolare guidata da specialisti del settore. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "Gli infortuni più comuni nello sci alpino coinvolgono le articolazioni delle ginocchia, in particolare i legamenti crociati e i menischi, oltre a traumi alla spalla. Il recupero funzionale completo richiede spesso mesi di fisioterapia per ripristinare la forza, la stabilità propriocettiva e la reattività muscolare necessarie prima di rimettersi in pista."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/tornare-sciare-un-infortunio-recupero-passa-preparazione-AJbD3xWB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T08:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zc1513349",
+   "sez": "mondo",
+   "titolo": "L'Alto Commissariato del Ghana corregge i dati sui rimpatriati dal Sudafrica",
+   "orig": "Ghana High Commission clarifies SA evacuation data",
+   "lead": "L'Alto Commissariato del Ghana ha pubblicato un comunicato ufficiale per fare chiarezza sulle cifre relative all'operazione di rimpatrio dei propri connazionali provenienti dal Sudafrica. La missione diplomatica ha riconosciuto la responsabilità di lievi sviste di natura materiale e amministrativa commesse nella compilazione delle liste ufficiali. I responsabili hanno tenuto a precisare che tali inesattezze burocratiche hanno riguardato soltanto quindici soggetti su un contingente complessivo formato da millenovecentosessantaquattro cittadini ghanesi regolarmente evacuati dal territorio sudafricano nel corso della complessa operazione consolare. Lo riferisce 3News.",
+   "more": [
+    "Le operazioni di rimpatrio d'emergenza o assistito gestite dalle rappresentanze diplomatiche all'estero richiedono verifiche minuziose delle liste di sbarco per identificare correttamente i cittadini. Gli errori di trascrizione anagrafica possono creare discrepanze statistiche, spingendo le ambasciate a pubblicare note di rettifica per garantire trasparenza all'opinione pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/ghana-high-commission-clarifies-sa-evacuation-data",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-20T09:08+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zb0a58ed8",
+   "sez": "economia",
+   "titolo": "Il Cairo ospita il Forum Economico dell'Unione per il Mediterraneo",
+   "orig": "FM welcomes convening of UfM Economic Forum in Cairo",
+   "lead": "Il ministro degli Affari Esteri, della Cooperazione Internazionale e degli Espatriati egiziano Badr Abdelatty ha salutato con favore l'apertura dei lavori del Forum Economico dell'Unione per il Mediterraneo organizzato nella capitale Il Cairo. Durante il suo intervento alla conferenza, il capo della diplomazia ha rimarcato l'importanza centrale del settore privato come propulsore indispensabile per stimolare una crescita economica duratura e favorire lo sviluppo sostenibile dell'intero bacino mediterraneo, auspicando maggiori sinergie commerciali tra i Paesi delle due sponde. Lo riferisce Egypt Independent.",
+   "more": [
+    "L'Unione per il Mediterraneo è un'organizzazione intergovernativa che raggruppa gli Stati membri dell'Unione europea e i Paesi che si affacciano sulle coste meridionali e orientali del Mediterraneo. L'istituzione promuove progetti concreti di integrazione regionale nei campi dell'occupazione, dello sviluppo economico, dell'energia pulita e della protezione ambientale."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/fm-welcomes-convening-of-ufm-economic-forum-in-cairo/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-20T09:34+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zab160595",
+   "sez": "tech",
+   "titolo": "Germania, sentenza impone a Google di cancellare le immagini satellitari di una proprietà privata",
+   "orig": "Google Maps und Google Earth: Luftaufnahmen von Privatgrundstück müssen gelöscht werden",
+   "lead": "In Germania i giudici hanno stabilito che le riprese aeree e satellitari relative a una residenza privata devono essere eliminate dai servizi Google Maps e Google Earth. La vicenda era partita dal ricorso legale presentato da un padre di famiglia residente a Francoforte, il quale aveva precedentemente ottenuto la rimozione della visuale frontale dell'abitazione e ha poi contestato la presenza delle viste aeree dall'alto. Nell'accogliere la richiesta del cittadino, il tribunale ha espresso una decisione di principio sui confini della privacy. Lo riferisce Der Spiegel.",
+   "more": [
+    "La tutela della sfera privata in Germania ha storicamente imposto limiti severi alla mappatura fotografica di strade ed edifici da parte di colossi tecnologici. A differenza di altri Paesi, il sistema tedesco riconosce ai proprietari un controllo rigoroso sulla riproduzione visiva delle proprie abitazioni per evitare intrusioni e possibili violazioni della riservatezza domestica."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/netzwelt/netzpolitik/google-maps-und-google-earth-luftaufnahmen-von-privatgrundstueck-muessen-geloescht-werden-a-0d9228ad-f424-444e-b564-7ed3a3c974c9#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T12:04+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z06518766",
+   "sez": "economia",
+   "titolo": "Algeria, il ministero del Commercio ricorda l'obbligo di esporre chiaramente i prezzi",
+   "orig": "Le ministère du Commerce rappelle l’obligation d’affichage des prix des produits et services",
+   "lead": "Il ministero del Commercio Interno e della Regolazione del Mercato Nazionale algerino ha emanato un comunicato formale indirizzato a tutti gli operatori economici attivi nei vari comparti commerciali del Paese. La nota governativa ribadisce l'obbligo vincolante di indicare i prezzi e le tariffe applicati a beni e prestazioni di servizio in modo ben visibile, chiaro e perfettamente leggibile per i clienti, in piena conformità con i regolamenti legislativi in vigore sul territorio al fine di tutelare i consumatori da abusi. Lo riferisce Le Matin Algérie.",
+   "more": [
+    "L'esposizione pubblica dei prezzi di vendita al dettaglio rappresenta una regola fondamentale per il funzionamento dei mercati e per la tutela della trasparenza verso i cittadini. Le autorità di regolazione nazionale intervengono frequentemente con controlli e sanzioni per impedire speculazioni commerciali e variazioni arbitrarie sui beni di prima necessità."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/le-ministere-du-commerce-rappelle-lobligation-daffichage-des-prix-des-produits-et-services/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-20T09:20+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z01603370",
+   "sez": "ingegneria",
+   "titolo": "Lo studio OMA realizza in Francia un tribunale dall'architettura innovativa",
+   "orig": "Oma ha costruito in Francia un tribunale che non sembra un tribunale",
+   "lead": "Il celebre studio di architettura OMA ha completato in territorio francese un nuovo edificio destinato ad accogliere uffici e funzioni giudiziarie, contraddistinto da una concezione spaziale che si distacca dai consueti canoni estetici e formali attribuiti alle sedi di giustizia. La struttura realizzata intende ripensare l'immagine dell'istituzione forense attraverso scelte progettuali e soluzioni contemporanee, offrendo una rappresentazione visiva alternativa agli stereotipi architettonici storicamente legati a quest'ordine di edifici pubblici. Lo riferisce Domus.",
+   "more": [
+    "Lo studio OMA, fondato dall'architetto olandese Rem Koolhaas, è celebre per l'approccio teorico e la rottura con le convenzioni costruttive tradizionali. Gli edifici giudiziari contemporanei tendono a privilegiare trasparenza, accessibilità e illuminazione naturale, abbandonando l'austerità monumentale che ne ha caratterizzato l'architettura monumentale nei secoli scorsi."
+   ],
+   "fonti": [
+    {
+     "n": "Domus",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.domusweb.it/it/notizie/gallery/2026/10/19/Il%20nuovo%20palazzo%20di%20giustizia%20di%20OMA%20a%20Lille%20%C3%A8%20un%20tribunale%20colorato%20che%20non%20sembra%20un%20tribunale.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T11:00+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zf12a2a22",
+   "sez": "economia",
+   "titolo": "Giappone, le opposizioni propongono alternative al taglio delle tasse sui beni alimentari",
+   "orig": "Opposition offers alternatives to food consumption tax cut in parliamentary debate",
+   "lead": "Nel parlamento di Tokyo si è aperto un vivace confronto politico sul costo della vita, con le forze di opposizione che hanno avanzato diverse misure alternative rispetto al piano di riduzione dell'imposta sui consumi alimentari prospettato dalla maggioranza. La questione rappresenta un banco di prova cruciale per la prima ministra Sanae Takaichi, la quale ha fatto di questo provvedimento fiscale il pilastro della propria agenda economica ed è ora chiamata a dimostrare se la misura possa offrire un concreto sollievo alle famiglie giapponesi. Lo riferisce The Japan Times.",
+   "more": [
+    "L'imposta sui consumi in Giappone grava sugli acquisti quotidiani e rappresenta una voce fiscale rilevante per il bilancio dello Stato. Il rincaro globale dei generi alimentari e la svalutazione dello yen hanno alimentato le pressioni popolari e parlamentari per un alleggerimento del prelievo sui beni primari a tutela dei redditi delle famiglie."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/20/japan/politics/consumption-tax-debate-start/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-20T17:45+09:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "zeae36aff",
+   "sez": "tech",
+   "titolo": "Dalla Svizzera i componenti essenziali per alimentare i centri dati dell'intelligenza artificiale",
+   "orig": "Chips, Strom, Kühlung: Diese Schweizer Unternehmen erwecken die KI zum Leben",
+   "lead": "I centri di calcolo dedicati all'elaborazione dei modelli di intelligenza artificiale in tutto il pianeta dipendono strettamente da tecnologie, componenti e innovazioni sviluppate da imprese svizzere. I contributi dell'industria elvetica spaziano dai semiconduttori alla distribuzione efficiente dell'energia elettrica, fino ai sofisticati impianti di raffreddamento necessari per mantenere operative le infrastrutture informatiche. Questo comparto di aziende specializzate gioca un ruolo decisivo nel sostenere il massiccio incremento di capacità richiesto dall'innovazione digitale, ricavando importanti ritorni economici dalla forte espansione globale del settore. Lo riferisce NZZ.",
+   "more": [
+    "L'addestramento e il funzionamento dei moderni modelli di intelligenza artificiale richiedono una quantità enorme di potenza di calcolo, generando consumi energetici e calore estremi. I centri dati necessitano quindi di tecnologie ingegneristiche all'avanguardia per la gestione termica a liquido e l'alimentazione stabile per evitare interruzioni di servizio."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/wirtschaft/chips-und-datenzentren-schweizer-firmen-liefern-fuer-den-ki-boom-ld.10026543",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-20T08:57+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
+   "id": "z5462186d",
+   "sez": "sport",
+   "titolo": "Algeria, anticipato a sabato 24 ottobre il derby di calcio tra USM Alger e CR Belouizdad",
+   "orig": "Ligue 1 : le derby USM Alger-CR Belouizdad avancé au samedi 24 octobre",
+   "lead": "La Ligue de football professionnel algerina ha stabilito una variazione nel calendario della settima giornata del massimo campionato nazionale di calcio, riprogrammando il derby cittadino tra l'USM Alger e il CR Belouizdad. Il match, inizialmente fissato in calendario per giovedì ventinove ottobre, è stato anticipato a sabato ventiquattro ottobre con inizio previsto alle ore diciassette e quarantacinque. La partita tra le due storiche compagini della capitale si disputerà sul terreno di gioco dello stadio 5 Juillet 1962. Lo riferisce Le Matin Algérie.",
+   "more": [
+    "Il derby tra USM Alger e CR Belouizdad costituisce una delle rivalità sportive più sentite nel panorama calcistico algerino e nordafricano. Entrambi i club della capitale vantano un ricco palmarès nazionale e un numeroso seguito di tifosi, e i loro confronti diretti si svolgono tradizionalmente nel principale impianto della città per motivi di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/ligue-1-le-derby-usm-alger-cr-belouizdad-avance-au-samedi-24-octobre/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-20T09:14+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "12:45",
+   "uscita": "13"
+  },
+  {
    "id": "zd40bc17c",
    "sez": "italia",
    "titolo": "Scontri a Milano, diversi cantanti rap intervengono sulle disuguaglianze sociali",
@@ -1189,6 +3585,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Papua New Guinea",
      "t": "2026-10-20T08:50+00:00"
+    },
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/uzbekistan-announces-12-billion-in-agreements-during-marco-rubios-visit/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-20T10:18+00:00"
     }
    ],
    "data": "20 ott",
@@ -1919,6 +4324,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-20T12:01+02:00"
+    },
+    {
+     "n": "Prothom Alo (inglese)",
+     "p": "XX",
+     "c": "Dacca",
+     "u": "https://en.prothomalo.com/international/rxsz5mhhjh",
+     "angolo": "",
+     "atlas": "Bangladesh",
+     "t": "2026-10-20T07:35+00:00"
     }
    ],
    "data": "20 ott",
@@ -2561,7 +4975,106 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z95d7c3d5": "Vatican News evidenzia l'incontro tra i due autori e l'approfondimento della testimonianza spirituale dei santi.",
   "z1abcf15d": "The Punch evidenzia il grido d'allarme dei professionisti sanitari circa le carenze strutturali e i tagli alle paghe.",
   "z4296d0c2": "Orizzonte Scuola riepiloga le procedure pratiche e gli obblighi dei docenti nei viaggi d'istruzione in caso di infortunio.",
-  "z198eb6c1": "Rolling Stone Italia celebra la reinterpretazione del brano e l'approccio artistico di Dylan alla continua riscrittura dei testi."
+  "z198eb6c1": "Rolling Stone Italia celebra la reinterpretazione del brano e l'approccio artistico di Dylan alla continua riscrittura dei testi.",
+  "z2ea11eba": "L'emittente sammarinese segnala la riprogrammazione speciale del film cult restaurato a trent'anni dall'esordio.",
+  "z1033d362": "La testata romena evidenzia la dipendenza tecnica della banca digitale dai server cloud di Google.",
+  "ze05899dc": "L'emittente lusitana riassume le decisioni della UEFA riguardanti i direttori di gara per i club portoghesi.",
+  "z2815d7dc": "Il quotidiano pachistano sottolinea la rapida successione di funzionari al vertice del ministero sanitario.",
+  "z9db46566": "La rivista specializzata pone l'accento sull'approvazione del cantiere per ampliare l'offerta abitativa.",
+  "zcec229fe": "La rivista tecnologica analizza la corsa industriale per la produzione delle memorie richieste dall'IA.",
+  "z2b30b7e5": "La televisione pubblica portoghese evidenzia le affermazioni di Trump sulle cause della crisi francese.",
+  "z375c5851": "L'emittente norvegese analizza il declino economico e la nuova gestione della Serie A rispetto al passato.",
+  "zeef1a402": "Il quotidiano romano mette in guardia contro la disinformazione virale generata sui social tra i ragazzi.",
+  "zc81d1b41": "La pubblicazione britannica evidenzia l'aggiornamento della flotta aziendale con nuovi macchinari di scavo.",
+  "zadca2f3d": "Il portale didattico descrive la rapida estensione delle occupazioni negli istituti superiori fiorentini.",
+  "z0e3b0982": "La rivista accademica racconta la sperimentazione di ricette ibride nelle mense dei licei americani.",
+  "z921cfbc3": "La rivista musicale americana raccoglie i momenti più significativi della prima edizione del festival.",
+  "zf498a0ac": "La testata specializzata in salute riporta i dati sui rincari dei listini dei nuovi prodotti farmaceutici.",
+  "z831097ed": "Il portale ceco rilancia i timori dei tecnici forestali per una nuova invasione del parassita.",
+  "z46817839": "Il giornale beninese descrive la manovra dell'orbiter militare russo verso la tecnologia commerciale.",
+  "z40e60fd4": "L'emittente statunitense illustra i dubbi dei deputati progressisti rispetto ai crediti d'imposta per la scuola.",
+  "z8dd63b44": "Il quotidiano tunisino evidenzia i preparativi per il festival dedicato alla cooperazione con il Giappone.",
+  "z3b56768d": "L'emittente serba descrive le caratteristiche del robot ideato per assistere gli anziani a domicilio.",
+  "z1dcdacb4": "Il periodico di ingegneria britannico segue l'avvio del cantiere da trentadue milioni di sterline.",
+  "z02c7f3e9": "Il quotidiano londinese recensisce la pellicola animata incentrata sull'accettazione e l'amicizia tra ragazzi.",
+  "zae015d2b": "La rivista di settore annuncia i protagonisti previsti per il decennale del festival australiano.",
+  "zaf104247": "La testata specializzata monitora i quesiti referendari più rilevanti sulla gestione della sanità americana.",
+  "z4d6d1ec4": "Il giornale analizza le cause profonde degli scontri urbani oltre la cronaca giudiziaria.",
+  "zaf3a203b": "L'attenzione del quotidiano si concentra sull'impatto pedagogico delle installazioni interattive ospitate nel parco urbano.",
+  "zb2fccda5": "L'emittente approfondisce le dinamiche economiche che spiegano le discrepanze di prezzo tra singoli generi alimentari.",
+  "z1149a9cb": "L'agenzia mette in evidenza il valore artistico del debutto e la soddisfazione espressa dall'autore del romanzo originale.",
+  "z03745590": "La testata evidenzia l'invito istituzionale rivolto alle nuove generazioni affinché sfruttino la transizione digitale per avviare attività d'impresa.",
+  "z24484735": "La cronaca pone l'accento sulla pronta reazione dei campioni in carica kenyoti e sulle contemporanee difficoltà delle altre rivali.",
+  "zecbd0ff0": "La testata specializzata sottolinea l'affidamento dei contratti futuri dopo i risultati dei precedenti cantieri nei bacini portuali.",
+  "zc662e99b": "La recensione analizza il contrasto tra la solida premessa psicologica e l'inserimento di elementi convenzionali del cinema dell'orrore.",
+  "za17df1e7": "Il periodico musicale rimarca la superiorità della preparazione strumentale del duo rispetto agli aspetti puramente scenografici.",
+  "za16abc27": "L'articolo d'opinione segnala l'allarme per l'eventuale perdita delle norme a presidio della salute psicofisica del personale sanitario.",
+  "z935be64f": "Il quotidiano svela il confronto ideologico tra fazioni opposte di manifestanti circa l'opportunità delle violenze urbane.",
+  "z597fbb56": "Il quotidiano mette in risalto il potenziale delle analisi genetiche su minuscoli resti fossili per mappare la fauna scomparsa.",
+  "z6db1d342": "La testata di Singapore analizza il bilancio provvisorio della presidenza e le difficoltà legate al mantenimento degli impegni elettorali.",
+  "zeb873c11": "Il media kenyota celebra il salto professionale all'estero della giovane attaccante verso un campionato professionistico europeo.",
+  "zd9d4997d": "Il report evidenzia la funzione cruciale dei database clinici digitali per monitorare l'aderenza dei pazienti alle cure preventive.",
+  "z4dc7d93f": "Il giornale descrive la condizione di precarietà e dolore delle famiglie costrette a vivere una solenne festività lontano dai propri villaggi.",
+  "z685d2442": "La testata finanziaria documenta l'espansione del portafoglio commerciale del fondo d'investimento sui principali mercati europei.",
+  "ze0047444": "La testata medica descrive l'utilità clinica della piattaforma genetica pensata per adattare le risposte biologiche alle esigenze dei pazienti.",
+  "z57a3f4ca": "Il quotidiano riferisce l'esito giudiziario per i giovani coinvolti nei tafferugli alla stazione Centrale dopo la mobilitazione di solidarietà.",
+  "zd4514e14": "L'emittente insulare mette in luce l'urgenza di una deliberazione governativa centrale per affrontare l'emergenza idrica in atto.",
+  "z6daf7ca1": "La testata segue l'appello dell'esponente di Hong Kong per intensificare le intese commerciali e la finanza verde tra i partner regionali.",
+  "zafd6cd08": "Il giornale di Seul risalta il primato economico del gruppo nelle vendite di biglietti per concerti su scala asiatica.",
+  "z33f31c82": "La redazione rimarca l'incertezza circa l'origine dell'intrusione telematica e il timore per la fuga di ulteriori documenti.",
+  "z82e7c50a": "La rivista di design valorizza la scelta di esaltare la manualità artistica in contrasto con la pervasività delle tecnologie digitali.",
+  "z9d8dfb37": "Il settimanale britannico riferisce l'entusiasmo dei fan scaturito dai segnali social pubblicati dal cantautore sulle date dei concerti.",
+  "zfb39d901": "La pubblicazione medica segnala come la prevenzione programmata sia vantaggiosa anche al di sotto delle consuete soglie cliniche.",
+  "z7c023452": "La rubrica analizza l'evoluzione culturale e il valore simbolico del celebre cartone per alimenti diffuso nella ristorazione americana.",
+  "z66e34f2e": "La testata evidenzia l'azione dimostrativa degli studenti contro gli abusi di polizia e il rifiuto di avviare il confronto formale.",
+  "z4aa1cdf0": "L'agenzia evidenzia l'iniziativa diplomatica dello Stato kirghiso a tutela dei delicati ambienti d'alta quota al vertice ecologico.",
+  "z67b7f597": "L'agenzia locale riporta le statistiche sull'età avanzata del personale scolastico e le richieste di adeguamenti salariali nella capitale.",
+  "z4692ae9b": "L'attenzione della testata si focalizza sul ruolo del tatto fisico come strumento artistico per superare la distanza tra corporeità e pensiero.",
+  "z2a9b9811": "La testata evidenzia il contrasto tra la rapidità di montaggio promessa online e gli ostacoli pratici legati a permessi e normative.",
+  "zf4d0e691": "L'articolo mette in luce l'evoluzione artistica e umana della cantautrice nel rielaborare serenamente il proprio vissuto senza sensi di colpa.",
+  "z6dbcf690": "La testata sottolinea l'efficacia preliminare e la sicurezza di un trattamento non invasivo a ultrasuoni per ridurre i sintomi deliranti.",
+  "z5934a367": "La testata pone l'accento sulla prova attoriale di Catherine Chau e sulla leggerezza del racconto incentrato sull'emancipazione domestica.",
+  "z415dfc34": "Il quotidiano evidenzia la determinazione dell'allenatore nel prolungare la striscia vincente all'ippodromo dove ha storicamente ottenuto i suoi migliori risultati.",
+  "z60e3c83c": "L'agenzia di stampa mette in evidenza la dimensione dell'evento fieristico e l'elevata partecipazione di aziende moldave prevista per gennaio.",
+  "zb6eccf25": "La testata sottolinea l'incontro tra l'identità classica dello streetwear sportivo e la visione creativa dello stilista Chavarria.",
+  "z92113850": "Il periodico mette in risalto l'influenza diretta della famiglia nella trasmissione precoce di pregiudizi considerati ingannevolmente positivi.",
+  "zf04c8b84": "La testata pone l'accento sulla possibilità di sviluppare nuove terapie preventive in grado di proteggere i polmoni sani dalle radiazioni.",
+  "zc155ce68": "Il giornale sottolinea le critiche costruttive del tecnico verso orari e strutture sportive per favorire una crescita concreta del movimento.",
+  "z086d4d57": "L'emittente televisiva dà rilievo al debutto del terzo lungometraggio della serie e al suo legame con il festival di Lucca.",
+  "z2720376e": "Il periodico evidenzia l'originalità del disegno geometrico e la capacità dell'edificio di dialogare con un contesto naturale ostile.",
+  "z38f6e186": "La testata evidenzia l'altissima percentuale di accuratezza diagnostica garantita da questa nuova scansione medica.",
+  "za451a3fa": "Il portale pone l'accento sulla ricorrenza dei centocinquant'anni e sul valore storico e architettonico dell'esposizione museale.",
+  "z54a4d241": "L'agenzia uzbeka mette in rilievo la data, la sede dell'incontro e l'importanza dell'evento per il pubblico locale.",
+  "z167b620c": "Il quotidiano sottolinea la contrazione del volume degli scambi tra istituti bancari a fronte della crescita dei tassi di interesse.",
+  "z0136f3a3": "La rivista evidenzia la collaborazione architettonica e il format innovativo volto a ripensare l'esperienza d'acquisto in chiave sostenibile.",
+  "z7b625765": "La testata pone l'accento sulla possibilità di facilitare la comunicazione d'impresa attraverso figure virtuali interattive guidate da algoritmi.",
+  "zb8145419": "Il portale mette in luce il valore delle visite gratuite fornite alla comunità locale per incoraggiare la prevenzione sanitaria.",
+  "z1b95046f": "Il quotidiano dà risalto alla necessità di una chiara visione strategica per garantire la continuità dei festival culturali regionali.",
+  "z734ff86c": "Il giornale filippino mette in luce la discrepanza tra i tagli della Camera e le richieste finanziarie avanzate al Senato.",
+  "zeed0f6fe": "La testata specializzata sottolinea l'importanza del prototipo quale laboratorio di ricerca per anticipare i futuri standard costruttivi dei macchinari.",
+  "zf1ba9262": "Il quotidiano evidenzia le dichiarazioni di Musk sulle eccezionali capacità di volo e accelerazione promesse per la nuova vettura.",
+  "z7d3c6a45": "La testata sottolinea l'impegno istituzionale per risolvere il problema della carenza di posti letto e tutelare la maternità.",
+  "z48e38d31": "Il quotidiano parigino denuncia quella che definisce una pericolosa deriva autoritaria da parte dei vertici istituzionali contro l'opposizione.",
+  "ze7ca2f17": "Il quotidiano tedesco racconta l'atmosfera festosa della serata di gala e le dichiarazioni ironiche dei protagonisti sulle disavventure mostrate nel film.",
+  "z5273328b": "Il giornale evidenzia l'intervento delle autorità governative francesi nel richiamare i portali di commercio elettronico alle proprie responsabilità.",
+  "zd20b9c8d": "La testata mette in luce la trattativa pragmatica proposta da Feijóo per evitare la dispersione dei voti dell'opposizione.",
+  "z0842e94f": "La testata sottolinea l'attenzione del governo tagiko per la gestione condivisa delle acque e la cooperazione tecnologica regionale.",
+  "z0697c465": "La testata mette in contrasto i recenti strumenti legali italiani con l'enormità dei pericoli globali segnalati dai tecnici.",
+  "z1bdc7ddf": "Il quotidiano valorizza le umili origini e l'insolito percorso di vita dell'allenatore prima del suo approdo nell'élite europea.",
+  "z3068ad07": "Il giornale dà rilievo alle preoccupazioni degli organizzatori per il futuro della produzione letteraria senegalese.",
+  "z51493c6d": "La fonte richiama l'attenzione sulle prospettive di collaborazione tecnologica tra Pyongyang e aziende cinesi del settore digitale.",
+  "z42ea6595": "La testata illustra la spiegazione genetica e la funzione evolutiva che determinano l'inconfondibile emanazione del frutto.",
+  "zecf6c35c": "Il quotidiano economico elenca le misure pratiche raccomandate dall'autorità per verificare la veridicità degli acquisti.",
+  "z3aa5565b": "L'emittente insiste sull'obbligo vincolante imposto ai provider internet e sul raccordo con la Banca Centrale irachena.",
+  "zb7827793": "L'articolo puntualizza l'importanza di non affrettare i tempi e di basare la ripresa su parametri fisici personalizzati.",
+  "zc1513349": "La fonte locale evidenzia l'ammissione dell'errore formale da parte della missione diplomatica e l'impatto numerico circoscritto.",
+  "zb0a58ed8": "Il giornale egiziano riporta la visione del ministro sul ruolo prioritario delle imprese private nello sviluppo regionale.",
+  "zab160595": "Il settimanale tedesco pone l'accento sulla portata generale e sui precedenti stabiliti dalla decisione dei magistrati.",
+  "z06518766": "La pubblicazione algerina richiama il dovere di conformità degli esercenti alle normative vigenti sulla trasparenza dei listini.",
+  "z01603370": "La rivista specializzata mette in evidenza l'originalità compositiva che rende l'opera differente dai consueti palazzi di giustizia.",
+  "zf12a2a22": "Il quotidiano nipponico sottolinea la sfida politica per la premier Takaichi rispetto alle proposte avanzate dalle minoranze.",
+  "zeae36aff": "Il giornale svizzero mette a fuoco il ruolo determinante dei fornitori nazionali nell'ecosistema globale dei data center.",
+  "z5462186d": "La testata algerina dà risalto alla modifica ufficiale dell'orario e della data deliberata dalla lega calcistica professionistica."
  },
  "contesti": {
   "zeef60cd2": "Nelle ore precedenti la deputata indipendente Helen Haines si trovava nei pressi della propria sede elettorale a Wangaratta quando un fuoristrada ha invertito la marcia per investirla. Il conducente è stato bloccato sul posto dalla polizia locale, mentre i medici hanno lottato per ore in ospedale per salvarle la vita.",
@@ -3235,6 +5748,704 @@ window.EDIZIONI["2026-10-20-sera"] = {
     "Italy"
    ],
    "pt": []
+  },
+  "z2ea11eba": {
+   "n": "San Marino",
+   "p": [
+    "San Marino"
+   ],
+   "pt": []
+  },
+  "z1033d362": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "ze05899dc": {
+   "n": "Nyon",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z2815d7dc": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z9db46566": {
+   "n": "Kingston upon Thames",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zcec229fe": {
+   "n": "Pyeongtaek",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z2b30b7e5": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z375c5851": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zeef1a402": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc81d1b41": {
+   "n": "Northampton",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zadca2f3d": {
+   "n": "Firenze",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z0e3b0982": {
+   "n": "Summerville",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z921cfbc3": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf498a0ac": {
+   "n": "Boston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z831097ed": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z46817839": {
+   "n": "Cotonou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z40e60fd4": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8dd63b44": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z3b56768d": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z1dcdacb4": {
+   "n": "Bramcote",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z02c7f3e9": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zae015d2b": {
+   "n": "Grampians",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zaf104247": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4d6d1ec4": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zaf3a203b": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zb2fccda5": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1149a9cb": {
+   "n": "Firenze",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z03745590": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z24484735": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zecbd0ff0": {
+   "n": "Dover",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc662e99b": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "za17df1e7": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "za16abc27": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z935be64f": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z597fbb56": {
+   "n": "Siberia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z6db1d342": {
+   "n": "Giacarta",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "zeb873c11": {
+   "n": "Turchia",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "zd9d4997d": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z4dc7d93f": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z685d2442": {
+   "n": "Milano",
+   "p": [
+    "Italy",
+    "France",
+    "Spain"
+   ],
+   "pt": []
+  },
+  "ze0047444": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z57a3f4ca": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd4514e14": {
+   "n": "Honiara",
+   "p": [
+    "Solomon Is."
+   ],
+   "pt": []
+  },
+  "z6daf7ca1": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "zafd6cd08": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z33f31c82": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z82e7c50a": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9d8dfb37": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zfb39d901": {
+   "n": "Boston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7c023452": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z66e34f2e": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z4aa1cdf0": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z67b7f597": {
+   "n": "Chisinau",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z4692ae9b": {
+   "n": "Paesi Bassi",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z2a9b9811": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf4d0e691": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6dbcf690": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5934a367": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z415dfc34": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z60e3c83c": {
+   "n": "Chișinău",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "zb6eccf25": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z92113850": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf04c8b84": {
+   "n": "Duarte",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc155ce68": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z086d4d57": {
+   "n": "Lucca",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2720376e": {
+   "n": "Cile",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z38f6e186": {
+   "n": "Europa",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "za451a3fa": {
+   "n": "Zagabria",
+   "p": [
+    "Croatia"
+   ],
+   "pt": []
+  },
+  "z54a4d241": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z167b620c": {
+   "n": "Tanzania",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z0136f3a3": {
+   "n": "Bali",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "z7b625765": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb8145419": {
+   "n": "Techiman",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z1b95046f": {
+   "n": "Zimbabwe",
+   "p": [
+    "Zimbabwe"
+   ],
+   "pt": []
+  },
+  "z734ff86c": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zeed0f6fe": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zf1ba9262": {
+   "n": "Austin",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7d3c6a45": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z48e38d31": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "ze7ca2f17": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z5273328b": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zd20b9c8d": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z0842e94f": {
+   "n": "Dushanbe",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z0697c465": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1bdc7ddf": {
+   "n": "Europa",
+   "p": [
+    "Lithuania",
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z3068ad07": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z51493c6d": {
+   "n": "Hunan",
+   "p": [
+    "China",
+    "North Korea"
+   ],
+   "pt": []
+  },
+  "z42ea6595": {
+   "n": "Sud-est asiatico",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zecf6c35c": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z3aa5565b": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zb7827793": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc1513349": {
+   "n": "Sudafrica",
+   "p": [
+    "Ghana",
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zb0a58ed8": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zab160595": {
+   "n": "Francoforte sul Meno",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z06518766": {
+   "n": "Algeri",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
+  },
+  "z01603370": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zf12a2a22": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zeae36aff": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z5462186d": {
+   "n": "Algeri",
+   "p": [
+    "Algeria"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3320,7 +6531,106 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z95d7c3d5": 1,
   "z1abcf15d": 1,
   "z4296d0c2": 1,
-  "z198eb6c1": 1
+  "z198eb6c1": 1,
+  "z2ea11eba": 1,
+  "z1033d362": 1,
+  "ze05899dc": 1,
+  "z2815d7dc": 1,
+  "z9db46566": 1,
+  "zcec229fe": 1,
+  "z2b30b7e5": 1,
+  "z375c5851": 1,
+  "zeef1a402": 1,
+  "zc81d1b41": 1,
+  "zadca2f3d": 1,
+  "z0e3b0982": 1,
+  "z921cfbc3": 1,
+  "zf498a0ac": 1,
+  "z831097ed": 1,
+  "z46817839": 1,
+  "z40e60fd4": 1,
+  "z8dd63b44": 1,
+  "z3b56768d": 1,
+  "z1dcdacb4": 1,
+  "z02c7f3e9": 1,
+  "zae015d2b": 1,
+  "zaf104247": 1,
+  "z4d6d1ec4": 1,
+  "zaf3a203b": 1,
+  "zb2fccda5": 1,
+  "z1149a9cb": 1,
+  "z03745590": 1,
+  "z24484735": 1,
+  "zecbd0ff0": 1,
+  "zc662e99b": 1,
+  "za17df1e7": 1,
+  "za16abc27": 1,
+  "z935be64f": 1,
+  "z597fbb56": 1,
+  "z6db1d342": 1,
+  "zeb873c11": 1,
+  "zd9d4997d": 1,
+  "z4dc7d93f": 1,
+  "z685d2442": 1,
+  "ze0047444": 1,
+  "z57a3f4ca": 1,
+  "zd4514e14": 1,
+  "z6daf7ca1": 1,
+  "zafd6cd08": 1,
+  "z33f31c82": 1,
+  "z82e7c50a": 1,
+  "z9d8dfb37": 1,
+  "zfb39d901": 1,
+  "z7c023452": 1,
+  "z66e34f2e": 1,
+  "z4aa1cdf0": 1,
+  "z67b7f597": 1,
+  "z4692ae9b": 1,
+  "z2a9b9811": 1,
+  "zf4d0e691": 1,
+  "z6dbcf690": 1,
+  "z5934a367": 1,
+  "z415dfc34": 1,
+  "z60e3c83c": 1,
+  "zb6eccf25": 1,
+  "z92113850": 1,
+  "zf04c8b84": 2,
+  "zc155ce68": 1,
+  "z086d4d57": 1,
+  "z2720376e": 1,
+  "z38f6e186": 1,
+  "za451a3fa": 1,
+  "z54a4d241": 1,
+  "z167b620c": 1,
+  "z0136f3a3": 1,
+  "z7b625765": 1,
+  "zb8145419": 1,
+  "z1b95046f": 1,
+  "z734ff86c": 1,
+  "zeed0f6fe": 1,
+  "zf1ba9262": 1,
+  "z7d3c6a45": 1,
+  "z48e38d31": 1,
+  "ze7ca2f17": 1,
+  "z5273328b": 1,
+  "zd20b9c8d": 1,
+  "z0842e94f": 1,
+  "z0697c465": 1,
+  "z1bdc7ddf": 1,
+  "z3068ad07": 1,
+  "z51493c6d": 1,
+  "z42ea6595": 1,
+  "zecf6c35c": 1,
+  "z3aa5565b": 1,
+  "zb7827793": 1,
+  "zc1513349": 1,
+  "zb0a58ed8": 1,
+  "zab160595": 1,
+  "z06518766": 1,
+  "z01603370": 1,
+  "zf12a2a22": 1,
+  "zeae36aff": 1,
+  "z5462186d": 1
  },
  "video": {},
  "pillole": []
