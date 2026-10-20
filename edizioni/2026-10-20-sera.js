@@ -277,7 +277,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z3e52063a",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Ciad: il ministero dell'Istruzione adotta misure di prevenzione contro l'epidemia di dengue",
    "orig": "Épidémie de dengue : le ministère de l’Enseignement supérieur prend des mesures de prévention",
    "lead": "A seguito della preoccupante diffusione della dengue, il ministro dell'Enseignement supérieur del Ciad, Sitack Yombatina, ha diramato una circolare con nuove disposizioni sanitarie. Le misure di prevenzione e contrasto all'epidemia sono state estese a tutte le strutture e agli istituti di istruzione dipendenti dal dicastero. Lo riferisce Tchadinfos.",
@@ -379,28 +379,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Guinea",
      "t": "2026-10-20T17:42+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:30",
-   "uscita": "sera"
-  },
-  {
-   "id": "z00f6eefc",
-   "sez": "mondo",
-   "titolo": "Guinea: insediati i nuovi vertici dell'OGP a Conakry tra rivendicazioni sindacali e promesse di rilancio",
-   "orig": "Prise de fonction à l’OGP : le syndicat dépose son cahier de doléances, le DGA assure de sa disponibilité",
-   "lead": "Il nuovo direttore generale dell'Office Guinéen de Publicité, Mohamed Bangoura, e il suo vice si sono insediati ufficialmente a Conakry raccogliendo il cahier de doléances presentato dal sindacato dei lavoratori. La nuova dirigenza si è impegnata a rispondere alle priorità dei dipendenti per superare la fase di crisi e turbolenze interne che ha segnato l'ente negli ultimi anni. Lo riferisce Mosaïque Guinée.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Mosaïque Guinée",
-     "p": "XX",
-     "c": "Conakry",
-     "u": "https://mosaiqueguinee.com/2026/10/prise-de-fonction-a-logp-le-syndicat-depose-son-cahier-de-doleances-le-dga-assure-de-sa-disponibilite/",
-     "angolo": "",
-     "atlas": "Guinea",
-     "t": "2026-10-20T16:25+00:00"
     }
    ],
    "data": "20 ott",
@@ -615,7 +593,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z77b3af4c",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Ligue 1 RDC: il CS Don Bosco fermato sull'1-1 dal Malole nella giornata inaugurale",
    "orig": "Ligue 1: Des regrets pour le CS Don Bosco devant Malole",
    "lead": "Il Cercle Sportif Don Bosco ha pareggiato per uno a uno contro la formazione del Malole nella partita d'esordio del campionato nazionale di calcio della Repubblica Democratica del Congo, valida per la prima giornata della Ligue 1. Lo riferisce Actualite.cd.",
@@ -840,28 +818,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z9a69a0c3",
-   "sez": "mondo",
-   "titolo": "L'Unione Europea si attrezza per affrontare le crescenti sfide geopolitiche e i conflitti nell'Artico",
-   "orig": "EU wappnet sich für Konflikte in der Arktis",
-   "lead": "L'Unione Europea ha avviato una strategia di rafforzamento e preparazione geopolitica per fronteggiare la crescente competizione e i potenziali conflitti nell'area dell'Artico, un quadrante strategico di fondamentale importanza per gli equilibri globali. Lo riferisce ORF.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445682/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-20T19:28+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:30",
-   "uscita": "sera"
-  },
-  {
    "id": "zd3fe8814",
    "sez": "mondo",
    "titolo": "Guerra in Ucraina, l'analisi dell'esperto Gerhard Mangott sui recenti attacchi",
@@ -925,50 +881,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "data": "20 ott",
    "ora": "20:30",
-   "uscita": "sera"
-  },
-  {
-   "id": "z76210d8c",
-   "sez": "mondo",
-   "titolo": "Parigi impone un nuovo coprifuoco notturno e il premier accusa l'estrema sinistra",
-   "orig": "France Imposes New Paris Curfew as PM Blames Far-Left Groups",
-   "lead": "La Francia ha imposto un nuovo coprifuoco notturno mentre il primo ministro ha accusato i gruppi di estrema sinistra di pianificare un'insurrezione. Il governo ha inoltre promesso imponenti misure di sicurezza in vista delle proteste previste per sabato. Lo riferisce Kurdistan24.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Kurdistan24",
-     "p": "XX",
-     "c": "Baghdad",
-     "u": "https://www.kurdistan24.net/en/story/947455/france-imposes-new-paris-curfew-as-pm-blames-far-left-groups",
-     "angolo": "",
-     "atlas": "Iraq",
-     "t": "2026-10-20T19:59+03:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze9ff8975",
-   "sez": "tech",
-   "titolo": "Hacker viola oltre 100 siti web utilizzando agenti di intelligenza artificiale",
-   "orig": "Хакер взломал более 100 сайтов с помощью ИИ-агентов",
-   "lead": "Un hacker è riuscito a violare più di cento siti internet sfruttando agenti di intelligenza artificiale che hanno operato in modo completamente autonomo. Lo rivela un rapporto pubblicato dalla società di cybersecurity Norforge. Lo riferisce 24.kg.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "24.kg",
-     "p": "XX",
-     "c": "Bishkek",
-     "u": "https://24.kg/article/haker-vzlomal-bolee-100-sajtov-s-pomoshyu-ii-agentov",
-     "angolo": "",
-     "atlas": "Kyrgyzstan",
-     "t": "2026-10-20T23:40+06:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
    "uscita": "sera"
   },
   {
@@ -1346,28 +1258,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zab506d8e",
-   "sez": "mondo",
-   "titolo": "L'ONU costretta a tagliare gli aiuti a mezzo milione di persone a Gaza per mancanza di fondi",
-   "orig": "ONU dejará de ayudar a medio millón de personas en Gaza: faltan fondos",
-   "lead": "Il Programma Alimentare Mondiale delle Nazioni Unite ha annunciato che la carenza di finanziamenti impone drastici tagli ai programmi umanitari nella Striscia di Gaza, lasciando circa 500.000 persone senza assistenza alimentare mensile in un contesto di grave emergenza. Lo riferisce Confidencial.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Confidencial",
-     "p": "XX",
-     "c": "Managua",
-     "u": "https://confidencial.digital/mundo/onu-dejara-de-ayudar-a-medio-millon-de-personas-en-gaza-faltan-fondos/",
-     "angolo": "",
-     "atlas": "Nicaragua",
-     "t": "2026-10-20T16:30+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
    "id": "ze48abad0",
    "sez": "mondo",
    "titolo": "A Laja, il presidente boliviano sottolinea l'importanza dell'unità per superare le difficoltà",
@@ -1449,52 +1339,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-20T18:22+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
-   "id": "zb8c1df6c",
-   "sez": "mondo",
-   "titolo": "Elezioni presidenziali francesi 2027: Mélenchon qualificato contro Le Pen, Philippe eliminato",
-   "orig": "Présidentielle 2027 : Mélenchon qualifié face à Le Pen surpuissante, Philippe éliminé dans tous les cas… Après les émeutes, découvrez le sondage du Figaro",
-   "lead": "Secondo un sondaggio Ifop-Fiducial condotto tra sabato e lunedì in Francia, le violenze del 17 ottobre consolidano la base elettorale di Marine Le Pen. Jean-Luc Mélenchon risulta qualificato al ballottaggio contro la leader del RN, mentre l'ex premier Édouard Philippe verrebbe eliminato. Lo riferisce Le Figaro.",
-   "more": [
-    "L'indagine demoscopica riflette il clima politico fortemente polarizzato in Francia all'indomani dei recenti disordini, evidenziando come la sicurezza e l'ordine pubblico stiano ridefinendo gli equilibri in vista della corsa all'Eliseo del 2027."
-   ],
-   "fonti": [
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-melenchon-qualifie-face-a-le-pen-surpuissante-philippe-elimine-dans-tous-les-cas-apres-les-emeutes-decouvrez-le-sondage-du-figaro-20261020",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-20T19:00+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
-   "id": "z223d0472",
-   "sez": "mondo",
-   "titolo": "Marine Le Pen consolida la propria dominazione sulla campagna elettorale dopo le violenze",
-   "orig": "«Je ne vois pas ce qui peut nous arrêter» : après les violences du 17 octobre, Marine Le Pen assoit sa domination sur la campagne",
-   "lead": "All'indomani delle rivolte del 17 ottobre in Francia, la candidata nazionalista Marine Le Pen emerge come l'unica figura in grado di incrementare le proprie intenzioni di voto al primo turno. Lo evidenzia un sondaggio Ifop-Fiducial. Lo riferisce Le Figaro.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/elections/presidentielles/je-ne-vois-pas-ce-qui-peut-nous-arreter-apres-les-violences-du-17-octobre-marine-le-pen-assoit-sa-domination-sur-la-campagne-20261020",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-20T19:15+02:00"
     }
    ],
    "data": "20 ott",
@@ -1636,50 +1480,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z997a1033",
-   "sez": "mondo",
-   "titolo": "Violenze e saccheggi in Francia: il bilancio provvisorio e le misure del governo",
-   "orig": "Gewalt und Plünderungen: Frankreichs böses Erwachen nach den Unruhen",
-   "lead": "All'indomani delle recenti sommosse, il governo francese impone coprifuoco, promette aiuti ai commercianti derubati e tenta di bloccare la vendita online della merce trafugata, mentre si traccia un primo bilancio dei danni materiali e sociali. Lo riferisce FAZ.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "FAZ",
-     "p": "DE",
-     "c": "Francoforte",
-     "u": "https://www.faz.net/aktuell/wirtschaft/frankreich-nach-den-krawallen-milliardenschaeden-und-ausgangssperren-201604734.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-20T16:09+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze720a7b8",
-   "sez": "mondo",
-   "titolo": "Sommosse in Francia: il presidente del Senato Larcher accusa la sinistra di discorsi d'odio",
-   "orig": "Nach den Unruhen: Ein Linker zündete das Rathaus an",
-   "lead": "A seguito dei recenti disordini e dell'assalto incendiario a un municipio, il presidente del Senato francese Gérard Larcher punta il dito contro il partito della sinistra radicale, accusandolo di alimentare l'odio e auspicandone la messa al bando. Lo riferisce FAZ.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "FAZ",
-     "p": "DE",
-     "c": "Francoforte",
-     "u": "https://www.faz.net/aktuell/politik/ausland/brandstiftung-in-limoges-radikaler-linker-festgenommen-201604265.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-20T16:14+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
    "id": "zcb2cbd00",
    "sez": "economia",
    "titolo": "Vertice degli investitori a Berlino tra grandi cifre e la realtà dell'economia tedesca",
@@ -1747,7 +1547,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z2e26d566",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Nuovo progetto urbanistico dell'architetto Álvaro Siza per l'Avenida da Ponte a Oporto",
    "orig": "Entre “ruptura e abertura”: novo projecto de Siza para Avenida da Ponte em discussão pública",
    "lead": "Il terzo progetto firmato dall'architetto premio Pritzker Álvaro Siza per la zona storica di Oporto, incentrato sull'Avenida da Ponte, prevede la realizzazione di ventisette appartamenti, un museo, spazi verdi e un punto panoramico, ed è ora aperto alla discussione pubblica. Lo riferisce Público.",
@@ -1805,28 +1605,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-20T19:27+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
-   "id": "z31f8f43d",
-   "sez": "economia",
-   "titolo": "Il tribunale vieta a ING di chiudere l'ultimo conto corrente bancario di Gazprom",
-   "orig": "Waarom mag ING van de rechter de laatste bankrekening van Gazprom niet sluiten?",
-   "lead": "La giustizia olandese ha stabilito che Gazprom ha diritto a un conto di base per le attività aziendali, vietando alla banca ING di chiudere l'ultimo conto rimasto al colosso energetico russo. La sentenza potrebbe avere ripercussioni anche per le imprese che collaborano con la Corte penale internazionale dell'Aia. Lo riferisce NRC.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NRC",
-     "p": "XX",
-     "c": "Rotterdam",
-     "u": "https://www.nrc.nl/nieuws/2026/10/20/ing-mag-van-de-rechter-de-laatste-bankrekening-van-gazprom-niet-opzeggen-a4939377",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-20T17:22+02:00"
     }
    ],
    "data": "20 ott",
@@ -2157,6 +1935,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Poland",
      "t": "2026-10-20T17:16+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/polish-lawmakers-vote-to-ease-abortion-ban-but-face-likely-presidential-veto",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-21T01:56+08:00"
     }
    ],
    "data": "20 ott",
@@ -2516,28 +2303,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "za97deb56",
-   "sez": "mondo",
-   "titolo": "L'Unione Europea risponde a Trump con una nuova strategia per la sicurezza dell'Artico",
-   "orig": "Flota de rompehielos, cables submarinos y protección del petróleo: la UE le responde a Trump y presenta nueva estrategia para reforzar el Ártico",
-   "lead": "L'Unione Europea ha presentato una nuova strategia per rafforzare la presenza nell'Artico, prevedendo una flotta di navi rompighiaccio, cavi sottomarini e la tutela del petrolio. L'iniziativa mira a fornire una risposta congiunta alle minacce di Stati Uniti, Russia e Cina. Lo riferisce El Tiempo.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "El Tiempo",
-     "p": "XX",
-     "c": "Bogotá",
-     "u": "https://www.eltiempo.com/mundo/europa/flota-de-rompehielos-cables-submarinos-y-proteccion-del-petroleo-la-ue-le-responde-a-trump-y-presenta-nueva-estrategia-para-reforzar-el-artico-3594933",
-     "angolo": "",
-     "atlas": "Colombia",
-     "t": "2026-10-20T11:12-05:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
    "id": "z3b4bc6f0",
    "sez": "mondo",
    "titolo": "Gli esperti concordano: indifferenza e atteggiamento difensivo portano alla rottura di coppia",
@@ -2553,28 +2318,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Peru",
      "t": "2026-10-20T17:55+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
-   "id": "z9faab666",
-   "sez": "mondo",
-   "titolo": "Barcellona-PSG in diretta streaming e TV per la terza giornata di Champions League",
-   "orig": "🟣 HBO Max y TNT Sports EN VIVO — ver partido FC Barcelona vs. PSG EN DIRECTO por TV online",
-   "lead": "I canali HBO Max e TNT Sports trasmettono in diretta televisiva e online la sfida tra FC Barcelona e PSG, valida per la terza giornata della fase a gironi della UEFA Champions League 2026. Lo riferisce El Comercio.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "El Comercio",
-     "p": "XX",
-     "c": "Lima",
-     "u": "https://elcomercio.pe/mag/usa/en-vivo-us/hbo-max-y-tnt-sports-en-vivo-ver-partido-fc-barcelona-vs-psg-en-directo-por-futbol-tv-online-en-mexico-space-cinemax-video-nnda-nnrt-noticia/",
-     "angolo": "",
-     "atlas": "Peru",
-     "t": "2026-10-20T17:51+00:00"
     }
    ],
    "data": "20 ott",
@@ -2913,7 +2656,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z0bdca746",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Cresce la disoccupazione degli uffici aziendali delle multinazionali in Costa Rica",
    "orig": "Aumento en la desocupación de oficinas de multinacionales enciende las alertas",
    "lead": "Il settore immobiliare commerciale in Costa Rica registra un incremento della disoccupazione degli spazi d'ufficio utilizzati dalle società multinazionali, una tendenza che desta preoccupazione per i potenziali riflessi negativi sull'occupazione e sugli investimenti esteri. Lo riferisce La Nación CR.",
@@ -2979,7 +2722,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z7f533754",
-   "sez": "mondo",
+   "sez": "viaggi",
    "titolo": "Santa Lucia: un paradiso caraibico tra spiagge, natura incontaminata e vulcani",
    "orig": "Santa Lucía: qué ver y hacer entre volcanes, playas caribeñas y selva",
    "lead": "L'isola caraibica di Santa Lucia offre ai viaggiatori panorami straordinari caratterizzati da montagne verdi, mari turchesi, spiagge tropicali e paesaggi vulcanici ideali per il turismo naturalistico. Lo riferisce ABC Color.",
@@ -3576,30 +3319,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zf724be43",
-   "sez": "economia",
-   "titolo": "Il Cairo ospita il Forum economico dell'Unione per il Mediterraneo per rafforzare commercio e investimenti",
-   "orig": "Cairo hosts UfM Economic Forum to strengthen regional investment, trade",
-   "lead": "Il Cairo ha ospitato il Forum economico dell'Unione per il Mediterraneo, un evento volto a potenziare gli investimenti regionali, espandere gli scambi commerciali e favorire l'occupazione nell'area euro-mediterranea. L'incontro ha riunito rappresentanti governativi, leader del settore privato e partner dello sviluppo. Lo riferisce Daily News Egypt.",
-   "more": [
-    "L'Unione per il Mediterraneo promuove la cooperazione regionale e il dialogo politico tra i Paesi dell'Unione Europea e le nazioni del Nord Africa e del Medio Oriente."
-   ],
-   "fonti": [
-    {
-     "n": "Daily News Egypt",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.dailynewsegypt.com/2026/10/20/cairo-hosts-ufm-economic-forum-to-strengthen-regional-investment-trade/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-10-20T17:10+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:26",
-   "uscita": "sera"
-  },
-  {
    "id": "zb6254b96",
    "sez": "sport",
    "titolo": "Il Petro de Luanda esonera l'allenatore João Pedro Sousa dopo i risultati negativi in Champions League",
@@ -3883,52 +3602,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "United Arab Emirates",
      "t": "2026-10-20T08:07+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:26",
-   "uscita": "sera"
-  },
-  {
-   "id": "z9e376259",
-   "sez": "mondo",
-   "titolo": "L'Unione Europea definisce le priorità per l'Artico guardando con cautela a Russia e Stati Uniti",
-   "orig": "New EU plan for Arctic warily eyes influence of Russia, US",
-   "lead": "L'Unione Europea ha presentato la sua strategia per la regione artica, inserendosi nella competizione geopolitica con Russia, Cina e Stati Uniti per l'influenza nell'area. L'Alto rappresentante per gli affari esteri Kaja Kallas ha evidenziato come le recenti incursioni di droni, i disturbi ai segnali GPS e il sabotaggio dei cavi sottomarini stiano minacciando la sicurezza della regione. Lo riferisce Deutsche Welle.",
-   "more": [
-    "L'Artico riveste un'importanza strategica crescente a causa dello scioglimento dei ghiacci, che apre nuove rotte marittime commerciali e facilita l'accesso a ingenti risorse naturali."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-20T16:44+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:26",
-   "uscita": "sera"
-  },
-  {
-   "id": "z6499a5c7",
-   "sez": "mondo",
-   "titolo": "Germania, hacker rilasciano le email del partito AfD",
-   "orig": "Germany news: Hackers release AfD party emails",
-   "lead": "Il partito di estrema destra tedesco AfD ha avviato un'indagine in seguito alla diffusione di migliaia di email trafugate a causa di un attacco informatico. La notizia emerge mentre a Berlino si tiene un importante vertice in cui gli investitori hanno promesso miliardi di fondi per il Paese. Lo riferisce Deutsche Welle.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-20T15:41+00:00"
     }
    ],
    "data": "20 ott",
@@ -4266,28 +3939,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "ze948733b",
-   "sez": "mondo",
-   "titolo": "La Commissione Europea presenta la nuova strategia per l'Artico",
-   "orig": "ЕК ја претстави новата стратегија за Арктикот",
-   "lead": "La Commissione Europea ha presentato una nuova strategia mirata alla regione artica, con l'obiettivo fondamentale di garantire che l'Unione Europea mantenga il passo con i principali concorrenti geopolitici globali nell'area. Lo riferisce MIA (inglese).",
-   "more": [],
-   "fonti": [
-    {
-     "n": "MIA (inglese)",
-     "p": "XX",
-     "c": "Skopje",
-     "u": "https://mia.mk/story/%D0%B5%D0%BA-%D1%98%D0%B0-%D0%BF%D1%80%D0%B5%D1%82%D1%81%D1%82%D0%B0%D0%B2%D0%B8-%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B0-%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%98%D0%B0-%D0%B7%D0%B0-%D0%B0%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%BE%D1%82",
-     "angolo": "",
-     "atlas": "Macedonia",
-     "t": "2026-10-20T19:54+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:26",
-   "uscita": "sera"
-  },
-  {
    "id": "zd05431c7",
    "sez": "mondo",
    "titolo": "Ottima prestazione dei tiratori montenegrini in una competizione internazionale",
@@ -4483,30 +4134,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-20T17:04+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:26",
-   "uscita": "sera"
-  },
-  {
-   "id": "zbe10ec83",
-   "sez": "mondo",
-   "titolo": "Germania, primo via libera per un governo tra Linke, SPD e Verdi a Berlino",
-   "orig": "Germania, primo via libera per un governo Linke-Spd-Verdi a Berlino",
-   "lead": "Raggiunto in Germania il primo via libera per la formazione di una nuova coalizione di governo a Berlino composta da Linke, SPD e Verdi. Il programma dell'esecutivo prevede l'esproprio dei grandi proprietari immobiliari, misure contro il caro affitti e procedure agevolate per il voto dei migranti. Lo riferisce la Repubblica – Esteri.",
-   "more": [
-    "L'inedita alleanza delinea una svolta politica significativa per la capitale tedesca, ponendo al centro temi fortemente sociali e interventi radicali sul mercato immobiliare e sui diritti civili."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/10/20/news/germania_governo_linke_spd_verdi_berlino-425660684/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T18:06+02:00"
     }
    ],
    "data": "20 ott",
@@ -4896,28 +4523,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z3ec62abb",
-   "sez": "mondo",
-   "titolo": "Il Parlamento polacco vota per allentare il divieto di aborto, ma si profila il veto presidenziale",
-   "orig": "Polish lawmakers vote to ease abortion ban, but face likely presidential veto",
-   "lead": "La camera bassa del parlamento polacco ha votato per depenalizzare l'aiuto all'aborto e consentirne l'accesso in caso di anomalie fetali, cercando di superare le restrizioni introdotte dall'esecutivo precedente, sebbene sia atteso il veto del presidente. Lo riferisce The Straits Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/polish-lawmakers-vote-to-ease-abortion-ban-but-face-likely-presidential-veto",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-21T01:56+08:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:17",
-   "uscita": "sera"
-  },
-  {
    "id": "zb2b18b2c",
    "sez": "mondo",
    "titolo": "Il presidente iraniano Pezeshkian incontra il capo dell'esercito pakistano",
@@ -5114,28 +4719,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Netherlands",
      "t": "2026-10-20T15:11+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:17",
-   "uscita": "sera"
-  },
-  {
-   "id": "z8027bfe5",
-   "sez": "mondo",
-   "titolo": "Le mine dei Pasdaran incendiano petroliere mentre Teheran minaccia attacchi",
-   "orig": "IRGC mines set tankers ablaze as Tehran threatens expanded attacks",
-   "lead": "Il ministero degli Esteri iraniano ha avvertito Washington contro possibili raid, mentre un portavoce dei Guardiani della Rivoluzione ha minacciato di colpire i cavi internet sottomarini nel Golfo. L'escalation verbale e militare aggrava la tensione tra Iran e Stati Uniti. Lo riferisce Euronews.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Euronews",
-     "p": "XX",
-     "c": "Lione",
-     "u": "https://www.euronews.com/2026/10/20/irgc-mines-set-tankers-ablaze-as-tehran-threatens-expanded-attacks",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-10-20T18:34+02:00"
     }
    ],
    "data": "20 ott",
@@ -7334,28 +6917,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-20T17:47+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "z49bbce09",
-   "sez": "mondo",
-   "titolo": "Il premier francese promette più polizia per le prossime proteste",
-   "orig": "Ætla að stórefla lögreglu fyrir næstu mótmæli",
-   "lead": "Il primo ministro francese Sebastien Lecornu ha annunciato un massiccio spiegamento di forze dell'ordine per il prossimo fine settimana in occasione di nuove proteste, ammettendo carenze nella gestione recente dopo le pesanti critiche ricevute in Parlamento per le recenti ondate di disordini. Lo riferisce RÚV.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RÚV",
-     "p": "XX",
-     "c": "Reykjavík",
-     "u": "https://www.ruv.is/frettir/erlent/2026-10-20-aetla-ad-storefla-logreglu-fyrir-naestu-motmaeli-490460/",
-     "angolo": "",
-     "atlas": "Iceland",
-     "t": "2026-10-20T17:18+00:00"
     }
    ],
    "data": "20 ott",
@@ -9745,39 +9306,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z98cee2a8",
-   "sez": "mondo",
-   "titolo": "Trump afferma di aver voluto testare la disponibilità degli alleati della NATO sull'Iran",
-   "orig": "OTAN : Trump affirme avoir voulu tester la volonté de ses alliés sur l’Iran",
-   "lead": "Durante un comizio a Wichita, in Kansas, Donald Trump ha dichiarato di aver voluto mettere alla prova la disponibilità degli alleati della NATO ad assistere gli Stati Uniti sul dossier iraniano, ribadendo che Washington non avrebbe comunque avuto bisogno di tale supporto militare. Lo riferisce La Nouvelle Tribune.",
-   "more": [
-    "I rapporti tra gli Stati Uniti e i partner della NATO riguardo alla gestione delle crisi in Medio Oriente vedono spesso confronti sulle responsabilità condivise e sul coordinamento strategico nelle questioni di sicurezza internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "La Nouvelle Tribune",
-     "p": "XX",
-     "c": "Cotonou",
-     "u": "https://lanouvelletribune.info/2026/10/otan-trump-affirme-avoir-voulu-tester-la-volonte-de-ses-allies-sur-liran/",
-     "angolo": "",
-     "atlas": "Benin",
-     "t": "2026-10-20T11:13+00:00"
-    },
-    {
-     "n": "Defimedia",
-     "p": "XX",
-     "c": "Port Louis",
-     "u": "http://defimedia.info/equipements-decoute-la-police-affirme-avoir-presente-pravind-jugnauth-des-documents-portant-sa",
-     "angolo": "",
-     "atlas": "Mauritius",
-     "t": "2026-10-20T19:18+04:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "20:15",
-   "uscita": "sera"
-  },
-  {
    "id": "za7bf5f02",
    "sez": "mondo",
    "titolo": "Nigeria: gruppo giovanile del Plateau presenta la carta delle richieste per i candidati governatoriali",
@@ -9902,6 +9430,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-20T15:25+00:00"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/google-cloud-services-largely-back-up-in-uk-6475891",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-20T21:37+08:00"
     }
    ],
    "data": "20 ott",
@@ -11190,7 +10727,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "zf86492c7",
-   "sez": "musica",
+   "sez": "cultura",
    "titolo": "Un saggio analizza il ruolo della violenza speculativa e dell'intelligenza artificiale nella percezione della realtà",
    "orig": "La realtà è diventata una fiction, e la violenza è la protagonista",
    "lead": "Nel saggio intitolato 'Violenza speculativa', l'autrice Donatella Della Ratta analizza come la produzione di immagini e contenuti mediatici attraverso l'intelligenza artificiale stia trasformando la percezione collettiva, abituando gradualmente il pubblico alla rappresentazione della violenza e alterando il confine tra finzione e realtà. Lo riferisce Rolling Stone Italia.",
@@ -12697,6 +12234,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-20T13:17+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/frankreich-nach-den-krawallen-milliardenschaeden-und-ausgangssperren-201604734.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T16:09+00:00"
     }
    ],
    "data": "20 ott",
@@ -15174,28 +14720,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zf0a5cd2d",
-   "sez": "mondo",
-   "titolo": "L'Unione Europea punta a rafforzare la propria presenza nell'Artico",
-   "orig": "Van ijsbrekers tot hub om onderzeese kabels te bewaken: EU wil positie in Noordpoolgebied fors versterken",
-   "lead": "La Commissione europea ha presentato una nuova strategia per potenziare la presenza dell'Unione nel Mar Glaciale Artico, trasformandola in un hub per la sorveglianza dei cavi sottomarini e la gestione delle rotte in risposta alla crescente competizione geopolitica globale. Lo riferisce VRT NWS.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "VRT NWS",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.vrt.be/vrtnws/nl/2026/10/20/eu-strategie-noordpoolgebied.rss.xml",
-     "angolo": "",
-     "atlas": "Belgium",
-     "t": "2026-10-20T14:42+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:16",
-   "uscita": "17"
-  },
-  {
    "id": "z96ef1613",
    "sez": "mondo",
    "titolo": "Media svedesi: cattivi rapporti tra Stati Uniti e Ucraina costano vite umane",
@@ -15734,38 +15258,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zd17b49b2",
-   "sez": "economia",
-   "titolo": "Artico, la nuova strategia Ue: gas, petrolio e un cavo sottomarino con la Groenlandia",
-   "orig": "Artico, la nuova srategia Ue: gas, petrolio e un cavo sottomarino con la Groenlandia. La mossa legata anche alla flotta ombra",
-   "lead": "L'Unione europea ha definito una nuova strategia per la regione artica imperniata su quattro priorità: sicurezza, contrasto ai cambiamenti climatici, sviluppo economico e sostegno alle comunità locali. Tra i progetti previsti figurano iniziative nel settore energetico di gas e petrolio, la posa di un cavo sottomarino di collegamento con la Groenlandia e misure di contrasto alla flotta ombra di navi cisterna. Lo riferisce Il Messaggero.",
-   "more": [
-    "L'area artica riveste un'importanza crescente dal punto di vista geopolitico ed economico a causa dello scioglimento dei ghiacci, che apre nuove rotte commerciali e facilita l'accesso a risorse naturali precedentemente in sfruttate."
-   ],
-   "fonti": [
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/mondo/artico_guerra_flotta_ombra_strategia_ue_gas_petrolio_cosa_sappiamo-9837167.html",
-     "angolo": "",
-     "atlas": "Italy"
-    },
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/un-front-in-competitia-globala-dintre-marile-puteri-comisia-europeana-anunta-strategia-ue-pentru-o-regiune-cheie-2381436",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-20T14:33+00:00"
-    }
-   ],
-   "data": "",
-   "ora": "17:14",
-   "uscita": "17"
-  },
-  {
    "id": "z7ebcac8f",
    "sez": "economia",
    "titolo": "Raee, la raccolta non funziona: in Italia recuperato solo il 17%",
@@ -16024,6 +15516,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Kenya",
      "t": "2026-10-20T16:16+03:00"
+    },
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-20-aetla-ad-storefla-logreglu-fyrir-naestu-motmaeli-490460/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-20T17:18+00:00"
     }
    ],
    "data": "20 ott",
@@ -16225,6 +15726,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-20T13:38+02:00"
+    },
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/mundo/onu-dejara-de-ayudar-a-medio-millon-de-personas-en-gaza-faltan-fondos/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-10-20T16:30+00:00"
     }
    ],
    "data": "20 ott",
@@ -18693,6 +18203,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Romania",
      "t": "2026-10-20T14:14+00:00"
+    },
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/10/20/ing-mag-van-de-rechter-de-laatste-bankrekening-van-gazprom-niet-opzeggen-a4939377",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-20T17:22+02:00"
     }
    ],
    "data": "20 ott",
@@ -19420,30 +18939,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-20T14:18+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "z56222159",
-   "sez": "tech",
-   "titolo": "Ripristinati in gran parte i servizi di Google Cloud nel Regno Unito",
-   "orig": "Google Cloud services largely back up in UK",
-   "lead": "I servizi di Google Cloud sono tornati a essere ampiamente operativi nel Regno Unito dopo un periodo di interruzione tecnica. Gli utenti e le aziende della regione hanno potuto riscontrare il progressivo ritorno alla normalità delle piattaforme informatiche e dei server gestiti dalla multinazionale tecnologica. Lo riferisce CNA.",
-   "more": [
-    "Le piattaforme di cloud computing offrono servizi di memorizzazione dati e calcolo remoto per imprese e privati; eventuali interruzioni possono avere impatti significativi sulle attività digitali quotidiane."
-   ],
-   "fonti": [
-    {
-     "n": "CNA",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.channelnewsasia.com/business/google-cloud-services-largely-back-up-in-uk-6475891",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-20T21:37+08:00"
     }
    ],
    "data": "20 ott",
@@ -22509,6 +22004,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Guinea",
      "t": "2026-10-20T13:14+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/prise-de-fonction-a-logp-le-syndicat-depose-son-cahier-de-doleances-le-dga-assure-de-sa-disponibilite/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T16:25+00:00"
     }
    ],
    "data": "20 ott",
@@ -26669,6 +26173,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-10-20T11:41+02:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T15:41+00:00"
     }
    ],
    "data": "20 ott",
@@ -26700,6 +26213,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-10-20T10:17+00:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/20/irgc-mines-set-tankers-ablaze-as-tehran-threatens-expanded-attacks",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-20T18:34+02:00"
     }
    ],
    "data": "20 ott",
@@ -29188,6 +28710,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-20T09:02+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ausland/brandstiftung-in-limoges-radikaler-linker-festgenommen-201604265.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-20T16:14+00:00"
     }
    ],
    "data": "20 ott",
@@ -29533,6 +29064,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Egypt",
      "t": "2026-10-20T09:34+00:00"
+    },
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/20/cairo-hosts-ufm-economic-forum-to-strengthen-regional-investment-trade/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-20T17:10+00:00"
     }
    ],
    "data": "20 ott",
@@ -29998,57 +29538,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-20T14:14+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:34",
-   "uscita": "13"
-  },
-  {
-   "id": "z62ba2671",
-   "sez": "dibattito",
-   "titolo": "Coprifuoco e proteste in Francia, si accende il confronto sulle misure di ordine pubblico",
-   "orig": "Disordini in Francia, predisposti coprifuoco nelle principali città",
-   "lead": "In diverse città della Francia il governo ha introdotto il coprifuoco notturno per arginare disordini e vandalismi scaturiti da manifestazioni di piazza. Il dibattito riguarda la conciliazione tra sicurezza pubblica e libertà individuali: le autorità governative difendono i coprifuoco locali sostenendo che siano indispensabili per ripristinare la calma e proteggere i centri urbani dai danneggiamenti, mentre altre manifestazioni civiche condannano le distruzioni. I disordini si inseriscono in un clima di proteste autunnali che coinvolge anche altri Paesi europei con rivendicazioni sociali di cui le fonti non precisano i contenuti dettagliati.",
-   "more": [
-    "L'impiego del coprifuoco in contesti democratici europei rappresenta una misura eccezionale di ordine pubblico delegata alle prefetture o al governo centrale. Il ricorso a limitazioni della mobilità serale riaccende puntualmente il confronto giuridico e politico sul bilanciamento tra la tutela dei beni pubblici, la salvaguardia delle attività commerciali e la garanzia del diritto costituzionale di manifestare liberamente."
-   ],
-   "fonti": [
-    {
-     "n": "Vatican News (italiano)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/it/mondo/news/2026-10/disordini-in-francia-predisposti-coprifuoco-nelle-citta.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-10-20T08:38+02:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/videogallery/mondo/2026/10/20/francia-torna-la-calma-dopo-lordine-di-coprifuoco-nelle-zone-della-protesta_f589d393-ac4c-4126-9f74-f58dded0d1e3.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T10:39+02:00"
-    },
-    {
-     "n": "Il Sole 24 Ore – Casa24",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/per-italiano-due-citta-costi-e-affitti-soffocano-famiglie-AJQfLynB",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-19T07:32+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/20/francia-lecornu-annuncia-nuovi-coprifuoco-dove-necessario_bedf84b0-ad4d-48a4-add6-f7d5d2f2b300.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T11:18+02:00"
     }
    ],
    "data": "20 ott",
@@ -32095,7 +31584,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z435c72b7": "I quotidiani internazionali pongono in primo piano l'ondata di aggressioni dei coloni e la reazione diplomatica europea.",
   "z41d1f7b6": "BBC News racconta l'impatto dei roghi sulle comunità locali, mentre le testate asiatiche evidenziano i danni ai trasporti.",
   "z5bbc3147": "Deutsche Welle e la stampa asiatica sottolineano gli ostacoli sul fronte commerciale durante la visita di Rubio.",
-  "z62ba2671": "Vatican News inserisce i disordini francesi in un quadro europeo di proteste autunnali e stretta governativa.",
   "z906f8b0c": "San Marino RTV valorizza l'emissione filatelica speciale per l'anniversario del personaggio creato da Morris.",
   "ze25d41d5": "The Guardian racconta i gol e la manovra tattica degli Spurs, mentre i media africani seguono l'infortunio di Kudus.",
   "ze3a3eaf3": "Positive News racconta come i dipinti di Rebecca Howard celebrino il ritorno della natura selvaggia nel Regno Unito.",
@@ -32627,7 +32115,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z4aeafe68": "La testata evidenzia la conferma della leadership bolognese e i movimenti di vertice nella classifica delle città intelligenti.",
   "zf2798bf5": "La testata evidenzia l'impegno diplomatico e sanitario congiunto per migliorare la gestione delle patologie oncologiche.",
   "z0ab8d5de": "La testata evidenzia la realizzazione di un'opera infrastrutturale destinata a migliorare la mobilità urbana sostenibile.",
-  "z56222159": "La testata evidenzia la risoluzione del disservizio informatico e il ripristino delle funzionalità cloud nell'area.",
   "z8bf58384": "La testata evidenzia il proprio andamento positivo nelle rilevazioni sulla lettura in controtendenza rispetto al mercato.",
   "z1e22e318": "La testata evidenzia l'importanza di un'operazione chirurgica gratuita e le questioni aperte sull'accesso alle cure sanitarie.",
   "z972db939": "La testata evidenzia l'assegnazione dei riconoscimenti nazionali dedicati all'innovazione e alla qualità architettonica delle facciate.",
@@ -32650,7 +32137,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z60641707": "L'emittente europea evidenzia le strategie adottate dai governi turco e uzbeko per trasformare i centri urbani in chiave ecologica e resiliente.",
   "z1472353a": "Il quotidiano di Hong Kong evidenzia i dati finanziari diffusi dal gigante cinese delle batterie e i timori degli analisti sulla domanda futura.",
   "z0bab683d": "Il quotidiano italiano evidenzia come gli oggetti esposti raccontino la storia sociale e i desideri umani attraverso i secoli.",
-  "zd17b49b2": "Il quotidiano romano evidenzia i punti chiave della nuova strategia geopolitica ed economica delineata dall'Unione europea per l'Artico.",
   "z7ebcac8f": "Il quotidiano economico evidenzia lo scarso tasso di recupero dei piccoli dispositivi elettronici in Italia e il fenomeno dell'abbandono domestico.",
   "z421999b6": "Il quotidiano economico evidenzia l'avvio delle procedure telematiche presso l'Inps e le scadenze per accedere al beneficio economico.",
   "zad0213f7": "Il quotidiano economico evidenzia il problema della mancata copertura di rimborso bancario nei casi di frode commerciale online basata su bonifico.",
@@ -32769,7 +32255,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zfb3bf06d": "L'emittente olandese corregge e approfondisce un caso mediatico che aveva coinvolto un'istituzione universitaria dei Paesi Bassi.",
   "z621270d2": "Il media documenta un disservizio locale che colpisce la quotidianità dei cittadini nelle aree periferiche.",
   "zec87e763": "L'emittente offre un formato di approfondimento radiofonico sulle dinamiche della politica internazionale contemporanea.",
-  "zf0a5cd2d": "L'emittente belga evidenzia la risposta strategica dell'UE alle tensioni geopolitiche nell'area artica.",
   "z96ef1613": "L'emittente svedese adotta un punto di vista critico sulle conseguenze della politica estera statunitense per Kiev.",
   "zf793d2f2": "L'agenzia brasiliana dà risalto alla difesa dell'integrità del giornalismo politico da parte delle associazioni di categoria.",
   "za8c45186": "L'agenzia brasiliana informa i cittadini sulle garanzie costituzionali ed elettorali previste dal Codice.",
@@ -32999,7 +32484,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z7ff3f88f": "Gabonreview evidenzia le sanzioni amministrative e la revoca delle licenze minerarie decise dal governo gabonese.",
   "zb803d227": "Gabonreview evidenzia l'impegno dei regolatori centrafricani per l'aggiornamento e l'armonizzazione delle regole digitali.",
   "z5c4922cb": "La Tercera evidenzia la dichiarazione di allerta rossa e le raccomandazioni di sicurezza alla cittadinanza.",
-  "z98cee2a8": "La Nouvelle Tribune evidenzia le dichiarazioni di Donald Trump sui rapporti con gli alleati atlantici e la crisi iraniana.",
   "za7bf5f02": "Premium Times evidenzia l'iniziativa della gioventù dello Stato del Plateau nel definire le priorità politiche per le elezioni.",
   "zd97304d7": "Kun.uz evidenzia le proposte uzbeke per il rafforzamento dell'integrazione e della sicurezza nell'ambito dell'OCS.",
   "z88271bf8": "La testata evidenzia i progressi istituzionali nella regolamentazione e nella trasparenza del mercato aurifero locale.",
@@ -33057,7 +32541,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z55160046": "La notizia adotta un tono di curiosità e cronaca leggera legato alle procedure di controllo sulla privacy sanitaria.",
   "zaa8f885c": "L'emittente norvegese analizza i ritardi infrastrutturali nei trasporti marittimi regionali.",
   "z88295b97": "La testata islandese si concentra sulla gestione amministrativa e sulla spesa pubblica locale.",
-  "z49bbce09": "L'emittente islandese riporta le tensioni politiche e di ordine pubblico in Francia.",
   "zc88d1ffe": "La testata islandese evidenzia gli investimenti statali nel sistema penitenziario nazionale.",
   "zbb9915e7": "Il quotidiano tunisino valorizza gli eventi culturali e lo sviluppo territoriale del sud del Paese.",
   "zbb5b6d6c": "Il giornale tunisino sottolinea il rafforzamento della cooperazione culturale internazionale.",
@@ -33088,7 +32571,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z9a4be071": "La testata mette in luce la prevenzione istituzionale dei rischi climatici nel sistema scolastico.",
   "ze883b58e": "Il giornale approfondisce i metodi investigativi digitali utilizzati dalla polizia contro la criminalità urbana.",
   "zd6852c43": "La testata evidenzia l'impatto dei servizi pubblici scadenti sulla campagna elettorale.",
-  "z3ec62abb": "La testata segue con attenzione le riforme sui diritti civili e le tensioni istituzionali a Varsavia.",
   "zb2b18b2c": "Il reportage analizza i canali di dialogo diplomatico e militare tra Iran e Pakistan.",
   "z9696c3f1": "La testata offre un'analisi politica approfondita sugli equilibri interni alla coalizione di governo israeliana.",
   "z957e96d2": "La testata riflette sui pericoli crescenti dell'antisemitismo globale e sulla sicurezza nazionale.",
@@ -33097,7 +32579,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zbeccbab2": "L'articolo analizza l'impatto economico dell'innovazione tecnologica nel settore agroalimentare mondiale.",
   "z20b09415": "Riferisce la posizione ufficiale iraniana tramite la televisione di Stato sull'opposizione al trasferimento di materiale nucleare.",
   "ze42a175f": "Riporta la notizia degli attacchi missilistici nello Yemen e delle contromisure aeree saudite.",
-  "z8027bfe5": "Analizza l'escalation delle tensioni militari e informatiche nel Golfo tra Teheran e Washington.",
   "zc25b3cba": "Esamina le ripercussioni strategiche e la riorganizzazione della difesa nel Golfo a seguito delle tensioni regionali.",
   "z6c027359": "Monitora il mutamento degli equilibri politici comunitari sulla transizione ecologica nel settore automotive.",
   "z819e7000": "Dà conto delle contromisure istituzionali e delle preoccupazioni sulla sicurezza elettorale negli Stati Uniti.",
@@ -33163,7 +32644,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zef3c4b01": "Il Financial Times mette in evidenza i segnali positivi per l'occupazione britannica in vista della manovra di bilancio.",
   "z0fdc844f": "The Hindu evidenzia le nuove direttive amministrative per migliorare la prescrizione medica negli ospedali.",
   "z976d88ac": "Il quotidiano El Nacional sottolinea l'importanza delle date chiave per la corsa al titolo nazionale.",
-  "zf724be43": "Il Daily News Egypt pone l'attenzione sulla cooperazione internazionale e sullo sviluppo economico regionale.",
   "zb6254b96": "Il Novo Jornal evidenzia la decisione drastica del club angolano alla vigilia di un match decisivo.",
   "z11899758": "Il Daily News Egypt evidenzia la crescita e la formalizzazione di nuovi operatori nel settore finanziario non bancario.",
   "z34a234d8": "Il Sydney Morning Herald analizza le principali ansie finanziarie legate alla gestione del denaro in età pensionabile.",
@@ -33175,8 +32655,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zbfc6de89": "Il portale Confidencial analizza l'estensione geografica e la portata delle proteste sociali in Europa.",
   "ze3fd613f": "Der Spiegel raccoglie i principali temi politici e di cronaca che animano il dibattito tedesco.",
   "zcbf4749f": "Gulf News evidenzia l'estensione delle norme di sosta a pagamento per far fronte al traffico cittadino.",
-  "z9e376259": "Deutsche Welle pone l'attenzione sulla nuova strategia geopolitica europea in Artico e sulle tensioni legate alla sicurezza delle infrastrutture.",
-  "z6499a5c7": "La testata tedesca offre una prospettiva interna sugli sviluppi politici e di sicurezza legati al principale partito di opposizione nazionalista.",
   "z403231c3": "L'emittente qatariota adotta un approccio culturale e di riflessione globale su temi di natura filosofica e scientifica.",
   "zb831d122": "La testata mediorientale pone l'accento sulle controversie politiche e sulle tensioni regionali legate alle esternazioni dei membri del governo israeliano.",
   "z3e5f0409": "L'emittente irlandese focalizza l'attenzione sui disagi tecnologici che colpiscono i consumatori e i servizi digitali di grande diffusione.",
@@ -33192,7 +32670,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z35905c0e": "La testata neozelandese evidenzia le difficoltà economiche quotidiane vissute dalle piccole imprese locali nel contesto inflazionistico.",
   "z91a98321": "Il servizio pubblico neozelandese fornisce guide pratiche di servizio orientate alla cittadinanza in occasione delle festività nazionali.",
   "z9c9166da": "L'emittente greca promuove la trasmissione di grandi eventi sportivi internazionali attraverso i propri canali digitali ufficiali.",
-  "ze948733b": "L'agenzia macedone riporta con taglio istituzionale le linee di indirizzo strategico promosse dall'Unione Europea in politica estera.",
   "zd05431c7": "Il quotidiano montenegrino celebra i successi degli sportivi nazionali nelle discipline di tiro a segno fuori dai confini.",
   "z451d98bc": "Il giornale montenegrino segue con entusiasmo le vicende e le ambizioni dei club pallavolistici di vertice locali.",
   "z9b24d027": "L'emittente pubblica belga di lingua neerlandese documenta la valorizzazione del patrimonio storico e paesaggistico locale.",
@@ -33202,11 +32679,8 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z870345b5": "Il media pubblico islandese documenta le operazioni di soccorso marittimo condotte lungo le coste del Paese.",
   "ze63d565f": "L'articolo adotta una prospettiva istituzionale e ufficiale, basandosi direttamente sulla pubblicazione del provvedimento governativo.",
   "za01a4fc7": "Il quotidiano adotta un taglio di cronaca scolastica e di costume politico locale, evidenziando il braccio di ferro tra istituzione scolastica e studenti.",
-  "zbe10ec83": "Il quotidiano offre una lettura politica ed economica internazionale focalizzata sulle nuove alleanze locali e sulle loro ripercussioni programmatiche.",
   "z0be8441f": "L'emittente adotta un taglio di servizio e pubblica utilità, focalizzandosi sulle scadenze normative per gli automobilisti.",
   "z12ec882b": "L'emittente riprende la dichiarazione ufficiale russa con un taglio di cronaca geopolitica estera.",
-  "z76210d8c": "La testata evidenzia le tensioni politiche e le misure restrittive adottate dalle autorità francesi per l'ordine pubblico.",
-  "ze9ff8975": "Il report pone l'accento sui crescenti rischi legati all'impiego autonomo dell'intelligenza artificiale nelle attività di pirateria informatica.",
   "zcca41f1f": "L'analisi critica le pressioni politiche sulla magistratura e invoca garanzie strutturali per l'indipendenza giudiziaria.",
   "z5cf51c28": "La dichiarazione punta il dito contro l'inefficacia amministrativa nella gestione delle crisi ambientali e minerarie locali.",
   "ze545125c": "La proposta punta a riformare il sistema istituzionale per garantire una maggiore separazione dei poteri.",
@@ -33224,28 +32698,22 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z27c0689b": "Il reportage documenta la grave crisi economica e il collasso commerciale nell'isola.",
   "z3f91f486": "La notizia analizza le iniziative di solidarietà e geopolitica regionale promosse da gruppi filo-governativi.",
   "ze61f64b1": "L'articolo esamina le tensioni diplomatiche tra l'amministrazione statunitense e il governo di Kiev.",
-  "zab506d8e": "Il rapporto evidenzia la drammatica crisi umanitaria e la riduzione degli aiuti internazionali nella regione.",
   "ze48abad0": "La cronaca politica locale sottolinea gli impegni economici e istituzionali per lo sviluppo del territorio.",
   "z1b216dbb": "La dichiarazione istituzionale promuove la collaborazione amministrativa tra enti locali e statali.",
   "zae41d25e": "L'articolo economico riporta l'esito favorevole dell'Antitrust europeo su una grande operazione di mercato.",
   "z6d2e01ad": "Il report geopolitico sottolinea la risposta militare difensiva dell'Alleanza atlantica nell'area.",
-  "zb8c1df6c": "La testata analizza l'impatto politico immediato delle rivolte urbane sugli orientamenti di voto per le presidenziali.",
-  "z223d0472": "Il quotidiano approfondisce la crescita nei consensi della leader di estrema destra nel contesto delle tensioni sociali.",
   "zd1b86af4": "Il giornale sottolinea la necessità di un'intesa strategica all'interno dello stesso schieramento politico per evitare divisioni fatali.",
   "z3e80a490": "La testata accende i riflettori sulla competizione interna all'area progressista e di sinistra per la leadership.",
   "z4e715d26": "Il reportage ricostruisce le responsabilità politiche e le dinamiche che hanno preceduto i disordini urbani.",
   "ze70bc5ae": "Il quotidiano francese segue da vicino la crisi aziendale e l'impatto sociale sui lavoratori del gruppo.",
   "z70262f9a": "Il magazine tedesco riporta le polemiche sulla gestione della sicurezza e dei casi di violenza all'interno dei campus universitari americani.",
   "zdbebac96": "Il quotidiano adotta una linea fortemente critica nei confronti dell'amministrazione locale della capitale tedesca.",
-  "z997a1033": "Il quotidiano tedesco offre una panoramica economica e di sicurezza sulle conseguenze immediate dei disordini in Francia.",
-  "ze720a7b8": "La testata sottolinea l'inasprimento del dibattito politico istituzionale in seguito alle violenze urbane.",
   "zcb2cbd00": "Il quotidiano economico esamina lo stato di salute dell'attrattività industriale e finanziaria tedesca.",
   "z516b2d24": "Il quotidiano spagnolo ricostruisce l'operazione antiterrorismo e i gravi indizi raccolti dalla Procura.",
   "z727087d5": "Il giornale portoghese evidenzia le prospettive ecologiche ed economiche legate all'economia circolare delle materie prime critiche.",
   "z2e26d566": "La testata segue con attenzione gli sviluppi urbanistici e architettonici nel patrimonio storico portoghese.",
   "z26f16592": "Il quotidiano olandese documenta la crisi finanziaria di una nota struttura naturalistica e turistica regionale.",
   "z52a3e7a1": "Il giornale approfondisce le tensioni giuridiche e politiche tra sovranità digitale europea e richieste giudiziarie statunitensi.",
-  "z31f8f43d": "Il quotidiano esamina le implicazioni legali e finanziarie delle sanzioni internazionali sui servizi bancari nei Paesi Bassi.",
   "z47ebe3ac": "Il quotidiano svizzero offre un bilancio critico e distaccato sull'efficacia delle riforme migratorie del governo di Berlino.",
   "z1cb439ba": "La testata elvetica esamina il risvolto mediatico e la diffusione virale della tensione sociale urbana sui social media.",
   "z8c2406a5": "Il quotidiano austriaco analizza la strumentalizzazione della cronaca estera nel dibattito politico interno.",
@@ -33277,9 +32745,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zb792a3f2": "Focus sull'andamento economico finanziario e sui timori per il debito sovrano argentino.",
   "zc1b0651f": "Cronaca della contrapposizione politica e delle mobilitazioni di piazza in Venezuela.",
   "zbdc9bb07": "Analisi delle dinamiche geopolitiche internazionali e dei rapporti tra grandi potenze.",
-  "za97deb56": "Prospettiva incentrata sulle politiche strategiche e di difesa geopolitica dell'Unione Europea.",
   "z3b4bc6f0": "Focus sui temi di psicologia relazionale e benessere personale.",
-  "z9faab666": "Copertura di eventi sportivi calcistici internazionali di grande richiamo.",
   "z1bec8944": "Cronaca meteorologica e impatto dei cambiamenti climatici in Sud America.",
   "z77e89118": "Attenzione rivolta alle vicende societarie e sportive del calcio uruguaiano.",
   "zb401970e": "Riflessione sociologica e filosofica sul potere delle élite tecnologiche contemporanee.",
@@ -33316,7 +32782,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z4739fb8e": "La testata adotta una prospettiva geopolitica e di sviluppo regionale, focalizzandosi sulle strategie congiunte per la sicurezza alimentare nel Sahel.",
   "z402ba629": "La testata adotta un punto di vista istituzionale e di controllo politico, concentrandosi sulla governance degli enti pubblici e sulla lotta alla cattiva gestione.",
   "zf1061840": "La testata adotta una prospettiva di cronaca giudiziaria e anticorruzione, seguendo da vicino i processi contro alti funzionari statali.",
-  "z00f6eefc": "La testata adotta un punto di vista sindacale e di cronaca amministrativa, focalizzandosi sulle relazioni di lavoro e sulla stabilità degli enti strategici statali.",
   "z6972fa64": "La testata adotta un approccio economico e diplomatico, evidenziando l'apertura internazionale e l'attrattività della Guinea per gli investimenti esteri.",
   "z4f755787": "La testata adotta una prospettiva di cronaca e sicurezza doganale, evidenziando il contrasto al contrabbando di medicinali lungo i confini.",
   "z77558358": "La testata adotta un punto di vista politico focalizzato sulla tutela dell'immagine dei leader dell'opposzione e sul controllo deontologico dei mass media.",
@@ -33336,7 +32801,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z7ce98997": "La panoramica unisce temi economici, sociali e di cronaca generale con un formato di sintesi.",
   "z7cd8154f": "L'articolo offre un'informazione di servizio pubblico e tutela della salute animale.",
   "z6f093eab": "L'articolo adotta una prospettiva culturale e artistica incentrata sul patrimonio storico e la diaspora creativa.",
-  "z9a69a0c3": "L'analisi geopolitica adotta una visione strategica incentrata sulle dinamiche di sicurezza europea e internazionale.",
   "zd3fe8814": "L'articolo adotta un approccio analitico e specialistico sulla situazione bellica in Europa orientale.",
   "ze9577a09": "Il reportage segue da vicino la cronaca militare e la presenza strategica della NATO sul fianco orientale.",
   "z63347e23": "L'articolo adotta un taglio economico e investigativo sulla spesa pubblica e la trasparenza istituzionale."
@@ -33934,13 +33398,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "Nuova Delhi",
    "p": [
     "India"
-   ],
-   "pt": []
-  },
-  "z62ba2671": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -37710,13 +37167,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z56222159": {
-   "n": "London",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "z8bf58384": {
    "n": "Milano",
    "p": [
@@ -37881,13 +37331,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "p": [
     "Italy",
     "United States of America"
-   ],
-   "pt": []
-  },
-  "zd17b49b2": {
-   "n": "Rome",
-   "p": [
-    "Greenland"
    ],
    "pt": []
   },
@@ -38758,13 +38201,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
     "Ukraine",
     "United States of America",
     "Russia"
-   ],
-   "pt": []
-  },
-  "zf0a5cd2d": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -40405,13 +39841,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z98cee2a8": {
-   "n": "Wichita",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "za7bf5f02": {
    "n": "Abuja",
    "p": [
@@ -40823,13 +40252,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z49bbce09": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zc88d1ffe": {
    "n": "Stóra-Hraun",
    "p": [
@@ -41043,13 +40465,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z3ec62abb": {
-   "n": "Warsaw",
-   "p": [
-    "Poland"
-   ],
-   "pt": []
-  },
   "zb2b18b2c": {
    "n": "Tehran",
    "p": [
@@ -41109,15 +40524,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
     "United Kingdom",
     "Saudi Arabia",
     "Yemen"
-   ],
-   "pt": []
-  },
-  "z8027bfe5": {
-   "n": "Lione",
-   "p": [
-    "France",
-    "Iran",
-    "United States of America"
    ],
    "pt": []
   },
@@ -41612,13 +41018,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "zf724be43": {
-   "n": "Il Cairo",
-   "p": [
-    "Egypt"
-   ],
-   "pt": []
-  },
   "zb6254b96": {
    "n": "Luanda",
    "p": [
@@ -41695,22 +41094,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "Dubai",
    "p": [
     "United Arab Emirates"
-   ],
-   "pt": []
-  },
-  "z9e376259": {
-   "n": "Bonn",
-   "p": [
-    "Belgium",
-    "Russia",
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z6499a5c7": {
-   "n": "Bonn",
-   "p": [
-    "Germany"
    ],
    "pt": []
   },
@@ -41824,14 +41207,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "ze948733b": {
-   "n": "Skopje",
-   "p": [
-    "Macedonia",
-    "Belgium"
-   ],
-   "pt": []
-  },
   "zd05431c7": {
    "n": "Podgorica",
    "p": [
@@ -41895,14 +41270,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "zbe10ec83": {
-   "n": "Roma",
-   "p": [
-    "Germany",
-    "Italy"
-   ],
-   "pt": []
-  },
   "z0be8441f": {
    "n": "Roma",
    "p": [
@@ -41916,20 +41283,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
     "Albania",
     "Russia",
     "Ukraine"
-   ],
-   "pt": []
-  },
-  "z76210d8c": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "ze9ff8975": {
-   "n": "Bishkek",
-   "p": [
-    "Kyrgyzstan"
    ],
    "pt": []
   },
@@ -42059,14 +41412,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "zab506d8e": {
-   "n": "Managua",
-   "p": [
-    "Nicaragua",
-    "Palestine"
-   ],
-   "pt": []
-  },
   "ze48abad0": {
    "n": "La Paz",
    "p": [
@@ -42094,20 +41439,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "p": [
     "France",
     "Ukraine"
-   ],
-   "pt": []
-  },
-  "zb8c1df6c": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "z223d0472": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -42153,20 +41484,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z997a1033": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
-  "ze720a7b8": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zcb2cbd00": {
    "n": "Berlino",
    "p": [
@@ -42204,13 +41521,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   "z52a3e7a1": {
    "n": "Amsterdam",
-   "p": [
-    "Netherlands"
-   ],
-   "pt": []
-  },
-  "z31f8f43d": {
-   "n": "L'Aia",
    "p": [
     "Netherlands"
    ],
@@ -42439,28 +41749,10 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "za97deb56": {
-   "n": "Brussels",
-   "p": [
-    "Belgium",
-    "United States of America",
-    "Russia",
-    "China"
-   ],
-   "pt": []
-  },
   "z3b4bc6f0": {
    "n": "Lima",
    "p": [
     "Peru"
-   ],
-   "pt": []
-  },
-  "z9faab666": {
-   "n": "Barcelona",
-   "p": [
-    "Spain",
-    "France"
    ],
    "pt": []
   },
@@ -42721,13 +42013,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z00f6eefc": {
-   "n": "Conakry",
-   "p": [
-    "Guinea"
-   ],
-   "pt": []
-  },
   "z6972fa64": {
    "n": "Conakry",
    "p": [
@@ -42860,13 +42145,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z9a69a0c3": {
-   "n": "Vienna",
-   "p": [
-    "Austria"
-   ],
-   "pt": []
-  },
   "zd3fe8814": {
    "n": "Vienna",
    "p": [
@@ -42895,7 +42173,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z435c72b7": 1,
   "z41d1f7b6": 2,
   "z5bbc3147": 2,
-  "z62ba2671": 2,
   "z906f8b0c": 1,
   "ze25d41d5": 2,
   "ze3a3eaf3": 1,
@@ -43427,7 +42704,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z4aeafe68": 1,
   "zf2798bf5": 1,
   "z0ab8d5de": 1,
-  "z56222159": 1,
   "z8bf58384": 1,
   "z1e22e318": 1,
   "z972db939": 1,
@@ -43450,7 +42726,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z60641707": 1,
   "z1472353a": 1,
   "z0bab683d": 1,
-  "zd17b49b2": 1,
   "z7ebcac8f": 1,
   "z421999b6": 1,
   "zad0213f7": 1,
@@ -43569,7 +42844,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zfb3bf06d": 1,
   "z621270d2": 1,
   "zec87e763": 1,
-  "zf0a5cd2d": 1,
   "z96ef1613": 1,
   "zf793d2f2": 1,
   "za8c45186": 1,
@@ -43799,7 +43073,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z7ff3f88f": 1,
   "zb803d227": 1,
   "z5c4922cb": 1,
-  "z98cee2a8": 1,
   "za7bf5f02": 1,
   "zd97304d7": 1,
   "z88271bf8": 1,
@@ -43857,7 +43130,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z55160046": 1,
   "zaa8f885c": 1,
   "z88295b97": 1,
-  "z49bbce09": 1,
   "zc88d1ffe": 1,
   "zbb9915e7": 1,
   "zbb5b6d6c": 1,
@@ -43888,7 +43160,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z9a4be071": 1,
   "ze883b58e": 1,
   "zd6852c43": 1,
-  "z3ec62abb": 1,
   "zb2b18b2c": 1,
   "z9696c3f1": 1,
   "z957e96d2": 1,
@@ -43897,7 +43168,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zbeccbab2": 1,
   "z20b09415": 2,
   "ze42a175f": 2,
-  "z8027bfe5": 1,
   "zc25b3cba": 1,
   "z6c027359": 1,
   "z819e7000": 1,
@@ -43963,7 +43233,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zef3c4b01": 1,
   "z0fdc844f": 1,
   "z976d88ac": 1,
-  "zf724be43": 1,
   "zb6254b96": 1,
   "z11899758": 1,
   "z34a234d8": 1,
@@ -43975,8 +43244,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zbfc6de89": 1,
   "ze3fd613f": 1,
   "zcbf4749f": 1,
-  "z9e376259": 1,
-  "z6499a5c7": 1,
   "z403231c3": 1,
   "zb831d122": 1,
   "z3e5f0409": 1,
@@ -43992,7 +43259,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z35905c0e": 1,
   "z91a98321": 1,
   "z9c9166da": 1,
-  "ze948733b": 1,
   "zd05431c7": 1,
   "z451d98bc": 1,
   "z9b24d027": 1,
@@ -44002,11 +43268,8 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z870345b5": 1,
   "ze63d565f": 1,
   "za01a4fc7": 1,
-  "zbe10ec83": 1,
   "z0be8441f": 1,
   "z12ec882b": 1,
-  "z76210d8c": 1,
-  "ze9ff8975": 1,
   "zcca41f1f": 1,
   "z5cf51c28": 1,
   "ze545125c": 1,
@@ -44024,28 +43287,22 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z27c0689b": 1,
   "z3f91f486": 1,
   "ze61f64b1": 1,
-  "zab506d8e": 1,
   "ze48abad0": 1,
   "z1b216dbb": 1,
   "zae41d25e": 1,
   "z6d2e01ad": 1,
-  "zb8c1df6c": 1,
-  "z223d0472": 1,
   "zd1b86af4": 1,
   "z3e80a490": 1,
   "z4e715d26": 1,
   "ze70bc5ae": 1,
   "z70262f9a": 1,
   "zdbebac96": 1,
-  "z997a1033": 1,
-  "ze720a7b8": 1,
   "zcb2cbd00": 1,
   "z516b2d24": 1,
   "z727087d5": 1,
   "z2e26d566": 1,
   "z26f16592": 1,
   "z52a3e7a1": 1,
-  "z31f8f43d": 1,
   "z47ebe3ac": 1,
   "z1cb439ba": 1,
   "z8c2406a5": 1,
@@ -44077,9 +43334,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zb792a3f2": 1,
   "zc1b0651f": 1,
   "zbdc9bb07": 1,
-  "za97deb56": 1,
   "z3b4bc6f0": 1,
-  "z9faab666": 1,
   "z1bec8944": 1,
   "z77e89118": 1,
   "zb401970e": 1,
@@ -44116,7 +43371,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z4739fb8e": 1,
   "z402ba629": 1,
   "zf1061840": 1,
-  "z00f6eefc": 1,
   "z6972fa64": 1,
   "z4f755787": 1,
   "z77558358": 1,
@@ -44136,7 +43390,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z7ce98997": 1,
   "z7cd8154f": 1,
   "z6f093eab": 1,
-  "z9a69a0c3": 1,
   "zd3fe8814": 1,
   "ze9577a09": 1,
   "z63347e23": 1
