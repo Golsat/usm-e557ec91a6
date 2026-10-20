@@ -3,6 +3,1184 @@ window.EDIZIONI["2026-10-20-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zb972e1d8",
+   "sez": "mondo",
+   "titolo": "Kinshasa: i rilevatori del censimento accolti favorevolmente a N'Djili",
+   "orig": "Kinshasa : les recenseurs du RGPH-2 globalement bien accueillis par la population à N'Djili",
+   "lead": "A N'Djili, una delle 24 municipalità di Kinshasa, la cartografia censitaria del secondo censimento generale della popolazione e dell'habitat si svolge in un clima generalmente favorevole. Autorità, agenti e residenti hanno salutato l'accoglienza positiva riservata alle squadre, pur persistendo alcune sfide di sicurezza. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/20/actualite/societe/kinshasa-les-recenseurs-du-rgph-2-globalement-bien-accueillis-par-la",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T13:47+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z60012d99",
+   "sez": "mondo",
+   "titolo": "Il Servizio Nazionale fornisce 2.000 banchi a 14 scuole pubbliche di Mbuji-Mayi",
+   "orig": "Le Service national dote 14 écoles publiques de 2 000 bancs-pupitres à Mbuji-Mayi",
+   "lead": "Il Servizio Nazionale ha consegnato 2.000 banchi-pupitri a quattordici istituti scolastici pubblici di Mbuji-Mayi, nel Kasaï-Oriental. L'iniziativa, avvenuta lunedì 19 ottobre 2026, è destinata a circa 7.000 studenti suddivisi in tre sotto-divisioni educative della provincia. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/20/actualite/economie/le-service-national-dote-14-ecoles-publiques-de-2-000-bancs-pupitres",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T13:32+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z390bc8f6",
+   "sez": "mondo",
+   "titolo": "Il PNDA avvia un'assicurazione agricola per i produttori colpiti dal clima nel Kasaï-Central",
+   "orig": "Le PNDA met en place une assurance agricole pour 17 180 producteurs touchés par les perturbations climatiques au Kasaï-Central",
+   "lead": "Il Programma nazionale di sviluppo agricolo, con il sostegno della Banca mondiale, ha introdotto un'assicurazione agricola per 17.180 piccoli agricoltori del Kasaï-Central. La misura è stata adottata per tutelare i produttori le cui coltivazioni sono state danneggiate dai nebbie persistenti registrate nelle campagne 2025 e 2026. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/20/actualite/environnement/le-pnda-met-en-place-une-assurance-agricole-pour-17-180",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T12:47+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z3580aca8",
+   "sez": "mondo",
+   "titolo": "AfricaRice rafforza la filiera delle sementi di riso in Africa occidentale",
+   "orig": "AfricaRice renforce la filière semencière rizicole ouest-africaine",
+   "lead": "Nell'ambito del programma REWARD, AfricaRice ha avviato a Saint-Louis un seminario di formazione per operatori provenienti da tredici Paesi dell'Africa occidentale. L'iniziativa, in programma dal 19 al 23 ottobre 2026, punta a incrementare la produzione di sementi di riso di qualità e a ridurre la dipendenza dalle importazioni. Lo riferisce Le Soleil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/regions/actualites-regionales-quotidiennes/africarice-renforce-la-filiere-semenciere-rizicole-ouest-africaine/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T13:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "za01774a9",
+   "sez": "ambiente",
+   "titolo": "Un progetto pilota offre due sterline al giorno per proteggere l'Amazzonia peruviana",
+   "orig": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+   "lead": "Un programma di reddito di base incondizionato destinato alle popolazioni indigene dell'Amazzonia peruviana ha registrato l'adesione di circa il 90% dei partecipanti a pratiche ecologiche vantaggiose. Lo studio, condotto dall'Università di Bath, alimenta il dibattito sul ruolo dei trasferimenti economici diretti per la salvaguardia degli ecosistemi globali. Lo riferisce The Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T12:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z861e123c",
+   "sez": "economia",
+   "titolo": "I biglietti aerei in Europa potrebbero aumentare fino al 20% nel 2027, prevede il capo di Ryanair",
+   "orig": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
+   "lead": "Il amministratore delegato di Ryanair, Michael O'Leary, ha previsto un rincaro record delle tariffe aeree in Europa per il prossimo anno, a causa dell'incremento dei costi del carburante legato al conflitto in Medio Oriente. La mancanza di coperture finanziarie adeguate da parte di diversi vettori potrebbe inoltre innescare fallimenti e acquisizioni nel settore. Lo riferisce The Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T14:28+00:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/direktor-rajanera-kritikovao-fon-der-lajen-najavio-poskupljenje-avionskih-karata/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T12:18+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z708a8722",
+   "sez": "mondo",
+   "titolo": "Parigi annuncia 149 persone incarcerate per le violenze e i saccheggi in Francia",
+   "orig": "Parigi annuncia 149 persone incarcerate per le violenze e i saccheggi in Francia",
+   "lead": "A seguito degli scontri e dei disordini registrati in Francia, le autorità hanno reso noto che 149 persone sono state incarcerate per violenze e saccheggi. Il governo ha inoltre annunciato l'introduzione di nuovi coprifuoco nelle aree ritenute a rischio per ristabilire la sicurezza pubblica. Lo riferisce ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/20/parigi-annuncia-149-persone-incarcerate-per-le-violenze-e-i-saccheggi-in-francia_bedf84b0-ad4d-48a4-add6-f7d5d2f2b300.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T13:17+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z50ab7b30",
+   "sez": "mondo",
+   "titolo": "Caso Shalabayeva, il PG della Cassazione chiede un nuovo appello per cinque poliziotti",
+   "orig": "Caso Shalabayeva, il pg di Cassazione chiede un nuovo appello per i cinque poliziotti",
+   "lead": "La Procura generale della Corte di Cassazione ha chiesto lo svolgimento di un nuovo processo d'appello per cinque poliziotti coinvolti nel caso Shalabayeva. Per i vertici della Squadra Mobile non sussisterebbero tuttavia elementi sufficienti a dimostrare il dolo nel sequestro della figlia. Lo riferisce ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/shalabayeva-pg-cassazione-chiede-nuovo-appello-per-i-cinque-poliziotti_fb51835e-0037-4bf3-b266-2d52a4efe059.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T13:40+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "ze603a98e",
+   "sez": "mondo",
+   "titolo": "Le donne studiano più degli uomini ma hanno meno opportunità di carriera",
+   "orig": "Le donne studiano più degli uomini, ma hanno meno opportunità di carriera",
+   "lead": "Un Women Italy ha diffuso un pacchetto di dieci proposte per convertire la parità formale delle donne in una parità sostanziale sul lavoro e nella società. Dall'analisi emerge che, pur superando gli uomini nei percorsi di studio, le donne continuano a registrare minori opportunità di carriera. Lo riferisce ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/donne/notizie/2026/10/20/le-donne-studiano-piu-degli-uomini-ma-hanno-meno-opportunita-di-carriera_7af05188-a016-4d3e-8dfe-5d930ab82ee6.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T13:40+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z97b0df2d",
+   "sez": "mondo",
+   "titolo": "Il St. Pauli sceglie il nuovo inno: tra quattromila proposte c'è anche Bella Ciao in tedesco",
+   "orig": "Il St.Pauli sceglie il nuovo inno: 4000 proposte, c’è anche Bella Ciao in tedesco",
+   "lead": "La squadra di calcio tedesca del St. Pauli ha avviato la selezione per il nuovo inno ufficiale, raccogliendo circa quattromila proposte tra cui figura una versione in lingua tedesca di Bella Ciao. La decisione fa seguito all'accantonamento dello storico brano a causa delle polemiche sul presunto passato nazista del paroliere. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/sport/calcio/2026/10/20/news/st_pauli_nuovo_inno_bella_ciao_tedesco-425660304/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T13:07+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z85239830",
+   "sez": "economia",
+   "titolo": "Il fondo attivista Starboard punta su Solstice, spinoff di Honeywell",
+   "orig": "Activist Starboard targets Honeywell spin-off Solstice after failed megadeal",
+   "lead": "Il fondo speculativo Starboard Value ha avviato una pressione per ottenere cento milioni di dollari in tagli dei costi all'interno del gruppo chimico statunitense Solstice, spinoff di Honeywell. L'hedge fund individua inoltre ampi margini di crescita nel settore del business nucleare della società. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/f8ea12f4-a55d-4f46-a409-5cffd093ab6a?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T14:04+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z36e3ed74",
+   "sez": "mondo",
+   "titolo": "La Procura di Belgrado respinge l'esposto contro Vučić sul perdono di 49 persone",
+   "orig": "VJT odbacilo krivičnu prijavu protiv Vučića povodom pomilovanja 49 osoba",
+   "lead": "La Procura superiore di Belgrado ha respinto la denuncia penale presentata dal Partito Democratico e dal suo presidente contro il capo dello Stato Aleksandar Vučić. L'esposto contestava la decisione relativa alla grazia concessa a 49 persone. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/vjt-odbacilo-krivicnu-prijavu-protiv-vucica-povodom-pomilovanja/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T16:47+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z472e05bb",
+   "sez": "mondo",
+   "titolo": "Studenti in marcia verso Belgrado in vista delle elezioni parlamentari",
+   "orig": "Studenti pešače ka Beogradu: \"Pozdravljali nas vozači kamiona sa nalepnicama Srbija pobeđuje\"",
+   "lead": "Diverse colonne di studenti stanno attraversando la Serbia a piedi per convergere su Belgrado in vista del raduno elettorale organizzato dalla Lista Studentesca per il 22 ottobre. Durante il percorso, i manifestanti hanno ricevuto incoraggiamenti da parte dei camionisti lungo le strade. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/studenti-pesace-ka-beogradu-spojile-se-grupe-iz-valjeva-i-gornjeg-milanovca-krenula-kolona-iz-novog-sada/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T16:44+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zaf9038ce",
+   "sez": "mondo",
+   "titolo": "Aleksić a Svilajnac: \"Non è normale che un uomo governi per 20 anni\"",
+   "orig": "Aleksić u Svilajncu: Nije normalno da jedan čovek vlada 20 godina, vreme je za promene",
+   "lead": "Nel corso di un incontro politico a Svilajnac, l'esponente dell'opposizione Miroslav Aleksić ha criticato la permanenza prolungata dei medesimi amministratori locali al potere per decenni, sottolineando la necessità di un rinnovamento politico a prescindere dagli equilibri di governo centrale. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/aleksic-u-svilajncu-nije-normalno-da-jedan-covek-vlada-20-godina-vreme-je-za-promene/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T16:41+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z8393b37b",
+   "sez": "mondo",
+   "titolo": "Bulić: Novi Pazar è sull'orlo del fallimento, urgono interventi su elettricità e rifiuti",
+   "orig": "Bulić: Novi Pazar je na rubu propasti, neophodno rešiti probleme sa strujom, vodom i smećem",
+   "lead": "Durante una visita a Novi Pazar, il candidato Ferid Bulić ha dichiarato che la città si trova in una condizione di grave difficoltà economica e infrastrutturale. Secondo il rappresentante della coalizione, è indispensabile risolvere al più presto i problemi cronici legati alla fornitura di energia elettrica, di acqua potabile e alla gestione dei rifiuti. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/bulic-novi-pazar-je-na-rubu-propasti-neophodno-resiti-probleme-sa-strujom-vodom-i-smecem/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T16:40+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zf1db3d80",
+   "sez": "mondo",
+   "titolo": "Il sindacato BioSens annuncia un nuovo sciopero contro la gestione dell'istituto",
+   "orig": "Sindikat BioSens najavljuje novi štrajk zbog \"nezakonitog i samovoljnog postupanja uprave\"",
+   "lead": "Il sindacato dell'Istituto BioSens ha proclamato un nuovo sciopero di avvertimento per mercoledì per protestare contro la continuità dei comportamenti giudicati arbitrari e illegittimi da parte della direzione dell'ente. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/sindikat-biosens-strajk-upozorenja/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T16:38+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z74987838",
+   "sez": "mondo",
+   "titolo": "Le colonne studentesche in marcia verso la Slavija di Belgrado",
+   "orig": "Gledajte UŽIVO Dan uživo: Svi putevi ka Slaviji",
+   "lead": "Quattro cortei di studenti provenienti da diverse direzioni della Serbia si stanno dirigendo verso la capitale in vista della manifestazione politica prevista per giovedì a piazza Slavija. L'emittente segue in diretta gli spostamenti dei manifestanti lungo la rete stradale del Paese. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/najave-emisija/dan-uzivo-svi-putevi-ka-slaviji/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T16:29+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zfaf819c5",
+   "sez": "mondo",
+   "titolo": "Il regime iraniano sotto pressione mentre i gruppi ribelli intensificano gli attacchi nel sud-est",
+   "orig": "Iran regime under pressure as rebel groups escalate attacks in volatile southeast",
+   "lead": "Una coalizione di gruppi armati di opposizione ha incrementato le azioni ostili contro le forze di sicurezza iraniane nel sud-est del Paese. L'escalation nella regione di confine solleva nuovi interrogativi sulla capacità di Teheran di mantenere il controllo effettivo sul territorio. Lo riferisce Fox News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/iran-regime-under-pressure-rebel-groups-escalate-attacks-volatile-southeast",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T07:51-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "za1a51563",
+   "sez": "mondo",
+   "titolo": "La rete di protesta 'Chaos Inc' pianifica nuove manifestazioni in Europa",
+   "orig": "Global 'Chaos Inc' grows to 101 groups with plans for new rounds of demonstrations",
+   "lead": "I movimenti della sinistra radicale francese hanno annunciato una nuova giornata di mobilitazione per il prossimo 24 ottobre. L'iniziativa rientra nella rete transnazionale definita come alleanza rosso-verde di movimenti antisistema ed estremisti attiva in diversi Paesi europei. Lo riferisce Fox News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T07:22-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zd8ad27a2",
+   "sez": "mondo",
+   "titolo": "Il comitato elettorale dell'APC respinge le accuse su un presunto complotto contro Atiku Abubakar",
+   "orig": "2027: APC PCC dismisses plot against Atiku as opposition rabble-rousing",
+   "lead": "Il consiglio della campagna presidenziale dell'APC ha smentito le dichiarazioni di Timi Frank relative a un presunto piano per attentare alla vita dell'ex vicepresidente Atiku Abubakar, definendo le accuse come una montatura propagandistica dell'opposizione. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-apc-pcc-dismisses-plot-against-atiku-as-opposition-rabble-rousing/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-20T15:09+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "ze6fdcc87",
+   "sez": "mondo",
+   "titolo": "Osun adotterà telecamere con intelligenza artificiale e droni in un nuovo piano di sicurezza",
+   "orig": "Osun to deploy AI cameras, drones in new security initiative",
+   "lead": "Il governatore dello Stato di Osun, Ademola Adeleke, ha annunciato una nuova strategia di sicurezza basata sulla collaborazione con un'azienda cinese per installare telecamere dotate di intelligenza artificiale, droni e sistemi robotici sul territorio. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/osun-to-deploy-ai-cameras-drones-in-new-security-initiative/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-20T15:01+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zdcf26d8b",
+   "sez": "mondo",
+   "titolo": "Kebbi avvia la costruzione di una strada di 58 chilometri e altri progetti in tre aree locali",
+   "orig": "Kebbi begins construction of 58km road, other projects in three LGAs",
+   "lead": "Il governatore dello Stato di Kebbi, Nasir Idris, ha dato il via ai lavori per la realizzazione di una strada di 58 chilometri e di altre opere infrastrutturali in tre aree di governo locale, con l'obiettivo di sostenere l'agricoltura e rilanciare l'economia regionale. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/kebbi-begins-construction-of-58km-road-other-projects-in-three-lgas/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-20T15:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zc6adefc0",
+   "sez": "mondo",
+   "titolo": "Trump chiede al Nuovo Messico di cambiare nome in «Nuova America»",
+   "orig": "Trump calls on New Mexico to change its name to ‘New America’",
+   "lead": "Il presidente Donald Trump ha esortato lunedì lo stato del Nuovo Messico a cambiare nome in «Nuova America», sostenendo che gli Stati Uniti non siano il Messico. La proposta rientra nella sua tendenza a promuovere modifiche geografiche allineate alla sua agenda politica. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/trump-calls-on-new-mexico-to-change-its-name-to-new-america/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-20T12:38+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z98785d7d",
+   "sez": "mondo",
+   "titolo": "Iga Swiatek si ritira dal Ningbo Open per un infortunio alla coscia",
+   "orig": "Swiatek pulls out of Ningbo Open with thigh injury",
+   "lead": "La tennista polacca Iga Swiatek, nona nella classifica di qualificazione per le Finals prima del torneo cinese di livello 500, si è ritirata a causa di un infortunio alla coscia, compromettendo la sua lotta per l'ottavo e ultimo posto disponibile. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/swiatek-pulls-out-ofingbo-open-with-thigh-injury-n392395",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T12:09+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z1865461b",
+   "sez": "mondo",
+   "titolo": "La Cina schiera forze navali per monitorare una nave da guerra statunitense",
+   "orig": "China deploys naval forces to monitor US warship near disputed shoal",
+   "lead": "L'esercito cinese ha dichiarato martedì di aver mobilitato le proprie forze navali per monitorare il passaggio di una nave da guerra degli Stati Uniti nei pressi di una secca contesa nell'area. Lo riferisce The Citizen.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Citizen",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/international/china-deploys-naval-forces-to-monitor-us-warship-near-disputed-shoal-5638948",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-10-20T11:10+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z27638b5c",
+   "sez": "mondo",
+   "titolo": "L'Onu avverte: oltre 19 milioni di afgani a rischio insicurezza alimentare acuta",
+   "orig": "19.2 million Afghans could soon face ‘acute food insecurity’: UN",
+   "lead": "Le Nazioni Unite hanno avvertito martedì che il numero di persone che affrontano una grave crisi alimentare in Afghanistan supererà i 19 milioni durante l'inverno. L'agenzia umanitaria Ocha stima inoltre che il prossimo anno oltre quattro milioni di bambini sotto i sei anni necessiteranno di cure per malnutrizione acuta. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/russia-central-asia/article/3371551/192-million-afghans-could-soon-face-acute-food-insecurity-un",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T14:14+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "ze34720f7",
+   "sez": "mondo",
+   "titolo": "Il giovane prodigio dell'IA Nathan Chen si unisce alla start-up Discovery Loop",
+   "orig": "What is Discovery Loop, Chinese teen AI prodigy Nathan Chen’s rumoured next destination?",
+   "lead": "Pochi giorni dopo aver lasciato Moonshot AI, il giovane ricercatore cinese di intelligenza artificiale Nathan Chen Guangyu si unisce a Discovery Loop, una start-up fondata da ex ricercatori di Google tra cui Jeff Dean. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/tech/tech-trends/article/3371542/what-discovery-loop-chinese-teen-ai-prodigy-nathan-chens-rumoured-next-destination",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T14:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z23e08864",
+   "sez": "mondo",
+   "titolo": "Raddoppiano i sottosettori in competizione nelle elezioni del Comitato Elettorale di Hong Kong",
+   "orig": "Contested subsectors double in Hong Kong’s Election Committee poll",
+   "lead": "Si sono chiuse martedì le candidature per il Comitato Elettorale di Hong Kong, registrando un raddoppio dei sottosettori in competizione rispetto al 2021. Secondo gli osservatori, il dato riflette la spinta di Pechino a promuovere una sana competizione all'interno dello schieramento pro-establishment. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/politics/article/3371547/contested-subsectors-double-hong-kongs-election-committee-poll",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T13:14+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zc4947182",
+   "sez": "mondo",
+   "titolo": "Incendi negli uffici di Seul, il sospettato parla di frode sui brevetti",
+   "orig": "Gangnam arson suspect claims patent fraud, had attempted similar attack in 2022",
+   "lead": "Un uomo di settant'anni arrestato martedì per aver appiccato il fuoco a due edifici ospitanti studi legali di brevetti nel distretto di Gangnam a Seul, provocando 19 feriti, ha giustificato il gesto sostenendo di essere stato vittima di una frode. La polizia ha confermato precedenti arresti per tentativi analoghi. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10909100",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10909033",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z6fe4f0fa",
+   "sez": "mondo",
+   "titolo": "La Corea del Nord promette risposte muscolari alle esercitazioni militari congiunte",
+   "orig": "N. Korea vows &apos;tit-for-tat&apos; action against S. Korea-US military exercise",
+   "lead": "La Corea del Nord ha condannato martedì le manovre militari congiunte tra Seul e Washington e quelle tra Stati Uniti e Giappone, definendole dimostrazioni di forza di stati ostili. Pyongyang ha avvertito che applicherà un principio di risposta basato sulla forza. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10909081",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z191956a8",
+   "sez": "mondo",
+   "titolo": "Attivisti chiedono l'intervento del governatore per i rilasci nell'area mineraria dell'Odisha",
+   "orig": "Activists seek Governor’s intervention for release of people arrested in Odisha’s bauxite region",
+   "lead": "Due attivisti impegnati nella resistenza contro l'estrazione di bauxite a Sijimali, Randall Sequeira e Laxman Naik, sono stati fermati a Bhabanipatna, spingendo i sostenitori a invocare l'intervento del governatore per la loro liberazione. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/odisha/activists-seek-governors-intervention-for-release-of-people-arrested-in-odishas-bauxite-region/article71604731.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T20:10+05:30"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z15767479",
+   "sez": "mondo",
+   "titolo": "Traffico in tilt nei centri commerciali di Tiruchi per il ponte festivo e le nuove aperture",
+   "orig": "Shopping centres bear the brunt of traffic bottlenecks in Tiruchi",
+   "lead": "Numerose strade a forte intensità commerciale di Tiruchi hanno registrato gravi problemi di traffico a causa della combinazione di quattro giorni di festività consecutive e dell'afflusso generato dall'apertura di nuovi punti vendita. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Tiruchirapalli/shopping-centres-bear-the-brunt-of-traffic-bottlenecks-in-tiruchi/article71604872.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T20:07+05:30"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z57dde2d6",
+   "sez": "mondo",
+   "titolo": "Il premier Modi invoca il «Ram Rajya» per Dussehra e mette in guardia sui danni all'immagine dell'India",
+   "orig": "PM Modi invokes 'Ram Rajya' on Dussehra, warns against people hurting India's image",
+   "lead": "Durante le celebrazioni per la festività di Dussehra, il primo ministro indiano Narendra Modi ha richiamato i principi di giustizia e welfare sociale del Lord Ram, esortando a promuovere l'autosufficienza nazionale e a isolare chi danneggia l'immagine del Paese. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/pm-modi-invokes-ram-rajya-warns-against-people-hurting-indias-image-top-quotes-from-dussehra-event/articleshow/135071521.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T19:28+05:30"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zd3103449",
+   "sez": "mondo",
+   "titolo": "La proposta di Trump sul Nuovo Messico accende il dibattito politico",
+   "orig": "Memo from New Delhi: Make America India Again?",
+   "lead": "La proposta avanzata da Donald Trump di ridenominare il Nuovo Messico in «Nuova America» ha incontrato la ferma opposizione dei rappresentanti politici locali, che hanno rimarcato il profondo valore storico del nome originario e i rigidi vincoli costituzionali. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/us/memo-from-new-delhi-make-america-india-again/articleshow/135071707.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T19:47+05:30"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zafc2cf86",
+   "sez": "mondo",
+   "titolo": "Cina in testa ai Giochi Asiatica, l'India scivola al sesto posto nonostante le 24 medaglie",
+   "orig": "Why India slipped in Asian Games standings despite 24 medals as China extend lead",
+   "lead": "Nonostante l'ottimo bottino di 24 medaglie complessive e cinque ori conquistati nella seconda giornata dei Giochi Para-Asiatici 2026, l'India ha ceduto posizioni nel medagliere generale, superata da altri Paesi mentre la Cina mantiene saldamente la leadership. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/why-india-slipped-in-asian-para-games-standings-despite-24-medals-five-golds-as-china-extend-lead/articleshow/135071633.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T19:46+05:30"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zf0695270",
+   "sez": "mondo",
+   "titolo": "Il deputato dell'Uttar Pradesh Raja Bhaiyya celebra il rito dello Shastra Puja con oltre 500 armi",
+   "orig": "Watch: UP MLA Raja Bhaiyya worships 500+ guns on Dusshera",
+   "lead": "Il politico indiano Raja Bhaiyya ha presieduto la tradizionale cerimonia dello Shastra Puja nel suo palazzo, esponendo oltre cinquecento armi da fuoco alla presenza di sostenitori e familiari, rinnovando un'antica consuetudine culturale e politica. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/city/allahabad/different-tusks-for-display-eating-raja-bhaiya-worships-500-plus-weapons-on-dussehra/articleshow/135071262.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-20T19:16+05:30"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zdfd7da67",
+   "sez": "mondo",
+   "titolo": "Il governo pakistano apre a un'intesa sul antiterrorismo se l'opposizione collabora",
+   "orig": "PM Shehbaz ready to build consensus on counterterrorism if opposition willing to: Sanaullah",
+   "lead": "Il governo federale pakistano si è detto pronto a coinvolgere tutte le forze politiche per raggiungere un consenso sul contrasto al terrorismo, invitando l'opposizione a deporre le altre richieste istituzionali. Lo ha dichiarato martedì in Senato il consigliere Rana Sanaullah. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038516/pm-shehbaz-ready-to-build-consensus-on-counterterrorism-if-opposition-willing-to-sanaullah",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-20T16:32+05:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zefdc3143",
+   "sez": "mondo",
+   "titolo": "L'Alta Corte di Peshawar chiede chiarimenti sulla detenzione del leader PTI Sohail Afridi",
+   "orig": "PHC seeks replies from KP govt, IG on Sohail Afridi, other PTI leaders' detention",
+   "lead": "L'Alta Corte di Peshawar ha ordinato al governo provinciale di Khyber Pakhtunkhwa e ai vertici della polizia di fornire risposte ufficiali in merito alla detenzione del capo esecutivo provinciale Sohail Afridi, di cui si sono persi i contatti dopo l'imposizione della regola del governatore. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038549/phc-seeks-replies-from-kp-govt-ig-on-sohail-afridi-other-pti-leaders-detention",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-20T19:55+05:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zd8a13997",
+   "sez": "mondo",
+   "titolo": "Allarme dal Pakistan: le dottrine militari indiane mettono in pericolo la stabilità nucleare dell'Asia del Sud",
+   "orig": "Indian military doctrines with 'poor' strategic sense of nuclear realities endanger South Asia: NCA adviser",
+   "lead": "Un ex dirigente della divisione strategica pakistana, Mazhar Jamil, ha denunciato come la mentalità e le dottrine militari indiane, influenzate da ideologie che confondono la mitologia con la potenza nazionale, rappresentino un grave pericolo per la sicurezza e gli equilibri nucleari regionali. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038544/indian-military-doctrines-with-poor-strategic-sense-of-nuclear-realities-endanger-south-asia-nca-adviser",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-20T19:42+05:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z2adeeb00",
+   "sez": "mondo",
+   "titolo": "Esperti Onu esortano l'India a fermare l'uso eccessivo della forza contro i giovani manifestanti",
+   "orig": "UN experts urge India to stop excessive force against youth protesters",
+   "lead": "Un gruppo di esperti delle Nazioni Unite ha chiesto l'avvio di indagini indipendenti sulle violenze della polizia, sugli abusi di natura di genere e sulle detenzioni arbitrarie registrate in India durante le proteste studentesche e popolari legate alle politiche educative. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/world/2026/10/20/un-experts-urge-india-to-stop-excessive-force-against-youth-protesters",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zc265af93",
+   "sez": "mondo",
+   "titolo": "Lavoratori nepalesi di ritorno dall'India subiscono maggiorazioni tariffarie al confine",
+   "orig": "Nepali workers returning from India face overcharging at the border",
+   "lead": "Numerosi lavoratori emigranti rientrati in patria attraverso la frontiera in occasione delle festività del Dashain denunciano tariffe di trasporto gonfiate e controlli vessatori, pur a fronte di scarse denunce formali presentate alle autorità. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/sudurpaschim-province/2026/10/20/nepali-workers-returning-from-india-face-overcharging-at-the-border",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zd9bacdf9",
+   "sez": "mondo",
+   "titolo": "La polizia di Parsa arresta oltre cento latitanti condannati in un mese",
+   "orig": "Parsa police arrest 103 convicted fugitives in a month",
+   "lead": "Le forze dell'ordine del distretto di Parsa hanno eseguito nel giro di un mese ben 103 mandati di cattura nei confronti di persone condannate in via definitiva che si erano sottratte all'esecuzione delle pene detentive e al pagamento delle multe. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/province-no-2/2026/10/20/parsa-police-arrest-103-convicted-fugitives-in-a-month",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z5cef2876",
+   "sez": "mondo",
+   "titolo": "Sara Duterte accusa il governo Marcos di fabbricare accuse per screditarla",
+   "orig": "Sara Duterte accuses Marcos gov’t of using China, Laos issues to bring her down",
+   "lead": "La vicepresidente filippina Sara Duterte ha accusato martedì l'amministrazione guidata da Ferdinand Marcos Jr di aver orchestrato accuse di finanziamenti cinesi, legami con il narcotraffico in Laos e questioni di viaggio per danneggiare la sua immagine politica. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/777293/sara-duterte-accuses-marcos-govt-of-using-china-laos-issues-to-bring-her-down",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-20T22:27+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z83ed7f4b",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV e Chris Pratt insieme per un documentario sulla tomba di San Pietro",
+   "orig": "Pope Leo, Chris Pratt unite for Vatican tomb documentary",
+   "lead": "Un nuovo documentario intitolato «Pétros Ení — Discovering the Origins» unisce papa Leone XIV e l'attore hollywoodiano Chris Pratt per esplorare la storia e le scoperte archeologiche relative alla tomba di San Pietro in Vaticano, in occasione del quattrocentesimo anniversario. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/777279/pope-leo-chris-pratt-unite-for-vatican-tomb-documentary",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-20T22:27+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z7e29e6aa",
+   "sez": "mondo",
+   "titolo": "Alex Eala affronta la mancina Diana Shnaider agli ottavi del Ningbo Open",
+   "orig": "Alex Eala sets up lefty showdown v. Diana Shnaider in Ningbo Open",
+   "lead": "Dopo aver superato agevolmente il primo turno, la tennista filippina Alexandra Eala sfiderà mercoledì la russa Diana Shnaider nel torneo WTA 500 del Ningbo Open, con in palio un posto nei quarti di finale. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/777283/alex-eala-sets-up-lefty-showdown-v-diana-shnaider-in-ningbo-open",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-20T22:14+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zd8e99e29",
+   "sez": "mondo",
+   "titolo": "Il deputato Vargas presenta la proposta di legge «Basura to Ayuda»",
+   "orig": "Vargas files ‘Basura to Ayuda’ bill",
+   "lead": "Il deputato filippino Patrick Michael Vargas ha depositato martedì un disegno di legge volto a incentivare il riciclo dei rifiuti domestici, consentendo ai cittadini di scambiare materiali riciclabili con sussidi in denaro o beni di prima necessità. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2327329/vargas-files-basura-to-ayuda-bill",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-20T22:11+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z3a885627",
+   "sez": "mondo",
+   "titolo": "La crescita della popolazione studentesca internazionale spinge il mercato immobiliare a Hong Kong",
+   "orig": "International student population growth set to fuel Hong Kong property demand",
+   "lead": "Il progressivo aumento degli studenti stranieri a Hong Kong si sta affermando come un nuovo motore per gli investimenti immobiliari, con transazioni commerciali in forte crescita nel terzo trimestre grazie all'interesse per gli alloggi dedicati. Lo riferisce VnExpress.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VnExpress",
+     "p": "XX",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/news/news/education/international-student-population-growth-set-to-fuel-hong-kong-property-demand-5134521.html",
+     "angolo": "",
+     "atlas": "Vietnam",
+     "t": "2026-10-20T19:00+07:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z78d33b2e",
+   "sez": "mondo",
+   "titolo": "Il principe Harry esprime il desiderio di riconciliarsi con la famiglia reale",
+   "orig": "Prince Harry says he wants to reconcile with family",
+   "lead": "In un'intervista rilasciata a Londra, il principe Harry ha dichiarato di sperare in una riconciliazione con re Carlo e con il resto della famiglia reale, dai quali si era allontanato sei anni fa in seguito al suo trasferimento negli Stati Uniti. Lo riferisce The Straits Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/prince-harry-says-he-wants-to-reconcile-with-family",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-20T22:56+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "zf4d1748f",
+   "sez": "mondo",
+   "titolo": "Uso di integratori alimentari al posto dei farmaci dimagranti: medici e autorità lanciano l'allarme",
+   "orig": "As weight-loss drug users turn to dietary supplements, doctors, regulators raise flags",
+   "lead": "Mentre molti utilizzatori di farmaci GLP-1 per la perdita di peso lamentano effetti collaterali invalidanti come disturbi gastrointestinali e stanchezza cronica, la crescente tendenza a rimpiazzarli con integratori non regolamentati spinge medici e autorità sanitarie a mettere in guardia sui rischi. Lo riferisce The Straits Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/as-weight-loss-drug-users-turn-to-dietary-supplements-doctors-regulators-raise-flags",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-20T22:31+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z025d271f",
+   "sez": "mondo",
+   "titolo": "Focolaio di Newcastle in Brasile: impatto a lungo termine improbabile secondo gli analisti",
+   "orig": "Brazil’s Newcastle poultry outbreak unlikely to have major long-term impact, analysts say",
+   "lead": "Un focolaio di malattia di Newcastle in Brasile difficilmente causerà danni permanenti all'industria avicola nazionale se le autorità lo conterranno rapidamente. Lo sostiene un gruppo di analisti, evidenziando tuttavia che permangono rischi legati alle restrizioni commerciali, in particolare da parte della Cina. Lo riferisce The Straits Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/brazils-newcastle-poultry-outbreak-unlikely-to-have-major-long-term-impact-analysts-say",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-20T22:16+08:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z9547c893",
+   "sez": "mondo",
+   "titolo": "Il Kazakistan avvia la costruzione di un impianto di fusione del rame da 1,8 miliardi di dollari",
+   "orig": "Kazakhstan Begins $1.8 Billion Copper Smelter Project in Abai Region",
+   "lead": "Il Kazakistan ha avviato la costruzione di un impianto di fusione del rame da 1,8 miliardi di dollari ad Aktogai, nella regione di Abai. Il progetto, annunciato il 20 ottobre dal presidente Kassym-Jomart Tokayev, avrà una capacità produttiva annua di 300.000 tonnellate di rame catodico. Lo riferisce The Astana Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/kazakhstan-begins-1-8-billion-copper-smelter-project-in-abai-region/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-20T14:13+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z36f24049",
+   "sez": "mondo",
+   "titolo": "Il Kazakistan punta a un ruolo maggiore nell'ICAO tra le sfide dell'aviazione globale",
+   "orig": "Kazakhstan Eyes Greater ICAO Role Amid Global Aviation Challenges",
+   "lead": "Si è aperta il 20 ottobre ad Astana la Security Week 2026 dell'Organizzazione dell'aviazione civile internazionale. L'evento pone l'attenzione sulla candidatura del Kazakistan a un seggio nel Consiglio ICAO, sulle minacce informatiche e sulle prospettive di voli diretti con gli Stati Uniti. Lo riferisce The Astana Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/kazakhstan-eyes-greater-icao-role-amid-global-aviation-challenges/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-20T13:41+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
+   "id": "z3ee321da",
+   "sez": "mondo",
+   "titolo": "Tennis, Elena Rybakina allunga in vetta al ranking WTA",
+   "orig": "Kazakhstan’s Rybakina Extends Lead at Top of WTA Rankings",
+   "lead": "Elena Rybakina consolida il proprio primato in vetta alla classifica mondiale di singolare WTA, vantando un vantaggio superiore ai 1.600 punti sulla bielorussa Aryna Sabalenka. La tennista kazaka sale a 9.196 punti, mentre la connazionale Yulia Putintseva guadagna tredici posizioni portandosi al 66° posto. Lo riferisce The Astana Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/kazakhstans-rybakina-extends-lead-at-top-of-wta-rankings/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-20T11:27+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "17:18",
+   "uscita": "17"
+  },
+  {
    "id": "z8dd89d4d",
    "sez": "ambiente",
    "titolo": "Studio: la flora delle zone umide necessita di supporto attivo dopo il ripristino",
@@ -9709,28 +10887,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z82c99ea7",
-   "sez": "economia",
-   "titolo": "Ryanair, Michael O'Leary contro l'UE: attesi aumenti dei biglietti",
-   "orig": "Direktor Rajanera kritikovao Fon der Lajen, najavio poskupljenje avionskih karata",
-   "lead": "L'amministratore delegato di Ryanair, Michael O'Leary, ha criticato duramente le istituzioni dell'Unione Europea per l'introduzione di nuove tasse sulle emissioni nocive. O'Leary ha avvertito che tali misure fiscali danneggeranno la competitività del settore e causeranno un inevitabile aumento dei prezzi dei biglietti per i passeggeri europei. Lo riferisce N1 Serbia.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/svet/direktor-rajanera-kritikovao-fon-der-lajen-najavio-poskupljenje-avionskih-karata/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-20T12:18+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "13:00",
-   "uscita": "13"
-  },
-  {
    "id": "z3fb1c3b6",
    "sez": "mondo",
    "titolo": "Serbia, oltre la metà degli appalti pubblici sfugge alle procedure legali",
@@ -11603,6 +12759,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "u": "https://kathmandupost.com/world/2026/10/20/as-france-erupts-europe-s-far-right-gains-from-fuel-price-anger-ahead-of-elections",
      "angolo": "",
      "atlas": "Nepal"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/20/world/politics/europe-far-right-preelection-gains/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-20T20:17+09:00"
     }
    ],
    "data": "",
@@ -18933,7 +20098,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z63aead31": "Il giornale britannico esamina le dinamiche interne e la polarizzazione della destra nel Regno Unito.",
   "z0eb89e3b": "L'emittente segue da vicino i preparativi logistici per il voto nazionale serbo.",
   "zbf3204d8": "Viene dato spazio alle strategie elettorali della principale coalizione di opposizione serba.",
-  "z82c99ea7": "L'attenzione è rivolta alle tensioni tra la compagnia low-cost e le politiche ambientali di Bruxelles.",
   "z3fb1c3b6": "La testata evidenzia criticità nella trasparenza amministrativa e nella gestione finanziaria governativa.",
   "za214a8fe": "L'articolo riporta le preoccupazioni per l'uso di software di sorveglianza contro le voci critiche.",
   "z54fd84a3": "Il giornale americano analizza le ripercussioni continentali della crisi politica francese.",
@@ -19316,7 +20480,60 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "za8c45186": "L'agenzia brasiliana informa i cittadini sulle garanzie costituzionali ed elettorali previste dal Codice.",
   "z8229ce41": "L'agenzia evidenzia l'impegno economico e sociale della società civile nel dibattito per le presidenziali.",
   "za3b1e1f6": "Il quotidiano tunisino evidenzia i progressi nella modernizzazione digitale dei servizi amministrativi.",
-  "z7c9e65e0": "L'emittente congolese focalizza l'attenzione sulla mediazione diplomatica internazionale per la pacificazione del Paese."
+  "z7c9e65e0": "L'emittente congolese focalizza l'attenzione sulla mediazione diplomatica internazionale per la pacificazione del Paese.",
+  "zb972e1d8": "L'emittente locale sottolinea l'andamento positivo delle operazioni di censimento sul territorio comunale.",
+  "z60012d99": "La testata evidenzia l'impatto positivo della dotazione materiale sulle strutture scolastiche locali.",
+  "z390bc8f6": "Il media si concentra sul supporto finanziario e tecnico fornito ai produttori agricoli colpiti dalle avversità climatiche.",
+  "z3580aca8": "La testata pone l'accento sulla sicurezza alimentare e sullo sviluppo delle competenze agricole regionali.",
+  "za01774a9": "Il quotidiano britannico analizza l'efficacia delle misure economiche dirette per la tutela ambientale indigena.",
+  "z861e123c": "Il giornale mette in guardia sui rischi finanziari e sui rincari dei trasporti aerei legati alle tensioni geopolitiche.",
+  "z708a8722": "L'agenzia di stampa italiana riferisce in modo cronachistico le misure di sicurezza adottate dal governo francese.",
+  "z50ab7b30": "L'agenzia segue gli sviluppi giudiziari della vicenda giudiziaria con focus sulle richieste della Procura.",
+  "ze603a98e": "L'agenzia documenta il divario di genere occupazionale e le richieste istituzionali per colmarlo.",
+  "z97b0df2d": "Il quotidiano italiano evidenzia il risvolto culturale e politico legato alla scelta della nuova canzone della tifoseria.",
+  "z85239830": "Il quotidiano finanziario analizza le strategie degli investitori attivisti nei confronti delle grandi aziende industriali.",
+  "z36e3ed74": "L'emittente regionale riporta gli sviluppi legali relativi alle denunce politiche contro l'amministrazione centrale.",
+  "z472e05bb": "La testata documenta la mobilitazione giovanile e le marce di protesta in vista della scadenza elettorale.",
+  "zaf9038ce": "Il canale d'informazione segue la campagna elettorale locale e le critiche mosse dall'opposizione ai sindaci di lungo corso.",
+  "z8393b37b": "L'emittente evidenzia le criticità amministrative e territoriali denunciate dai candidati locali durante la competizione elettorale.",
+  "zf1db3d80": "Il media segue le vertenze sindacali all'interno degli enti di ricerca scientifica e tecnologica del Paese.",
+  "z74987838": "Il servizio offre una copertura in tempo reale della mobilitazione studentesca verso il centro della capitale.",
+  "zfaf819c5": "L'emittente statunitense sottolinea le vulnerabilità geopolitiche e le tensioni interne del governo iraniano.",
+  "za1a51563": "Il network adotta una prospettiva critica nei confronti delle proteste e dei movimenti di piazza in Europa.",
+  "zd8ad27a2": "Il quotidiano nigeriano riferisce la smentita ufficiale del partito di governo rispetto alle polemiche politiche nazionali.",
+  "ze6fdcc87": "Il giornale locale dà risalto all'innovazione tecnologica applicata alla sicurezza pubblica nello Stato nigeriano.",
+  "zdcf26d8b": "Il quotidiano sottolinea l'impatto economico e viario dei nuovi investimenti pubblici nello Stato.",
+  "zc6adefc0": "La testata egiziana riporta la dichiarazione del presidente statunitense incentrata sulle sue richieste di ridenominazione geografica.",
+  "z98785d7d": "La testata keniota evidenzia l'impatto del forfait della tennista nella corsa alla qualificazione per il torneo di fine stagione.",
+  "z1865461b": "Il quotidiano tanzaniano riporta la mossa militare cinese in risposta alla presenza della nave statunitense nelle acque contese.",
+  "z27638b5c": "Il giornale di Hong Kong rilancia l'allarme umanitario diffuso dall'Onu sulle drammatiche prospettive alimentari e sanitarie in Afghanistan.",
+  "ze34720f7": "La testata di Hong Kong traccia gli spostamenti dei talenti nel settore dell'intelligenza artificiale tra Cina e Stati Uniti.",
+  "z23e08864": "Il quotidiano di Hong Kong esamina la dinamica politica locale in vista delle consultazioni per l'organismo che sceglierà il prossimo leader cittadino.",
+  "zc4947182": "Il giornale sudcoreano segue gli sviluppi dell'arresto e le dichiarazioni dell'indagato in merito agli incendi dolosi nella capitale.",
+  "z6fe4f0fa": "Il quotidiano di Seul riporta la dura presa di posizione del regime nordcoreano contro i recenti addestramenti militari nella penisola.",
+  "z191956a8": "Il quotidiano indiano documenta la mobilitazione della società civile locale in seguito ai fermi legati alle proteste minerarie.",
+  "z15767479": "Il giornale indiano racconta i disagi alla circolazione urbana provocati dallo shopping e dal calendario delle festività.",
+  "z57dde2d6": "Il quotidiano di Mumbai sottolinea i passaggi politici e culturali del discorso del capo del governo durante le festività tradizionali.",
+  "zd3103449": "La testata indiana offre una panoramica internazionale sulle reazioni istituzionali alla provocazione geografica dell'ex presidente statunitense.",
+  "zafc2cf86": "Il quotidiano indiano analizza l'andamento della competizione sportiva continentale e le performance degli atleti nazionali.",
+  "zf0695270": "Il giornale indiano riporta i dettagli della discussa esibizione di armi legali in occasione della festività religiosa.",
+  "zdfd7da67": "Il quotidiano di Karachi riferisce dell'apertura al dialogo politico avanzata dall'esecutivo nel quadro della gestione dell'emergenza provinciale.",
+  "zefdc3143": "Il giornale pakistano segue le vicende giudiziarie legate al fermo dei dirigenti locali del partito Tehreek-e-Insaf.",
+  "zd8a13997": "Il quotidiano di Karachi dà spazio agli ammonimenti strategici sui rischi di escalation militare tra le due potenze confinanti.",
+  "z2adeeb00": "Il giornale nepalese riporta l'appello internazionale rivolto alle autorità indiane sulla tutela dei diritti umani e dei manifestanti.",
+  "zc265af93": "La testata del Nepal documenta le difficoltà quotidiane vissute dai pendolari e dai lavoratori transfrontalieri lungo la linea di confine.",
+  "zd9bacdf9": "Il quotidiano nepalese riferisce dell'operazione di polizia finalizzata a ripristinare la certezza della pena sul territorio.",
+  "z5cef2876": "Il quotidiano di Manila riporta lo scontro istituzionale ai vertici dello Stato e le denunce di persecuzione politica.",
+  "z83ed7f4b": "Il giornale filippino evidenzia la collaborazione mediatica e culturale tra la Santa Sede e il mondo di Hollywood.",
+  "z7e29e6aa": "La testata filippina segue il percorso agonistico della propria atleta nel circuito tennistico professionistico internazionale.",
+  "zd8e99e29": "Il quotidiano di Manila descrive l'iniziativa legislativa di stampo ecologico e sociale proposta in Parlamento.",
+  "z3a885627": "La testata vietnamita analizza le tendenze economiche e il mercato immobiliare nel centro finanziario asiatico.",
+  "z78d33b2e": "Il quotidiano di Singapore dà risalto alle dichiarazioni pubbliche del duca di Sussex sui rapporti con la monarchia britannica.",
+  "zf4d1748f": "Il giornale di Singapore approfondisce le problematiche sanitarie connesse all'uso e alla sostituzione fai-da-te dei trattamenti per il dimagrimento.",
+  "z025d271f": "La testata analizza le possibili ripercussioni economiche e commerciali internazionali di un'epidemia zootecnica in America Latina.",
+  "z9547c893": "La testata enfatizza i grandi investimenti industriali e infrastrutturali promossi dal governo kazako per rafforzare l'economia nazionale.",
+  "z36f24049": "La testata sottolinea le ambizioni diplomatiche e di sicurezza del Paese nel settore aeronautico internazionale.",
+  "z3ee321da": "La testata celebra i successi sportivi internazionali degli atleti kazaki nel circuito professionistico del tennis."
  },
  "contesti": {
   "zeef60cd2": "Nelle ore precedenti la deputata indipendente Helen Haines si trovava nei pressi della propria sede elettorale a Wangaratta quando un fuoristrada ha invertito la marcia per investirla. Il conducente è stato bloccato sul posto dalla polizia locale, mentre i medici hanno lottato per ore in ospedale per salvarle la vita.",
@@ -21996,13 +23213,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "Belgrado",
    "p": [
     "Serbia"
-   ],
-   "pt": []
-  },
-  "z82c99ea7": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -24779,6 +25989,401 @@ window.EDIZIONI["2026-10-20-sera"] = {
     "Dem. Rep. Congo"
    ],
    "pt": []
+  },
+  "zb972e1d8": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z60012d99": {
+   "n": "Mbuji-Mayi",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z390bc8f6": {
+   "n": "Kasaï-Central",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z3580aca8": {
+   "n": "Saint-Louis",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "za01774a9": {
+   "n": "Amazon basin",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z861e123c": {
+   "n": "London",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z708a8722": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z50ab7b30": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze603a98e": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z97b0df2d": {
+   "n": "Hamburg",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z85239830": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z36e3ed74": {
+   "n": "Belgrade",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z472e05bb": {
+   "n": "Belgrade",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zaf9038ce": {
+   "n": "Svilajnac",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z8393b37b": {
+   "n": "Novi Pazar",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zf1db3d80": {
+   "n": "Novi Sad",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z74987838": {
+   "n": "Belgrade",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zfaf819c5": {
+   "n": "Tehran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "za1a51563": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zd8ad27a2": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "ze6fdcc87": {
+   "n": "Osogbo",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zdcf26d8b": {
+   "n": "Birnin Kebbi",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zc6adefc0": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z98785d7d": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya",
+    "China"
+   ],
+   "pt": []
+  },
+  "z1865461b": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania",
+    "China",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z27638b5c": {
+   "n": "Hong Kong",
+   "p": [
+    "China",
+    "Afghanistan"
+   ],
+   "pt": []
+  },
+  "ze34720f7": {
+   "n": "Hong Kong",
+   "p": [
+    "China",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z23e08864": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zc4947182": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z6fe4f0fa": {
+   "n": "Seul",
+   "p": [
+    "South Korea",
+    "North Korea",
+    "United States of America",
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z191956a8": {
+   "n": "Chennai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z15767479": {
+   "n": "Chennai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z57dde2d6": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zd3103449": {
+   "n": "Mumbai",
+   "p": [
+    "India",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zafc2cf86": {
+   "n": "Mumbai",
+   "p": [
+    "India",
+    "China"
+   ],
+   "pt": []
+  },
+  "zf0695270": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zdfd7da67": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zefdc3143": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zd8a13997": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan",
+    "India"
+   ],
+   "pt": []
+  },
+  "z2adeeb00": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal",
+    "India"
+   ],
+   "pt": []
+  },
+  "zc265af93": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal",
+    "India"
+   ],
+   "pt": []
+  },
+  "zd9bacdf9": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z5cef2876": {
+   "n": "Manila",
+   "p": [
+    "Philippines",
+    "China",
+    "Laos"
+   ],
+   "pt": []
+  },
+  "z83ed7f4b": {
+   "n": "Manila",
+   "p": [
+    "Philippines",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7e29e6aa": {
+   "n": "Manila",
+   "p": [
+    "Philippines",
+    "China",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zd8e99e29": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z3a885627": {
+   "n": "Hanoi",
+   "p": [
+    "Vietnam",
+    "China"
+   ],
+   "pt": []
+  },
+  "z78d33b2e": {
+   "n": "Singapore",
+   "p": [
+    "Singapore",
+    "United Kingdom",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf4d1748f": {
+   "n": "Singapore",
+   "p": [
+    "Singapore",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z025d271f": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z9547c893": {
+   "n": "Aktogai",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z36f24049": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z3ee321da": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan",
+    "Belarus"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -24961,7 +26566,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zb9ebad31": 1,
   "z19930109": 1,
   "z1e4f8fc5": 1,
-  "z28735428": 1,
+  "z28735428": 2,
   "ze48f65ee": 1,
   "z8db1c03d": 1,
   "zef80b28f": 2,
@@ -25098,7 +26703,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z63aead31": 1,
   "z0eb89e3b": 1,
   "zbf3204d8": 1,
-  "z82c99ea7": 1,
   "z3fb1c3b6": 1,
   "za214a8fe": 1,
   "z54fd84a3": 1,
@@ -25481,7 +27085,60 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "za8c45186": 1,
   "z8229ce41": 1,
   "za3b1e1f6": 1,
-  "z7c9e65e0": 1
+  "z7c9e65e0": 1,
+  "zb972e1d8": 1,
+  "z60012d99": 1,
+  "z390bc8f6": 1,
+  "z3580aca8": 1,
+  "za01774a9": 1,
+  "z861e123c": 2,
+  "z708a8722": 1,
+  "z50ab7b30": 1,
+  "ze603a98e": 1,
+  "z97b0df2d": 1,
+  "z85239830": 1,
+  "z36e3ed74": 1,
+  "z472e05bb": 1,
+  "zaf9038ce": 1,
+  "z8393b37b": 1,
+  "zf1db3d80": 1,
+  "z74987838": 1,
+  "zfaf819c5": 1,
+  "za1a51563": 1,
+  "zd8ad27a2": 1,
+  "ze6fdcc87": 1,
+  "zdcf26d8b": 1,
+  "zc6adefc0": 1,
+  "z98785d7d": 1,
+  "z1865461b": 1,
+  "z27638b5c": 1,
+  "ze34720f7": 1,
+  "z23e08864": 1,
+  "zc4947182": 1,
+  "z6fe4f0fa": 1,
+  "z191956a8": 1,
+  "z15767479": 1,
+  "z57dde2d6": 1,
+  "zd3103449": 1,
+  "zafc2cf86": 1,
+  "zf0695270": 1,
+  "zdfd7da67": 1,
+  "zefdc3143": 1,
+  "zd8a13997": 1,
+  "z2adeeb00": 1,
+  "zc265af93": 1,
+  "zd9bacdf9": 1,
+  "z5cef2876": 1,
+  "z83ed7f4b": 1,
+  "z7e29e6aa": 1,
+  "zd8e99e29": 1,
+  "z3a885627": 1,
+  "z78d33b2e": 1,
+  "zf4d1748f": 1,
+  "z025d271f": 1,
+  "z9547c893": 1,
+  "z36f24049": 1,
+  "z3ee321da": 1
  },
  "video": {},
  "pillole": []
