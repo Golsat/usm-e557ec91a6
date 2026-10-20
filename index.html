@@ -2184,7 +2184,7 @@ $("#aggiorna").addEventListener("click", async ()=>{
     const m = (await r.text()).match(/BUILD = "([^"]*)"/), nuova = m ? m[1] : "";
     if(nuova && nuova !== BUILD){
       out.textContent = "Trovato l'aggiornamento " + nuova + ": lo installo…";
-      try{ for(const reg of await navigator.serviceWorker.getRegistrations()) await reg.unregister(); for(const k of await caches.keys()) await caches.delete(k); }catch(e){}
+      try{ const mio = new URL("./", location.href).href; for(const reg of await navigator.serviceWorker.getRegistrations()) if(reg.scope === mio) await reg.unregister(); for(const k of await caches.keys()) if(k.startsWith("sguardo-")) await caches.delete(k);   /* solo questa app: golsat.github.io ospita anche altre app (20/10/2026) */ }catch(e){}
       setTimeout(()=>location.reload(), 600);
     } else {                                           // stessa versione del programma: si controlla se ci sono NOTIZIE nuove (13/10: l'uscita delle 13 non cambia la versione e restava invisibile)
       const rs = await fetch("dati/stato.js?cb=" + Date.now(), {cache:"no-store"});
