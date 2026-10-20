@@ -3,6 +3,915 @@ window.EDIZIONI["2026-10-20-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z90aa9040",
+   "sez": "mondo",
+   "titolo": "Ucraina: Zelensky discute di difesa e Starlink con Marco Rubio",
+   "orig": "Zelenskyj: Har snakka med Rubio om Starlink",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha incontrato virtualmente il segretario di Stato designato statunitense Marco Rubio per discutere di forniture missilistiche, sistemi di allerta aerea e dei servizi satellitari Starlink. Il colloquio, avvenuto martedì, sottolinea la strategia di coordinamento di Kiev con la futura amministrazione americana guidata da Trump. Lo riferisce NRK.",
+   "more": [
+    "Marco Rubio è stato indicato da Donald Trump come prossimo Segretario di Stato. Il sistema Starlink di SpaceX è fondamentale per le comunicazioni militari ucraine, mentre la variante Starshield è specificamente progettata per scopi governativi e di sicurezza nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/nyheter/zelenskyj_-har-snakka-med-rubio-om-starlink-1.18059370",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-20T07:01+00:00"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/zelensky-rubio-discuss-critical-military-systems-amid-us-ukraine-tensions/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-20T07:18+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z97f3da75",
+   "sez": "mondo",
+   "titolo": "Diplomazia a Oslo: Zelensky incontra gli inviati di Donald Trump",
+   "orig": "Reyna að lappa upp á samband Trumps og Zelenskys",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha incontrato a Oslo Steve Witkoff, inviato speciale di Donald Trump, alla presenza dei leader di Norvegia e Finlandia. Il vertice, richiesto da Kiev, mira a stabilizzare le relazioni diplomatiche con la futura amministrazione statunitense e include la partecipazione virtuale di Jared Kushner. Lo riferisce RÚV.",
+   "more": [
+    "L'incontro si inserisce nel quadro degli sforzi ucraini per garantire il sostegno degli Stati Uniti prima dell'insediamento di Donald Trump. La presenza di mediatori nordici evidenzia il ruolo di ponte svolto da Oslo e Helsinki nelle dinamiche di sicurezza europea."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-20-reyna-ad-lappa-upp-a-samband-trumps-og-zelenskys-490407/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-20T08:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z64cbb0b6",
+   "sez": "tech",
+   "titolo": "Robotica: la Tunisia vince quattro medaglie al FIRST Global Challenge 2026",
+   "orig": "FIRST Global Challenge 2026 : la Tunisie décroche 4 médailles d’or et d’argent aux Olympiades de Robotique",
+   "lead": "Il First Skills Club di Sfax ha rappresentato con successo la Tunisia alle Olimpiadi mondiali di robotica FIRST Global Challenge 2026, svoltasi a Incheon, in Corea del Sud. Il team tunisino ha conquistato quattro medaglie, tra oro e argento, distinguendosi in una competizione che ha riunito giovani talenti internazionali. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Il FIRST Global Challenge è una competizione annuale di robotica in stile olimpico che invita ogni nazione a inviare una squadra per affrontare sfide ingegneristiche complesse, promuovendo l'educazione STEM e la cooperazione globale tra giovani innovatori."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/20/first-global-challenge-2026-la-tunisie-decroche-4-medailles-dor-et-dargent-aux-olympiades-de-robotique/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-20T08:36+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z79df0201",
+   "sez": "salute",
+   "titolo": "Congo: campagna di sensibilizzazione sul cancro al seno per 2.100 studentesse",
+   "orig": "Plus de 2 100 élèves filles sensibilisées à la lutte contre le cancer du sein à Bandundu",
+   "lead": "Sabato 17 ottobre 2026, oltre duemila studentesse del liceo Maria Goretti di Bandundu sono state coinvolte in una campagna di sensibilizzazione contro il cancro al seno. L'iniziativa, promossa dalla comunità U-Report, punta a favorire la diagnosi precoce e a superare i tabù culturali legati alla malattia. Lo riferisce Radio Okapi.",
+   "more": [
+    "In molte regioni della Repubblica Democratica del Congo, l'accesso alle cure oncologiche è limitato e la prevenzione scolastica rappresenta uno strumento cruciale per ridurre la mortalità, combattendo la disinformazione che spesso ritarda il ricorso alle strutture sanitarie specializzate."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/20/actualite/sante/plus-de-2-100-eleves-filles-sensibilisees-la-lutte-contre-le-cancer-du",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T11:13+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z9dab3b76",
+   "sez": "mondo",
+   "titolo": "Congo: missione nazionale per l'accessibilità dei disabili ai servizi pubblici",
+   "orig": "La CNDH lance une mission de contrôle de l’accessibilité des services publics aux personnes vivant avec handicap",
+   "lead": "La Commissione nazionale per i diritti dell'uomo ha avviato lunedì 19 ottobre a Kinshasa un'ispezione per verificare l'effettiva accessibilità dei servizi pubblici per le persone con disabilità. La missione di controllo coprirà l'intero territorio della Repubblica Democratica del Congo per garantire il rispetto dei diritti civili. Lo riferisce Radio Okapi.",
+   "more": [
+    "L'accessibilità universale rimane una sfida significativa nelle infrastrutture pubbliche africane. Questa iniziativa istituzionale mira a mappare le barriere architettoniche e burocratiche che impediscono ai cittadini con disabilità motorie o sensoriali di usufruire dei servizi essenziali dello Stato."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/20/actualite/politique/la-cndh-lance-une-mission-de-controle-de-laccessibilite-des-services",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-20T08:40+01:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z1c6aebd6",
+   "sez": "ambiente",
+   "titolo": "Senegal: lanciato il nuovo sistema di tassonomia verde per gli investimenti",
+   "orig": "Le Sénégal lance sa taxonomie verte",
+   "lead": "Il Senegal ha adottato lunedì 19 ottobre 2026 una tassonomia verde per classificare i progetti strategici in base alla loro sostenibilità ambientale. Lo strumento mira a facilitare l'accesso ai finanziamenti internazionali e a rafforzare la trasparenza climatica, adeguando l'economia nazionale agli standard globali di durabilità. Lo riferisce Le Soleil.",
+   "more": [
+    "Una tassonomia verde è un quadro normativo che definisce quali attività economiche possono essere considerate ecosostenibili. Per i Paesi in via di sviluppo, questo strumento è essenziale per attirare capitali privati destinati alla transizione energetica e all'adattamento climatico."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/environnement/le-senegal-lance-sa-taxonomie-verte/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T10:10+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z1b0eac61",
+   "sez": "mondo",
+   "titolo": "Senegal: leader religiosi mobilitati contro la violenza di genere a Kédougou",
+   "orig": "Dimbaya mobilise les leaders religieux de Kédougou contre les violences",
+   "lead": "L'associazione Dimbaya ha avviato il 19 ottobre un seminario di tre giorni a Kédougou per coinvolgere i leader religiosi e gli uomini influenti nella prevenzione delle violenze contro donne e ragazze. L'iniziativa punta a integrare i valori comunitari nella tutela dei diritti umani fondamentali. Lo riferisce Le Soleil.",
+   "more": [
+    "Nella regione di Kédougou, l'influenza dei capi religiosi è determinante per il cambiamento sociale. Coinvolgerli direttamente nella lotta alla violenza di genere permette di scardinare pregiudizi culturali radicati e di promuovere una cultura del rispetto e dell'uguaglianza di genere."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/societe/dimbaya-mobilise-les-leaders-religieux-de-kedougou-contre-les-violences/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-20T10:05+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z7d675e71",
+   "sez": "mondo",
+   "titolo": "Ucraina: il dibattito sulle armi divide il pacifismo della sinistra radicale",
+   "orig": "Aiutare l’Ucraina anche con le armi oppure no: il dilemma che divide il mondo pacifista",
+   "lead": "La sinistra radicale internazionale è divisa sull'invio di armi all'Ucraina in vista di una missione che raggiungerà il Paese a novembre. Mentre una parte rivendica il diritto alla resistenza armata contro l'invasore, l'altra area del movimento pacifista mantiene una posizione di netta contrarietà al supporto bellico di Kiev. Lo riferisce la Repubblica.",
+   "more": [
+    "Il dibattito interno alla sinistra europea riflette la complessità del dilemma etico tra il principio del pacifismo assoluto e il diritto dei popoli all'autodifesa, un tema che ha provocato diverse scissioni nei movimenti internazionalisti dall'inizio del conflitto russo-ucraino."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/20/news/aiuti_ucraina_armi_dilemma_area_pacifista_sinistra_radicale-425659661/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T07:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z6679e278",
+   "sez": "salute",
+   "titolo": "Salute: il ritorno all'ora solare provoca un effetto \"jet lag sociale\"",
+   "orig": "Cambio dell’ora, l’esperto che studia gli effetti sulle persone: “Come un jet lag sociale”",
+   "lead": "Domenica 25 ottobre tornerà l'ora solare e le lancette verranno spostate indietro di un'ora. Secondo il professor Lorenzo Tonetti dell'Università di Bologna, questo cambiamento agisce come un \"jet lag sociale\", influenzando negativamente i ritmi biologici, la qualità del sonno e il benessere generale dei cittadini europei. Lo riferisce la Repubblica.",
+   "more": [
+    "Il passaggio dall'ora legale a quella solare è oggetto di dibattito scientifico e politico nell'Unione Europea. Molti esperti suggeriscono l'abolizione del cambio stagionale per evitare lo stress psicofisico derivante dalla desincronizzazione dell'orologio biologico interno rispetto all'ora civile."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://bologna.repubblica.it/cronaca/2026/10/20/news/cambio_ora_lorenzo_tonetti_professore_effetto_jet_lag_sonno-425659656/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T07:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z22f14718",
+   "sez": "italia",
+   "titolo": "La rabbia di Gabriele Ceccherelli: l'uomo annuncia denunce sul caso David Rossi",
+   "orig": "La rabbia del calciante Gabriele Ceccherelli: “Ora denuncio anch’io”",
+   "lead": "Gabriele Ceccherelli, indicato dalla commissione parlamentare d'inchiesta come uno degli organizzatori della spedizione punitiva contro David Rossi, ha annunciato azioni legali per difendere la propria onorabilità. L'uomo respinge con forza le accuse riguardanti il pestaggio avvenuto a Siena poco prima della tragica scomparsa del dirigente bancario. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://firenze.repubblica.it/cronaca/2026/10/20/news/chi_e_gabriele_ceccherelli_zena_calciante_morte_david_rossi-425659597/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T07:04+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z88cb932d",
+   "sez": "ambiente",
+   "titolo": "Crisi idrica sotterranea nell'ovest degli Stati Uniti",
+   "orig": "The hidden water crisis beneath the American west",
+   "lead": "Una grave crisi idrica sotterranea colpisce l'ovest degli Stati Uniti d'America, dove città e agricoltori estraggono quantità insostenibili di acqua dal bacino del fiume Colorado. Il prosciugamento delle falde rappresenta oggi la principale fonte di perdita d'acqua in una regione sempre più arida. Lo riferisce Financial Times.",
+   "more": [
+    "Il bacino del fiume Colorado è vitale per sette stati americani e il Messico, sostenendo l'agricoltura e fornendo acqua potabile a milioni di persone. La siccità persistente e il sovrasfruttamento mettono a rischio la stabilità economica ed ecologica dell'intera regione."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z63aead31",
+   "sez": "mondo",
+   "titolo": "Regno Unito, Nigel Farage incalzato dalle ali radicali di destra",
+   "orig": "Restore forces Nigel Farage into an ugly race to his right",
+   "lead": "Nel Regno Unito, le politiche estremiste di Rupert Lowe starebbero costringendo Nigel Farage a una competizione a destra che sottrae consensi al partito Reform UK. La spinta radicale arriva mentre il movimento tenta di sottrarre l'elettorato di centrodestra ai conservatori in vista delle prossime sfide elettorali. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/5772046b-556c-4a88-9973-1ea30e6de1d9?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-20T08:30+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z0eb89e3b",
+   "sez": "mondo",
+   "titolo": "Serbia, iniziata la distribuzione delle schede per le elezioni parlamentari",
+   "orig": "Član RIK: Počela isporuka glasačkih listića za izbore",
+   "lead": "In Serbia è iniziata oggi la distribuzione delle schede elettorali per le imminenti elezioni parlamentari straordinarie. I documenti sono in fase di consegna presso i centri designati partendo dalla tipografia ufficiale \"Službeni glasnik\", come confermato da un membro della Commissione elettorale della Repubblica (RIK). Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/clan-rik-pocela-isporuka-glasackih-listica-za-izbore/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T12:26+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "zbf3204d8",
+   "sez": "mondo",
+   "titolo": "Elezioni in Serbia, l'opposizione punta sul voto dei giovani",
+   "orig": "Tepic: Student List has to win more votes than Vucic’s United Serbia",
+   "lead": "Marinika Tepic, candidata principale della coalizione \"Serbia contro la violenza\", ha dichiarato che la lista degli studenti deve ottenere più voti della coalizione guidata da Aleksandar Vucic per garantire un cambiamento politico. L'opposizione punta a mobilitare l'elettorato giovane contro l'attuale leadership del Paese. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/english/news/tepic-student-list-has-to-win-more-votes-than-vucics-united-serbia/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T12:21+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z82c99ea7",
+   "sez": "economia",
+   "titolo": "Ryanair, Michael O'Leary contro l'UE: attesi aumenti dei biglietti",
+   "orig": "Direktor Rajanera kritikovao Fon der Lajen, najavio poskupljenje avionskih karata",
+   "lead": "L'amministratore delegato di Ryanair, Michael O'Leary, ha criticato duramente le istituzioni dell'Unione Europea per l'introduzione di nuove tasse sulle emissioni nocive. O'Leary ha avvertito che tali misure fiscali danneggeranno la competitività del settore e causeranno un inevitabile aumento dei prezzi dei biglietti per i passeggeri europei. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/direktor-rajanera-kritikovao-fon-der-lajen-najavio-poskupljenje-avionskih-karata/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T12:18+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z3fb1c3b6",
+   "sez": "mondo",
+   "titolo": "Serbia, oltre la metà degli appalti pubblici sfugge alle procedure legali",
+   "orig": "More than half of public procurement exempt from legal procedures",
+   "lead": "Oltre la metà dei contratti di appalto pubblico assegnati in Serbia quest'anno è stata esentata dalle procedure legali standard. Secondo i dati governativi analizzati, una vasta porzione della spesa pubblica sfugge ai controlli di trasparenza previsti dalla legge, sollevando dubbi sulla gestione dei fondi. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/english/news/more-than-half-of-public-procurement-exempt-from-legal-procedures/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T12:07+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "za214a8fe",
+   "sez": "mondo",
+   "titolo": "Serbia, denunciato nuovo caso di spionaggio tramite Pegasus",
+   "orig": "Gledajte UŽIVO N1 Studio Live: Služba i izbori",
+   "lead": "Un nuovo caso di sorveglianza digitale scuote la Serbia dopo il ritrovamento dello spyware Pegasus nel telefono di un attivista. La vittima ha denunciato l'accaduto come un tentativo di intimidazione volto a reprimere il dissenso e impedire l'azione pubblica critica verso il governo di Belgrado. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/najave-emisija/n1-studio-live-sluzba-i-izbori/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T11:59+02:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z54fd84a3",
+   "sez": "mondo",
+   "titolo": "Francia, le proteste segnano la crisi del centrismo in Europa",
+   "orig": "France Protests Show Europe’s Shift Away From Centrist Politics",
+   "lead": "Le recenti proteste in Francia evidenziano un allontanamento dell'elettorato dai partiti centristi, con giovani e lavoratori sempre più attratti dalle promesse populiste. Il malcontento sociale sta alimentando una polarizzazione politica che mette in discussione la stabilità dei governi moderati in tutta Europa. Lo riferisce The New York Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T09:01+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z7b332075",
+   "sez": "mondo",
+   "titolo": "Sudafrica, uno chef combatte la xenofobia attraverso la cucina",
+   "orig": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
+   "lead": "In Sudafrica, uno chef autodidatta utilizza ingredienti e ricette tipiche delle comunità immigrate per combattere la crescente xenofobia nel Paese. Attraverso la celebrazione dei sapori stranieri, l'iniziativa punta a favorire l'integrazione e a contrastare i sentimenti anti-migranti sempre più diffusi nella società sudafricana. Lo riferisce The New York Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T09:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "zce8ff125",
+   "sez": "mondo",
+   "titolo": "Francia, sinagoghe chiuse per sicurezza durante le proteste",
+   "orig": "Some synagogues canceled prayers as French Jews faced warnings amid violent protests",
+   "lead": "Diverse sinagoghe francesi hanno annullato le preghiere a causa dell'ondata di violente proteste antigovernative che sta colpendo la nazione. I cittadini ebrei sono stati esortati a nascondere i simboli della propria identità religiosa per evitare di diventare bersaglio di aggressioni in un clima di estrema tensione sociale. Lo riferisce Fox News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/some-synagogues-canceled-prayers-french-jews-faced-warnings-amid-violent-protests",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T06:00-04:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "zb8fd2c7f",
+   "sez": "mondo",
+   "titolo": "Nigeria, crisi dei rifiuti a Lagos: il governatore ordina dimissioni",
+   "orig": "ICYMI [EXCLUSIVE] Lagos waste crisis: Sanwo-Olu orders LAWMA MD to resign",
+   "lead": "Il governatore dello stato di Lagos, Babajide Sanwo-Olu, ha ordinato le dimissioni del direttore generale della LAWMA, Muyiwa Gbadegesin, a causa dell'aggravarsi della crisi dei rifiuti. La decisione segue le crescenti critiche sulla gestione dell'igiene urbana nella metropoli nigeriana, ormai fuori controllo. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/exclusive-lagos-waste-crisis-sanwo-olu-orders-lawma-md-to-resign/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z34703506",
+   "sez": "mondo",
+   "titolo": "Nigeria, Olamide Ehinfun-Adekunle è la più giovane avvocata SAN",
+   "orig": "Things to know about Nigeria’s youngest female SAN, Ehinfun-Adekunle",
+   "lead": "Olamide Mojigbotoluwa Ehinfun-Adekunle è diventata la più giovane donna nella storia della Nigeria a ricevere il titolo di Senior Advocate of Nigeria all'età di 40 anni. Il riconoscimento premia la sua carriera legale d'eccellenza, segnando un traguardo storico per la rappresentanza femminile nell'avvocatura nigeriana. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/things-to-know-about-nigerias-youngest-female-san-ehinfun-adekunle/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z12926afd",
+   "sez": "mondo",
+   "titolo": "Nigeria, il senatore Yari difende la politica di sicurezza di Tinubu",
+   "orig": "2027: Yari defends Tinubu, says even retired general couldn’t end insecurity",
+   "lead": "Il senatore nigeriano Abdulaziz Yari ha difeso l'operato del presidente Bola Tinubu sulla sicurezza, sostenendo che nemmeno l'ex presidente Buhari, un generale in pensione, era riuscito a risolvere il problema. Yari ha invitato alla pazienza, sottolineando la complessità della lotta contro l'insorgenza armata. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-yari-defends-tinubu-says-even-retired-general-couldnt-end-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z7a0978de",
+   "sez": "mondo",
+   "titolo": "Kenya, lotta per il favore presidenziale nella regione North Rift",
+   "orig": "Ruto’s men battle for his political blessing in North Rift",
+   "lead": "In Kenya, gli alleati del presidente William Ruto sono impegnati in una dura lotta interna per ottenere il favore politico del leader nella regione della North Rift. La competizione per la visibilità presidenziale ha innescato intense rivalità tra fazioni, minando la coesione del partito di governo. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/politics/ruto-s-men-battle-for-his-political-blessing-in-north-rift-5638498",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T07:43+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z5b2f85ef",
+   "sez": "mondo",
+   "titolo": "Kenya, Mike Sonko riapre la battaglia legale contro l'impeachment",
+   "orig": "Sonko reopens fight against impeachment over ex-judge Chitembwe's misconduct",
+   "lead": "Mike Sonko, ex governatore di Nairobi, ha riaperto la battaglia legale contro il suo impeachment, citando la condotta scorretta dell'ex giudice Chitembwe. Sonko sostiene che la sentenza di rimozione sia stata compromessa da irregolarità giudiziarie che continuano a danneggiare ingiustamente la sua carriera politica in Kenya. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/politics/sonko-reopens-fight-against-impeachment-over-ex-judge-chitembwe-s-misconduct-5638600",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T07:21+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z4297c35f",
+   "sez": "mondo",
+   "titolo": "Kenya, cancelli chiusi all'alba per il Mashujaa Day a Eldoret",
+   "orig": "Mashujaa Day: Anger, frustration as hundreds locked out of Kipchoge Keino Stadium before dawn",
+   "lead": "Centinaia di persone sono rimaste deluse ed escluse dal Kipchoge Keino Stadium di Eldoret durante le celebrazioni del Mashujaa Day in Kenya. Nonostante fossero arrivati prima dell'alba, molti cittadini hanno trovato i cancelli chiusi già alle tre del mattino a causa del raggiungimento della capienza massima. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/mashujaa-day-anger-frustration-as-hundreds-locked-out-of-kipchoge-keino-stadium-before-dawn-5638518",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T06:31+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z0cd3d04d",
+   "sez": "mondo",
+   "titolo": "Egitto, l'istruzione al centro del programma del presidente Al-Sisi",
+   "orig": "PM: President al-Sisi has made education top priority since taking office",
+   "lead": "Il Primo Ministro egiziano Mostafa Madbouly ha ribadito che l'istruzione è una priorità assoluta per il presidente Abdel Fattah al-Sisi sin dal suo insediamento. Durante un forum dedicato al futuro dei giovani, Madbouly ha sottolineato i progressi compiuti nelle riforme del settore educativo nazionale. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/pm-president-al-sisi-has-made-education-top-priority-since-taking-office/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-20T09:27+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z6f483107",
+   "sez": "mondo",
+   "titolo": "Francia, le rivolte urbane segnale di una crisi politica profonda",
+   "orig": "The rioting across France is a symptom of a much larger public and political crisis",
+   "lead": "Il Primo Ministro francese Sébastien Lecornu ha ammesso la gravità della crisi sociale in corso, definendo i recenti disordini un sintomo di un profondo malessere pubblico e politico. Le rivolte urbane dello scorso fine settimana hanno causato danni per centinaia di milioni di dollari tra furti e distruzioni. Lo riferisce Egypt Independent.",
+   "more": [
+    "Le recenti ondate di violenza in Francia sono scaturite da tensioni sociali accumulate nelle periferie, esacerbate da riforme economiche contestate. Il governo fatica a ristabilire l'ordine mentre il costo dei danni alle infrastrutture pubbliche e private continua a salire."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/the-rioting-across-france-is-a-symptom-of-a-much-larger-public-and-political-crisis/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-20T07:51+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z9e21df0b",
+   "sez": "mondo",
+   "titolo": "La ragazza russa del disegno anti-guerra vive ancora in clandestinità",
+   "orig": "She made an anti-war drawing as a child in Russia. Four years on, she’s still living with the fallout",
+   "lead": "Masha Moskalyova, la giovane russa fuggita dal suo Paese dopo essere stata perseguitata per un disegno contro la guerra, vive oggi in un villaggio francese. Nonostante la distanza, Masha e il padre temono ancora per la propria sicurezza a quattro anni dall'inizio delle vessazioni subite dalle autorità russe. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/she-made-an-anti-war-drawing-as-a-child-in-russia-four-years-on-shes-still-living-with-the-fallout/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-20T07:26+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z2a903b71",
+   "sez": "economia",
+   "titolo": "Kenya, bando governativo per 6.000 tirocini nell'edilizia popolare",
+   "orig": "Gov't announces 6,000 internship opportunities under Affordable Housing Programme.",
+   "lead": "Il governo del Kenya ha annunciato la disponibilità di 6.000 tirocini nell'ambito del programma per l'edilizia popolare, coordinato dalla Public Service Commission. Le opportunità, destinate ai giovani, rientrano nella seconda fase del progetto ministeriale volto a incrementare l'occupazione nel settore delle opere pubbliche e dello sviluppo urbano. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/govt-announces-6000-internship-opportunities-under-affordable-housing-programme-n392380",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-20T07:45+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "zb46f5d1f",
+   "sez": "mondo",
+   "titolo": "Mar Cinese Meridionale, Pechino intercetta nave da guerra USA",
+   "orig": "PLA navy followed US vessel on patrol in South China Sea hotspot, Beijing says",
+   "lead": "La marina cinese ha intercettato e seguito la nave da guerra statunitense USS Charleston durante una missione nel Mar Cinese Meridionale. Pechino ha denunciato l'intrusione illegale nelle acque vicine alle isole Spratly, accusando Washington di voler minare la stabilità dell'area con manovre provocatorie non autorizzate dal governo. Lo riferisce South China Morning Post.",
+   "more": [
+    "Le isole Spratly sono oggetto di una complessa disputa territoriale che coinvolge Cina, Filippine, Vietnam, Malesia, Taiwan e Brunei. La regione è strategicamente cruciale per le rotte commerciali marittime mondiali e per le sue potenziali risorse naturali sottomarine."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/military/article/3371517/pla-navy-followed-us-vessel-patrol-south-china-sea-hotspot-beijing-says",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T10:10+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/china-sustine-ca-o-nava-de-razboi-americana-a-intrat-ilegal-in-apele-sale-si-trimite-forte-navale-in-intampinarea-sa-2381051",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-20T09:27+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z6eca8264",
+   "sez": "salute",
+   "titolo": "Cina, le celebrità rompono il tabù sulla salute mentale",
+   "orig": "China celebrities speak out on mental health diagnoses to seek authentic connections with fans",
+   "lead": "Cresce in Cina il numero di celebrità che scelgono di parlare pubblicamente dei propri disturbi mentali, rompendo un antico tabù sociale. Artisti e attori condividono esperienze legate a depressione e ansia per cercare una connessione più autentica con i fan e combattere lo stigma sulla salute psichica. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/people-culture/china-personalities/article/3371507/china-celebrities-speak-out-mental-health-diagnoses-seek-authentic-connections-fans",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z3ea56705",
+   "sez": "mondo",
+   "titolo": "Cina, debutta l'aereo cisterna Y-20B: svelate le immagini ufficiali",
+   "orig": "Chinese air force reveals Y-20B tanker-transport variant in official training image",
+   "lead": "L'aeronautica militare cinese ha svelato la prima immagine ufficiale della variante Y-20B, un velivolo da trasporto pesante configurato per il rifornimento in volo. La foto, pubblicata il 14 ottobre dal quotidiano dell'esercito, mostra l'aereo con pod alari, confermando l'entrata in servizio di questo modello multiruolo. Lo riferisce South China Morning Post.",
+   "more": [
+    "Lo Y-20B rappresenta un salto tecnologico per la proiezione di potenza di Pechino, consentendo ai caccia cinesi di operare su distanze maggiori. Questa evoluzione del modello base, soprannominato \"Chubby Girl\", evidenzia i rapidi sforzi di modernizzazione tecnologica della People's Liberation Army Air Force."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/military/article/3371487/chinese-air-force-reveals-y-20b-tanker-transport-variant-official-training-image",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T10:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "zf6e9bcd2",
+   "sez": "mondo",
+   "titolo": "Malaysia, coalizione di opposizione dichiarata non valida",
+   "orig": "Malaysia’s opposition bloc declared invalid, but limited gains for Anwar",
+   "lead": "In Malaysia, la principale coalizione di opposizione Perikatan Nasional ha perso la registrazione ufficiale a soli undici giorni dalle nomine per le elezioni di Malacca. La decisione ha scatenato accuse di autoritarismo contro il governo del Primo Ministro Anwar Ibrahim, nel mezzo di tensioni tra i partiti dell'alleanza. Lo riferisce South China Morning Post.",
+   "more": [
+    "La coalizione Perikatan Nasional è composta dal partito islamista PAS e da Bersatu. La perdita dello status legale rischia di compromettere la partecipazione elettorale in un momento di forte frammentazione politica, mentre il governo nega ogni interferenza diretta nell'operato degli organismi di controllo indipendenti."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/week-asia/politics/article/3371509/malaysias-opposition-bloc-declared-invalid-limited-gains-anwar",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T09:42+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z31e1efa6",
+   "sez": "mondo",
+   "titolo": "Parigi, i costi delle proteste: distrutto un bar di proprietà cinese",
+   "orig": "Night of violence lingers over Paris as one Chinese cafe owner counts the costs of protest",
+   "lead": "A Parigi, la proprietaria cinese di un bar-tabac sta valutando i danni dopo una violenta notte di saccheggi e incendi. Il locale \"La Barrique\" è stato distrutto durante le proteste, lasciando l'area sommersa da macerie e rifiuti bruciati, mentre cresce l'insicurezza tra i commercianti locali del quartiere. Lo riferisce South China Morning Post.",
+   "more": [
+    "Gli esercizi commerciali noti come \"bar-tabac\" sono pilastri della vita sociale francese, combinando caffetteria e rivendita di tabacchi. Molti di questi locali, spesso gestiti da immigrati di origine asiatica, sono finiti nel mirino durante le recenti ondate di disordini urbani che hanno colpito la capitale."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/economy/article/3371455/night-violence-lingers-over-paris-one-chinese-cafe-owner-counts-costs-protest",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-20T09:00+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z5299e1e9",
+   "sez": "mondo",
+   "titolo": "Cina, la diplomazia dei panda perde il suo fascino globale",
+   "orig": "China’s panda diplomacy is losing its charm",
+   "lead": "La tradizionale \"diplomazia dei panda\" utilizzata dalla Cina come strumento di soft power starebbe perdendo la sua efficacia internazionale. Secondo recenti analisi, l'opinione pubblica globale percepisce sempre più questi prestiti come forme di manipolazione e sfruttamento politico piuttosto che come gesti di cooperazione ambientale. Lo riferisce The Japan Times.",
+   "more": [
+    "Dagli anni '50, Pechino ha inviato panda giganti all'estero per consolidare legami diplomatici. Tuttavia, i costi elevati per il mantenimento degli animali e le crescenti tensioni geopolitiche hanno spinto diversi zoo mondiali a riconsiderare questi accordi, segnando un declino nel fascino storico del programma."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/commentary/2026/10/20/world/chinas-panda-diplomacy/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-20T15:58+09:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z13b0260b",
+   "sez": "economia",
+   "titolo": "Giappone, scontro sulle patate USA: pressioni sul ministro",
+   "orig": "Politics of the potato front and center for Japan’s new agriculture minister",
+   "lead": "Il nuovo ministro dell'Agricoltura giapponese, Arata Takebe, affronta la delicata questione delle importazioni di patate dagli Stati Uniti. I suoi elettori nell'Hokkaido si oppongono all'aumento delle forniture estere, temendo ripercussioni economiche per i produttori locali e mettendo la politica agricola al centro del dibattito nazionale. Lo riferisce The Japan Times.",
+   "more": [
+    "L'isola di Hokkaido è il principale polo produttivo di patate in Giappone. La pressione di Washington per aprire ulteriormente il mercato nipponico si scontra storicamente con un forte protezionismo agrario, considerato fondamentale per la stabilità elettorale del Partito Liberal Democratico nelle zone rurali del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/20/japan/politics/agriculture-minister-potatoes/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-20T15:56+09:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z995f2870",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, polemiche sulle frasi del comandante USA",
+   "orig": "[KH Explains] What was wrong with USFK commander&apos;s remarks?",
+   "lead": "Le dichiarazioni del generale Xavier Brunson, comandante delle forze USA in Corea, hanno scatenato polemiche sulla sovranità di Seul. Affermando che la Corea del Sud inizi a sud della zona demilitarizzata, Brunson avrebbe ignorato la Costituzione coreana, provocando forti reazioni nel panorama politico locale. Lo riferisce The Korea Herald.",
+   "more": [
+    "L'Articolo 3 della Costituzione sudcoreana stabilisce che il territorio della Repubblica comprende l'intera penisola coreana e le isole adiacenti. Qualsiasi definizione che escluda il Nord è percepita come una violazione diplomatica e costituzionale, nonostante le spiegazioni tecniche fornite successivamente dal Comando delle Nazioni Unite."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10909060",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
+   "id": "z1a43b17b",
+   "sez": "economia",
+   "titolo": "Corea del Sud, Lee accelera sulla fornitura di alloggi",
+   "orig": "Lee calls for full speed ahead on housing amid supply crunch",
+   "lead": "Il presidente sudcoreano Lee Jae Myung ha ordinato di accelerare al massimo la fornitura di alloggi per contrastare la cronica carenza abitativa nel Paese. Durante una visita a Incheon, Lee ha sottolineato l'urgenza di stabilizzare il mercato immobiliare dopo anni di stagnazione nelle costruzioni e prezzi in aumento. Lo riferisce The Korea Herald.",
+   "more": [
+    "La crisi immobiliare e l'alto costo della vita sono tra le principali sfide politiche in Corea del Sud. Il piano governativo delle \"città di terza generazione\" mira a decongestionare l'area metropolitana di Seul fornendo migliaia di nuovi appartamenti a prezzi calmierati per i residenti."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10909034",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "13:00",
+   "uscita": "13"
+  },
+  {
    "id": "z4425a6b1",
    "sez": "mondo",
    "titolo": "Protesta in Francia: per il sindacato studentesco è risentimento contro Macron",
@@ -564,28 +1473,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zfb41e9e0",
-   "sez": "mondo",
-   "titolo": "Ucraina: Zelensky discute di aiuti militari con Marco Rubio",
-   "orig": "Zelensky, Rubio discuss critical military systems amid US-Ukraine tensions",
-   "lead": "Il presidente ucraino Volodymyr Zelensky ha incontrato il senatore statunitense Marco Rubio per discutere la fornitura di sistemi militari critici. Il colloquio avviene in una fase di tensione diplomatica tra Kyiv e Washington, con Zelensky che ha espresso gratitudine per la disponibilità e la chiarezza dell'esponente repubblicano. Lo riferisce The Kyiv Independent.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Kyiv Independent",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://kyivindependent.com/zelensky-rubio-discuss-critical-military-systems-amid-us-ukraine-tensions/",
-     "angolo": "",
-     "atlas": "Ukraine",
-     "t": "2026-10-20T07:18+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:59",
-   "uscita": "13"
-  },
-  {
    "id": "z2c02b471",
    "sez": "mondo",
    "titolo": "Il calcolo politico della pace in Ucraina",
@@ -934,30 +1821,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Romania",
      "t": "2026-10-20T09:54+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "12:59",
-   "uscita": "13"
-  },
-  {
-   "id": "z0ae00b0f",
-   "sez": "mondo",
-   "titolo": "Tensioni nel Mar Cinese, Pechino contro nave da guerra USA",
-   "orig": "China susține că o navă de război americană a intrat ilegal în apele sale și trimite forțe navale în întâmpinarea sa",
-   "lead": "Pechino ha mobilitato forze navali per intercettare una nave da guerra statunitense accusata di aver violato le acque territoriali cinesi nel Mar Cinese Meridionale. L'incidente, avvenuto presso un banco di sabbia conteso, coincide con nuove tensioni tra la Cina e Taiwan nella medesima area marittima strategica. Lo riferisce HotNews.",
-   "more": [
-    "Il Mar Cinese Meridionale è oggetto di rivendicazioni territoriali sovrapposte tra Cina, Taiwan e diversi Paesi del Sud-est asiatico. La zona è strategicamente cruciale per le rotte commerciali internazionali e la presenza militare statunitense mira a garantire la libertà di navigazione."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/china-sustine-ca-o-nava-de-razboi-americana-a-intrat-ilegal-in-apele-sale-si-trimite-forte-navale-in-intampinarea-sa-2381051",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-20T09:27+00:00"
     }
    ],
    "data": "20 ott",
@@ -6347,6 +7210,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-20T17:28+08:00"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/20/asia-pacific/politics/australia-echo-chamber/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-20T17:46+09:00"
     }
    ],
    "data": "20 ott",
@@ -7423,6 +8295,24 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Sweden",
      "t": "2026-10-20T12:00+02:00"
+    },
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-10-20-affeksjonsverdi-hlytur-kvikmyndaverdlaun-nordurlandarads-490176/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-20T10:00+00:00"
+    },
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/tromsogfinnmark/sigbjorn-skaden-tildeles-nordisk-rads-litteraturpris-2026-1.18059299",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-20T10:00+00:00"
     }
    ],
    "data": "20 ott",
@@ -8954,7 +9844,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zf5a10efc": "Riflette la strategia di cooperazione mineraria dell'Africa orientale e il suo impatto sullo sviluppo industriale.",
   "zf4b9aacc": "Analisi statistica della crescita economica urbana e dell'accentramento dei servizi finanziari in Tanzania.",
   "zf782d11c": "Testata indipendente russa attenta alle trasformazioni dello spazio pubblico e alla gestione della memoria storica in Russia.",
-  "zfb41e9e0": "Monitoraggio costante delle relazioni tra Ucraina e Stati Uniti in merito al supporto bellico e politico.",
   "z2c02b471": "L'analisi approfondisce le crepe politiche interne all'Ucraina riguardo alle strategie per terminare il conflitto.",
   "zbd1ec4ce": "La testata segue con attenzione il caso giudiziario che coinvolge i vertici delle forze dell'ordine sudafricane.",
   "z9a281bed": "Il giornale pone l'accento sulla crisi sanitaria e la lotta per i diritti dei minori nel cuore dell'Africa.",
@@ -8971,7 +9860,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z0b17c581": "L'articolo analizza le politiche educative e sociali del governo per colmare i divari storici del Paese.",
   "za9d6c2da": "Il giornale rumeno riprende le tensioni politiche francesi legate alla gestione dell'ordine pubblico e all'intelligence.",
   "z03e98564": "La testata riporta il punto di vista di un'autorevole giurista internazionale sulle criticità del sistema democratico rumeno.",
-  "z0ae00b0f": "Il resoconto si focalizza sull'escalation militare e territoriale in uno dei punti più caldi del Pacifico.",
   "z5aec10ce": "L'emittente evidenzia i rischi per l'indipendenza dell'informazione e il pluralismo mediatico nel Paese.",
   "zf1225415": "La testata pone l'accento sull'impegno istituzionale a favore della trasparenza e delle riforme costituzionali.",
   "z1503622e": "L'articolo sottolinea l'attenzione del governo montenegrino verso la crescita economica e la cooperazione internazionale.",
@@ -8985,7 +9873,46 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z0c9f24fa": "L'emittente pubblica evidenzia le iniziative dell'opposizione per affrontare il tema dell'emergenza abitativa.",
   "z578111da": "La testata olandese pone l'accento sulla sicurezza energetica nazionale e sulle misure di emergenza statali.",
   "z2647884f": "Il servizio pubblico olandese informa i lettori sull'impatto economico dei rincari del trasporto ferroviario.",
-  "z1600cd2b": "L'emittente di Stato austriaca richiama l'attenzione dello stato di salute delle istituzioni democratiche del Paese."
+  "z1600cd2b": "L'emittente di Stato austriaca richiama l'attenzione dello stato di salute delle istituzioni democratiche del Paese.",
+  "z90aa9040": "La testata si concentra sui dettagli tecnici e strategici della cooperazione militare tra Ucraina e Stati Uniti.",
+  "z97f3da75": "Il media islandese pone l'accento sulla mediazione dei paesi nordici nel facilitare il dialogo tra Ucraina e staff di Trump.",
+  "z64cbb0b6": "La testata tunisina celebra con toni entusiastici il successo dei giovani talenti nazionali in un contesto tecnologico globale.",
+  "z79df0201": "La radio congolese focalizza l'attenzione sull'importanza dell'educazione sanitaria per abbattere le barriere culturali nelle aree rurali.",
+  "z9dab3b76": "L'emittente monitora l'operato delle istituzioni nazionali nel campo dei diritti civili e dell'inclusione sociale.",
+  "z1c6aebd6": "Il quotidiano senegalese evidenzia l'allineamento del Paese alle politiche ambientali internazionali come leva per lo sviluppo economico.",
+  "z1b0eac61": "La testata mette in luce il ruolo cruciale della collaborazione tra associazionismo e istituzioni religiose locali.",
+  "z7d675e71": "Il giornale analizza le correnti ideologiche interne ai movimenti pacifisti e internazionalisti italiani ed europei.",
+  "z6679e278": "La testata offre una prospettiva scientifica su un evento ciclico che impatta la vita quotidiana di milioni di persone.",
+  "z22f14718": "Il quotidiano si focalizza sulla reazione difensiva di uno dei principali accusati nel caso Rossi.",
+  "z88cb932d": "L'analisi economica e ambientale evidenzia i rischi strutturali per l'approvvigionamento idrico americano.",
+  "z63aead31": "Il giornale britannico esamina le dinamiche interne e la polarizzazione della destra nel Regno Unito.",
+  "z0eb89e3b": "L'emittente segue da vicino i preparativi logistici per il voto nazionale serbo.",
+  "zbf3204d8": "Viene dato spazio alle strategie elettorali della principale coalizione di opposizione serba.",
+  "z82c99ea7": "L'attenzione è rivolta alle tensioni tra la compagnia low-cost e le politiche ambientali di Bruxelles.",
+  "z3fb1c3b6": "La testata evidenzia criticità nella trasparenza amministrativa e nella gestione finanziaria governativa.",
+  "za214a8fe": "L'articolo riporta le preoccupazioni per l'uso di software di sorveglianza contro le voci critiche.",
+  "z54fd84a3": "Il giornale americano analizza le ripercussioni continentali della crisi politica francese.",
+  "z7b332075": "Un reportage che esplora risposte culturali alle tensioni sociali in Sudafrica.",
+  "zce8ff125": "L'emittente pone l'accento sulla sicurezza della comunità ebraica durante i disordini francesi.",
+  "zb8fd2c7f": "La testata locale segue gli sviluppi della crisi gestionale nella principale città nigeriana.",
+  "z34703506": "Viene celebrato un primato professionale femminile nel contesto legale nigeriano.",
+  "z12926afd": "L'articolo riporta il dibattito politico sulla persistente insicurezza nel Paese.",
+  "z7a0978de": "Il giornale keniota analizza le dinamiche di potere interne alla coalizione di governo.",
+  "z5b2f85ef": "Viene riportata l'ultima mossa legale di una figura politica controversa del Kenya.",
+  "z4297c35f": "Cronaca di un disagio logistico durante una delle festività nazionali più importanti del Kenya.",
+  "z0cd3d04d": "La testata riporta le posizioni ufficiali del governo egiziano sulle riforme sociali.",
+  "z6f483107": "Un'analisi esterna sulla stabilità sociale e politica del governo francese.",
+  "z9e21df0b": "Il caso simbolo del dissenso giovanile russo viene aggiornato sulla situazione attuale di esilio.",
+  "z2a903b71": "L'attenzione è rivolta alle iniziative governative per l'occupazione giovanile.",
+  "zb46f5d1f": "La testata di Hong Kong monitora le costanti tensioni militari tra Cina e Stati Uniti nel Pacifico.",
+  "z6eca8264": "Analisi sociologica sul cambiamento dei costumi e della percezione della salute mentale nella società cinese.",
+  "z3ea56705": "Analisi tecnica del rafforzamento delle capacità di proiezione aerea cinese.",
+  "zf6e9bcd2": "Focus sulle tensioni democratiche e l'instabilità politica nel sud-est asiatico.",
+  "z31e1efa6": "Cronaca dei disordini parigini vista attraverso l'impatto sulla comunità cinese.",
+  "z5299e1e9": "Analisi critica sull'efficacia degli strumenti di soft power di Pechino.",
+  "z13b0260b": "Esame dei nodi commerciali tra Tokyo e Washington in ambito agricolo.",
+  "z995f2870": "Monitoraggio delle tensioni diplomatiche tra Seul e le autorità militari alleate.",
+  "z1a43b17b": "Focus sulle politiche abitative interne per calmierare il mercato immobiliare."
  },
  "contesti": {
   "zeef60cd2": "Nelle ore precedenti la deputata indipendente Helen Haines si trovava nei pressi della propria sede elettorale a Wangaratta quando un fuoristrada ha invertito la marcia per investirla. Il conducente è stato bloccato sul posto dalla polizia locale, mentre i medici hanno lottato per ore in ospedale per salvarle la vita.",
@@ -11198,13 +12125,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "zfb41e9e0": {
-   "n": "Kyiv",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z2c02b471": {
    "n": "Kiev",
    "p": [
@@ -11317,13 +12237,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z0ae00b0f": {
-   "n": "Mar Cinese Meridionale",
-   "p": [
-    "China"
-   ],
-   "pt": []
-  },
   "z5aec10ce": {
    "n": "Podgorica",
    "p": [
@@ -11419,6 +12332,279 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "Vienna",
    "p": [
     "Austria"
+   ],
+   "pt": []
+  },
+  "z90aa9040": {
+   "n": "Oslo",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z97f3da75": {
+   "n": "Oslo",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z64cbb0b6": {
+   "n": "Incheon",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z79df0201": {
+   "n": "Bandundu",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z9dab3b76": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z1c6aebd6": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z1b0eac61": {
+   "n": "Kédougou",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z7d675e71": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z6679e278": {
+   "n": "Bologna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z22f14718": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z88cb932d": {
+   "n": "Bacino del Colorado",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z63aead31": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z0eb89e3b": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zbf3204d8": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z82c99ea7": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z3fb1c3b6": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "za214a8fe": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z54fd84a3": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z7b332075": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zce8ff125": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb8fd2c7f": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z34703506": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z12926afd": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z7a0978de": {
+   "n": "Eldoret",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z5b2f85ef": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z4297c35f": {
+   "n": "Eldoret",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z0cd3d04d": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z6f483107": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9e21df0b": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z2a903b71": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zb46f5d1f": {
+   "n": "Isole Spratly",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z6eca8264": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z3ea56705": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zf6e9bcd2": {
+   "n": "Malacca",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z31e1efa6": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z5299e1e9": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z13b0260b": {
+   "n": "Hokkaido",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z995f2870": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z1a43b17b": {
+   "n": "Incheon",
+   "p": [
+    "South Korea"
    ],
    "pt": []
   }
@@ -11713,7 +12899,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zf5a10efc": 1,
   "zf4b9aacc": 1,
   "zf782d11c": 1,
-  "zfb41e9e0": 1,
   "z2c02b471": 1,
   "zbd1ec4ce": 1,
   "z9a281bed": 1,
@@ -11730,7 +12915,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z0b17c581": 1,
   "za9d6c2da": 1,
   "z03e98564": 1,
-  "z0ae00b0f": 1,
   "z5aec10ce": 1,
   "zf1225415": 1,
   "z1503622e": 1,
@@ -11744,7 +12928,46 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z0c9f24fa": 1,
   "z578111da": 1,
   "z2647884f": 1,
-  "z1600cd2b": 1
+  "z1600cd2b": 1,
+  "z90aa9040": 2,
+  "z97f3da75": 1,
+  "z64cbb0b6": 1,
+  "z79df0201": 1,
+  "z9dab3b76": 1,
+  "z1c6aebd6": 1,
+  "z1b0eac61": 1,
+  "z7d675e71": 1,
+  "z6679e278": 1,
+  "z22f14718": 1,
+  "z88cb932d": 1,
+  "z63aead31": 1,
+  "z0eb89e3b": 1,
+  "zbf3204d8": 1,
+  "z82c99ea7": 1,
+  "z3fb1c3b6": 1,
+  "za214a8fe": 1,
+  "z54fd84a3": 1,
+  "z7b332075": 1,
+  "zce8ff125": 1,
+  "zb8fd2c7f": 1,
+  "z34703506": 1,
+  "z12926afd": 1,
+  "z7a0978de": 1,
+  "z5b2f85ef": 1,
+  "z4297c35f": 1,
+  "z0cd3d04d": 1,
+  "z6f483107": 1,
+  "z9e21df0b": 1,
+  "z2a903b71": 1,
+  "zb46f5d1f": 2,
+  "z6eca8264": 1,
+  "z3ea56705": 1,
+  "zf6e9bcd2": 1,
+  "z31e1efa6": 1,
+  "z5299e1e9": 1,
+  "z13b0260b": 1,
+  "z995f2870": 1,
+  "z1a43b17b": 1
  },
  "video": {},
  "pillole": []
