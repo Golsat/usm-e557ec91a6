@@ -291,6 +291,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-20T16:44+02:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/najave-emisija/dan-uzivo-svi-putevi-ka-slaviji/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-20T16:29+02:00"
     }
    ],
    "data": "20 ott",
@@ -357,28 +366,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-20T16:38+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:18",
-   "uscita": "17"
-  },
-  {
-   "id": "z74987838",
-   "sez": "mondo",
-   "titolo": "Le colonne studentesche in marcia verso la Slavija di Belgrado",
-   "orig": "Gledajte UŽIVO Dan uživo: Svi putevi ka Slaviji",
-   "lead": "Quattro cortei di studenti provenienti da diverse direzioni della Serbia si stanno dirigendo verso la capitale in vista della manifestazione politica prevista per giovedì a piazza Slavija. L'emittente segue in diretta gli spostamenti dei manifestanti lungo la rete stradale del Paese. Lo riferisce N1 Serbia.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/najave-emisija/dan-uzivo-svi-putevi-ka-slaviji/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-20T16:29+02:00"
     }
    ],
    "data": "20 ott",
@@ -585,7 +572,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "ze34720f7",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Il giovane prodigio dell'IA Nathan Chen si unisce alla start-up Discovery Loop",
    "orig": "What is Discovery Loop, Chinese teen AI prodigy Nathan Chen’s rumoured next destination?",
    "lead": "Pochi giorni dopo aver lasciato Moonshot AI, il giovane ricercatore cinese di intelligenza artificiale Nathan Chen Guangyu si unisce a Discovery Loop, una start-up fondata da ex ricercatori di Google tra cui Jeff Dean. Lo riferisce South China Morning Post.",
@@ -1072,7 +1059,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "zf4d1748f",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Uso di integratori alimentari al posto dei farmaci dimagranti: medici e autorità lanciano l'allarme",
    "orig": "As weight-loss drug users turn to dietary supplements, doctors, regulators raise flags",
    "lead": "Mentre molti utilizzatori di farmaci GLP-1 per la perdita di peso lamentano effetti collaterali invalidanti come disturbi gastrointestinali e stanchezza cronica, la crescente tendenza a rimpiazzarli con integratori non regolamentati spinge medici e autorità sanitarie a mettere in guardia sui rischi. Lo riferisce The Straits Times.",
@@ -1894,28 +1881,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z199ea5d7",
-   "sez": "mondo",
-   "titolo": "Filippine: il supertifone Rosal si rafforza sul Mar delle Filippine",
-   "orig": "Super Typhoon Rosal slightly strengthens over Philippine Sea",
-   "lead": "Il supertifone Rosal, noto anche come Champi, ha registrato una leggera intensificazione mentre si muove sopra le acque del Mar delle Filippine. Gli estesi flussi associati alla perturbazione minacciano di portare piogge sparse e temporali nelle regioni di Bicol e Visayas Orientali. Lo riferisce Rappler.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Rappler",
-     "p": "XX",
-     "c": "Manila",
-     "u": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-20-2026-5pm/",
-     "angolo": "",
-     "atlas": "Philippines",
-     "t": "2026-10-20T19:00+08:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:16",
-   "uscita": "17"
-  },
-  {
    "id": "z8768c789",
    "sez": "mondo",
    "titolo": "Ten Hag all'attacco di Ronaldo: 'Ha deluso me e la squadra'",
@@ -1931,28 +1896,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Iran",
      "t": "2026-10-20T14:24+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:16",
-   "uscita": "17"
-  },
-  {
-   "id": "z087c172a",
-   "sez": "mondo",
-   "titolo": "Romania: nuovo governo dopo sei mesi di crisi politica",
-   "orig": "La Romania ha di nuovo un governo dopo sei mesi di crisi politica",
-   "lead": "Dopo una prolungata instabilità istituzionale durata sei mesi, il parlamento rumeno ha votato la fiducia al nuovo esecutivo guidato da Luca Niculescu, quarto primo ministro designato dal presidente Nicușor Dan per superare l'impasse. Lo riferisce Il Post.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/20/romania-fiducia-nuovo-governo-fine-crisi-politica/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-20T13:44+00:00"
     }
    ],
    "data": "20 ott",
@@ -2180,7 +2123,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z07479669",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Deficit di zucchero e prezzi record sui mercati globali",
    "orig": "Deficit de zahăr pe piețele mondiale. Cotațiile pe bursă au ajuns la un maxim istoric",
    "lead": "Il divario tra produzione e consumo globale di zucchero per la stagione 2026/2027 è previsto in forte aumento fino a 6,28 milioni di tonnellate, spingendo le quotazioni di borsa a un massimo storico, secondo i dati di Green Pool Commodities. Lo riferisce HotNews.",
@@ -2216,30 +2159,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Romania",
      "t": "2026-10-20T14:46+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:16",
-   "uscita": "17"
-  },
-  {
-   "id": "zaf4abef2",
-   "sez": "mondo",
-   "titolo": "La Commissione Europea annuncia la nuova strategia per l'Artico",
-   "orig": "„Un front în competiția globală dintre marile puteri”. Comisia Europeană anunță strategia UE pentru o regiune cheie",
-   "lead": "La Commissione Europea ha annunciato la nuova strategia per la regione artica, ponendo la sicurezza al centro del piano a causa della crescente attività militare di Russia e Cina. Il cambiamento di posizione strategica risponde anche alle preoccupazioni legate alle rivendicazioni di Trump sulla Groenlandia. Lo riferisce HotNews.",
-   "more": [
-    "L'Artico è diventato uno scenario chiave della competizione geopolitica globale tra le grandi potenze, spingendo l'Unione Europea a ridefinire il proprio ruolo per tutelare i propri interessi strategici e di sicurezza di fronte alle nuove pressioni militari ed economiche."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/un-front-in-competitia-globala-dintre-marile-puteri-comisia-europeana-anunta-strategia-ue-pentru-o-regiune-cheie-2381436",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-20T14:33+00:00"
     }
    ],
    "data": "20 ott",
@@ -2357,28 +2276,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z25dfb727",
-   "sez": "mondo",
-   "titolo": "Il Parlamento romeno sostiene il candidato premier",
-   "orig": "Rumunski parlament podržao mandatara",
-   "lead": "Il Parlamento della Romania ha espresso il proprio sostegno al candidato designato alla guida dell'esecutivo, sbloccando una situazione di stallo politico in cui i precedenti tre tentativi di formare un governo erano falliti. Lo riferisce Vijesti.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/svijet/evropa/832427/rumunski-parlament-podrzao-mandatara",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-20T16:41+02:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:16",
-   "uscita": "17"
-  },
-  {
    "id": "z0d5fbd93",
    "sez": "mondo",
    "titolo": "Rapporto dell'UEE avverte l'Armenia sulle conseguenze dell'uscita",
@@ -2447,28 +2344,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Azerbaijan",
      "t": "2026-10-20T13:07+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:16",
-   "uscita": "17"
-  },
-  {
-   "id": "z33d32e37",
-   "sez": "mondo",
-   "titolo": "Pashinyan licenzia il capo del protocollo dopo una gaffe verbale",
-   "orig": "After confusing Kyrgyzstan president with Kazakhstan leader in speech, Pashinyan fires his head of protocol",
-   "lead": "Il primo ministro armeno Nikol Pashinyan ha rimosso dall'incarico il capo del servizio di protocollo di Stato, Gagik Vanoyan, in seguito a un errore in cui il premier aveva confuso il presidente del Kirghizistan con il leader del Kazakistan durante un discorso ufficiale. Lo riferisce OC Media.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "OC Media",
-     "p": "XX",
-     "c": "Baku",
-     "u": "https://oc-media.org/after-confusing-kyrgyzstan-president-with-kazakhstan-leader-in-speech-pashinyan-fires-his-head-of-protocol/",
-     "angolo": "",
-     "atlas": "Azerbaijan",
-     "t": "2026-10-20T12:29+00:00"
     }
    ],
    "data": "20 ott",
@@ -2695,30 +2570,8 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "za8fb7576",
-   "sez": "mondo",
-   "titolo": "Inchiesta Covid-19: gravi fallimenti del governo britannico nella protezione degli anziani",
-   "orig": "Covid-19. Investigação conclui que Governo britânico falhou na proteção dos idosos",
-   "lead": "Un'indagine pubblica indipendente nel Regno Unito ha stabilito che le inadeguatezze e i ritardi del governo britannico hanno favorito la rapida diffusione del Covid-19 tra le fasce di popolazione più anziane e vulnerabili durante la pandemia. Lo riferisce RTP.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/mundo/covid-19-investigacao-conclui-que-governo-britanico-falhou-na-protecao-dos-idosos_n1772988",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-10-20T15:58+01:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:16",
-   "uscita": "17"
-  },
-  {
    "id": "zaa5e225a",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "La band NAPA presenta il nuovo album 'Semitrópico'",
    "orig": "Banda NAPA dá a conhecer 'Semitrópico'",
    "lead": "Il gruppo musicale NAPA ha presentato il suo nuovo album intitolato 'Semitrópico', un lavoro discografico che trae ispirazione dai paesaggi e dalle origini dei membri della band originari dell'isola di Madera. Lo riferisce RTP.",
@@ -3148,30 +3001,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z561e4727",
-   "sez": "economia",
-   "titolo": "Rubio in viaggio in India per rinsaldare i legami economici tra tensioni con Washington",
-   "orig": "Rubio Travels to India to Strengthen Economic Ties Amid Strained U.S. Relations",
-   "lead": "Il segretario di Stato statunitense si è recato in India con l'obiettivo di rafforzare la cooperazione economica bilaterale, in un momento caratterizzato da relazioni diplomatiche tese. Durante la missione a Mumbai, il rappresentante di Washington incontrerà alcuni tra i principali magnati asiatici, mentre proseguono i negoziati ufficiali per la conclusione di un accordo commerciale tra i due Paesi. Lo riferisce The New York Times.",
-   "more": [
-    "I rapporti commerciali e geopolitici tra Stati Uniti e India rivestono un'importanza strategica fondamentale per il controllo degli equilibri nell'area dell'Indo-Pacifico. Nonostante la condivisione di interessi di sicurezza, permangono divergenze su tariffe doganali, politiche industriali e questioni di accesso ai mercati."
-   ],
-   "fonti": [
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-20T14:14+00:00"
-    }
-   ],
-   "data": "20 ott",
-   "ora": "17:14",
-   "uscita": "17"
-  },
-  {
    "id": "z5af38913",
    "sez": "economia",
    "titolo": "La IBEDC promette una fornitura di energia elettrica migliore per i clienti dell'Ogun",
@@ -3364,7 +3193,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z60641707",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Come Turchia e Uzbekistan preparano le loro città ai cambiamenti climatici",
    "orig": "How Turkey and Uzbekistan are preparing their cities for a changing climate",
    "lead": "Turchia e Uzbekistan stanno ridefinendo la pianificazione urbana, la gestione energetica e le infrastrutture cittadine per adattarle alle crescenti pressioni ambientali legate ai cambiamenti climatici. Tra le iniziative figurano interventi per rendere resilienti i sistemi energetici turchi e la costruzione di un nuovo insediamento urbano alle porte di Tashkent. Lo riferisce Euronews.",
@@ -3451,6 +3280,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "u": "https://www.ilmessaggero.it/mondo/artico_guerra_flotta_ombra_strategia_ue_gas_petrolio_cosa_sappiamo-9837167.html",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/un-front-in-competitia-globala-dintre-marile-puteri-comisia-europeana-anunta-strategia-ue-pentru-o-regiune-cheie-2381436",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-20T14:33+00:00"
     }
    ],
    "data": "",
@@ -4244,7 +4082,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z241e9f12",
-   "sez": "mondo",
+   "sez": "spazio",
    "titolo": "Il Giappone lancia con successo la sonda spaziale MMX per esplorare le lune di Marte",
    "orig": "Viaje a la Luna... de Marte",
    "lead": "L'Agenzia di Esplorazione Aerospaziale del Giappone (JAXA) ha lanciato dal Centro Spaziale di Tanegashima la navicella non equipaggiata Martian Moons eXploration, con l'obiettivo di raccogliere campioni da una delle lune di Marte e studiare le origini del sistema solare. Lo riferisce La Jornada.",
@@ -4787,7 +4625,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z77ab54c2",
-   "sez": "mondo",
+   "sez": "ingegneria",
    "titolo": "Galleria del Brennero: attivazione rinviata al 2034 e costi in aumento di un miliardo",
    "orig": "BBT: Inbetriebnahme erst 2034 und eine Mrd. Euro teurer",
    "lead": "L'infrastruttura ferroviaria del tunnel di base del Brennero entrerà in funzione con due anni di ritardo rispetto alle previsioni, slittando al 2034. Contestualmente, i costi complessivi dell'opera sono aumentati passando da 10,5 a 11,7 miliardi di euro.",
@@ -4906,7 +4744,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "ze51377c9",
-   "sez": "mondo",
+   "sez": "musica",
    "titolo": "Gli U2 protagonisti dello spettacolo dell'intervallo della NFL negli Stati Uniti",
    "orig": "U2 to headline NFL halftime show next month in US",
    "lead": "Il gruppo rock degli U2 sarà l'ospite musicale principale dello show durante l'intervallo di una partita della NFL in programma il mese prossimo in California. L'esibizione artistica della band irlandese verrà trasmessa in streaming mondiale in diretta su Netflix.",
@@ -6349,7 +6187,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z0e4db928",
-   "sez": "cultura",
+   "sez": "cucina",
    "titolo": "Inaugurato a Banjul il Festival Gastronomico dell'Africa Occidentale 2026",
    "orig": "Taste of a continent: WAFFEST 2026 opens in Banjul",
    "lead": "L'ottava edizione del West Africa Food Festival è stata inaugurata venerdì presso il Centro Congressi Internazionale Sir Dawda Kairaba Jawara di Banjul. L'evento, in programma dal 15 al 21 ottobre 2026 sul tema dello sviluppo delle competenze e del cambiamento sociale, riunisce operatori e appassionati per preservare il patrimonio culinario della subregione, promuovere la cooperazione regionale e fare conoscere la cucina dell'Africa Occidentale a livello internazionale. Lo riferisce The Point.",
@@ -7760,6 +7598,24 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Romania",
      "t": "2026-10-20T10:00+00:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/20/romania-fiducia-nuovo-governo-fine-crisi-politica/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-20T13:44+00:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/evropa/832427/rumunski-parlament-podrzao-mandatara",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-20T16:41+02:00"
     }
    ],
    "data": "20 ott",
@@ -7999,7 +7855,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "z6c20d90d",
-   "sez": "tech",
+   "sez": "ambiente",
    "titolo": "L'Irlanda del Nord necessita di coraggio e leadership per affrontare la crisi climatica",
    "orig": "Northern Ireland needs 'courage and leadership' to tackle climate change",
    "lead": "Il nuovo presidente del Comitato per il Cambiamento Climatico ha iniziato una missione di due giorni in Irlanda del Nord per valutare le politiche locali, sottolineando che la regione richiede coraggio e leadership politica per affrontare efficacemente le sfide ambientali. Lo riferisce BBC News.",
@@ -8057,6 +7913,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Ireland",
      "t": "2026-10-20T13:43+01:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/covid-19-investigacao-conclui-que-governo-britanico-falhou-na-protecao-dos-idosos_n1772988",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-20T15:58+01:00"
     }
    ],
    "data": "20 ott",
@@ -8065,7 +7930,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   {
    "id": "zfccbb91a",
-   "sez": "cultura",
+   "sez": "salute",
    "titolo": "L'attrice Christina Applegate rivela di essere stata vittima di una diagnosi errata di sclerosi multipla",
    "orig": "Actor Christina Applegate reveals she was misdiagnosed with multiple sclerosis",
    "lead": "L'attrice vincitrice di un Emmy Christina Applegate ha rivelato di non essere affetta da sclerosi multipla, ammettendo che la diagnosi ricevuta in precedenza era errata. L'interprete ha definito la notizia sconcertante e confusa nel corso del suo podcast. Lo riferisce The Guardian.",
@@ -12353,6 +12218,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "Azerbaijan",
      "t": "2026-10-20T08:45+00:00"
+    },
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/after-confusing-kyrgyzstan-president-with-kazakhstan-leader-in-speech-pashinyan-fires-his-head-of-protocol/",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-20T12:29+00:00"
     }
    ],
    "data": "20 ott",
@@ -17698,6 +17572,15 @@ window.EDIZIONI["2026-10-20-sera"] = {
      "angolo": "",
      "atlas": "India",
      "t": "2026-10-20T15:32+05:30"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T14:14+00:00"
     }
    ],
    "data": "20 ott",
@@ -20335,7 +20218,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zf820ccd0": "Il quotidiano di Dacca evidenzia il fermo dei tre dirigenti politici nell'ambito delle misure restrittive applicate alle attività del partito.",
   "z57df7f44": "Il quotidiano economico evidenzia l'impatto diretto delle nuove imposizioni fiscali sulle decisioni occupazionali del colosso delle scommesse.",
   "za2fa5cce": "Il quotidiano finanziario evidenzia la resilienza dei bond britannici rispetto alle altre economie del G7 dopo le turbolenze iniziali legate alla crisi mediorientale.",
-  "z561e4727": "Il quotidiano statunitense evidenzia la missione diplomatica volta a rilanciare il dialogo economico con i leader imprenditoriali indiani nonostante i recenti attriti.",
   "z5af38913": "Il quotidiano nigeriano evidenzia le rassicurazioni fornite dalla società di distribuzione elettrica agli utenti dello Stato di Ogun.",
   "z9b7f4034": "Il giornale egiziano evidenzia le analogie tra le difficoltà fiscali francesi e i potenziali rischi finanziari per il sistema economico statunitense.",
   "z40594f44": "Il portale d'informazione evidenzia la portata strutturale delle difficoltà politiche e sociali francesi in vista della prossima tornata elettorale.",
@@ -20432,9 +20314,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z3d054107": "Riporta le principali notizie economiche e finanziarie dai mercati asiatici.",
   "z7fe71d58": "Solleva questioni di etica pubblica e rappresentanza sociale nelle istituzioni filippine.",
   "zfc7a734b": "Denuncia le tensioni sulla libertà di stampa e l'azione delle forze dell'ordine durante le proteste.",
-  "z199ea5d7": "Informa sull'evoluzione dei fenomeni meteorologici estremi nell'area del Sud-Est asiatico.",
   "z8768c789": "Riporta dichiarazioni polemiche di carattere calcistico internazionale.",
-  "z087c172a": "Analizza la risoluzione di una complessa crisi politica nell'Europa orientale.",
   "z47392ac6": "Documenta un fenomeno di disinformazione e panico sociale diffuso tra i giovani.",
   "z6feba635": "Propone consigli di psicologia e benessere basati su evidenze empiriche.",
   "zbd5aa9cd": "Approfondisce le tensioni istituzionali e giudiziarie all'interno del sistema costituzionale georgiano.",
@@ -20447,17 +20327,14 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zf0616f15": "Valorizza le eccellenze del turismo enogastronomico e della ristorazione ellenica.",
   "z07479669": "Riporta i dati economici e finanziari sull'andamento delle materie prime alimentari.",
   "z77954175": "Informa sulla ristrutturazione e sui tagli di spesa nel servizio radiotelevisivo pubblico britannico.",
-  "zaf4abef2": "La testata rumena evidenzia la nuova linea strategica dell'Unione Europea focalizzandosi sulle tensioni geopolitiche globali e regionali.",
   "ze4870765": "Il media riferisce l'esito della vicenda giudiziaria statunitense riguardante una figura di primo piano del settore tecnologico.",
   "z5557ed07": "L'articolo racconta il successo di un'iniziativa locale volta a promuovere la ristorazione e la socialità urbana.",
   "z24e9bbb8": "La testata locale focalizza l'attenzione sulle prospettive di sviluppo e promozione dello sport nella capitale montenegrina.",
   "zad404dc7": "Il giornale segue i lavori istituzionali di cooperazione regionale e locale tra il Montenegro e le istituzioni europee.",
   "z7a775e1c": "La testata riporta i dati demoscopici relativi al consenso politico internazionale in corso d'opera.",
-  "z25dfb727": "Il quotidiano registra gli sviluppi della crisi istituzionale e della formazione del nuovo esecutivo a Bucarest.",
   "z0d5fbd93": "La testata regionale analizza le dinamiche geopolitiche ed economiche legate al progressivo riallineamento dell'Armenia verso l'Unione Europea.",
   "z83cb0e4d": "Il portale esamina i flussi commerciali e le tendenze economiche che interessano la Georgia e la regione caucasica.",
   "z0c131c5b": "La notizia viene trattata per evidenziare il percorso insolito e controverso di un amministratore pubblico statunitense.",
-  "z33d32e37": "La testata racconta un episodio diplomaticamente imbarazzante che ha avuto immediate ripercussioni istituzionali a Erevan.",
   "zcb4ec0d5": "Il sito indipendente documenta presunti raggiri e strategie illecite legate alle procedure di immigrazione e asilo in Europa.",
   "zdf98daa9": "La testata riporta le tensioni giudiziarie e politiche tra il governo turco e i vertici dell'opposizione.",
   "z1b93f81e": "Il media evidenzia le eccellenze del settore bancario nazionale e il coinvolgimento dei consumatori nella scelta.",
@@ -20468,7 +20345,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z8da92a52": "L'emittente pubblica tedesca analizza la situazione politica interna e le sfide di rinnovamento della SPD.",
   "z1daa9e69": "Il servizio si concentra sulle politiche economiche del governo federale volte a stimolare la competitività industriale.",
   "za5b1895d": "L'emittente pubblica portoghese riporta gli aggiornamenti sportivi e le decisioni dirigenziali dei club di calcio.",
-  "za8fb7576": "L'emittente divulga le conclusioni ufficiali di un'importante inchiesta sulle responsabilità istituzionali sanitarie.",
   "zaa5e225a": "La testata dedica spazio alle novità culturali e artistiche della scena musicale nazionale.",
   "zfb3bf06d": "L'emittente olandese corregge e approfondisce un caso mediatico che aveva coinvolto un'istituzione universitaria dei Paesi Bassi.",
   "z621270d2": "Il media documenta un disservizio locale che colpisce la quotidianità dei cittadini nelle aree periferiche.",
@@ -20497,7 +20373,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zaf9038ce": "Il canale d'informazione segue la campagna elettorale locale e le critiche mosse dall'opposizione ai sindaci di lungo corso.",
   "z8393b37b": "L'emittente evidenzia le criticità amministrative e territoriali denunciate dai candidati locali durante la competizione elettorale.",
   "zf1db3d80": "Il media segue le vertenze sindacali all'interno degli enti di ricerca scientifica e tecnologica del Paese.",
-  "z74987838": "Il servizio offre una copertura in tempo reale della mobilitazione studentesca verso il centro della capitale.",
   "zfaf819c5": "L'emittente statunitense sottolinea le vulnerabilità geopolitiche e le tensioni interne del governo iraniano.",
   "za1a51563": "Il network adotta una prospettiva critica nei confronti delle proteste e dei movimenti di piazza in Europa.",
   "zd8ad27a2": "Il quotidiano nigeriano riferisce la smentita ufficiale del partito di governo rispetto alle polemiche politiche nazionali.",
@@ -24903,14 +24778,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z561e4727": {
-   "n": "New York",
-   "p": [
-    "United States of America",
-    "India"
-   ],
-   "pt": []
-  },
   "z5af38913": {
    "n": "Lagos",
    "p": [
@@ -25619,27 +25486,12 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z199ea5d7": {
-   "n": "Manila",
-   "p": [
-    "Philippines"
-   ],
-   "pt": []
-  },
   "z8768c789": {
    "n": "Londra",
    "p": [
     "United Kingdom",
     "Iran",
     "Portugal"
-   ],
-   "pt": []
-  },
-  "z087c172a": {
-   "n": "Milano",
-   "p": [
-    "Romania",
-    "Italy"
    ],
    "pt": []
   },
@@ -25731,14 +25583,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "zaf4abef2": {
-   "n": "Bucarest",
-   "p": [
-    "Romania",
-    "Belgium"
-   ],
-   "pt": []
-  },
   "ze4870765": {
    "n": "Bucarest",
    "p": [
@@ -25776,14 +25620,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    ],
    "pt": []
   },
-  "z25dfb727": {
-   "n": "Podgorica",
-   "p": [
-    "Montenegro",
-    "Romania"
-   ],
-   "pt": []
-  },
   "z0d5fbd93": {
    "n": "Baku",
    "p": [
@@ -25807,14 +25643,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
     "Azerbaijan",
     "United States of America",
     "Russia"
-   ],
-   "pt": []
-  },
-  "z33d32e37": {
-   "n": "Baku",
-   "p": [
-    "Azerbaijan",
-    "Armenia"
    ],
    "pt": []
   },
@@ -25888,14 +25716,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
    "n": "Lisbona",
    "p": [
     "Portugal"
-   ],
-   "pt": []
-  },
-  "za8fb7576": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal",
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -26097,13 +25917,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   },
   "zf1db3d80": {
    "n": "Novi Sad",
-   "p": [
-    "Serbia"
-   ],
-   "pt": []
-  },
-  "z74987838": {
-   "n": "Belgrade",
    "p": [
     "Serbia"
    ],
@@ -26940,7 +26753,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zf820ccd0": 1,
   "z57df7f44": 1,
   "za2fa5cce": 1,
-  "z561e4727": 1,
   "z5af38913": 1,
   "z9b7f4034": 1,
   "z40594f44": 1,
@@ -27037,9 +26849,7 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z3d054107": 1,
   "z7fe71d58": 1,
   "zfc7a734b": 1,
-  "z199ea5d7": 1,
   "z8768c789": 1,
-  "z087c172a": 1,
   "z47392ac6": 1,
   "z6feba635": 1,
   "zbd5aa9cd": 1,
@@ -27052,17 +26862,14 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zf0616f15": 1,
   "z07479669": 1,
   "z77954175": 1,
-  "zaf4abef2": 1,
   "ze4870765": 1,
   "z5557ed07": 1,
   "z24e9bbb8": 1,
   "zad404dc7": 1,
   "z7a775e1c": 1,
-  "z25dfb727": 1,
   "z0d5fbd93": 2,
   "z83cb0e4d": 1,
   "z0c131c5b": 1,
-  "z33d32e37": 1,
   "zcb4ec0d5": 1,
   "zdf98daa9": 1,
   "z1b93f81e": 1,
@@ -27073,7 +26880,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "z8da92a52": 1,
   "z1daa9e69": 1,
   "za5b1895d": 1,
-  "za8fb7576": 1,
   "zaa5e225a": 1,
   "zfb3bf06d": 1,
   "z621270d2": 1,
@@ -27102,7 +26908,6 @@ window.EDIZIONI["2026-10-20-sera"] = {
   "zaf9038ce": 1,
   "z8393b37b": 1,
   "zf1db3d80": 1,
-  "z74987838": 1,
   "zfaf819c5": 1,
   "za1a51563": 1,
   "zd8ad27a2": 1,
