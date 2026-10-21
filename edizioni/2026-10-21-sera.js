@@ -3,6 +3,1480 @@ window.EDIZIONI["2026-10-21-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zf3ea8a31",
+   "sez": "mondo",
+   "titolo": "Il forfait per attività extrascolastiche aumenta a 183,73 euro",
+   "orig": "El forfet extraescolar augmenta fins als 183,73 euros aquesta temporada",
+   "lead": "Il governo di Andorra ha deciso di mantenere gli aiuti allo sci scolastico aumentando il contributo familiare ai 183,73 euro per le attività extrascolastiche. Le sovvenzioni pubbliche ammonteranno a 114,68 euro per forfait e supereranno 1,4 milioni di euro. Lo riferisce Diari d'Andorra.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261021/forfet-extraescolar-d-esqui-costara-183-73-euros-aquesta-temporada_207010.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-21T18:00+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcf8cafd2",
+   "sez": "mondo",
+   "titolo": "Cooperative come soluzione al problema abitativo in Andorra",
+   "orig": "Casal: “Les cooperatives poden ser una eina favorable per ampliar el parc d’habitatge”",
+   "lead": "Il ministro portavoce di Andorra, Guillem Casal, ha ribadito l'apertura dell'esecutivo verso le cooperative immobiliari come soluzione per aumentare l'offerta abitativa. Tuttavia, ha evidenziato che rimangono ostacoli legislativi e tecnici da superare. Lo riferisce Diari d'Andorra.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261021/govern-veu-amb-bons-ulls-les-cooperatives-com-nova-via-per-ampliar-parc-d-habitatge_207012.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-21T18:19+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcb9b6674",
+   "sez": "mondo",
+   "titolo": "Minoranza di Massana contesta progetto del belvedere",
+   "orig": "La minoria de la Massana presenta 23 al·legacions contra el mirador de l’Alt de la Capa",
+   "lead": "La minoranza della parrocchia di Massana in Andorra ha presentato 23 osservazioni contro il belvedere dell'Alt de la Capa, contestando l'aggiudicazione da oltre 892 mila euro prima del completamento della valutazione ambientale e chiedendone la cancellazione. Lo riferisce Diari d'Andorra.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/parroquies/261021/minoria-massana-presenta-23-legacions-mirador-l-alt-capa_207008.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-21T17:40+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb8a5acee",
+   "sez": "mondo",
+   "titolo": "Bara Sow si ritira da Pastef",
+   "orig": "Retrait : La décision radicale de Bara Sow de Pastef, administrateur du FDTT",
+   "lead": "Bara Sow, amministratore del Fondo per lo sviluppo dei trasporti terrestri del Senegal, ha annunciato il ritiro definitivo da Pastef. La decisione marca la rottura di una relazione politico-amministrativa. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/retrait-la-decision-radicale-de-bara-sow-de-pastef-administrateur-du-fdtt_n_999001359.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T17:44+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf3057002",
+   "sez": "mondo",
+   "titolo": "Aziende senegalesi espandono economia verde nel mercato subregionale",
+   "orig": "Économie verte : Les entreprises sénégalaises à la conquête du marché sous-régional",
+   "lead": "Cinque aziende senegalesi hanno raggiunto una tappa importante nello sviluppo dell'economia verde e nell'espansione verso i mercati della regione. Le società consolidano la loro posizione nel settore sostenibile. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Actualites/economie-verte-les-entreprises-senegalaises-a-la-conquete-du-marche-sous-regional_n_999001357.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T17:35+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z46692c05",
+   "sez": "mondo",
+   "titolo": "Dakar: sequestro di 36,5 chili di hashish, tre arresti",
+   "orig": "Yeumbeul : La BRS de Dakar saisit 36,5 kg de haschich, 3 suspects arrêtés",
+   "lead": "La Brigata regionale degli Stupefacenti di Dakar ha smantellato una rete di traffici nella sera del 20 ottobre, sequestrando 36,5 chilogrammi di hashish e arrestando tre persone nel quartiere di Yeumbeul. Lo riferisce Seneweb.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Faits-Divers/yeumbeul-la-brs-de-dakar-saisit-365-kg-de-haschich-3-suspects-arretes_n_999001355.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T17:21+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7c4eacd0",
+   "sez": "mondo",
+   "titolo": "Chad: progetto agricolo per donne nel Mayo-Kebbi",
+   "orig": "Mayo-Kebbi Ouest : les femmes au cœur d’un projet agricole",
+   "lead": "È stato lanciato martedì 20 ottobre a Pala il progetto TARSPro II, lotto 2, che mira a intensificare le catene di valore dei legumi e delle colture foraggere nel Chad, con focus sulle donne. L'evento si è svolto sotto la presidenza del delegato del governo. Lo riferisce Tchadinfos.",
+   "more": [
+    "Il progetto rientra nell'agenda di sviluppo rurale sostenibile della regione e mira a valorizzare il contributo femminile nell'agricoltura ciadiana, uno dei settori cruciali dell'economia locale."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/21/mayo-kebbi-ouest-les-femmes-au-coeur-dun-projet-agricole/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-21T18:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3984ccae",
+   "sez": "mondo",
+   "titolo": "Chad: controlli su peso pane rivelano diffuse irregolarità",
+   "orig": "Poids du pain à N’Djaména : seules 2 boulangeries sur 11 contrôlées respectent les normes",
+   "lead": "L'Agenzia ciadiana di normalizzazione ha condotto mercoledì 21 ottobre un'ispezione in 11 panetterie di N'Djamena, riscontrando che solo 2 rispettano le norme su peso del pane e bilance conformi. L'operazione ha evidenziato diffuse irregolarità nel settore. Lo riferisce Tchadinfos.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/21/poids-du-pain-a-ndjamena-seules-2-boulangeries-sur-11-controlees-respectent-les-normes/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-21T16:45+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3b163238",
+   "sez": "mondo",
+   "titolo": "Chad: sottoprefetto di Ardo promuove pace tra allevatori e agricoltori",
+   "orig": "Salamat : le sous-préfet d’Ardo appelle à promouvoir la paix",
+   "lead": "Il sottoprefetto di Ardo, Bichara Brahim Abdraman, si è recato nel villaggio di Sakinet nel Salamat ciadiano per promuovere la pace tra allevatori e agricoltori, una dicotomia conflittuale caratteristica della regione. La missione rientra negli sforzi istituzionali di mediazione. Lo riferisce Tchadinfos.",
+   "more": [
+    "Nel Salamat, i conflitti stagionali tra pastori e coltivatori per l'accesso alle risorse naturali rappresentano una sfida ricorrente, richiedendo costante intervento amministrativo."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/21/salamat-le-sous-prefet-dardo-appelle-a-promouvoir-la-paix/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-21T16:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7a80d00d",
+   "sez": "mondo",
+   "titolo": "Camerun: critica sulla mancanza di trasparenza del calendario elettorale",
+   "orig": "Abdouraman Hamadou : « le calendrier électoral est devenu un secret d’État au Cameroun »",
+   "lead": "L'attivista della società civile camerunese Abdouraman Hamadou Babba ha denunciato pubblicamente la mancanza di trasparenza sul calendario elettorale del paese, definendola un 'segreto di stato'. La critica solleva questioni sulla comunicazione istituzionale. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/21/abdouraman-hamadou-le-calendrier-electoral-est-devenu-un-secret-detat-au-cameroun/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-21T16:27+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za2184653",
+   "sez": "mondo",
+   "titolo": "Trump definisce Le Pen 'voce conservatrice' della Francia",
+   "orig": "Donald Trump salue Marine Le Pen comme la « voix conservatrice » de la France en pleine crise",
+   "lead": "Il presidente americano Donald Trump ha qualificato Marine Le Pen come 'voce conservatrice' della Francia, affermando il suo orientamento politico martedì 20 ottobre durante una dichiarazione dalle istituzioni americane. Lo riferisce Actu Cameroun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/21/donald-trump-salue-marine-le-pen-comme-la-voix-conservatrice-de-la-france-en-pleine-crise/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-21T16:21+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5939eeca",
+   "sez": "mondo",
+   "titolo": "Benin: zona industriale prepara offensiva energetica da 625 MW",
+   "orig": "Bénin : la GDIZ prépare une offensive énergétique de plus de 625 MW",
+   "lead": "La zona industriale di Glo-Djigbé in Benin prepara un'offensiva energetica da oltre 625 megawatt per aumentare l'autonomia produttiva. Il direttore della SIPI-Bénin ha presentato diversi progetti per soddisfare le esigenze dei settori industriali della zona. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-la-gdiz-prepare-une-offensive-energetique-de-plus-de-625-mw/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-21T17:35+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z87b29630",
+   "sez": "mondo",
+   "titolo": "Benin: attivato casello di pedaggio di Kétou",
+   "orig": "Bénin : les tarifs du péage de Kétou entrent en application",
+   "lead": "Il casello di pedaggio di Kétou in Benin è entrato in funzione lunedì 19 ottobre sulla strada nazionale numero 26. L'apertura è stata segnata da una cerimonia ufficiale alla quale hanno partecipato le autorità locali e i gestori dell'infrastruttura. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/10/benin-les-tarifs-du-peage-de-ketou-entrent-en-application/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-10-21T15:54+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z163adc3c",
+   "sez": "mondo",
+   "titolo": "Guinea: 150 giovani selezionati per borse di studio russe",
+   "orig": "Bourses d’études 2026-2027 : 150 jeunes Guinéens en route pour les universités russes",
+   "lead": "Centocinquanta giovani guineani sono stati selezionati per borse di studio presso università russe per l'anno accademico 2026-2027. La cerimonia di presentazione si è svolta mercoledì 21 ottobre a Conakry presso l'ambasciata russa, alla presenza del corpo diplomatico. Lo riferisce Africaguinee.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/bourses-detudes-2026-2027-150-jeunes-guineens-en-route-pour-les-universites-russes/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-21T17:04+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4cb76384",
+   "sez": "mondo",
+   "titolo": "Gabon: lanciata nuova piattaforma per lavori parlamentari",
+   "orig": "« GTLAN », une nouvelle plateforme de l’ANINF à l’Assemblée nationale gabonaise pour fluidifier le travail parlementaire",
+   "lead": "L'Assemblea nazionale del Gabon ha lanciato il 19 ottobre la piattaforma GTLAN (Gestione dei lavori legislativi) per migliorare i processi parlamentari. Il sistema è stato sviluppato con il supporto dell'Agenzia nazionale delle infrastrutture. Lo riferisce Gabonactu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/21/gtlan-une-nouvelle-plateforme-de-laninf-a-lassemblee-nationale-gabonaise-pour-fluidifier-le-travail-parlementaire/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-21T17:19+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z01f11cfb",
+   "sez": "mondo",
+   "titolo": "Gabon: Scheena Donia portatrice della fiamma olimpica a Dakar 2026",
+   "orig": "JOJ Dakar 2026 : Scheena Donia portera la flamme olympique pour le Gabon",
+   "lead": "L'imprenditrice gabonese Scheena Donia è stata designata per portare la fiamma olimpica ai Giochi olimpici della gioventù di Dakar 2026, rappresentando il Gabon in un ruolo di prestigio. Si tratta di una prima per il paese. Lo riferisce Gabonactu.",
+   "more": [
+    "I Giochi olimpici della gioventù di Dakar 2026 rappresentano un importante evento sportivo continentale che coinvolgerà atleti giovani di tutta l'Africa, promuovendo valori olimpici tra le nuove generazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/21/joj-dakar-2026-scheena-donia-portera-la-flamme-olympique-pour-le-gabon/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-21T16:28+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdb9ed638",
+   "sez": "mondo",
+   "titolo": "Gabon: uomo interrogato per uso improprio bandiera nazionale",
+   "orig": "Gabon : il utilise le drapeau national sur une roue et finit interpellé",
+   "lead": "Un uomo è stato interrogato a Libreville per aver utilizzato il vessillo nazionale gabonese per avvolgere il mozzo di una ruota di taxi-bus. L'uso improprio della bandiera è stato sanzionato dalle autorità. Lo riferisce Gabonactu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/10/21/gabon-il-utilise-le-drapeau-national-sur-une-roue-et-finit-interpelle/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-21T15:46+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z49730b65",
+   "sez": "mondo",
+   "titolo": "Mauritania: governo approva bilancio 2027 oltre il termine",
+   "orig": "بعد تجاوز الأجل القانوني.. الحكومة تجيز مشروع ميزانية 2027",
+   "lead": "Il governo della Mauritania ha approvato il progetto di bilancio per il 2027 anche dopo il superamento del termine legale previsto. L'approvazione avviene in un contesto di possibili limiti normativi. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad8fd3a7162110001e51bb2/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-21T17:58+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zde47390f",
+   "sez": "mondo",
+   "titolo": "Mauritania: proteste simultanee del partito Tawasal in 15 province",
+   "orig": "احتجاجات متزامنة لحزب تواصل في 15 ولاية تحت شعار \"اللاءات الثلاث\"",
+   "lead": "Il partito Tawasal ha organizzato proteste simultanee in 15 province della Mauritania sotto lo slogan 'i tre no', indicando posizioni politiche critiche. Le mobilitazioni evidenziano dissenso organizzato nei confronti delle politiche governative. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad8f12c7162110001e51b92/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-21T17:13+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z11ccb9e7",
+   "sez": "mondo",
+   "titolo": "Mauritania: questione blogger denunciata davanti alla Commissione africana",
+   "orig": "تنديد أمام اللجنة الإفريقية لحقوق الإنسان بقضية المدونين الموريتانيين",
+   "lead": "Una denuncia è stata presentata davanti alla Commissione africana dei diritti umani riguardante la situazione dei blogger mauritani. Il caso solleva questioni internazionali di libertà di espressione. Lo riferisce Alakhbar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Alakhbar",
+     "p": "XX",
+     "c": "Nouakchott",
+     "u": "https://www.alakhbar.info/6ad8f0b77162110001e51b83/",
+     "angolo": "",
+     "atlas": "Mauritania",
+     "t": "2026-10-21T17:05+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd5cb0689",
+   "sez": "mondo",
+   "titolo": "Capo Verde: Paul vieta estrazione inerti in zona protetta",
+   "orig": "Câmara Municipal do Paul proíbe extração de inertes entre as pontes Amílcar Cabral e Mén Pola",
+   "lead": "La municipalità di Paul a Capo Verde ha vietato l'estrazione di materiali inerti tra i ponti Amílcar Cabral e Mén Pola mercoledì 21 ottobre. L'autorità locale farà identificare siti alternativi autorizzati rispettando le normative ambientali e chiede la collaborazione dei cittadini. Lo riferisce Expresso das Ilhas.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/21/camara-municipal-do-paul-proibe-extracao-de-inertes-entre-as-pontes-amilcar-cabral-e-men-pola/105189",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-21T16:48+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcd1cb7b3",
+   "sez": "mondo",
+   "titolo": "Capo Verde: missione di sensibilizzazione nel settore edile",
+   "orig": "IGCI realiza missão de sensibilização no Sal e prepara sector da construção civil para fiscalização rigorosa a partir de 2027",
+   "lead": "L'Ispezione generale della Costruzione e dell'Immobiliare di Capo Verde conduce una missione di sensibilizzazione sull'isola di Sal dal 19 al 25 ottobre per preparare il settore alle ispezioni rigorose del 2027. L'operazione mira a garantire la conformità normativa nel settore edile. Lo riferisce Expresso das Ilhas.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/21/igci-realiza-missao-de-sensibilizacao-no-sal-e-prepara-sector-da-construcao-civil-para-fiscalizacao-rigorosa-a-partir-de-2027/105188",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-21T16:01+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za982aff9",
+   "sez": "mondo",
+   "titolo": "Angola: concorso sanità con 92 mila candidati per 3 mila posti",
+   "orig": "Concurso público do MINSA: Mais de 92 mil candidatos aprovados para menos de três mil vagas",
+   "lead": "Il Ministero della Salute dell'Angola ha pubblicato mercoledì 21 ottobre i risultati di un concorso pubblico per 2.963 posizioni, con oltre 92 mila candidati approvati a fronte di meno di 3 mila posti disponibili. Solo i migliori classificati saranno assunti dal numero significativamente superiore di idonei. Lo riferisce Novo Jornal.",
+   "more": [
+    "Il concorso ha registrato una massiccia affluenza, confermando l'elevata disoccupazione nel settore sanitario angolano, con molti candidati qualificati in competizione per opportunità limitate."
+   ],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/sociedade/detalhe/concurso-publico-do-minsa-mais-de-92-mil-candidatos-aprovados-para-menos-de-tres-mil-vagas-75516.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-21T16:56+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za1a7ac0e",
+   "sez": "mondo",
+   "titolo": "Tunisia: apertura Dialoghi industria 2026 nella capitale",
+   "orig": "افتتاح الدورة الأولى من 'حوارات الصناعة التونسية 2026' بالعاصمة",
+   "lead": "La capitale tunisina ha ospitato l'apertura della prima edizione dei Dialoghi dell'industria tunisina 2026 sotto il tema 'Competitività, innovazione e partnership strategiche'. L'evento riunisce i principali attori del settore industriale del paese. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1534231/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86-%D8%AD%D9%88%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9-2026-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T18:51+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4376022a",
+   "sez": "mondo",
+   "titolo": "Ampliamento aeroporto Tunisi Cartagine a 18,5 milioni di passeggeri",
+   "orig": "توسعة مطار تونس قرطاج إلى 18.5 مليون مسافر تطرح تحدي الربط بالعاصمة",
+   "lead": "L'aeroporto internazionale di Tunisi Cartagine sarà ampliato per accogliere 18,5 milioni di passeggeri annui. Il progetto pone la sfida logistica di collegare meglio lo scalo con la capitale tunisina. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1534230/%D8%AA%D9%88%D8%B3%D8%B9%D8%A9-%D9%85%D8%B7%D8%A7%D8%B1-%D8%AA%D9%88%D9%86%D8%B3-%D9%82%D8%B1%D8%B7%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-18-5-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%85%D8%B3%D8%A7%D9%81%D8%B1-%D8%AA%D8%B7%D8%B1%D8%AD-%D8%AA%D8%AD%D8%AF%D9%8A-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T18:38+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z40f3d71b",
+   "sez": "mondo",
+   "titolo": "Sousse ospiterà Tunisia-Gabon il 12 novembre",
+   "orig": "ملعب سوسة يحتضن مباراة تونس والغابون يوم 12 نوفمبر القادم",
+   "lead": "Lo stadio di Sousse ospiterà la partita di calcio tra la nazionale tunisina e il Gabon il 12 novembre prossimo. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/1534223/%D9%85%D9%84%D8%B9%D8%A8-%D8%B3%D9%88%D8%B3%D8%A9-%D9%8A%D8%AD%D8%AA%D8%B6%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D9%88%D9%86-%D9%8A%D9%88%D9%85-12-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T18:25+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5860102f",
+   "sez": "mondo",
+   "titolo": "L'allenatore Nasr al-Din Nabi firma con Al-Wahda di Casablanca",
+   "orig": "اتّفاق يين الوداد والمدرب نصر الدين نابي",
+   "lead": "L'allenatore Nasr al-Din Nabi ha raggiunto un accordo con il club marocchino Al-Wahda di Casablanca per assumere la guida tecnica della squadra. Lo riferisce Mosaïque FM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque FM",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.mosaiquefm.net/ar/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/1534229/%D8%A7%D8%AA-%D9%81%D8%A7%D9%82-%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8-%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%86%D8%A7%D8%A8%D9%8A",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T18:04+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4c44bd7c",
+   "sez": "economia",
+   "titolo": "Studio sulle piccole imprese nel corridoio di Lobito",
+   "orig": "Etude prospective sur l’environnement des MPME dans le corridor de Lobito : Target invite les entrepreneurs à s’inscrire",
+   "lead": "Il cabinet Target Sarl conduce uno studio prospettico sulle microimprese e piccole medie imprese nelle città del corridoio di Lobito, incluse Lubumbashi, Kolwezi e Kipushi nella Repubblica Democratica del Congo. Lo riferisce Actualite.cd.",
+   "more": [
+    "Il corridoio di Lobito rappresenta un asse economico strategico di collegamento tra l'Africa centrale e l'Atlantico, coinvolgendo importanti centri industriali e minerari della RDC."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/21/etude-prospective-sur-lenvironnement-des-mpme-dans-le-corridor-de-lobito-target-invite",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-21T17:15+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2c21a10a",
+   "sez": "economia",
+   "titolo": "Nuovo direttore ARSP critica lo stato precedente dell'agenzia",
+   "orig": "Ted Beleshayi sur l'ARSP héritée de Miguel Kashal Katemb : « Nous passions pour des racketteurs »",
+   "lead": "Il direttore generale dell'Autorità di regolazione della subfornitura nel settore privato (ARSP) della RDC, Ted Beleshayi Kasanda, parla dello stato dell'istituzione ereditata dal predecessore, lamentando che l'agenzia era percepita come corrotta. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/21/ted-beleshayi-sur-larsp-heritee-de-miguel-kashal-katemb-nous-passions-pour-des",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-21T17:03+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zafb7fcc3",
+   "sez": "mondo",
+   "titolo": "AF Ufalya debutta vincendo 2-0 nella Ligue 1 congolese",
+   "orig": "Ligue 1 : l'AF Ufalya, solide vainqueur de New Jak FC",
+   "lead": "L'AF Ufalya ha debuttato nella stagione 2026 della Ligue 1 della RDC vincendo 2-0 contro New Jak FC allo stadio Tata Raphaël di Kinshasa nella prima giornata del campionato. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/21/ligue-1-laf-ufalya-solide-vainqueur-de-new-jak-fc",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-21T16:54+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z49228d33",
+   "sez": "mondo",
+   "titolo": "AS Étoile du Congo di Buta punta alle competizioni africane",
+   "orig": "Ligue 1: Auréolé d'un succès de prestige face au FC Les Aigles du Congo, l'AS Étoile du Congo de Buta vise une place africaine la saison prochaine",
+   "lead": "L'AS Étoile du Congo di Buta, della provincia orientale della RDC, punta a una qualificazione per le competizioni africane interclub nella prossima stagione dopo una vittoria prestigiosa contro il FC Les Aigles du Congo. Lo riferisce Actualite.cd.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/21/ligue-1-aureole-dun-succes-de-prestige-face-au-fc-les-aigles-du-congo-las-etoile-du",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-21T16:36+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z089d26b8",
+   "sez": "economia",
+   "titolo": "Arresto Araúz riaccende scandali all'Autorità Marittima di Panama",
+   "orig": "Aprehensión de Araúz revive escándalos en la AMP",
+   "lead": "L'arresto di Noriel Araúz, ex amministratore dell'Autorità Marittima di Panama (AMP), riaccende gli scandali che hanno colpito l'ente. La Corte dei Conti ha rilevato discrepanze tra i beni dichiarati e i movimenti finanziari. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/judicial/aprehension-de-arauz-revive-escandalos-en-la-amp-1263735",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z716a0c39",
+   "sez": "mondo",
+   "titolo": "Nuovo direttore Sistema Penitenziario promette trasparenza",
+   "orig": "Nuevo director del Sistema Penitenciario promete transparencia y cero tolerancia a la corrupción",
+   "lead": "Il nuovo direttore del Sistema Penitenziario di Panama promette trasparenza e tolleranza zero alla corruzione, operando secondo le direttive della ministra del Governo Dinoska Montalvo. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/nuevo-director-del-sistema-penitenciario-promete-transparencia-y-cero-tolerancia-la",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9eca4a31",
+   "sez": "mondo",
+   "titolo": "Workshop sulle comunità e bacini fluviali in Panama",
+   "orig": "Integrando comunidades con sus cuencas fluviales",
+   "lead": "Workshop con i residenti dei bacini fluviali dei fiumi Chiriquí Viejo, Chiriquí, Chico e Parita hanno permesso di comprendere la percezione dei rischi ambientali legati alle aree idrografiche. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/sociedad/integrando-comunidades-con-sus-cuencas-fluviales-1263757",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za29bbbc9",
+   "sez": "mondo",
+   "titolo": "Francia-Marocco, quarti Mondiale 2026 con precedenti storici",
+   "orig": "Francia-Marruecos, unos cuartos de final con cuentas pendientes",
+   "lead": "Francia e Marocco si contendono un posto in semifinale ai Mondiali 2026 in un quarto di finale caratterizzato da precedenti storici tra le due selezioni. Lo riferisce Panamá América.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Panamá América",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://www.panamaamerica.com.pa/deportes/francia-marruecos-unos-cuartos-de-final-con-cuentas-pendientes-1263742",
+     "angolo": "",
+     "atlas": "Panama"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z32121ab5",
+   "sez": "mondo",
+   "titolo": "Panama lancia prima immagine di marca nazionale unificata",
+   "orig": "Panama’s New Brand Host of the World.",
+   "lead": "Nel agosto 2026 Panama ha lanciato ufficialmente la sua prima immagine di marca nazionale unificata per proiettarsi come destinazione globale di affari e turismo. Lo riferisce Newsroom Panama.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/10/21/panama-as-the-host-of-the-entire-world-in-2026-and-2027/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-10-21T16:03+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z063eb6b7",
+   "sez": "mondo",
+   "titolo": "Candidato presidenziale capoverdiano rifiuta protezione poliziesca",
+   "orig": "Presidenciais 2026: Gilson Alves dispensa proteção policial",
+   "lead": "Il candidato presidenziale Gilson Alves ha rifiutato la protezione della polizia nazionale durante la campagna per le elezioni presidenziali 2026 di Capo Verde, asserendo di non avere fiducia nell'istituzione. Lo riferisce A Nação.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/21/presidenciais-2026-gilson-alves-dispensa-protecao-policial/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-21T17:04+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbc9c4fad",
+   "sez": "mondo",
+   "titolo": "Il Suriname, il trampolino storico della migrazione",
+   "orig": "Suriname, de eeuwige springplank",
+   "lead": "Secondo un rapporto della International Crest Foundation, il Suriname continua a fungere da punto di transito piuttosto che destinazione finale per molti migranti, una caratteristica consolidata nel profilo economico e sociale del paese. Lo riferisce De Ware Tijd.",
+   "more": [
+    "Il Suriname, ex colonia olandese sulla costa atlantica sudamericana, ha una lunga storia come punto di transito per i flussi migratori verso le Americhe."
+   ],
+   "fonti": [
+    {
+     "n": "De Ware Tijd",
+     "p": "XX",
+     "c": "Paramaribo",
+     "u": "https://dwtonline.com/suriname-de-eeuwige-springplank/",
+     "angolo": "",
+     "atlas": "Suriname",
+     "t": "2026-10-21T17:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze72c91ff",
+   "sez": "economia",
+   "titolo": "Bolivia intensifica controlli sulla distribuzione del gas liquefatto",
+   "orig": "YPFB intensifica operativos y alista un sistema georreferenciado para controlar la distribución de GLP",
+   "lead": "I Giacimenti Petroliferi Fiscali Boliviani (YPFB) hanno intensificato i controlli per contrastare l'accaparramento illegale, la speculazione e il dirottamento di bombole di gas di petrolio liquefatto, e stanno preparando un sistema di geolocalizzazione per controllare la distribuzione. Lo riferisce Opinión.",
+   "more": [
+    "La Bolivia è un grande produttore di gas naturale con significativi giacimenti, e la distribuzione del GLP per usi domestici è strategica per l'economia nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/ypfb-intensifica-operativos-alista-sistema-georreferenciado-controlar-distribucion-glp/20261021135203997972.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-21T13:52-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf6c098dd",
+   "sez": "mondo",
+   "titolo": "113 controllori aerei garantiscono sicurezza voli in Bolivia",
+   "orig": "NAABOL: 113 controladores aéreos brindan seguridad a cada vuelo en Bolivia",
+   "lead": "L'ente Navegación Aérea y Aeropuertos Bolivianos (NAABOL) impiega 113 controllori di traffico aereo per garantire la sicurezza delle operazioni aeree in Bolivia, coordinando il movimento degli aeromobili dal decollo all'arrivo in terminal. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/naabol-113-controladores-aereos-brindan-seguridad-cada-vuelo-bolivia/20261021133316997968.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-21T13:33-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zef856e7c",
+   "sez": "economia",
+   "titolo": "Bolivia denuncia corruzione nel settore energetico del gas",
+   "orig": "Gobierno denuncia desvío de garrafas de GLP en complicidad con YPFB, ANH y repartidores",
+   "lead": "Il ministro dei Combustibili boliviano Marcelo Blanco ha denunciato la complicità tra funzionari della YPFB, dell'Agenzia Nazionale dei Combustibili (ANH) e distributori nel dirottamento illegale di bombole di gas liquefatto. Lo riferisce Opinión.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/gobierno-denuncia-desvio-garrafas-glp-complicidad-ypfb-anh-repartidores/20261021121717997964.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-21T12:17-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6fccae09",
+   "sez": "tech",
+   "titolo": "Anthropic nomina ex decano Harvard al suo organo di supervisione",
+   "orig": "Anthropic adds former Harvard science dean to oversight body",
+   "lead": "La società Anthropic ha aggiunto alla sua struttura di supervisione un ex decano della facoltà di Scienze di Harvard, rafforzando la sua governance nel settore dell'intelligenza artificiale. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/anthropic-adds-former-harvard-science-dean-oversight-body-6479826",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-22T01:49+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z883eee16",
+   "sez": "mondo",
+   "titolo": "Svezia valuta restrizioni su visti per atleti russi e bielorussi",
+   "orig": "Sweden explores visa curbs on Russian, Belarusian athletes",
+   "lead": "La Svezia sta esplorando misure di restrizione sui visti per gli atleti russi e bielorussi, in risposta alle tensioni geopolitiche e alle sanzioni internazionali contro i due paesi. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/sweden-explores-visa-curbs-russian-belarusian-athletes-6479816",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-22T01:47+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z75801810",
+   "sez": "mondo",
+   "titolo": "PETA chiede al Crystal Palace di ritirare mascotte aquila calva",
+   "orig": "PETA urges Crystal Palace to retire bald eagle mascot Phoenix",
+   "lead": "L'organizzazione per i diritti degli animali PETA ha chiesto al club di calcio britannico Crystal Palace di ritirare la mascotte aquila calva denominata Phoenix, sollevando questioni etiche sul benessere animale. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/peta-urges-crystal-palace-retire-bald-eagle-mascot-phoenix-6479701",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-22T00:27+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf34531cb",
+   "sez": "mondo",
+   "titolo": "Russia disponibile a negoziati con Ucraina mediati da USA",
+   "orig": "La Russia ha detto di essere disposta a nuovi colloqui con l’Ucraina mediati dagli Stati Uniti: i più recenti risalgono a febbraio",
+   "lead": "La Russia ha dichiarato la disponibilità a riprendere negoziati con l'Ucraina con mediazione degli Stati Uniti, dopo che gli ultimi colloqui risalgono a febbraio 2026. Lo riferisce Il Post.",
+   "more": [
+    "I negoziati tra Russia e Ucraina rimangono al centro della diplomazia internazionale, con il coinvolgimento degli USA come potenziale mediatore."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/21/russia-disposta-nuovi-colloqui-ucraina/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T16:43+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z329e3c68",
+   "sez": "tech",
+   "titolo": "Scoperte due falle critiche in linguaggio usato dal 70% dei siti web",
+   "orig": "Sono state trovate due falle di sicurezza in un linguaggio di programmazione usato dal 70 per cento dei siti web",
+   "lead": "Sono state scoperte due vulnerabilità di sicurezza critiche in un linguaggio di programmazione utilizzato dal 70 per cento dei siti web, mettendo potenzialmente a rischio milioni di server e applicazioni globali. Lo riferisce Il Post.",
+   "more": [
+    "Le vulnerabilità nei linguaggi ampiamente utilizzati come PHP rappresentano rischi sistemici per l'infrastruttura informatica mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/21/internet-siti-offline-difetti-linguaggio-programmazione-php/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:57+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z38f6b40c",
+   "sez": "mondo",
+   "titolo": "Discussione su AGOA, commercio e autonomia economica africana",
+   "orig": "Watch – Ferial Haffajee and Ernst Roets on AGOA, crosses and autonomy",
+   "lead": "Daily Maverick presenta una discussione tra Ferial Haffajee ed Ernst Roets sull'African Growth and Opportunity Act (AGOA), sulle dinamiche del commercio africano e sulle sfide dell'autonomia economica continentale. Lo riferisce Daily Maverick.",
+   "more": [
+    "AGOA è il principale accordo commerciale tra Stati Uniti e paesi africani, essenziale per commercio e investimenti nel continente."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/video/2026-10-21-watch-ferial-haffajee-and-ernst-roets-on-agoa-crosses-and-autonomy/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z465c035d",
+   "sez": "mondo",
+   "titolo": "Presidente Uniko discute piani di risparmio universitario austriaco",
+   "orig": "Uniko-Präsidentin Hütter zu Unisparplänen im Studio",
+   "lead": "La presidente di Uniko, l'associazione universitaria austriaca, è intervenuta in studio per discutere i piani di risparmio e le misure di contenimento dei costi nel settore universitario austriaco. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445782/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-21T19:49+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5804f083",
+   "sez": "mondo",
+   "titolo": "Scrittore Clemens Setz premiato con Grande Stato Austriaco",
+   "orig": "Clemens Setz mit Großem Staatspreis ausgezeichnet",
+   "lead": "Lo scrittore austriaco Clemens Setz è stato premiato con il Grande Premio dello Stato austriaco per la cultura, riconoscimento della sua produzione letteraria e contributo alle lettere nazionali. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445781/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-21T18:49+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1ec6aff9",
+   "sez": "mondo",
+   "titolo": "Politica danese denuncia partecipante a programma scolastico",
+   "orig": "Pia Kjærsgaard politianmelder Højskolen-deltager Afrah al-Jabouri",
+   "lead": "La politica danese Pia Kjærsgaard ha denunciato Afrah al-Jabouri, partecipante a un programma di scuola superiore danese, in seguito a un contenzioso in ambito scolastico-politico. Lo riferisce DR Nyheder.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/pia-kjaersgaard-politianmelder-hoejskolen-deltager-afrah-al-jabouri",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-21T16:08+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z63d7a16c",
+   "sez": "mondo",
+   "titolo": "Creatura marina fuggita da canale artificiale in Corea del Sud",
+   "orig": "‘부캉이’ 인공수로 밖 탈출 일단 성공…외해 이동 여부는 “지켜봐야”",
+   "lead": "Una creatura marina ha tentato di fuggire da un canale artificiale in Corea del Sud, con l'esito ancora incerto riguardo la sua capacità di raggiungere il mare aperto e sopravvivere in libertà. Lo riferisce The Hankyoreh.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/area/yeongnam/1283561.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za0bdd537",
+   "sez": "mondo",
+   "titolo": "Corea del Nord completa fortificazioni e minaccia artiglieria sulla DMZ",
+   "orig": "북, 요새화 완성·DMZ 포병대 배치 엄포…남북 ‘강 대 강’ 우려",
+   "lead": "Corea del Nord ha completato le fortificazioni sulla Zona Demilitarizzata minacciando lo schieramento di artiglieria pesante. Le mosse nordcoreane alimentano i rischi di escalation e acuiscono i timori di scontro diretto tra i due paesi. Lo riferisce The Hankyoreh.",
+   "more": [
+    "La DMZ rimane una delle zone più militarizzate al mondo, separando i due paesi dal 1953. La crescente militarizzazione da entrambi i lati riflette le persistenti tensioni geopolitiche sulla penisola coreana."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/politics/defense/1283559.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaa8ecbec",
+   "sez": "mondo",
+   "titolo": "Kim Yo-jong minaccia di attivare altoparlanti verso il Sud entro il mese",
+   "orig": "김여정, MDL 시찰 뒤 “이달 중 대남확성기 전 국경서 가동”",
+   "lead": "Kim Yo-jong, sorella del leader supremo nordcoreano, ha minacciato di attivare gli altoparlanti di propaganda verso la Corea del Sud entro fine mese, dopo un'ispezione sulla Linea di Demarcazione Militare. L'escalation verbale riflette crescenti tensioni bilaterali. Lo riferisce The Hankyoreh.",
+   "more": [
+    "Gli altoparlanti ai confini sono stati a lungo strumento di propaganda tra i due stati. La loro riattivazione rappresenta un'escalation nelle tattiche di conflitto ibrido sulla penisola."
+   ],
+   "fonti": [
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/politics/defense/1283558.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7572ce85",
+   "sez": "mondo",
+   "titolo": "India e Australia avviano esercitazione militare congiunta nella capitale",
+   "orig": "India-Australia joint military exercise begins in capital",
+   "lead": "India e Australia hanno ufficialmente avviato una grande esercitazione militare congiunta nella capitale del paese, rafforzando in modo significativo il loro partenariato strategico di difesa congiunta. L'esercizio rappresenta la cooperazione militare crescente nell'Indo-Pacifico. Lo riferisce The Hindu.",
+   "more": [
+    "La collaborazione indo-australiana è parte della più ampia strategia Quad nel contesto della rivalità con la Cina nella regione Indo-Pacifica."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Thiruvananthapuram/india-australia-joint-military-exercise-begins-in-capital/article71608037.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T23:22+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf30fe806",
+   "sez": "mondo",
+   "titolo": "CMFRI avvia allevamento di cozze in mare aperto a Vizhinjam",
+   "orig": "CMFRI launches open-sea mussel longline farming unit at Vizhinjam",
+   "lead": "Il Central Marine Fisheries Research Institute ha ufficialmente lanciato un'unità di allevamento di cozze a longline in mare aperto a Vizhinjam, nel Kerala, promuovendo soluzioni innovative per l'acquacoltura sostenibile. L'iniziativa mira a diversificare la produzione ittica marina locale. Lo riferisce The Hindu.",
+   "more": [
+    "L'acquacoltura in mari aperti rappresenta una pratica innovativa per ridurre la pressione sugli ecosistemi costieri e aumentare la produttività della pesca."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Thiruvananthapuram/cmfri-launches-open-sea-mussel-longline-farming-unit-at-vizhinjam/article71608419.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T23:18+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb7fa5fc9",
+   "sez": "mondo",
+   "titolo": "Festival Dasara senza biglietti: il pubblico trova i suoi posti osservativi",
+   "orig": "No passes, no problem: Dasara fans find their vantage points",
+   "lead": "Durante il festival Dasara, con biglietti completamente esauriti, i fan hanno trovato molteplici punti alternativi per osservare le celebrazioni, dimostrando la straordinaria popolarità dell'evento culturale. La festa rimane uno dei festival indù più attesi dell'India meridionale. Lo riferisce The Hindu.",
+   "more": [
+    "Il Dasara è uno dei festival indù più importanti, celebrato con particolare solennità nell'India meridionale."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/karnataka/no-passes-no-problem-dasara-fans-find-their-vantage-points/article71608683.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T23:08+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbd24082a",
+   "sez": "mondo",
+   "titolo": "Leader CJP rilasciati su cauzione con divieto di proteste a Jantar Mantar",
+   "orig": "Rs 50k bond, no Jantar Mantar protests: What are the conditions of CJP leaders' release?",
+   "lead": "Leader dell'organizzazione CJP sono stati rilasciati su cauzione di 50 mila rupie con pesanti restrizioni imposte dal tribunale, tra cui il divieto di proteste a Jantar Mantar a Nuova Delhi. Le condizioni riflettono misure cautelari governative. Lo riferisce Times of India.",
+   "more": [
+    "Jantar Mantar è storicamente il luogo di proteste politiche a Nuova Delhi, spesso oggetto di restrizioni governative durante periodi di tensione."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/rs-50k-bond-no-jantar-mantar-protest-call-what-are-the-conditions-of-cjp-leaders-release/articleshow/135095991.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T21:25+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z489f1cbf",
+   "sez": "mondo",
+   "titolo": "Cinque rinviati a giudizio per attacco di matrice cinese a comico",
+   "orig": "Five indicted over China-linked attack on comedian",
+   "lead": "Cinque persone sono state rinviate a giudizio per un attacco violento legato a interessi cinesi contro un comico locale, in un episodio che evidenzia le crescenti tensioni geopolitiche su Taiwan. L'incidente sottolinea le pressioni esterne sull'isola. Lo riferisce Taipei Times.",
+   "more": [
+    "Taiwan affronta crescenti pressioni dalla Cina, che includono campagne di influenza ibrida e operazioni di sicurezza interna."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866402",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "za6059fca",
+   "sez": "mondo",
+   "titolo": "Autorità taiwanese blocca fusione tra Grab e Foodpanda",
+   "orig": "Regulator blocks Grab’s merger with Foodpanda",
+   "lead": "L'autorità di regolazione taiwanese ha ufficialmente bloccato la proposta di fusione tra le piattaforme di consegna Grab e Foodpanda, citando preoccupazioni significative sulla concorrenza e sulla concentrazione. La decisione riflette un approccio cauto verso le concentrazioni di mercato. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866403",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zebcf5a0d",
+   "sez": "mondo",
+   "titolo": "Esercito USA illustra piani di preparazione della First Island Chain",
+   "orig": "US Army details First Island Chain preparations",
+   "lead": "L'esercito statunitense ha illustrato piani molto dettagliati di preparazione e potenziamento per la First Island Chain, evidenziando la strategia statunitense di contenimento regionale nel Pacifico. Le operazioni militari riflettono le crescenti preoccupazioni USA sulla stabilità indo-pacifica. Lo riferisce Taipei Times.",
+   "more": [
+    "La First Island Chain, che include Taiwan e le Filippine, è considerata cruciale per la sicurezza strategica statunitense nell'Indo-Pacifico."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866404",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "z02fe083b",
+   "sez": "mondo",
+   "titolo": "Agenzia meteorologica taiwanese avverte massimi effetti della tempesta",
+   "orig": "CWA warns storm effect at top in next two days",
+   "lead": "L'agenzia meteorologica taiwanese ha emesso un avvertimento ufficiale per gli effetti massimi di una tempesta nei prossimi due giorni, invitando la popolazione all'allerta e alla preparazione completa. Le autorità consigliano misure di precauzione e massima cautela su tutta l'isola. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866405",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb909a27b",
+   "sez": "mondo",
+   "titolo": "Inviato Trump chiede a Putin di riprendere negoziati trilaterali",
+   "orig": "Trump envoy asks Putin to resume 3-way talks",
+   "lead": "Un inviato dell'amministrazione Trump ha chiesto al presidente russo Vladimir Putin di riprendere urgentemente i negoziati trilaterali, in un tentativo di riapertura del dialogo diplomatico tra le potenze. Il gesto rappresenta una possibile ricalibrazione della diplomazia americana. Lo riferisce Taipei Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866406",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb32ccc27",
+   "sez": "mondo",
+   "titolo": "Arabia Saudita avvia indagine su crollo serbatoio idrico a Gedda",
+   "orig": "Saudi Arabia orders probe into Jeddah water tank collapse",
+   "lead": "Le autorità saudite hanno ordinato un'inchiesta completa sul crollo di un grande serbatoio idrico nella città costiera di Gedda, che ha causato danni molto significativi alla zona. L'episodio ha sollevato questioni importanti sulla manutenzione delle infrastrutture critiche. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-orders-probe-into-jeddah-water-tank-collapse-1.500718922",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-21T21:38+04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb8288deb",
+   "sez": "mondo",
+   "titolo": "Arabia Saudita avverte di forti temporali e alluvioni fino a lunedì",
+   "orig": "Saudi Arabia warns of heavy thunderstorms and flash floods until Monday",
+   "lead": "L'Arabia Saudita ha emesso un solenne avvertimento meteorologico nazionale di grave pericolo per forti temporali e alluvioni lampo fino a lunedì, interessando molteplici regioni del regno. Le autorità invitano la popolazione alla massima cautela e a misure preventive. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-warns-of-heavy-thunderstorms-and-flash-floods-until-monday-1.500718784",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-21T20:50+04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze8e25eb7",
+   "sez": "mondo",
+   "titolo": "Ambasciata indiana chiude 4 centri passaporti negli Emirati",
+   "orig": "Major passport update for Indian expats in UAE: Embassy closes 4 centres, keeps 12 open",
+   "lead": "L'ambasciata dell'India ha annunciato la chiusura di quattro centri di servizio passaporti negli Emirati Arabi Uniti, mantenendo invece operative dodici sedi nei principali centri commerciali. Il cambio riguarda l'ottimizzazione della gestione dei servizi consolari per la comunità. Lo riferisce Gulf News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/major-passport-update-for-indian-expats-in-uae-embassy-closes-4-centres-keeps-12-open-1.500718880",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-10-21T20:30+04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb4020563",
+   "sez": "mondo",
+   "titolo": "Kansai Paint raddoppia produzione verniciature automotive in India",
+   "orig": "Japan's Kansai Paint to double India automotive coating output",
+   "lead": "L'azienda giapponese Kansai Paint ha ufficialmente annunciato il raddoppio della capacità produttiva di rivestimenti automobilistici in India, segnalando grande fiducia nel mercato automobilistico indiano in espansione. L'investimento strategico riflette la crescita significativa del settore automotive. Lo riferisce Nikkei Asia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/business/companies/japan-s-kansai-paint-to-double-india-automotive-coating-output",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "20:39",
+   "uscita": "sera"
+  },
+  {
    "id": "z4033c0fe",
    "sez": "mondo",
    "titolo": "Ghana, ostacoli infrastrutturali frenano lo sviluppo immobiliare",
@@ -14450,6 +15924,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-21T16:55+02:00"
+    },
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/fire-saaret-i-eksplosion-i-athen",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-21T17:38+00:00"
     }
    ],
    "data": "21 ott",
@@ -19680,6 +21163,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "South Africa",
      "t": "2026-10-21T14:28+00:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/sante-publique-plus-de-400-malades-a-tshwane-en-afrique-du-sud-leau-du-robinet-interdite-a-la-consommation",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-21T15:37+00:00"
     }
    ],
    "data": "21 ott",
@@ -29842,7 +31334,73 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z7bf465d4": "Lefaso.net valorizza il riconoscimento della Santa Sede verso un teologo e sacerdote africano di rilievo internazionale.",
   "z5cfa2e11": "Lefaso.net riferisce l'agenda di governo burkiabè per il consolidamento della governance fiscale e della gestione finanziaria.",
   "za1be5e4f": "Lefaso.net copre l'impegno della politecnica burkinabè nell'articolazione fra formazione accademica e applicazione industriale.",
-  "z090beb6c": "Diari d'Andorra riporta le misure del governo per affrontare la domanda di manodopera della stagione turistica invernale."
+  "z090beb6c": "Diari d'Andorra riporta le misure del governo per affrontare la domanda di manodopera della stagione turistica invernale.",
+  "zf3ea8a31": "La testata presenta l'aumento come una misura equilibrata tra costi familiari e sostegno pubblico.",
+  "zcf8cafd2": "La testata enfatizza l'apertura governativa verso soluzioni alternative, pur riconoscendo i vincoli ancora presenti.",
+  "zcb9b6674": "La testata dà voce alle critiche della minoranza sulla trasparenza amministrativa del progetto.",
+  "zb8a5acee": "La testata presenta la mossa come una rottura definitiva in ambito politico-amministrativo.",
+  "zf3057002": "La testata mette in luce i progressi del settore verde senegalese nel contesto subregionale.",
+  "z46692c05": "La testata riferisce l'operazione antidroga come un successo della repressione.",
+  "z7c4eacd0": "La testata enfatizza il ruolo delle donne come soggetti attivi nel progetto di sviluppo agricolo.",
+  "z3984ccae": "La testata presenta l'operazione di controllo come importante strumento di tutela dei consumatori.",
+  "z3b163238": "La testata evidenzia l'impegno delle autorità locali nel gestire tensioni sociali storiche della regione.",
+  "z7a80d00d": "La testata dà voce alle critiche della società civile sulla trasparenza amministrativa.",
+  "za2184653": "La testata riporta il commento del leader americano sulla situazione politica francese.",
+  "z5939eeca": "La testata evidenzia gli investimenti in infrastrutture energetiche per lo sviluppo industriale.",
+  "z87b29630": "La testata segnala il completamento di un'infrastruttura stradale nel processo di modernizzazione della rete viaria beninese.",
+  "z163adc3c": "La testata evidenzia la cooperazione educativa tra Guinea e Russia.",
+  "z4cb76384": "La testata presenta il lancio come misura di modernizzazione dell'istituzione parlamentare.",
+  "z01f11cfb": "La testata evidenzia il riconoscimento alla leadership femminile nel contesto sportivo internazionale.",
+  "zdb9ed638": "La testata evidenzia l'applicazione della legge sul rispetto dei simboli nazionali.",
+  "z49730b65": "La testata riporta un'azione amministrativa del governo con nota sulla tempistica.",
+  "zde47390f": "La testata riferisce azioni di protesta politica del partito di opposizione.",
+  "z11ccb9e7": "La testata riferisce l'escalation della questione dei blogger a livello continentale.",
+  "zd5cb0689": "La testata evidenzia un'azione di tutela ambientale e normativa comunale.",
+  "zcd1cb7b3": "La testata presenta l'azione ispettiva come parte di uno sforzo di regolamentazione settoriale.",
+  "za982aff9": "La testata evidenzia il divario tra domanda di lavoro e offerta nel settore pubblico sanitario.",
+  "za1a7ac0e": "La testata presenta l'evento come momento importante per il dialogo industriale strategico.",
+  "z4376022a": "La testata tunisina riferisce dell'ampliamento infrastrutturale dello scalo principale.",
+  "z40f3d71b": "La testata tunisina annuncia la sede dell'incontro calcistico internazionale.",
+  "z5860102f": "La testata tunisina anticipa la firma dell'allenatore con il club marocchino.",
+  "z4c44bd7c": "La testata congolese riporta l'indagine sulle piccole imprese del corridoio economico.",
+  "z2c21a10a": "La testata congolese riferisce le critiche del nuovo direttore all'operato precedente.",
+  "zafb7fcc3": "La testata congolese riporta l'esordio vincente della squadra nel campionato locale.",
+  "z49228d33": "La testata congolese riferisce gli obiettivi ambiziosi della squadra locale.",
+  "z089d26b8": "La testata panamense riferisce lo scandalo finanziario dell'ex amministratore.",
+  "z716a0c39": "La testata panamense riporta gli impegni del nuovo vertice dell'ente penitenziario.",
+  "z9eca4a31": "La testata panamense riporta i lavori di coinvolgimento comunitario sui bacini fluviali.",
+  "za29bbbc9": "La testata panamense riferisce la sfida di quarti del Mondiale 2026.",
+  "z32121ab5": "La testata panamense riferisce il lancio della nuova strategia di branding nazionale.",
+  "z063eb6b7": "La testata capoverdiana riferisce la decisione del candidato di rifiutare la protezione.",
+  "zbc9c4fad": "La testata surinamense offre uno sguardo critico al ruolo del paese come trampolino migratorio.",
+  "ze72c91ff": "La testata boliviana riferisce le misure della YPFB contro la distribuzione illegale.",
+  "zf6c098dd": "La testata boliviana riferisce le risorse umane dedicate alla sicurezza aerea.",
+  "zef856e7c": "La testata boliviana riferisce l'accusa governativa di corruzione nel settore energetico.",
+  "z6fccae09": "L'agenzia CNA riferisce il rafforzamento della governance di Anthropic.",
+  "z883eee16": "L'agenzia CNA riferisce la valutazione svedese di restrizioni su atleti di paesi rivali.",
+  "z75801810": "L'agenzia CNA riferisce l'istanza dell'organizzazione animalista nei confronti del club.",
+  "zf34531cb": "Il Post italiano riferisce la posizione diplomatica della Russia sui negoziati.",
+  "z329e3c68": "Il Post italiano riporta un rischio critico di sicurezza informatica su scala globale.",
+  "z38f6b40c": "La testata sudafricana offre un dibattito su AGOA e le dinamiche economiche africane.",
+  "z465c035d": "L'emittente austriaca riferisce il commento della presidente su politiche universitarie.",
+  "z5804f083": "L'emittente austriaca riferisce il riconoscimento culturale al letterato.",
+  "z1ec6aff9": "L'emittente danese riferisce il contenzioso politico-scolastico.",
+  "z63d7a16c": "Il giornale sudcoreano riferisce l'evento relativo alla vita marina.",
+  "za0bdd537": "The Hankyoreh offre una prospettiva sudcoreana sui movimenti militari nordcoreani, focalizzandosi sui rischi di escalation regionale.",
+  "zaa8ecbec": "The Hankyoreh riporta le dichiarazioni provocatorie della leadership nordcoreana con focus su implicazioni regionali.",
+  "z7572ce85": "The Hindu mette in rilievo gli sviluppi della cooperazione militare indo-australiana con prospettiva indiana.",
+  "zf30fe806": "The Hindu evidenzia le iniziative locali di ricerca marina e sviluppo sostenibile della pesca in Kerala.",
+  "zb7fa5fc9": "The Hindu offre una prospettiva leggera sulla partecipazione popolare ai festeggiamenti del Dasara.",
+  "zbd24082a": "Times of India riferisce sui termini della liberazione di leader di protesta con enfasi sulle restrizioni imposte.",
+  "z489f1cbf": "Taipei Times copre i crimini di matrice geopolitica, sottolineando i conflitti indo-pacifici.",
+  "za6059fca": "Taipei Times mette in rilievo le decisioni antitrust taiwanese con focus su tutela della concorrenza nel mercato digitale.",
+  "zebcf5a0d": "Taipei Times copre gli sviluppi della strategia militare USA con enfasi sulle implicazioni regionali per Taiwan.",
+  "z02fe083b": "Taipei Times riporta i bollettini meteorologici con enfasi sulla preparazione civile ai fenomeni avversi.",
+  "zb909a27b": "Taipei Times copre gli sviluppi diplomatici globali, riferendo su iniziative negoziali russo-americane.",
+  "zb32ccc27": "Gulf News riferisce su incidenti infrastrutturali in Arabia Saudita con focus su responsabilità amministrativa.",
+  "zb8288deb": "Gulf News riporta i bollettini meteorologici sauditi con enfasi sulla preparazione civile.",
+  "ze8e25eb7": "Gulf News copre i cambiamenti nei servizi consolari con focus su implicazioni per la comunità indiana negli Emirati.",
+  "zb4020563": "Nikkei Asia mette in rilievo gli investimenti giapponesi nel mercato indiano con focus su settori strategici."
  },
  "contesti": {
   "z247a9c3a": "Il Papa era stato operato martedì scorso al Policlinico Gemelli, intervento durante il quale è stato scoperto il tumore polmonare. Nei giorni seguenti ha ripreso gradualmente alcune attività pubbliche, apparendo in piazza San Pietro a bordo della papamobile e tenendo la prima udienza generale dopo l'operazione.",
@@ -38472,6 +40030,465 @@ window.EDIZIONI["2026-10-21-sera"] = {
     "Andorra"
    ],
    "pt": []
+  },
+  "zf3ea8a31": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zcf8cafd2": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zcb9b6674": {
+   "n": "Massana",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zb8a5acee": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zf3057002": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z46692c05": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z7c4eacd0": {
+   "n": "Pala",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z3984ccae": {
+   "n": "N'Djamena",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z3b163238": {
+   "n": "Ardo",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "z7a80d00d": {
+   "n": "Yaoundé",
+   "p": [
+    "Cameroon"
+   ],
+   "pt": []
+  },
+  "za2184653": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z5939eeca": {
+   "n": "Cotonou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z87b29630": {
+   "n": "Kétou",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z163adc3c": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z4cb76384": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z01f11cfb": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zdb9ed638": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z49730b65": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "zde47390f": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "z11ccb9e7": {
+   "n": "Nouakchott",
+   "p": [
+    "Mauritania"
+   ],
+   "pt": []
+  },
+  "zd5cb0689": {
+   "n": "Paul",
+   "p": [],
+   "pt": []
+  },
+  "zcd1cb7b3": {
+   "n": "Sal",
+   "p": [],
+   "pt": []
+  },
+  "za982aff9": {
+   "n": "Luanda",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "za1a7ac0e": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z4376022a": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z40f3d71b": {
+   "n": "Sousse",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z5860102f": {
+   "n": "Casablanca",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z4c44bd7c": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z2c21a10a": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zafb7fcc3": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z49228d33": {
+   "n": "Buta",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z089d26b8": {
+   "n": "Ciudad de Panamá",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z716a0c39": {
+   "n": "Ciudad de Panamá",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z9eca4a31": {
+   "n": "Ciudad de Panamá",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "za29bbbc9": {
+   "n": "World",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z32121ab5": {
+   "n": "Ciudad de Panamá",
+   "p": [
+    "Panama"
+   ],
+   "pt": []
+  },
+  "z063eb6b7": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
+  },
+  "zbc9c4fad": {
+   "n": "Paramaribo",
+   "p": [
+    "Suriname"
+   ],
+   "pt": []
+  },
+  "ze72c91ff": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zf6c098dd": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zef856e7c": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z6fccae09": {
+   "n": "San Francisco",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z883eee16": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z75801810": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf34531cb": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z329e3c68": {
+   "n": "Global",
+   "p": [],
+   "pt": []
+  },
+  "z38f6b40c": {
+   "n": "Città del Capo",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z465c035d": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z5804f083": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z1ec6aff9": {
+   "n": "Copenaghen",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z63d7a16c": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "za0bdd537": {
+   "n": "Zona Demilitarizzata",
+   "p": [
+    "North Korea",
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zaa8ecbec": {
+   "n": "Linea di Demarcazione Militare",
+   "p": [
+    "North Korea",
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z7572ce85": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zf30fe806": {
+   "n": "Vizhinjam",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zb7fa5fc9": {
+   "n": "India meridionale",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zbd24082a": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z489f1cbf": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "za6059fca": {
+   "n": "Taipei",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zebcf5a0d": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z02fe083b": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zb909a27b": {
+   "n": "Russia",
+   "p": [
+    "Russia",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb32ccc27": {
+   "n": "Gedda",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zb8288deb": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "ze8e25eb7": {
+   "n": "Emirati Arabi Uniti",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zb4020563": {
+   "n": "India",
+   "p": [
+    "India",
+    "Japan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -38841,7 +40858,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z3d8f438e": 1,
   "z6e2822e1": 1,
   "z5b35f6c6": 1,
-  "z6dd1cc21": 1,
+  "z6dd1cc21": 2,
   "z2d0529c4": 1,
   "z83c47331": 1,
   "zd561368f": 1,
@@ -39123,7 +41140,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z977db4c3": 1,
   "zc304e39c": 1,
   "ze232fe63": 1,
-  "z8f5abb0a": 1,
+  "z8f5abb0a": 2,
   "zd7588dd9": 1,
   "z040a6e97": 1,
   "z9360ddab": 1,
@@ -39591,7 +41608,73 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z7bf465d4": 1,
   "z5cfa2e11": 1,
   "za1be5e4f": 1,
-  "z090beb6c": 1
+  "z090beb6c": 1,
+  "zf3ea8a31": 1,
+  "zcf8cafd2": 1,
+  "zcb9b6674": 1,
+  "zb8a5acee": 1,
+  "zf3057002": 1,
+  "z46692c05": 1,
+  "z7c4eacd0": 1,
+  "z3984ccae": 1,
+  "z3b163238": 1,
+  "z7a80d00d": 1,
+  "za2184653": 1,
+  "z5939eeca": 1,
+  "z87b29630": 1,
+  "z163adc3c": 1,
+  "z4cb76384": 1,
+  "z01f11cfb": 1,
+  "zdb9ed638": 1,
+  "z49730b65": 1,
+  "zde47390f": 1,
+  "z11ccb9e7": 1,
+  "zd5cb0689": 1,
+  "zcd1cb7b3": 1,
+  "za982aff9": 1,
+  "za1a7ac0e": 1,
+  "z4376022a": 1,
+  "z40f3d71b": 1,
+  "z5860102f": 1,
+  "z4c44bd7c": 1,
+  "z2c21a10a": 1,
+  "zafb7fcc3": 1,
+  "z49228d33": 1,
+  "z089d26b8": 1,
+  "z716a0c39": 1,
+  "z9eca4a31": 1,
+  "za29bbbc9": 1,
+  "z32121ab5": 1,
+  "z063eb6b7": 1,
+  "zbc9c4fad": 1,
+  "ze72c91ff": 1,
+  "zf6c098dd": 1,
+  "zef856e7c": 1,
+  "z6fccae09": 1,
+  "z883eee16": 1,
+  "z75801810": 1,
+  "zf34531cb": 1,
+  "z329e3c68": 1,
+  "z38f6b40c": 1,
+  "z465c035d": 1,
+  "z5804f083": 1,
+  "z1ec6aff9": 1,
+  "z63d7a16c": 1,
+  "za0bdd537": 1,
+  "zaa8ecbec": 1,
+  "z7572ce85": 1,
+  "zf30fe806": 1,
+  "zb7fa5fc9": 1,
+  "zbd24082a": 1,
+  "z489f1cbf": 1,
+  "za6059fca": 1,
+  "zebcf5a0d": 1,
+  "z02fe083b": 1,
+  "zb909a27b": 1,
+  "zb32ccc27": 1,
+  "zb8288deb": 1,
+  "ze8e25eb7": 1,
+  "zb4020563": 1
  },
  "video": {},
  "pillole": []
