@@ -491,28 +491,6 @@ window.EDIZIONI["2026-10-21"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zb35f6c70",
-   "sez": "mondo",
-   "titolo": "Disordini a Milano: Meloni invia 500 soldati per ristabilire l'ordine pubblico",
-   "orig": "Milan riots test Meloni’s law and order credentials",
-   "lead": "In seguito alle violenze urbane e ai saccheggi perpetrati da gruppi di giovani nella capitale finanziaria italiana, il governo guidato dalla premier Giorgia Meloni ha disposto l'invio immediato di 500 militari per fronteggiare l'emergenza di sicurezza. Lo riferisce Financial Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/4e402323-c3f8-4aa6-9eba-0c8c9e478b4a?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-21T04:00+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "07:42",
-   "uscita": "mattino"
-  },
-  {
    "id": "zb1213e72",
    "sez": "mondo",
    "titolo": "Banca d'Inghilterra: la nuova strategia quinquennale della vigilanza bancaria",
@@ -2158,7 +2136,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "zc532dda6",
-   "sez": "economia",
+   "sez": "tech",
    "titolo": "Rapid KL sperimenta furgoni feeder a orario fisso a Cheras e Putrajaya",
    "orig": "Rapid KL trials fixed-schedule feeder vans in Cheras and Putrajaya, ditching app bookings",
    "lead": "Il servizio di trasporto pubblico di Kuala Lumpur ha avviato una fase di sperimentazione per introdurre furgoni di collegamento a orario fisso nelle aree di Cheras e Putrajaya, superando il precedente sistema di prenotazione tramite applicazione digitale. Lo riferisce Malay Mail.",
@@ -4034,7 +4012,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "zfa070513",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Petrolio Brent a 110 dollari, restano alte le tariffe energetiche",
    "orig": "Πετρέλαιο Brent στα 110 δολάρια – Σε υψηλά επίπεδα οι τιμές ρεύματος και φυσικού αερίου",
    "lead": "I mercati energetici registrano prezzi elevati con il greggio Brent stabile intorno ai 110 dollari al barile, mentre la quotazione all'ingrosso dell'energia elettrica si attesta a circa 240 euro a megawattora insieme a costi elevati del gas naturale. Lo riferisce ERT News.",
@@ -4246,6 +4224,15 @@ window.EDIZIONI["2026-10-21"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-10-20T21:34+00:00"
+    },
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/kulfold/2026/10/21/oroszorszag-ukrajna-zelenszkij-hadsereg-hirszerzesi-adatok",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-10-21T07:19+02:00"
     }
    ],
    "data": "20 ott",
@@ -4451,28 +4438,6 @@ window.EDIZIONI["2026-10-21"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z1ffc7e28",
-   "sez": "mondo",
-   "titolo": "L'Ucraina torna a ricevere dati di intelligence dagli Stati Uniti sugli attacchi missilistici russi",
-   "orig": "Ukrajna visszakapta a hozzáférést az amerikai hírszerzési adatokhoz az orosz rakétatámadásokról",
-   "lead": "L'Ucraina ha riottenuto l'accesso ai dati di intelligence americani relativi agli attacchi missilistici russi, una misura definita dal presidente Volodymyr Zelensky come fondamentale per salvare vite umane. Lo riferisce Telex English.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Telex English",
-     "p": "XX",
-     "c": "Budapest",
-     "u": "https://telex.hu/kulfold/2026/10/21/oroszorszag-ukrajna-zelenszkij-hadsereg-hirszerzesi-adatok",
-     "angolo": "",
-     "atlas": "Hungary",
-     "t": "2026-10-21T07:19+02:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "07:41",
-   "uscita": "mattino"
-  },
-  {
    "id": "zfd809163",
    "sez": "mondo",
    "titolo": "Arrivano piogge e maltempo: previste precipitazioni da mercoledì pomeriggio fino a giovedì",
@@ -4510,28 +4475,6 @@ window.EDIZIONI["2026-10-21"] = {
      "angolo": "",
      "atlas": "Hungary",
      "t": "2026-10-21T05:06+02:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "07:41",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z3691f8d2",
-   "sez": "mondo",
-   "titolo": "Elon Musk rallenta la rete Starshield in Ucraina paralizzando temporaneamente i droni di Kiev",
-   "orig": "Decizia lui Elon Musk care a luat Ucraina prin surprindere. Ordinul de limitare a rețelei Starshield a venit de la cel mai bogat om al lumii",
-   "lead": "Elon Musk ha ordinato di limitare la velocità di connessione della rete satellitare Starshield in Ucraina, paralizzando temporaneamente l'operatività dei droni militari di Kiev. La mossa ha colto di sorpresa la leadership ucraina e generato confusione nell'amministrazione Trump. Lo riferisce HotNews.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/drone-ucraina-elon-musk-starshield-administratia-trump-2382067",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-21T04:41+00:00"
     }
    ],
    "data": "21 ott",
@@ -4804,7 +4747,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "z0b15af03",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Shock cinese 2.0: le strategie per proteggere l'industria europea dalla concorrenza asiatica e dai sussidi",
    "orig": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
    "lead": "La crescente pressione commerciale esercitata dalla Cina e l'uso massiccio di sussidi statali mettono a rischio le aziende europee. Gli esperti evidenziano come l'imposizione di dazi doganali più alti non basti da sola a difendere l'economia comunitaria. Lo riferisce Tagesschau.",
@@ -4826,7 +4769,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "z4ed0583c",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Giappone: deficit commerciale di 3,02 miliardi di euro a settembre per via del caro petrolio",
    "orig": "Japão regista défice comercial de 3,02 mil milhões de euros em setembro",
    "lead": "Nel mese di settembre il Giappone ha registrato un deficit commerciale pari a 536,5 miliardi di yen (circa 3,02 miliardi di euro), segnando il quinto mese consecutivo in territorio negativo a causa dell'aumento dei prezzi internazionali del petrolio. Lo riferisce RTP.",
@@ -4846,29 +4789,8 @@ window.EDIZIONI["2026-10-21"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zdd34d9f3",
-   "sez": "mondo",
-   "titolo": "La FAA statunitense certifica il Boeing 737 MAX 10 dopo tre anni di ritardo",
-   "orig": "Reguladora dos EUA certifica novo avião da Boeing após três anos de atraso",
-   "lead": "L'ente federale per l'aviazione civile degli Stati Uniti (FAA) ha ufficialmente approvato il trasporto passeggeri sul 737 MAX 10, il velivolo più grande della Boeing, ponendo fine a un blocco durato tre anni. Lo riferisce RTP.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/economia/reguladora-dos-eua-certifica-novo-aviao-da-boeing-apos-tres-anos-de-atraso_n1773110",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
-   "ora": "07:41",
-   "uscita": "mattino"
-  },
-  {
    "id": "z0e2f28af",
-   "sez": "mondo",
+   "sez": "organizzazioni",
    "titolo": "L'ONU lancia una nuova iniziativa per regolamentare gli usi militari dell'intelligenza artificiale",
    "orig": "Nova iniciativa da ONU visa abordar usos militares da IA",
    "lead": "Le Nazioni Unite hanno avviato un programma inedito focalizzato sull'impiego militare dell'intelligenza artificiale, con l'obiettivo di fronteggiare i crescenti timori per i rischi che lo sviluppo tecnologico rappresenta per l'umanità. Lo riferisce RTP.",
@@ -5264,7 +5186,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "za10452df",
-   "sez": "tech",
+   "sez": "spazio",
    "titolo": "Arrivano le Orionidi, le stelle cadenti d'autunno: quando e come osservare il picco tra il 21 e il 22 ottobre",
    "orig": "Arrivano le Orionidi, le “stelle cadenti d’autunno”: quando e come vedere il picco del 21-22 ottobre",
    "lead": "Nella notte tra il 21 e il 22 ottobre gli osservatori del cielo potranno assistere al picco massimo dello sciame meteorico delle Orionidi, le celebri stelle cadenti generate dai residui detritici lasciati dal passaggio della cometa di Halley. Gli esperti stimano l'arrivo di un numero di meteore fino a venti unità all'ora, visibili provenire apparentemente dalla direzione della costellazione di Orione. Lo riferisce Geopop.",
@@ -5647,7 +5569,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "z253acd3a",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "L'ensemble Entropía in concerto al Centro de Arte Moderno di Caracas per le Noches de Guataca",
    "orig": "El ensamble Entropía ofrecerá una presentación en “Noches de Guataca” en el Centro de Arte Moderno de Caracas",
    "lead": "La formazione musicale Entropía terrà un'esibizione dal vivo nell'ambito della rassegna 'Noches de Guataca', ospitata presso il Centro de Arte Moderno di Caracas. Il gruppo, vincitore del concorso Next Generation Jazz, presenterà al pubblico la propria proposta artistica basata sulla fusione tra il jazz e le sonorità della musica tradizionale venezuelana. Lo riferisce El Nacional.",
@@ -5719,7 +5641,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "z1b9a1bbf",
-   "sez": "ingegneria",
+   "sez": "tech",
    "titolo": "Leica collabora con la Formula 1 per una versione speciale della fotocamera digitale Q3 45",
    "orig": "Leica teams up with Formula 1 to create a special edition of the Leica Q3 45 digital camera",
    "lead": "Il marchio fotografico Leica ha unito le forze con la Formula 1 per realizzare un'edizione speciale della sua fotocamera digitale Leica Q3 45. Il nuovo modello è pensato specificamente per i fotografi attenti allo stile attivi lungo la pit-lane, caratterizzandosi per finiture estetiche tecnologiche avanzate e un posizionamento di prezzo adeguato al prestigio della collaborazione. Lo riferisce Wallpaper*.",
@@ -5834,6 +5756,15 @@ window.EDIZIONI["2026-10-21"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-21T01:52+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/drone-ucraina-elon-musk-starshield-administratia-trump-2382067",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-21T04:41+00:00"
     }
    ],
    "data": "21 ott",
@@ -5914,7 +5845,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "zdf02b29e",
-   "sez": "cultura",
+   "sez": "tech",
    "titolo": "I 100 volti del Burkina digitale: Ben Idriss Coulibaly, dalla voce dei clienti alla vetrina digitale delle telecomunicazioni",
    "orig": "Les 100 Visages du Burkina Digital : Ben Idriss Coulibaly, de la voix des clients à la vitrine numérique des télécoms",
    "lead": "Nell'ambito della rassegna dedicata ai protagonisti della trasformazione digitale del Burkina Faso, viene evidenziato il percorso di Ben Idriss Coulibaly. Con un'esperienza di circa vent'anni nel settore delle telecomunicazioni, il professionista della comunicazione digitale e webmaster dimostra come l'esperienza maturata nella gestione delle relazioni con i clienti possa trasformarsi in un fattore strategico per accompagnare l'innovazione tecnologica. Lo riferisce Lefaso.net.",
@@ -8249,6 +8180,14 @@ window.EDIZIONI["2026-10-21"] = {
      "angolo": "",
      "atlas": "Luxembourg",
      "t": "2026-10-21T04:50+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/reguladora-dos-eua-certifica-novo-aviao-da-boeing-apos-tres-anos-de-atraso_n1773110",
+     "angolo": "",
+     "atlas": "Portugal"
     }
    ],
    "data": "21 ott",
@@ -8550,7 +8489,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "z58fc457b",
-   "sez": "musica",
+   "sez": "cucina",
    "titolo": "La storia di Nikka e la nascita di due whisky scozzesi inediti da quarant'anni",
    "orig": "L’incredibile storia di Nikka, e di un whisky che non tornerà più",
    "lead": "Le vicende che hanno portato alla creazione del marchio Nikka affondano le radici in un percorso singolare che unisce la Scozia al Giappone, passando attraverso una storia familiare e imprenditoriale inattesa. Partendo da un fondatore giapponese trasferitosi in Scozia, una moglie scozzese e un'attività iniziale legata alla vendita di succo di mela, l'azienda è giunta a realizzare due rare bottiglie di whisky invecchiate quarant'anni e mai viste prima. Lo riferisce Rolling Stone Italia.",
@@ -10509,7 +10448,7 @@ window.EDIZIONI["2026-10-21"] = {
   },
   {
    "id": "z66d514f2",
-   "sez": "cultura",
+   "sez": "tech",
    "titolo": "La risposta e i suggerimenti per il gioco Wordle numero 1940 del 21 ottobre",
    "orig": "Today’s Wordle answer and hints for #1940 on October 21",
    "lead": "La testata britannica NME ha pubblicato la soluzione e i suggerimenti utili per risolvere il popolare gioco di parole online Wordle in occasione dell'edizione numero 1940 del 21 ottobre, offrendo ai lettori un aiuto per non perdere la propria serie di vittorie consecutive. Lo riferisce NME.",
@@ -10885,6 +10824,15 @@ window.EDIZIONI["2026-10-21"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-20T22:08+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/4e402323-c3f8-4aa6-9eba-0c8c9e478b4a?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T04:00+00:00"
     }
    ],
    "data": "21 ott",
@@ -11570,10 +11518,8 @@ window.EDIZIONI["2026-10-21"] = {
   "zff2dc36e": "Reazione politica polacca alle polemiche internazionali sulla gestione della missione afghana.",
   "zadd319a4": "Cronaca politica locale sudafricana in vista delle elezioni amministrative.",
   "z6bb6398e": "Reportage culturale e archeologico sulle scoperte storiche in Asia centrale.",
-  "z1ffc7e28": "La testata evidenzia l'impatto vitale della riattivazione dei flussi informativi per la difesa ucraina.",
   "zfd809163": "L'articolo fornisce previsioni meteorologiche di servizio per la cittadinanza.",
   "zc104a6ff": "La testata analizza la rappresentanza di genere attraverso sondaggi demoscopici e pareri accademici.",
-  "z3691f8d2": "La testata evidenzia l'impatto geopolitico e militare delle decisioni unilaterali del miliardario sulla gestione del conflitto.",
   "z320131b8": "La testata punta i riflettori sulla cattiva gestione amministrativa e sulle responsabilità istituzionali.",
   "z50a6825a": "La testata focalizza l'attenzione sulla crisi ecologica locale e sulle scadenze di pianificazione ambientale.",
   "zb12331df": "La testata segue con trasparenza le dinamiche societarie e gli assetti proprietari del gruppo editoriale.",
@@ -11588,7 +11534,6 @@ window.EDIZIONI["2026-10-21"] = {
   "zee9d5a42": "La testata segue la risposta repressiva e giudiziaria dello Stato di fronte alla microcriminalità e alle sommosse.",
   "z0b15af03": "La testata analizza le sfide macroeconomiche dell'Unione Europea di fronte alla concorrenza industriale asiatica.",
   "z4ed0583c": "La testata riporta i dati economici ufficiali sulla bilancia commerciale nipponica.",
-  "zdd34d9f3": "La testata monitora il settore dell'aeronautica civile e le certificazioni dei grandi produttori.",
   "z0e2f28af": "La testata si concentra sui temi globali di sicurezza tecnologica e governance internazionale.",
   "z8b8d5eb9": "La testata solleva un dibattito etico sull'uso della tecnologia da parte dei politici nelle istituzioni.",
   "z2bc06331": "La testata documenta la giustizia internazionale sui reati di traffico di esseri umani e le pene inflitte.",
@@ -11611,7 +11556,6 @@ window.EDIZIONI["2026-10-21"] = {
   "z25cca6a9": "Il resoconto sottolinea le politiche minerarie e la cooperazione economica nell'Africa subsahariana.",
   "za13da71b": "La testata analizza i rischi politici ed economici legati alle divergenze sulla gestione finanziaria dello Stato.",
   "z1888e17c": "Il servizio illustra l'avanzamento dei preparativi logistici e di sicurezza per un grande evento sportivo internazionale.",
-  "zb35f6c70": "Il quotidiano finanziario britannico analizza la risposta politica e securitaria del governo italiano alle rivolte urbane.",
   "zb1213e72": "La testata approfondisce i cambiamenti normativi e regolamentari nel settore bancario britannico.",
   "zbf6e865b": "Il reportage esplora le dinamiche demografiche e culturali delle minoranze presenti nel tessuto sociale tedesco.",
   "ze5419652": "Analisi politica incentrata sulla critica alla gestione del governo serbo da parte di un istituto di ricerca.",
@@ -14244,16 +14188,6 @@ window.EDIZIONI["2026-10-21"] = {
    ],
    "pt": []
   },
-  "z1ffc7e28": {
-   "n": "Budapest",
-   "p": [
-    "Hungary",
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ],
-   "pt": []
-  },
   "zfd809163": {
    "n": "Budapest",
    "p": [
@@ -14265,16 +14199,6 @@ window.EDIZIONI["2026-10-21"] = {
    "n": "Budapest",
    "p": [
     "Hungary"
-   ],
-   "pt": []
-  },
-  "z3691f8d2": {
-   "n": "Bucarest",
-   "p": [
-    "Romania",
-    "Ukraine",
-    "United States of America",
-    "Russia"
    ],
    "pt": []
   },
@@ -14383,14 +14307,6 @@ window.EDIZIONI["2026-10-21"] = {
    "p": [
     "Portugal",
     "Japan"
-   ],
-   "pt": []
-  },
-  "zdd34d9f3": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal",
-    "United States of America"
    ],
    "pt": []
   },
@@ -14556,14 +14472,6 @@ window.EDIZIONI["2026-10-21"] = {
    "n": "Dakar",
    "p": [
     "Senegal"
-   ],
-   "pt": []
-  },
-  "zb35f6c70": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom",
-    "Italy"
    ],
    "pt": []
   },
@@ -15507,10 +15415,8 @@ window.EDIZIONI["2026-10-21"] = {
   "zff2dc36e": 1,
   "zadd319a4": 1,
   "z6bb6398e": 1,
-  "z1ffc7e28": 1,
   "zfd809163": 1,
   "zc104a6ff": 1,
-  "z3691f8d2": 1,
   "z320131b8": 1,
   "z50a6825a": 1,
   "zb12331df": 1,
@@ -15525,7 +15431,6 @@ window.EDIZIONI["2026-10-21"] = {
   "zee9d5a42": 1,
   "z0b15af03": 1,
   "z4ed0583c": 1,
-  "zdd34d9f3": 1,
   "z0e2f28af": 1,
   "z8b8d5eb9": 1,
   "z2bc06331": 1,
@@ -15548,7 +15453,6 @@ window.EDIZIONI["2026-10-21"] = {
   "z25cca6a9": 1,
   "za13da71b": 1,
   "z1888e17c": 1,
-  "zb35f6c70": 1,
   "zb1213e72": 1,
   "zbf6e865b": 1,
   "ze5419652": 1,
