@@ -3,6 +3,1585 @@ window.EDIZIONI["2026-10-21-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zd9999371",
+   "sez": "dibattito",
+   "titolo": "«Bismillah, c'est les ténèbres»: lo slogan ironico delle proteste da Parigi a Bologna",
+   "orig": "“Bismillah, c’est les tenebres”: da Parigi a Bologna lo slogan delle proteste che deride gli adulti",
+   "lead": "In Francia e in Italia circola tra i giovani manifestanti una frase in arabo-francese, «Bismillah, c'est les ténèbres», lanciata misteriosamente in una chat, forse da un poliziotto. I ragazzi scesi in piazza a Parigi, e ora anche a Bologna, la usano per prendere in giro gli adulti che vedono dietro il caos delle rivolte la regia di giovani estremisti musulmani. La frase, diventata un tormentone sui social, è un modo per deridere queste interpretazioni complottiste. Lo riferisce la Repubblica.",
+   "more": [
+    "Negli ultimi mesi in Francia e in altri paesi europei si sono moltiplicate manifestazioni giovanili, spesso sfociate in scontri con le forze dell'ordine. Il dibattito pubblico si è concentrato anche su presunte responsabilità di gruppi estremisti, teoria contestata dagli stessi manifestanti con ironia e meme diffusi online."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/21/news/bismillah_c_est_les_tenebres_slogan_proteste_studenti_francia_bologna-425663099/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:01+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z55fff60b",
+   "sez": "mondo",
+   "titolo": "Come gli attacchi di Trump al sistema di voto potrebbero influenzare le elezioni di midterm",
+   "orig": "How Trump's attacks on voting system integrity might affect upcoming elections",
+   "lead": "Secondo l'esperto di diritto elettorale Rick Hasen, intervistato da NPR, le interferenze del presidente Donald Trump sul sistema elettorale statunitense rischiano di condizionare le prossime elezioni di midterm. Trump avrebbe minacciato funzionari locali di procedimenti penali se non cancelleranno dalle liste elettorali presunti cittadini stranieri senza diritto di voto. Hasen analizza le implicazioni di queste pressioni sull'integrità del voto e sul funzionamento delle istituzioni elettorali locali. Lo riferisce NPR.",
+   "more": [
+    "Negli Stati Uniti le liste elettorali sono gestite a livello locale e statale e sono da anni oggetto di controversie politiche legate a presunte frodi. Le accuse di voto illegale da parte di cittadini stranieri non sono mai state dimostrate su larga scala da ricerche indipendenti, ma restano un tema ricorrente nel dibattito politico americano."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T12:01-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze7c2a4c9",
+   "sez": "dibattito",
+   "titolo": "L'Italia introduce un nuovo reato contro le proteste violente",
+   "orig": "What are Italy’s new measures against violent protests?",
+   "lead": "Il governo italiano ha presentato nuove misure contro le manifestazioni violente, tra cui il reato di «partecipazione violenta a manifestazioni pubbliche». Il provvedimento arriva dopo giorni di scontri nelle piazze italiane: a Milano sono state fermate circa 330 persone, quasi la metà straniere, e circa 200 agenti sono rimasti feriti nei disordini del fine settimana, mentre l'Italia valuterebbe l'impiego di 500 militari a Milano. Anche la Francia ha annunciato il dispiegamento di forze antiterrorismo in vista delle manifestazioni del 24 ottobre, dopo aver riconosciuto falle nella gestione dell'ordine pubblico nei giorni scorsi.",
+   "more": [
+    "Negli ultimi mesi diversi paesi europei, tra cui Francia e Italia, hanno visto intensificarsi le proteste di piazza, spesso sfociate in scontri con le forze dell'ordine. I governi discutono da tempo l'equilibrio tra il diritto di manifestare e la necessità di garantire l'ordine pubblico, un tema che divide chi chiede più repressione e chi teme una compressione delle libertà civili."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/21/what-are-italys-new-measures-against-violent-protests",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-21T15:35+00:00"
+    },
+    {
+     "n": "CGTN",
+     "p": "XX",
+     "c": "Pechino",
+     "u": "https://news.cgtn.com/news/2026-10-21/France-to-deploy-military-forces-for-next-protests-1RpHxREAJQQ/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T01:27+00:00"
+    },
+    {
+     "n": "Keep Talking Greece",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.keeptalkinggreece.com/2026/10/21/bag-with-drugs-explodes-in-athens-injuring-four-people/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-21T14:52+00:00"
+    },
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/approximately-330-individuals-detained-and-200-police-officers-injured-following-the-protests-in-milan/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-21T15:04+00:00"
+    },
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/21/international-news-italy-to-deploy-500-troops-in-milan-following-violent-protests/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-21T16:58+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1f704333",
+   "sez": "mondo",
+   "titolo": "Bassirou Diomaye Faye: i Giochi olimpici della gioventù faranno di Dakar un punto di riferimento per l'Africa",
+   "orig": "JOJ 2026 : Bassirou Diomaye Faye veut faire de Dakar un rendez-vous pour l’Afrique",
+   "lead": "Il presidente del Senegal Bassirou Diomaye Faye, in un'intervista esclusiva al quotidiano Le Soleil, ha presentato i Giochi olimpici della gioventù (JOJ) Dakar 2026 come un'occasione che va oltre lo sport. Secondo il presidente, l'evento punta a rafforzare la visibilità del continente africano, difendere il suo posto nelle istituzioni internazionali e mettere i giovani al centro del proprio futuro. Faye ha inquadrato l'organizzazione dei Giochi in un'ambizione più ampia di proiezione internazionale per l'Africa. Lo riferisce Le Soleil.",
+   "more": [
+    "Dakar ospiterà nel 2026 la prima edizione dei Giochi olimpici giovanili organizzata in Africa, evento promosso dal Comitato olimpico internazionale per coinvolgere atleti under 18 di tutto il mondo. L'appuntamento viene spesso presentato dai paesi ospitanti come occasione di visibilità diplomatica ed economica oltre che sportiva."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/entretien-exclusif-avec-le-president-de-la-republique/joj-2026-bassirou-diomaye-faye-veut-faire-de-dakar-un-rendez-vous-pour-lafrique/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T17:30+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/10/21/en-grece-la-jeunesse-veut-suivre-l-exemple-francais-en-se-mobilisant-contre-sa-precarite-et-l-etat-degrade-de-l-enseignement-public_6798288_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-21T18:30+02:00"
+    },
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/le-silence-du-fleuve-a-marseille-faire-entendre-les-voix-du-17-octobre-1961/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-10-21T07:55+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/entretien-exclusif-avec-le-president-de-la-republique/joj-2026-bassirou-diomaye-faye-veut-faire-de-la-jeunesse-une-actrice-de-son-avenir/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T15:38+00:00"
+    },
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/ali-bongo-que-nul-ne-compte-sur-mon-silence-ou-sur-mon-retrait-pour-faire-ce-quil-veut-de-ce-pays/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-10-21T11:44+00:00"
+    },
+    {
+     "n": "La Nation (Gibuti)",
+     "p": "XX",
+     "c": "Gibuti",
+     "u": "https://www.lanation.dj/justice-climatique-lafrique-veut-peser-davantage-dans-les-negociations-internationales/",
+     "angolo": "",
+     "atlas": "Djibouti",
+     "t": "2026-10-21T08:01+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/dakar2026/bassirou-diomaye-faye-ces-jeux-ont-ete-attribues-au-senegal-pas-a-un-homme/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T14:56+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/joj-2026-un-rendez-vous-pour-faire-rayonner-le-senegal-a-linternational/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T14:46+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/entretien-exclusif-avec-le-president-de-la-republique/bassirou-diomaye-faye-sur-les-joj-je-veux-quon-dise-que-cest-ici-que-cela-a-commence/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T18:00+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/opinions/dakar-cite-des-joj-et-du-salam-par-diama-badiane/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T17:47+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7e7e06c1",
+   "sez": "sport",
+   "titolo": "Italia senza 12 giocatori per il Nations Championship di rugby",
+   "orig": "Italy missing 12 players for next month's Nations Championship",
+   "lead": "La nazionale italiana di rugby dovrà fare a meno di 12 giocatori per l'edizione del prossimo mese del Nations Championship. Lo riferisce l'emittente CNA, che segnala anche come l'Irlanda abbia convocato due giocatori senza presenze precedenti in nazionale per la stessa competizione. Non vengono specificati i motivi delle assenze italiane né i nomi dei giocatori coinvolti.",
+   "more": [
+    "Il Nations Championship è una competizione internazionale di rugby che coinvolge le principali nazionali dell'emisfero nord e sud, pensata per offrire più partite di alto livello tra le federazioni maggiori al di fuori dei consueti tornei annuali come il Sei Nazioni e il Rugby Championship."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/italy-missing-12-players-next-months-nations-championship-6479771",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-22T01:21+08:00"
+    },
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/two-uncapped-players-named-in-ireland-squad-nations-championship-6479666",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-21T23:59+08:00"
+    },
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/rb-hip-hop/aew-swerve-strickland-rap-max-b-wwe-interview-1236364464/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T16:18+00:00"
+    },
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/liberia-ready-for-scrabble-nations-cup-as-16th-africa-championship-draws-near/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-10-21T08:55+00:00"
+    },
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46806/sports/eswatini-names-29-man-squad-for-boleswa-tri-nations-cup/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-21T09:00+00:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/sport/rugby/2026/1021/1596294-ireland-call-ups-for-uncapped-pair-mcnabney-and-benson/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-21T15:23+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze9080428",
+   "sez": "manga",
+   "titolo": "Annunciati i doppiaggi inglesi di Magic Knight Rayearth e della seconda stagione di Sasaki and Peeps",
+   "orig": "Magic Knight Rayearth, Sasaki and Peeps 2nd Season Anime Reveal English Dub Debuts, Casts",
+   "lead": "Sono stati rivelati cast e dettagli dei doppiaggi inglesi di due serie anime, Magic Knight Rayearth e la seconda stagione di Sasaki and Peeps, entrambi debuttati mercoledì. Il doppiaggio di Magic Knight Rayearth ha già reso disponibile il primo episodio, con data di uscita, cast e troupe comunicati da Crunchyroll. Lo riferisce Anime News Network.",
+   "more": [
+    "Magic Knight Rayearth è un manga e anime classico degli anni '90 creato dal collettivo CLAMP, mentre Sasaki and Peeps è una serie più recente. Le piattaforme di streaming come Crunchyroll producono regolarmente nuovi doppiaggi in inglese per ampliare il pubblico internazionale degli anime."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-21/magic-knight-rayearth-sasaki-and-peeps-2nd-season-anime-reveal-english-dub-debuts-casts/.243074",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T12:31-04:00"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/announcements/2026/10/21/magic-knight-rayearth-anime-english-dub-release-date-cast-crew",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T15:15+00:00"
+    },
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/black-clover-season-2-episode-4-release-date-time/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T15:16+00:00"
+    },
+    {
+     "n": "The Laotian Times",
+     "p": "XX",
+     "c": "Vientiane",
+     "u": "https://laotiantimes.com/2026/10/21/shein-kicks-off-holiday-shopping-season-with-its-biggest-black-friday-cyber-monday-selection-yet/",
+     "angolo": "",
+     "atlas": "Laos",
+     "t": "2026-10-20T20:10+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd99fc94e",
+   "sez": "sport",
+   "titolo": "Bayern Monaco-Arsenal, la diretta di Champions League",
+   "orig": "Bayern Munich vs Arsenal LIVE: Champions League",
+   "lead": "Bayern Monaco e Arsenal si affrontano in una partita della fase campionato di Champions League, seguita in diretta testuale da Al Jazeera e The Guardian. Le due testate ricordano i precedenti sfavorevoli dell'Arsenal nelle ultime tre trasferte a Monaco, perse 0-1 nel 2024, 1-5 nel 2017 e 1-5 nel 2015. L'incontro si gioca dalle 20 ora britannica.",
+   "more": [
+    "La fase campionato della Champions League, introdotta dalla stagione 2024-2025, prevede che ogni squadra giochi otto partite contro avversari diversi in un unico girone, sostituendo il tradizionale formato a gironi da quattro squadre."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-21T16:00+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T17:30+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-21T16:01+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T17:44+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z75e84ae2",
+   "sez": "musica",
+   "titolo": "I Ben Folds Five annunciano la prima tournée dal 2013",
+   "orig": "Ben Folds Five Announce First Tour Since 2013",
+   "lead": "La band statunitense Ben Folds Five ha annunciato la sua prima tournée dal 2013, con tappe in diverse città a partire dalla prossima primavera. Il trio, guidato dal pianista Ben Folds, torna quindi dal vivo dopo oltre dieci anni di assenza dai palchi insieme. Lo riferisce Pitchfork.",
+   "more": [
+    "I Ben Folds Five, formatisi negli anni '90, sono noti per un pop-rock guidato dal pianoforte invece che dalla chitarra, con brani come «Brick» che li hanno resi popolari. Il gruppo si è sciolto e riformato più volte nel corso degli anni, alternando progetti solisti del leader a reunion occasionali."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/ben-folds-five-announce-first-tour-since-2013/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T17:53+00:00"
+    },
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/chvrches-announce-first-album-in-six-years-and-2027-tour/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T16:20+00:00"
+    },
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/music/chvrches-announce-album-all-the-kings-men-2027-uk-ireland-north-america-tour-3973779?utm_source=rss&utm_medium=rss&utm_campaign=chvrches-announce-album-all-the-kings-men-2027-uk-ireland-north-america-tour",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T16:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf586b4f4",
+   "sez": "dibattito",
+   "titolo": "A Parigi rimossi i graffiti dalla statua di Place de la République",
+   "orig": "Proteste Parigi, la rimozione dei graffiti dalla statua in Place de la République",
+   "lead": "Le autorità francesi hanno rimosso i graffiti tracciati sulla statua simbolo di Place de la République a Parigi, imbrattata dai manifestanti durante la mobilitazione del 17 ottobre. L'intervento di pulizia segue le proteste che nei giorni scorsi hanno attraversato la Francia, culminate in episodi di vandalismo su monumenti pubblici nella capitale. Lo riferisce ANSA.",
+   "more": [
+    "Place de la République è da anni un luogo simbolico delle manifestazioni politiche e sociali in Francia, teatro di cortei, sit-in e occasionalmente di episodi di tensione con le forze dell'ordine durante le proteste più accese."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/videogallery/mondo/2026/10/21/proteste-parigi-la-rimozione-dei-graffiti-dalla-statua-in-place-de-la-republique_9765921e-ffbe-495d-a650-9a9082e94449.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:32+02:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/21/news/bismillah_c_est_les_tenebres_slogan_proteste_studenti_francia_bologna-425663099/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:01+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/21/news/bismillah_c_est_les_tenebres_slogan_proteste_studenti_francia_bologna-425663099/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T19:05+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z958d0028",
+   "sez": "organizzazioni",
+   "titolo": "Wto e banche multilaterali fanno il punto sul finanziamento delle catene di approvvigionamento",
+   "orig": "WTO and multilateral partners review progress on supply chain finance initiative",
+   "lead": "La direttrice generale dell'Organizzazione mondiale del commercio, Ngozi Okonjo-Iweala, ha partecipato a Bangkok a una tavola rotonda con i vertici delle banche multilaterali di sviluppo e altre organizzazioni internazionali per valutare i progressi nell'espansione del finanziamento delle catene di approvvigionamento nei paesi in via di sviluppo. L'incontro si è svolto il 16 ottobre a margine delle riunioni annuali di Banca Mondiale e Fondo monetario internazionale, con l'obiettivo di discutere le priorità della prossima fase di cooperazione. Lo riferisce l'Organizzazione mondiale del commercio.",
+   "more": [
+    "Il finanziamento delle catene di approvvigionamento consiste in strumenti che permettono alle piccole e medie imprese dei paesi in via di sviluppo di accedere più facilmente al credito, sfruttando i rapporti commerciali con grandi acquirenti internazionali, un tema centrale nelle agende delle istituzioni finanziarie globali."
+   ],
+   "fonti": [
+    {
+     "n": "Organizzazione mondiale del commercio (Omc)",
+     "p": "XX",
+     "c": "Ginevra",
+     "u": "https://www.wto.org/english/news_e/news26_e/trfin_16oct26_517_e.htm",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-16T00:00+00:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261021011300315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-22T00:53+09:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z12333991",
+   "sez": "mondo",
+   "titolo": "La Russia colpisce un impianto del gas a Kharkiv e infrastrutture critiche a Dnipro",
+   "orig": "Russia hits gas production facility in Kharkiv Oblast, critical infrastructure in Dnipro, leaving 30,000 consumers without power",
+   "lead": "Le forze russe hanno colpito un impianto di produzione di gas nella regione di Kharkiv e un'infrastruttura critica a Dnipro, lasciando senza elettricità circa 30.000 utenti. L'amministratore delegato ad interim di Naftogaz, Serhii Fedorenko, ha dichiarato che la Russia ha colpito gli impianti dell'azienda più di 400 volte dall'inizio del 2026, il doppio rispetto allo stesso periodo dell'anno precedente. Un'infrastruttura critica è stata colpita anche nella comunità di Korostyshiv, nella regione di Zhytomyr. Lo riferiscono Kyiv Independent e Ukrinform.",
+   "more": [
+    "Dall'inizio dell'invasione su larga scala del 2022, la Russia prende regolarmente di mira le infrastrutture energetiche ucraine, soprattutto nei mesi autunnali e invernali, con l'obiettivo, secondo gli osservatori, di indebolire la popolazione civile riducendo la disponibilità di gas ed elettricità."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/russia-hits-gas-production-facility-in-kharkiv-oblast-critical-infrastructure-in-dnipro-leaving-30-000-consumers-without-power/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-21T17:49+00:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-ato/4176814-russian-forces-attack-critical-infrastructure-facility-in-zhytomyr-region.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-10-21T20:15+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1c028ec5",
+   "sez": "organizzazioni",
+   "titolo": "Il Consiglio Ue trova un'intesa per semplificare le norme su protezione dati, privacy e cybersicurezza",
+   "orig": "Digital rulebook: Council agrees position to simplify data protection, privacy and cyber reporting rules",
+   "lead": "Il Consiglio dell'Unione europea ha raggiunto una posizione comune per semplificare le norme europee su protezione dei dati, privacy e obblighi di segnalazione in materia di cybersicurezza. L'intesa punta a rendere più snello il quadro normativo digitale dell'Unione, riducendo gli adempimenti burocratici per imprese e istituzioni. Lo riferisce il Consiglio dell'Unione europea.",
+   "more": [
+    "L'Unione europea ha costruito negli ultimi anni un sistema articolato di regole digitali, dal Gdpr sulla protezione dei dati alle normative sulla cybersicurezza, spesso criticato dalle imprese per la complessità degli adempimenti. La semplificazione normativa è da tempo un obiettivo dichiarato della Commissione per sostenere la competitività del mercato unico digitale."
+   ],
+   "fonti": [
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T17:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2a973810",
+   "sez": "spazio",
+   "titolo": "La Nasa sorvolerà con jet militari la partita di football tra Alabama e Texas A&M",
+   "orig": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+   "lead": "La Nasa effettuerà un sorvolo con caccia militari durante la partita di football universitario tra Università dell'Alabama e Texas A&M, sabato 24 ottobre a Tuscaloosa, nell'ambito del suo «Inspiration Tour». L'amministratore della Nasa, Jared Isaacman, pilotertà uno dei tre caccia F-5 impegnati nell'esercitazione, pensata per mettere in evidenza i contributi dell'agenzia all'aeronautica e il suo impegno nella divulgazione. Lo riferisce la Nasa.",
+   "more": [
+    "Le agenzie spaziali utilizzano spesso eventi sportivi di grande richiamo per promuovere programmi educativi e avvicinare il pubblico giovane alle discipline scientifiche e aerospaziali, una strategia di comunicazione diffusa anche tra altre istituzioni pubbliche statunitensi."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T16:31+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z31ed2070",
+   "sez": "italia",
+   "titolo": "Cisgiordania, la polizia israeliana ferma due cittadini italiani",
+   "orig": "Cisgiordania, polizia ferma 2 italiani",
+   "lead": "Due cittadini italiani sono stati fermati dalla polizia in Cisgiordania per aver partecipato a una raccolta di olive non autorizzata. Lo riferisce Rai News, senza fornire ulteriori dettagli sull'identità dei due o sull'esito del fermo.",
+   "more": [
+    "In Cisgiordania la raccolta delle olive, attività tradizionale per i contadini palestinesi, è spesso oggetto di tensioni con esercito e coloni israeliani, soprattutto nelle aree vicine agli insediamenti, dove l'accesso ai terreni agricoli può essere soggetto a restrizioni o permessi."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/cisgiordania-polizia-ferma-2-italiani--6be4f16e-097d-406a-8c25-fec023c2f620.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T16:53+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze6de395e",
+   "sez": "sport",
+   "titolo": "Ginnastica, la squadra maschile della Gran Bretagna chiude quarta ai mondiali",
+   "orig": "GB's men finish fourth World Gymnastics championships",
+   "lead": "La squadra maschile di ginnastica della Gran Bretagna ha chiuso al quarto posto i campionati del mondo, mancando per poco un piazzamento sul podio. Lo riferisce BBC Newsround.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/articles/cm040gp062z6o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T16:03+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zde7456a8",
+   "sez": "ambiente",
+   "titolo": "Specie invasive, quando la natura minaccia la natura",
+   "orig": "Espèces invasives: quand la Nature attaque la Nature",
+   "lead": "Un servizio di France 24 analizza il fenomeno delle specie invasive, animali o piante introdotte dall'uomo in ambienti estranei dove riescono ad adattarsi, responsabili del 60% delle estinzioni di specie registrate. Queste specie possono diventare predatori di fauna autoctona, entrare in competizione per le risorse alimentari o incrociarsi con specie locali, squilibrando gli ecosistemi che colonizzano. Lo riferisce France 24.",
+   "more": [
+    "Le specie invasive sono considerate dagli scienziati una delle principali cause di perdita di biodiversità a livello globale, insieme a cambiamento climatico, distruzione degli habitat e inquinamento. Il trasporto globale di merci e persone ha accelerato negli ultimi decenni la diffusione di specie al di fuori dei loro areali naturali."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261021-esp%C3%A8ces-invasives-quand-la-nature-attaque-la-nature",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-21T17:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9fdba80a",
+   "sez": "cultura",
+   "titolo": "Sacha Baron Cohen difende Ali G come satira",
+   "orig": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
+   "lead": "L'attore Sacha Baron Cohen ha difeso in un lungo articolo per Time il suo personaggio Ali G e il diritto della satira a offendere, in vista dell'uscita del nuovo film «Ali G: Who Iz I?». Baron Cohen ha definito la satira «più importante che mai», sostenendo che il suo obiettivo è mettere il pubblico «faccia a faccia con il pericolo del fanatismo e delle teorie del complotto». L'attore ha riconosciuto che, lungo il percorso, alcune persone invece di ridere si sono sentite offese. Lo riferisce The Guardian.",
+   "more": [
+    "Sacha Baron Cohen è noto per personaggi satirici come Borat e Ali G, costruiti per smascherare pregiudizi e ipocrisie attraverso l'umorismo e situazioni create con persone reali ignare della finzione, una tecnica che nel tempo ha sollevato dibattiti sui limiti etici della satira."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T16:06+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z65ff76fe",
+   "sez": "italia",
+   "titolo": "Mattarella premia Cvetic, Pallini e Ponti al Quirinale: la cerimonia dei nuovi Cavalieri del Lavoro",
+   "orig": "Mattarella premia Cvetic, Pallini e Ponti. Al Quirinale la cerimonia dei nuovi Cavalieri del Lavoro",
+   "lead": "Il presidente della Repubblica Sergio Mattarella ha conferito al Quirinale il titolo di Cavaliere del Lavoro, tra gli altri, a Marina Cvetic, Pallini e Ponti. Per il settore vinicolo è stata premiata Cvetic, che ha dedicato il riconoscimento alla visione di Gianni Masciarelli, tra i primi a credere nelle potenzialità vitivinicole dell'Abruzzo. Lo riferisce Gambero Rosso.",
+   "more": [
+    "Il titolo di Cavaliere del Lavoro è un'onorificenza concessa dal presidente della Repubblica italiana a imprenditori che si sono distinti per meriti economici e sociali, istituita nel secondo dopoguerra e assegnata ogni anno in un numero limitato di casi."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/vino/tre-bicchieri/cerimonia-quirinale-cavalieri-lavoro-2026-cvetic-pallini-ponti/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:28+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z54671743",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda, un agente di polizia accusato di gravi aggressioni",
+   "orig": "Northland police officer faces serious assault charges",
+   "lead": "Un agente di polizia della regione di Northland, in Nuova Zelanda, deve rispondere di accuse di aggressione grave, tra cui una di lesioni con l'intento di provocare gravi danni fisici e una di lesioni con l'intento di ferire. Lo riferisce RNZ, senza fornire ulteriori dettagli sulle circostanze dei fatti contestati.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/crime-and-justice/2069779/northland-police-officer-faces-serious-assault-charges",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-22T06:22+13:00"
+    },
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/liberia-partisans-allege-push-to-hand-party-to-koung-as-howard-taylor-faces-drug-charges/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-10-21T09:17+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf6cfe200",
+   "sez": "cultura",
+   "titolo": "Apple Music rinnova la propria identità visiva con il produttore Fred Again",
+   "orig": "Apple Music’s new visual identity ripples into view – with help from Fred Again..",
+   "lead": "Apple Music ha presentato una nuova identità visiva e sonora, realizzata in collaborazione con il produttore britannico Fred Again, che utilizza le frequenze musicali per generare forme fluide e ondulate. Il nuovo concept punta a tradurre visivamente la musica in immagini, attraverso onde sonore e vibrazioni. Lo riferiscono Wallpaper* e Rolling Stone Italia.",
+   "more": [
+    "Il restyling dell'identità visiva dei servizi di streaming musicale è una pratica sempre più diffusa tra le piattaforme digitali, che cercano di differenziarsi anche sul piano estetico e di comunicazione in un mercato dominato da pochi grandi operatori globali."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/art/music/apple-musics-new-visual-identity-turns-sound-into-liquid-with-help-from-fred-again",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T15:00+00:00"
+    },
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/pop-life/apple-music-si-rifa-il-look-con-fred-again/1043011/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:55+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb2bab117",
+   "sez": "economia",
+   "titolo": "Welfare, la spesa italiana sale a 715 miliardi nel 2026",
+   "orig": "Welfare: la spesa sale da 693 a 715 miliardi, le pensioni assorbono metà delle risorse",
+   "lead": "Secondo un'analisi del Sole 24 Ore, la spesa per il welfare in Italia è salita da 693 miliardi di euro nel 2025 a circa 715 miliardi previsti nel 2026, pari al 60% della spesa pubblica complessiva. Le pensioni assorbono da sole circa metà delle risorse destinate al welfare. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "La spesa per il welfare in Italia comprende pensioni, sanità, assistenza sociale e ammortizzatori sociali; il forte peso della componente pensionistica è legato all'invecchiamento della popolazione e a un sistema previdenziale tra i più onerosi tra i paesi sviluppati, un tema ricorrente nel dibattito sulla sostenibilità dei conti pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/welfare-spesa-sale-693-715-miliardi-pensioni-assorbono-meta-risorse-AJ8gtFpB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:53+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/21/news/google_primo_editore_italiano_agcom-425663273/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T19:21+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zec1eaab3",
+   "sez": "spazio",
+   "titolo": "Il rover Perseverance stabilisce il record di distanza percorsa su un altro pianeta",
+   "orig": "Tracks Along the Longest Drive on Another World",
+   "lead": "Il rover Perseverance della Nasa ha raggiunto i 45,22 chilometri percorsi su Marte al Sol 2006 (11 ottobre 2026), stabilendo un nuovo record per la distanza più lunga mai percorsa da un veicolo su un corpo celeste diverso dalla Terra. Il traguardo è descritto in un aggiornamento scritto da Vandi Verma, ingegnere capo per le operazioni robotiche al Jet Propulsion Laboratory della Nasa. Lo riferisce la Nasa.",
+   "more": [
+    "Perseverance è atterrato su Marte nel febbraio 2021 nel cratere Jezero con l'obiettivo di cercare tracce di vita microbica passata e raccogliere campioni di roccia da riportare un giorno sulla Terra; il rover ha progressivamente ampliato il record di distanza percorsa rispetto ai precedenti veicoli marziani."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T15:50+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6744587c",
+   "sez": "salute",
+   "titolo": "Nuovi dati sull'uomo indicano un potenziale effetto antinfiammatorio degli psichedelici",
+   "orig": "New human data hints at psychedelics' potential to combat inflammation",
+   "lead": "Alcuni studi condotti su esseri umani, i primi del loro genere, suggeriscono che sostanze psichedeliche come la psilocibina possano ridurre l'infiammazione e offrire potenziali benefici per pazienti con malattie neurodegenerative come il Parkinson. I ricercatori citati da NPR stanno pubblicando questi dati dopo che studi di laboratorio avevano già mostrato effetti antinfiammatori e protettivi per diverse patologie. Lo riferisce NPR.",
+   "more": [
+    "La psilocibina, principio attivo dei funghi psichedelici, è oggetto di un crescente interesse scientifico per il trattamento di depressione, ansia e altre condizioni, oltre ai possibili effetti sull'infiammazione; resta però una sostanza controllata in molti paesi, e la ricerca clinica su larga scala è ancora in fase iniziale."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T11:33-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1b45765e",
+   "sez": "italia",
+   "titolo": "Il tasso di occupazione femminile in Italia sale al 54,8%",
+   "orig": "Lavoro femminile, Italia arriva al 54,8%",
+   "lead": "In Italia il tasso di occupazione femminile ha raggiunto il 54,8%, contro il 71,9% registrato per gli uomini. Il dato, diffuso in questi giorni, conferma che il divario di genere nel mercato del lavoro resta ampio nonostante la crescita dell'occupazione femminile negli ultimi anni. Lo riferisce Rai News.",
+   "more": [
+    "Il divario occupazionale di genere misura la differenza tra la quota di uomini e donne in età lavorativa che hanno un impiego. In Italia questo divario è tra i più alti d'Europa, dovuto a fattori come il carico di cura familiare, la minore disponibilità di servizi per l'infanzia e differenze territoriali tra Nord e Sud."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/lavoro-femminileitala-arriva-al-548-5fa5fc99-8b43-4607-bf62-a7ba537094cb.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:25+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8de67a57",
+   "sez": "musica",
+   "titolo": "I Dirty Three tornano in Italia dopo dodici anni",
+   "orig": "Dirty Three, ritorno live in Italia per una data dopo dodici anni",
+   "lead": "La band australiana Dirty Three torna a esibirsi in Italia dopo oltre dodici anni di assenza dai palchi italiani. Il concerto, unica data nel paese, è fissato per martedì 27 ottobre 2026 alle ore 21 nella Sala Maggiore del Teatro Comunale di Vicenza. L'evento segnerà l'apertura del nuovo tour europeo del gruppo e darà il via all'AMP Festival, rassegna musicale dedicata. Lo riferisce OndaRock.",
+   "more": [
+    "I Dirty Three sono un trio strumentale australiano fondato negli anni Novanta, noto per unire rock, folk e improvvisazione con un sound caratterizzato dal violino di Warren Ellis. La band ha costruito negli anni una solida reputazione internazionale grazie a concerti dal vivo intensi e sonorità sperimentali."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/dirty-three-concerto-italia-tour-dopo-12-anni/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:36+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z76dee209",
+   "sez": "dibattito",
+   "titolo": "Gli effetti della protesta degli autotrasportatori sui supermercati italiani",
+   "orig": "Come sono messi i supermercati italiani",
+   "lead": "In Italia è in corso una protesta degli autotrasportatori che sta avendo ripercussioni sulle forniture ai supermercati, con conseguenze più evidenti al Sud. A Napoli e Bari si registra particolare preoccupazione per la disponibilità di merci sugli scaffali. Gli autotrasportatori protestano per le condizioni del proprio settore, mentre l'impatto sul resto del paese resta finora più contenuto. Lo riferisce Il Post.",
+   "more": [
+    "Le proteste degli autotrasportatori in Italia nascono spesso da rivendicazioni su costi di carburante, tariffe di trasporto e concorrenza con operatori esteri. Quando si prolungano, possono causare ritardi nelle consegne alla grande distribuzione, con effetti diseguali sul territorio a seconda della rete logistica locale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/21/supermercati-carenze-prodotti-proteste-autotrasportatori-sud/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T16:51+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4e5a4e64",
+   "sez": "salute",
+   "titolo": "Nigeria, allerta sanitaria dopo un caso di Ebola nella capitale",
+   "orig": "Ebola: Firm urges vigilance, warns against misinformation",
+   "lead": "In Nigeria l'organizzazione SUNU Health ha invitato i cittadini alla vigilanza dopo la conferma di un caso di Ebola nel Territorio della Capitale Federale. L'ente ha raccomandato di seguire le misure preventive e ha messo in guardia contro la diffusione di disinformazione sulla malattia. Lo riferisce The Punch.",
+   "more": [
+    "L'Ebola è una malattia virale grave che si trasmette per contatto con fluidi corporei infetti e può causare febbre emorragica con alta mortalità. Le autorità sanitarie africane monitorano periodicamente nuovi focolai, poiché un contenimento rapido è essenziale per evitare la diffusione del virus tra la popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/ebola-firm-urges-vigilance-warns-against-misinformation/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z451d0d74",
+   "sez": "ambiente",
+   "titolo": "Kenya, sette anni di carcere per traffico di squame di pangolino",
+   "orig": "Taita Taveta: Man jailed 7 years for dealing in pangolin scales worth Ksh.300K",
+   "lead": "In Kenya un uomo, Musa Ngondi, è stato condannato a sette anni di carcere per aver trafficato squame di pangolino per un valore di circa 300mila scellini kenioti. La condanna, emessa nella contea di Taita Taveta, riguarda il possesso di trofei di una specie protetta, in violazione della legge keniota sulla conservazione della fauna selvatica. Lo riferisce Citizen Digital.",
+   "more": [
+    "Il pangolino è considerato uno dei mammiferi più trafficati al mondo, ricercato soprattutto per le sue squame usate nella medicina tradizionale asiatica. Diverse specie sono classificate come minacciate o in pericolo critico di estinzione, e molti paesi africani hanno inasprito le pene per contrastarne il commercio illegale."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/taita-taveta-man-jailed-7-years-for-dealing-in-pangolin-scales-worth-ksh300k-n392472",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T16:25+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "za576d6e1",
+   "sez": "cucina",
+   "titolo": "Lo chef Paolo Lopriore vince il premio Bob Noto 2026",
+   "orig": "Bob Noto 2026: vince Paolo Lopriore",
+   "lead": "Lo chef Paolo Lopriore è stato scelto come vincitore del premio Bob Noto 2026, dedicato quest'anno al tema della passione. Il riconoscimento ne premia il carattere curioso e innovativo, fuori dagli schemi tradizionali della cucina. La cerimonia di premiazione segna l'avvio della manifestazione Buonissima 2026. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Il premio Bob Noto è un riconoscimento nel mondo della ristorazione italiana, intitolato al critico gastronomico Bob Noto, figura storica della critica enogastronomica nazionale. Buonissima è una manifestazione dedicata alla cultura del cibo che si tiene a Milano, con eventi, incontri e premiazioni legati al mondo della cucina."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/paolo-lopriore-vince-il-premio-bob-noto-2026/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T16:09+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z21ba2dfd",
+   "sez": "adolescenti",
+   "titolo": "Assunzioni da GPS: il dibattito sul reclutamento dei docenti in Italia",
+   "orig": "Assunzioni da GPS prima fascia anche su posto comune, per ANIEF non servono tre anni di servizio. Pillole di Question Time",
+   "lead": "Durante il Question Time di OrizzonteScuola TV del 20 ottobre, condotto da Andrea Carlino con Chiara Cozzetto di ANIEF, si è discusso delle assunzioni dei docenti italiani attraverso le GPS di prima fascia anche su posto comune. Secondo ANIEF non sarebbero necessari tre anni di servizio per queste immissioni in ruolo. Il tema riguarda anche l'eventuale doppio canale di reclutamento del personale scolastico. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Le GPS (Graduatorie Provinciali per le Supplenze) sono liste da cui le scuole italiane attingono per assegnare supplenze e, in alcuni casi, immissioni in ruolo. Il tema del reclutamento docenti è oggetto di confronto costante tra ministero e sindacati, poiché riguarda requisiti di accesso, anzianità di servizio e modalità di stabilizzazione del personale precario."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/assunzioni-da-gps-prima-fascia-anche-su-posto-comune-per-anief-non-servono-tre-anni-di-servizio-pillole-di-question-time/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T17:21+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "z7f122dcc",
+   "sez": "sport",
+   "titolo": "Ngumoha trascina il Liverpool nella rimonta contro il Villarreal",
+   "orig": "‘A complete threat’: Rio Ngumoha’s electric display excites Van Dijk and Liverpool",
+   "lead": "Il diciottenne Rio Ngumoha è stato eletto migliore in campo nella vittoria del Liverpool sul Villarreal in Champions League, dopo che i Reds erano sotto 2-0. Il capitano Virgil van Dijk ha elogiato le sue qualità, sottolineando come il giovane abbia imparato da Mohamed Salah. Si tratta della prima rimonta da 2-0 del Liverpool in Champions League dai tempi della finale contro il Villarreal nel 2022. Lo riferisce The Guardian, ripreso anche da Citizen Digital.",
+   "more": [
+    "La Champions League è la principale competizione calcistica europea per club. Le rimonte da svantaggio ampio sono considerate episodi significativi nella storia di una squadra, specie quando protagonisti sono giovani talenti che si affermano in partite di alto livello internazionale come questa."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/oct/21/rio-ngumoha-progress-liverpool-villarreal-champions-league",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T13:59+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/complete-threatgumoha-excites-liverpool-captain-van-dijk-n392463",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T16:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf88eeae2",
+   "sez": "spazio",
+   "titolo": "Nuovo studio spiega la formazione del disco della Via Lattea",
+   "orig": "A Stubborn Question Answered: New Research Reveals How the Milky Way's Disk Formed",
+   "lead": "Una nuova ricerca basata sui dati del satellite Gaia fornisce una risposta a come si siano formati il disco sottile e il disco spesso della Via Lattea, una questione a lungo dibattuta in astronomia. Lo studio si basa sulla determinazione accurata dell'età delle singole stelle, un compito per cui i dati di Gaia si sono rivelati particolarmente utili. Lo riferisce Universe Today.",
+   "more": [
+    "Gaia è un satellite dell'Agenzia Spaziale Europea lanciato per mappare con precisione posizione, movimento e caratteristiche di oltre un miliardo di stelle della nostra galassia. I suoi dati hanno permesso di ricostruire la storia evolutiva della Via Lattea, incluse le fasi di formazione dei suoi dischi stellari."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/a-stubborn-question-answered-new-research-reveals-how-the-milky-ways-disk-formed",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-21T17:23+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb2fc8a01",
+   "sez": "dibattito",
+   "titolo": "Francia, un'immagine diffusa dalla polizia sugli oggetti rubati durante i saccheggi risulta modificata dall'IA",
+   "orig": "Que sait-on de l’image des objets pillés, modifiée par l’IA et publiée par la police du Val-d’Oise ?",
+   "lead": "In Francia, dopo i saccheggi avvenuti in diversi negozi a margine delle manifestazioni del 17 ottobre, la polizia è alla ricerca dei responsabili e della refurtiva. La sezione del Val-d'Oise della polizia nazionale ha affermato su X di aver ritrovato alcuni oggetti rubati, ma la fotografia pubblicata a sostegno di questa affermazione non è autentica e risulta modificata con l'intelligenza artificiale. Lo riferisce France 24.",
+   "more": [
+    "La verifica delle immagini condivise da istituzioni pubbliche sui social media è diventata una pratica necessaria con la diffusione di strumenti di intelligenza artificiale capaci di alterare foto in modo realistico. Casi come questo alimentano il dibattito sulla fiducia nelle comunicazioni ufficiali e sulla necessità di controlli più rigorosi prima della pubblicazione."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/france/20261021-que-sait-on-de-l-image-des-objets-pill%C3%A9s-modifi%C3%A9e-par-l-ia-publi%C3%A9e-par-la-police-du-val-d-oise",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-21T17:20+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2761a06b",
+   "sez": "salute",
+   "titolo": "Egitto, ispezione all'Istituto Nasser per un piano di scuole tecniche con il Giappone",
+   "orig": "Health, Education ministers inspect Nasser Institute under Japan-backed plan for 20 technical schools",
+   "lead": "In Egitto i ministri della Salute e dell'Istruzione, Khaled Abdel Ghaffar e Mohamed Abdel Latif, hanno ispezionato la scuola e l'istituto infermieristico dell'Ospedale Nasser Institute insieme a Hidetaka Matsu, responsabile del gruppo educativo giapponese Kyoto Ikueikan. La visita rientra in un programma congiunto Egitto-Giappone per sviluppare 20 scuole tecniche specializzate, che include settori come infermieristica e tecnologia dell'informazione. Lo riferisce Daily News Egypt.",
+   "more": [
+    "La cooperazione internazionale nel settore della formazione tecnica e sanitaria punta spesso a colmare carenze di personale qualificato attraverso scambi di competenze e modelli educativi tra paesi. Programmi come questo mirano a rafforzare le istituzioni formative locali con il supporto di partner stranieri esperti in settori specifici come sanità e tecnologia."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/21/health-education-ministers-inspect-nasser-institute-under-japan-backed-plan-for-20-technical-schools/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-21T17:06+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1036fad8",
+   "sez": "economia",
+   "titolo": "Russia prima destinazione delle esportazioni uzbeke con 3,2 miliardi di dollari",
+   "orig": "Russia leads Uzbekistan’s export markets with $3.2 billion.",
+   "lead": "Le esportazioni dell'Uzbekistan hanno raggiunto 22,9 miliardi di dollari nel periodo gennaio-agosto 2026. La Russia si conferma il principale mercato di destinazione con 3,2 miliardi di dollari, seguita da Cina e Afghanistan tra i primi tre partner commerciali del paese centroasiatico. Lo riferisce Kun.uz.",
+   "more": [
+    "L'Uzbekistan, paese centroasiatico privo di sbocco sul mare, ha intensificato negli ultimi anni gli scambi commerciali con i paesi vicini e con la Russia, suo storico partner economico dai tempi sovietici. La composizione delle esportazioni e la scelta dei mercati di destinazione riflettono le priorità della politica economica del governo di Tashkent."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/21/russia-leads-uzbekistans-export-markets-with-32-billion",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T20:55+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4326d73c",
+   "sez": "economia",
+   "titolo": "Montenegro, dibattito sul modello dell'euro prima delle elezioni",
+   "orig": "Euro model - reforma ili pridobijanje birača javnim novcem: Nekad...",
+   "lead": "In Montenegro è in corso un dibattito sul cosiddetto \"modello euro\", introdotto in un momento che precede le elezioni e mentre l'opinione pubblica non dispone ancora di tutte le informazioni sulle sue conseguenze concrete. Secondo alcuni osservatori la misura viene presentata come una riforma, mentre altri la interpretano come un modo per ottenere consenso elettorale attraverso risorse pubbliche. Lo riferisce Vijesti.",
+   "more": [
+    "Le misure economiche annunciate a ridosso di elezioni vengono spesso osservate con attenzione dall'opinione pubblica e dagli analisti, poiché possono unire obiettivi di riforma strutturale a finalità di consenso politico immediato, un tema ricorrente nel dibattito politico di diversi paesi."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/tv/emisije/832645/euro-model-reforma-ili-pridobijanje-biraca-javnim-novcem-nekad-jedan-posao-cetiri-glasa-sada-ponuda-za-sve-gradjane",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-21T19:29+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z37558234",
+   "sez": "sport",
+   "titolo": "Champions League, il Como batte 2-0 il Manchester United",
+   "orig": "Champions League: in campo Como-Manchester United 2-0 DIRETTA",
+   "lead": "Il Como ha affrontato il Manchester United in Champions League, imponendosi per 2-0 secondo l'andamento della diretta. Prima della partita, dall'ambiente Como era arrivato l'invito a non considerare gli avversari inglesi superiori. Lo riferisce ANSA.",
+   "more": [
+    "La Champions League è la principale competizione calcistica per club in Europa, che mette a confronto le squadre qualificate dai rispettivi campionati nazionali. Un eventuale successo del Como contro un club storico come il Manchester United rappresenterebbe un risultato di rilievo nel percorso della squadra italiana nella competizione."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/21/champions-league-in-campo-como-manchester-united-0-0-diretta_1b426d17-1457-4adc-9d3a-68d430249387.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T19:57+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4087fa90",
+   "sez": "sport",
+   "titolo": "Boca Juniors ed Enner Valencia attendono l'avversario per la finale di Copa Sudamericana 2026",
+   "orig": "Boca Juniors y Enner Valencia van por la gloria continental: ¿cuándo se jugará la final de la Copa Sudamericana 2026?",
+   "lead": "Il Boca Juniors, con l'attaccante ecuadoriano Enner Valencia in squadra, si è qualificato per la finale della Copa Sudamericana 2026 e attende di conoscere l'avversario, che uscirà dalla sfida tra l'Atlético Mineiro brasiliano e il Montevideo City Torque uruguaiano in programma mercoledì. Il capitano della squadra argentina, Leandro Paredes, viene indicato come protagonista del percorso che ha portato il Boca alla finale. Lo riferisce El Universo.",
+   "more": [
+    "La Copa Sudamericana è la seconda competizione per club più importante del calcio sudamericano dopo la Copa Libertadores, e riunisce squadre provenienti da tutte le federazioni affiliate alla CONMEBOL."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/deportes/futbol/boca-juniors-y-enner-valencia-van-por-la-gloria-continental-cuando-se-jugara-la-final-de-la-copa-sudamericana-2026-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-10-21T03:02+00:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/futbol/sudamericana/2026/10/21/leandro-paredes-el-capitan-que-hace-sonar-a-boca-juniors/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-21T17:51+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z53f49ed9",
+   "sez": "mondo",
+   "titolo": "Il tribunale elettorale brasiliano valuta di disattivare i canali politici su WhatsApp prima del ballottaggio",
+   "orig": "TSE estuda desativar canais políticos no WhatsApp 48h antes da eleição",
+   "lead": "Il Tribunal Superior Eleitoral (TSE) brasiliano sta valutando una bozza di risoluzione che prevede la disattivazione dei canali WhatsApp a contenuto politico con più di 200mila follower nelle 48 ore precedenti e nelle 24 ore successive al secondo turno delle elezioni, previsto per domenica. Se approvata dal plenum del TSE, la misura entrerebbe in vigore immediatamente. Un gruppo di 110 tra giuristi, ricercatori e rappresentanti della società civile ha inviato una nota tecnica al tribunale sostenendo che il blocco limiterebbe la libertà politica dei cittadini e creerebbe incertezza nella competizione elettorale. Lo riferisce Agência Brasil.",
+   "more": [
+    "In Brasile WhatsApp è uno dei principali canali di comunicazione politica e di diffusione di contenuti elettorali, ed è già stato al centro di controversie legate alla disinformazione nelle tornate elettorali precedenti, spingendo le autorità a cercare strumenti di regolamentazione durante le campagne."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-estuda-desativar-canais-politicos-no-whatsapp-48h-antes-da-eleicao",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-21T13:51-03:00"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bloquear-canais-de-whatsapp-altera-disputa-e-cria-inseguranca-afirmam-juristas-em-nota-ao-tse.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-21T14:55-03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z387e50e5",
+   "sez": "tech",
+   "titolo": "Una nuova truffa online sfrutta la chiave mobile digitale in Portogallo",
+   "orig": "17h Há uma nova burla relacionada com a chave móvel digital",
+   "lead": "In Portogallo è stata segnalata una nuova truffa legata alla chiave mobile digitale, il sistema di identificazione elettronica usato dai cittadini per accedere a servizi pubblici online. Le fonti segnalano che questi tentativi di phishing sono sempre più difficili da riconoscere.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/17h-ha-uma-nova-burla-relacionada-com-a-chave-movel-digital_a1_1773316",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/21/sociedade/noticia/nova-burla-whatsapp-nao-sophie-nao-precisa-realmente-ajuda-2192128",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-21T15:38+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5b450013",
+   "sez": "mondo",
+   "titolo": "Esplosione in un serbatoio chimico in Ohio provoca evacuazioni e timori di nuove deflagrazioni",
+   "orig": "Chemical tank explosion in Ohio of glycidyl methacrylate forces evacuations, prompts fears of another blast",
+   "lead": "Un'esplosione in un serbatoio contenente glicidil metacrilato in Ohio ha costretto le autorità a evacuare la zona circostante, per il timore di ulteriori deflagrazioni. Secondo i vigili del fuoco locali, il contatto con la sostanza può provocare bruciore a occhi, naso, bocca e pelle, mentre un'eccessiva esposizione può causare mal di testa, vertigini, stanchezza, nausea e vomito. Le operazioni di messa in sicurezza sono tuttora in corso. Lo riferisce PBS NewsHour.",
+   "more": [
+    "Il glicidil metacrilato è un composto chimico utilizzato nella produzione di resine e polimeri industriali, classificato come sostanza pericolosa per la salute in caso di contatto diretto o inalazione prolungata, motivo per cui gli impianti che lo trattano seguono protocolli di sicurezza rigorosi."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/nation/chemical-tank-explosion-in-ohio-of-glycidyl-methacrylate-forces-evacuations-prompts-fears-of-another-blast",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T11:43-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z47aee5b7",
+   "sez": "dibattito",
+   "titolo": "Il governo polacco prova ad ampliare il diritto all'aborto",
+   "orig": "Il governo polacco sta provando a estendere il diritto all’aborto",
+   "lead": "Il governo polacco sta cercando di estendere il diritto all'aborto in uno dei Paesi con la legislazione più restrittiva in Europa sul tema. Il tentativo rischia però di arenarsi a causa del potere di veto del presidente, sostenuto dall'estrema destra, che può bloccare l'iter della riforma. La Polonia vieta l'interruzione di gravidanza salvo rari casi, una delle normative più severe tra i Paesi dell'Unione europea, e da anni il tema divide il governo e le forze politiche conservatrici sostenute dal presidente.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/21/polonia-leggi-aborto/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:50+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbd5e5204",
+   "sez": "mondo",
+   "titolo": "Donna partorisce in treno in movimento a Groningen",
+   "orig": "Vrouw bevalt van kind in rijdende trein in stad Groningen",
+   "lead": "Una donna ha partorito un bambino in un treno in movimento nella città olandese di Groningen stamattina intorno alle 08:00. Secondo un testimone presente, il neonato si trovava sul pavimento del convoglio poco dopo la partenza dalla stazione Europapark. Madre e bimbo sono stati soccorsi. Lo riferisce NOS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2636126",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-21T19:46+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8908e1a8",
+   "sez": "mondo",
+   "titolo": "Immagine TV sorprende dopo partita del Viking: \"Non ho mai visto niente di simile\"",
+   "orig": "TV-bilde etter Viking-kamp forbløffar: – Aldri sett noko liknande",
+   "lead": "Il Viking è considerato unico in un aspetto specifico della Champions League per una particolarità tattica nata da una decisione spietata adottata sei anni fa dalla squadra norvegese. L'immagine televisiva post-partita risulterebbe eccezionale secondo la testata. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/sport/viking-si-openheit-forbloffar_-_-aldri-sett-noko-liknande-1.18059744",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-21T16:18+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbdce6848",
+   "sez": "mondo",
+   "titolo": "Metro di São Paulo amplia pagamenti tramite Pix",
+   "orig": "Metrô de São Paulo amplia uso do Pix no autoatendimento",
+   "lead": "Le macchinette automatiche della metropolitana di São Paulo hanno iniziato ad accettare Pix come metodo di pagamento da martedì. Il nuovo sistema è attivo sulla Linea 1-Azzurra e sarà ampliato alle altre linee nei prossimi giorni. L'implementazione richiede riprogrammazione dei dispositivi. Lo riferisce Agência Brasil.",
+   "more": [
+    "Pix è il sistema di pagamento istantaneo brasiliano lanciato dalla banca centrale. L'implementazione graduale nei sistemi della metropolitana facilita accesso ai servizi pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/metro-de-sao-paulo-amplia-uso-do-pix-no-autoatendimento",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-10-21T12:53-03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z212e8fb2",
+   "sez": "mondo",
+   "titolo": "\"I legamenti crociati\" di Béchir Garbouj presentato a Tunisi",
+   "orig": "«Les Ligaments croisés» de Béchir Garbouj à Beït al-Hikma : Entre art du jeu et fracture existentielle",
+   "lead": "Il sesto romanzo dello scrittore francofono tunisino Béchir Garbouj è stato presentato mercoledì all'Accademia tunisina delle scienze. L'opera uscita nel 2025 usa il calcio come specchio della società contemporanea e della condizione umana. La presentazione è avvenuta il 14 ottobre. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/21/les-ligaments-croises-de-bechir-garbouj-a-beit-al-hikma-entre-art-du-jeu-et-fracture-existentielle/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T17:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf2b1ab65",
+   "sez": "mondo",
+   "titolo": "Lanciato progetto per valorizzazione porti punici di Cartagine",
+   "orig": "L’INP et le NACA lancent le projet de mise en valeur des ports puniques de Carthage",
+   "lead": "Un progetto di valorizzazione del sito archeologico dei porti punici di Cartagine è stato lanciato il 15 ottobre e proseguirà fino all'8 gennaio 2027. Scaturisce dalla cooperazione internazionale fra l'Istituto nazionale del patrimonio tunisino e il NACA. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Cartagine, sito patrimonio UNESCO, conserva importanti resti della civiltà punica e romana che documentano sviluppo della città mercantile."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/21/linp-et-le-naca-lancent-le-projet-de-mise-en-valeur-des-ports-puniques-de-carthage/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T16:57+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z17f21e07",
+   "sez": "mondo",
+   "titolo": "NUNS condanna minacce contro giornalisti serbi",
+   "orig": "NUNS condemns threats against Vidojkovic, Kulacin, and Kulacin’s wife - demands official action",
+   "lead": "L'associazione richiede azioni ufficiali dalle autorità competenti. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/english/news/nuns-condemns-threats-against-vidojkovic-kulacin-and-kulacins-wife-demands-official-action/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T19:34+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2df05d6a",
+   "sez": "mondo",
+   "titolo": "Barcellona denuncia PSG all'UEFA per striscione controverso",
+   "orig": "UCL: Barcelona report PSG to UEFA over controversial banner",
+   "lead": "Il Barcellona ha presentato reclamo all'UEFA contro il Paris Saint-Germain per uno striscione esposto da tifosi parigini che raffigurava una motosega distruggere il blasone dei catalani. L'episodio sarebbe avvenuto durante la partita di Champions League. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/ucl-barcelona-report-psg-to-uefa-over-controversial-banner/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb21a046b",
+   "sez": "mondo",
+   "titolo": "Il film \"2 Valid IDs\" di Pokwang raggiunge 15 milioni di pesos",
+   "orig": "Pokwang's '2 Valid IDs' hits P15M box office earnings, eyes Hawaii filmfest",
+   "lead": "Il film \"2 Valid IDs\" con Pokwang ha guadagnato 15 milioni di pesos al box office dal suo debutto nei cinema il 14 ottobre. Il film, premiato al Cinemalaya, parteciperà al Hawaii International Film Festival. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://entertainment.inquirer.net/687546/pokwangs-2-valid-ids-hits-p15m-box-office-earnings-eyes-hawaii-filmfest",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-22T00:06+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "za8cd7580",
+   "sez": "mondo",
+   "titolo": "Wafaa Amer: il talento si guadagna con dedizione e perseveranza",
+   "orig": "Wafaa Amer: True talent earns its place through dedication and perseverance",
+   "lead": "L'attrice egiziana Wafaa Amer ha costruito una carriera ricca e variegata stabilendo una duratura presenza presso il pubblico attraverso ruoli drammatici che trascendono la recitazione convenzionale. Predilige ruoli con dimensioni psicologiche ed emotive profonde. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.dailynewsegypt.com/2026/10/21/wafaa-amer-true-talent-earns-its-place-through-dedication-and-perseverance/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-21T17:28+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8ef69917",
+   "sez": "mondo",
+   "titolo": "Il 90% degli uomini namibiani 18-39 anni non è sposato",
+   "orig": "All the single men",
+   "lead": "Secondo il censimento della popolazione e dell'abitazione 2023, l'87,2% degli uomini namibiani fra i 18 e i 39 anni non è mai stato sposato. Alcuni interrogano se il matrimonio debba restare una pietra miliare attesa nella vita adulta. Lo riferisce The Namibian.",
+   "more": [
+    "Dati dell'Agenzia statistica namibiana rivelano tendenza sociodemografica verso il rinvio del matrimonio in giovane età."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/all-the-single-men/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-21T17:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf2c060ec",
+   "sez": "mondo",
+   "titolo": "A 16 anni allena con il Bayern Monaco: il talento scelto dalla Germania anziché dalla Croazia",
+   "orig": "Hrvatska ga pozivala, Njemačka ga preuzela: Sa 16 godina već trenira s prvom ekipom Bayerna",
+   "lead": "Durante l'ultimo allenamento del Bayern prima della sfida di Champions League con l'Arsenal è apparso un giovane calciatore poco noto al grande pubblico che a 16 anni si allena già con la prima squadra del club bavarese. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/sport/nogomet/hrvatska-ga-pozivala-njemacka-ga-preuzela-sa-16-godina-vec-trenira-s-prvom-ekipom-bayerna/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T19:56+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
    "id": "z9ca4c919",
    "sez": "mondo",
    "titolo": "Elezioni degli enti locali in Andhra Pradesh: lo YSRCP accoglie le direttive della Corte Suprema e chiede elezioni libere ed eque",
@@ -135,6 +1714,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Kyrgyzstan",
      "t": "2026-10-21T23:17+06:00"
+    },
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/21/washington-a-revoque-plus-de-300-000-visas-et-accelere-la-cadence/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T09:11+00:00"
     }
    ],
    "data": "",
@@ -2832,37 +4420,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z8eed9e69",
-   "sez": "mondo",
-   "titolo": "Bassirou Diomaye Faye sui Giochi Olimpici Giovanili: «Voglio che si dica che è qui che è iniziato tutto»",
-   "orig": "Bassirou Diomaye Faye sur les joj : « Je veux qu’on dise que c’est ici que cela a commencé »",
-   "lead": "A dieci giorni dall'apertura dei primi Giochi Olimpici Giovanili in Africa, il presidente senegalese Bassirou Diomaye Faye ha rilasciato un'intervista a Dakar, ripercorrendo il proprio percorso sportivo e l'importanza storica dell'evento per il continente. Lo riferisce Le Soleil.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/actualites/sports/entretien-exclusif-avec-le-president-de-la-republique/bassirou-diomaye-faye-sur-les-joj-je-veux-quon-dise-que-cest-ici-que-cela-a-commence/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-10-21T18:00+00:00"
-    },
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/opinions/dakar-cite-des-joj-et-du-salam-par-diama-badiane/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-10-21T17:47+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:18",
-   "uscita": "sera"
-  },
-  {
    "id": "zdb055e1d",
    "sez": "mondo",
    "titolo": "Sciopero Senelec a Dakar: agenti precettati dal 21 al 23 ottobre",
@@ -3191,6 +4748,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Kenya",
      "t": "2026-10-21T15:40+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/kindiki-kingi-kangata-faith-odhiambo-among-146-advocates-seeking-senior-counsel-rank-n392459",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T13:54+00:00"
     }
    ],
    "data": "21 ott",
@@ -3213,6 +4779,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Kenya",
      "t": "2026-10-21T15:46+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/nairobi-governor-sakaja-fires-chief-officer-geoffrey-mosiria-in-latest-reshuffle-n392457",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T14:17+00:00"
     }
    ],
    "data": "21 ott",
@@ -4236,30 +5811,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z975e072d",
-   "sez": "economia",
-   "titolo": "L'Ungheria detiene l'ex capo della banca centrale György Matolcsy nell'ambito di inchieste sulla corruzione",
-   "orig": "Hungary detains Orbán’s former central bank chief",
-   "lead": "Le autorità ungheresi hanno arrestato György Matolcsy, ex governatore della banca centrale, insieme ad altre persone nell'ambito di un'indagine anticorruzione mirata a colpire la cerchia di potere legata all'ex primo ministro Viktor Orbán. Lo riferisce Financial Times.",
-   "more": [
-    "Le indagini giudiziarie che coinvolgono figure di spicco delle istituzioni finanziarie e politiche in Europa centrale sollevano frequentemente questioni relative allo stato di diritto, alla trasparenza nella gestione della spesa pubblica e agli equilibri di potere istituzionale."
-   ],
-   "fonti": [
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/576c025a-b4e2-47d8-88e8-3ac0fcf8e16d?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-21T17:07+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
    "id": "z5d080eac",
    "sez": "mondo",
    "titolo": "Attivisti versano liquido simile al sangue fuori dall'ambasciata degli Stati Uniti a Praga",
@@ -5121,6 +6672,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Bahrain",
      "t": "2026-10-21T17:31+00:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038787/pakistani-who-allegedly-defrauded-us-postal-service-remanded-in-nccia-lahores-custody",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-21T19:09+05:00"
     }
    ],
    "data": "21 ott",
@@ -5522,6 +7082,24 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "u": "https://tg24.sky.it/mondo/video/2026/10/21/ucraina-cremlino-negoziati-trilaterali-da-meta-novembre-1133451",
      "angolo": "",
      "atlas": "Italy"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/21/il-cremlino-pronti-a-riprendere-i-negoziati-trilaterali-con-kiev-e-gli-usa-a-meta_62ff8056-bbec-4377-a0c7-7fa4a07823ec.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T16:07+02:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/putin-pristao-na-nastavak-pregovora-sa-sad-i-ukrajinom/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T16:46+02:00"
     }
    ],
    "data": "21 ott",
@@ -8006,28 +9584,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z2fcb825e",
-   "sez": "mondo",
-   "titolo": "Deputata australiana investita, parlamentari temono per la sicurezza",
-   "orig": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
-   "lead": "La deputata australiana Helen Haines è rimasta coinvolta in un episodio con un'auto, un fatto che alimenta i timori per la sicurezza dei parlamentari in un clima di crescente polarizzazione politica nella democrazia australiana. Lo riferisce The New York Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-21T10:57+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:23",
-   "uscita": "17"
-  },
-  {
    "id": "z9360ddab",
    "sez": "mondo",
    "titolo": "Zelenskyy aperto al congelamento delle linee nel conflitto ucraino",
@@ -8279,28 +9835,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z1df59764",
-   "sez": "mondo",
-   "titolo": "Kenya: Governatore Nairobi licenzia capo dipartimento Mosiria",
-   "orig": "Nairobi Governor Sakaja fires Chief Officer Geoffrey Mosiria in latest reshuffle",
-   "lead": "Il governatore di Nairobi Sakaja ha licenziato il capo dipartimento Geoffrey Mosiria in un rimpasto della giunta municipale, pochi giorni dopo che Mosiria aveva annunciato l'intenzione di candidarsi alla carica di governatore nelle elezioni del 2027. Lo riferisce Citizen Digital.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Citizen Digital",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/nairobi-governor-sakaja-fires-chief-officer-geoffrey-mosiria-in-latest-reshuffle-n392457",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-10-21T14:17+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:23",
-   "uscita": "17"
-  },
-  {
    "id": "z99176c78",
    "sez": "mondo",
    "titolo": "Kenya: Atleta selezionato per esordio triathlon ai Giochi Olimpici Giovanili",
@@ -8316,28 +9850,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Kenya",
      "t": "2026-10-21T14:00+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:23",
-   "uscita": "17"
-  },
-  {
-   "id": "za3d13c31",
-   "sez": "mondo",
-   "titolo": "Kenya: 146 avvocati candidati per grado Senior Counsel",
-   "orig": "Kindiki, Kingi, Kang’ata, Faith Odhiambo among 146 advocates seeking Senior Counsel rank",
-   "lead": "Tra i 146 avvocati kenioti candidati per la prestigiosa nomina di Senior Counsel figurano personalità di rilievo come Kindiki, Kingi, Kang'ata e Faith Odhiambo, che saranno valutati dal Comitato incaricato della selezione prima della nomina presidenziale. Lo riferisce Citizen Digital.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Citizen Digital",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/kindiki-kingi-kangata-faith-odhiambo-among-146-advocates-seeking-senior-counsel-rank-n392459",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-10-21T13:54+00:00"
     }
    ],
    "data": "21 ott",
@@ -10770,39 +12282,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z11f03b61",
-   "sez": "mondo",
-   "titolo": "Senegal: il presidente Faye sottolinea il valore nazionale dei Giochi Olimpici della Gioventù",
-   "orig": "Bassirou Diomaye Faye, « ces Jeux ont été attribués au Sénégal, pas à un homme »",
-   "lead": "A pochi giorni dall'apertura dei Giochi Olimpici della Gioventù Dakar 2026, il presidente Bassirou Diomaye Faye sottolinea che l'evento è stato assegnato al Senegal e non a una singola persona. L'occasione serve a rafforzare la credibilità internazionale del Paese. Lo riferisce Le Soleil.",
-   "more": [
-    "I Giochi rappresentano i primi Olimpiadi giovanili organizzati interamente sul suolo africano."
-   ],
-   "fonti": [
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/actualites/sports/dakar2026/bassirou-diomaye-faye-ces-jeux-ont-ete-attribues-au-senegal-pas-a-un-homme/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-10-21T14:56+00:00"
-    },
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/actualites/joj-2026-un-rendez-vous-pour-faire-rayonner-le-senegal-a-linternational/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-10-21T14:46+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:20",
-   "uscita": "17"
-  },
-  {
    "id": "z3b08aa02",
    "sez": "salute",
    "titolo": "Senegal: cause e prevenzione della congiuntivite (2/2)",
@@ -10980,37 +12459,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-21T15:24+02:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:20",
-   "uscita": "17"
-  },
-  {
-   "id": "z91c3b625",
-   "sez": "mondo",
-   "titolo": "Russia: Cremlino aperto a negoziati trilaterali con Ucraina e USA a metà novembre",
-   "orig": "Il Cremlino: pronti a riprendere i negoziati trilaterali con Kiev e gli Usa a metà novembre&nbsp;",
-   "lead": "Il Cremlino dichiara disponibilità a riprendere colloqui trilaterali con Kyiv e gli Stati Uniti verso metà novembre. Zelenskyy ha confermato l'apertura a congelamento del conflitto lungo l'attuale linea del fronte. Putin ha inoltre discusso di un possibile vertice con Trump in Cina. Lo riferisce ANSA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/21/il-cremlino-pronti-a-riprendere-i-negoziati-trilaterali-con-kiev-e-gli-usa-a-meta_62ff8056-bbec-4377-a0c7-7fa4a07823ec.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-21T16:07+02:00"
-    },
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/svet/putin-pristao-na-nastavak-pregovora-sa-sad-i-ukrajinom/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-10-21T16:46+02:00"
     }
    ],
    "data": "21 ott",
@@ -12291,28 +13739,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z6dbdcf68",
-   "sez": "mondo",
-   "titolo": "Irlanda: convocati due giocatori non capitolati per Nations Championship",
-   "orig": "Ireland call-ups for uncapped pair McNabney and Benson",
-   "lead": "La federazione irlandese di rugby ha convocato i non ancora presenti James McNabney e Jamie Benson dell'Ulster per le gare del Nations Championship di novembre. Lo riferisce RTÉ News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/sport/rugby/2026/1021/1596294-ireland-call-ups-for-uncapped-pair-mcnabney-and-benson/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-10-21T15:23+01:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:15",
-   "uscita": "17"
-  },
-  {
    "id": "zb86a0630",
    "sez": "mondo",
    "titolo": "Irlanda: smantellamento Triple Lock è 'tradimento profondo', denuncia l'opposizione",
@@ -12730,64 +14156,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Moldova",
      "t": "2026-10-21T12:15+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:15",
-   "uscita": "17"
-  },
-  {
-   "id": "z0560e925",
-   "sez": "mondo",
-   "titolo": "L'inviato americano Witkoff presenta a Putin le proposte di pace sul conflitto ucraino",
-   "orig": "Ուիթքոֆը Պուտինին է ներկայացրել խաղաղության նոր առաջարկները. ի՞նչ են դրանք նախատեսում",
-   "lead": "L'inviato speciale statunitense Steve Witkoff ha incontrato il presidente russo Vladimir Putin il 21 ottobre a San Pietroburgo per presentargli nuove proposte di risoluzione del conflitto russo-ucraino, precedentemente ricevute dal presidente ucraino a Oslo. L'incontro è durato circa tre ore. Lo riferisce Azatutyun.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Azatutyun (inglese)",
-     "p": "XX",
-     "c": "Erevan",
-     "u": "https://www.azatutyun.am/a/ouitkofy-poutinin-e-nerkayatsrel-khaghaghoutyan-nor-arajarknery-i-nch-en-drank-nakhatesoum/33880988.html",
-     "angolo": "",
-     "atlas": "Armenia",
-     "t": "2026-10-21T18:07+04:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/putin-grazie-usa-per-attenzione-a-questione-ucraina-56029b8b-cb02-419f-ab9e-4d4ae198daea.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-21T12:07+00:00"
-    },
-    {
-     "n": "LRT",
-     "p": "XX",
-     "c": "Vilnius",
-     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3089379/rusijai-paleidus-jav-kalini-witkoffas-pavadino-putina-humanistu",
-     "angolo": "",
-     "atlas": "Lithuania",
-     "t": "2026-10-21T17:09+03:00"
-    },
-    {
-     "n": "Meduza",
-     "p": "XX",
-     "c": "Riga (in esilio)",
-     "u": "https://meduza.io/en/feature/2026/10/21/putin-and-u-s-envoy-witkoff-hold-talks-in-st-petersburg-as-washington-pushes-a-new-plan-to-end-the-war-in-ukraine",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-10-21T17:20+03:00"
-    },
-    {
-     "n": "Meduza",
-     "p": "XX",
-     "c": "Riga (in esilio)",
-     "u": "https://meduza.io/en/news/2026/10/21/putin-meets-with-chinese-premier-li-qiang-immediately-after-talks-with-u-s-envoy-witkoff",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-10-21T17:07+03:00"
     }
    ],
    "data": "21 ott",
@@ -13668,30 +15036,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Philippines",
      "t": "2026-10-21T22:12+08:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "z46a990c3",
-   "sez": "tech",
-   "titolo": "Arrestato in Pakistan un uomo accusato di frode da 126 milioni di dollari contro le poste statunitensi",
-   "orig": "Pakistani who allegedly defrauded US Postal Service remanded in NCCIA Lahore's custody",
-   "lead": "Un giudice di Lahore, in Pakistan, ha concesso mercoledì alla National Cyber Crime Investigation Agency (NCCIA) cinque giorni di custodia per un sospetto di 33 anni residente a Khanewal, accusato di una frode da circa 35 miliardi di rupie legata alla vendita online di etichette postali contraffatte. L'uomo è stato incriminato da una giuria della Florida per aver truffato le poste statunitensi (USPS) per 126 milioni di dollari, secondo l'annuncio della Procura federale del distretto meridionale della Florida del 28 settembre. Lo riferisce Dawn.",
-   "more": [
-    "Le frodi legate a etichette postali contraffatte sfruttano piattaforme online per vendere affrancature false a prezzo scontato, causando perdite ai servizi postali. Le indagini internazionali su questi schemi spesso coinvolgono la cooperazione tra autorità statunitensi e di altri Paesi dove operano i sospetti."
-   ],
-   "fonti": [
-    {
-     "n": "Dawn",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://www.dawn.com/news/2038787/pakistani-who-allegedly-defrauded-us-postal-service-remanded-in-nccia-lahores-custody",
-     "angolo": "",
-     "atlas": "Pakistan",
-     "t": "2026-10-21T19:09+05:00"
     }
    ],
    "data": "21 ott",
@@ -17448,30 +18792,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Tunisia",
      "t": "2026-10-21T09:17+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:51",
-   "uscita": "13"
-  },
-  {
-   "id": "z454db3f1",
-   "sez": "mondo",
-   "titolo": "Usa: amministrazione Trump revoca oltre 300mila visti",
-   "orig": "Washington a révoqué plus de 300 000 visas et accélère la cadence",
-   "lead": "L'amministrazione Trump ha revocato più di 300mila visti di ingresso negli Stati Uniti dall'inizio del secondo mandato, accelerando la campagna di rigore sull'immigrazione. Lo riferisce La Presse de Tunisie.",
-   "more": [
-    "La revoca massiccia di visti rappresenta un'escalation nella politica migratoria americana verso maggiore rigore nel controllo dei flussi."
-   ],
-   "fonti": [
-    {
-     "n": "La Presse de Tunisie",
-     "p": "XX",
-     "c": "Tunisi",
-     "u": "https://www.lapresse.tn/2026/10/21/washington-a-revoque-plus-de-300-000-visas-et-accelere-la-cadence/",
-     "angolo": "",
-     "atlas": "Tunisia",
-     "t": "2026-10-21T09:11+00:00"
     }
    ],
    "data": "21 ott",
@@ -23659,6 +24979,68 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Macedonia",
      "t": "2026-10-21T12:10+02:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1670144.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-21T17:27+02:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/video/2026/10/21/timeline-witkoff-a-san-pietroburgo-incontra-putin-1133435",
+     "angolo": "",
+     "atlas": "Italy"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/ouitkofy-poutinin-e-nerkayatsrel-khaghaghoutyan-nor-arajarknery-i-nch-en-drank-nakhatesoum/33880988.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-21T18:07+04:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/putin-grazie-usa-per-attenzione-a-questione-ucraina-56029b8b-cb02-419f-ab9e-4d4ae198daea.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T12:07+00:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3089379/rusijai-paleidus-jav-kalini-witkoffas-pavadino-putina-humanistu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-21T17:09+03:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/feature/2026/10/21/putin-and-u-s-envoy-witkoff-hold-talks-in-st-petersburg-as-washington-pushes-a-new-plan-to-end-the-war-in-ukraine",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-21T17:20+03:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/10/21/putin-meets-with-chinese-premier-li-qiang-immediately-after-talks-with-u-s-envoy-witkoff",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-10-21T17:07+03:00"
     }
    ],
    "data": "21 ott",
@@ -23999,6 +25381,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Hungary",
      "t": "2026-10-21T11:57+02:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/576c025a-b4e2-47d8-88e8-3ac0fcf8e16d?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T17:07+00:00"
     }
    ],
    "data": "21 ott",
@@ -25738,7 +27129,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zd5d57317": "Bilancio positivo di società tunisina di leasing con dinamiche di mercato favorevoli nel settore della locazione finanziaria.",
   "z306a6ce4": "Comunicazione di una multinazionale agricola su strategie di innovazione ricerca-driven verso mercati nordafricani emergenti.",
   "z282e8dc2": "Enfasi sul ruolo centrale dell'agricoltura biologica nella crescita economica tunisina.",
-  "z454db3f1": "Attenzione alla durezza della politica migratoria americana e l'accelerazione della sua implementazione.",
   "z12651195": "Urgenza della mobilitazione internazionale per contenere la minaccia epidemiologica.",
   "za646c489": "Riconoscimento ufficiale del contributo di una figura dello sport nazionale.",
   "z99853aee": "Valorizzazione dei progressi economico-finanziari del Senegal nel contesto regionale.",
@@ -25877,7 +27267,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z9a1f17f6": "La testata dà voce alla sofferenza delle famiglie dei giovani imputati",
   "zc6e680c4": "La testata segue da tempo la vicenda con un'inchiesta a puntate",
   "z86bbeca7": "La testata riporta lo scontro tra senatori durante l'audizione parlamentare",
-  "z46a990c3": "La testata riporta i dettagli dell'arresto e dell'accusa internazionale",
   "zaf46102d": "La testata presenta i risultati di un nuovo studio astronomico",
   "z1e356516": "La testata segnala l'espandersi geografico dell'epidemia in corso",
   "z31e932e9": "La testata riporta la delusione dei sindacati dopo l'incontro governativo",
@@ -25972,7 +27361,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z33eb6f48": "La testata capoverdiana informa di un sequestro di stupefacenti in un hub aeroportuale regionale.",
   "z7a4da085": "La testata malgascia copre l'esordio della squadra nazionale nei preliminari africani di pallacanestro.",
   "zdf6512f7": "La testata americana analizza l'escalation del comportamento politico del candidato ripubblicano.",
-  "z6dbdcf68": "L'emittente pubblica irlandese informa sui convocati per le gare internazionali imminenti.",
   "zb86a0630": "L'emittente pubblica irlandese riporta le critiche parlamentari a una riforma del sistema pensionistico.",
   "z39d68baf": "La testata ceca riporta un appello per il rafforzamento del coordinamento regionale comunitario.",
   "z47e1fb49": "Enfasi sulla pressione politica europea verso il conflitto ucraino",
@@ -25992,7 +27380,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z121970a8": "Difficoltà della governance locale nel coniugare conservazione del patrimonio e sviluppo",
   "zd1dd8152": "Controllo dell'autorità anticorruzione su arricchimento illecito di funzionari pubblici",
   "z20b6ea7d": "Opportunità di occupazione nel mercato del lavoro moldavo",
-  "z0560e925": "Sforzi diplomatici americani per risolvere il conflitto in Ucraina",
   "zfb34397b": "Deterioramento delle relazioni turco-azere nonostante alleanza strategica",
   "z62fa3be5": "Chiarimenti su implementazione del corridoio di trasporto nel contesto della normalizzazione regionale",
   "z100c7692": "Preoccupazione delle autorità religiose per la sicurezza delle comunità cristiane in Palestina",
@@ -26085,7 +27472,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z293826d8": "Radio Okapi documenta la solidarietà locale nella risposta alle calamità naturali",
   "z7d696dad": "Radio Okapi documenta la crisi sanitaria derivante dalle vertenze lavorative",
   "zf78e4c0b": "Radio Okapi documenta le fasi organizzative di una grande operazione statistica nazionale",
-  "z11f03b61": "Le Soleil evidenzia l'importanza politica e diplomatica attribuita ai Giochi della Gioventù",
   "z3b08aa02": "Le Soleil propone approfondimenti medici su una malattia oculare di rilevanza pubblica",
   "z4bd4df9d": "Le Soleil informa il pubblico su una problematica sanitaria di rilievo collettivo",
   "z1b6ac565": "Le Soleil riporta il debutto della strategia tecnologica della banca mondiale internazionale",
@@ -26094,7 +27480,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z57a0dfc7": "The Guardian evidenzia come la ricerca scientifica corregge diagnosi mediche diffuse",
   "zc9d28956": "The Guardian analizza il fragile equilibrio della solidarietà occidentale verso l'Ucraina",
   "zb8c6b3b5": "ANSA presenta un'agenda culturale per il pubblico che frequenta le istituzioni museali",
-  "z91c3b625": "ANSA riferisce i segnali diplomatici per possibili negoziati internazionali",
   "z5a421134": "la Repubblica riporta le dichiarazioni del governo sulla protesta logistica meridionale",
   "z977db4c3": "N1 Serbia documenta la repressione della dissidenza politica nel Paese",
   "zc304e39c": "N1 Serbia riporta le preoccupazioni internazionali sulla libertà di stampa nazionale",
@@ -26102,7 +27487,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z8f5abb0a": "N1 Serbia riporta un fatto di cronaca dalla capitale greca",
   "zd7588dd9": "La notizia enfatizza il rispetto del governo serbo dei propri obblighi finanziari verso le istituzioni universitarie dopo il raggiungimento dei prerequisiti budgetari.",
   "z040a6e97": "La testata riporta un intervento governativo su comportamenti quotidiani nei trasporti, sottolineando l'importanza della convivialità civile negli spazi pubblici.",
-  "z2fcb825e": "La testata collega l'episodio a un contesto più ampio di tensioni politiche e preoccupazioni di sicurezza tra i rappresentanti istituzionali.",
   "z9360ddab": "La notizia evidenzia una apertura ucraina a soluzioni diplomatiche attraverso una possibile stabilizzazione territoriale del conflitto.",
   "z74a4b333": "La copertura presenta la Francia in un momento critico di gestione dell'ordine pubblico di fronte a manifestazioni programmate.",
   "zb0cf50f3": "La testata evidenzia i continui sforzi militari nigeriani per proteggere le infrastrutture energetiche critiche dagli attacchi.",
@@ -26114,9 +27498,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z24befd0d": "La testata riferisce di una decisione giudiziale che interviene nel processo elettorale sindacale, sottolineando l'importanza della trasparenza.",
   "z28500de6": "La testata riporta un'azione di contrasto alla corruzione attraverso il recupero di patrimoni acquisiti illegittimamente.",
   "z19d3dfcd": "La testata collega l'interruzione dell'attività sportiva alle tensioni sociali più ampie in corso nel paese.",
-  "z1df59764": "La testata collega il licenziamento all'annuncio politico di Mosiria, suggerendo dinamiche di competizione interna.",
   "z99176c78": "La testata evidenzia un momento di sviluppo dello sport del triathlon in Kenya attraverso la rappresentazione olimpica giovanile.",
-  "za3d13c31": "La testata riporta una tappa del sistema giudiziario keniota con la candidatura di figure politico-legali di primo piano.",
   "z82f02259": "La testata celebra il successo degli atleti kenioti nel contesto di una competizione continentale di boxe organizzata nel paese.",
   "z266cc422": "La testata riporta una dichiarazione ufficiale sulla salute di oppositori politici detenuti, mentre emergono dubbi sulla credibilità e l'accesso sanitario.",
   "zc5c49808": "La testata analizza le implicazioni commerciali e geopolitiche di una misura restrittiva americana nei confronti della tecnologia cinese.",
@@ -26233,7 +27615,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zdf37a594": "3News mette in luce i problemi di comprensione delle istruzioni farmacologiche legati al linguaggio medico in Ghana.",
   "z9a8b355e": "The Tribune (Bahamas) evidenzia il messaggio motivazionale trasmesso dalla tennista agli studenti delle scuole primarie.",
   "z71689775": "El Universo evidenzia i disagi stradali e i tempi di percorrenza prolungati per i pendolari tra Durán e Guayaquil.",
-  "z975e072d": "Financial Times riporta l'arresto dell'ex banchiere centrale ungherese e il contesto delle inchieste anticorruzione contro la cerchia dell'ex premier.",
   "z5d080eac": "Expats.cz racconta l'azione di protesta degli attivisti davanti alla rappresentanza diplomatica statunitense a Praga.",
   "z82b53938": "The Tribune (Bahamas) evidenzia il risultato ottenuto dal giovane golfista juniores nelle selezioni federali.",
   "z504415d6": "Folha de S.Paulo trasparente nel rettificare l'errore tecnico riscontrato nella pubblicazione delle graduatorie universitarie.",
@@ -26346,7 +27727,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z254da7b9": "La testata tunisina monitora l'andamento del settore agricolo e ortofrutticolo nazionale.",
   "z8e646ccb": "La testata locale pone l'accento sull'impegno sociale per l'inclusione scolastica dei bambini in Tunisia.",
   "z70690bb6": "Il giornale evidenzia i dati positivi e le prospettive di sviluppo economico e industriale del Paese.",
-  "z8eed9e69": "La testata celebra l'attesa per l'evento olimpico attraverso le parole del capo dello Stato.",
   "zdb055e1d": "La notizia evidenzia l'intervento delle autorità locali per prevenire disservizi energetici legati alle proteste sindacali.",
   "zdbffdc5b": "Il quotidiano britannico pone l'accento sulle accuse di repressione transnazionale rivolte a Pechino.",
   "z968521f5": "Il quotidiano segue la cronaca giudiziaria locale legata agli episodi di disordine urbano nel centro cittadino.",
@@ -26436,7 +27816,60 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "za3ecf982": "La testata stimola il dibattito pubblico sulla gestione e sulla sicurezza all'interno delle istituzioni scolastiche.",
   "zdb9e36b7": "L'articolo adotta una prospettiva locale, incentrata sui controlli di sicurezza urbana e sulla gestione dei cantieri edili nella capitale del Kirghizistan.",
   "z165a7eaf": "La testata monitora le riforme istituzionali e le iniziative volte a migliorare la trasparenza amministrativa nel Paese.",
-  "z79c08369": "Il media adotta un formato di rassegna giornaliera per riassumere i temi di maggiore interesse nazionale per i propri lettori."
+  "z79c08369": "Il media adotta un formato di rassegna giornaliera per riassumere i temi di maggiore interesse nazionale per i propri lettori.",
+  "zd9999371": "la Repubblica racconta come un tormentone nato in chat sia diventato simbolo di scherno verso le letture complottiste degli adulti.",
+  "z55fff60b": "NPR mette in evidenza, tramite un esperto di diritto elettorale, i rischi delle pressioni politiche sui funzionari locali.",
+  "ze7c2a4c9": "Al Jazeera descrive le nuove misure italiane nel quadro di una risposta europea più ampia alle proteste violente.",
+  "z1f704333": "Le Soleil riporta la visione del presidente senegalese sul significato politico e continentale dei Giochi.",
+  "z7e7e06c1": "CNA segnala le assenze della nazionale italiana in vista dell'impegno internazionale.",
+  "ze9080428": "Anime News Network e Crunchyroll annunciano in parallelo i dettagli dei due doppiaggi.",
+  "zd99fc94e": "Le testate seguono la partita in diretta, richiamando i precedenti negativi dell'Arsenal a Monaco.",
+  "z75e84ae2": "Pitchfork annuncia il ritorno dal vivo della band dopo anni di assenza.",
+  "zf586b4f4": "ANSA documenta la rimozione dei segni lasciati dalle proteste sul monumento parigino.",
+  "z958d0028": "L'Omc presenta l'incontro come un passo per rafforzare la cooperazione tra istituzioni finanziarie internazionali.",
+  "z12333991": "Le testate ucraine documentano l'intensificarsi degli attacchi russi alle infrastrutture energetiche del paese.",
+  "z1c028ec5": "Il Consiglio presenta l'accordo come un passo verso la semplificazione del quadro normativo digitale europeo.",
+  "z2a973810": "La Nasa presenta l'iniziativa come parte del proprio impegno divulgativo verso il pubblico.",
+  "z31ed2070": "Rai News riporta il fermo dei due italiani senza ulteriori dettagli.",
+  "ze6de395e": "BBC Newsround sottolinea quanto la squadra britannica sia stata vicina a un piazzamento sul podio mondiale.",
+  "zde7456a8": "France 24 illustra il fenomeno con un approfondimento dedicato all'impatto delle specie invasive sugli ecosistemi.",
+  "z9fdba80a": "The Guardian riporta la difesa dell'attore del proprio uso della satira alla vigilia dell'uscita del film.",
+  "z65ff76fe": "Gambero Rosso valorizza il riconoscimento ottenuto dal settore vinicolo abruzzese.",
+  "z54671743": "RNZ riporta le accuse formali a carico dell'agente senza ulteriori dettagli sulla vicenda.",
+  "zf6cfe200": "Wallpaper* e Rolling Stone Italia descrivono il nuovo design come parte di una strategia di rinnovamento del brand.",
+  "zb2bab117": "Il Sole 24 Ore evidenzia la crescita della spesa e il peso crescente delle pensioni sul welfare pubblico.",
+  "zec1eaab3": "La Nasa celebra il nuovo record di distanza percorsa dal rover come un traguardo della missione.",
+  "z6744587c": "NPR presenta i primi dati umani come un segnale promettente ma preliminare della ricerca.",
+  "z1b45765e": "Rai News sottolinea l'ampiezza del divario occupazionale tra uomini e donne nonostante la crescita del tasso femminile.",
+  "z8de67a57": "OndaRock segnala il ritorno dal vivo della band dopo oltre un decennio e l'inizio del nuovo tour europeo.",
+  "z76dee209": "Il Post descrive l'impatto differenziato della protesta sul territorio, con maggiore criticità al Sud.",
+  "z4e5a4e64": "The Punch riporta l'appello alla vigilanza e contro la disinformazione lanciato da un'organizzazione sanitaria.",
+  "z451d0d74": "Citizen Digital riporta la condanna come esempio dell'applicazione delle leggi contro il traffico di specie protette.",
+  "za576d6e1": "La Cucina Italiana presenta il premio come riconoscimento al carattere innovativo dello chef.",
+  "z21ba2dfd": "Orizzonte Scuola riporta la posizione di ANIEF sul reclutamento tramite GPS senza il requisito dei tre anni di servizio.",
+  "z7f122dcc": "The Guardian evidenzia la prestazione del giovane Ngumoha elogiata dal capitano Van Dijk.",
+  "zf88eeae2": "Universe Today presenta lo studio come una risposta a una domanda irrisolta sulla formazione galattica.",
+  "zb2fc8a01": "France 24 verifica l'autenticità dell'immagine diffusa dalla polizia del Val-d'Oise e ne rileva la manipolazione.",
+  "z2761a06b": "Daily News Egypt descrive la visita come parte del programma di sviluppo delle scuole tecniche egiziano-giapponese.",
+  "z1036fad8": "Kun.uz riporta i dati sulle esportazioni uzbeke indicando Russia, Cina e Afghanistan come principali mercati.",
+  "z4326d73c": "Vijesti presenta il modello euro come oggetto di discussione tra riforma economica e strategia elettorale.",
+  "z37558234": "ANSA segue in diretta la partita riportando il risultato e le dichiarazioni dell'ambiente Como.",
+  "z4087fa90": "El Universo segue il percorso del Boca Juniors verso la finale continentale.",
+  "z53f49ed9": "Agência Brasil riporta la proposta del TSE e le obiezioni sollevate da giuristi e società civile.",
+  "z387e50e5": "RTP e Público segnalano la diffusione di nuove truffe online in Portogallo.",
+  "z5b450013": "PBS NewsHour riporta l'esplosione e le conseguenze sanitarie temute dalle autorità locali.",
+  "z47aee5b7": "Il Post descrive il tentativo del governo polacco di ampliare il diritto all'aborto e gli ostacoli politici che incontra.",
+  "zbd5e5204": "Testata televisiva olandese riporta evento insolito come storia umana di soccorso.",
+  "z8908e1a8": "Emittente norvegese racconta particolarità tattica di squadra locale in competizioni europee.",
+  "zbdce6848": "Agenzia statale brasiliana riferisce innovazione nei servizi pubblici di trasporto urbano.",
+  "z212e8fb2": "Giornale tunisino copre evento culturale letterario presso istituzione accademica nazionale.",
+  "zf2b1ab65": "Testata tunisina segnala iniziativa di conservazione archeologica con respiro internazionale.",
+  "z17f21e07": "Testata serba riporta denuncia di organizzazione per difesa della libertà di stampa.",
+  "z2df05d6a": "Giornale nigeriano copre controversia europea calcistica tra club importanti.",
+  "zb21a046b": "Giornale filippino segnala successo commerciale di film nazionale premiato.",
+  "za8cd7580": "Giornale egiziano profila attrice che combina differenti tradizioni artistiche.",
+  "z8ef69917": "Giornale namibiano riporta dato statistico e interroga implicazioni sociali.",
+  "zf2c060ec": "Testata bosniaca segnala giovane talento calcistico in uno dei club europei maggiori."
  },
  "contesti": {
   "z247a9c3a": "Il Papa era stato operato martedì scorso al Policlinico Gemelli, intervento durante il quale è stato scoperto il tumore polmonare. Nei giorni seguenti ha ripreso gradualmente alcune attività pubbliche, apparendo in piazza San Pietro a bordo della papamobile e tenendo la prima udienza generale dopo l'operazione.",
@@ -29190,13 +30623,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z454db3f1": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z12651195": {
    "n": "Nigeria",
    "p": [
@@ -30143,13 +31569,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z46a990c3": {
-   "n": "Lahore",
-   "p": [
-    "Pakistan"
-   ],
-   "pt": []
-  },
   "zaf46102d": {
    "n": "Budapest",
    "p": [
@@ -30832,13 +32251,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z6dbdcf68": {
-   "n": "Irlanda",
-   "p": [
-    "Ireland"
-   ],
-   "pt": []
-  },
   "zb86a0630": {
    "n": "Irlanda",
    "p": [
@@ -30959,11 +32371,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   "z20b6ea7d": {
    "n": "Chisinau",
-   "p": [],
-   "pt": []
-  },
-  "z0560e925": {
-   "n": "San Pietroburgo",
    "p": [],
    "pt": []
   },
@@ -31604,13 +33011,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z11f03b61": {
-   "n": "Dakar",
-   "p": [
-    "Senegal"
-   ],
-   "pt": []
-  },
   "z3b08aa02": {
    "n": "Senegal",
    "p": [
@@ -31667,11 +33067,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z91c3b625": {
-   "n": "Mosca",
-   "p": [],
-   "pt": []
-  },
   "z5a421134": {
    "n": "Italia meridionale",
    "p": [
@@ -31718,13 +33113,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Regno Unito",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "z2fcb825e": {
-   "n": "Australia",
-   "p": [
-    "Australia"
    ],
    "pt": []
   },
@@ -31806,21 +33194,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z1df59764": {
-   "n": "Nairobi",
-   "p": [
-    "Kenya"
-   ],
-   "pt": []
-  },
   "z99176c78": {
-   "n": "Kenya",
-   "p": [
-    "Kenya"
-   ],
-   "pt": []
-  },
-  "za3d13c31": {
    "n": "Kenya",
    "p": [
     "Kenya"
@@ -32633,13 +34007,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Guayaquil",
    "p": [
     "Ecuador"
-   ],
-   "pt": []
-  },
-  "z975e072d": {
-   "n": "Budapest",
-   "p": [
-    "Hungary"
    ],
    "pt": []
   },
@@ -33469,13 +34836,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z8eed9e69": {
-   "n": "Dakar",
-   "p": [
-    "Senegal"
-   ],
-   "pt": []
-  },
   "zdb055e1d": {
    "n": "Dakar",
    "p": [
@@ -34140,6 +35500,355 @@ window.EDIZIONI["2026-10-21-sera"] = {
     "Kyrgyzstan"
    ],
    "pt": []
+  },
+  "zd9999371": {
+   "n": "Parigi e Bologna",
+   "p": [
+    "France",
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z55fff60b": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze7c2a4c9": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1f704333": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z7e7e06c1": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze9080428": {
+   "n": "Houston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd99fc94e": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z75e84ae2": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zf586b4f4": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z958d0028": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "z12333991": {
+   "n": "Kharkiv e Dnipro",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z1c028ec5": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z2a973810": {
+   "n": "Tuscaloosa, Alabama",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z31ed2070": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z9fdba80a": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z65ff76fe": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z54671743": {
+   "n": "Northland",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zf6cfe200": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb2bab117": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zec1eaab3": {
+   "n": "Marte",
+   "p": [],
+   "pt": []
+  },
+  "z6744587c": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1b45765e": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8de67a57": {
+   "n": "Vicenza",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z76dee209": {
+   "n": "Napoli",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4e5a4e64": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z451d0d74": {
+   "n": "Taita Taveta",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "za576d6e1": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z21ba2dfd": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7f122dcc": {
+   "n": "Liverpool",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb2fc8a01": {
+   "n": "Val-d'Oise",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z2761a06b": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z1036fad8": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z4326d73c": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z37558234": {
+   "n": "Como",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4087fa90": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z53f49ed9": {
+   "n": "Brasília",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z387e50e5": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z5b450013": {
+   "n": "Ohio",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z47aee5b7": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "zbd5e5204": {
+   "n": "Groningen",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z8908e1a8": {
+   "n": "Oslo",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "zbdce6848": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z212e8fb2": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zf2b1ab65": {
+   "n": "Cartagine",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z17f21e07": {
+   "n": "Belgrado",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z2df05d6a": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb21a046b": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "za8cd7580": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z8ef69917": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "zf2c060ec": {
+   "n": "Monaco",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -34433,7 +36142,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zd5d57317": 1,
   "z306a6ce4": 1,
   "z282e8dc2": 1,
-  "z454db3f1": 1,
   "z12651195": 1,
   "za646c489": 1,
   "z99853aee": 1,
@@ -34572,7 +36280,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z9a1f17f6": 1,
   "zc6e680c4": 1,
   "z86bbeca7": 1,
-  "z46a990c3": 1,
   "zaf46102d": 1,
   "z1e356516": 2,
   "z31e932e9": 2,
@@ -34670,7 +36377,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z33eb6f48": 1,
   "z7a4da085": 1,
   "zdf6512f7": 1,
-  "z6dbdcf68": 1,
   "zb86a0630": 1,
   "z39d68baf": 1,
   "z47e1fb49": 1,
@@ -34690,7 +36396,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z121970a8": 1,
   "zd1dd8152": 1,
   "z20b6ea7d": 1,
-  "z0560e925": 2,
   "zfb34397b": 1,
   "z62fa3be5": 1,
   "z100c7692": 1,
@@ -34783,7 +36488,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z293826d8": 1,
   "z7d696dad": 1,
   "zf78e4c0b": 1,
-  "z11f03b61": 1,
   "z3b08aa02": 1,
   "z4bd4df9d": 1,
   "z1b6ac565": 1,
@@ -34792,7 +36496,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z57a0dfc7": 1,
   "zc9d28956": 1,
   "zb8c6b3b5": 1,
-  "z91c3b625": 2,
   "z5a421134": 1,
   "z977db4c3": 1,
   "zc304e39c": 1,
@@ -34800,7 +36503,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z8f5abb0a": 1,
   "zd7588dd9": 1,
   "z040a6e97": 1,
-  "z2fcb825e": 1,
   "z9360ddab": 1,
   "z74a4b333": 1,
   "zb0cf50f3": 1,
@@ -34812,9 +36514,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z24befd0d": 1,
   "z28500de6": 2,
   "z19d3dfcd": 1,
-  "z1df59764": 1,
   "z99176c78": 1,
-  "za3d13c31": 1,
   "z82f02259": 1,
   "z266cc422": 1,
   "zc5c49808": 1,
@@ -34931,7 +36631,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zdf37a594": 1,
   "z9a8b355e": 1,
   "z71689775": 1,
-  "z975e072d": 1,
   "z5d080eac": 1,
   "z82b53938": 1,
   "z504415d6": 1,
@@ -35044,7 +36743,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z254da7b9": 1,
   "z8e646ccb": 1,
   "z70690bb6": 1,
-  "z8eed9e69": 1,
   "zdb055e1d": 1,
   "zdbffdc5b": 1,
   "z968521f5": 1,
@@ -35059,8 +36757,8 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zede5883d": 1,
   "z1b145d5c": 1,
   "ze3435ec5": 1,
-  "zeaf0a423": 1,
-  "z4e38a608": 1,
+  "zeaf0a423": 2,
+  "z4e38a608": 2,
   "zd6b5ad95": 1,
   "ze1604a04": 1,
   "z0833909b": 1,
@@ -35134,7 +36832,60 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "za3ecf982": 1,
   "zdb9e36b7": 1,
   "z165a7eaf": 1,
-  "z79c08369": 1
+  "z79c08369": 1,
+  "zd9999371": 1,
+  "z55fff60b": 1,
+  "ze7c2a4c9": 2,
+  "z1f704333": 2,
+  "z7e7e06c1": 2,
+  "ze9080428": 1,
+  "zd99fc94e": 2,
+  "z75e84ae2": 1,
+  "zf586b4f4": 1,
+  "z958d0028": 1,
+  "z12333991": 2,
+  "z1c028ec5": 1,
+  "z2a973810": 1,
+  "z31ed2070": 1,
+  "ze6de395e": 1,
+  "zde7456a8": 1,
+  "z9fdba80a": 1,
+  "z65ff76fe": 1,
+  "z54671743": 1,
+  "zf6cfe200": 1,
+  "zb2bab117": 1,
+  "zec1eaab3": 1,
+  "z6744587c": 1,
+  "z1b45765e": 1,
+  "z8de67a57": 1,
+  "z76dee209": 1,
+  "z4e5a4e64": 1,
+  "z451d0d74": 1,
+  "za576d6e1": 1,
+  "z21ba2dfd": 1,
+  "z7f122dcc": 1,
+  "zf88eeae2": 1,
+  "zb2fc8a01": 1,
+  "z2761a06b": 1,
+  "z1036fad8": 1,
+  "z4326d73c": 1,
+  "z37558234": 1,
+  "z4087fa90": 1,
+  "z53f49ed9": 1,
+  "z387e50e5": 1,
+  "z5b450013": 1,
+  "z47aee5b7": 2,
+  "zbd5e5204": 1,
+  "z8908e1a8": 1,
+  "zbdce6848": 1,
+  "z212e8fb2": 1,
+  "zf2b1ab65": 1,
+  "z17f21e07": 1,
+  "z2df05d6a": 1,
+  "zb21a046b": 1,
+  "za8cd7580": 1,
+  "z8ef69917": 1,
+  "zf2c060ec": 1
  },
  "video": {},
  "pillole": []
