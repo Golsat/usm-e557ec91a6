@@ -3,6 +3,1749 @@ window.EDIZIONI["2026-10-21-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zd47e0811",
+   "sez": "economia",
+   "titolo": "Hong Kong punta a far crescere l'uso dello yuan tra le banche internazionali",
+   "orig": "Hong Kong working to boost global banks’ use of yuan trading tools",
+   "lead": "Il governo di Hong Kong ha annunciato l'intenzione di coinvolgere più banche internazionali in un sistema di compensazione di titoli di debito, nell'ambito di una strategia più ampia per trasformare la città in un polo globale per il trading dello yuan. Lo ha dichiarato il vicesegretario finanziario Michael Wong Wai-lun durante un evento legato al Financial Street Forum tenutosi a Hong Kong mercoledì. Wong ha spiegato che sul piano infrastrutturale il governo sta promuovendo diverse misure per sviluppare ulteriormente il mercato offshore della valuta cinese. Lo riferisce South China Morning Post.",
+   "more": [
+    "Hong Kong è il principale centro offshore per gli scambi in yuan, la valuta cinese, e Pechino la usa come laboratorio per testare l'internazionalizzazione della propria moneta senza aprire completamente i conti di capitale della Cina continentale. Rafforzare l'uso dello yuan nei mercati finanziari internazionali è un obiettivo strategico di lungo periodo del governo cinese."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Economia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/banking-finance/article/3371681/hong-kong-working-boost-global-banks-use-yuan-trading-tools",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T13:48+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zc928442c",
+   "sez": "economia",
+   "titolo": "Putin vende le riserve d'oro russe per finanziare la guerra",
+   "orig": "Putin vende le riserve di oro russo per finanziare la guerra (e dare ossigeno all'economia al collasso)",
+   "lead": "Secondo quanto riportato dal Moscow Times il 20 ottobre, la Russia starebbe vendendo parte delle proprie riserve auree per finanziare lo sforzo bellico in Ucraina e al tempo stesso alleggerire la pressione su un'economia che da mesi mostra segni di difficoltà. La notizia arriva mentre cresce l'attenzione internazionale sulle condizioni dell'economia russa, colpita dalle sanzioni occidentali e dai costi crescenti del conflitto. Lo riferisce Il Messaggero.",
+   "more": [
+    "Le riserve auree e valutarie sono uno strumento con cui gli Stati sostengono la propria moneta e coprono spese straordinarie. La Russia ha accumulato ingenti riserve d'oro negli anni precedenti alla guerra in Ucraina, ma le sanzioni occidentali hanno bloccato l'accesso a buona parte delle riserve in valuta estera, rendendo l'oro una delle poche risorse liquide disponibili per Mosca."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/mondo/putin_vende_oro_russo_economia_collasso_guerra_ucraina-9839568.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zc5014bd8",
+   "sez": "economia",
+   "titolo": "Lindt, il caro cacao pesa sui conti: azioni giù del 25% e Ceo licenziato",
+   "orig": "Lindt, il rialzo del prezzo del cacao costa caro: azioni al ribasso del 25%, licenziato il Ceo",
+   "lead": "Il cioccolatiere svizzero Lindt ha licenziato il proprio amministratore delegato Adalbert Lechner, dopo quattro anni alla guida dell'azienda e 33 di carriera complessiva al suo interno. La decisione arriva mentre l'aumento del prezzo del cacao ha costretto la società a tagliare le stime di crescita, provocando un crollo del 25% del titolo in borsa. Lo riferisce la Repubblica.",
+   "more": [
+    "Negli ultimi anni il prezzo del cacao sui mercati internazionali è salito in modo marcato per problemi legati ai raccolti in Africa occidentale, principale area di produzione mondiale, e a fenomeni climatici che hanno ridotto l'offerta. L'aumento dei costi delle materie prime ha colpito l'intero settore dolciario, costringendo le aziende a rivedere i margini di profitto."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/21/news/lindt_il_rialzo_del_prezzo_del_cacao_costa_caro_azioni_al_ribasso_del_25_licenziato_il_ceo-425662746/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:50+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z942d8c7b",
+   "sez": "italia",
+   "titolo": "Mafia e rifiuti: nei comuni commissariati cresce la raccolta differenziata",
+   "orig": "Mafia e rifiuti: nei comuni commissariati cresce la raccolta differenziata",
+   "lead": "Una ricerca condotta dall'Università di Pisa mostra che nei comuni italiani commissariati per infiltrazioni mafiose la raccolta differenziata dei rifiuti è aumentata, mentre diminuiscono sia la produzione complessiva di rifiuti sia quella di rifiuti indifferenziati. I dati suggeriscono un effetto positivo della gestione commissariale sulle politiche ambientali locali rispetto alla situazione precedente al commissariamento. Lo riferisce la Repubblica.",
+   "more": [
+    "Lo scioglimento dei consigli comunali per infiltrazioni mafiose è una misura prevista dalla legge italiana che affida temporaneamente la gestione dell'ente a commissari prefettizi, con l'obiettivo di interrompere condizionamenti criminali sull'amministrazione pubblica, inclusa la gestione di appalti sensibili come quello dei rifiuti, storicamente oggetto di interesse delle organizzazioni mafiose."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/energitalia/storie/2026/10/21/news/mafia_e_rifiuti_nei_comuni_commissariati_cresce_la_raccolta_differenziata-425662632/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:20+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z8407f641",
+   "sez": "economia",
+   "titolo": "Cipro, esauriti in due giorni i 27,5 milioni per il bonus case green",
+   "orig": "€27.5m for ‘save and upgrade homes scheme’ all allocated within two days",
+   "lead": "Il ministero dell'Energia di Cipro ha annunciato mercoledì di non accettare più domande per lo schema di incentivi «save and upgrade homes», destinato a finanziare interventi di efficientamento energetico delle abitazioni, dopo che tutti i 27,5 milioni di euro disponibili sono stati assegnati. Il fondo si è esaurito in appena un giorno e mezzo dall'apertura delle domande, segno di un interesse definito dal ministero «particolarmente alto». Lo riferisce Cyprus Mail.",
+   "more": [
+    "Gli schemi di incentivo per l'efficientamento energetico degli edifici sono diffusi in molti Paesi europei nell'ambito degli obiettivi di riduzione dei consumi e delle emissioni fissati dall'Unione europea. La rapida esaurimento dei fondi, come avvenuto a Cipro, è un fenomeno ricorrente quando la domanda di ristrutturazioni supera le risorse pubbliche stanziate."
+   ],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/21/e27-5m-for-save-and-upgrade-homes-scheme-all-allocated-within-two-days",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-21T16:50+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z601f96d7",
+   "sez": "economia",
+   "titolo": "Namibia, il boom petrolifero mette alla prova le ambizioni sull'idrogeno verde",
+   "orig": "Oil boom puts green hydrogen ambitions to the test",
+   "lead": "L'ambizione della Namibia di diventare un grande esportatore di idrogeno verde affronta un percorso più lungo del previsto, mentre le scoperte di petrolio e i crescenti investimenti nel settore petrolifero stanno ridisegnando il panorama energetico del Paese. Secondo l'ultima analisi trimestrale dell'Institute for Public Policy Research (IPPR), l'esplorazione petrolifera offshore ha guadagnato slancio, mentre i grandi progetti sull'idrogeno procedono più lentamente. Lo riferisce The Namibian.",
+   "more": [
+    "L'idrogeno verde è prodotto da energie rinnovabili ed è considerato una possibile fonte energetica a basse emissioni per il futuro. Diversi Paesi africani, tra cui la Namibia, puntano su di esso per attrarre investimenti, ma la scoperta di giacimenti di petrolio offshore può rendere più attraenti nel breve periodo gli investimenti nei combustibili fossili tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/oil-boom-puts-green-hydrogen-ambitions-to-the-test/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-21T11:11+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z7742a10f",
+   "sez": "economia",
+   "titolo": "Mozambico, Chapo annuncia quota statale del 20% nei progetti minerari",
+   "orig": "Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company",
+   "lead": "Il presidente del Mozambico Daniel Chapo ha annunciato martedì 20 ottobre, a Nacala-Porto, la creazione di una futura società statale, la Empresa Nacional de Minas, che deterrà una quota del 20% nei progetti minerari coperti dal nuovo modello di gestione del settore. La misura fa parte delle riforme presentate dal governo per aumentare i benefici nazionali derivanti dallo sfruttamento delle risorse minerarie del Paese. Lo riferisce Club of Mozambique.",
+   "more": [
+    "Il Mozambico possiede importanti riserve minerarie, tra cui grafite e pietre preziose, ma storicamente una parte consistente dei profitti dell'estrazione è andata a società straniere. La creazione di una società statale con partecipazione nei progetti rientra in una tendenza diffusa in Africa, dove diversi governi cercano di trattenere maggiori benefici economici dallo sfruttamento delle risorse naturali."
+   ],
+   "fonti": [
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-chapo-announces-20-state-stake-in-mining-projects-through-new-state-owned-company/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-10-21T14:06+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z9e7d7d65",
+   "sez": "economia",
+   "titolo": "Bosnia, le esportazioni superano i 13 miliardi di marchi ma il deficit commerciale cresce",
+   "orig": "BiH Exports exceed 13 billion BAM; Trade Deficit continues to grow",
+   "lead": "Nei primi nove mesi dell'anno la Bosnia ed Erzegovina ha registrato esportazioni di beni per un valore di 13,4 miliardi di marchi convertibili (KM), con un aumento del 6,3% rispetto allo stesso periodo dello scorso anno. Nello stesso periodo le importazioni sono cresciute dell'8,6%, raggiungendo 24,15 miliardi di KM. Il rapporto tra esportazioni e importazioni si è attestato al 55,5%, mentre il deficit commerciale con l'estero ha superato una soglia rilevante. Lo riferisce Sarajevo Times.",
+   "more": [
+    "Il marco convertibile (KM) è la valuta della Bosnia ed Erzegovina, agganciata all'euro. Un deficit commerciale crescente indica che il Paese importa più beni di quanti ne esporti, una condizione comune per molte economie balcaniche in fase di sviluppo, che dipendono dall'importazione di beni di consumo e materie prime."
+   ],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/bih-exports-exceed-13-billion-bam-trade-deficit-continues-to-grow/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T13:00+00:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/english/news/bosnias-foreign-trade-deficit-widens-despite-strong-export-performance/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T12:05+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z23286781",
+   "sez": "economia",
+   "titolo": "Praga ripristina i tetti tariffari per i taxi dopo le proteste sui prezzi",
+   "orig": "Prague restores taxi fare caps after complaints about high prices",
+   "lead": "Le autorità di Praga hanno ripristinato i limiti di prezzo per le corse in taxi con tassametro, fissati a 42 corone ceche (CZK) al chilometro e 7 corone al minuto di attesa, tornando così sulla decisione presa a inizio ottobre di eliminare tali tetti. Il provvedimento era stato modificato dal 1° ottobre e viene ora rivisto dopo le lamentele dei residenti e dei visitatori per i prezzi troppo alti applicati da alcuni taxisti. Lo riferisce Expats.cz.",
+   "more": [
+    "Le tariffe massime per i taxi sono uno strumento usato da molte città per proteggere i consumatori, soprattutto turisti, da sovrapprezzi applicati in assenza di regole chiare. Praga, come altre capitali europee molto visitate, ha più volte affrontato polemiche legate a tariffe eccessive applicate da alcuni conducenti, specialmente nelle zone centrali e vicino alle stazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/prague-restores-taxi-fare-caps-after-complaints-about-high-prices",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-21T16:22+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zff208cd2",
+   "sez": "economia",
+   "titolo": "Bosnia, avanza il progetto del gasdotto principale nella Republika Srpska settentrionale",
+   "orig": "Multi-million euro main gas pipeline project advances in northern Republika Srpska",
+   "lead": "Procedono i piani per il gasdotto principale Sepak–Banja Luka–Novi Grad, uno dei più grandi progetti di infrastruttura energetica in Bosnia ed Erzegovina, con un valore economico di diversi milioni di euro. L'opera interessa la parte settentrionale dell'entità della Republika Srpska. Lo riferisce N1 Bosnia.",
+   "more": [
+    "La Republika Srpska è una delle due entità che compongono la Bosnia ed Erzegovina insieme alla Federazione di Bosnia ed Erzegovina. Lo sviluppo di infrastrutture energetiche come i gasdotti è centrale per ridurre la dipendenza dall'importazione di gas e rafforzare la sicurezza energetica nella regione balcanica."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/english/news/multi-million-euro-main-gas-pipeline-project-advances-in-northern-republika-srpska/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T16:22+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z818e4016",
+   "sez": "economia",
+   "titolo": "Le riserve valutarie dell'Iraq salgono a 81,5 miliardi di dollari ad agosto",
+   "orig": "Iraq’s foreign reserves rise to $81.5 billion in August",
+   "lead": "La Banca centrale dell'Iraq ha reso noto mercoledì che le riserve valutarie estere del Paese sono salite a 81,53 miliardi di dollari a fine agosto 2026, rispetto agli 80,63 miliardi del mese precedente. Il dato segnala una crescita delle disponibilità finanziarie dell'Iraq, Paese fortemente dipendente dalle esportazioni di petrolio per le proprie entrate in valuta estera. Lo riferisce Iraqi News.",
+   "more": [
+    "Le riserve valutarie di uno Stato sono depositi in valute estere e oro usati per stabilizzare il cambio della moneta nazionale e far fronte a impegni internazionali. Per l'Iraq, il cui bilancio dipende in larga parte dalle vendite di greggio, l'andamento delle riserve riflette da vicino le oscillazioni del prezzo del petrolio sui mercati internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraqs-foreign-reserves-rise-to-81-5-billion-in-august/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-21T13:38+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z462a7ecf",
+   "sez": "mondo",
+   "titolo": "Il premier del Kurdistan iracheno discute con un diplomatico Usa quota di bilancio e formazione del governo",
+   "orig": "PM Barzani, US Diplomat Discuss KRG Budget Share, Government Formation",
+   "lead": "Il primo ministro della Regione del Kurdistan iracheno, Barzani, ha incontrato un diplomatico statunitense per discutere della quota di bilancio spettante al governo regionale e della formazione di un nuovo esecutivo locale. Secondo quanto riferito, il diplomatico americano ha ribadito l'impegno di Washington a continuare il sostegno alla Regione del Kurdistan, mentre entrambe le parti hanno sottolineato l'importanza di riattivare il Parlamento curdo e formare un nuovo governo regionale. Lo riferisce Kurdistan24.",
+   "more": [
+    "La Regione del Kurdistan iracheno gode di un certo grado di autonomia dal governo centrale di Baghdad, con cui da anni esistono contenziosi sulla ripartizione delle entrate petrolifere e del bilancio federale. Gli Stati Uniti mantengono relazioni strette con l'amministrazione curda, considerata un alleato storico nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947668/pm-barzani-us-diplomat-discuss-krg-budget-share-government-formation",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-21T16:52+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z8b623847",
+   "sez": "mondo",
+   "titolo": "Taiwan offre a Eswatini la propria esperienza sui rischi commerciali con la Cina",
+   "orig": "Taiwan offers Eswatini insights on trade risks",
+   "lead": "Un'organizzazione semi-ufficiale taiwanese, la Straits Exchange Foundation (SEF), ha proposto a Eswatini di attingere all'esperienza di Taiwan nella gestione delle pressioni commerciali provenienti dalla Cina continentale, per rafforzare la resilienza economica del piccolo Stato africano e proteggerne gli interessi commerciali. Secondo il segretario generale della SEF, gli stretti legami con le imprese taiwanesi potrebbero aiutare a individuare per tempo segnali di pressioni commerciali e interruzioni delle catene di fornitura. Lo riferisce Times of Eswatini.",
+   "more": [
+    "Eswatini è uno dei pochissimi Stati al mondo a mantenere relazioni diplomatiche ufficiali con Taiwan anziché con la Repubblica Popolare Cinese, una scelta che espone il Paese africano a possibili pressioni economiche da parte di Pechino, da sempre contraria al riconoscimento internazionale dell'isola come Stato indipendente."
+   ],
+   "fonti": [
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/46818/news/taiwan-offers-eswatini-insights-on-trade-risks/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-10-21T11:51+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z9c426525",
+   "sez": "dibattito",
+   "titolo": "Germania, cresce la sfiducia dei giovani sulla pensione futura",
+   "orig": "Munich Economic Debates: Wenn das Aufstiegsversprechen nicht mehr gilt",
+   "lead": "Durante l'incontro «Munich Economic Debates» è emerso che gran parte dei giovani tedeschi non crede di poter vivere con la propria pensione in futuro, segno di una sfiducia diffusa verso il sistema previdenziale. Il tema si lega allo scontro politico in corso in Germania sulla cosiddetta «Rente mit 63», la possibilità di andare in pensione a 63 anni, su cui si confrontano posizioni diverse tra forze politiche e parti sociali. Lo riferisce Süddeutsche Zeitung.",
+   "more": [
+    "La «Rente mit 63» è una misura introdotta in Germania che consente, a determinate condizioni di anzianità contributiva, di andare in pensione a 63 anni senza penalizzazioni. Il dibattito riguarda la sostenibilità finanziaria del sistema pensionistico tedesco di fronte all'invecchiamento della popolazione, con posizioni diverse tra chi chiede di mantenere flessibilità nell'età di uscita e chi sollecita riforme per garantire la tenuta dei conti pubblici nel lungo periodo."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/wirtschaft/munich-economic-debates-rente-mit-63-generationengerechtigkeit-li.3566272",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-21T12:58+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z5892dcbe",
+   "sez": "economia",
+   "titolo": "L'Ue apre un'indagine su Booking per possibili violazioni della tutela dei consumatori",
+   "orig": "MELDUNGEN WIRTSCHAFT - Die EU ermittelt gegen die Reiseplattform Booking wegen möglicher Verstösse gegen den Verbraucherschutz",
+   "lead": "La Commissione europea ha avviato un'indagine sulla piattaforma di viaggi Booking per presunte violazioni delle norme a tutela dei consumatori. La notizia è stata riportata in breve tra le segnalazioni economiche della giornata, senza ulteriori dettagli sulla natura specifica delle accuse o sui tempi dell'indagine. Lo riferisce NZZ.",
+   "more": [
+    "Booking.com è una delle maggiori piattaforme mondiali di prenotazione di hotel e alloggi online. Negli ultimi anni le autorità europee hanno più volte indagato sulle grandi piattaforme digitali del turismo per pratiche commerciali ritenute scorrette, come la presentazione dei prezzi o le clausole imposte agli hotel partner, nell'ambito delle normative Ue a tutela dei consumatori."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-21T13:44+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z5a7d223a",
+   "sez": "economia",
+   "titolo": "Cile, due banche chiedono il fallimento del secondo maggiore importatore di biciclette",
+   "orig": "BCI y Scotiabank piden la quiebra del segundo mayor importador de bicicletas por incumplir pagos en reorganización",
+   "lead": "Le banche cilene BCI e Scotiabank hanno chiesto la liquidazione forzosa di MRK Imports, secondo maggiore importatore di biciclette del Cile, accusando l'azienda di non aver rispettato gli impegni di pagamento previsti da un accordo di riorganizzazione già in corso. La società era stata fondata da Mauricio Kishinevsky Rosental. Lo riferisce La Tercera.",
+   "more": [
+    "La riorganizzazione giudiziale è una procedura prevista dalla legge cilena che consente a un'azienda in difficoltà finanziaria di rinegoziare i propri debiti con i creditori per evitare il fallimento. Quando l'impresa non rispetta gli impegni assunti, i creditori possono chiedere al tribunale la conversione della procedura in liquidazione forzosa dei beni."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/bci-y-scotiabank-piden-la-quiebra-del-segundo-mayor-importador-de-bicicletas-por-incumplir-pagos-en-reorganizacion/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-10-21T14:47+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z941c7719",
+   "sez": "economia",
+   "titolo": "Andorra e territori confinanti lanciano una nuova alleanza transfrontaliera",
+   "orig": "Andorra i els territoris veïns impulsen una nova aliança per reforçar la cooperació transfronterera",
+   "lead": "Andorra e i territori vicini hanno avviato una nuova alleanza per rafforzare la cooperazione transfrontaliera, attraverso la futura Agevolazione Europea di Cooperazione Territoriale (AECT) Andorra-Pirenei. L'iniziativa punta a sviluppare progetti congiunti in ambito economico, della mobilità, culturale e ambientale tra Andorra e le regioni limitrofe. Lo riferisce Diari d'Andorra.",
+   "more": [
+    "Le Agevolazioni Europee di Cooperazione Territoriale (AECT) sono strumenti giuridici dell'Unione europea pensati per facilitare la collaborazione tra enti locali di Stati diversi su progetti comuni, come infrastrutture, cultura o ambiente. Andorra, pur non essendo membro dell'Ue, partecipa spesso a iniziative di cooperazione con le regioni francesi e spagnole confinanti."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261021/informe-mostra-vitalitat-l-espai-pirinenc-i-necessitat-reforcar-cooperacio_206999.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-10-21T13:04+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z68f8aab2",
+   "sez": "dibattito",
+   "titolo": "Senegal, l'opinionista denuncia tagli al bilancio dell'istruzione",
+   "orig": "L'école sénégalaise sacrifiée sur l'autel de la rigueur (par Adama Sy)",
+   "lead": "Secondo l'editorialista Adama Sy, il budget del ministero dell'Istruzione nazionale del Senegal scende da 990,8 a 959,5 miliardi di franchi CFA nel progetto di legge di finanza rettificativa (LFR) 2026, una riduzione di 31,3 miliardi. Nell'articolo l'autore critica la scelta del governo di contenere la spesa pubblica anche a scapito del settore educativo. Lo riferisce Seneweb.",
+   "more": [
+    "La legge di finanza rettificativa è lo strumento con cui i governi, incluso quello senegalese, modificano nel corso dell'anno il bilancio approvato in precedenza, spesso per adeguarlo a nuove priorità o vincoli di spesa. I tagli alla spesa per l'istruzione sono un tema ricorrente nei dibattiti sulle politiche di austerità nei Paesi africani con margini di bilancio limitati."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Chronique/lecole-senegalaise-sacrifiee-sur-lautel-de-la-rigueur-par-adama-sy_n_999001338.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T13:03+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z1ca6d58f",
+   "sez": "mondo",
+   "titolo": "Camerun, ministro della Giustizia minacciato da sequestro di fondi dello Stato a Parigi",
+   "orig": "Condamné à Paris, le ministre délégué à la Justice Jean de Dieu Momo visé par une menace de saisie sur les comptes de l’État du Cameroun",
+   "lead": "Jean de Dieu Momo, ministro delegato alla Giustizia del Camerun, è stato condannato da un tribunale parigino. Un'avvocata minaccia di sequestrare fondi dello Stato camerunense in Francia per 7.500 euro non pagati per legge. Lo riferisce Mimi Mefo Info.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/condamne-a-paris-le-ministre-delegue-a-la-justice-jean-de-dieu-momo-vise-par-une-menace-de-saisie-sur-les-comptes-de-letat-du-cameroun/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-21T10:36+00:00"
+    },
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/21/rdc-un-cadre-du-parti-presidentiel-menace-darmer-des-jeunes-le-gouvernement-condamne",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-21T13:26+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zdd81519a",
+   "sez": "mondo",
+   "titolo": "The Times chiede scusa a Infantino, nega stipendio segreto al presidente FIFA",
+   "orig": "«The Times» entschuldigt sich bei Gianni Infantino – dennoch bleiben Fragen zur Lohntransparenz",
+   "lead": "Il quotidiano britannico The Times ritira formalmente le accuse al presidente FIFA Gianni Infantino, negando che abbia ricevuto uno stipendio occulto o fosse coinvolto in affari immobiliari. La FIFA non dovrà divulgare compensi milionari. Lo riferisce NZZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/sport/fussball/the-times-entschuldigt-sich-bei-gianni-infantino-dennoch-bleiben-fragen-zur-lohntransparenz-ld.10040096",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-21T14:35+00:00"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000344565/welches-strafmass-droht-guenther-paal-alias-gunkl-und-welche-fragen-bleiben-offen?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-21T12:59+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z41f0fcfe",
+   "sez": "mondo",
+   "titolo": "Putin offre aiuto Usa per risolvere conflitto con Iran",
+   "orig": "Putin ofrece ayuda a Estados Unidos para solucionar conflicto con Irán",
+   "lead": "Il presidente russo Vladimir Putin dichiara di possedere proposte per il conflitto tra Stati Uniti e Iran, includendo il ritiro russo dell'uranio arricchito accumulato da Teheran. Gli Usa, secondo il Cremlino, conoscono bene questi piani. Lo riferisce El Nacional.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/putin-ofrece-ayuda-a-estados-unidos-para-solucionar-conflicto-con-iran/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-21T14:05+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-mundo/rusia-califica-de-vagas-las-propuestas-de-paz/EJMBPTPNUJH77MA3OFWKSDFGC4/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-10-21T14:53+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z8d8b4713",
+   "sez": "mondo",
+   "titolo": "Sindacati africani denunciano inasprimento criteri per docenti universitari",
+   "orig": "Enseignement supérieur : L'USAES dénonce le durcissement des conditions de promotion des enseignants-chercheurs du CAMES",
+   "lead": "L'Unione sindacale africana dell'insegnamento superiore (USAES) esprime preoccupazioni per il rigore dei criteri di valutazione e promozione per i docenti dell'area CAMES. Lo riferisce Lefaso.net il 21 ottobre.",
+   "more": [
+    "In un comunicato del 18 ottobre, l'organizzazione torna sulle questioni sollevate a Ouagadougou il 23 settembre con i responsabili del Consiglio africano e malgascio per l'insegnamento superiore."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150094",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-21T09:14+00:00"
+    },
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/21/enseignement-superieur-le-ministere-leve-la-suspension-des-ceremonies-de-remise-de-diplomes-dans-les-lieux-publics/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-21T13:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zc3b3f44f",
+   "sez": "mondo",
+   "titolo": "Ciad: responsabili educativi affrontano sfide della scuola nel Moyen-Chari",
+   "orig": "Moyen-Chari : les responsables éducatifs face aux défis de l’enseignement",
+   "lead": "La rettrice dell'accademia del Sud-Est Khadidja Hassaballah Hamid ha incontrato lunedì 19 ottobre gli ispettori scolastici provinciali per discutere degli ostacoli al funzionamento del sistema educativo. Lo riferisce Tchadinfos.",
+   "more": [
+    "I partecipanti hanno affrontato questioni relative alle condizioni di lavoro negli istituti scolastici della provincia."
+   ],
+   "fonti": [
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/10/21/moyen-chari-les-responsables-educatifs-face-aux-defis-de-lenseignement/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-10-21T12:00+00:00"
+    },
+    {
+     "n": "APS",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://aps.sn/enseignement-et-recherche-une-universitaire-appelle-a-faire-evoluer-les-pratiques-face-aux-defis-de-lia/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T13:33+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "ze475228d",
+   "sez": "mondo",
+   "titolo": "Angola: iniziano test psicotecnici per concorso pubblico nel ministero",
+   "orig": "MININT inicia na próxima semana primeira fase de testes do prolongado concurso público de ingresso",
+   "lead": "Il ministero dell'Interno angolano avvia la prossima settimana la prima fase di test psicotecnici per il concorso di reclutamento di 7.682 persone nei diversi organi. Gli esami si terranno dal 26 al 30 ottobre in modalità online. Lo riferisce Novo Jornal.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/sociedade/detalhe/minint-inicia-na-proxima-semana-primeira-fase-de-testes-do-prolongado-concurso-publico-de-ingresso-75504.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-10-21T11:10+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/21/5-a-edicao-do-concurso-nacional-de-leitura-arranca-na-proxima-semana/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-21T12:36+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z5d37f732",
+   "sez": "mondo",
+   "titolo": "Azerbaigian partecipa a conferenza energetica del Turkmenistan",
+   "orig": "Azerbaijani delegation attends Turkmenistan’s OGT 2026 conference (PHOTO)",
+   "lead": "Una delegazione azerbaigiana ha preso parte alla conferenza OGT 2026 del Turkmenistan. Lo riferisce Trend.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/business/4237622.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-10-21T18:43+04:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/south-sudan-delegation-attends-global-security-forum-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-delegation-attends-global-security-forum-in-qatar",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-21T08:03+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zfffae8eb",
+   "sez": "prima",
+   "titolo": "Commissione Ue avvia inchiesta su Booking.com per truffe e annunci fraudolenti",
+   "orig": "La Commissione europea ha avviato un’indagine su Booking.com: sospetta non faccia abbastanza per prevenire i tentativi di truffa",
+   "lead": "La Commissione europea ha aperto un'indagine formale su Booking.com ritenendo insufficienti le misure di prevenzione delle truffe e degli annunci non conformi. L'istruttoria riguarda phishing che sfrutta dati di prenotazioni. Lo riferisce Il Post.",
+   "more": [
+    "L'indagine si concentra sulla protezione dei consumatori e sulla trasparenza delle inserzioni pubblicitarie sulla piattaforma."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/21/commissione-europea-indagine-booking-frodi/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:45+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/10/21/la-commissione-europea-apre-unindagine-su-booking-sospetti-su-truffe-e-annunci-sponsorizzati_6bf836ec-a25a-4483-b391-34325de60583.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:52+02:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/21/news/bookingcom_indagine_formale_ue_per_violazione_norme_dei_servizi_digitali-425662430/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T10:40+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/21/news/bookingcom_indagine_formale_ue_per_violazione_norme_dei_servizi_digitali-425662430/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T12:40+02:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/comissao-europeia-investiga-plataforma-booking-por-suspeitas-de-burlas-e-fraude_n1773193",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/21/europese-commissie-opent-onderzoek-naar-booking-com.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-21T10:03+00:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1021/1596262-booking-eu-investigation/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-21T11:14+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zd2bf084e",
+   "sez": "mondo",
+   "titolo": "Guinea: ex presidente Corte costituzionale condannato a 7 anni di carcere",
+   "orig": "CRIEF : Mohamed Lamine Bangoura condamné à 7 ans de prison, ses biens confisqués",
+   "lead": "Mohamed Lamine Bangoura, ex presidente della Corte costituzionale della Guinea, è stato condannato mercoledì 21 ottobre a sette anni di reclusione e due miliardi di franchi di multa. La sentenza è della Corte di repressione delle infrazioni economiche e finanziarie. Lo riferisce Mosaïque Guinée.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/crief-lex-president-de-la-cour-constitutionnelle-mohamed-lamine-bangoura-ecope-de-7-ans-de-prison-ferme/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-21T10:50+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/20/nouvelle-direction-de-logp-mohamed-bangoura-annonce-la-couleur-et-place-le-redressement-au-coeur-de-son-mandat/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T20:54+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/10/20/crief-relaxe-pour-detournement-mais-condamne-pour-blanchiment-lex-inspecteur-du-tresor-conteste-le-jugement/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-20T20:39+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/guinee-mohamed-lamine-bangoura-ancien-president-de-la-cour-constitutionnelle-condamne-a-7-ans-de-prison/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-21T13:21+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zdad8b6c0",
+   "sez": "mondo",
+   "titolo": "Francia: Macron critica chi fa campagna elettorale sulle spalle del Paese",
+   "orig": "Macron: fanno campagna su nostre spalle",
+   "lead": "Il presidente francese Emmanuel Macron critica chi conduce campagne politiche sulla situazione della Francia, rimarcando che non esiste violenza legittima. Il Financial Times riferisce che Bruxelles indaga sulla disinformazione filorussa legata alle proteste. Lo riferisce Rai News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/macron-fanno-campagna-su-nostre-spalle--65a6675e-a432-4594-81c1-30835525778a.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:05+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/21/macron-ce-chi-fa-campagna-elettorale-su-nostre-spalle.-i-sindacati-verso-lo-sciopero-generale_cd8f0f26-d23f-494b-9f36-688a2bfc7f09.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:08+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z9587d0eb",
+   "sez": "mondo",
+   "titolo": "Corea del Sud: Corte costituzionale consente a deputata di partecipare revisione parlamentare",
+   "orig": "Constitutional Court allows Rep. Lee Jin-sook to attend parliamentary audit",
+   "lead": "La Corte costituzionale sudcoreana ha concesso un'ingiunzione che sospende parzialmente la decisione del Partito democratico di escludere dall'audit parlamentare la deputata dell'opposizione Lee Jin-sook. Lo riferisce Yonhap.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261021011100320",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-21T22:02+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10910541",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "ze53772dd",
+   "sez": "mondo",
+   "titolo": "Nigeria: 13 stati approvano emendamento costituzionale per polizia statale",
+   "orig": "Kwara, 12 other North-central states back state policing bill",
+   "lead": "Kwara e altri stati nigeriani hanno approvato l'emendamento costituzionale per istituire forze di polizia regionali, portando a 13 il numero di assemblee statali favorevoli. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/regional/north-central/918847-kwara-12-other-north-central-states-back-state-policing-bill.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-21T13:16+00:00"
+    },
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610210085.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T06:33+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zab3d9c00",
+   "sez": "mondo",
+   "titolo": "Portogallo: marinai assolti da accuse di violazione di segreto di Stato",
+   "orig": "Absolvidos militares da Marinha acusados de violação de segredo de Estado",
+   "lead": "Tre militari della marina portoghese sono stati assolti dalle accuse di violazione del segreto di Stato nel caso della nave NRP Mondego. Lo riferisce RTP.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/absolvidos-militares-da-marinha-acusados-de-violacao-de-segredo-de-estado_n1773258",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/21/sociedade/noticia/marinheiros-navio-mondego-nao-violaram-segredo-estado-decide-tribunal-2192087",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-21T13:58+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zd993dd26",
+   "sez": "mondo",
+   "titolo": "Uzbekistan: Mirziyoyev chiede maggior uso della lingua uzbeka in scienza e tecnologia",
+   "orig": "President Mirziyoyev calls for wider use of Uzbek in science and digital technologies.",
+   "lead": "Il presidente Shavkat Mirziyoyev ha chiesto il miglioramento dell'insegnamento dell'uzbeko e il suo uso più diffuso in scienza, ricerca e trasformazione digitale, inclusi strumenti di intelligenza artificiale. Lo riferisce Kun.uz il giorno della lingua nazionale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/10/21/president-mirziyoyev-calls-for-wider-use-of-uzbek-in-science-and-digital-technologies",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T19:05+05:00"
+    },
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/mirziyoyev-calls-for-expanding-uzbek-in-the-digital-sphere/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T18:05+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z9e9fb27a",
+   "sez": "mondo",
+   "titolo": "Bolivia: governatore Velasco in udienza vaticana con il papa",
+   "orig": "Gobernador Velasco participa en audiencia general del papa León XIV",
+   "lead": "Il governatore di Santa Cruz Juan Pablo Velasco ha partecipato a un'udienza generale vaticana mercoledì, incontrando il pontefice in Piazza San Pietro e scambiando brevi parole. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/gobernador-velasco-participa-en-audiencia-general-del-papa-leon-xiv",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-21T10:27-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/jp-velasco-viaja-vaticano-audiencia-general-papa-leon-xvi/20261021102631997953.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-21T10:26-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zff52ac00",
+   "sez": "mondo",
+   "titolo": "Francia: Orange colpita da blackout nazionale sulla rete mobile",
+   "orig": "Orange touché par une panne nationale sur son réseau mobile",
+   "lead": "L'operatore francese Orange è stato vittima di un'interruzione di servizio su scala nazionale che ha bloccato chiamate, sms e connessione dati per buona parte della clientela. Lo riferisce Le Monde.",
+   "more": [
+    "Orange contava 21,6 milioni di clienti mobili in Francia a fine giugno."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/pixels/article/2026/10/21/orange-touche-par-une-panne-nationale-sur-son-reseau-mobile_6798249_4408996.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-21T14:43+02:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/economie/economie-numerique/orange-panne-au-niveau-national-de-loperateur-et-de-sa-filiale-sosh-20261021_LI75XWKG3VE3LJ5IZVL2LUXMPQ/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-21T13:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z9a5ff57f",
+   "sez": "mondo",
+   "titolo": "Berlino: Nvidia presenta progetti di robotica, il fondatore corteggia l'Europa",
+   "orig": "Nvidia: So umschmeichelt Jensen Huang die Deutschen",
+   "lead": "Il fondatore e ceo di Nvidia Jensen Huang presenta a Berlino i progetti di robotica dell'azienda e propone l'Europa come partner ideale per la collaborazione. Der Spiegel rileva il carattere strategico degli elogi. Lo riferisce Der Spiegel.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/netzwelt/nvidia-so-umschmeichelt-jensen-huang-die-deutschen-a-04ce3383-1b03-403f-bd06-99beec57095e#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-21T16:52+02:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/jensen-huang-in-berlin-nvidia-startet-die-industrielle-ki-revolution-201608811.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-21T13:57+00:00"
+    },
+    {
+     "n": "South China Morning Post – Tecnologia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/tech/big-tech/article/3371604/can-nvidia-ceo-deliver-keynote-speech-berlin-his-firm-faces-investor-scrutiny-over-ai",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T06:07+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z5e30aff1",
+   "sez": "mondo",
+   "titolo": "Capo Verde: Emanuel Barbosa eletto leader del gruppo parlamentare del MpD",
+   "orig": "Presidente do MpD destaca experiência de Emanuel Barbosa e vê eleição a líder parlamentar como sinal de abertura à diáspora",
+   "lead": "Il deputato Emanuel Barbosa è stato eletto lunedì 20 ottobre presidente del gruppo parlamentare del Movimento per la Democrazia, principale partito di opposizione capoverdiano. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "Barbosa, che ha precedentemente ricoperto incarichi di vice in assemblea, rappresenta la diaspora capoverdiana."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/politica/2026/10/21/presidente-do-mpd-destaca-experiencia-de-emanuel-barbosa-e-ve-eleicao-a-lider-parlamentar-como-sinal-de-abertura-a-diaspora/105178",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-21T09:13+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/21/emanuel-barbosa-eleito-lider-do-grupo-parlamentar-do-movimento-para-a-democracia-mpd/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-21T11:01+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z33eb6f48",
+   "sez": "mondo",
+   "titolo": "Capo Verde: brasiliana arrestata con 4 kg di cocaína all'aeroporto di São Vicente",
+   "orig": "Brasileira detida com 4 quilos de cocaína em São Vicente fica em prisão preventiva",
+   "lead": "Una cittadina brasiliana di 22 anni è stata arrestata lunedì 19 ottobre all'aeroporto Cesária Évora con 4.020 grammi di cocaína dissimulata nei bagagli. Proveniva da Salvador con scalo a Lisbona. Lo riferisce Expresso das Ilhas.",
+   "more": [
+    "La donna è rimasta in custodia cautelare dopo il sequestro."
+   ],
+   "fonti": [
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/10/21/brasileira-detida-com-4-quilos-de-cocaina-em-sao-vicente-fica-em-prisao-preventiva/105175",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-21T09:11+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/10/21/sao-vicente-brasileira-detida-com-mais-de-4kg-de-cocaina-no-aeroporto-cesaria-evora/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-10-21T12:35+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a4da085",
+   "sez": "mondo",
+   "titolo": "Madagascar: COSPN debutta ai gironi di qualificazione per Basketball Africa League",
+   "orig": "BASKETBALL – ROAD TO BAL - Le COSPN face à un crack",
+   "lead": "Il Club omnisports della Polizia nazionale (COSPN), campione malgascio, affronta l'Urunani BBC del Burundi nei gironi di qualificazione per la Basketball Africa League in Uganda. Lo riferisce L'Express de Madagascar.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/8249852591875273560/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-21T05:50+03:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/basketball-le-cospn-affronte-dentree-lurunani-bbc-du-burundi-au-road-to-bal-en-ouganda",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-21T12:55+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zdf6512f7",
+   "sez": "mondo",
+   "titolo": "Usa: Trump accumula potere senza precedenti a due settimane dalle elezioni midterm",
+   "orig": "Trump leans into unprecedented power ahead of midterm elections",
+   "lead": "A meno di due settimane dalle elezioni di metà mandato, Donald Trump continua ad attraversare confini politici che non avrebbe osato varcare nel suo primo mandato presidenziale. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T08:09-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z6dbdcf68",
+   "sez": "mondo",
+   "titolo": "Irlanda: convocati due giocatori non capitolati per Nations Championship",
+   "orig": "Ireland call-ups for uncapped pair McNabney and Benson",
+   "lead": "La federazione irlandese di rugby ha convocato i non ancora presenti James McNabney e Jamie Benson dell'Ulster per le gare del Nations Championship di novembre. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/sport/rugby/2026/1021/1596294-ireland-call-ups-for-uncapped-pair-mcnabney-and-benson/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-21T15:23+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zb86a0630",
+   "sez": "mondo",
+   "titolo": "Irlanda: smantellamento Triple Lock è 'tradimento profondo', denuncia l'opposizione",
+   "orig": "Dismantling Triple Lock 'profound betrayal' - McDonald",
+   "lead": "In Dáil è stata denunciata come 'profondo tradimento' del popolo irlandese l'approvazione legislativa dello smantellamento del Triple Lock, il meccanismo di protezione previdenziale. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1021/1596278-triple-lock/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-21T12:35+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z39d68baf",
+   "sez": "mondo",
+   "titolo": "Repubblica Ceca: Macinka chiede cooperazione europea centrale più forte nell'Ue",
+   "orig": "Macinka calls for stronger Central European cooperation in EU",
+   "lead": "Un'autorità ceca chiede una cooperazione più robusta della regione centro-europea all'interno dell'Unione europea per rafforzare il coordinamento comune. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/macinka-calls-stronger-central-european-cooperation-eu-8900599",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-21T13:36+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z47e1fb49",
+   "sez": "mondo",
+   "titolo": "La vicepresidente del Parlamento europeo Picierno inizia sciopero della fame per Oleshky",
+   "orig": "Rodydama paramą Oleškų gyventojams, EP vicepirmininkė pradėjo bado streiką",
+   "lead": "La vicepresidente del Parlamento europeo Pina Picierno ha iniziato uno sciopero della fame per attirare l'attenzione internazionale sulle difficili condizioni di vita nella città di Oleshky, nel Kherson, occupata dalla Russia. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3089394/rodydama-parama-olesku-gyventojams-ep-vicepirmininke-pradejo-bado-streika",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-21T17:51+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zeb118469",
+   "sez": "mondo",
+   "titolo": "Il basket 3x3 di Kaunas entra nell'élite mondiale",
+   "orig": "Kauno VDU 3x3 komanda tarptautinį sezoną užbaigė įsiverždama į pasaulio klubų elitą",
+   "lead": "La squadra 3x3 del VDU di Kaunas ha concluso la stagione 2026 conquistando l'accesso al gotha dei club mondiali di questa disciplina. La squadra sta vivendo una fase di transizione dai giovani al professionismo. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3089385/kauno-vdu-3x3-komanda-tarptautini-sezona-uzbaige-isiverzdama-i-pasaulio-klubu-elita",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-21T17:28+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z51a3cbae",
+   "sez": "mondo",
+   "titolo": "Lituania onora gli artisti Urbonas con medaglie di merito",
+   "orig": "Menininkams Nomedai ir Gediminui Urbonams įteikti URM garbės ženklo medaliai",
+   "lead": "Il ministro degli esteri lituano Kęstutis Budrys ha consegnato il 21 ottobre le medaglie d'onore al merito internazionale ai coniugi artisti Nomedai e Gediminas Urbonas, residenti negli Stati Uniti. Il riconoscimento è assegnato per l'eccellenza culturale della Lituania nel mondo. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/lituanica/aktualijos/751/3089375/menininkams-nomedai-ir-gediminui-urbonams-iteikti-urm-garbes-zenklo-medaliai",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-21T17:07+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z66ad44af",
+   "sez": "mondo",
+   "titolo": "Ohio, candidato repubblicano in bufera per spot controverso con madre estranea di avversaria",
+   "orig": "Ohio's Vivek Ramaswamy slammed for 'revolting' campaign ad featuring opponent's estranged mother",
+   "lead": "Il candidato repubblicano Vivek Ramaswamy è finito al centro della polemica per uno spot controverso che include la madre biologica estranea della sua avversaria democratica, Amy Acton. La campagna investirà quattro milioni di dollari per promuovere l'annuncio, nonostante le critiche bipartisan.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/ohio-controversial-campaign-ad-ramaswamy-acton-9.7389687?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-21T10:21-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zb69e1e22",
+   "sez": "mondo",
+   "titolo": "La Corea del Sud potenzia la cooperazione sanitaria con l'OMS",
+   "orig": "(LEAD) Lee meets with WHO chief to discuss cooperation in healthcare",
+   "lead": "Il presidente sudcoreano Lee Jae Myung ha incontrato il capo dell'Organizzazione mondiale della sanità il 21 ottobre a Seul per discutere di potenziamento della cooperazione in ambito sanitario. L'incontro si inserisce in una strategia di partenariato multilaterale in sanità. Lo riferisce Yonhap.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261021002551315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-21T22:19+09:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z9f4e10f4",
+   "sez": "mondo",
+   "titolo": "Hong Kong rinvia decisione su progetto luci al Peak dopo proteste",
+   "orig": "Nothing set in stone for Peak lighting show: Law",
+   "lead": "La ministra del turismo di Hong Kong Rosanna Law ha promesso il 21 ottobre di consultare le comunità locali prima di procedere con il controverso progetto di illuminazione al Peak. Visita sul sito nei prossimi giorni per raccogliere i pareri dei residenti. Lo riferisce RTHK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874827-20261021.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T22:37+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z34b2028e",
+   "sez": "mondo",
+   "titolo": "Sommario notiziario: Apec, sport paralimpico e cronaca",
+   "orig": "Evening News on TV32 - Oct 21",
+   "lead": "Il notiziario serale del 21 ottobre di RTHK riporta tre storie: ministri Apec concordano su comunicazione coordinata, Hong Kong vince primo oro ai Giochi Paralimpici asiatici, e un uomo in tribunale in Australia per attacco che ha causato perdita di arti a una parlamentare. Lo riferisce RTHK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1874801-20261021.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T20:40+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z80e086c9",
+   "sez": "mondo",
+   "titolo": "Campionato nazionale di boccia in Preveza",
+   "orig": "Στην Πρέβεζα το Πανελλήνιο Τουρνουά Εδαφοσφαίρισης",
+   "lead": "Il campionato nazionale di boccia in doppio (maschile, femminile e junior) si terrà il 24 e 25 ottobre a Preveza, in Grecia, organizzato dalla Federazione ellenica di boccia e da una società sportiva locale. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/perifereiakoi-stathmoi/ioanina/stin-preveza-to-panellinio-tournoua-edafosfairisis/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-21T14:56+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z2519d7a0",
+   "sez": "mondo",
+   "titolo": "Egitto dichiara nullo il memorandum turco-libico",
+   "orig": "Aιγυπτιακό ΥΠΕΞ: Το τουρκολιβυκό μνημόνιο είναι άκυρο, στερείται νομικής ισχύος",
+   "lead": "L'Egitto ha rigettato ufficialmente l'approvazione da parte della Libia del memorandum turco-libico, dichiarando il trattato \"assolutamente nullo e privo di valore legale\". Il ministero degli esteri egiziano ha specificato che l'accordo non produce effetti giuridici sul paese. Lo riferisce ERT News.",
+   "more": [
+    "Il memorandum turco-libico del 2019 riguardava controverse delimitazioni marittime nel Mediterraneo orientale, contrastato da Egitto, Grecia e Cipro."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/aigyptiako-ypeks-to-tourkolivyko-mnimonio-einai-akyro-stereitai-nomikis-isxyos/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-21T14:39+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zb48bc7b4",
+   "sez": "mondo",
+   "titolo": "Putin riceve il premier cinese Li Keqiang a San Pietroburgo",
+   "orig": "Во Санкт Петербург средба Путин - Ли",
+   "lead": "Il presidente russo Vladimir Putin ha incontrato il primo ministro cinese Li Keqiang il 21 ottobre a San Pietroburgo per discutere di cooperazione bilaterale. Putin ha sottolineato l'importanza della partnership sino-russa. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%B2%D0%BE-%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-%D1%81%D1%80%D0%B5%D0%B4%D0%B1%D0%B0-%D0%BF%D1%83%D1%82%D0%B8%D0%BD-%D0%BB%D0%B8",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-21T16:59+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z491f5088",
+   "sez": "mondo",
+   "titolo": "La Corte costituzionale della Macedonia rigetta ricorso su legge pensioni",
+   "orig": "Уставен суд ја ја отфрли иницијативата за оценување на уставноста на член 2 од Законот за изменување на Законот за пензиското и инвалидското осигурување",
+   "lead": "La Corte costituzionale della Macedonia del Nord ha rigettato il 21 ottobre un'iniziativa che richiedeva una valutazione della costituzionalità dell'articolo 2 della nuova legge in materia di pensioni e assicurazione di invalidità. La decisione conferma la direzione della riforma previdenziale. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%B5%D0%BD-%D1%81%D1%83%D0%B4-%D1%98%D0%B0-%D1%98%D0%B0-%D0%BE%D1%82%D1%84%D1%80%D0%BB%D0%B8-%D0%B8%D0%BD%D0%B8%D1%86%D0%B8%D1%98%D0%B0%D1%82%D0%B8%D0%B2%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%BE%D1%86%D0%B5%D0%BD%D1%83%D0%B2%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B0-%D0%BD%D0%B0-%D1%87%D0%BB%D0%B5%D0%BD-2-%D0%BE%D0%B4-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D1%82-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D1%83%D0%B2%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D1%82-%D0%B7%D0%B0-%D0%BF%D0%B5%D0%BD%D0%B7%D0%B8%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D0%B8-%D0%B8%D0%BD%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D1%81%D0%BA%D0%BE%D1%82%D0%BE-%D0%BE%D1%81%D0%B8%D0%B3%D1%83%D1%80%D1%83%D0%B2%D0%B0%D1%9A%D0%B5",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-21T16:31+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zdc8b2ed6",
+   "sez": "mondo",
+   "titolo": "Il comune di Ilinden avvia costruzione strada industriale",
+   "orig": "Општина Илинден започна со изградба на индустриската улица „Н10“ во н. Илинден",
+   "lead": "Il comune di Ilinden in Macedonia del Nord ha avviato il 21 ottobre la costruzione della strada industriale \"N10\", progetto volto a migliorare la rete stradale e creare condizioni favorevoli per lo sviluppo economico locale. Lo riferisce MIA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D0%BE%D0%BF%D1%88%D1%82%D0%B8%D0%BD%D0%B0-%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D0%B5%D0%BD-%D0%B7%D0%B0%D0%BF%D0%BE%D1%87%D0%BD%D0%B0-%D1%81%D0%BE-%D0%B8%D0%B7%D0%B3%D1%80%D0%B0%D0%B4%D0%B1%D0%B0-%D0%BD%D0%B0-%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D1%83%D0%BB%D0%B8%D1%86%D0%B0-%D0%BD10-%D0%B2%D0%BE-%D0%BD.-%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D0%B5%D0%BD",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-10-21T16:26+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zefe9b5be",
+   "sez": "mondo",
+   "titolo": "Procura europea perquisisce Parlamento in inchiesta su fondi UE",
+   "orig": "Searches at the European Parliament in a case concerning EU funds",
+   "lead": "L'Ufficio del procuratore europeo ha condotto perquisizioni presso la sede del Parlamento europeo a Bruxelles e Strasburgo il 21 ottobre in relazione a un'indagine su fondi dell'Unione europea. L'ufficio non ha chiarito i dettagli dell'indagine. Lo riferisce IPN.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/searches-at-the-european-parliament-in-a-case-concerning-eu-funds/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-21T14:40+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zb8db31cf",
+   "sez": "mondo",
+   "titolo": "Il Palazzo del Parlamento moldavo rimane incompiuto sette anni dopo fine lavori",
+   "orig": "The Parliament Building, unaccepted, seven years after the reconstruction works",
+   "lead": "Il Palazzo del Parlamento della Moldavia, la cui ricostruzione è stata formalmente conclusa nel 2019, non è stato ancora ufficialmente ricevuto e consegnato dalle autorità competenti. Inoltre, i diritti di proprietà non sono stati registrati nel registro immobiliare. Lo riferisce IPN.",
+   "more": [
+    "La ricostruzione del palazzo, danneggiato nel corso dei decenni, è stata considerata un progetto strategico per il governo moldavo in vista dell'integrazione europea."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/the-parliament-building-unaccepted-seven-years-after-the-reconstruction-works/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-21T14:03+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z121970a8",
+   "sez": "mondo",
+   "titolo": "Procedure burocratiche scoraggiano investimenti nel centro storico di Chisinau",
+   "orig": "Civil society: The difficult authorization procedures discourage investments in the historic center of Chisinau",
+   "lead": "Rappresentanti della società civile moldava hanno segnalato che i complessi procedimenti autorizzativi scoraggiano gli investimenti nel centro storico di Chisinau durante le consultazioni pubbliche sul Piano urbano generale 2040. L'deterioramento dei monumenti storici rimane una sfida. Lo riferisce IPN.",
+   "more": [
+    "Chisinau ospita un ricco patrimonio architettonico che risale al XIX e XX secolo e richiede interventi di conservazione urgenti."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/civil-society-the-difficult-authorization-procedures-discourage-investments-in-the-historic-center-of-chisinau/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-21T13:37+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zd1dd8152",
+   "sez": "mondo",
+   "titolo": "Funzionario moldavo con ricchezza ingiustificata scoperto dall'Autorità anticorruzione",
+   "orig": "ANI found an unjustified wealth of nearly 475 thousand lei for a SPPS officer",
+   "lead": "L'Autorità nazionale d'integrità della Moldavia ha scoperto un patrimonio ingiustificato di quasi 475.000 lei in possesso di un ufficiale del Servizio di protezione e guardia dello Stato moldavo. La discrepanza è stata rilevata nel corso di verifiche ordinarie. Lo riferisce IPN.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/ani-found-an-unjustified-wealth-of-nearly-475-thousand-lei-for-a-spps-officer/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-21T12:52+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z20b6ea7d",
+   "sez": "mondo",
+   "titolo": "Oltre mille posti di lavoro offerti alla Fiera Carriere di Chisinau",
+   "orig": "Over a thousand job opportunities offered at the Chisinau Career Fair, between October 23 and 24",
+   "lead": "La Fiera Carriere di Chisinau, in programma il 23 e 24 ottobre al Palazzo nazionale Nicolae Sulac, offrirà più di mille opportunità di impiego. Circa 20 grandi datori di lavoro moldavi e internazionali parteciperanno all'evento. Lo riferisce IPN.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/over-a-thousand-job-opportunities-offered-at-the-chisinau-career-fair-between-october-23-and-24/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-10-21T12:15+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z0560e925",
+   "sez": "mondo",
+   "titolo": "L'inviato americano Witkoff presenta a Putin le proposte di pace sul conflitto ucraino",
+   "orig": "Ուիթքոֆը Պուտինին է ներկայացրել խաղաղության նոր առաջարկները. ի՞նչ են դրանք նախատեսում",
+   "lead": "L'inviato speciale statunitense Steve Witkoff ha incontrato il presidente russo Vladimir Putin il 21 ottobre a San Pietroburgo per presentargli nuove proposte di risoluzione del conflitto russo-ucraino, precedentemente ricevute dal presidente ucraino a Oslo. L'incontro è durato circa tre ore. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/ouitkofy-poutinin-e-nerkayatsrel-khaghaghoutyan-nor-arajarknery-i-nch-en-drank-nakhatesoum/33880988.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-21T18:07+04:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/putin-grazie-usa-per-attenzione-a-questione-ucraina-56029b8b-cb02-419f-ab9e-4d4ae198daea.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T12:07+00:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3089379/rusijai-paleidus-jav-kalini-witkoffas-pavadino-putina-humanistu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-21T17:09+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zfb34397b",
+   "sez": "mondo",
+   "titolo": "Baku aggiunge 31 cittadini turchi alla lista delle persone indesiderate",
+   "orig": "Բաքուն Թուրքիայի 31 քաղաքացու ներառել է անցանկալի անձանց ցուցակում",
+   "lead": "L'Azerbaigian ha incluso ufficialmente 31 cittadini turchi nella lista delle persone indesiderate, vietando loro l'ingresso nel territorio azero. La decisione riflette crescenti tensioni nelle relazioni tra i due paesi alleati della regione caucasica. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/bakoun-tourkiayi-31-kaghakatsou-nerarel-e-antsankali-andzants-tsoutsakoum/33880995.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-21T18:02+04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z62fa3be5",
+   "sez": "mondo",
+   "titolo": "Armenia: il corridoio TRIPP non richiede controlli obbligatori alle frontiere",
+   "orig": "Ադրբեջանցին TRIPP-ով անցնելիս հայ մաքսավորի ու սահմանապահի կհանդիպի՞. ըստ արտգործնախարարի՝ «կարող է ընդհանրապես չհանդիպի»",
+   "lead": "Il ministro degli esteri armeno Aravt Mirzoyan ha chiarito il 21 ottobre che gli azeri transitanti per il corridoio di trasporto TRIPP a Syunik potrebbero non incontrare guardie di confine e doganieri armeni. Il passaggio potrebbe avvenire attraverso pre-dichiarazioni elettroniche e scansioni automatiche. Lo riferisce Azatutyun.",
+   "more": [
+    "Il corridoio TRIPP, parte degli accordi di Losanna tra Armenia e Turchia, collega la Turchia a Nakhchivan attraverso il territorio armeno e rappresenta uno degli aspetti più controversi del processo di normalizzazione."
+   ],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33880891.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-10-21T15:52+04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z100c7692",
+   "sez": "mondo",
+   "titolo": "I patriarchi condannano l'attacco al villaggio cristiano di Taybeh",
+   "orig": "Church leaders in Jerusalem condemn recent attacks in Taybeh",
+   "lead": "I patriarchi e i capi delle chiese di Gerusalemme hanno condannato fermamente il 21 ottobre l'attacco del 17 ottobre al villaggio cristiano di Taybeh, attribuito a coloni armati mascherati. L'evento ha causato danni alla comunità cristiana locale. Lo riferisce Vatican News.",
+   "more": [
+    "Taybeh è un villaggio a maggioranza cristiana nella Palestina storica, con una popolazione di circa 1.500 abitanti, tradizionalmente coinvolto nella produzione di birra."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/church/news/2026-10/jerusalem-church-leaders-condemn-recent-attacks-in-taybeh.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-21T15:22+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zb43c041c",
+   "sez": "mondo",
+   "titolo": "Il cardinale Parolin: la legge deve regolamentare l'intelligenza artificiale",
+   "orig": "Cardinal Parolin: The law must govern AI and eliminate inequalities",
+   "lead": "Il cardinale Pietro Parolin, Segretario di Stato della Santa Sede, ha aperto il 21 ottobre una serie di convegni per il 150° anniversario della Facoltà di diritto canonico dell'Università Gregoriana di Roma, affrontando la regolamentazione legale dell'intelligenza artificiale. Lo riferisce Vatican News.",
+   "more": [
+    "Il richiamo ai principi dell'enciclica \"Magnifica humanitas\" di Papa Leone XIII pone l'accento sulla necessità di conformare lo sviluppo tecnologico ai valori umani e cristiani."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-parolin-gregorian-uni-artificial-intelligence-law.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-21T14:45+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
    "id": "zd11e575e",
    "sez": "musica",
    "titolo": "Wendy Eisenberg pubblica una canzone di 30 minuti e annuncia una nuova band con More Eaze",
@@ -2208,6 +3951,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-21T14:44+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-21T12:18+00:00"
     }
    ],
    "data": "21 ott",
@@ -6057,6 +7809,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-10-21T11:15+02:00"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/vatican-city/news/2026-10/holy-see-at-oas-respect-the-dignity-of-indigenous-peoples.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-10-21T15:33+02:00"
     }
    ],
    "data": "21 ott",
@@ -7599,6 +9360,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-10-21T06:03+00:00"
+    },
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/opinion/china-opinion/article/3371259/chinas-offshore-tax-crackdown-could-inadvertently-fuel-digital-dollar-boom",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T12:30+00:00"
     }
    ],
    "data": "21 ott",
@@ -7836,30 +9606,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Czechia",
      "t": "2026-10-21T07:58+02:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:43",
-   "uscita": "13"
-  },
-  {
-   "id": "z2759e6ac",
-   "sez": "economia",
-   "titolo": "Bosnia, il deficit commerciale si allarga nonostante le esportazioni in crescita",
-   "orig": "Bosnia's foreign trade deficit widens despite strong export performance",
-   "lead": "La Bosnia ed Erzegovina ha registrato esportazioni di beni per un valore di 13,4 miliardi di marchi convertibili bosniaci, circa 6,85 miliardi di euro, nei primi nove mesi dell'anno. Nonostante questa buona performance delle esportazioni, il deficit della balanza commerciale del Paese continua ad ampliarsi, segnalando un divario crescente tra il valore delle importazioni e quello delle esportazioni. Lo riferisce N1 Bosnia.",
-   "more": [
-    "Il deficit commerciale misura la differenza tra il valore delle importazioni e quello delle esportazioni di un Paese. Un deficit crescente, anche in presenza di buone esportazioni, indica tipicamente importazioni ancora più forti, spesso legate alla domanda interna di beni energetici o industriali non prodotti localmente."
-   ],
-   "fonti": [
-    {
-     "n": "N1 Bosnia",
-     "p": "XX",
-     "c": "Sarajevo",
-     "u": "https://n1info.ba/english/news/bosnias-foreign-trade-deficit-widens-despite-strong-export-performance/",
-     "angolo": "",
-     "atlas": "Bosnia and Herz.",
-     "t": "2026-10-21T12:05+02:00"
     }
    ],
    "data": "21 ott",
@@ -10158,30 +11904,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zff7b7e65",
-   "sez": "tech",
-   "titolo": "Il CEO di Nvidia terrà un discorso a Berlino tra scrutinio degli investitori sull'IA",
-   "orig": "Nvidia CEO to deliver keynote speech in Berlin as his firm faces investor scrutiny over AI",
-   "lead": "Il CEO di Nvidia Jensen Huang è atteso sul palco a Berlino mercoledì, mentre l'azienda, la più valutata al mondo, affronta un crescente scrutinio da parte degli investitori sulla sostenibilità a lungo termine degli investimenti nel boom dell'intelligenza artificiale che ha alimentato la sua crescita. L'agenda della conferenza si concentra su IA sovrana, automazione industriale e infrastrutture operative, settori in cui Nvidia punta a espandere la domanda oltre i grandi gruppi tecnologici statunitensi che attualmente dominano il mercato. Lo riferisce South China Morning Post.",
-   "more": [
-    "Nvidia è diventata negli ultimi anni l'azienda più valutata al mondo grazie alla domanda di chip per l'intelligenza artificiale generativa. Gli investitori si interrogano sulla durata di questo ciclo di spesa, temendo una possibile bolla speculativa, mentre l'azienda cerca di diversificare i clienti verso governi e settori industriali oltre alle grandi aziende tecnologiche statunitensi."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post – Tecnologia",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/tech/big-tech/article/3371604/can-nvidia-ceo-deliver-keynote-speech-berlin-his-firm-faces-investor-scrutiny-over-ai",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-21T06:07+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:38",
-   "uscita": "13"
-  },
-  {
    "id": "za9e04f5d",
    "sez": "dibattito",
    "titolo": "Proposta di legge in Francia per vendere prodotti sani a prezzo di costo nei supermercati",
@@ -11478,47 +13200,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z931a9c1a",
-   "sez": "tech",
-   "titolo": "La Commissione europea apre un'indagine su Booking.com per frodi",
-   "orig": "Comissão Europeia investiga plataforma Booking por suspeitas de burlas e fraude",
-   "lead": "La Commissione europea ha aperto un procedimento formale contro la piattaforma di prenotazioni Booking.com per verificare se l'azienda faccia abbastanza per contrastare annunci fraudolenti e truffe tramite messaggi falsi. L'indagine riguarda il rispetto del Digital Services Act, la normativa europea sui servizi digitali. L'annuncio è arrivato oggi tramite un comunicato della Commissione.",
-   "more": [
-    "Il Digital Services Act è il regolamento europeo che impone alle grandi piattaforme online obblighi di trasparenza e controllo dei contenuti, incluse misure contro frodi e contenuti illeciti. Violazioni possono comportare sanzioni fino a una percentuale del fatturato globale dell'azienda interessata."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/economia/comissao-europeia-investiga-plataforma-booking-por-suspeitas-de-burlas-e-fraude_n1773193",
-     "angolo": "",
-     "atlas": "Portugal"
-    },
-    {
-     "n": "VRT NWS",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.vrt.be/vrtnws/nl/2026/10/21/europese-commissie-opent-onderzoek-naar-booking-com.rss.xml",
-     "angolo": "",
-     "atlas": "Belgium",
-     "t": "2026-10-21T10:03+00:00"
-    },
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/2026/1021/1596262-booking-eu-investigation/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-10-21T11:14+01:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
    "id": "zbd99dfe8",
    "sez": "dibattito",
    "titolo": "Milano, manifestazione contro la violenza con Cgil, Pd e sindaco Sala",
@@ -12690,7 +14371,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z4a294469": "Gambero Rosso ripercorre la storia e le norme che distinguono marmellata e confettura.",
   "z5446b738": "The Guardian e Al Jazeera evidenziano il ritorno in forma di Phil Foden con la sua tripletta.",
   "zea8360ac": "Vatican News sottolinea come l'Artico sia diventato priorità geopolitica per l'Europa.",
-  "z931a9c1a": "Le testate riportano l'apertura dell'indagine europea sulle regole del Digital Services Act.",
   "zbd99dfe8": "Le testate descrivono l'adesione ampia del centrosinistra milanese alla manifestazione.",
   "z9e481152": "La testata tedesca sottolinea le implicazioni politiche per Trump.",
   "z5ef22d51": "L'ONU richiama l'attenzione sul divario tra impegni e risultati.",
@@ -12783,7 +14463,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z52de8a59": "La testata annuncia il lancio di nuovi collegamenti aerei diretti tra le due capitali.",
   "z2f1de4cc": "La testata presenta la scoperta come un passo avanti nella comprensione della depressione resistente.",
   "zbe483065": "La testata riporta i dettagli del contratto assegnato per l'infrastruttura sportiva.",
-  "zff7b7e65": "La testata evidenzia le tensioni tra crescita di Nvidia e dubbi degli investitori.",
   "za9e04f5d": "Le Monde descrive il contenuto della proposta di legge e la data della sua discussione parlamentare.",
   "zd5d479e4": "La Tercera segnala le preoccupazioni di giocatori e organizzatori dei tornei minori davanti al nuovo piano ATP.",
   "z846f26ee": "Premium Times riporta le promesse di Makinde e le sue accuse al governo federale nigeriano.",
@@ -12837,7 +14516,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "ze67ef83e": "Il Luxembourg Times segnala l'incertezza sui tempi dello scatto salariale legata ai prezzi energetici.",
   "z894b786d": "Expats.cz sottolinea il contrasto tra calo complessivo dei disoccupati e aumento della disoccupazione di lungo periodo.",
   "z027c7445": "Expats.cz descrive i dettagli del nuovo progetto residenziale a Praga.",
-  "z2759e6ac": "N1 Bosnia evidenzia il contrasto tra buone esportazioni e deficit commerciale in aumento.",
   "zf8878822": "Kun.uz riporta le dichiarazioni del segretario di Stato Rubio sulla cooperazione nucleare.",
   "z7281d62d": "Daryo descrive gli obiettivi economici e sociali dei nuovi progetti agricoli uzbeki.",
   "zce68b29c": "Daryo evidenzia la strategia uzbeka di attrarre investimenti nel settore minerario.",
@@ -13160,7 +14838,71 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z44d1476b": "La testata celebra il miglioramento della nazionale femminile nel ranking.",
   "za6a26433": "La testata descrive il crollo come la fine di un'impennata eccezionale dei prezzi.",
   "z54713db6": "La testata evidenzia la gravità della diffusione verso l'Africa occidentale.",
-  "z62b52d31": "La testata sottolinea la preparazione della squadra in vista del torneo."
+  "z62b52d31": "La testata sottolinea la preparazione della squadra in vista del torneo.",
+  "zd47e0811": "La testata riporta le dichiarazioni del vicesegretario finanziario sulle misure per rafforzare il ruolo di Hong Kong nel trading dello yuan.",
+  "zc928442c": "La testata riprende una notizia del Moscow Times sulla vendita di oro russo per sostenere le spese belliche.",
+  "zc5014bd8": "La testata collega il licenziamento del Ceo di Lindt al crollo in borsa causato dal rincaro del cacao.",
+  "z942d8c7b": "La testata riporta i risultati di uno studio universitario sugli effetti del commissariamento antimafia sulla gestione dei rifiuti.",
+  "z8407f641": "La testata sottolinea la rapidità con cui sono stati esauriti i fondi per il bonus energetico.",
+  "z601f96d7": "La testata evidenzia come l'attenzione agli idrocarburi rischi di rallentare i progetti namibiani sull'idrogeno verde.",
+  "z7742a10f": "La testata riporta l'annuncio presidenziale sulla nuova partecipazione statale nel settore minerario.",
+  "z9e7d7d65": "La testata riporta i dati ufficiali sull'andamento del commercio estero bosniaco nei primi nove mesi dell'anno.",
+  "z23286781": "La testata segnala il dietrofront delle autorità praghesi dopo le lamentele sui prezzi dei taxi.",
+  "zff208cd2": "La testata segnala l'avanzamento di uno dei maggiori progetti infrastrutturali energetici del Paese.",
+  "z818e4016": "La testata riporta il dato ufficiale diffuso dalla banca centrale sulle riserve valutarie nazionali.",
+  "z462a7ecf": "La testata riporta i contenuti dell'incontro tra il premier curdo e un diplomatico statunitense.",
+  "z8b623847": "La testata riporta l'offerta di collaborazione taiwanese per sostenere l'economia di Eswatini.",
+  "z9c426525": "La testata riporta la discussione emersa durante un incontro economico sulla fiducia dei giovani nel sistema pensionistico.",
+  "z5892dcbe": "La testata segnala l'apertura di un'indagine Ue senza fornire ulteriori dettagli.",
+  "z5a7d223a": "La testata riporta la richiesta di fallimento presentata dalle banche creditrici.",
+  "z941c7719": "La testata presenta la nuova iniziativa di cooperazione tra Andorra e i territori vicini.",
+  "z68f8aab2": "L'editorialista critica la riduzione del budget destinato all'istruzione nel bilancio rettificativo senegalese.",
+  "z1ca6d58f": "La testata camerunense riferisce di una controversia legale che coinvolge un membro del governo in una causa francese.",
+  "zdd81519a": "La testata svizzera sottolinea il ritiro della testata britannica pur segnalando che rimangono domande sulla trasparenza retributiva.",
+  "z41f0fcfe": "La testata venezuelana presenta l'offerta di mediazione russa nel contesto delle tensioni regionali mediorientali.",
+  "z8d8b4713": "La testata burkinabè amplifica le istanze sindacali sulla riforma delle politiche di valutazione universitaria.",
+  "zc3b3f44f": "La testata ciadiana riporta il confronto tra autorità educative su problemi strutturali della scuola.",
+  "ze475228d": "La testata angolana informa sui dettagli procedurali di un'operazione di reclutamento della pubblica amministrazione.",
+  "z5d37f732": "La testata azerbaigiana segnala la partecipazione a un evento energetico regionale.",
+  "zfffae8eb": "La testata italiana riferisce dell'intervento dell'esecutivo europeo verso una piattaforma di prenotazioni per mancanze di sicurezza.",
+  "zd2bf084e": "La testata guineana riporta la condanna di un ex magistrato per reati economico-finanziari.",
+  "zdad8b6c0": "La testata italiana riporta le dichiarazioni del presidente francese nel contesto di tensioni sociali e sospetti di ingerenze esterne.",
+  "z9587d0eb": "La testata sudcoreana riferisce della decisione della Corte sulla partecipazione parlamentare di un'opposizionista.",
+  "ze53772dd": "La testata nigeriana informa sui progressi del disegno di riforma della struttura di sicurezza interna.",
+  "zab3d9c00": "L'emittente pubblica portoghese riporta l'esito processuale favorevole ai militari coinvolti.",
+  "zd993dd26": "La testata uzbeka riporta l'appello presidenziale per la promozione della lingua nazionale in ambito scientifico-tecnologico.",
+  "z9e9fb27a": "La testata boliviana informa di un incontro tra un'autorità locale e il papa.",
+  "zff52ac00": "La testata francese informa di un grave disservizio infrastrutturale che ha colpito milioni di utenti.",
+  "z9a5ff57f": "La testata tedesca analizza criticamente la strategia di corteggiamento europeo del leader dell'azienda tecnologica.",
+  "z5e30aff1": "La testata capoverdiana riferisce dell'elezione di una nuova leadership parlamentare dell'opposizione.",
+  "z33eb6f48": "La testata capoverdiana informa di un sequestro di stupefacenti in un hub aeroportuale regionale.",
+  "z7a4da085": "La testata malgascia copre l'esordio della squadra nazionale nei preliminari africani di pallacanestro.",
+  "zdf6512f7": "La testata americana analizza l'escalation del comportamento politico del candidato ripubblicano.",
+  "z6dbdcf68": "L'emittente pubblica irlandese informa sui convocati per le gare internazionali imminenti.",
+  "zb86a0630": "L'emittente pubblica irlandese riporta le critiche parlamentari a una riforma del sistema pensionistico.",
+  "z39d68baf": "La testata ceca riporta un appello per il rafforzamento del coordinamento regionale comunitario.",
+  "z47e1fb49": "Enfasi sulla pressione politica europea verso il conflitto ucraino",
+  "zeb118469": "Valorizzazione del successo sportivo lituano nel basket",
+  "z51a3cbae": "Celebrazione della cultura lituana nella diaspora internazionale",
+  "z66ad44af": "Scandalo di campagna elettorale per metodi controversi",
+  "zb69e1e22": "Rafforzamento della posizione della Corea del Sud nelle istituzioni sanitarie internazionali",
+  "z9f4e10f4": "Bilancio tra sviluppo turistico e consenso della comunità locale",
+  "z34b2028e": "Priorità informative della televisione pubblica di Hong Kong",
+  "z80e086c9": "Copertura di evento sportivo locale ellenico",
+  "z2519d7a0": "Tensioni geopolitiche nel Mediterraneo orientale su delimitazioni marittime",
+  "zb48bc7b4": "Consolidamento dell'asse Mosca-Pechino in contesto geopolitico teso",
+  "z491f5088": "Conferma della riforma previdenziale da parte dell'organo costituzionale",
+  "zdc8b2ed6": "Sviluppo infrastrutturale locale in Macedonia del Nord",
+  "zefe9b5be": "Controllo della magistratura europea su possibili irregolarità nella gestione di fondi comunitari",
+  "zb8db31cf": "Criticità di governance nella gestione di progetti pubblici in Moldavia",
+  "z121970a8": "Difficoltà della governance locale nel coniugare conservazione del patrimonio e sviluppo",
+  "zd1dd8152": "Controllo dell'autorità anticorruzione su arricchimento illecito di funzionari pubblici",
+  "z20b6ea7d": "Opportunità di occupazione nel mercato del lavoro moldavo",
+  "z0560e925": "Sforzi diplomatici americani per risolvere il conflitto in Ucraina",
+  "zfb34397b": "Deterioramento delle relazioni turco-azere nonostante alleanza strategica",
+  "z62fa3be5": "Chiarimenti su implementazione del corridoio di trasporto nel contesto della normalizzazione regionale",
+  "z100c7692": "Preoccupazione delle autorità religiose per la sicurezza delle comunità cristiane in Palestina",
+  "zb43c041c": "Posizione del Vaticano sulla regolamentazione delle tecnologie emergenti secondo principi etici"
  },
  "contesti": {
   "z247a9c3a": "Il Papa era stato operato martedì scorso al Policlinico Gemelli, intervento durante il quale è stato scoperto il tumore polmonare. Nei giorni seguenti ha ripreso gradualmente alcune attività pubbliche, apparendo in piazza San Pietro a bordo della papamobile e tenendo la prima udienza generale dopo l'operazione.",
@@ -13173,7 +14915,8 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z3e9bc714": "Apple aveva presentato l'iPhone Duo come il suo primo smartphone pieghevole, suscitando grande attesa tra appassionati e media tecnologici. Al lancio degli ordini online, la domanda ha superato le aspettative, esaurendo rapidamente le prime scorte e allungando i tempi di consegna in diversi mercati, Italia inclusa, dove il prezzo di partenza è stato fissato a 2.369 euro.",
   "z61d87d0c": "Nelle scorse settimane il governo ha discusso un decreto che inasprisce le norme sui cortei e sull'ordine pubblico, estendendo alcune fattispecie di reato anche ai minorenni. Il provvedimento ha suscitato dibattito politico, con il ministro della Giustizia Nordio che ha difeso la linea dura rispondendo a un'interrogazione parlamentare, mentre cresceva l'attenzione sul tema del disagio giovanile.",
   "z66b313a7": "L'epidemia di Ebola, originata nell'est della Repubblica Democratica del Congo, ha già causato migliaia di morti nei mesi precedenti. Negli ultimi giorni il virus si è diffuso oltre i confini congolesi, con casi confermati in Kenya e, più recentemente, in Nigeria, primo caso nel Paese in oltre un decennio, mentre resta alta l'attenzione anche in Uganda.",
-  "z54713db6": "L'epidemia è partita dall'est della Repubblica Democratica del Congo, causando migliaia di morti. Nei giorni scorsi il Kenya ha confermato casi importati dal Congo, mentre ora la Nigeria registra il primo caso in 12 anni. L'Organizzazione Mondiale della Sanità segue la diffusione del virus, con rinnovata allerta anche in Uganda."
+  "z54713db6": "L'epidemia è partita dall'est della Repubblica Democratica del Congo, causando migliaia di morti. Nei giorni scorsi il Kenya ha confermato casi importati dal Congo, mentre ora la Nigeria registra il primo caso in 12 anni. L'Organizzazione Mondiale della Sanità segue la diffusione del virus, con rinnovata allerta anche in Uganda.",
+  "zfffae8eb": "Da tempo utenti di Booking.com segnalano truffe legate a messaggi di phishing che imitano comunicazioni ufficiali della piattaforma, sfruttando dati reali delle prenotazioni per chiedere pagamenti fraudolenti. Le autorità europee per la tutela dei consumatori avevano già raccolto segnalazioni e sollecitato la piattaforma a rafforzare i controlli sugli host e sugli annunci, nell'ambito del Digital Services Act che impone obblighi stringenti alle grandi piattaforme online."
  },
  "cronologie": {
   "z247a9c3a": [
@@ -13318,6 +15061,24 @@ window.EDIZIONI["2026-10-21-sera"] = {
    [
     "20-21 ottobre 2026",
     "La Nigeria confirma il primo caso di Ebola in 12 anni"
+   ]
+  ],
+  "zfffae8eb": [
+   [
+    "2023-2024",
+    "Aumentano le segnalazioni di truffe phishing legate a prenotazioni Booking.com in diversi paesi UE"
+   ],
+   [
+    "2024",
+    "Entrata in vigore degli obblighi rafforzati del Digital Services Act per le grandi piattaforme online"
+   ],
+   [
+    "Settimane scorse",
+    "La Commissione europea avvia verifiche preliminari sulle misure anti-frode adottate da Booking.com"
+   ],
+   [
+    "21 ottobre 2026",
+    "La Commissione Ue apre formalmente un'indagine su Booking.com per annunci fraudolenti e carenze nella prevenzione delle truffe"
    ]
   ]
  },
@@ -13575,6 +15336,46 @@ window.EDIZIONI["2026-10-21-sera"] = {
     }
    ],
    "divergono": "Gli articoli di El Mundo trattano temi diversi (scontro Tusk-Sánchez sulla migrazione, scontri a La Coruña) rispetto al confronto Milei-Sánchez centrale per Repubblica ed El País. Sugli scontri di La Coruña, El País e El Mundo concordano sui fatti essenziali (cariche di polizia, migliaia di manifestanti) ma El País enfatizza le accuse di sproporzione dei manifestanti, mentre El Mundo dà più spazio alla voce di Abascal e a quella del rappresentante nazionalista Galiza Nova. Per gli altri articoli il giudizio resta parziale, mancando i testi completi."
+  },
+  "zfffae8eb": {
+   "voci": [
+    {
+     "n": "Il Post",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Riporta in modo sintetico l'apertura dell'indagine Ue su Booking.com basata sul Digital Services Act, citando tre aree: annunci fraudolenti, 'phishing' e inserzioni a pagamento non segnalate. Riferisce la definizione di un funzionario Ue di sforzi 'decisamente insufficienti' e la replica dell'azienda sulla collaborazione con Bruxelles.",
+     "b": "a"
+    },
+    {
+     "n": "RTÉ News",
+     "c": "Dublino",
+     "p": "XX",
+     "t": "Articolo molto dettagliato che descrive meccanismi concreti di truffa (false proprietà, phishing su account) con testimonianze di funzionari Ue anonimi. Cita dati olandesi (1.072 segnalazioni, 82.000 euro di danni, aumento 'decuplo') e della Bce (4,2 miliardi di euro, +17% annuo), e include il commento critico dell'eurodeputata Regina Doherty.",
+     "b": "a"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Si concentra sugli aspetti normativi, citando gli articoli 34, 35 e 26 del Dsa e la dichiarazione della vicepresidente Ue Henna Virkkunen sul diritto dei cittadini a prenotare 'senza il timore di essere truffati'. Riporta il dato di un aumento del 500% delle truffe globali segnalato da Booking.com stessa e confronta il caso con quello Meta del 2024.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Solo titolo e occhiello disponibili, giudizio parziale: indica che l'istruttoria riguarda annunci fraudolenti, non conformi e truffe di phishing legate ai dati di prenotazioni e ospiti.",
+     "b": "t"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Stesso titolo e occhiello della versione precedente, testo non leggibile: giudizio parziale, limitato all'indicazione dei temi dell'istruttoria su annunci fraudolenti e phishing.",
+     "b": "t"
+    }
+   ],
+   "divergono": "RTÉ News fornisce il quadro più ampio, con dati olandesi precisi (1.072 segnalazioni, 82.000 euro) attribuiti a Fraudehelpdesk e il commento critico di una eurodeputata, assenti negli altri articoli. ANSA aggiunge il riferimento normativo puntuale (articoli 34, 35, 26 Dsa) e il parallelo col caso Meta, elementi non presenti nel Post né in RTÉ. Il Post resta più generico, senza cifre specifiche sulle truffe. Le due versioni di la Repubblica offrono solo titolo e occhiello, senza dettagli verificabili."
   }
  },
  "luoghi": {
@@ -13692,13 +15493,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "pt": []
   },
   "zea8360ac": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
-  "z931a9c1a": {
    "n": "Bruxelles",
    "p": [
     "Belgium"
@@ -14337,13 +16131,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "zff7b7e65": {
-   "n": "Berlino",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
   "za9e04f5d": {
    "n": "Francia",
    "p": [
@@ -14701,13 +16488,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Praga",
    "p": [
     "Czechia"
-   ],
-   "pt": []
-  },
-  "z2759e6ac": {
-   "n": "Bosnia ed Erzegovina",
-   "p": [
-    "Bosnia and Herz."
    ],
    "pt": []
   },
@@ -16966,6 +18746,447 @@ window.EDIZIONI["2026-10-21-sera"] = {
     "Azerbaijan"
    ],
    "pt": []
+  },
+  "zd47e0811": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "zc928442c": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zc5014bd8": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z942d8c7b": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8407f641": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z601f96d7": {
+   "n": "Namibia",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z7742a10f": {
+   "n": "Nacala-Porto",
+   "p": [
+    "Mozambique"
+   ],
+   "pt": []
+  },
+  "z9e7d7d65": {
+   "n": "Bosnia ed Erzegovina",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z23286781": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zff208cd2": {
+   "n": "Republika Srpska",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z818e4016": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z462a7ecf": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z8b623847": {
+   "n": "Mbabane",
+   "p": [
+    "eSwatini"
+   ],
+   "pt": []
+  },
+  "z9c426525": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z5892dcbe": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z5a7d223a": {
+   "n": "Santiago",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z941c7719": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z68f8aab2": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z1ca6d58f": {
+   "n": "Camerun",
+   "p": [
+    "Cameroon",
+    "France"
+   ],
+   "pt": []
+  },
+  "zdd81519a": {
+   "n": "Svizzera",
+   "p": [
+    "Switzerland",
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z41f0fcfe": {
+   "n": "Russia",
+   "p": [
+    "Russia",
+    "United States of America",
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z8d8b4713": {
+   "n": "Burkina Faso",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "zc3b3f44f": {
+   "n": "Ciad",
+   "p": [
+    "Chad"
+   ],
+   "pt": []
+  },
+  "ze475228d": {
+   "n": "Angola",
+   "p": [
+    "Angola"
+   ],
+   "pt": []
+  },
+  "z5d37f732": {
+   "n": "Azerbaigian",
+   "p": [
+    "Azerbaijan",
+    "Turkmenistan"
+   ],
+   "pt": []
+  },
+  "zfffae8eb": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd2bf084e": {
+   "n": "Guinea",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zdad8b6c0": {
+   "n": "Francia",
+   "p": [
+    "France",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z9587d0eb": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "ze53772dd": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zab3d9c00": {
+   "n": "Portogallo",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zd993dd26": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z9e9fb27a": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zff52ac00": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9a5ff57f": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z5e30aff1": {
+   "n": "Capo Verde",
+   "p": [],
+   "pt": []
+  },
+  "z33eb6f48": {
+   "n": "Capo Verde",
+   "p": [
+    "Brazil",
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z7a4da085": {
+   "n": "Madagascar",
+   "p": [
+    "Madagascar",
+    "Burundi",
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zdf6512f7": {
+   "n": "Stati Uniti d'America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6dbdcf68": {
+   "n": "Irlanda",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zb86a0630": {
+   "n": "Irlanda",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z39d68baf": {
+   "n": "Repubblica Ceca",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z47e1fb49": {
+   "n": "Oleshky",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zeb118469": {
+   "n": "Kaunas",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z51a3cbae": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z66ad44af": {
+   "n": "Ohio",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb69e1e22": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z9f4e10f4": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z34b2028e": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z80e086c9": {
+   "n": "Preveza",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z2519d7a0": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zb48bc7b4": {
+   "n": "San Pietroburgo",
+   "p": [],
+   "pt": []
+  },
+  "z491f5088": {
+   "n": "Skopje",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "zdc8b2ed6": {
+   "n": "Ilinden",
+   "p": [
+    "Macedonia"
+   ],
+   "pt": []
+  },
+  "zefe9b5be": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zb8db31cf": {
+   "n": "Chisinau",
+   "p": [],
+   "pt": []
+  },
+  "z121970a8": {
+   "n": "Chisinau",
+   "p": [],
+   "pt": []
+  },
+  "zd1dd8152": {
+   "n": "Chisinau",
+   "p": [],
+   "pt": []
+  },
+  "z20b6ea7d": {
+   "n": "Chisinau",
+   "p": [],
+   "pt": []
+  },
+  "z0560e925": {
+   "n": "San Pietroburgo",
+   "p": [],
+   "pt": []
+  },
+  "zfb34397b": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "z62fa3be5": {
+   "n": "Syunik",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z100c7692": {
+   "n": "Taybeh",
+   "p": [],
+   "pt": []
+  },
+  "zb43c041c": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -16986,7 +19207,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z4a294469": 1,
   "z5446b738": 2,
   "zea8360ac": 1,
-  "z931a9c1a": 2,
   "zbd99dfe8": 1,
   "z9e481152": 2,
   "z5ef22d51": 1,
@@ -17080,7 +19300,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z52de8a59": 1,
   "z2f1de4cc": 1,
   "zbe483065": 1,
-  "zff7b7e65": 1,
   "za9e04f5d": 1,
   "zd5d479e4": 1,
   "z846f26ee": 1,
@@ -17123,7 +19342,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z11cb04ba": 1,
   "zd2d0ac8f": 1,
   "zfc717b18": 1,
-  "z62394083": 1,
+  "z62394083": 2,
   "z41145122": 1,
   "zd03d69c9": 1,
   "z22fae0d9": 1,
@@ -17134,7 +19353,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "ze67ef83e": 1,
   "z894b786d": 1,
   "z027c7445": 1,
-  "z2759e6ac": 1,
   "zf8878822": 1,
   "z7281d62d": 1,
   "zce68b29c": 1,
@@ -17199,7 +19417,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "ze5df50c4": 1,
   "z90c9b5d5": 1,
   "z43aa4594": 1,
-  "zd9b6d9d5": 1,
+  "zd9b6d9d5": 2,
   "zb89da630": 1,
   "za56bb2ee": 1,
   "zce48685a": 1,
@@ -17460,7 +19678,71 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "za6a26433": 1,
   "z54713db6": 2,
   "z54f930df": 1,
-  "z62b52d31": 1
+  "z62b52d31": 1,
+  "zd47e0811": 1,
+  "zc928442c": 1,
+  "zc5014bd8": 1,
+  "z942d8c7b": 1,
+  "z8407f641": 1,
+  "z601f96d7": 1,
+  "z7742a10f": 1,
+  "z9e7d7d65": 2,
+  "z23286781": 1,
+  "zff208cd2": 1,
+  "z818e4016": 1,
+  "z462a7ecf": 1,
+  "z8b623847": 1,
+  "z9c426525": 1,
+  "z5892dcbe": 1,
+  "z5a7d223a": 1,
+  "z941c7719": 1,
+  "z68f8aab2": 1,
+  "z1ca6d58f": 1,
+  "zdd81519a": 1,
+  "z41f0fcfe": 1,
+  "z8d8b4713": 1,
+  "zc3b3f44f": 1,
+  "ze475228d": 1,
+  "z5d37f732": 1,
+  "zfffae8eb": 2,
+  "zd2bf084e": 1,
+  "zdad8b6c0": 1,
+  "z9587d0eb": 1,
+  "ze53772dd": 1,
+  "zab3d9c00": 1,
+  "zd993dd26": 1,
+  "z9e9fb27a": 1,
+  "zff52ac00": 1,
+  "z9a5ff57f": 2,
+  "z5e30aff1": 1,
+  "z33eb6f48": 1,
+  "z7a4da085": 1,
+  "zdf6512f7": 1,
+  "z6dbdcf68": 1,
+  "zb86a0630": 1,
+  "z39d68baf": 1,
+  "z47e1fb49": 1,
+  "zeb118469": 1,
+  "z51a3cbae": 1,
+  "z66ad44af": 1,
+  "zb69e1e22": 1,
+  "z9f4e10f4": 1,
+  "z34b2028e": 1,
+  "z80e086c9": 1,
+  "z2519d7a0": 1,
+  "zb48bc7b4": 1,
+  "z491f5088": 1,
+  "zdc8b2ed6": 1,
+  "zefe9b5be": 1,
+  "zb8db31cf": 1,
+  "z121970a8": 1,
+  "zd1dd8152": 1,
+  "z20b6ea7d": 1,
+  "z0560e925": 2,
+  "zfb34397b": 1,
+  "z62fa3be5": 1,
+  "z100c7692": 1,
+  "zb43c041c": 1
  },
  "video": {},
  "pillole": []
