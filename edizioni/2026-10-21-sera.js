@@ -3,6 +3,1262 @@ window.EDIZIONI["2026-10-21-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z94d1e822",
+   "sez": "ambiente",
+   "titolo": "Boyan Slat riceve premio internazionale per lotta all'inquinamento marino",
+   "orig": "Opvissen van miljoenen kilo's afval levert Boyan Slat Qatarese prijs op",
+   "lead": "L'inventore olandese Boyan Slat ha ricevuto a Doha il premio International Young Energy Leader Award per il lavoro della sua organizzazione The Ocean Cleanup, che ha rimosso 65 milioni di chili di rifiuti dai mari e dai fiumi mondiali. Lo riferisce NOS.",
+   "more": [
+    "The Ocean Cleanup opera dal 2013 nella rimozione di plastica dagli oceani e dai corsi d'acqua, utilizzando tecnologie innovative di raccolta."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2636048",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-21T09:43+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z3901177f",
+   "sez": "mondo",
+   "titolo": "Belgio: rinviato test con contenitori rifiuti più piccoli",
+   "orig": "Proefproject met kleinere grijze afvalcontainers in Maasmechelen gaat voorlopig niet door",
+   "lead": "Rimandato il progetto sperimentale di Limburg.net sulla riduzione dei rifiuti mediante contenitori più piccoli a Maasmechelen in Belgio. L'opposizione sostiene che la misura potrebbe violare norme sulla non discriminazione. È previsto nuovo coordinamento tra gli enti coinvolti. Lo riferisce VRT NWS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/21/proefproject-met-kleinere-grijze-afvalcontainers-in-maasmechelen.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-21T10:25+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z9e26018b",
+   "sez": "mondo",
+   "titolo": "Fiandre: governo vuole abolire obbligo diploma per salvavita in piscina",
+   "orig": "Vlaamse overheid wil verplicht diploma voor redders in zwembaden schrappen: \"Compleet onverantwoord\"",
+   "lead": "La Regione fiamminga della Belgica intende rendere facoltativo il diploma di soccorritore superiore per i sorveglianti di piscina pubblica. Gestori e soccorritori denunciano che potrebbe compromettere la sicurezza in vasca. Lo riferisce VRT NWS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/21/lago-kortrijk-regels-redders-zwemmers.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-21T10:20+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z3cee94d3",
+   "sez": "mondo",
+   "titolo": "Regno Unito approva sfruttamento giacimento gasifero nel Mare del Nord",
+   "orig": "Britse regering zet licht op groen voor omstreden ontginning van Jackdaw-gasveld in Noordzee",
+   "lead": "Il governo britannico ha autorizzato lo sfruttamento del campo Jackdaw nel Mare del Nord, dichiarando il gas essenziale per riscaldare milioni di abitazioni britanniche durante l'inverno. Gli ambientalisti protestano, contrastando l'operazione con gli impegni climatici. Lo riferisce VRT NWS.",
+   "more": [
+    "Il progetto avrà ricadute occupazionali significative con centinaia di posti di lavoro nel settore estrattivo offshore britannico."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/21/nieuw-gasveld-verenigd-koninkrijk-energie-klimaat.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-21T10:11+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z2f409590",
+   "sez": "mondo",
+   "titolo": "Gand: intensificato controllo su locatari per evitare sfratti",
+   "orig": "OCMW Gent volgt huurders met huurwaarborg nauwer op om uithuiszettingen te vermijden",
+   "lead": "L'ente di assistenza sociale di Gand in Belgio ha potenziato il monitoraggio dei locatari in difficoltà economica, contattandoli dopo tre mesi dalla firma del contratto di affitto. Tre nuovi operatori mirano a prevenire sfratti e disagio abitativo. Lo riferisce VRT NWS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/10/21/gent-huurwaarborg-hup-ocmw-om-uithuiszetting-vermijden.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-10-21T10:03+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z16c6653f",
+   "sez": "mondo",
+   "titolo": "Acquisto di boschi del ceo Palantir sottoposto a scrutinio legale svedese",
+   "orig": "Karps skogsköp i Härjedalen JO-anmäls",
+   "lead": "Un cittadino svedese ha denunciato l'acquisizione di terreni boscati in Härjedalen da parte di Alex Karp, amministratore delegato di Palantir, al Difensore civico. Il ricorrente contesta il rispetto delle norme sugli investimenti esteri diretti. Lo riferisce SVT Nyheter.",
+   "more": [
+    "La Svezia ha regole specifiche sugli investimenti stranieri diretti in settori ritenuti strategici, tra cui la proprietà fondiaria."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/lokalt/jamtland/karps-skogskop-i-harjedalen-jo-anmals",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-10-21T10:04+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z1f804b6d",
+   "sez": "mondo",
+   "titolo": "Norvegia: violenza grave su piattaforma petrolifera, chieste lunghe condanne",
+   "orig": "Ber om lange fengselsstraffer etter grov valdshending på brakkerigg",
+   "lead": "La pubblica accusa chiede pene detentive significative per il grave reato. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/mr/to-menn-tiltalte-etter-grov-valdshending-pa-brakkerigg-i-ulstein-_-aktor-ber-om-lange-fengselsstraffer-1.18058551",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-21T09:14+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z0f6e4d0c",
+   "sez": "mondo",
+   "titolo": "Norvegia: comuni mobilitati dopo riunione di neonazisti",
+   "orig": "Reagerer på nazimøte – vil hindre rekruttering av unge",
+   "lead": "Le autorità locali norvegesi hanno attivato misure preventive dopo una riunione di simpatizzanti neonazisti durante il fine settimana in uno spazio industriale. Obiettivo delle amministrazioni comunali è contrastare il reclutamento di giovani. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/buskerud/ordforere-reagerer-pa-nazifest-i-drammen-og-hokksund-_-vil-hindre-rekruttering-av-unge-1.18059610",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-10-21T05:55+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zf267db95",
+   "sez": "mondo",
+   "titolo": "Danimarca: investimento milionario per qualità formazione professionale",
+   "orig": "Nyt millionprojekt skal styrke kvaliteten på erhvervsuddannelserne",
+   "lead": "La Danimarca avvia un progetto milionario per sviluppare strumenti che migliorino la qualità della formazione professionale nel Paese. L'iniziativa avrà durata di sei anni e interesserà il sistema educativo tecnico nazionale. Lo riferisce DR Nyheder.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/nyt-millionprojekt-skal-styrke-kvaliteten-paa-erhvervsuddannelserne",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-21T07:41+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z47225dce",
+   "sez": "mondo",
+   "titolo": "Sequestrate monete e lingotti d'oro al confine danese",
+   "orig": "Guldmønter og guldbarrer beslaglagt ved grænsen",
+   "lead": "La polizia danese ha sequestrato monete e lingotti d'oro al confine, sospettando il coinvolgimento in riciclaggio di denaro e furto. L'operazione fa parte di controlli intensificati alle frontiere nazionali. Lo riferisce DR Nyheder.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/guldmoenter-og-guldbarrer-beslaglagt-ved-graensen",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-10-21T07:12+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zed77bcf2",
+   "sez": "ambiente",
+   "titolo": "Islanda: dragaggio in porto avrà nuova banchina entro l'estate",
+   "orig": "Mokað allan liðlangan daginn",
+   "lead": "Proseguono i lavori di dragaggio nel porto di Hafnarfjörður in Islanda, avviati lo scorso inverno, per realizzare una nuova infrastruttura per piccole imbarcazioni. Circa 50 mila metri cubi di sedimenti sono stati rimossi dal fondale marino. Lo riferisce RÚV.",
+   "more": [
+    "Il progetto trasformerà significativamente l'assetto della zona portuale e rappresenta un investimento infrastrutturale nella regione di Hafnarfjörður."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-10-21-mokad-allan-lidlangan-daginn-490349/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-21T10:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z2fe87bd6",
+   "sez": "mondo",
+   "titolo": "Islanda: confermata custodia per sospetti trafficanti di droga",
+   "orig": "Framlengja gæsluvarðhald yfir fjórum sakborningum í stórum fíkniefnamálum",
+   "lead": "La Corte d'Appello islandese ha confermato il prolungamento della custodia cautelare per quattro persone sospettate di coinvolgimento in importanti traffici di stupefacenti. Uno degli imputati è formalmente accusato di organizzare lo smuggling in due occasioni. Lo riferisce RÚV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-21-framlengja-gaesluvardhald-yfir-fjorum-sakborningum-i-storum-fikniefnamalum-490506/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-21T09:51+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z594e9bd5",
+   "sez": "mondo",
+   "titolo": "Islanda e Scozia discutono riattivazione collegamento traghetto",
+   "orig": "Viðræður hafnar um ferju milli Seyðisfjarðar og Aberdeen",
+   "lead": "Il comune islandese di Múlaþing negozia con le autorità portuali scozzesi per reintrodurre una rotta marittima tra Seyðisfjörður e Aberdeen. La linea commerciale fu interrotta anni fa ma rimane priorità per lo sviluppo locale. Lo riferisce RÚV.",
+   "more": [
+    "La Svezia una volta operava questa rotta creando importanti opportunità di collegamento tra Islanda e Regno Unito."
+   ],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/innlent/2026-10-21-vidraedur-hafnar-um-ferju-milli-seydisfjardar-og-aberdeen-490498/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-21T08:26+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zfeb280af",
+   "sez": "mondo",
+   "titolo": "Parlamentare australiana perde le gambe dopo investimento intenzionale",
+   "orig": "Missti báða fótleggi eftir árásina",
+   "lead": "Un membro del parlamento australiano ha perduto entrambi gli arti inferiori in seguito all'intervento chirurgico per le ferite da investimento volontario. I medici hanno ritenuto l'amputazione bilaterale necessaria. Un uomo di 43 anni è stato fermato dalle autorità. Lo riferisce RÚV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RÚV",
+     "p": "XX",
+     "c": "Reykjavík",
+     "u": "https://www.ruv.is/frettir/erlent/2026-10-21-missti-bada-fotleggi-eftir-arasina-490496/",
+     "angolo": "",
+     "atlas": "Iceland",
+     "t": "2026-10-21T07:42+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zd5d57317",
+   "sez": "economia",
+   "titolo": "Attijari Leasing cresce del 18 per cento nei primi nove mesi 2026",
+   "orig": "Attijari Leasing porte ses approbations à 305,62 MDT en neuf mois",
+   "lead": "Attijari Leasing ha raggiunto 305,62 milioni di dinari di approvazioni nei primi nove mesi del 2026, segnando una crescita del 18 per cento rispetto al medesimo periodo del 2025. Le erogazioni hanno toccato 208,94 milioni. Lo riferisce La Presse de Tunisie.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/21/attijari-leasing-porte-ses-approbations-a-30562-mdt-en-neuf-mois/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T09:41+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z306a6ce4",
+   "sez": "economia",
+   "titolo": "Bayer apre laboratori ai media nordafricani per innovazione agricola",
+   "orig": "Bayer ouvre ses laboratoires aux médias nord-africains : De la recherche aux champs, les coulisses de l’innovation agricole",
+   "lead": "Il colosso dell'agrichimica Bayer ha aperto i suoi laboratori francesi ai giornalisti nordafricani, esibendo come utilizza ricerca scientifica, intelligenza artificiale e collaborazioni per affrontare sfide climatiche e idriche nel settore agricolo. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "L'iniziativa riflette l'impegno della multinazionale nell'innovazione sostenibile per contrastare gli effetti del cambiamento climatico nelle regioni agricole."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/21/bayer-ouvre-ses-laboratoires-aux-medias-nord-africains-de-la-recherche-aux-champs-les-coulisses-de-linnovation-agricole/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T09:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z282e8dc2",
+   "sez": "mondo",
+   "titolo": "Tunisia: esportazioni di bio raggiungono 700 milioni di dinari",
+   "orig": "Huile d’olive et dattes bio : la Tunisie réalise 700 millions de dinars à l’export",
+   "lead": "La Tunisia ha raggiunto circa 700 milioni di dinari di esportazioni di olio d'oliva e datteri biologici alla fine di settembre 2026, secondo il ministro dell'Agricoltura Ezzeddine Ben Cheikh. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "Il settore dell'agricoltura biologica rappresenta una leva economica strategica per la Tunisia, storico produttore di questi beni agricoli di qualità."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/21/huile-dolive-et-dattes-bio-la-tunisie-realise-700-millions-de-dinars-a-lexport/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T09:17+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z454db3f1",
+   "sez": "mondo",
+   "titolo": "Usa: amministrazione Trump revoca oltre 300mila visti",
+   "orig": "Washington a révoqué plus de 300 000 visas et accélère la cadence",
+   "lead": "L'amministrazione Trump ha revocato più di 300mila visti di ingresso negli Stati Uniti dall'inizio del secondo mandato, accelerando la campagna di rigore sull'immigrazione. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "La revoca massiccia di visti rappresenta un'escalation nella politica migratoria americana verso maggiore rigore nel controllo dei flussi."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/10/21/washington-a-revoque-plus-de-300-000-visas-et-accelere-la-cadence/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-10-21T09:11+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z12651195",
+   "sez": "mondo",
+   "titolo": "Ebola: Africa CDC chiede finanziamenti dopo caso in Nigeria",
+   "orig": "Ebola : Africa CDC appelle à un financement immédiat après la confirmation d’un cas au Nigeria",
+   "lead": "Il direttore dell'Africa CDC chiede finanziamenti immediati per combattere l'epidemia di Ebola Bundibugyo dopo la conferma di un caso in Nigeria il 20 ottobre 2026. Lo riferisce Radio Okapi.",
+   "more": [
+    "Il ceppo Bundibugyo rappresenta una minaccia significativa in Africa. La conferma del caso nigeriano accende allarmi sulla diffusione della malattia."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/21/actualite/sante/ebola-africa-cdc-appelle-un-financement-immediat-apres-la-confirmation",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-21T10:50+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "za646c489",
+   "sez": "mondo",
+   "titolo": "Congo: funerali ufficiali per ciclista Masaisai a Kinshasa",
+   "orig": "Les obsèques officielles de Miguel Masaisai prévues les 21 et 22 octobre à Kinshasa",
+   "lead": "Il ciclista congolese Miguel Masaisai, deceduto il 18 settembre 2026, avrà cerimonie ufficiali a Kinshasa il 21 e 22 ottobre con veglia mortuaria e omaggio nazionale. Lo riferisce Radio Okapi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/10/21/actualite/societe/les-obseques-officielles-de-miguel-masaisai-prevues-les-21-et-22",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-21T07:21+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z99853aee",
+   "sez": "mondo",
+   "titolo": "Senegal: leader Uemoa in inclusione finanziaria nel 2025",
+   "orig": "Inclusion financière : le Sénégal parmi les pays les plus avancés de l’UEMOA en 2025",
+   "lead": "Il Senegal figura tra i paesi più avanzati dell'Uemoa per inclusione finanziaria nel 2025 con indice sintetico di 0,651, superiore alla media regionale di 0,616. Lo riferisce Le Soleil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/economie/inclusion-financiere-le-senegal-parmi-les-pays-les-plus-avances-de-luemoa-en-2025/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T10:12+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zac5970c1",
+   "sez": "mondo",
+   "titolo": "Senegal: Mbacké cresce su commercio informale senza industria",
+   "orig": "Département de Mbacké : le commerce comme empire, l’industrie comme horizon",
+   "lead": "Il dipartimento di Mbacké, il più popoloso del Senegal con 1,5 milioni di abitanti, prospera grazie al commercio informale mentre l'industria rimane quasi assente. Lo riferisce Le Soleil.",
+   "more": [
+    "Mbacké rappresenta un caso emblematico: crescita demografica rapida, commercio vivace ma poco regolamentato, carenza di diversificazione industriale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/regions/focus-hebdomadaire-sur-une-region/departement-de-mbacke-le-commerce-comme-empire-lindustrie-comme-horizon/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T08:31+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z7a4a539c",
+   "sez": "mondo",
+   "titolo": "Senegal: commercianti di pesce di Ziguinchor chiedono mercato centrale",
+   "orig": "Ziguinchor : les mareyeurs réclament un marché central aux poissons",
+   "lead": "I commercianti di pesce di Ziguinchor reclamano uno spazio dedicato e chiedono la costruzione di un mercato centrale durante la visita della ministra delle Pesca. Lo riferisce Le Soleil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/regions/actualites-regionales-quotidiennes/ziguinchor-les-mareyeurs-reclament-un-marche-central-aux-poissons/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T07:28+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z62c483bc",
+   "sez": "mondo",
+   "titolo": "Australia: senatore Pocock chiede ai politici di 'raddoppiare' la gentilezza",
+   "orig": "Soft-spoken David Pocock has big ambitions – but first he wants politicians to ‘double down’ on kindness",
+   "lead": "Il senatore indipendente australiano David Pocock ha dichiarato al National Press Club che le sue ambizioni superano la premiership e ha esortato i politici a raddoppiare la gentilezza. Lo riferisce The Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/australia-news/2026/oct/21/david-pocock-big-ambitions-first-speech-to-national-press-club-ntwnfb",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T07:55+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z1cd65241",
+   "sez": "italia",
+   "titolo": "Rossi-Doria: squilibrio evidente nelle pene per minori, servono comunità educanti",
+   "orig": "Rossi-Doria: “Le pene ai minori? C’è un evidente squilibrio. Non c’è strategia per la società”",
+   "lead": "Il presidente di Con i bambini denuncia squilibrio evidente nella giustizia minorile e chiede comunità educanti che coinvolgano scuola, comuni, terzo settore, sport e parrocchie. Lo riferisce la Repubblica.",
+   "more": [
+    "La proposta di 'comunità educanti' rappresenta un'alternativa ai modelli puramente punitivi nella giustizia minorile italiana."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/21/news/rossi-doria_decreto_cortei_pene_ai_minori_intervista-425662132/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T09:27+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "ze3de0825",
+   "sez": "economia",
+   "titolo": "Francia: tassi di finanziamento sfiorano 5% per la prima volta dal 2002",
+   "orig": "France’s borrowing costs hit 5% for first time since 2002",
+   "lead": "I rendimenti dei titoli francesi a 10 anni hanno raggiunto il 5%, massimo dal 2002, spinti da preoccupazioni sui conti pubblici e stabilità politica dopo il 3,2% di fine febbraio. Lo riferisce Financial Times.",
+   "more": [
+    "L'aumento riflette ansie di mercato su situazione fiscale francese e incertezza politica con implicazioni per il costo del debito sovrano."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T09:07+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z4d6d02c0",
+   "sez": "mondo",
+   "titolo": "Regno Unito: pragmatismo Nord Sea di Burnham continua linea Starmer",
+   "orig": "Burnham’s North Sea ‘pragmatism’ is no big shift from Starmer’s",
+   "lead": "L'analisi di Financial Times valuta il pragmatismo di Burnham sul Mare del Nord, rilevando continuità con l'approccio di Starmer, mentre si specula su elezioni anticipate. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/36a14179-9c1f-4591-ac3b-970054a19d92?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T08:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z13c745d6",
+   "sez": "economia",
+   "titolo": "Porti britannici: IFM Investors acquisisce ABP per oltre 10 miliardi di sterline",
+   "orig": "UK’s biggest port operator valued at over £10bn in Australian fund purchase",
+   "lead": "Il fondo infrastrutturale australiano IFM Investors acquisisce quota maggioritaria in Associated British Ports, il principale operatore portuale britannico, dai fondi pensione canadesi. Lo riferisce Financial Times.",
+   "more": [
+    "L'operazione riflette interesse dei grandi fondi globali nelle infrastrutture critiche britanniche con cambio di proprietà da canadesi ad australiani."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/21d3b4e1-941b-4ad8-8e41-f8fc1864e758?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T08:19+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z8fe19be3",
+   "sez": "tech",
+   "titolo": "Netflix punta su più vincitori Oscar per territory ignorato da YouTube",
+   "orig": "Don’t underestimate Netflix’s power to flip the script",
+   "lead": "Analisi su come Netflix si concentra su Oscar come strategia per conquistare segmento di mercato premium dove YouTube ha faticato. Lo riferisce Financial Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/67a2f314-730b-477b-b52f-f7495394ceec?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T08:01+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zed213d52",
+   "sez": "mondo",
+   "titolo": "Serbia: trovato materiale studentesco in casa di attivista arrestato",
+   "orig": "Predstavnica zbora Vrnjačka Banja: U kući privedenog aktiviste pronađen promotivni materijal studentske liste",
+   "lead": "Nella perquisizione della casa di un attivista a Vrnjačka Banja sono stati trovati materiale promozionale di lista studentesca e sequestrati laptop e telefoni. Lo riferisce N1 Serbia.",
+   "more": [
+    "L'episodio si inscrive nelle tensioni politiche intorno alle elezioni parlamentari serbe del 25 ottobre e ai movimenti studenteschi."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/predstavnica-zbora-vrnjacka-banja-u-kuci-privedenog-aktiviste-pronadjen-promotivni-materijal-studentske-liste/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T12:28+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z0d4a385b",
+   "sez": "mondo",
+   "titolo": "Serbia: ultimi giorni di marcia studentesca verso Belgrado, agricoltori si uniscono",
+   "orig": "Poslednji dan pešačenja do Beograda: Jednoj koloni studenata se pridružili paori sa traktorima",
+   "lead": "Colonne di studenti continuano la marcia verso Belgrado per il raduno della Lista Studentesca del 22 ottobre. Una colonna è stata raggiunta da agricoltori su trattori. Lo riferisce N1 Serbia.",
+   "more": [
+    "La marcia rappresenta mobilitazione della società civile con allargamento ad altri settori in vista delle elezioni parlamentari."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/pesacenje-do-beograda-skup-na-slaviji-stara-pazova/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T12:27+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zd184735d",
+   "sez": "mondo",
+   "titolo": "Serbia: distrutto materiale di sostegno agli studenti a Žitorađa",
+   "orig": "(FOTO) U Žitorađi pocepani baneri i transparenti sa porukama podrške studentima, likom Đokovića, \"Kosovo je Srbija\"",
+   "lead": "Nella notte tra lunedì 20 e martedì 21 ottobre, ignoti hanno distrutto striscioni e banner di sostegno agli studenti e immagini di Djokovic. Lo riferisce N1 Serbia.",
+   "more": [
+    "L'episodio riflette tensioni politiche in Serbia in prossimità delle elezioni parlamentari."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/zitoradja-pocepani-baner-transparent-studenti/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T12:26+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z3aa71793",
+   "sez": "mondo",
+   "titolo": "Serbia: inchiesta BIRN sui legami tra liste elettorali e partito SNS",
+   "orig": "BIRN: Ko stoji iza pojedinih izbornih lista i kakva je njihova veza sa SNS-om",
+   "lead": "BIRN pubblica inchiesta sui legami tra alcune delle 18 liste elettorali per le elezioni parlamentari serbe del 25 ottobre e il partito dominante SNS. Lo riferisce N1 Serbia.",
+   "more": [
+    "L'inchiesta rivela la complessa trama di alleanze politiche dietro le liste elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/birn-ko-stoji-iza-pojedinih-izbornih-lista/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T12:23+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zd3521492",
+   "sez": "mondo",
+   "titolo": "Serbia: CRTA avverte su irregolarità nel registro elettorale a Subotica",
+   "orig": "CRTA warns of irregularities in voter register",
+   "lead": "L'ente di controllo CRTA avverte su possibili irregolarità nel registro dei votanti nella città di confine Subotica. Lo riferisce N1 Serbia.",
+   "more": [
+    "Le irregolarità riguardano l'integrità del sistema elettorale in vista delle elezioni del 25 ottobre."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/english/news/crta-warns-of-irregularities-in-voter-register/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T12:22+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z9497ca60",
+   "sez": "mondo",
+   "titolo": "Slovacchia: rifiutato viaggio di deputata in Serbia per osservare elezioni",
+   "orig": "Slovačkoj poslanici nije odobren odlazak u Srbiju radi posmatranja izbora",
+   "lead": "Il parlamento slovacco ha negato l'autorizzazione alla deputata dell'opposizione Lucia Plaváková di recarsi in Serbia per osservare le elezioni del 25 ottobre. Lo riferisce N1 Serbia.",
+   "more": [
+    "Il rifiuto solleva questioni sulla libertà di osservazione internazionale dei processi elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/slovackoj-poslanici-nije-odobren-odlazak-u-srbiju-radi-posmatranja-izbora/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T12:20+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z3caa5585",
+   "sez": "mondo",
+   "titolo": "Usa: Missouri midterm, elettorato arrabbiato contro gerrymandering GOP",
+   "orig": "Missouri’s midterms pit an angry electorate against GOP gerrymandering",
+   "lead": "Nelle elezioni midterm del Missouri, il ridisegno della mappa congressuale è diventato tema centrale della campagna di fronte a un'elettorato arrabbiato. Lo riferisce The Globe and Mail.",
+   "more": [
+    "Il gerrymandering rimane questione controversa della democrazia americana capace di influenzare equilibri di potere."
+   ],
+   "fonti": [
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/us-politics/article-missouri-midterm-elections-pit-angry-electorate-against-gerrymandering/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-21T09:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z53b039c3",
+   "sez": "mondo",
+   "titolo": "Nigeria: chiesa investe nell'istruzione per supportare governo e formare leader morali",
+   "orig": "Church’s investment in education to support govt — Dominion varsity chancellor",
+   "lead": "Il cancelliere dell'Università Dominion dichiara che l'investimento della chiesa nell'istruzione supporta il governo e forma leader con valori morali. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/churchs-investment-in-education-to-support-govt-dominion-varsity-chancellor/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z494f8a39",
+   "sez": "mondo",
+   "titolo": "Nigeria: giudice capo Ogun esorta magistrati a investire in sviluppo personale",
+   "orig": "Invest in self-development, Ogun CJ charges magistrates",
+   "lead": "La giudice capo dello stato di Ogun esorta i magistrati a investire nello sviluppo personale e ad abbracciare l'innovazione. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/invest-consistently-in-self-development-ogun-cj-charges-magistrates/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-21T10:34+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z994fe97c",
+   "sez": "mondo",
+   "titolo": "Egitto: forum nazionale presenta visione dello stato per prossimi tre anni",
+   "orig": "Agriculture Minister: “Egypt Forum” showcases state’s vision for next 3 years with participation of all segments of society",
+   "lead": "Il ministro egiziano dell'Agricoltura sottolinea l'importanza dell'Egypt 2026 Forum nel presentare la visione dello stato per i prossimi tre anni con ampia partecipazione della società. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/agriculture-minister-egypt-forum-showcases-states-vision-for-next-3-years-with-participation-of-all-segments-of-society/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-21T10:06+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z6aa78bd8",
+   "sez": "mondo",
+   "titolo": "Egitto: marina celebra 59 anni dall'affondamento della nave israeliana Eilat",
+   "orig": "Egyptian Navy celebrates 59th anniversary commemorating sinking “Eilat” destroyer",
+   "lead": "La marina egiziana celebra il 59° anniversario del 21 ottobre 1967, quando le forze navali egiziane affondarono il cacciatorpediniere israeliano Eilat al largo di Port Said. Lo riferisce Egypt Independent.",
+   "more": [
+    "L'affondamento rappresenta un momento simbolico nella storia militare egiziana e nelle relazioni con Israele."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/egyptian-navy-celebrates-59th-anniversary-commemorating-sinking-eilat-destroyer/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-21T09:57+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zb5bb344a",
+   "sez": "mondo",
+   "titolo": "Usa: Trump ricorre a politica del risentimento nella campagna midterm",
+   "orig": "To save the midterms, Trump is recharging the grievance politics that made him president",
+   "lead": "Nella campagna midterm, Trump ricorre a politica del risentimento, evocando paure di collasso civile americano anziché affrontare criticità economiche concrete. Lo riferisce Egypt Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/to-save-the-midterms-trump-is-recharging-the-grievance-politics-that-made-him-president/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-10-21T09:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z0152499b",
+   "sez": "mondo",
+   "titolo": "Kenya U-15: Nyale punta su tecnica e tattica nel test contro Azerbaigian",
+   "orig": "Nyale banks on skill and tactics for Kenya’s U-15 Azerbaijan test",
+   "lead": "L'allenatore del Kenya Under 15 annuncia selezione di giocatori capaci di affrontare le esigenze della categoria, enfatizzando controllo palla e intelligenza tattica. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/nyale-banks-on-skill-and-tactics-for-kenyas-u-15-azerbaijan-test-n392441",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T10:15+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z340baa20",
+   "sez": "mondo",
+   "titolo": "Kenya: NCIC convoca ex deputato Ndolo per dichiarazioni su delinquenti",
+   "orig": "NCIC summons ex-MP Reuben Ndolo over sponsoring goons remark",
+   "lead": "La Commissione nazionale per le relazioni intercomunitarie del Kenya convoca l'ex parlamentare Reuben Ndolo per rispondere a dichiarazioni su finanziamento di teppisti urbani. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/ncic-summons-ex-mp-reuben-ndolo-over-sponsoring-goons-remark-n392444",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T09:54+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z52222018",
+   "sez": "mondo",
+   "titolo": "Kenya: EACC recupera 207,7 milioni di scellini da ex contabile Trans Nzoia",
+   "orig": "EACC recovers Ksh. 207.7M in unexplained assets linked to former Trans Nzoia accountant",
+   "lead": "L'Agenzia anticorruzione kenyota EACC ha recuperato 207,7 milioni di scellini di beni non spiegati collegati a un ex contabile della contea di Trans Nzoia. Lo riferisce Citizen Digital.",
+   "more": [
+    "Il caso rappresenta uno dei procedimenti anticorruzione dell'EACC contro funzionari pubblici kenyoti."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/eacc-recovers-ksh-2077m-in-unexplained-assets-linked-to-former-trans-nzoia-accountant-n392442",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T09:40+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z1f9bee55",
+   "sez": "mondo",
+   "titolo": "Sudafrica: Commissione Madlanga valuta richiesta di udienza a porte chiuse",
+   "orig": "South Africa: Madlanga Commission Weighs In-Camera Hearing Request - South African News Briefs - October 21, 2026",
+   "lead": "La Commissione Madlanga sudafricana sta attualmente valutando una richiesta formale per lo svolgimento di un'udienza a porte chiuse nel corso delle sue indagini istituzionali in Sudafrica. Tale procedura rappresenta un elemento significativo nei procedimenti della commissione. Lo riferisce allAfrica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610210054.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T05:53+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "ze1f383fd",
+   "sez": "mondo",
+   "titolo": "Hong Kong: SHKP esaurisce vendita di 128 appartamenti al Sierra Sea prima di aumento tassi USA",
+   "orig": "Hong Kong’s SHKP sells 128 Sierra Sea flats ahead of possible US rate increase",
+   "lead": "La major developer Sun Hung Kai Properties ha esaurito la vendita di 128 appartamenti al progetto Sierra Sea negli New Territories di Hong Kong, con offerte a prezzi scontati in anticipo rispetto a un possibile aumento dei tassi della Federal Reserve statunitense entro fine anno. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/business/article/3371657/hong-kongs-shkp-sells-128-sierra-sea-flats-ahead-possible-us-rate-increase",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T10:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zf543d3c4",
+   "sez": "mondo",
+   "titolo": "Cina: cacciatorpediniere Type 051C subisce ammodernamento con sistemi di difesa nazionali",
+   "orig": "China’s Type 051C gets a refit as the PLA Navy’s legacy warships near retirement",
+   "lead": "Il cacciatorpediniere cinese Shenyang della classe Type 051C è stato avvistato in prove in mare dopo una revisione che ha sostituito i sistemi di difesa aerea russi con equivalenti nazionali. La marina PLA sta progressivamente ritirando navi legacy dal servizio. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/military/article/3371635/chinas-type-051c-gets-refit-pla-navys-legacy-warships-near-retirement",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T10:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zd6f4d161",
+   "sez": "mondo",
+   "titolo": "Filippine: giovane 'nepo baby' nominata commissaria per i poveri urbani scatena polemiche",
+   "orig": "‘Nepo baby’ uproar in Philippines after Gen Z jet-setter named urban poor commissioner",
+   "lead": "Zofia Canlas, una giovane donna con stile di vita lussuoso documentato sui social media, ha prestato giuramento lunedì come commissaria della Commissione presidenziale per i poveri urbani in Filippine, sollevando critiche sulla sua idoneità nel trattare insicurezza alimentare e abitativa. Lo riferisce South China Morning Post.",
+   "more": [
+    "La nomina ha suscitato ampio dibattito online per l'apparente contrasto tra lo stile di vita privilegiato della commissaria e le responsabilità della carica istituzionale."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/week-asia/people/article/3371647/nepo-baby-uproar-philippines-after-gen-z-jet-setter-named-urban-poor-commissioner",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T09:27+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z4d732e15",
+   "sez": "mondo",
+   "titolo": "Giappone: spesa turistica in aumento nonostante calo del numero di visitatori",
+   "orig": "Japan tourist spending rises despite drop in visitor arrivals",
+   "lead": "La spesa turistica in Giappone continua a crescere nonostante il declino nel numero di visitatori stranieri, in un periodo in cui la Cina mantiene avvisi ufficiali che sconsagliano ai cittadini di recarsi nel paese da quasi un anno. Lo riferisce The Japan Times.",
+   "more": [
+    "Il fenomeno riflette sia un aumento della spesa media per visitatore sia possibili cambiamenti nei flussi turistici verso mercati non cinesi."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/21/japan/foreign-visitors-spending/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-21T18:27+09:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "zb747e22d",
+   "sez": "mondo",
+   "titolo": "Giappone: ministro agricoltura neo-nominato si scusa per scandalo donazioni di vecchia data",
+   "orig": "Newly appointed farm minister apologizes over donation scandal",
+   "lead": "Arata Takebe, nominato ministro dell'agricoltura appena la scorsa settimana, si trova attualmente al centro di uno scandalo riguardante una donazione politica ricevuta nel 2014. La vicenda complica significativamente l'avvio della nuova gestione governativa. Lo riferisce The Japan Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/21/japan/politics/new-farm-minister-scandal/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-21T17:45+09:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z81ab7d5c",
+   "sez": "mondo",
+   "titolo": "Giappone: ministero istruzione chiede revisione selezione rettore all'Università di Tokyo",
+   "orig": "Education ministry calls for University of Tokyo to review president selection",
+   "lead": "Il ministero dell'istruzione giapponese ha chiesto ufficialmente all'Università di Tokyo di rivedere in dettaglio le modalità di selezione del suo presidente, in un precedente senza paralleli di intervento governativo nei processi di selezione accademica universitaria. Lo riferisce The Japan Times.",
+   "more": [
+    "Si tratta della prima volta che l'esecutivo giapponese richiede formalmente una revisione dei procedimenti di selezione presidenziale universitaria, segnalando possibili tensioni tra governo e mondo accademico."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/21/japan/society/university-of-tokyo-president/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-21T16:52+09:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z52a18c03",
+   "sez": "mondo",
+   "titolo": "Giappone: residenti della prefettura di Chiba colpita dal tifone Dujuan ricostruiscono tra incertezze",
+   "orig": "As residents of flood-hit Chiba Prefecture rebuild, concerns about the future linger",
+   "lead": "Nella prefettura di Chiba colpita dal tifone Dujuan, i residenti stanno avviando i lavori di ricostruzione delle loro comunità mentre persistono preoccupazioni significative per il futuro. Il bilancio ufficiale registra dieci morti e trentasette feriti nella regione. Lo riferisce The Japan Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/10/21/japan/chiba-rain-one-month/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-21T16:12+09:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z4504b507",
+   "sez": "mondo",
+   "titolo": "Corea del Sud: squalo arenato torna in mare dopo un mese di salvataggio",
+   "orig": "Stranded shark Bukang-i returns to sea after a month",
+   "lead": "Bukang-i, uno squalo grigio dusky shark lungo circa tre metri e mezzo, è rientrato in mare mercoledì dopo un mese intrappolato nel canale artificiale al North Port Waterfront Park di Busan, in Corea del Sud. L'operazione di salvataggio è stata completata con successo. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10910469",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z55f70e44",
+   "sez": "mondo",
+   "titolo": "Corea del Sud: diciotto attori perdono ottantasette chili durante prove dello spettacolo 'The Choir of Man'",
+   "orig": "18 actors shed 87 kilograms rehearsing for &apos;The Choir of Man&apos;",
+   "lead": "Diciotto dei diciannove attori nella produzione coreana di 'The Choir of Man' hanno perso complessivamente ottantasette chili durante le prove dello spettacolo, mentre il diciannovesimo attore ha sorprendentemente guadagnato dieci chili. La produzione richiede complesse competenze artistiche. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10910456",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
+   "id": "z798b3efa",
+   "sez": "mondo",
+   "titolo": "Corea del Sud: smantellata rete prostituzione nel Gangnam con oltre duemilaottocento incontri arrangiati in quarantaquattro giorni",
+   "orig": "Gangnam prostitution ring arranged over 2,800 meetings in just over 40 days",
+   "lead": "La polizia di Seul ha smantellato una rete criminale operante nel distretto Gangnam, sospettata di aver guadagnato almeno cinquecentosettantaquattro milioni di won attraverso oltre duemilaottocento arrangiamenti in quarantaquattro giorni. Otto persone sono state rinviate alla procura. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10910439",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "12:51",
+   "uscita": "13"
+  },
+  {
    "id": "z5a29fffb",
    "sez": "mondo",
    "titolo": "Autorità di Busan scacciano lo squalo dal canale al terzo tentativo",
@@ -6379,6 +7635,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-21T18:26+08:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2636055",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-21T11:10+02:00"
     }
    ],
    "data": "21 ott",
@@ -7701,7 +8966,62 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zba3ce615": "RTP riporta sviluppi nelle manifestazioni portoghesi su diritto all'abitazione e costo della vita",
   "zf7588274": "RTP riporta le intenzioni governative di riforma dell'ente mediatico pubblico senza nuovi oneri",
   "zcc3add75": "RTP riporta i dati dell'INE sulla progressione crescente dei costi del credito immobiliare",
-  "z439ead62": "NOS riporta il miglioramento della performance di Randstad nel mercato olandese del lavoro temporaneo"
+  "z439ead62": "NOS riporta il miglioramento della performance di Randstad nel mercato olandese del lavoro temporaneo",
+  "z94d1e822": "Riconoscimento internazionale al lavoro di innovazione ambientale di un giovane imprenditore europeo.",
+  "z3901177f": "Notizia sulle problematiche amministrative di una misura ambientale locale che suscita contestazioni legali.",
+  "z9e26018b": "Critica alle nuove norme sulla sicurezza balneare promosse dalla gestione del territorio fiammingo.",
+  "z3cee94d3": "Controversia tra necessità energetiche immediate e impegni di transizione climatica nel Regno Unito.",
+  "z2f409590": "Intervento preventivo del terzo settore pubblico belga sulla crisi abitativa con approccio di supporto personalizzato.",
+  "z16c6653f": "Controllo scrutinio sulla conformità normativa degli investimenti esteri in Svezia, focalizzato su figure imprenditoriali internazionali.",
+  "z1f804b6d": "Processo penale per crimini violenti in ambiente offshore, evidenziando problemi di sicurezza nelle strutture energetiche.",
+  "z0f6e4d0c": "Risposta amministrativa a fenomeni di radicalismo di destra, con focus sulla prevenzione del reclutamento giovanile.",
+  "zf267db95": "Impegno pubblico danese nel potenziamento dell'istruzione tecnica attraverso investimenti strutturali.",
+  "z47225dce": "Operazione di contrasto alla criminalità finanziaria da parte delle autorità doganali danesi.",
+  "zed77bcf2": "Cronaca di lavori portuali islandesi con dettagli tecnici sul dragaggio e la realizzazione di nuove strutture.",
+  "z2fe87bd6": "Procedimento giudiziario islandese su traffico internazionale di droga con decisioni cautelari restrittive confermati in appello.",
+  "z594e9bd5": "Progetto infrastrutturale transnazionale di trasporti marittimi riconsiderato dalle amministrazioni islandesi e scozzesi.",
+  "zfeb280af": "Cronaca nera di attacco violento ai danni di figura pubblica australiana con conseguenze fisiche gravi.",
+  "zd5d57317": "Bilancio positivo di società tunisina di leasing con dinamiche di mercato favorevoli nel settore della locazione finanziaria.",
+  "z306a6ce4": "Comunicazione di una multinazionale agricola su strategie di innovazione ricerca-driven verso mercati nordafricani emergenti.",
+  "z282e8dc2": "Enfasi sul ruolo centrale dell'agricoltura biologica nella crescita economica tunisina.",
+  "z454db3f1": "Attenzione alla durezza della politica migratoria americana e l'accelerazione della sua implementazione.",
+  "z12651195": "Urgenza della mobilitazione internazionale per contenere la minaccia epidemiologica.",
+  "za646c489": "Riconoscimento ufficiale del contributo di una figura dello sport nazionale.",
+  "z99853aee": "Valorizzazione dei progressi economico-finanziari del Senegal nel contesto regionale.",
+  "zac5970c1": "Analisi delle tensioni tra sviluppo informale e pianificazione economica formale in un'area strategica.",
+  "z7a4a539c": "Evidenza delle esigenze infrastrutturali del settore ittico locale.",
+  "z62c483bc": "Presentazione di approccio politico alternativo basato su valori etici e consenso.",
+  "z1cd65241": "Critica costruttiva sulle politiche minorili con proposte di alleanze territoriali.",
+  "ze3de0825": "Attenzione ai rischi finanziari derivanti dalla situazione economico-politica francese.",
+  "z4d6d02c0": "Valutazione della coerenza nelle politiche energetiche britanniche tra diversi leader.",
+  "z13c745d6": "Attenzione a transazioni infrastrutturali di grande portata in settori strategici.",
+  "z8fe19be3": "Analisi della strategia competitiva tra piattaforme streaming nel mercato audiovisivo premium.",
+  "zed213d52": "Documentazione di azione investigativa in periodo di tensioni pre-elettorali.",
+  "z0d4a385b": "Documentazione del movimento studentesco e sua espansione a altre categorie sociali.",
+  "zd184735d": "Documentazione di incidenti di vandalismo con sfondo politico nel contesto pre-elettorale.",
+  "z3aa71793": "Indagine giornalistica su trasparenza e struttura del paesaggio politico-elettorale serbo.",
+  "zd3521492": "Allerta su deficit di trasparenza nel sistema elettorale da parte di osservatori indipendenti.",
+  "z9497ca60": "Documentazione di impedimento a osservazione internazionale con implicazioni sulla trasparenza elettorale.",
+  "z3caa5585": "Enfasi sulla tensione tra ridisegno collegi e volontà popolare in elezione competitiva.",
+  "z53b039c3": "Valorizzazione del ruolo delle istituzioni religiose nel settore educativo.",
+  "z494f8a39": "Enfasi sulla necessità di aggiornamento professionale nel sistema giudiziario.",
+  "z994fe97c": "Enfasi sulla partecipazione della società civile nella programmazione statale.",
+  "z6aa78bd8": "Valorizzazione di evento storico nazionale nella commemorazione militare.",
+  "zb5bb344a": "Analisi critica della strategia politica basata su polarizzazione e retorica identitaria.",
+  "z0152499b": "Enfasi sulla metodologia di preparazione nel calcio giovanile.",
+  "z340baa20": "Verifica istituzionale su dichiarazioni pubbliche di figure politiche.",
+  "z52222018": "Enfasi sulle azioni di contrasto alla corruzione amministrativa.",
+  "z1f9bee55": "allAfrica segnala sviluppi procedurali nella Commissione Madlanga sudafricana",
+  "ze1f383fd": "SCMP sottolinea come le mosse del mercato immobiliare hongkonghese siano orientate dalle aspettative sulla politica monetaria statunitense",
+  "zf543d3c4": "SCMP evidenzia il progressivo passaggio cinese verso l'autonomia tecnologica nell'industria navale militare",
+  "zd6f4d161": "SCMP evidenzia le incongruenze tra i privilegi del commissario nominato e la missione della carica",
+  "z4d732e15": "The Japan Times sottolinea la resilienza economica del turismo giapponese di fronte alle pressioni geopolitiche",
+  "zb747e22d": "The Japan Times sottolinea il danno reputazionale per il nuovo ministro nel suo primo scorcio di mandato",
+  "z81ab7d5c": "The Japan Times evidenzia l'inedito intervento governativo nell'autonomia universitaria",
+  "z52a18c03": "The Japan Times evidenzia le sfide della ripresa nelle comunità colpite da calamità naturali",
+  "z4504b507": "The Korea Herald celebra l'intervento di salvataggio della fauna marina nella città portuale di Busan",
+  "z55f70e44": "The Korea Herald enfatizza le esigenze fisiche e artistiche di una produzione teatrale complessa",
+  "z798b3efa": "The Korea Herald riporta l'operazione di contrasto ai crimini sessuali della polizia metropolitana"
  },
  "contesti": {
   "z247a9c3a": "Il Papa era stato operato martedì scorso al Policlinico Gemelli, intervento durante il quale è stato scoperto il tumore polmonare. Nei giorni seguenti ha ripreso gradualmente alcune attività pubbliche, apparendo in piazza San Pietro a bordo della papamobile e tenendo la prima udienza generale dopo l'operazione.",
@@ -9870,6 +11190,392 @@ window.EDIZIONI["2026-10-21-sera"] = {
     "Netherlands"
    ],
    "pt": []
+  },
+  "z94d1e822": {
+   "n": "Qatar",
+   "p": [
+    "Qatar"
+   ],
+   "pt": []
+  },
+  "z3901177f": {
+   "n": "Belgio",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z9e26018b": {
+   "n": "Belgio",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z3cee94d3": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z2f409590": {
+   "n": "Belgio",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z16c6653f": {
+   "n": "Svezia",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z1f804b6d": {
+   "n": "Norvegia",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "z0f6e4d0c": {
+   "n": "Norvegia",
+   "p": [
+    "Norway"
+   ],
+   "pt": []
+  },
+  "zf267db95": {
+   "n": "Danimarca",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "z47225dce": {
+   "n": "Danimarca",
+   "p": [
+    "Denmark"
+   ],
+   "pt": []
+  },
+  "zed77bcf2": {
+   "n": "Islanda",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "z2fe87bd6": {
+   "n": "Islanda",
+   "p": [
+    "Iceland"
+   ],
+   "pt": []
+  },
+  "z594e9bd5": {
+   "n": "Islanda e Regno Unito",
+   "p": [
+    "Iceland",
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zfeb280af": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zd5d57317": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z306a6ce4": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z282e8dc2": {
+   "n": "Tunisia",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z454db3f1": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z12651195": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "za646c489": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z99853aee": {
+   "n": "Senegal",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zac5970c1": {
+   "n": "Mbacké",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z7a4a539c": {
+   "n": "Ziguinchor",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z62c483bc": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z1cd65241": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze3de0825": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z4d6d02c0": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z13c745d6": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8fe19be3": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zed213d52": {
+   "n": "Vrnjačka Banja",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z0d4a385b": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zd184735d": {
+   "n": "Žitorađa",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z3aa71793": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zd3521492": {
+   "n": "Subotica",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z9497ca60": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z3caa5585": {
+   "n": "Missouri",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z53b039c3": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z494f8a39": {
+   "n": "Ogun",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z994fe97c": {
+   "n": "Egitto",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z6aa78bd8": {
+   "n": "Port Said",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zb5bb344a": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0152499b": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z340baa20": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z52222018": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z1f9bee55": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "ze1f383fd": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zf543d3c4": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zd6f4d161": {
+   "n": "Filippine",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z4d732e15": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zb747e22d": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z81ab7d5c": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z52a18c03": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z4504b507": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z55f70e44": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z798b3efa": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -9897,7 +11603,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z5ef22d51": 1,
   "z17f4257d": 2,
   "z94a605a1": 1,
-  "zfcff2229": 1,
+  "zfcff2229": 2,
   "zc058918f": 1,
   "zfa9b7f73": 1,
   "z5b96c218": 1,
@@ -10161,7 +11867,62 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zba3ce615": 1,
   "zf7588274": 1,
   "zcc3add75": 1,
-  "z439ead62": 1
+  "z439ead62": 1,
+  "z94d1e822": 1,
+  "z3901177f": 1,
+  "z9e26018b": 1,
+  "z3cee94d3": 1,
+  "z2f409590": 1,
+  "z16c6653f": 1,
+  "z1f804b6d": 1,
+  "z0f6e4d0c": 1,
+  "zf267db95": 1,
+  "z47225dce": 1,
+  "zed77bcf2": 1,
+  "z2fe87bd6": 1,
+  "z594e9bd5": 1,
+  "zfeb280af": 1,
+  "zd5d57317": 1,
+  "z306a6ce4": 1,
+  "z282e8dc2": 1,
+  "z454db3f1": 1,
+  "z12651195": 1,
+  "za646c489": 1,
+  "z99853aee": 1,
+  "zac5970c1": 1,
+  "z7a4a539c": 1,
+  "z62c483bc": 1,
+  "z1cd65241": 1,
+  "ze3de0825": 1,
+  "z4d6d02c0": 1,
+  "z13c745d6": 1,
+  "z8fe19be3": 1,
+  "zed213d52": 1,
+  "z0d4a385b": 1,
+  "zd184735d": 1,
+  "z3aa71793": 1,
+  "zd3521492": 1,
+  "z9497ca60": 1,
+  "z3caa5585": 1,
+  "z53b039c3": 1,
+  "z494f8a39": 1,
+  "z994fe97c": 1,
+  "z6aa78bd8": 1,
+  "zb5bb344a": 1,
+  "z0152499b": 1,
+  "z340baa20": 1,
+  "z52222018": 1,
+  "z1f9bee55": 1,
+  "ze1f383fd": 1,
+  "zf543d3c4": 1,
+  "zd6f4d161": 1,
+  "z4d732e15": 1,
+  "zb747e22d": 1,
+  "z81ab7d5c": 1,
+  "z52a18c03": 1,
+  "z4504b507": 1,
+  "z55f70e44": 1,
+  "z798b3efa": 1
  },
  "video": {},
  "pillole": []
