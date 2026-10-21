@@ -3,6 +3,2075 @@ window.EDIZIONI["2026-10-21-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z0a8869aa",
+   "sez": "mondo",
+   "titolo": "Macron accusa leader stranieri di sfruttare le proteste francesi",
+   "orig": "Macron accuses foreign leaders of exploiting French riots",
+   "lead": "Il presidente francese Emmanuel Macron ha accusato alcuni leader stranieri, tra cui il presidente statunitense Donald Trump, di aver fatto \"commenti stupidi\" sulle proteste che hanno scosso la Francia, diffondendo informazioni fuorvianti sul Paese. L'accusa arriva mentre la Francia si prepara a nuove manifestazioni nel fine settimana, in un momento in cui sia Trump sia il premier israeliano Benjamin Netanyahu affrontano scadenze elettorali nelle prossime settimane. Il commento di Macron sembra riferirsi in particolare a questi due leader, impegnati in campagne politiche interne nei rispettivi Paesi.",
+   "more": [
+    "In Francia si sono svolte proteste legate a tensioni sociali ed economiche, con governi stranieri che spesso commentano eventi interni di altri Paesi per ragioni di politica interna, generando tensioni diplomatiche soprattutto in periodi elettorali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T14:04+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T14:44+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z48edb60e",
+   "sez": "mondo",
+   "titolo": "L'estrema destra europea cavalca le violenze delle proteste",
+   "orig": "Europe’s far right seizes on protest violence to push authoritarian anti-immigration agenda",
+   "lead": "Secondo il Guardian, i leader dell'estrema destra in diversi Paesi europei stanno usando le violenze avvenute durante le proteste del fine settimana scorso per rafforzare un'agenda contro l'immigrazione, presentando i disordini come conseguenza del fallimento delle politiche liberali e delle frontiere aperte. A pochi mesi da elezioni chiave in Spagna, Francia e Italia, i movimenti nazionalisti sostengono di essere gli unici in grado di ripristinare l'ordine pubblico, sfruttando politicamente un'ondata di proteste nata inizialmente in modo pacifico. Lo riferisce The Guardian.",
+   "more": [
+    "Negli ultimi anni diversi partiti di estrema destra europei hanno guadagnato consenso presentandosi come garanti della sicurezza e critici delle politiche migratorie dei governi tradizionali, un tema centrale nelle campagne elettorali in corso in vari Paesi del continente."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/21/europe-far-right-protest-violence-authoritarian-agenda",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T14:36+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z294dc5b7",
+   "sez": "mondo",
+   "titolo": "Guerra in Libano, l'impatto sui giovani con autismo e ADHD",
+   "orig": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
+   "lead": "Secondo esperti citati da Al Jazeera, la guerra tra Israele e Libano ha avuto un impatto pesante sui giovani libanesi affetti da autismo e ADHD, che spesso dipendono da routine stabili per gestire la propria condizione. Gli specialisti avvertono che i conflitti armati rappresentano un onere particolarmente gravoso per le persone neurodivergenti, la cui vita quotidiana viene stravolta dagli sconvolgimenti causati dalla guerra. Lo riferisce Al Jazeera.",
+   "more": [
+    "Le persone con autismo o ADHD traggono spesso beneficio da ambienti prevedibili e routine costanti; conflitti armati, con spostamenti forzati e interruzione dei servizi sanitari, possono aggravare ansia e difficoltà comportamentali, rendendo necessario un supporto specifico spesso assente nelle emergenze."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-21T13:32+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z3dfb1bea",
+   "sez": "sport",
+   "titolo": "Lo Shakhtar porta a San Siro i ragazzi segnati dalla guerra",
+   "orig": "Lo Shakhtar porta a San Siro i ragazzi della guerra: \"Il calcio racconti le nostre storie\"",
+   "lead": "La fondazione del proprietario dello Shakhtar Donetsk ha portato a Milano un gruppo di giovani ucraini segnati dalla guerra, per assistere alla partita di Champions League tra Inter e Shakhtar a San Siro. Tra loro Roman, che a sette anni ha perso la madre sotto le bombe ed è oggi un talento della fisarmonica a livello mondiale, Rostyslav, fuggito per evitare l'arruolamento nell'esercito russo, e Nikita, che ha vissuto l'adolescenza in una zona di combattimenti. L'iniziativa vuole far raccontare al calcio le loro storie. Lo riferisce la Repubblica.",
+   "more": [
+    "Lo Shakhtar Donetsk, club simbolo del calcio ucraino, ha dovuto trasferire le proprie attività lontano dal Donbass a causa del conflitto iniziato nel 2014 e aggravato dall'invasione russa del 2022, diventando spesso veicolo di iniziative umanitarie."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/sport/calcio/2026/10/21/news/inter_shakhtar_ragazzi_della_guerra_san_siro-425662980/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:20+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z4c9fcbaf",
+   "sez": "dibattito",
+   "titolo": "Sala: favorevole a controllo, repressione e militari",
+   "orig": "Sala: controllo, repressione. Ok militari",
+   "lead": "Il sindaco di Milano Giuseppe Sala ha partecipato a un vertice in Prefettura con il ministro dell'Interno Matteo Piantedosi e il capo della Polizia, dichiarandosi favorevole a controllo e repressione e non contrario all'impiego di militari per gestire le tensioni in città. L'incontro si inserisce nel confronto sulla gestione dell'ordine pubblico durante le proteste in corso in diverse città italiane. Lo riferisce Rai News.",
+   "more": [
+    "In seguito alle proteste e ai blocchi stradali di questi giorni, governo e amministrazioni locali discutono su come garantire la sicurezza pubblica, valutando anche il ricorso a militari per presidiare le aree sensibili, mentre restano aperte domande sul bilanciamento tra sicurezza e diritto di manifestare."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/sala-controllo-repressione-ok-militari-8acde47c-b7fa-4046-8650-e36f9e36d6bf.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T11:40+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zee7a5712",
+   "sez": "prima",
+   "titolo": "Grandinata a La Paz, allagamenti in Bolivia",
+   "orig": "Granizada cubre de blanco La Paz y El Alto y provoca inundaciones y dificultades en el transporte",
+   "lead": "Una violenta grandinata ha imbiancato La Paz ed El Alto, in Bolivia, provocando allagamenti e difficoltà nei trasporti per circa 30 minuti, con tombini ostruiti dai rifiuti che hanno aggravato l'accumulo d'acqua nelle strade. Nello stesso periodo, in America Latina si registrano forti piogge legate al fenomeno di El Niño: in Argentina restano a rischio le Cascate dell'Iguazú, mentre allerte per piogge intense sono state diramate in Cile, Venezuela e Paraguay. Lo riferisce Brújula Digital.",
+   "more": [
+    "El Niño è un fenomeno climatico ciclico che altera le temperature oceaniche nel Pacifico, causando in Sud America un aumento delle precipitazioni e fenomeni meteorologici estremi come grandinate e alluvioni, con conseguenze su trasporti, turismo e infrastrutture in diversi Paesi della regione."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/sociedad/granizada-cubre-de-blanco-la-paz-y-el-alto-y-provoca-inundaciones-y-dificultades-en-el-transporte",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-21T07:41-04:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/latinoamerica/el-fenomeno-de-el-nino-mantiene-en-alerta-a-las-cataratas-del-iguazu-reabren-accesos-tras-fuerte-crecida-pero-persiste-el-riesgo-de-nuevas-lluvias-3595108",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-10-21T06:59-05:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/chile/fuertes-lluvias-en-santiago-y-otras-regiones-de-hoy-ultimos-reportes-de-la-direccion-meteorologica-de-chile-riesgo-de-aluviones-y-mas-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-10-21T12:56+00:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/cafe-y-negocios/movida-gerencial-dbcc-tiene-un-nuevo-ceo-un-uruguayo-liderara-el-crecimiento-mendel-chile-y-hay-cambios-la-direccion-regional-ucm-n6061124",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-10-21T05:00-03:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/10/ivic-pronostica-fuertes-lluvias-en-venezuela-entre-diciembre-de-2026-y-febrero-de-2027/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-10-21T14:17+00:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/nacionales/2026/10/21/alerta-meteorologica-en-vivo-rigen-avisos-por-lluvias-y-tormentas-electricas-para-todo-el-pais/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-21T14:52+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z1482c374",
+   "sez": "prima",
+   "titolo": "Milei a Madrid attacca Sánchez, scontri a un evento di Abascal",
+   "orig": "Milei si abbatte sulle elezioni spagnole: “Sánchez un dittatore, socialisti da cacciare a calci”",
+   "lead": "Il presidente argentino Javier Milei, in visita a Madrid, ha attaccato duramente il premier spagnolo Pedro Sánchez, definendolo un \"dittatore\" e invitando a \"cacciare a calci\" i socialisti dal potere. Milei ha incontrato esponenti del Partito Popolare e di Vox, evitando ancora una volta il governo e la casa reale. Sánchez ha risposto lanciando lo slogan \"Sí, soy zurdo\" (\"sono di sinistra\"). Nella stessa giornata, un evento del leader di Vox Santiago Abascal a La Coruña si è concluso con cariche della polizia e giovani antifascisti feriti.",
+   "more": [
+    "Le visite di Milei in Spagna si inseriscono in un clima politico teso, con la destra spagnola in cerca di consenso e il governo socialista contestato dalle opposizioni. Le tensioni tra destra e sinistra si sono inasprite anche a livello europeo, come mostra il recente scontro tra Sánchez e il premier polacco Tusk sulla regolarizzazione dei migranti."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/10/21/news/milei_pedro_sanchez_dittatore_socialisti_visita_spagna_elezioni-425662590/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:24+02:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-21T09:29+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-da-la-bienvenida-a-milei-con-una-lona-en-ferraz-y-un-video-orgullosos-de-ser-zurdos.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-21T07:34+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/galicia/2026-10-21/un-acto-de-abascal-en-a-coruna-acaba-con-cargas-policiales-y-jovenes-antifascistas-heridos.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-21T14:22+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/21/6ad88a68fdddff62658b45ab.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-21T12:08+02:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/21/6ad894f4e4d4d85a288b4578.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-21T15:50+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z78ab4089",
+   "sez": "mondo",
+   "titolo": "Senegal, fondo da 8,5 miliardi per Pmi e imprenditoria femminile",
+   "orig": "8,5 milliards FCfa du Fonsis et de la KfW pour propulser les Pme et l’entrepreneuriat féminin",
+   "lead": "Il fondo sovrano senegalese Fonsis e la banca tedesca KfW hanno lanciato un programma da 8,5 miliardi di franchi CFA, finanziato dalla Germania, per sostenere le piccole e medie imprese e l'imprenditoria femminile in Senegal, rafforzando i capitali dei fondi di investimento locali. L'iniziativa è stata ufficializzata con un comunicato congiunto il 16 ottobre. Lo riferisce Le Soleil.",
+   "more": [
+    "L'ecosistema imprenditoriale senegalese punta su programmi di finanziamento misto pubblico-privato per sostenere startup e ridurre le barriere di accesso al credito, in particolare per le imprenditrici, spesso penalizzate da minore accesso ai capitali rispetto agli uomini."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/economie/85-milliards-fcfa-du-fonsis-et-de-la-kfw-pour-propulser-les-pme-et-lentrepreneuriat-feminin/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-10-21T13:23+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150095",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-10-21T09:18+00:00"
+    },
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/carburant-de-la-police-227-millions-de-litres-preleves-21-milliards-de-fcfa-impayes-et-des-stocks-de-securite-a-sec/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-21T08:50+00:00"
+    },
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/10/21/entrepreneuriat-feminin-ladys-first-rawbank-et-vlisco-misent-sur-le-reseautage-et",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-10-21T11:32+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z3e9bc714",
+   "sez": "prima",
+   "titolo": "iPhone Duo, scorte limitate nei negozi venerdì",
+   "orig": "Apple will have 'limited' iPhone Duo units available in stores on Friday",
+   "lead": "Apple ha annunciato che venerdì saranno disponibili in negozio quantità \"limitate\" del suo primo smartphone pieghevole, l'iPhone Duo, dopo che gli ordini online iniziali sono andati esauriti in pochi minuti, allungando i tempi di consegna per alcuni clienti. Il dispositivo, in vendita anche in Italia a partire da 2.369 euro per il modello base, ha suscitato grande interesse tra gli appassionati del marchio, pur con recensioni che invitano alla cautela viste le app non ancora ottimizzate per il grande schermo.",
+   "more": [
+    "L'iPhone Duo rappresenta il primo ingresso di Apple nel mercato degli smartphone pieghevoli, già esplorato da concorrenti come Samsung. Il prezzo elevato e la scarsa ottimizzazione iniziale del software per lo schermo pieghevole sono gli aspetti più discussi dalla critica tecnologica internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/apple-will-have-limited-iphone-duo-units-available-in-stores-friday-6479306",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-21T22:03+08:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038796/apple-will-have-limited-iphone-duo-units-available-in-stores-on-friday",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-21T19:57+05:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/technology/i-love-apple-s-iphone-duo-but-here-s-why-you-shouldn-t-buy-one-20261021-p617er.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-21T23:00+11:00"
+    },
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/21/news/iphone-duo-recensione-pieghevole-apple-vale-la-pena-425662669/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:01+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z93e59d4c",
+   "sez": "salute",
+   "titolo": "Primo caso di Ebola in Nigeria, il Camerun convoca una riunione di crisi",
+   "orig": "Premier cas d’Ebola au Nigeria : le Cameroun convoque une réunion de crise !",
+   "lead": "Il ministro della Salute del Camerun, Malachie Manaouda, ha convocato una riunione di crisi del comitato strategico per le emergenze sanitarie dopo la conferma del primo caso di Ebola in Nigeria. Secondo le autorità nigeriane, la paziente, una donna straniera arrivata con un volo internazionale, sarebbe affetta dal ceppo Bundibugyo, lo stesso responsabile dell'epidemia in corso nella Repubblica Democratica del Congo; finora sono stati identificati 44 contatti. Lo riferisce Actu Cameroun.",
+   "more": [
+    "Il virus Ebola provoca febbri emorragiche spesso letali e si trasmette tramite contatto con fluidi corporei di persone infette. Il ceppo Bundibugyo è stato già responsabile di epidemie in Africa centrale; la conferma di un caso in Nigeria, il Paese più popoloso del continente, ha spinto i Paesi vicini ad attivare misure precauzionali."
+   ],
+   "fonti": [
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/10/21/premier-cas-debola-au-nigeria-le-cameroun-convoque-une-reunion-de-crise/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-10-21T13:49+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/ebola-un-cas-confirme-au-nigeria-44-contacts-identifies/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-21T10:52+00:00"
+    },
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/7004529153303513402/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-21T05:45+03:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/sante-le-nigeria-confirme-un-premier-cas-debola-de-la-souche-bundibugyo-sur-son-territoire-letat-de-la-patiente-saggrave",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-21T11:31+00:00"
+    },
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610210143.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T08:36+00:00"
+    },
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/sierra-leone-border-ebola-cases-nigeria/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-10-21T13:34+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T12:39+00:00"
+    },
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/nigeria-confirms-ebola-case-linked-to-east-africa/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-21T13:48+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z61d87d0c",
+   "sez": "prima",
+   "titolo": "Mattarella: non si guardi ai giovani con indifferenza",
+   "orig": "Il presidente Mattarella: “Non ci si rivolga ai giovani con indifferenza o meschina sottovalutazione”",
+   "lead": "Il presidente della Repubblica Sergio Mattarella ha invitato a non guardare ai giovani \"con indifferenza o meschina sottovalutazione\", definendo il disagio giovanile una grande questione sociale che richiede attenzione da parte delle istituzioni. Il messaggio arriva il giorno dopo l'approvazione del decreto cortei, che estende alcune fattispecie di reato anche ai minorenni, mentre il Guardasigilli Nordio ha ribadito la linea dura sui minori dopo un'interrogazione del deputato leghista Morrone.",
+   "more": [
+    "Il decreto cortei, approvato dal governo, inasprisce le norme su manifestazioni e disordini pubblici estendendo alcune responsabilità penali anche ai minorenni, scelta criticata da parte dell'opposizione, mentre il governo la giustifica con l'esigenza di garantire ordine pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/news/italia-c7/il-presidente-mattarella-non-ci-si-rivolga-ai-giovani-con-indifferenza-o-meschina-sottovalutazione-a297577",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-10-21T04:29+02:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/10/21/mattarella-non-si-guardi-ai-giovani-con-indifferenza-o-meschina-sottovalutazione_31eb8924-8c4a-4cf3-a7a5-2fe53cbc6b92.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:09+02:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/10/21/news/mattarella_societa_giovani_indifferenza_meschina_sottovalutazione-425662298/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T10:08+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/mattarella-non-si-guardi-giovani-indifferenza-o-meschina-sottovalutazione-AJJPz9pB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T10:53+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z653e77c7",
+   "sez": "economia",
+   "titolo": "Tagikistan, prezzi di gasolio e carote su del 50%",
+   "orig": "Diesel fuel and carrots in Tajikistan rise more than 50%, while petrol prices jump 38%",
+   "lead": "In Tagikistan i prezzi del gasolio e delle carote sono aumentati di oltre il 50%, mentre la benzina è salita del 38%, secondo i dati riportati da Asia-Plus. L'aumento dei prezzi dei carburanti nel Paese si inserisce in un contesto globale di diesel ancora elevato, nonostante l'accordo raggiunto da Donald Trump con la Russia, i cui volumi promessi restano troppo ridotti per alleviare la stretta sull'offerta mondiale. Lo riferisce Asia-Plus.",
+   "more": [
+    "I prezzi dei carburanti nei Paesi dell'Asia centrale dipendono fortemente dalle importazioni e dalle dinamiche geopolitiche internazionali, incluse le sanzioni contro la Russia e gli equilibri del mercato energetico globale, che si riflettono rapidamente sui costi al consumo locali."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/10/21/diesel-fuel-and-carrots-in-tajikistan-have-risen-in-price-by-more-than-half-gasoline-by-38/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-10-21T09:21+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/united-states/global-diesel-prices-seen-staying-high-despite-trumps-deal-with-russia",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-21T22:15+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z5044b6a3",
+   "sez": "musica",
+   "titolo": "\"Nevermind\" dei Nirvana sale al sesto posto tra gli album più venduti",
+   "orig": "Nirvana, “Nevermind” supera “Back In Black” degli Ac/Dc e i Pink Floyd ed è sesto: gli album più venduti di sempre secondo Chartmasters",
+   "lead": "A 35 anni dalla pubblicazione, l'album \"Nevermind\" dei Nirvana ha superato \"Back in Black\" degli AC/DC e i Pink Floyd, salendo al sesto posto nella classifica degli album più venduti di sempre stilata da Chartmasters. Il disco del 1991, firmato da Kurt Cobain, Krist Novoselic e Dave Grohl, continua a scalare le classifiche storiche delle vendite musicali mondiali. Lo riferisce OndaRock.",
+   "more": [
+    "\"Nevermind\" è considerato uno degli album simbolo del grunge e della musica rock degli anni '90, capace di portare il genere al successo commerciale di massa grazie a brani come \"Smells Like Teen Spirit\". Le classifiche storiche vengono aggiornate periodicamente su vendite, streaming e certificazioni."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/nirvana-nevermind-back-in-black-ac-dc-pink-floyd-album-piu-venduti-sempre-chartmasters/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:50+00:00"
+    },
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/lists/amy-winehouse-back-to-black-20-years-oral-history/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T13:14+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zb9267942",
+   "sez": "spazio",
+   "titolo": "La misteriosa nube di Marte sfida la fisica tradizionale",
+   "orig": "Mars’s Most Mysterious Cloud Might Be Defying Textbook Cloud Physics",
+   "lead": "Gli scienziati studiano da decenni una misteriosa nube allungata, chiamata Arsia Mons Elongated Cloud, che appare ogni giorno d'estate marziano a ovest del vulcano spento Arsia Mons, estendendosi per 1.800 chilometri prima di dissolversi nel giro di poche ore. Secondo Universe Today, il fenomeno non è ancora del tutto spiegabile con i modelli atmosferici tradizionali, poiché sembrerebbe formarsi spontaneamente senza particelle solide che ne facciano da innesco, un meccanismo mai osservato prima. Lo riferisce Universe Today.",
+   "more": [
+    "Marte, come la Terra, conosce variazioni stagionali che influenzano la formazione di nubi nella sua sottile atmosfera. Lo studio di questi fenomeni aiuta gli scienziati a comprendere meglio la dinamica climatica del pianeta, utile anche per pianificare future missioni di esplorazione umana e robotica."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/marss-most-mysterious-cloud-might-be-defying-textbook-cloud-physics",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-21T11:19+00:00"
+    },
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/a-cloud-forms-spontaneously-over-a-mountain-on-mars-heres-why/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T18:25+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z739dabee",
+   "sez": "dibattito",
+   "titolo": "Kosovo, il governo rilancia le modifiche al Codice civile",
+   "orig": "‘Family Values’ Row Returns as Kosovo Govt Revives Changes to Civil Code",
+   "lead": "Il primo ministro del Kosovo, Albin Kurti, ha annunciato di voler riprendere le modifiche al Codice civile rimaste bloccate, che includono il riconoscimento delle unioni civili tra persone dello stesso sesso. Un deputato dell'opposizione ha criticato le norme, definendole ostili ai \"valori familiari tradizionali\". La proposta riaccende il confronto politico nel Paese sui diritti delle coppie omosessuali. Lo riferisce Prishtina Insight.",
+   "more": [
+    "Il tema delle unioni civili tra persone dello stesso sesso è oggetto di discussione in diversi Paesi dei Balcani, dove le riforme legislative si scontrano spesso con posizioni conservatrici legate a valori religiosi e tradizionali. In Kosovo il governo Kurti sostiene l'aggiornamento del Codice civile, mentre parte dell'opposizione si oppone richiamandosi alla tutela della famiglia tradizionale."
+   ],
+   "fonti": [
+    {
+     "n": "Prishtina Insight",
+     "p": "XX",
+     "c": "Pristina",
+     "u": "https://prishtinainsight.com/family-values-row-returns-as-kosovo-govt-revives-changes-to-civil-code/",
+     "angolo": "",
+     "atlas": "Kosovo",
+     "t": "2026-10-15T15:00+00:00"
+    },
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/10/21/news/spotify_stretta_account_family_qr_code_ban_podcast_memberchip-425662685/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:25+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z006adae9",
+   "sez": "cultura",
+   "titolo": "Barzani apre la Fiera del libro di Erbil",
+   "orig": "President Masoud Barzani Attends Opening of 18th Erbil International Book Fair",
+   "lead": "Il presidente del Kurdistan iracheno, Masoud Barzani, ha partecipato all'apertura della 18ª Fiera internazionale del libro di Erbil, alla presenza di numerosi ospiti e figure di spicco della politica, della cultura e del mondo accademico. Lo riferisce Kurdistan24.",
+   "more": [
+    "La Fiera del libro di Erbil è uno degli eventi culturali più importanti della regione autonoma del Kurdistan iracheno, occasione di promozione della lettura e di incontro tra editori ed esponenti del mondo intellettuale curdo e internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947683/president-masoud-barzani-attends-opening-of-18th-erbil-international-book-fair",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-21T17:50+03:00"
+    },
+    {
+     "n": "Island Times",
+     "p": "XX",
+     "c": "Ngerulmud",
+     "u": "https://islandtimes.org/whipps-attends-opening-of-shin-kong-hospitals-new-wing-in-taipei/",
+     "angolo": "",
+     "atlas": "Palau",
+     "t": "2026-10-20T10:53+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z8e5f1987",
+   "sez": "dibattito",
+   "titolo": "Blocchi tir, Urso: il Viminale identifica i camionisti",
+   "orig": "Urso:si stanno identificando camionisti",
+   "lead": "Alla Camera, il ministro delle Imprese Adolfo Urso ha dichiarato che il Viminale sta identificando i camionisti che partecipano ai blocchi stradali, per poter rimuovere i presidi. Il viceministro Edoardo Rixi ha annunciato lo stanziamento di fondi per l'autotrasporto da subito, chiedendo la fine dei blocchi. Gli industriali di Campania e Puglia denunciano imprese al collasso, mentre gli aeroporti di Crotone e Reggio Calabria restano senza carburante e si registrano code e chiusure sulle autostrade A1 e A30.",
+   "more": [
+    "Da giorni gli autotrasportatori protestano con blocchi stradali in diverse regioni italiane, chiedendo misure economiche a sostegno del settore, colpito da rincari dei costi. Il governo ha promesso fondi ma ritiene i blocchi illegali e minaccia identificazioni e sanzioni, mentre le imprese di alcuni territori lamentano danni economici."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/ursosi-stanno-identificando-camionisti-1641980a-6aa6-4e64-bb14-f50439c69869.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:34+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/urso-alla-camera-il-viminale-sta-identificando-camionisti-per-rimuovere-i-presidi_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:55+02:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/blocchi-tir-urso-viminale-sta-identificando-camionisti-rimuovere-presidi-lollobrigida-verificare-qualche-casellario-giudiziario-AJtaFPqB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:43+00:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/21/il-ministro-urso-sui-camionisti-la-polizia-li-sta-identificando-blocchi-illegali-previsto-il-carcere/8545734/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:57+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "ze4e6f34c",
+   "sez": "organizzazioni",
+   "titolo": "Onu: supereremo 1,5°C, ma tagli rapidi possono invertire la rotta",
+   "orig": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+   "lead": "Secondo le Nazioni Unite, l'aumento della temperatura globale supererà la soglia di 1,5°C rispetto ai livelli preindustriali, ma tagli rapidi e profondi alle emissioni possono ancora riportare il riscaldamento sotto quella soglia entro la fine del secolo. L'Onu avverte che i Paesi devono \"fare di tutto\" per ridurre urgentemente le emissioni e minimizzare il superamento del limite, mentre le emissioni globali di gas serra legate all'energia restano a livelli record. Lo riferisce UN News.",
+   "more": [
+    "L'accordo di Parigi del 2015 fissa l'obiettivo di contenere il riscaldamento globale entro 1,5-2°C rispetto all'epoca preindustriale. Gli scienziati avvertono da anni che, senza una drastica riduzione delle emissioni, il superamento della soglia più ambiziosa è ormai probabile, con conseguenze più gravi su clima, ecosistemi e società."
+   ],
+   "fonti": [
+    {
+     "n": "Nazioni Unite (UN News)",
+     "p": "XX",
+     "c": "New York",
+     "u": "https://news.un.org/feed/view/en/story/2026/10/1168634",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T12:00+00:00"
+    },
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/world/too-late-to-keep-global-warming-below-1.5c-target-un-says/163388629.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-21T10:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z821d2409",
+   "sez": "adolescenti",
+   "titolo": "Webinar gratuito su educazione finanziaria e cybersecurity",
+   "orig": "Spunti di educazione civica: webinar gratuito su educazione finanziaria e cybersecurity in collaborazione con Museo del Risparmio",
+   "lead": "Orizzonte Scuola segnala un webinar gratuito di educazione civica dedicato a educazione finanziaria e cybersecurity, organizzato in collaborazione con il Museo del Risparmio, pensato per aiutare gli studenti a muoversi con consapevolezza nella società digitale, gestire le informazioni, riconoscere i rischi online e sviluppare un rapporto più responsabile con il denaro. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "L'educazione finanziaria e digitale è sempre più inserita nei percorsi scolastici italiani come parte dell'educazione civica, con l'obiettivo di fornire agli studenti strumenti pratici per gestire risparmi, riconoscere truffe online e comprendere le implicazioni delle proprie scelte economiche e digitali."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/spunti-di-educazione-civica-webinar-gratuito-su-educazione-finanziaria-e-cybersecurity-in-collaborazione-con-museo-del-risparmio/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T12:40+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/news/2026/10/21/news/educazione_finanziaria_il_progetto_di_anasf_certificato_dal_comitato_del_mef-425662538/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:28+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17",
+   "sub": "scuola"
+  },
+  {
+   "id": "zfd838087",
+   "sez": "manga",
+   "titolo": "Rivelato il cast dell'anime \"Haru to Gen\"",
+   "orig": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Short Anime's Teaser Reveals Cast, January 4 Debut",
+   "lead": "È stato rivelato il cast del cortometraggio anime \"Haru to Gen ~70-sai, Hajimete Kosodate~\", tratto dal manga di Yuka Oshima, che debutterà il 4 gennaio con le voci di Bin Shimada, Hiromi Igarashi e Mayuko Kazama. Lo riferisce Anime News Network.",
+   "more": [
+    "Gli anime tratti da manga di successo vengono spesso annunciati con teaser che rivelano cast e data di debutto, strumento promozionale diffuso in Giappone per generare attesa tra gli appassionati prima della messa in onda dell'opera."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-21/haru-to-gen-~70-sai-hajimete-kosodate~-short-anime-teaser-reveals-cast-january-4-debut/.243050",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T00:54-04:00"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/10/21/haru-to-gen-anime-premiere-date-cast-trailer",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T12:21+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z604849f4",
+   "sez": "viaggi",
+   "titolo": "Battle Harbour, l'isola fantasma del Canada",
+   "orig": "Canada's ghost island where guests still check in",
+   "lead": "BBC Travel racconta Battle Harbour, un'isola \"fantasma\" del Canada dove gli ospiti continuano a fare il check-in in un luogo rimasto congelato nel tempo, offrendo una rara possibilità di fuga dalla vita moderna. Lo riferisce BBC Travel.",
+   "more": [
+    "Battle Harbour, situata a Terranova e Labrador, fu un tempo un importante villaggio di pescatori, oggi conservato come sito storico che permette ai visitatori di vivere un'esperienza di isolamento e immersione nella storia marittima canadese."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Travel",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.com/travel/article/20261015-battle-harbour-canadas-ghost-island-where-guests-still-check-in",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T13:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zf2b1073c",
+   "sez": "ambiente",
+   "titolo": "Nuovo metodo per riciclare il plexiglas",
+   "orig": "Scientists Discover a Simple, Low-Energy Way to Recycle Acrylic Glass into Brand-New Material",
+   "lead": "Ricercatori dell'ETH di Zurigo hanno individuato un nuovo metodo semplice e a basso consumo energetico per riciclare il plexiglas, scomponendolo quasi interamente nei suoi componenti originali e rendendo per la prima volta realistico ed economico un riciclo di alta qualità del materiale, usato in finestre, fanali per auto, mobili e barriere protettive. Lo riferisce Good News Network.",
+   "more": [
+    "Il plexiglas è un materiale plastico molto diffuso ma storicamente difficile da riciclare in modo efficiente; nuove tecniche chimiche a basso impatto energetico potrebbero ridurre gli sprechi e favorire un'economia circolare più sostenibile nel settore delle materie plastiche."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T13:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "good": true,
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zba332fc7",
+   "sez": "cucina",
+   "titolo": "The 50 Best Restaurants 2026, la classifica dal 51 al 100",
+   "orig": "The 50 Best Restaurants 2026: la classifica dal 51 al 100",
+   "lead": "La Cucina Italiana pubblica la classifica dei \"50 Best Restaurants 2026\" dal 51° al 100° posto, con 17 ristoranti in Asia, 20 in Europa, 6 in Nord America, 3 in Sud America, 2 in Africa e 2 in Medio Oriente; l'Italia compare con un solo locale in classifica. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "La classifica \"The World's 50 Best Restaurants\" è uno dei riconoscimenti più seguiti nel settore della ristorazione internazionale, stilata annualmente da una giuria di esperti e influente nel determinare la reputazione globale di chef e locali gastronomici."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/the-50-best-restaurants-2026-la-classifica-dal-51-al-100/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z4a117383",
+   "sez": "sport",
+   "titolo": "Test di cricket: l'Australia costretta al follow-on contro il Sudafrica",
+   "orig": "Live: Head rebuilds, Labuschagne fails as Australia follows on",
+   "lead": "Nel quarto giorno del secondo test di cricket tra Sudafrica e Australia a Gqeberha, l'Australia è stata costretta al follow-on dopo il primo turno in battuta. Travis Head sta cercando di ricostruire l'innings degli ospiti, mentre Marnus Labuschagne è uscito presto, lasciando la squadra in difficoltà. Il bowler sudafricano Kagiso Rabada ha impressionato per velocità e aggressività negli over iniziali della seconda battuta australiana. La partita, valida per la serie di test tra le due nazionali, si gioca al St George's Park.",
+   "more": [
+    "Il follow-on in cricket si verifica quando una squadra, dopo il primo turno in battuta, resta indietro di un ampio margine di punti e viene costretta a battere nuovamente in sequenza, situazione che aumenta le probabilità di sconfitta nel test match."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-21T07:12+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/live/2026/oct/21/south-africa-v-australia-second-test-day-four-cricket-st-georges-park-gqeberha-live-updates",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T14:51+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z5d19eefd",
+   "sez": "tech",
+   "titolo": "OpenAI estende la pubblicità su ChatGPT a 26 nuovi paesi",
+   "orig": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue",
+   "lead": "OpenAI ha annunciato di voler estendere la pubblicità su ChatGPT a 26 nuovi paesi, tra cui il Pakistan, portando a 89 il totale dei mercati coperti dal servizio. L'azienda sta rafforzando il settore pubblicitario per aumentare i ricavi in vista di una possibile futura quotazione in borsa. L'annuncio è stato diffuso mercoledì.",
+   "more": [
+    "ChatGPT, il chatbot di OpenAI basato su intelligenza artificiale, ha progressivamente introdotto spazi pubblicitari per diversificare le entrate oltre agli abbonamenti premium. Una futura quotazione in borsa richiederebbe all'azienda di mostrare agli investitori flussi di ricavi solidi e diversificati."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/business/openai-expands-chatgpt-ads-26-more-countries-in-bid-boost-revenue-6479191",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-21T21:00+08:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038788/openai-expands-chatgpt-ads-to-26-more-countries-including-pakistan-in-bid-to-boost-revenue",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-21T18:47+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z7759f239",
+   "sez": "musica",
+   "titolo": "Phil Collins contro gli Oasis in vista della Rock & Roll Hall of Fame",
+   "orig": "Phil Collins contro gli Oasis: “Alla Hall of Fame faranno finta di niente”",
+   "lead": "Il cantante Phil Collins ha criticato gli Oasis, sostenendo che alla cerimonia della Rock & Roll Hall of Fame 2026, in programma l'8 novembre al Peacock Theater di Los Angeles, i fratelli Gallagher faranno finta di non conoscerlo nonostante la lunga rivalità fatta di frecciate e provocazioni tra le due parti. Collins entrerà per la seconda volta nella Hall of Fame, questa volta come ex componente dei Genesis, rendendo probabile un incontro imbarazzante con gli ex Oasis durante l'evento. Lo riferisce OndaRock.",
+   "more": [
+    "La Rock & Roll Hall of Fame è l'istituzione statunitense che onora artisti e band di musica rock; gli Oasis e Phil Collins sono stati per anni protagonisti di scambi polemici pubblici, con i fratelli Gallagher spesso critici nei confronti del cantante britannico e del suo stile musicale."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/phil-collins-contro-gli-oasis-alla-hall-of-fame-faranno-finta-di-niente/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:25+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/le-associazioni-dell-autotrasporto-governo-intervenga-porre-fine-blocchi-AJN4J6pB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T10:41+00:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/21/siamo-qui-a-ridere-e-a-scherzare-ma-non-possiamo-fare-finta-di-niente-accendiamo-una-luce-sugli-autotrasportatori-faccio-un-appello-al-governo-aprite-i-tavoli-parla-fiorello/8545628/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:33+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/politica/video/2026/10/21/autotrasportatori-governo-intervenga-per-fermare-i-blocchi-1133391",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zff8540b7",
+   "sez": "spazio",
+   "titolo": "NASA aggiorna i progressi sui rover per la base lunare",
+   "orig": "NASA Provides Progress Update on Moon Base Rovers",
+   "lead": "La NASA ha fornito un aggiornamento sui progressi dei rover previsti per la Moon Base, la futura base lunare. I veicoli, con o senza equipaggio, avranno un ruolo centrale nelle prime fasi dello sviluppo: dimostrazioni tecnologiche, trasporto di astronauti, mappatura del terreno, ricerche scientifiche e prospezione delle risorse. I dati raccolti nelle prime missioni serviranno a progettare i futuri sistemi di mobilità e le infrastrutture necessarie per permettere agli astronauti di vivere e lavorare sulla Luna. Lo riferisce la NASA.",
+   "more": [
+    "Il programma Moon Base rientra nella strategia statunitense di ritorno umano sulla Luna, che prevede missioni Artemis e infrastrutture permanenti per future esplorazioni, in vista di obiettivi a lungo termine come Marte."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-20T15:00+00:00"
+    },
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T12:00+00:00"
+    },
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-15T15:14+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zc89fffee",
+   "sez": "economia",
+   "titolo": "Sudafrica: sollievo temporaneo sui carburanti nel bilancio 2026",
+   "orig": "Budget 2026: Godongwana announces R10bn in temporary fuel relief",
+   "lead": "Il ministro delle Finanze sudafricano Enoch Godongwana ha annunciato, nell'aggiornamento di bilancio di medio termine del 2026, una riduzione temporanea di 10 miliardi di rand sull'accisa sui carburanti per alleggerire la pressione sulle famiglie. Il Tesoro nazionale ha contestualmente abbassato le previsioni di crescita economica e avvertito che i guadagni di entrate fiscali saranno di breve durata. Il discorso è stato presentato mercoledì 21 ottobre.",
+   "more": [
+    "Il Medium-Term Budget Policy Statement è il documento con cui il governo sudafricano aggiorna a metà anno le previsioni di bilancio, incluse entrate, spese e debito pubblico; la stabilizzazione del debito è da tempo un obiettivo prioritario monitorato da mercati e agenzie di rating."
+   ],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-10-21-budget-2026-godongwana-announces-r10bn-in-temporary-fuel-relief/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-21T14:00+00:00"
+    },
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-21-rising-revenue-allows-for-fuel-levy-relief-el-nino-readiness-in-godongwanas-mini-budget/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-21T14:15+00:00"
+    },
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-21-medium-term-budget-policy-statement-full-speech/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-21T14:08+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z096f93d8",
+   "sez": "salute",
+   "titolo": "L'OMS assiste la Nigeria dopo il primo caso di Ebola nel paese",
+   "orig": "WHO supports Nigeria after first Ebola case confirmed",
+   "lead": "L'Organizzazione Mondiale della Sanità sta assistendo la Nigeria dopo la conferma del primo caso nel paese di malattia da virus Ebola-Bundibugyo. L'intervento mira a supportare le autorità sanitarie nigeriane nella gestione del contagio. Lo riferisce UN News.",
+   "more": [
+    "Il virus Ebola-Bundibugyo è una delle specie del virus Ebola, meno comune ma comunque letale, che causa febbre emorragica; la sua identificazione in un nuovo paese richiede misure rapide di tracciamento dei contatti e isolamento per prevenirne la diffusione."
+   ],
+   "fonti": [
+    {
+     "n": "Nazioni Unite (UN News)",
+     "p": "XX",
+     "c": "New York",
+     "u": "https://news.un.org/feed/view/en/story/2026/10/1168637",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T12:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zaab60b4a",
+   "sez": "ambiente",
+   "titolo": "Proteste nel Regno Unito contro nuove trivellazioni di gas nel Mare del Nord",
+   "orig": "Protests as UK approves new gas drilling in North Sea",
+   "lead": "Attivisti per il clima hanno protestato contro la decisione del governo britannico di autorizzare nuove trivellazioni di gas nel Mare del Nord. La protesta si è svolta dopo l'annuncio dell'approvazione del progetto, contestato da chi chiede una transizione più rapida verso le energie rinnovabili. Lo riferisce Al Jazeera.",
+   "more": [
+    "Il Mare del Nord è storicamente un'area chiave per l'estrazione di petrolio e gas nel Regno Unito; negli ultimi anni le nuove licenze di estrazione sono diventate oggetto di dibattito tra necessità di sicurezza energetica e impegni climatici nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-21T12:49+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z44571fb6",
+   "sez": "italia",
+   "titolo": "Piantedosi chiede \"massima mobilità\" ai militari",
+   "orig": "Piantedosi: ai militari \"massima mobilità\"",
+   "lead": "Il ministro dell'Interno Matteo Piantedosi ha chiesto \"massima mobilità\" ai militari dopo una riunione del Comitato per l'ordine e la sicurezza pubblica. Il ministro ha espresso \"massima condivisione\" con il sindaco di Milano Giuseppe Sala sulle misure discusse. Lo riferisce Rai News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/piantedosi-ai-militari-massima-mobilita--5843d884-81b5-4ca5-8b16-bba119b87dfb.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T12:20+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z14056d71",
+   "sez": "musica",
+   "titolo": "Yard Act torna con un nuovo album sull'individualismo moderno",
+   "orig": "Yard Act is still searching for a greater purpose",
+   "lead": "La band britannica Yard Act, originaria di Leeds, è tornata con un nuovo album intitolato \"You're Gonna Need A Little Music\", descritto come una critica all'individualismo esasperato della società contemporanea. Il gruppo continua la propria ricerca di un significato più ampio attraverso la musica. Lo riferisce NPR.",
+   "more": [
+    "Gli Yard Act sono una band post-punk britannica emersa negli anni Duemiladieci, nota per testi ironici e politicamente impegnati che osservano criticamente la società britannica contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "NPR – Musica",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/21/nx-s1-6004238/yard-act-is-still-searching-for-a-greater-purpose",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T08:00-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zafdedfdd",
+   "sez": "viaggi",
+   "titolo": "A Bolzano tornano i mercatini di Natale dal 27 novembre",
+   "orig": "Mercatini di Natale Bolzano 2026",
+   "lead": "Dal 27 novembre 2026 al 6 gennaio 2027 Bolzano ospiterà i suoi tradizionali mercatini di Natale, tra i più amati d'Italia. Il centro dell'iniziativa resta Piazza Walther, con casette in legno, il grande albero illuminato e il presepe che trasformano il centro storico in un'atmosfera natalizia alpina. Lo riferisce Turisti per Caso.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/destinazioni/mercatini-di-natale-bolzano-2026.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T12:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z478a3d45",
+   "sez": "manga",
+   "titolo": "Cosplay a Lucca Comics 2026: il programma degli eventi",
+   "orig": "Cosplay a Lucca Comics 2026: il programma con date, orari ed eventi",
+   "lead": "Lucca Comics & Games 2026, in programma dal 28 ottobre al 1° novembre, propone un ricco calendario di eventi cosplay con parate, raduni e contest dedicati a universi come Dragon Ball, Dylan Dog, One Piece, Harry Potter e Star Wars. La guida pubblicata indica date, orari e luoghi delle iniziative. Lo riferisce Fumettologica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/10/lucca-comics-2026-cosplay-programma/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:34+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zbfe83736",
+   "sez": "cucina",
+   "titolo": "Uno studio confirma il legame emotivo degli italiani con la pasta",
+   "orig": "La pasta è amore, e non ci vogliamo rinunciare. Lo dice un nuovo studio",
+   "lead": "In occasione del World Pasta Day, che si celebra il 25 ottobre, Unione Italiana Food ha presentato una nuova ricerca che confirma il forte legame emotivo degli italiani con la pasta, alimento considerato parte integrante della storia e dell'identità nazionale. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Il World Pasta Day è una giornata internazionale istituita nel 1998 per celebrare la pasta come alimento simbolo della dieta mediterranea, con eventi e iniziative promosse ogni anno in diversi paesi dai produttori del settore."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/la-pasta-amore-italiano-ricerca-unione-italiana-food/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z17074a3e",
+   "sez": "sport",
+   "titolo": "Il campione di snooker Mark Allen rivela il ricovero in clinica per la salute mentale",
+   "orig": "Snooker-Allen reveals mental health clinic stay before return, considers retirement",
+   "lead": "Lo snooker professionista nordirlandese Mark Allen ha rivelato di aver trascorso dieci settimane in una clinica per la salute mentale prima di tornare in campo per il Northern Ireland Open. L'ex numero uno al mondo ha dichiarato di aver lasciato la struttura per partecipare al torneo e sta valutando l'ipotesi di ritirarsi dall'attività agonistica, promettendo di mostrare le proprie \"qualità combattive\" nonostante le difficoltà.",
+   "more": [
+    "Negli ultimi anni diversi atleti professionisti hanno reso pubbliche esperienze di disagio psicologico legato alla pressione competitiva, contribuendo a normalizzare il tema della salute mentale nello sport agonistico, incluso quello individuale come lo snooker."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/snooker-allen-reveals-mental-health-clinic-stay-return-considers-retirement-6479266",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-21T21:44+08:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/2026/oct/21/snooker-mark-allen-northern-ireland-open-mental-health",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T13:52+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z73e72559",
+   "sez": "economia",
+   "titolo": "Il debito pubblico dell'eurozona sale all'88,8% del PIL",
+   "orig": "Eurozone government debt climbs to 88.8% of GDP as Italy closes in on Greece",
+   "lead": "Il debito pubblico dell'area euro è salito all'88,8% del PIL nel secondo trimestre del 2026, con l'Italia che si avvicina alla Grecia, il paese membro più indebitato. Il debito francese è cresciuto al 119,1% del PIL, mentre i costi di finanziamento del paese hanno superato il 5%. Lo riferisce Euronews.",
+   "more": [
+    "Il rapporto debito/PIL misura il peso del debito pubblico rispetto alla ricchezza prodotta da un paese in un anno; un aumento dei costi di indebitamento, come quello osservato in Francia, riflette la crescente diffidenza dei mercati verso la sostenibilità dei conti pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/21/eurozone-government-debt-climbs-to-888-of-gdp-as-italy-closes-in-on-greece",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T16:45+02:00"
+    },
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraq-domestic-public-debt-surges-113-trillion-dinars-august-2026/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-21T13:21+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z3d8f438e",
+   "sez": "spazio",
+   "titolo": "Scoperta una stella nana bianca di colore verde",
+   "orig": "A Chartreuse White Dwarf Shows Some Stars Really Are Green",
+   "lead": "Un gruppo di astronomi britannici ha scoperto che le vere colorazioni delle nane bianche possono variare molto più di quanto si pensasse, identificando per la prima volta una nana bianca di colore verde-giallastro. La scoperta amplia la comprensione della diversità cromatica delle stelle della nostra galassia, finora associata soprattutto a tonalità rosse o blu come quelle di Betelgeuse e Rigel.",
+   "more": [
+    "Le nane bianche sono i resti densi e caldi di stelle che hanno esaurito il combustibile nucleare; il loro colore apparente dipende dalla temperatura superficiale e dalla composizione, e la scoperta di una tonalità verde rappresenta un caso raro nell'osservazione astronomica."
+   ],
+   "fonti": [
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/a-chartreuse-white-dwarf-shows-some-stars-really-are-green/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T12:00+00:00"
+    },
+    {
+     "n": "EarthSky",
+     "p": "US",
+     "c": "Austin",
+     "u": "https://earthsky.org/space/surprising-colors-of-white-dwarf-stars-revealed-for-1st-time/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T11:59+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z6e2822e1",
+   "sez": "musica",
+   "titolo": "Al via la 22esima edizione del Premio Bianca d'Aponte",
+   "orig": "Al via il Premio Bianca d’Aponte, lo storico contest rivolto alle giovani cantautrici",
+   "lead": "È iniziata la 22esima edizione del Premio Bianca d'Aponte, concorso dedicato alle giovani cantautrici, con le finali in programma venerdì 23 e sabato 24 ottobre al Teatro Cimarosa di Aversa. Le finaliste si alterneranno sul palco con ospiti come la madrina Marina Rei e Peppe Barra, che riceverà il premio alla carriera. Lo riferisce OndaRock.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/al-via-il-premio-bianca-daponte/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:50+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z5b35f6c6",
+   "sez": "dibattito",
+   "titolo": "Albania: il governo accusa gli studenti in protesta di ingerenze estere",
+   "orig": "Il governo albanese ha scelto la linea dura contro gli studenti",
+   "lead": "In Albania il governo ha scelto una linea dura nei confronti degli studenti che protestano, accusandoli di essere manovrati da Russia e Iran e reprimendo le manifestazioni con la violenza. Le proteste, secondo quanto riferito, non si sono fermate nonostante la repressione. Il tema al centro della vicenda è il contrasto tra le richieste degli studenti e le accuse del governo di ingerenza straniera nelle mobilitazioni. Lo riferisce Il Post.",
+   "more": [
+    "Le proteste studentesche in diversi paesi dell'Europa dell'Est sono state talvolta accostate dai governi locali a presunte ingerenze straniere, un'accusa spesso usata per delegittimare movimenti di dissenso interno, mentre i manifestanti generalmente rivendicano richieste legate a condizioni sociali, economiche o politiche nei rispettivi paesi."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/21/albania-rama-proteste-studenti/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T14:36+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z6dd1cc21",
+   "sez": "ambiente",
+   "titolo": "Sudafrica, crisi dell'acqua a Tshwane: centinaia di malati per l'acqua contaminata",
+   "orig": "GROUNDUP: Tshwane’s drinking water crisis a wake-up call for SA as sewage pollution sickens hundreds",
+   "lead": "Più di 400 persone, soprattutto bambini sotto i quattro anni, hanno contratto malattie gastrointestinali dopo aver bevuto acqua di rubinetto contaminata a Bronkhorstspruit, nell'area di Tshwane. L'episodio ha evidenziato le falle nei sistemi di trattamento delle acque e nella supervisione municipale, in un contesto di crisi più ampia legata all'inquinamento da acque reflue che minaccia la sicurezza idrica nazionale. Lo riferisce Daily Maverick.",
+   "more": [
+    "Il Sudafrica affronta da anni una crisi infrastrutturale nei sistemi di depurazione e distribuzione dell'acqua, aggravata da scarsi investimenti e manutenzione insufficiente nei comuni, con episodi ricorrenti di contaminazione che colpiscono soprattutto le comunità più vulnerabili."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-10-21-tshwanes-drinking-water-crisis-a-wake-up-call-for-sa-as-sewage-pollution-sickens-hundreds/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-10-21T14:28+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z2d0529c4",
+   "sez": "italia",
+   "titolo": "Torino ospita \"Women & the City\" dal 6 al 18 novembre",
+   "orig": "Women & the City a Torino dal 6 al 18 novembre, anteprima con Archibugi",
+   "lead": "Torino ospiterà dal 6 al 18 novembre la rassegna \"Women & the City\", con un'anteprima che vedrà la partecipazione della regista Francesca Archibugi. La Fondazione Torino Città per le Donne ha sottolineato l'importanza di coinvolgere anche gli uomini nell'iniziativa dedicata ai temi di genere. Lo riferisce ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/donne/notizie/2026/10/20/women-the-city-a-torino-dal-6-al-18-novembre-anteprima-con-archibugi_00fe9b55-360a-4748-80d7-6a790f84acd8.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:39+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z83c47331",
+   "sez": "cultura",
+   "titolo": "Ad Almaty una mostra esplora la memoria e il sapere ancestrale delle donne",
+   "orig": "Stories We Inherit: Almaty Exhibition Explores Women’s Memory and Ancestral Knowledge",
+   "lead": "Ad Almaty, in Kazakhstan, è stata inaugurata il 15 ottobre la mostra \"Himoya: Matrilineal Energies, Oracular Kin\", che esplora la memoria e il sapere ancestrale delle donne attraverso l'arte contemporanea. L'esposizione, ospitata al Tselinny Center of Contemporary Culture, riunisce 21 artisti e pensatori provenienti dall'Asia Centrale e da altre regioni del mondo. Lo riferisce The Astana Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/10/stories-we-inherit-almaty-exhibition-explores-womens-memory-and-ancestral-knowledge/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-10-21T12:54+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zd561368f",
+   "sez": "cucina",
+   "titolo": "A Golosaria 2026 il giro d'Italia tra banchi, cucine e calici",
+   "orig": "A Golosaria 2026 il giro d’Italia si fa tra banchi, cucine e calici",
+   "lead": "Dal 31 ottobre al 2 novembre, Fiera Milano Rho ospiterà Golosaria 2026, manifestazione dedicata all'enogastronomia italiana con oltre 50 appuntamenti tra assaggi, giovani artigiani e grandi maestri della cucina e del vino. Lo riferisce La Cucina Italiana.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/golosaria-2026-giro-italia-si-fa-tra-banchi-cucine-calici/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:21+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z3a71a38a",
+   "sez": "mondo",
+   "titolo": "Rubio coinvolge Musk sulla riduzione di Starlink per l'Ucraina",
+   "orig": "Rubio bringt bei Drosselung Musk ins Spiel",
+   "lead": "Il segretario di Stato statunitense Marco Rubio ha dichiarato mercoledì che le decisioni sull'accesso dell'Ucraina al sistema satellitare Starlink spettano a SpaceX e al suo fondatore Elon Musk. Le parole arrivano nel pieno della disputa sulla riduzione della capacità della rete satellitare, considerata essenziale per la difesa ucraina contro gli attacchi russi. La dichiarazione rappresenta un cambio di rotta rispetto alla linea finora seguita dall'amministrazione americana, che aveva evitato di attribuire responsabilità dirette a Musk sulla questione. Lo riferisce ORF.",
+   "more": [
+    "Starlink, gestito da SpaceX, fornisce da anni connettività satellitare cruciale per le comunicazioni militari ucraine, incluso il coordinamento dei drammi sul campo di battaglia. Musk ha avuto rapporti altalenanti con Kiev, sospendendo in passato l'accesso al servizio in momenti chiave del conflitto, suscitando polemiche sul ruolo di un'azienda privata in questioni di sicurezza nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445736/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-21T16:35+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z25664f68",
+   "sez": "tech",
+   "titolo": "Hacker penetrano nei frigoriferi smart di catene francesi grazie a falle di sicurezza elementari",
+   "orig": "Fridge hackers exploited ‘basic security flaws’ at French retailers",
+   "lead": "Il responsabile dell'agenzia francese per la cybersicurezza ha spiegato che un gruppo di criminali informatici è riuscito a prendere il controllo dei sistemi di frigoriferi intelligenti usati da catene commerciali francesi, sfruttando la mancanza di protezioni adeguate e password troppo deboli. L'episodio evidenzia la vulnerabilità dei dispositivi connessi impiegati nella logistica alimentare e commerciale. Non sono stati forniti dettagli sul numero di aziende colpite né sulle conseguenze economiche dell'attacco. Lo riferisce Financial Times.",
+   "more": [
+    "I dispositivi IoT, come frigoriferi e sistemi di refrigerazione connessi a internet, sono spesso dotati di protezioni informatiche minime rispetto a computer o server tradizionali, rendendoli bersagli facili per attacchi che possono poi estendersi ad altre parti della rete aziendale, mettendo a rischio dati sensibili e operatività."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/89a3b7e8-beee-464b-b398-2709be815982?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T14:22+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z52bc0e42",
+   "sez": "spazio",
+   "titolo": "Il rallentamento di Starshield ha fatto cadere droni ucraini dal cielo",
+   "orig": "When Starshield Cut Out, Ukrainian Drones Fell From the Skies",
+   "lead": "L'Ucraina afferma di non sapere ancora perché il servizio di internet satellitare militare Starshield, collegato a Starlink, sia stato improvvisamente ridotto nella sua capacità, lasciando le truppe esposte agli attacchi russi. La riduzione del segnale avrebbe causato la perdita di controllo di diversi droni ucraini in volo, compromettendo operazioni militari in corso. Non è chiaro se il rallentamento sia stato intenzionale o dovuto a un problema tecnico, né chi ne abbia deciso l'attuazione. Lo riferisce The New York Times.",
+   "more": [
+    "Starshield è la versione militare di Starlink, pensata per garantire comunicazioni sicure alle forze armate alleate degli Stati Uniti. L'Ucraina dipende fortemente da questi sistemi satellitari per coordinare droni e artiglieria, rendendo ogni interruzione del servizio un rischio immediato per le operazioni sul campo di battaglia."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/21/world/europe/starshield-starlink-ukraine.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T13:16+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z87bcced6",
+   "sez": "ingegneria",
+   "titolo": "Il Colorado avvia i lavori per la ricostruzione dell'Interstate 270 da 806 milioni di dollari",
+   "orig": "Colorado Breaks Ground on $806M I-270 Reconstruction",
+   "lead": "Le autorità dei trasporti del Colorado hanno dato il via alla ricostruzione dell'Interstate 270, un intervento da 806 milioni di dollari che prevede lavori su ponti e movimento terra per ampliare l'autostrada mantenendo il traffico attivo in uno dei corridoi più frequentati dell'area di Denver. Il progetto punta a migliorare la capacità e la sicurezza del tratto stradale senza interrompere la circolazione quotidiana dei veicoli durante i lavori. Lo riferisce Engineering News-Record.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/64022-colorado-breaks-ground-on-806m-i-270-reconstruction",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T07:55-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z76d100f0",
+   "sez": "musica",
+   "titolo": "Clap Your Hands Say Yeah annuncia il nuovo album Burned",
+   "orig": "Clap Your Hands Say Yeah Launch New Album Burned",
+   "lead": "La band Clap Your Hands Say Yeah, guidata da Alec Ounsworth, ha annunciato l'uscita di un nuovo album intitolato Burned. Il gruppo ha anche reso noto che sosterrà un tour nel 2027 per presentare il disco dal vivo. Non sono stati forniti ulteriori dettagli su data di uscita, tracklist o tappe del tour. Lo riferisce Pitchfork.",
+   "more": [
+    "Clap Your Hands Say Yeah è una band indie rock statunitense formatasi a New York a metà degli anni 2000, nota per il suo album d'esordio omonimo del 2005, diventato un caso di culto grazie al passaparola online prima ancora di avere un contratto con una casa discografica."
+   ],
+   "fonti": [
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/clap-your-hands-say-yeah-launch-new-album-burned-2027-tour/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T14:43+00:00"
+    },
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/bassvictim-readying-second-album-of-the-year/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T14:12+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z37157b2e",
+   "sez": "cultura",
+   "titolo": "Halloween al Macro di Roma con il nuovo format Culto",
+   "orig": "Culto: la notte di Halloween trasforma il Macro",
+   "lead": "Il Macro, museo d'arte contemporanea di Roma, aprirà le sue sale in notturna sabato 31 ottobre per Halloween con il nuovo format Culto, che prevede installazioni luminose e musica fino alle prime ore del mattino. L'iniziativa punta a trasformare il museo in uno spazio di intrattenimento serale legato alla ricorrenza. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/eventi/culto_evento_halloween_macro_roma-9839376.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z7ca883b6",
+   "sez": "viaggi",
+   "titolo": "La crescita economica della Polonia diventa un fenomeno turistico da osservare",
+   "orig": "Poland’s Economic Rise Is Becoming a Travel Story Worth Watching",
+   "lead": "Secondo Skift, un numero crescente di famiglie polacche può oggi permettersi di viaggiare grazie alla crescita economica del paese, spingendo compagnie aeree, albergatori e istituti di credito a investire in nuova capacità per rispondere alla domanda. Il fenomeno riflette un cambiamento nei consumi legato all'aumento del reddito disponibile in Polonia negli ultimi anni. Lo riferisce Skift.",
+   "more": [
+    "La Polonia ha registrato una delle crescite economiche più stabili tra i paesi dell'Unione Europea nell'ultimo decennio, sostenuta da investimenti industriali e da un mercato del lavoro in espansione, fattori che hanno progressivamente aumentato il potere d'acquisto delle famiglie e la propensione alla spesa per viaggi e tempo libero."
+   ],
+   "fonti": [
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/21/polands-economic-rise-is-becoming-a-travel-story-worth-watching/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T13:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z13b49349",
+   "sez": "manga",
+   "titolo": "Oreko Tachibana, autrice di Firefly Wedding, lancerà un nuovo manga in inverno",
+   "orig": "Firefly Wedding's Oreko Tachibana Launches New Manga in Winter",
+   "lead": "La mangaka Oreko Tachibana, autrice di Firefly Wedding, concluso lo scorso febbraio e diventato una serie anime in onda, ha annunciato il lancio di un nuovo manga previsto per l'inverno. Non sono stati forniti il titolo definitivo né ulteriori dettagli sulla trama della nuova opera. Lo riferisce Anime News Network.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-21/firefly-wedding-oreko-tachibana-launches-new-manga-in-winter/.243042",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T08:47-04:00"
+    },
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-10-21/orient-shinobu-ohtaka-launches-new-manga/.243047",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T08:34-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z841b0b26",
+   "sez": "salute",
+   "titolo": "Abbott scorpora la divisione nutrizionale coinvolta nelle cause sul latte artificiale",
+   "orig": "Abbott to spin off nutrition unit at centre of baby formula lawsuits",
+   "lead": "Il gruppo sanitario statunitense Abbott ha annunciato il piano di creare una società pubblica indipendente dalla sua divisione nutrizionale, che genera circa 8,5 miliardi di dollari di vendite annuali. La divisione è al centro di diverse cause legali legate al latte artificiale per neonati. Lo scorporo rappresenta una ristrutturazione significativa per l'azienda, che punta a separare questo settore dal resto delle attività sanitarie. Lo riferisce Financial Times.",
+   "more": [
+    "Abbott è una delle principali multinazionali sanitarie statunitensi, attiva anche nella produzione di dispositivi medici e farmaci. La divisione nutrizionale è stata oggetto negli ultimi anni di contenziosi legali relativi a presunti danni causati da alcuni prodotti per l'infanzia, in particolare latte artificiale destinato a neonati prematuri."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/7f407bde-ef26-4914-bcbe-baf858bc81d7?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T13:41+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z0e1276f8",
+   "sez": "mondo",
+   "titolo": "Video generati con l'intelligenza artificiale invadono la campagna elettorale in Brasile",
+   "orig": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
+   "lead": "In Brasile si moltiplicano i video elettorali realizzati con l'intelligenza artificiale, complicando il lavoro delle autorità elettorali che negli ultimi anni avevano concentrato gli sforzi sul contrasto alle bufale online tradizionali. Secondo The New York Times, questi contenuti stanno ridisegnando una competizione elettorale già molto tesa, mettendo alla prova la capacità del sistema brasiliano di individuare e contrastare la disinformazione generata da nuove tecnologie. Non sono specificati i candidati coinvolti né l'esito finora delle verifiche. Lo riferisce The New York Times.",
+   "more": [
+    "Il Brasile ha sviluppato negli anni scorsi un sistema avanzato di controllo della disinformazione elettorale online, coordinato dal Tribunale Superiore Elettorale. La diffusione di contenuti realizzati con l'intelligenza artificiale generativa rappresenta una sfida nuova, perché questi strumenti permettono di creare immagini e video falsi sempre più difficili da distinguere da quelli reali."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T13:24+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zeefad10e",
+   "sez": "salute",
+   "titolo": "A Tunisi una sfilata di pazienti e sopravvissute al cancro per diffondere speranza",
+   "orig": "Cancer patients and survivors turn to Tunis catwalk to spread hope",
+   "lead": "Ventidue donne, tra pazienti oncologiche e sopravvissute al cancro, hanno sfilato domenica in una passerella di moda a Tunisi, nell'ambito del mese di sensibilizzazione sul tumore al seno. L'evento ha voluto trasmettere un messaggio di speranza e solidarietà verso chi affronta la malattia. Lo riferisce The Globe and Mail.",
+   "more": [
+    "Ottobre è internazionalmente riconosciuto come il mese di sensibilizzazione sul cancro al seno, durante il quale organizzazioni sanitarie e associazioni promuovono campagne di screening precoce e iniziative di supporto per le pazienti, nel tentativo di ridurre lo stigma sociale legato alla malattia e incoraggiare diagnosi tempestive."
+   ],
+   "fonti": [
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/video-cancer-patients-and-survivors-turn-to-tunis-catwalk-to-spread-hope/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-21T12:54+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z6d21f76f",
+   "sez": "ambiente",
+   "titolo": "L'ONU: gli Stati Uniti tra le principali cause del rallentamento nella lotta al cambiamento climatico",
+   "orig": "US is a big reason for the world losing ground in the fight against climate change, says UN",
+   "lead": "Un nuovo rapporto delle Nazioni Unite, pubblicato mercoledì a Washington, indica gli Stati Uniti come una delle principali ragioni per cui il mondo sta perdendo terreno nella lotta al cambiamento climatico. Anche se tutti i paesi rispettassero gli impegni promessi per ridurre le emissioni di gas serra, la Terra si riscalderebbe comunque di circa 1,2 gradi centigradi in più rispetto alle temperature attuali, secondo i calcoli aggiornati dall'ONU. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "Gli Stati Uniti sono tra i maggiori emettitori storici di gas serra al mondo. Le decisioni politiche statunitensi sulle politiche climatiche, incluse eventuali uscite da accordi internazionali, hanno un impatto significativo sugli sforzi globali, data l'influenza economica e industriale del paese sulle dinamiche di riduzione delle emissioni."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/777630/us-is-a-big-reason-for-the-world-losing-ground-in-the-fight-against-climate-change-says-un",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-21T22:29+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zfeb2e420",
+   "sez": "economia",
+   "titolo": "Negli Stati Uniti calano gli avvii di costruzione di edifici multifamiliari a settembre",
+   "orig": "Multifamily starts fell in September amid high construction costs",
+   "lead": "Il numero di nuovi cantieri per edifici residenziali multifamiliari negli Stati Uniti è diminuito nel mese di settembre, secondo i dati riportati da Construction Dive. Gli esperti attribuiscono il calo a costi di finanziamento elevati, prezzi dei carburanti in aumento e dazi commerciali, fattori che stanno spingendo verso l'alto i costi complessivi della costruzione di nuove abitazioni nel paese.",
+   "more": [
+    "I costi di costruzione negli Stati Uniti sono influenzati da variabili come i tassi di interesse fissati dalla banca centrale, il prezzo dei materiali da costruzione e le politiche commerciali sui dazi, che incidono sul costo di materiali importati come acciaio e alluminio, spesso utilizzati nell'edilizia multifamiliare."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/news/multifamily-starts-fell-september-construction-costs/833562/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T09:59-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z57ee2d66",
+   "sez": "cucina",
+   "titolo": "La ricetta del broccolo del ristorante ABC Kitchens da fare a casa",
+   "orig": "Make This Restaurant’s Brilliant Broccoli Dish at Home",
+   "lead": "La giornalista gastronomica Melissa Clark propone sul New York Times una versione casalinga del piatto di broccoli con pangrattato al pistacchio del ristorante ABC Kitchens. Secondo l'articolo, con alcuni piccoli adattamenti la ricetta può essere preparata senza complicazioni anche tra le mura domestiche, pur mantenendo il gusto distintivo della versione servita nel locale. Lo riferisce The New York Times – Cucina.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The New York Times – Cucina",
+     "p": "US",
+     "c": "New York",
+     "u": "https://cooking.nytimes.com/article/abc-kitchen-crispy-broccoli-and-beans",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T14:46+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z83204f42",
+   "sez": "dibattito",
+   "titolo": "Concorsi docenti: quali sono i requisiti di accesso per i futuri bandi",
+   "orig": "Docenti, quali sono i requisiti per accedere ai futuri concorsi? Posti comuni, ITP, sostegno, infanzia e primaria",
+   "lead": "In Italia si discute dei requisiti necessari per partecipare ai futuri concorsi per diventare insegnanti nelle scuole di ogni ordine e grado, inclusi i posti comuni, il sostegno, gli insegnanti tecnico-pratici (ITP), l'infanzia e la primaria. Secondo Orizzonte Scuola, il quadro è definito dal Decreto-Legge 36 del 2022, convertito in legge, che ha riformato il sistema di reclutamento e la formazione iniziale dei docenti, modificando le norme precedenti del 2017 sui titoli d'accesso. Il tema riguarda migliaia di aspiranti insegnanti in attesa dei nuovi bandi.",
+   "more": [
+    "In Italia l'accesso all'insegnamento richiede titoli di studio specifici e la partecipazione a concorsi pubblici, regolati da normative che negli anni sono state più volte riformate. La riforma del 2022 ha introdotto nuovi percorsi di formazione iniziale, comprese abilitazioni universitarie, per uniformare i requisiti richiesti ai futuri docenti su tutto il territorio nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/docenti-quali-sono-i-requisiti-per-accedere-ai-futuri-concorsi-posti-comuni-itp-sostegno-infanzia-e-primaria/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:12+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "ze6308312",
+   "sez": "economia",
+   "titolo": "DARPA affida a Space Nuclear Power Corporation un test a terra per un reattore nucleare autonomo",
+   "orig": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+   "lead": "La Defense Advanced Research Projects Agency (DARPA) ha assegnato alla Space Nuclear Power Corporation, con sede a Los Alamos, un accordo per condurre un test a terra di un controllore autonomo per reattori nucleari. L'annuncio è stato diffuso il 21 ottobre dall'azienda, nota anche come SpaceNukes. Non sono stati resi noti il valore economico dell'accordo né la tempistica prevista per il completamento del test. Lo riferisce SpaceNews.",
+   "more": [
+    "I controllori autonomi per reattori nucleari sono sistemi pensati per gestire il funzionamento di piccoli reattori senza supervisione umana continua, una tecnologia di interesse crescente per applicazioni spaziali e militari, dove l'energia nucleare compatta potrebbe alimentare missioni di lunga durata o basi remote con minore necessità di manutenzione diretta."
+   ],
+   "fonti": [
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T14:29+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zcf97ce3b",
+   "sez": "viaggi",
+   "titolo": "Una nuova ricerca invita le aziende a non valutare i viaggi di lavoro solo in base ai costi",
+   "orig": "Why the Best Corporate Travel Strategy Isn’t Just About Spending Less",
+   "lead": "Una nuova ricerca condotta da ASTA e GBTA suggerisce alle aziende di valutare i viaggi d'affari in relazione alle prestazioni aziendali complessive, piuttosto che come semplice voce di spesa da contenere. Mark Meader di ASTA spiega come il benchmarking, la flessibilità delle politiche interne e una gestione più strategica dei viaggi possano aiutare le imprese a investire con maggiore efficacia. Lo riferisce Skift.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/21/corporate-travel-roi-managed-travel-investment/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T13:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z6d578b2f",
+   "sez": "cultura",
+   "titolo": "L'etichetta giapponese per ordinare il sushi correttamente",
+   "orig": "Japanese sushi etiquette: You may have been ordering sushi wrong this whole time",
+   "lead": "SoraNews24 segnala alcune regole di galateo da seguire quando si ordina sushi in un ristorante in Giappone, suggerendo di non iniziare subito con i tagli più grassi come il tonno pregiato, per non attirare sguardi di disapprovazione dai commensali locali. L'articolo offre consigli pratici per chi visita il Giappone e desidera rispettare le consuetudini culinarie locali durante il pasto.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SoraNews24",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://soranews24.com/2026/10/21/japanese-sushi-etiquette-you-may-have-been-ordering-sushi-wrong-this-whole-time/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-10-21T14:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z05b1b47b",
+   "sez": "economia",
+   "titolo": "Singapore e gli Emirati Arabi Uniti lanciano negoziati per un partenariato economico",
+   "orig": "Singapore and the UAE to launch economic partnership negotiations to further trade, investment links",
+   "lead": "Singapore e gli Emirati Arabi Uniti avvieranno negoziati per un partenariato economico volto a rafforzare i legami commerciali e gli investimenti tra i due paesi. Durante un incontro ad Abu Dhabi, il primo ministro di Singapore Lawrence Wong e il presidente emiratino Sheikh Mohamed Zayed Al Nahyan hanno assistito alla firma di tre accordi riguardanti cooperazione energetica, cooperazione idrica e controllo dei vettori di malattie. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/singapore/uae-lawrence-wong-bilateral-agreement-6479141",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-21T22:27+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "za0522f05",
+   "sez": "sport",
+   "titolo": "Il capo della federazione cestistica greca arrestato per combine di partite",
+   "orig": "Greek basketball chief held in match-fixing probe",
+   "lead": "Vangelis Liolios, presidente della federazione greca di pallacanestro, è stato arrestato nell'ambito di un'ampia indagine su presunte combine sportive che coinvolge diversi sospetti e decine di partite. Non sono stati forniti ulteriori dettagli sulle accuse specifiche o sulle tempistiche dell'inchiesta. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/greek-basketball-chief-held-in-match-fixing-probe/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z7a98e6b5",
+   "sez": "tech",
+   "titolo": "Tesla integrerà Alipay nelle sue auto vendute in Cina",
+   "orig": "Tesla signs deal to integrate Alipay into its cars as China competition heats up",
+   "lead": "Tesla ha firmato un accordo per integrare il sistema di pagamento digitale Alipay, della cinese Ant Group, nei propri veicoli venduti in Cina, mentre la concorrenza sul mercato automobilistico cinese si intensifica. L'intesa, firmata martedì, prevede il lancio di un servizio di parcheggio intelligente basato su Alipay su tutta la flotta Tesla in Cina. Non sono state rese note la data di lancio né i modelli coinvolti. Lo riferisce South China Morning Post.",
+   "more": [
+    "Ant Group, controllata da Alibaba, gestisce Alipay, una delle principali piattaforme di pagamento digitale in Cina. L'integrazione di servizi fintech locali nei veicoli stranieri è una strategia comune per adattarsi alle abitudini dei consumatori cinesi, in un mercato dove la concorrenza dei produttori locali di auto elettriche è particolarmente agguerrita."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/tech/big-tech/article/3371668/tesla-signs-deal-integrate-alipay-its-cars-china-competition-heats",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T14:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "zeee3605a",
+   "sez": "salute",
+   "titolo": "A Gaza le pazienti con tumore al seno affrontano attese letali per le cure",
+   "orig": "Gaza’s breast cancer patients face a deadly wait for treatment amid Israel’s genocide",
+   "lead": "Secondo Middle East Eye, migliaia di donne palestinesi malate di tumore al seno nella Striscia di Gaza affrontano ritardi nelle cure a causa della distruzione degli ospedali e della grave carenza di farmaci. La radioterapia risulta attualmente non disponibile e le evacuazioni mediche verso l'estero sono limitate. L'articolo è stato pubblicato durante il mese internazionale di sensibilizzazione sul tumore al seno, segnalando le difficoltà delle pazienti nella regione.",
+   "more": [
+    "Il sistema sanitario della Striscia di Gaza è gravemente compromesso dal conflitto in corso, con numerosi ospedali danneggiati o non operativi. La mancanza di attrezzature per radioterapia e la difficoltà di trasferire pazienti all'estero per cure specialistiche aggravano la condizione di chi è affetto da patologie oncologiche nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/news/gazas-breast-cancer-patients-face-deadly-wait-treatment-amid-israels-genocide",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T13:22+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z87c7e7e2",
+   "sez": "tech",
+   "titolo": "Come i volontari di Wikipedia individuano e rimuovono i contenuti scritti dall'intelligenza artificiale",
+   "orig": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+   "lead": "Ellia Lebleu, membro fondatore del progetto WikiProject AI Cleanup, nato nel 2023, racconta a IEEE Spectrum il lavoro dei volontari impegnati a individuare e rimuovere contenuti generati dall'intelligenza artificiale che violano le linee guida di Wikipedia. All'inizio del progetto, i testi prodotti dall'IA erano spesso riconoscibili per clichés evidenti; oggi i volontari sviluppano strumenti per individuare forme più sottili di contenuto generato automaticamente, mentre nella comunità si discute del ruolo dell'IA nell'enciclopedia online più usata al mondo. Lo riferisce IEEE Spectrum.",
+   "more": [
+    "Wikipedia si basa su un modello di scrittura collaborativa e volontaria, con regole editoriali che richiedono fonti verificabili e un linguaggio neutrale. La diffusione di strumenti di intelligenza artificiale generativa ha reso più complesso distinguere i contributi umani da quelli automatizzati, spingendo la comunità a sviluppare pratiche e strumenti dedicati al controllo della qualità."
+   ],
+   "fonti": [
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T13:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
+   "id": "z53a5e56f",
+   "sez": "dibattito",
+   "titolo": "Pensioni anticipate per i docenti: resta aperto il tema della permanenza in servizio",
+   "orig": "Docente rimane in servizio pur avendo i requisiti per pensione anticipata. Assegno potrebbe aumentare di 85 -100 euro lordi mensili. Approfondimento Gilda degli Insegnanti",
+   "lead": "In Italia si discute della scelta di alcuni docenti di restare in servizio pur avendo già raggiunto i requisiti per la pensione anticipata. Il sindacato Gilda degli Insegnanti ha pubblicato un approfondimento sul tema, segnalando che la permanenza al lavoro dopo il raggiungimento dei requisiti può comportare un aumento dell'assegno pensionistico di circa 85-100 euro lordi mensili. L'analisi arriva a ridosso della scadenza di oggi, 21 ottobre, per la presentazione delle domande di pensione anticipata. Secondo Orizzonte Scuola, il tema riguarda migliaia di insegnanti vicini al termine della carriera.",
+   "more": [
+    "In Italia il sistema pensionistico prevede diverse opzioni di uscita dal lavoro, tra cui la pensione anticipata, che permette di lasciare il servizio prima dell'età di vecchiaia a determinate condizioni contributive. Restare al lavoro dopo aver raggiunto tali requisiti consente di accumulare ulteriori contributi, che possono tradursi in un assegno mensile leggermente più alto al momento del ritiro definitivo."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/docente-rimane-in-servizio-pur-avendo-i-requisiti-per-pensione-anticipata-assegno-potrebbe-aumentare-di-85-100-euro-lordi-mensili-approfondimento-gilda-degli-insegnanti/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T13:05+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:05",
+   "uscita": "17"
+  },
+  {
    "id": "z94d1e822",
    "sez": "ambiente",
    "titolo": "Boyan Slat riceve premio internazionale per lotta all'inquinamento marino",
@@ -8758,14 +10827,86 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z52a18c03": "The Japan Times evidenzia le sfide della ripresa nelle comunità colpite da calamità naturali",
   "z4504b507": "The Korea Herald celebra l'intervento di salvataggio della fauna marina nella città portuale di Busan",
   "z55f70e44": "The Korea Herald enfatizza le esigenze fisiche e artistiche di una produzione teatrale complessa",
-  "z798b3efa": "The Korea Herald riporta l'operazione di contrasto ai crimini sessuali della polizia metropolitana"
+  "z798b3efa": "The Korea Herald riporta l'operazione di contrasto ai crimini sessuali della polizia metropolitana",
+  "z0a8869aa": "BBC e Guardian sottolineano l'accusa di Macron a Trump per interferenze nel dibattito interno francese.",
+  "z48edb60e": "The Guardian osserva come l'estrema destra europea stia sfruttando le proteste per rafforzare la propria narrativa.",
+  "z294dc5b7": "Al Jazeera denuncia l'impatto trascurato della guerra sulle persone neurodivergenti in Libano.",
+  "z3dfb1bea": "La Repubblica racconta le storie personali dei ragazzi ucraini ospitati a San Siro dalla fondazione dello Shakhtar.",
+  "z4c9fcbaf": "Rai News riporta la posizione di Sala favorevole a controllo, repressione e impiego di militari.",
+  "zee7a5712": "Brújula Digital descrive gli allagamenti causati dalla grandinata a La Paz.",
+  "z1482c374": "El País sottolinea lo scontro diretto cercato da Milei con Sánchez, mettendo in ombra Feijóo e Abascal.",
+  "z78ab4089": "Le Soleil evidenzia il sostegno tedesco al rafforzamento dei capitali dei fondi d'investimento locali in Senegal.",
+  "z3e9bc714": "Il Sydney Morning Herald apprezza l'innovazione ma sconsiglia l'acquisto immediato per il prezzo elevato e le app non ottimizzate.",
+  "z93e59d4c": "Actu Cameroun sottolinea la convocazione urgente della riunione di crisi da parte delle autorità sanitarie camerunesi.",
+  "z61d87d0c": "San Marino RTV collega l'appello di Mattarella alla linea dura ribadita dal ministro Nordio sui minorenni.",
+  "z653e77c7": "Asia-Plus documenta l'impennata dei prezzi di carburanti e beni alimentari di base nel Paese.",
+  "z5044b6a3": "OndaRock celebra il sorpasso di \"Nevermind\" nella classifica degli album più venduti di sempre.",
+  "zb9267942": "Universe Today sottolinea come il fenomeno sfidi i modelli tradizionali di fisica delle nubi.",
+  "z739dabee": "Prishtina Insight riporta lo scontro tra il governo e un deputato dell'opposizione sulle modifiche al Codice civile.",
+  "z006adae9": "Kurdistan24 evidenzia la partecipazione di Barzani insieme a figure politiche e culturali di rilievo.",
+  "z8e5f1987": "Il Fatto Quotidiano riporta l'annuncio di Urso sul rischio carcere per i blocchi illegali.",
+  "ze4e6f34c": "Le Nazioni Unite sollecitano tagli rapidi alle emissioni per limitare il superamento della soglia di 1,5°C.",
+  "z821d2409": "Orizzonte Scuola promuove l'iniziativa come strumento di formazione digitale per gli studenti.",
+  "zfd838087": "Anime News Network anticipa cast e data di uscita del nuovo cortometraggio animato.",
+  "z604849f4": "BBC Travel presenta Battle Harbour come una destinazione fuori dal tempo.",
+  "zf2b1073c": "Good News Network presenta la scoperta come un passo avanti per il riciclo sostenibile delle plastiche.",
+  "zba332fc7": "La Cucina Italiana segnala la scarsa presenza italiana nella classifica estesa.",
+  "z4a117383": "ABC News Australia segue minuto per minuto le difficoltà della squadra australiana in difesa del punteggio.",
+  "z5d19eefd": "CNA e Dawn riportano l'espansione pubblicitaria come parte della strategia di crescita dei ricavi di OpenAI.",
+  "z7759f239": "OndaRock racconta la rivalità storica tra Phil Collins e gli Oasis in vista della cerimonia di Los Angeles.",
+  "zff8540b7": "La NASA descrive i rover come elemento chiave per lo sviluppo della futura base lunare.",
+  "zc89fffee": "Mail & Guardian e Daily Maverick evidenziano lo sforzo del governo di bilanciare sollievo fiscale e sostenibilità del debito.",
+  "z096f93d8": "Le Nazioni Unite sottolineano il sostegno dell'OMS alle autorità nigeriane nella risposta all'epidemia.",
+  "zaab60b4a": "Al Jazeera documenta le proteste degli attivisti contro la nuova autorizzazione.",
+  "z44571fb6": "Rai News riporta le dichiarazioni del ministro dopo l'incontro sulla sicurezza pubblica.",
+  "z14056d71": "NPR analizza il nuovo disco come riflessione della band sull'individualismo moderno.",
+  "zafdedfdd": "Turisti per Caso presenta il programma dei mercatini come una delle attrazioni invernali più note dell'Alto Adige.",
+  "z478a3d45": "Fumettologica propone una guida pratica agli appuntamenti cosplay della manifestazione.",
+  "zbfe83736": "La Cucina Italiana sottolinea il valore identitario della pasta emerso dalla ricerca.",
+  "z17074a3e": "The Guardian e CNA riportano la testimonianza di Allen sulla propria fragilità e sul ritorno in campo.",
+  "z73e72559": "Euronews mette in evidenza la crescita del debito pubblico in diversi paesi dell'area euro.",
+  "z3d8f438e": "Sky & Telescope ed EarthSky presentano la scoperta come una novità sorprendente nello studio delle stelle.",
+  "z6e2822e1": "OndaRock presenta il concorso come uno storico appuntamento per la scoperta di nuovi talenti della canzone d'autore italiana.",
+  "z5b35f6c6": "Il Post descrive la strategia del governo albanese come una scelta di repressione delle proteste.",
+  "z6dd1cc21": "Daily Maverick denuncia le carenze nel sistema idrico sudafricano alla base dell'epidemia.",
+  "z2d0529c4": "ANSA riporta l'appello della Fondazione a un coinvolgimento maschile più ampio nell'iniziativa.",
+  "z83c47331": "The Astana Times presenta la mostra come un'occasione per riflettere sull'eredità culturale femminile nell'Asia Centrale.",
+  "zd561368f": "La Cucina Italiana presenta l'evento come una vetrina delle eccellenze alimentari regionali italiane.",
+  "z3a71a38a": "ORF segnala un cambio di linea del governo americano sulla responsabilità per l'accesso ucraino a Starlink",
+  "z25664f68": "Financial Times cita il capo dell'agenzia cyber francese sulle falle elementari sfruttate dagli hacker",
+  "z52bc0e42": "The New York Times sottolinea l'incertezza ucraina sulle cause del blackout del servizio satellitare militare",
+  "z87bcced6": "Engineering News-Record descrive l'avvio dei lavori sull'Interstate 270 nell'area di Denver",
+  "z76d100f0": "Pitchfork annuncia il nuovo album della band insieme al tour previsto per il 2027",
+  "z37157b2e": "Il Messaggero presenta il nuovo evento serale del Macro per la notte di Halloween",
+  "z7ca883b6": "Skift osserva come la crescita economica polacca stia trasformando il settore turistico",
+  "z13b49349": "Anime News Network riporta l'annuncio della nuova opera della mangaka dopo la conclusione di Firefly Wedding",
+  "z841b0b26": "Financial Times riporta il piano di Abbott di separare la divisione nutrizionale in una società autonoma",
+  "z0e1276f8": "The New York Times segnala la difficoltà delle autorità elettorali brasiliane nel gestire i contenuti generati dall'IA",
+  "zeefad10e": "The Globe and Mail racconta l'iniziativa di sensibilizzazione attraverso la sfilata di moda a Tunisi",
+  "z6d21f76f": "Philippine Daily Inquirer riporta la valutazione dell'ONU sul ruolo degli Stati Uniti nel rallentamento climatico",
+  "zfeb2e420": "Construction Dive segnala il calo degli avvii di cantieri multifamiliari legato a costi elevati",
+  "z57ee2d66": "The New York Times propone una versione semplificata del piatto firmato dal ristorante newyorkese",
+  "z83204f42": "Orizzonte Scuola illustra il quadro normativo che definisce i requisiti per i futuri concorsi docenti",
+  "ze6308312": "SpaceNews riporta l'assegnazione del contratto DARPA per il test del controllore nucleare autonomo",
+  "zcf97ce3b": "Skift presenta i risultati della ricerca ASTA-GBTA sulla gestione strategica dei viaggi aziendali",
+  "z6d578b2f": "SoraNews24 offre consigli di galateo per ordinare il sushi come i giapponesi",
+  "z05b1b47b": "CNA riporta la firma degli accordi bilaterali durante l'incontro ad Abu Dhabi",
+  "za0522f05": "The Punch riporta l'arresto del presidente della federazione cestistica greca nell'inchiesta sulle combine",
+  "z7a98e6b5": "South China Morning Post descrive l'accordo Tesla-Alipay nel contesto della competizione cinese sulle auto elettriche",
+  "zeee3605a": "Middle East Eye denuncia i ritardi nelle cure oncologiche per le donne nella Striscia di Gaza",
+  "z87c7e7e2": "IEEE Spectrum racconta il lavoro dei volontari di Wikipedia contro i contenuti generati dall'IA",
+  "z53a5e56f": "Il sindacato Gilda degli Insegnanti stima l'aumento dell'assegno pensionistico per chi resta in servizio"
  },
  "contesti": {
   "z247a9c3a": "Il Papa era stato operato martedì scorso al Policlinico Gemelli, intervento durante il quale è stato scoperto il tumore polmonare. Nei giorni seguenti ha ripreso gradualmente alcune attività pubbliche, apparendo in piazza San Pietro a bordo della papamobile e tenendo la prima udienza generale dopo l'operazione.",
   "z04bf3d84": "Kvaratskhelia si era trasferito al Paris Saint-Germain dal Napoli, club con cui aveva vinto lo scudetto e si era imposto come uno dei migliori esterni offensivi del calcio europeo. Nella stagione in corso stava confermando il suo rendimento nella squadra parigina, prima dell'infortunio rimediato contro il Barcellona.",
   "za7113239": "Le fondazioni della banca centrale ungherese, legate a Matolcsy, erano già da tempo oggetto di scrutinio per la gestione di oltre un miliardo di euro di fondi pubblici. Il nuovo governo guidato da Magyar, insediatosi quest'anno, ha avviato una serie di indagini sui presunti abusi finanziari commessi durante l'era Orbán.",
   "zadaf4833": "Gli attacchi russi su larga scala contro le città ucraine si sono intensificati nelle ultime settimane, colpendo ripetutamente infrastrutture civili, energetiche ed educative in diverse regioni del paese.",
-  "z0df525e3": "Stephen Hubbard, insegnante statunitense residente in Russia, era stato arrestato nel 2024 e condannato per accuse legate a presunte attività mercenarie in Ucraina, pena che Washington ha sempre contestato come politicamente motivata. Il suo caso si inseriva nel più ampio dossier dei cittadini americani detenuti in Russia, al centro di trattative diplomatiche tra Mosca e Washington proseguite parallelamente ai negoziati sul conflitto ucraino."
+  "z0df525e3": "Stephen Hubbard, insegnante statunitense residente in Russia, era stato arrestato nel 2024 e condannato per accuse legate a presunte attività mercenarie in Ucraina, pena che Washington ha sempre contestato come politicamente motivata. Il suo caso si inseriva nel più ampio dossier dei cittadini americani detenuti in Russia, al centro di trattative diplomatiche tra Mosca e Washington proseguite parallelamente ai negoziati sul conflitto ucraino.",
+  "zee7a5712": "Da settimane il fenomeno climatico El Niño sta intensificando le precipitazioni in diverse aree dell'America Latina, con conseguenti allagamenti e disagi in varie città. La Bolivia aveva già registrato episodi di grandine e piogge intense nelle settimane precedenti, mentre Paesi vicini come Argentina, Cile e Venezuela monitoravano l'evoluzione del fenomeno per possibili rischi a infrastrutture e aree turistiche.",
+  "z1482c374": "Negli ultimi mesi i rapporti tra Javier Milei e il governo spagnolo di Pedro Sánchez si sono progressivamente deteriorati, con scambi di accuse e un clima di tensione diplomatica che ha portato a incontri ufficiali mancati durante le precedenti visite del presidente argentino in Spagna. Milei ha intensificato i legami con le forze di destra spagnole, Partito Popolare e Vox, alimentando polemiche politiche interne.",
+  "z3e9bc714": "Apple aveva presentato l'iPhone Duo come il suo primo smartphone pieghevole, suscitando grande attesa tra appassionati e media tecnologici. Al lancio degli ordini online, la domanda ha superato le aspettative, esaurendo rapidamente le prime scorte e allungando i tempi di consegna in diversi mercati, Italia inclusa, dove il prezzo di partenza è stato fissato a 2.369 euro.",
+  "z61d87d0c": "Nelle scorse settimane il governo ha discusso un decreto che inasprisce le norme sui cortei e sull'ordine pubblico, estendendo alcune fattispecie di reato anche ai minorenni. Il provvedimento ha suscitato dibattito politico, con il ministro della Giustizia Nordio che ha difeso la linea dura rispondendo a un'interrogazione parlamentare, mentre cresceva l'attenzione sul tema del disagio giovanile."
  },
  "cronologie": {
   "z247a9c3a": [
@@ -8818,6 +10959,78 @@ window.EDIZIONI["2026-10-21-sera"] = {
    [
     "21 ottobre 2026",
     "Hubbard condotto all'aeroporto di Pulkovo per il rimpatrio"
+   ]
+  ],
+  "zee7a5712": [
+   [
+    "Settembre",
+    "Previsioni meteo segnalano intensificazione di El Niño in Sudamerica"
+   ],
+   [
+    "Inizio ottobre",
+    "Prime piogge intense in diverse capitali latinoamericane"
+   ],
+   [
+    "Metà ottobre",
+    "Allerte diramate in Cile, Venezuela e Paraguay"
+   ],
+   [
+    "21 ottobre",
+    "Grandinata e allagamenti a La Paz ed El Alto"
+   ]
+  ],
+  "z1482c374": [
+   [
+    "Maggio 2024",
+    "Milei definisce Sánchez \"incompetente\" scatenando crisi diplomatica"
+   ],
+   [
+    "Giugno 2024",
+    "Madrid richiama l'ambasciatrice in Argentina"
+   ],
+   [
+    "Ottobre 2025",
+    "Nuova visita di Milei a Madrid senza incontro col governo"
+   ],
+   [
+    "21 ottobre",
+    "Scontro verbale con Sánchez e cariche di polizia a evento Vox"
+   ]
+  ],
+  "z3e9bc714": [
+   [
+    "Settembre 2025",
+    "Apple annuncia l'iPhone Duo"
+   ],
+   [
+    "Inizio ottobre",
+    "Apertura preordini online"
+   ],
+   [
+    "Metà ottobre",
+    "Esaurimento rapido delle scorte iniziali"
+   ],
+   [
+    "21 ottobre",
+    "Annuncio di scorte limitate nei negozi fisici"
+   ]
+  ],
+  "z61d87d0c": [
+   [
+    "Inizio ottobre",
+    "Presentazione del decreto cortei in Consiglio dei ministri"
+   ],
+   [
+    "Metà ottobre",
+    "Dibattito parlamentare su estensione ai minorenni"
+   ],
+   [
+    "20 ottobre",
+    "Approvazione definitiva del decreto"
+   ],
+   [
+    "21 ottobre",
+    "Messaggio di Mattarella sul disagio giovanile"
    ]
   ]
  },
@@ -8936,6 +11149,119 @@ window.EDIZIONI["2026-10-21-sera"] = {
     }
    ],
    "divergono": "BBC News è la sola a collegare la convalescenza del Papa alla diplomazia internazionale, riportando la telefonata con Putin sul cessate il fuoco a Oleshky, assente nelle altre testate. Vatican News (inglese e italiano) dedica ampio spazio al contenuto teologico della catechesi sul matrimonio, mentre CNA e Dominica News Online si concentrano sugli aspetti clinici e sul futuro viaggio in Sud America. Vatican News italiano riporta la cifra di \"trentamila\" pellegrini, dato assente nelle altre fonti."
+  },
+  "zee7a5712": {
+   "voci": [
+    {
+     "n": "Brújula Digital",
+     "c": "La Paz",
+     "p": "XX",
+     "t": "Giudizio parziale: solo titolo e occhiello disponibili. Riporta una grandinata a La Paz ed El Alto durata circa 30 minuti, con strade trasformate in torrenti e allagamenti dovuti a tombini ostruiti da rifiuti.",
+     "b": "t"
+    },
+    {
+     "n": "El Tiempo",
+     "c": "Bogotá",
+     "p": "XX",
+     "t": "L'articolo non tratta la grandinata in Bolivia ma la piena del fiume Iguazú, con portata di \"12.000 metros cúbicos\" al secondo, quasi otto volte la norma, che ha costretto a chiudere l'accesso alla Garganta del Diablo.",
+     "b": "a"
+    },
+    {
+     "n": "El Comercio",
+     "c": "Lima",
+     "p": "XX",
+     "t": "Il testo riguarda il Cile, non la Bolivia: descrive un sistema frontale con piogge, grandine e vento previsto da Dirección Meteorológica de Chile e meteorologi come Javier Hernández ed Elio Brufort, con rischio di aluviones nella Regione Metropolitana.",
+     "b": "a"
+    },
+    {
+     "n": "El Observador",
+     "c": "Montevideo",
+     "p": "XX",
+     "t": "Articolo del tutto estraneo al tema meteorologico: tratta nomine dirigenziali in aziende come DBCC Transport, Mendel, UCM Falck e ManpowerGroup.",
+     "b": "a"
+    },
+    {
+     "n": "El Nacional",
+     "c": "Caracas",
+     "p": "XX",
+     "t": "Riporta un pronostico dell'IVIC su forti piogge in Venezuela tra dicembre 2026 e febbraio 2027, citando il ricercatore Carlos Méndez e il rischio per acqua potabile e agricoltura, non la grandinata boliviana.",
+     "b": "a"
+    },
+    {
+     "n": "ABC Color",
+     "c": "Asunción",
+     "p": "XX",
+     "t": "Descrive allerte meteo per il Paraguay emesse dalla Dirección de Meteorología e Hidrología, con tempeste, grandine puntuale e \"1.040 familias evacuadas\" ad Ayolas per la crescita del fiume Paraná; cita anche l'OMM su El Niño.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Solo Brújula Digital tratta effettivamente la grandinata a La Paz, ma il testo non è leggibile. Le altre testate, pur elencate sotto la stessa notizia, raccontano eventi diversi: El Tiempo la piena dell'Iguazú, El Comercio il maltempo in Cile, El Nacional previsioni per il Venezuela, ABC Color le allerte in Paraguay, ed El Observador un tema del tutto estraneo (nomine aziendali). Non è quindi possibile confrontare versioni dello stesso fatto."
+  },
+  "z3e9bc714": {
+   "voci": [
+    {
+     "n": "CNA",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "Solo titolo disponibile, articolo non leggibile: giudizio parziale. Riporta che Apple avrà scorte 'limitate' nei negozi venerdì.",
+     "b": "t"
+    },
+    {
+     "n": "Dawn",
+     "c": "Karachi",
+     "p": "XX",
+     "t": "Riporta la nota ufficiale Apple sulle scorte 'limited' e tempi di consegna slittati a gennaio dopo l'esaurimento degli ordini online. Elenca Paese per Paese dove sarà possibile l'acquisto walk-in, citando Samsung e Huawei come concorrenti e ipotesi degli analisti sulla difficoltà di produrre la cerniera in volumi elevati.",
+     "b": "a"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "c": "Sydney",
+     "p": "XX",
+     "t": "Recensione personale dopo una settimana d'uso: definisce il Duo 'genuinely oh wow' ma sconsiglia l'acquisto immediato, citando resa produttiva al 60% secondo TechSpot e slittamento consegne a gennaio. Mette al centro peso (254g), prezzo (fino a 5899$) e scarsa ottimizzazione delle app rispetto a Samsung Galaxy Z Fold 8.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica – Tecnologia",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Recensione tecnica approfondita incentrata su materiali, cerniera con 'oltre cento componenti' e display da 7,6 pollici con finitura 'nano-texture'. Segnala come criticità il peso, il ritorno al Touch ID al posto di Face ID e la posizione dei tasti volume, senza citare dati di produzione o vendite.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Dawn si concentra sui dati ufficiali Apple su disponibilità per Paese e tempi di consegna, aspetto assente nelle due recensioni. Sydney Morning Herald introduce il dato sulla resa produttiva del 60% citato da TechSpot, non ripreso da la Repubblica. Le due testate di recensione divergono nell'enfasi: l'australiana insiste su prezzo e scarsa ottimizzazione software come motivo per non comprarlo subito, l'italiana approfondisce invece ingegneria e materiali della cerniera senza esprimere un giudizio d'acquisto netto. CNA resta priva di contenuto verificabile oltre al titolo."
+  },
+  "z61d87d0c": {
+   "voci": [
+    {
+     "n": "San Marino RTV",
+     "c": "San Marino",
+     "p": "XX",
+     "t": "La voce di San Marino colloca le parole di Mattarella nel contesto dell'approvazione dell'ottavo decreto sicurezza del governo Meloni, citando anche le dichiarazioni del ministro Nordio e del deputato leghista Morrone sulla linea dura verso i minorenni.",
+     "b": "a"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Riporta ampiamente il discorso di Mattarella alla cerimonia dei Cavalieri del Lavoro, citando le frasi su 'indifferenza' e 'meschina sottovalutazione', e riferisce anche i passaggi su monopoli, guerre e il richiamo a Luigi Einaudi in Assemblea Costituente.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Solo titolo e occhiello disponibili, giudizio parziale. L'occhiello collega il messaggio del capo dello Stato al 'decreto cortei che estende i reati ai minori'.",
+     "b": "t"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Riporta il discorso di Mattarella con enfasi sul tema economico e sulle 'migrazioni giovanili', includendo una citazione del presidente della Federazione Ugo Salerno sul rendere attraente il ritorno dei giovani, assente nelle altre fonti.",
+     "b": "a"
+    }
+   ],
+   "divergono": "San Marino RTV e, nell'occhiello, la Repubblica collegano esplicitamente il discorso di Mattarella al decreto sicurezza/decreto cortei sui minori, un nesso che non compare né in ANSA né in Il Sole 24 Ore, i quali riportano il discorso nel contesto della cerimonia dei Cavalieri del Lavoro senza menzionare il decreto. Il Sole 24 Ore aggiunge la citazione di Ugo Salerno sulle migrazioni giovanili, assente in ANSA, mentre ANSA riporta per esteso il riferimento di Mattarella a Luigi Einaudi e ai monopoli, non presente nel testo di Il Sole 24 Ore. Per la Repubblica il giudizio resta parziale per assenza del testo integrale."
   }
  },
  "luoghi": {
@@ -11231,6 +13557,478 @@ window.EDIZIONI["2026-10-21-sera"] = {
     "South Korea"
    ],
    "pt": []
+  },
+  "z0a8869aa": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z48edb60e": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "z294dc5b7": {
+   "n": "Libano",
+   "p": [
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z3dfb1bea": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4c9fcbaf": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zee7a5712": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z1482c374": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z78ab4089": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z3e9bc714": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z93e59d4c": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z61d87d0c": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z653e77c7": {
+   "n": "Tagikistan",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "z5044b6a3": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb9267942": {
+   "n": "Marte",
+   "p": [],
+   "pt": []
+  },
+  "z739dabee": {
+   "n": "Pristina",
+   "p": [
+    "Kosovo"
+   ],
+   "pt": []
+  },
+  "z006adae9": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z8e5f1987": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze4e6f34c": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z821d2409": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfd838087": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z604849f4": {
+   "n": "Terranova e Labrador",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "zf2b1073c": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zba332fc7": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z4a117383": {
+   "n": "Gqeberha",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z5d19eefd": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7759f239": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zff8540b7": {
+   "n": "Luna",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc89fffee": {
+   "n": "Città del Capo",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z096f93d8": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zaab60b4a": {
+   "n": "Mare del Nord",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z44571fb6": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z14056d71": {
+   "n": "Leeds",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zafdedfdd": {
+   "n": "Bolzano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z478a3d45": {
+   "n": "Lucca",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbfe83736": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z17074a3e": {
+   "n": "Belfast",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z73e72559": {
+   "n": "Area euro",
+   "p": [
+    "Italy",
+    "France",
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z3d8f438e": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6e2822e1": {
+   "n": "Aversa",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5b35f6c6": {
+   "n": "Tirana",
+   "p": [
+    "Albania"
+   ],
+   "pt": []
+  },
+  "z6dd1cc21": {
+   "n": "Bronkhorstspruit",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z2d0529c4": {
+   "n": "Torino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z83c47331": {
+   "n": "Almaty",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "zd561368f": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z3a71a38a": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z25664f68": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z52bc0e42": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z87bcced6": {
+   "n": "Denver",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z76d100f0": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z37157b2e": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7ca883b6": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z13b49349": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z841b0b26": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0e1276f8": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zeefad10e": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z6d21f76f": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zfeb2e420": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z57ee2d66": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z83204f42": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze6308312": {
+   "n": "Los Alamos",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zcf97ce3b": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6d578b2f": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z05b1b47b": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "za0522f05": {
+   "n": "Grecia",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z7a98e6b5": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zeee3605a": {
+   "n": "Striscia di Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z87c7e7e2": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z53a5e56f": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -11565,7 +14363,75 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z52a18c03": 1,
   "z4504b507": 1,
   "z55f70e44": 1,
-  "z798b3efa": 1
+  "z798b3efa": 1,
+  "z0a8869aa": 2,
+  "z48edb60e": 1,
+  "z294dc5b7": 1,
+  "z3dfb1bea": 1,
+  "z4c9fcbaf": 1,
+  "zee7a5712": 2,
+  "z1482c374": 2,
+  "z78ab4089": 1,
+  "z3e9bc714": 2,
+  "z93e59d4c": 2,
+  "z61d87d0c": 2,
+  "z653e77c7": 1,
+  "z5044b6a3": 1,
+  "zb9267942": 1,
+  "z739dabee": 1,
+  "z006adae9": 1,
+  "z8e5f1987": 2,
+  "ze4e6f34c": 2,
+  "z821d2409": 1,
+  "zfd838087": 1,
+  "z604849f4": 1,
+  "zf2b1073c": 1,
+  "zba332fc7": 1,
+  "z4a117383": 1,
+  "z5d19eefd": 1,
+  "z7759f239": 1,
+  "zff8540b7": 1,
+  "zc89fffee": 1,
+  "z096f93d8": 1,
+  "zaab60b4a": 1,
+  "z44571fb6": 1,
+  "z14056d71": 1,
+  "zafdedfdd": 1,
+  "z478a3d45": 1,
+  "zbfe83736": 1,
+  "z17074a3e": 1,
+  "z73e72559": 1,
+  "z3d8f438e": 1,
+  "z6e2822e1": 1,
+  "z5b35f6c6": 1,
+  "z6dd1cc21": 1,
+  "z2d0529c4": 1,
+  "z83c47331": 1,
+  "zd561368f": 1,
+  "z3a71a38a": 2,
+  "z25664f68": 1,
+  "z52bc0e42": 2,
+  "z87bcced6": 1,
+  "z76d100f0": 1,
+  "z37157b2e": 1,
+  "z7ca883b6": 1,
+  "z13b49349": 1,
+  "z841b0b26": 1,
+  "z0e1276f8": 1,
+  "zeefad10e": 1,
+  "z6d21f76f": 2,
+  "zfeb2e420": 1,
+  "z57ee2d66": 1,
+  "z83204f42": 1,
+  "ze6308312": 1,
+  "zcf97ce3b": 1,
+  "z6d578b2f": 1,
+  "z05b1b47b": 1,
+  "za0522f05": 1,
+  "z7a98e6b5": 1,
+  "zeee3605a": 1,
+  "z87c7e7e2": 1,
+  "z53a5e56f": 1
  },
  "video": {},
  "pillole": []
