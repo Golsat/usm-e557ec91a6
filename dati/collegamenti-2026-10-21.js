@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z9754198f":[["2026-10-15","z319b601f","15 ott","Grandi aspettative per i Philadelphia 76ers in vista della stagione NBA con l'arrivo di LeBron James e Jaylen Brown"]]});
