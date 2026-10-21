@@ -3,6 +3,116 @@ window.EDIZIONI["2026-10-21"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z9e0ac787",
+   "sez": "mondo",
+   "titolo": "La scuola Chikosa a Mporokoso chiede nuove aule",
+   "orig": "Mporokoso’s Chikosa school seeks more classrooms",
+   "lead": "A Lusaka, la direttrice della Chikosa Primary School Yolanda Chirwa ha lanciato un appello per la costruzione di nuove aule scolastiche, rese necessarie dall'aumento della frequenza degli studenti. La legge sull'istruzione gratuita ha favorito il ritorno a scuola di molti alunni che avevano abbandonato per problemi economici. Lo riferisce Lusaka Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/20/mporokosos-chikosa-school-seeks-more-classrooms/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-10-20T19:24+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:42",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1089c3ac",
+   "sez": "mondo",
+   "titolo": "L'associazione Likumbi Lyamize invoca la conservazione della cultura",
+   "orig": "Likumbi Lyamize Association calls for preservation of culture",
+   "lead": "A Lusaka, il presidente dell'associazione culturale Likumbi Lyamize, il principe Brian Kambeu, ha esortato i gruppi etnici a preservare le proprie tradizioni e a promuovere l'identità nazionale e l'unità. Secondo Kambeu, radicare le proprie origini culturali gioca un ruolo fondamentale per la coesione del Paese. Lo riferisce Lusaka Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/20/likumbi-lyamize-association-calls-for-preservation-of-culture/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-10-20T19:09+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:42",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf6216e0a",
+   "sez": "mondo",
+   "titolo": "Uno storico esorta gli zambiani a preservare pace e unità",
+   "orig": "Historian urges Zambians to uphold peace, unity",
+   "lead": "A Lusaka, lo storico dell'Università dello Zambia Bizeck Phiri ha invitato i cittadini a custodire l'unità e la pace consolidate durante gli anni di indipendenza. Il professore ha sottolineato che, malgrado i diversi sistemi politici affrontati, la democrazia zambiana ha resistito nel tempo. Lo riferisce Lusaka Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/10/20/historian-urges-zambians-to-uphold-peace-unity/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-10-20T19:08+00:00"
+    }
+   ],
+   "data": "20 ott",
+   "ora": "07:42",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z90dd8afd",
+   "sez": "mondo",
+   "titolo": "Critiche al quotidiano Nation alimentano interrogativi su libertà di stampa e fiducia",
+   "orig": "Criticism of Nation newspaper fuels wider questions about press freedom and trust",
+   "lead": "A Lilongwe, in Malawi, è scoppiato un dibattito sull'indipendenza dei media dopo che il commentatore Onjezani Kenani ha accusato uno dei principali gruppi editoriali del Paese di aver abbandonato il proprio ruolo di cane da guardia e di essersi allineato troppo agli interessi politici. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/criticism-of-nation-newspaper-fuels-wider-questions-about-press-freedom-and-trust/?utm_source=rss&utm_medium=rss&utm_campaign=criticism-of-nation-newspaper-fuels-wider-questions-about-press-freedom-and-trust",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-20T22:52+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "07:42",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2bebeb32",
+   "sez": "mondo",
+   "titolo": "La scommessa costituzionale di Frank Mbeta: l'intrattenimento costituzionale del Malawi",
+   "orig": "Frank Mbeta’s constitutional gamble: Malawi’s latest constitutional entertainment",
+   "lead": "A Lilongwe, in Malawi, una nuova disputa istituzionale vede contrapposti il Presidente del Parlamento, l'Avvocato Generale e la magistratura, chiamata a risolvere un contenzioso legale sulla separazione dei poteri e sulle prerogative parlamentari. La vicenda offre l'ennesimo spunto di confronto giuridico nel Paese. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/frank-mbetas-constitutional-gamble-malawis-latest-constitutional-entertainment/?utm_source=rss&utm_medium=rss&utm_campaign=frank-mbetas-constitutional-gamble-malawis-latest-constitutional-entertainment",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-20T22:28+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "07:42",
+   "uscita": "mattino"
+  },
+  {
    "id": "zbac8e94e",
    "sez": "mondo",
    "titolo": "Proteste giovanili a Bruxelles: 26 denunce contro la polizia",
@@ -11583,7 +11693,12 @@ window.EDIZIONI["2026-10-21"] = {
   "z51c79e71": "Notizia di costume e cultura musicale locale dedicata alle icone del reggae giamaicano.",
   "z7314b5df": "Emergenza ambientale e umanitaria legata agli incendi boschivi nella regione pacifica.",
   "zcdfae8a0": "Informazione commerciale sul marketing e la diffusione del brand sportivo locale.",
-  "z6bc9a03e": "Richiesta della comunità locale focalizzata sulle infrastrutture giovanili e le politiche sociali."
+  "z6bc9a03e": "Richiesta della comunità locale focalizzata sulle infrastrutture giovanili e le politiche sociali.",
+  "z9e0ac787": "La testata focalizza l'attenzione sulle sfide infrastrutturali generate dalle politiche di istruzione gratuita in Zambia.",
+  "z1089c3ac": "La testata evidenzia l'importanza della coesione interetnica e della salvaguardia delle tradizioni locali in Zambia.",
+  "zf6216e0a": "La testata sottolinea la riflessione accademica sulla stabilità democratica e sulla pace nazionale in Zambia.",
+  "z90dd8afd": "La testata analizza le tensioni e il dibattito pubblico sul ruolo dei media tradizionali e sulla libertà di stampa in Malawi.",
+  "z2bebeb32": "La testata adotta un tono critico e ironico nei confronti delle ripetute controversie legali e istituzionali in Malawi."
  },
  "contesti": {
   "z2abd08ae": "Nelle ultime settimane, l'epidemia si è spostata dall'Africa orientale verso la regione occidentale. Il Kenya aveva segnalato i primi casi all'inizio di ottobre, segnando l'inizio dell'attuale ondata. Nonostante la conferma del caso nigeriano collegato a un viaggio dall'Uganda, le autorità di Kampala continuano a sostenere ufficialmente l'assenza del virus sul proprio territorio nazionale, creando tensioni diplomatiche e comunicative.",
@@ -15065,6 +15180,41 @@ window.EDIZIONI["2026-10-21"] = {
     "Zambia"
    ],
    "pt": []
+  },
+  "z9e0ac787": {
+   "n": "Lusaka",
+   "p": [
+    "Zambia"
+   ],
+   "pt": []
+  },
+  "z1089c3ac": {
+   "n": "Lusaka",
+   "p": [
+    "Zambia"
+   ],
+   "pt": []
+  },
+  "zf6216e0a": {
+   "n": "Lusaka",
+   "p": [
+    "Zambia"
+   ],
+   "pt": []
+  },
+  "z90dd8afd": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z2bebeb32": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -15480,7 +15630,12 @@ window.EDIZIONI["2026-10-21"] = {
   "z51c79e71": 1,
   "z7314b5df": 1,
   "zcdfae8a0": 1,
-  "z6bc9a03e": 1
+  "z6bc9a03e": 1,
+  "z9e0ac787": 1,
+  "z1089c3ac": 1,
+  "zf6216e0a": 1,
+  "z90dd8afd": 1,
+  "z2bebeb32": 1
  },
  "video": {},
  "pillole": []
