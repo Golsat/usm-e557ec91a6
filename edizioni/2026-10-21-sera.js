@@ -71,30 +71,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z3cee94d3",
-   "sez": "mondo",
-   "titolo": "Regno Unito approva sfruttamento giacimento gasifero nel Mare del Nord",
-   "orig": "Britse regering zet licht op groen voor omstreden ontginning van Jackdaw-gasveld in Noordzee",
-   "lead": "Il governo britannico ha autorizzato lo sfruttamento del campo Jackdaw nel Mare del Nord, dichiarando il gas essenziale per riscaldare milioni di abitazioni britanniche durante l'inverno. Gli ambientalisti protestano, contrastando l'operazione con gli impegni climatici. Lo riferisce VRT NWS.",
-   "more": [
-    "Il progetto avrà ricadute occupazionali significative con centinaia di posti di lavoro nel settore estrattivo offshore britannico."
-   ],
-   "fonti": [
-    {
-     "n": "VRT NWS",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.vrt.be/vrtnws/nl/2026/10/21/nieuw-gasveld-verenigd-koninkrijk-energie-klimaat.rss.xml",
-     "angolo": "",
-     "atlas": "Belgium",
-     "t": "2026-10-21T10:11+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:51",
-   "uscita": "13"
-  },
-  {
    "id": "z2f409590",
    "sez": "mondo",
    "titolo": "Gand: intensificato controllo su locatari per evitare sfratti",
@@ -230,7 +206,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "zed77bcf2",
-   "sez": "ambiente",
+   "sez": "ingegneria",
    "titolo": "Islanda: dragaggio in porto avrà nuova banchina entro l'estate",
    "orig": "Mokað allan liðlangan daginn",
    "lead": "Proseguono i lavori di dragaggio nel porto di Hafnarfjörður in Islanda, avviati lo scorso inverno, per realizzare una nuova infrastruttura per piccole imbarcazioni. Circa 50 mila metri cubi di sedimenti sono stati rimossi dal fondale marino. Lo riferisce RÚV.",
@@ -292,28 +268,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Iceland",
      "t": "2026-10-21T08:26+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:51",
-   "uscita": "13"
-  },
-  {
-   "id": "zfeb280af",
-   "sez": "mondo",
-   "titolo": "Parlamentare australiana perde le gambe dopo investimento intenzionale",
-   "orig": "Missti báða fótleggi eftir árásina",
-   "lead": "Un membro del parlamento australiano ha perduto entrambi gli arti inferiori in seguito all'intervento chirurgico per le ferite da investimento volontario. I medici hanno ritenuto l'amputazione bilaterale necessaria. Un uomo di 43 anni è stato fermato dalle autorità. Lo riferisce RÚV.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RÚV",
-     "p": "XX",
-     "c": "Reykjavík",
-     "u": "https://www.ruv.is/frettir/erlent/2026-10-21-missti-bada-fotleggi-eftir-arasina-490496/",
-     "angolo": "",
-     "atlas": "Iceland",
-     "t": "2026-10-21T07:42+00:00"
     }
    ],
    "data": "21 ott",
@@ -1210,6 +1164,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "u": "https://www.koreaherald.com/article/10910469",
      "angolo": "",
      "atlas": "South Korea"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261021001751315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-21T19:09+09:00"
     }
    ],
    "data": "",
@@ -1259,28 +1222,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z5a29fffb",
-   "sez": "mondo",
-   "titolo": "Autorità di Busan scacciano lo squalo dal canale al terzo tentativo",
-   "orig": "(LEAD) Busan authorities guide shark out of canal on third attempt",
-   "lead": "Le autorità della città costiera sudcoreana di Busan hanno riuscito mercoledì, al terzo tentativo operativo, a guidare con successo uno squalo fuori dal canale dove era rimasto intrappolato, concludendo un difficile intervento di soccorso della fauna marina. Lo riferisce Yonhap.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Yonhap",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://en.yna.co.kr/view/AEN20261021001751315",
-     "angolo": "",
-     "atlas": "South Korea",
-     "t": "2026-10-21T19:09+09:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:48",
-   "uscita": "13"
-  },
-  {
    "id": "z50bcc0b7",
    "sez": "mondo",
    "titolo": "Corea del Sud: corte d'appello riduce la pena dell'ex ministro sulla marcia marziale",
@@ -1318,28 +1259,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "South Korea",
      "t": "2026-10-21T16:57+09:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:48",
-   "uscita": "13"
-  },
-  {
-   "id": "z4a117383",
-   "sez": "mondo",
-   "titolo": "Australia in difficoltà nel test di cricket contro il Sudafrica",
-   "orig": "Live: Aussies slump to 6-65 as Proteas quicks strike back",
-   "lead": "L'Australia affronta una sfida difficile al quarto giorno del secondo test a Gqeberha contro il Sudafrica, già con un wicket perso e in forte svantaggio rispetto al totale del primo innings sudafricano di 425 punti. Lo riferisce ABC News Australia.",
-   "more": [],
-   "fonti": [
+    },
     {
-     "n": "ABC News Australia",
+     "n": "NK News",
      "p": "XX",
-     "c": "Sydney",
-     "u": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/10/kim-yo-jong-north-korean-top-brass-visit-border-and-threaten-counterattack/",
      "angolo": "",
-     "atlas": "Australia",
-     "t": "2026-10-21T07:12+00:00"
+     "atlas": "North Korea",
+     "t": "2026-10-21T07:58+00:00"
     }
    ],
    "data": "21 ott",
@@ -2557,7 +2485,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "zc3403527",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Karate, giovani atleti del Montenegro vincono oro e bronzo ai mondiali",
    "orig": "Vukov poziv majci i Kristinino obećanje sebi: Mladi crnogorski...",
    "lead": "Al campionato mondiale di karate, giovani atleti del Montenegro hanno conquistato una medaglia d'oro e una di bronzo. I giovani rappresentanti dimostrano che con amore per lo sport, lavoro e perseveranza si raggiungono i massimi traguardi. Lo riferisce Vijesti.",
@@ -2802,28 +2730,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z6c2dc18f",
-   "sez": "mondo",
-   "titolo": "Nord Corea, Kim Yo Jong e vertici militari minacciano contrattacco al confine",
-   "orig": "Kim Yo Jong, North Korean top brass visit border and threaten ‘counterattack’",
-   "lead": "La sorella del leader nord-coreano Kim Yo Jong e i vertici militari hanno visitato il confine inter-coreano, ordinando alle truppe di \"contrattaccare immediatamente\" se forze sud-coreane minacciano la loro sicurezza. Il maresciallo Pak Jong Chon ha ispezionato le fortificazioni. Lo riferisce NK News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "NK News",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.nknews.org/2026/10/kim-yo-jong-north-korean-top-brass-visit-border-and-threaten-counterattack/",
-     "angolo": "",
-     "atlas": "North Korea",
-     "t": "2026-10-21T07:58+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:48",
-   "uscita": "13"
-  },
-  {
    "id": "z932dd95e",
    "sez": "mondo",
    "titolo": "Russia, sospetto uso di IA distorce volto Kim Jong-un in foto",
@@ -2918,29 +2824,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
     }
    ],
    "data": "21 ott",
-   "ora": "12:48",
-   "uscita": "13"
-  },
-  {
-   "id": "zba3ce615",
-   "sez": "mondo",
-   "titolo": "Portogallo, Movimento Abitazione promette di mantenere presidio di protesta",
-   "orig": "Movimento pela Habitação promete manter vaga de protestos",
-   "lead": "Cinquantacinque persone arrestate nel campo di protesta presso Praça do Rossio di Lisbona hanno comparso in tribunale e sono state liberate con obbligo di presentazione. Il Movimento per l'Abitazione promette di proseguire la protesta contro il caro della vita. Lo riferisce RTP.",
-   "more": [
-    "I protesti lisboeti affrontano la crisi abitativa e l'inflazione, con agitazioni sociali che coinvolgono senzatetto e attivisti civili."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/pais/movimento-pela-habitacao-promete-manter-vaga-de-protestos_e1773164",
-     "angolo": "",
-     "atlas": "Portugal"
-    }
-   ],
-   "data": "",
    "ora": "12:48",
    "uscita": "13"
   },
@@ -3222,30 +3105,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Egypt",
      "t": "2026-10-21T10:04+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:43",
-   "uscita": "13"
-  },
-  {
-   "id": "z4a9f5156",
-   "sez": "economia",
-   "titolo": "Rubio visita la raffineria indiana di Jamnagar invece di Delhi",
-   "orig": "Why US Secretary of State Rubio is skipping Delhi for an Indian oil refinery",
-   "lead": "Il segretario di Stato americano Marco Rubio visiterà questa settimana Jamnagar, in India, sede del più grande complesso di raffinazione petrolifera al mondo, invece di fermarsi a Delhi, segnalando secondo gli analisti che la cooperazione energetica resta il fulcro dei rapporti bilaterali nonostante le tensioni politiche più ampie. Rubio ha indicato che Reliance Industries, proprietaria del complesso di Jamnagar, acquisterà più petrolio venezuelano. Lo riferisce South China Morning Post.",
-   "more": [
-    "Jamnagar, nello stato indiano del Gujarat, ospita la raffineria più grande del mondo, gestita da Reliance Industries. L'India è un importante acquirente di petrolio russo e venezuelano a prezzi scontati, una pratica che ha creato tensioni con gli Stati Uniti, pur mantenendo stretti legami commerciali ed energetici tra i due paesi."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/week-asia/politics/article/3371651/why-us-secretary-state-rubio-skipping-delhi-indian-oil-refinery",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-10-21T10:30+00:00"
     }
    ],
    "data": "21 ott",
@@ -3727,7 +3586,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "z027c7445",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Praga, al via i lavori per il terzo grattacielo residenziale più alto della città",
    "orig": "Prague's third-tallest residential tower now under construction in Malešice",
    "lead": "A Praga sono iniziati i lavori di costruzione della Metropolis Tower, nel quartiere di Malešice, che diventerà il terzo grattacielo residenziale più alto della città con un'altezza di 70 metri. La torre ospiterà 256 appartamenti nel distretto di Praga 10 e sarà completata entro il 2028. I prezzi partiranno da 6,9 milioni di corone ceche per le unità con due stanze. Lo riferisce Expats.cz.",
@@ -5427,7 +5286,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "za1b04163",
-   "sez": "tech",
+   "sez": "economia",
    "titolo": "Le vendite su Ozon crescono dopo gli attacchi ucraini con drone contro Wildberries",
    "orig": "Major sellers increased sales on Ozon after Ukrainian drone strikes hit Wildberries",
    "lead": "Il quotidiano economico russo Kommersant ha riferito che la quota di vendite dei grandi venditori sulla piattaforma di e-commerce russa Ozon è salita al 60% entro la fine dell'estate 2026, citando dati della società MPStats Data. La crescita segue gli attacchi con drone ucraini che hanno colpito la rivale Wildberries, spingendo probabilmente alcuni grandi venditori a spostare le proprie vendite su Ozon. Lo riferisce Meduza.",
@@ -5497,7 +5356,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "za56dc3ee",
-   "sez": "musica",
+   "sez": "cultura",
    "titolo": "\"The Prestige\" di Christopher Nolan torna nei cinema IMAX a gennaio",
    "orig": "Christopher Nolan’s ‘The Prestige’ is coming to IMAX cinemas in January",
    "lead": "Il film thriller \"The Prestige\" di Christopher Nolan, con Hugh Jackman e Christian Bale nei ruoli di due maghi rivali, tornerà nelle sale IMAX a gennaio per celebrare il ventesimo anniversario dall'uscita. Lo riferisce NME.",
@@ -5632,30 +5491,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-21T08:30+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:38",
-   "uscita": "13"
-  },
-  {
-   "id": "z5d9818db",
-   "sez": "economia",
-   "titolo": "La FAA autorizza l'entrata in servizio del Boeing 737 Max 10",
-   "orig": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
-   "lead": "L'agenzia federale per l'aviazione statunitense FAA ha dato il via libera affinché le compagnie aeree possano mettere in servizio il Boeing 737 Max 10, il più grande della famiglia Max. Il via libera arriva quasi un decennio dopo la presentazione del modello da parte di Boeing, e rappresenta il superamento di un ostacolo importante nel percorso dell'azienda per portare l'aereo sul mercato. Lo riferisce NPR.",
-   "more": [
-    "Il Boeing 737 Max è stato al centro di controlli regolatori molto più rigorosi dopo due incidenti mortali nel 2018 e nel 2019 che coinvolsero i modelli 737 Max 8, seguiti dalla messa a terra globale della flotta per quasi due anni. Il Max 10 è la variante più capiente della famiglia, pensata per competere con i modelli concorrenti di Airbus."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-21T02:05-04:00"
     }
    ],
    "data": "21 ott",
@@ -6449,7 +6284,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "zd144aca4",
-   "sez": "economia",
+   "sez": "italia",
    "titolo": "Ponte sullo Stretto, inchiesta per corruzione: la Procura chiede atti al ministero delle Infrastrutture",
    "orig": "Ponte sullo Stretto, inchiesta per corruzione: la Procura chiede gli atti al ministero delle Infrastrutture",
    "lead": "La Procura ha avviato un'inchiesta per corruzione legata al progetto del Ponte sullo Stretto di Messina, chiedendo al ministero delle Infrastrutture la trasmissione di documenti. I Ros sono stati delegati a eseguire un ordine di esibizione anche nei confronti del Dipe, del Cipess, della società Ponte sullo Stretto e del consorzio Eurolink. Al centro della richiesta ci sono i documenti trasmessi alla Corte dei conti per i controlli sull'opera. Lo riferisce Il Sole 24 Ore.",
@@ -7151,39 +6986,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z4e16cec2",
-   "sez": "mondo",
-   "titolo": "Zelensky, ripreso lo scambio di informazioni sugli attacchi missilistici russi",
-   "orig": "Zelenskyy says early warning system for Russian missile attacks resumes",
-   "lead": "Il presidente ucraino Volodymyr Zelensky ha annunciato la ripresa del sistema di allerta precoce sugli attacchi missilistici russi, reso possibile dalla condivisione di informazioni di intelligence da parte degli Stati Uniti. Il cambiamento è arrivato dopo colloqui con le controparti americane, incluso un colloquio telefonico con il segretario di Stato Usa Marco Rubio. Le allerte preventive sugli attacchi missilistici erano state apparentemente sospese la settimana scorsa dalla Casa Bianca, ma secondo Zelensky «ora funziona di nuovo».",
-   "more": [
-    "La condivisione di intelligence tra Stati Uniti e Ucraina include informazioni satellitari e di sorveglianza utili a prevedere gli attacchi missilistici russi, permettendo l'attivazione di sistemi di allerta per la popolazione civile. Interruzioni in questo flusso di dati possono ridurre i tempi di reazione contro i bombardamenti."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-21T01:43-04:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-20T19:32+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
    "id": "z9081a768",
    "sez": "musica",
    "titolo": "Hayley Williams difende il nuovo album dei Fontaines D.C.",
@@ -7243,6 +7045,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-21T08:12+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/istat-madri-piu-grandi-e-meno-figli-e183ad7e-27b2-42b4-bfb1-93b79896b6b3.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T09:50+00:00"
     }
    ],
    "data": "21 ott",
@@ -7683,30 +7494,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zfa9b7f73",
-   "sez": "italia",
-   "titolo": "Istat: in Italia madri sempre più anziane e meno figli",
-   "orig": "Istat: madri più 'grandi' e meno figli",
-   "lead": "Secondo i dati Istat, in Italia l'età media delle madri continua a salire mentre il numero di figli per donna resta sotto la soglia necessaria al ricambio generazionale, molto al di sotto dei massimi registrati nel triennio 2008-2010. Lo riferisce Rai News.",
-   "more": [
-    "Il tasso di natalità italiano è da anni tra i più bassi d'Europa. Fattori come precarietà lavorativa, costi dell'abitazione e scarso supporto alla genitorialità sono spesso indicati tra le cause della denatalità e dell'innalzamento dell'età media al primo figlio."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/istat-madri-piu-grandi-e-meno-figli-e183ad7e-27b2-42b4-bfb1-93b79896b6b3.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-21T09:50+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
    "id": "z5b96c218",
    "sez": "cultura",
    "titolo": "Il direttore del museo nazionale coreano si dimette per un'opera attribuita erroneamente",
@@ -7772,30 +7559,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-21T07:34+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
-   "id": "z454fec91",
-   "sez": "mondo",
-   "titolo": "Chi ha interrotto le comunicazioni satellitari Starshield in Ucraina?",
-   "orig": "The big questions about who’s to blame for Starshield disruptions in Ukraine",
-   "lead": "Resta aperta la domanda su chi abbia causato il rallentamento del sistema satellitare Starshield, usato dall'Ucraina, rendendo il paese più vulnerabile agli attacchi russi nei giorni scorsi. Alcuni importanti repubblicani negli Stati Uniti chiedono spiegazioni e promettono conseguenze per i responsabili, mentre l'amministrazione Trump e Elon Musk hanno fornito finora risposte confuse e incomplete. Lo riferisce Egypt Independent.",
-   "more": [
-    "Starshield è la versione militare del sistema satellitare Starlink, gestito da SpaceX, azienda di Elon Musk, usata anche per comunicazioni sensibili dell'Ucraina nel conflitto con la Russia. Eventuali interruzioni o rallentamenti possono avere conseguenze dirette sulle capacità di difesa ucraine."
-   ],
-   "fonti": [
-    {
-     "n": "Egypt Independent",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.egyptindependent.com/the-big-questions-about-whos-to-blame-for-starshield-disruptions-in-ukraine/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-10-21T09:26+00:00"
     }
    ],
    "data": "21 ott",
@@ -8275,29 +8038,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "sub": "scuola"
   },
   {
-   "id": "z0dfa39ab",
-   "sez": "spazio",
-   "titolo": "Clima: il pianeta ha già superato la soglia di 1,5°C ritenuta limite di sicurezza",
-   "orig": "Clima: Planeta está a aquecer mais que o limite estimado para ser possível salvar a Humanidade &ndash; O máximo de 1,5º já foi ultrapassado, mas ONU mantém optimismo",
-   "lead": "Un nuovo rapporto segnala che il riscaldamento globale ha ormai superato la soglia di 1,5°C fissata come limite massimo durante la COP16 di Cancun nel 2010, già allora giudicata da molti esperti troppo permissiva rispetto ai rischi di collasso climatico. Nonostante il superamento della soglia, l'ONU mantiene un atteggiamento di ottimismo sulle possibilità di intervento. La notizia solleva interrogativi sulle risposte che i governi di tutto il mondo dovranno dare di fronte a questo scenario. Lo riferisce Novo Jornal.",
-   "more": [
-    "L'accordo di Parigi del 2015 ha fissato l'obiettivo di contenere il riscaldamento globale ben al di sotto dei 2°C, puntando a 1,5°C, soglia considerata cruciale per evitare effetti climatici irreversibili come l'innalzamento del livello dei mari e eventi estremi più frequenti. Il superamento di questa soglia, anche solo temporaneo, viene monitorato attraverso medie pluriennali dagli organismi scientifici internazionali."
-   ],
-   "fonti": [
-    {
-     "n": "Novo Jornal",
-     "p": "XX",
-     "c": "Luanda",
-     "u": "http://novojornal.co.ao/sociedade/detalhe/clima-planeta-esta-a-aquecer-mais-que-o-limite-estimado-para-ser-possivel-salvar-a-humanidade-o-maximo-de-15-ja-foi-ultrapassado-mas-onu-mantem-optimismo-75502.html",
-     "angolo": "",
-     "atlas": "Angola"
-    }
-   ],
-   "data": "",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
    "id": "z41af2cc6",
    "sez": "mondo",
    "titolo": "Rubio in India per una missione di \"diplomazia commerciale\"",
@@ -8333,6 +8073,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-21T06:31+00:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/week-asia/politics/article/3371651/why-us-secretary-state-rubio-skipping-delhi-indian-oil-refinery",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T10:30+00:00"
     }
    ],
    "data": "21 ott",
@@ -8688,7 +8437,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z04bf3d84": "Il Post descrive Kvaratskhelia come uno dei calciatori più forti al mondo colpito da un grave infortunio.",
   "za7113239": "Telex English riporta la difesa dell'ex governatore, che contesta la legittimità del fermo.",
   "zbf4a5d1b": "Bhutan Broadcasting Service riporta l'allarme degli esperti sanitari sui rischi delle diete scorrette.",
-  "z4e16cec2": "NPR e The Guardian riportano la conferma di Zelensky sulla ripresa della condivisione di intelligence Usa.",
   "z9081a768": "NME riporta le dichiarazioni di Hayley Williams a difesa della versatilità stilistica dei Fontaines D.C.",
   "za19b5eec": "Il Sole 24 Ore e ANSA evidenziano il calo delle nascite e la crescente quota di figli nati fuori dal matrimonio.",
   "zcb21dfa3": "Anime News Network segnala il nuovo rinvio della data di debutto della serie animata.",
@@ -8705,11 +8453,9 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z94a605a1": "Vatican News sottolinea la novità del servizio dedicato ai più giovani.",
   "zfcff2229": "Le testate asiatiche riportano l'allerta diffusa dalle autorità europee per la cybersicurezza.",
   "zc058918f": "Il Consiglio dell'Unione europea comunica l'intesa raggiunta con il Parlamento.",
-  "zfa9b7f73": "Rai News riporta i dati statistici ufficiali dell'Istat.",
   "z5b96c218": "Yonhap riporta le dimissioni legate all'errore di attribuzione.",
   "ze29e668c": "La testata descrive le misure di prevenzione adottate dalle autorità tanzaniane.",
   "z76d9b9cc": "Fumettologica segnala l'impatto diretto delle proteste sulla distribuzione editoriale.",
-  "z454fec91": "La testata sottolinea le pressioni politiche statunitensi per fare chiarezza.",
   "z1dc158b9": "La testata presenta l'iniziativa come un'opportunità di sviluppo occupazionale per il paese",
   "zfb3cd835": "Il Guardian evidenzia come l'allenatore abbia continuato a lavorare con minori nonostante la sospensione",
   "z1841734d": "L'autore, ex ministro canadese dell'Ambiente, sollecita un'azione immediata sugli impegni di biodiversità",
@@ -8727,7 +8473,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z5ce662be": "Il Sole 24 Ore riporta le misure economiche offerte dal governo in risposta alle proteste",
   "z1aa49498": "Euronews racconta i lavori di restauro in corso in una delle domus più grandi di Pompei",
   "zbb74b127": "Orizzonte Scuola riporta l'episodio come esempio di confronto educativo in classe",
-  "z0dfa39ab": "La testata angolana evidenzia il superamento della soglia critica e l'atteggiamento ancora ottimista dell'ONU",
   "z41af2cc6": "Le testate riportano la visita di Rubio e le sue dichiarazioni caute sulle proteste interne indiane",
   "zadaf4833": "The Kyiv Independent documenta il bilancio delle vittime e i danni alle infrastrutture educative",
   "zb7ca857c": "BBSC valorizza l'iniziativa come strumento di preservazione culturale e crescita personale degli studenti",
@@ -8776,7 +8521,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z39b378bb": "NPR riporta i dati di un'organizzazione per la riforma della giustizia penale sulle tendenze degli arresti.",
   "zc080d3f2": "The Kyiv Independent descrive le tecniche russe di attacco con drone contro la capitale ucraina.",
   "z5d78ef63": "Il Kathmandu Post racconta la partenza di lavoratori migranti durante una festività tradizionale.",
-  "z5d9818db": "NPR riporta l'approvazione regolatoria ottenuta da Boeing per il nuovo modello di aereo.",
   "z71c759dc": "Rappler spiega ai lettori le nuove tecniche di raccolta dati e come difendersi.",
   "z464155cf": "STAT pubblica l'opinione di un esperto favorevole a strategie di vaccinazione porta a porta.",
   "z205bc2ed": "Il Messaggero fornisce informazioni pratiche sulla partita e sul percorso del Como in Champions League.",
@@ -8827,7 +8571,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z1c330515": "Sudans Post riporta la versione dell'esercito sudanese sull'obiettivo dell'attacco.",
   "z8cb70542": "The Punch riporta la smentita del ministro rispetto alle voci su una nuova tassa sul carburante.",
   "z7a999d2d": "Egypt Independent evidenzia gli sforzi egiziani per attrarre investimenti nel settore energetico.",
-  "z4a9f5156": "South China Morning Post interpreta la scelta di Rubio come un segnale di priorità energetica nei rapporti con l'India.",
   "zf0631244": "The Japan Times descrive la coalizione come ancora fragile al di fuori dei rapporti tra i vertici dei due partiti.",
   "ze94b489a": "El Observador analizza i costi previsti per l'azienda statale uruguaiana legati al progetto Solaria.",
   "z1b16dedf": "El Observador descrive il nuovo approccio della DGI come mirato specificamente ai grandi patrimoni.",
@@ -8889,10 +8632,8 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z9eeae0a8": "Radio Prague International riporta i dati del reclutamento militare ceco.",
   "z3ad8b656": "Radio Prague International documenta l'adesione della deputata al gruppo euroscettico.",
   "z96088d76": "LRT copre il dibattito in seno al governo lituano su politiche di stimolo economico.",
-  "z5a29fffb": "La testata riporta un episodio inusuale di fauna marina in ambiente urbano.",
   "z50bcc0b7": "La testata riporta un ribaltamento parziale della sentenza sulla responsabilità in vicende costituzionali controverse.",
   "z0896a822": "La testata riporta una rara apparizione pubblica della sorella del leader con dichiarazioni militari aggressive.",
-  "z4a117383": "La testata segue il match con focus sulla situazione critica della selezione australiana.",
   "z55a55e77": "La testata segue la competizione internazionale di netball tra le due nazioni rivali.",
   "zdbfa9267": "La testata riporta un intervento di forze speciali in risposta a una segnalazione di emergenza.",
   "zd6cbea66": "La testata segue un procedimento di revisione giudiziaria di un caso criminale storico e controverso.",
@@ -8958,19 +8699,16 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z9a894fba": "Asia-Plus riporta un caso di rapimento di minore risolto da intervento poliziesco",
   "z0379258c": "NK News documenta condanne per violazione di diritti umani in una disputa inter-coreana di lunga data",
   "z43618da4": "NK News riporta l'approfondimento della cooperazione tra Russia e Nord Corea in ambiti tecnologici ed educativi",
-  "z6c2dc18f": "NK News riporta mosse militari nord-coreane nel contesto delle tensioni inter-coreane",
   "z932dd95e": "NK News documenta un sospetto episodio di manipolazione fotografica tramite IA in materiale diplomatico",
   "z6fc14ed6": "Radio Tamazuj documenta l'impatto della crisi idrica sudanese sul sistema scolastico",
   "zd60f2a47": "France 24 riporta le misure di ordine pubblico governative in vista di nuove manifestazioni sociali",
   "zadbafbb2": "France 24 documenta un incidente di violazione dello spazio aereo militare durante un'esercitazione di difesa",
-  "zba3ce615": "RTP riporta sviluppi nelle manifestazioni portoghesi su diritto all'abitazione e costo della vita",
   "zf7588274": "RTP riporta le intenzioni governative di riforma dell'ente mediatico pubblico senza nuovi oneri",
   "zcc3add75": "RTP riporta i dati dell'INE sulla progressione crescente dei costi del credito immobiliare",
   "z439ead62": "NOS riporta il miglioramento della performance di Randstad nel mercato olandese del lavoro temporaneo",
   "z94d1e822": "Riconoscimento internazionale al lavoro di innovazione ambientale di un giovane imprenditore europeo.",
   "z3901177f": "Notizia sulle problematiche amministrative di una misura ambientale locale che suscita contestazioni legali.",
   "z9e26018b": "Critica alle nuove norme sulla sicurezza balneare promosse dalla gestione del territorio fiammingo.",
-  "z3cee94d3": "Controversia tra necessità energetiche immediate e impegni di transizione climatica nel Regno Unito.",
   "z2f409590": "Intervento preventivo del terzo settore pubblico belga sulla crisi abitativa con approccio di supporto personalizzato.",
   "z16c6653f": "Controllo scrutinio sulla conformità normativa degli investimenti esteri in Svezia, focalizzato su figure imprenditoriali internazionali.",
   "z1f804b6d": "Processo penale per crimini violenti in ambiente offshore, evidenziando problemi di sicurezza nelle strutture energetiche.",
@@ -8980,7 +8718,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zed77bcf2": "Cronaca di lavori portuali islandesi con dettagli tecnici sul dragaggio e la realizzazione di nuove strutture.",
   "z2fe87bd6": "Procedimento giudiziario islandese su traffico internazionale di droga con decisioni cautelari restrittive confermati in appello.",
   "z594e9bd5": "Progetto infrastrutturale transnazionale di trasporti marittimi riconsiderato dalle amministrazioni islandesi e scozzesi.",
-  "zfeb280af": "Cronaca nera di attacco violento ai danni di figura pubblica australiana con conseguenze fisiche gravi.",
   "zd5d57317": "Bilancio positivo di società tunisina di leasing con dinamiche di mercato favorevoli nel settore della locazione finanziaria.",
   "z306a6ce4": "Comunicazione di una multinazionale agricola su strategie di innovazione ricerca-driven verso mercati nordafricani emergenti.",
   "z282e8dc2": "Enfasi sul ruolo centrale dell'agricoltura biologica nella crescita economica tunisina.",
@@ -9266,13 +9003,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z4e16cec2": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z9081a768": {
    "n": "Londra",
    "p": [
@@ -9385,13 +9115,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "zfa9b7f73": {
-   "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z5b96c218": {
    "n": "Seul",
    "p": [],
@@ -9408,13 +9131,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Sud Italia",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z454fec91": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -9531,11 +9247,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "p": [
     "Italy"
    ],
-   "pt": []
-  },
-  "z0dfa39ab": {
-   "n": "Internazionale",
-   "p": [],
    "pt": []
   },
   "z41af2cc6": {
@@ -9875,13 +9586,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z5d9818db": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z71c759dc": {
    "n": "Filippine",
    "p": [
@@ -10215,13 +9919,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Il Cairo",
    "p": [
     "Egypt"
-   ],
-   "pt": []
-  },
-  "z4a9f5156": {
-   "n": "Jamnagar",
-   "p": [
-    "India"
    ],
    "pt": []
   },
@@ -10644,13 +10341,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z5a29fffb": {
-   "n": "Busan",
-   "p": [
-    "South Korea"
-   ],
-   "pt": []
-  },
   "z50bcc0b7": {
    "n": "Seul",
    "p": [
@@ -10662,13 +10352,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Pyongyang",
    "p": [
     "North Korea"
-   ],
-   "pt": []
-  },
-  "z4a117383": {
-   "n": "Gqeberha",
-   "p": [
-    "South Africa"
    ],
    "pt": []
   },
@@ -11128,13 +10811,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z6c2dc18f": {
-   "n": "Confine coreano",
-   "p": [
-    "North Korea"
-   ],
-   "pt": []
-  },
   "z932dd95e": {
    "n": "Pyongyang",
    "p": [
@@ -11160,13 +10836,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Tolone",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "zba3ce615": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal"
    ],
    "pt": []
   },
@@ -11209,13 +10878,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Belgio",
    "p": [
     "Belgium"
-   ],
-   "pt": []
-  },
-  "z3cee94d3": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -11280,13 +10942,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "p": [
     "Iceland",
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zfeb280af": {
-   "n": "Australia",
-   "p": [
-    "Australia"
    ],
    "pt": []
   },
@@ -11588,7 +11243,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z04bf3d84": 2,
   "za7113239": 2,
   "zbf4a5d1b": 1,
-  "z4e16cec2": 2,
   "z9081a768": 2,
   "za19b5eec": 2,
   "zcb21dfa3": 2,
@@ -11605,11 +11259,9 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z94a605a1": 1,
   "zfcff2229": 2,
   "zc058918f": 1,
-  "zfa9b7f73": 1,
   "z5b96c218": 1,
   "ze29e668c": 1,
   "z76d9b9cc": 1,
-  "z454fec91": 2,
   "z1dc158b9": 1,
   "zfb3cd835": 1,
   "z1841734d": 1,
@@ -11627,7 +11279,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z5ce662be": 1,
   "z1aa49498": 1,
   "zbb74b127": 1,
-  "z0dfa39ab": 1,
   "z41af2cc6": 2,
   "zadaf4833": 2,
   "zb7ca857c": 1,
@@ -11677,7 +11328,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zc080d3f2": 1,
   "z5d78ef63": 1,
   "z4379410b": 1,
-  "z5d9818db": 1,
   "z71c759dc": 1,
   "z464155cf": 1,
   "z205bc2ed": 2,
@@ -11728,7 +11378,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z1c330515": 1,
   "z8cb70542": 1,
   "z7a999d2d": 1,
-  "z4a9f5156": 1,
   "zf0631244": 1,
   "ze94b489a": 1,
   "z1b16dedf": 1,
@@ -11790,10 +11439,8 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z9eeae0a8": 1,
   "z3ad8b656": 1,
   "z96088d76": 1,
-  "z5a29fffb": 1,
   "z50bcc0b7": 1,
   "z0896a822": 1,
-  "z4a117383": 1,
   "z55a55e77": 1,
   "zdbfa9267": 1,
   "zd6cbea66": 1,
@@ -11859,19 +11506,16 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z9a894fba": 1,
   "z0379258c": 1,
   "z43618da4": 1,
-  "z6c2dc18f": 1,
   "z932dd95e": 1,
   "z6fc14ed6": 1,
   "zd60f2a47": 2,
   "zadbafbb2": 1,
-  "zba3ce615": 1,
   "zf7588274": 1,
   "zcc3add75": 1,
   "z439ead62": 1,
   "z94d1e822": 1,
   "z3901177f": 1,
   "z9e26018b": 1,
-  "z3cee94d3": 1,
   "z2f409590": 1,
   "z16c6653f": 1,
   "z1f804b6d": 1,
@@ -11881,7 +11525,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zed77bcf2": 1,
   "z2fe87bd6": 1,
   "z594e9bd5": 1,
-  "zfeb280af": 1,
   "zd5d57317": 1,
   "z306a6ce4": 1,
   "z282e8dc2": 1,
