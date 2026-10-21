@@ -3,6 +3,814 @@ window.EDIZIONI["2026-10-21-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zd7588dd9",
+   "sez": "mondo",
+   "titolo": "Il ministero serbo assicura fondi per stipendi alla Facoltà di Niš",
+   "orig": "Ministarstvo prosvete: Filozofskom fakultetu u Nišu obezbeđena sredstva za plate čim su se stekli uslovi",
+   "lead": "Il ministero dell'Istruzione della Serbia ha stanziato i fondi necessari per la Facoltà di Filosofia di Niš destinati al pagamento degli stipendi dei dipendenti, confermando il rispetto dell'accordo contrattuale e degli obblighi di bilancio una volta soddisfatte le relative condizioni. Lo riferisce N1 Serbia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/vesti/ministarstvo-prosvete-filozofskom-fakultetu-obezbedjena-sredstva-za-plate/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T16:46+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z040a6e97",
+   "sez": "mondo",
+   "titolo": "Regno Unito lancia campagna contro musica senza cuffie sui trasporti",
+   "orig": "UK to Headphone Dodgers on Trains: Shush",
+   "lead": "Il primo ministro britannico Andy Burnham ha annunciato una campagna per scoraggiare l'ascolto di musica e video senza cuffie sui trasporti pubblici britannici, con l'obiettivo di migliorare l'esperienza dei pendolari e dei viaggiatori. Lo riferisce The New York Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T11:01+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z2fcb825e",
+   "sez": "mondo",
+   "titolo": "Deputata australiana investita, parlamentari temono per la sicurezza",
+   "orig": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
+   "lead": "La deputata australiana Helen Haines è rimasta coinvolta in un episodio con un'auto, un fatto che alimenta i timori per la sicurezza dei parlamentari in un clima di crescente polarizzazione politica nella democrazia australiana. Lo riferisce The New York Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T10:57+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z9360ddab",
+   "sez": "mondo",
+   "titolo": "Zelenskyy aperto al congelamento delle linee nel conflitto ucraino",
+   "orig": "Ukraine's Zelenskyy open to freezing front lines in ceasefire with Russia",
+   "lead": "Il presidente ucraino Volodymyr Zelenskyy ha espresso disponibilità al congelamento delle linee del fronte come possibile via praticabile verso la cessazione del conflitto con la Russia e l'avvio di negoziati di pace per risolvere il conflitto. Lo riferisce Fox News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T10:11-04:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z74a4b333",
+   "sez": "mondo",
+   "titolo": "Francia: governo testa per marcia Gilet Gialli a Parigi",
+   "orig": "French government faces fresh test as Yellow Vests plan Paris march on Saturday",
+   "lead": "Il governo francese si prepara a una nuova prova con una marcia dei Gilet Gialli pianificata a Parigi, mentre il presidente Macron ha promesso di fermare chi cercherà di causare disordini durante la protesta. Lo riferisce The Globe and Mail.",
+   "more": [
+    "I Gilet Gialli sono un movimento di protesta emerso in Francia nel 2018, inizialmente contro l'aumento delle tasse sui carburanti, evolvendosi in una più ampia contestazione delle politiche socioeconomiche del governo."
+   ],
+   "fonti": [
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-france-protests-weekend-riots-yellow-vests/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-21T12:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "zb0cf50f3",
+   "sez": "mondo",
+   "titolo": "Nigeria: Esercito arresta sospetto vandalismo oleodotto",
+   "orig": "Army foils pipeline vandalism attempt, arrests 18-Year-old suspect in Benue",
+   "lead": "L'esercito nigeriano ha sventato un tentativo di vandalismo di un oleodotto nello Stato di Benue, arrestando un sospetto diciottenne nella zona governativa di Logo, nell'ambito delle operazioni di sicurezza condotte dalle truppe dell'Operazione Whirl Stroke. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/army-foils-pipeline-vandalism-attempt-arrests-18-year-old-suspect-in-benue/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "za37c4f23",
+   "sez": "mondo",
+   "titolo": "Nigeria: Governatore Edo esorta sostegno a Tinubu",
+   "orig": "2027: Okpebholo urges Edo residents to back Tinubu",
+   "lead": "Il governatore dello Stato di Edo, Monday Okpebholo, esorta i residenti a sostenere l'amministrazione del presidente Bola Tinubu, evidenziando come il supporto federale possa favorire lo sviluppo e la crescita economica del territorio locale. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-okpebholo-urges-edo-residents-to-back-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z072d0c77",
+   "sez": "mondo",
+   "titolo": "Nigeria: Rettore ammonisce scienziati laboratorio su errori",
+   "orig": "VC warns laboratory scientists against costly errors",
+   "lead": "Il rettore dell'Università Chrisland, professore Arulogun, ha avvertito i neoabilitati scienziati di laboratorio medico sulla necessità di evitare errori costosi nella loro pratica professionale, esortandoli a mantenere standard elevati di accuratezza e integrità scientifica. Lo riferisce The Punch.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/vc-warns-laboratory-scientists-against-costly-errors/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-21T14:57+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z25516fb0",
+   "sez": "mondo",
+   "titolo": "Kenya si prepara a vertice Russia-Africa mentre famiglie cercano risposte",
+   "orig": "Kenya heads to Russia summit as families await answers on Ukraine war recruits",
+   "lead": "Il Kenya parteciperà al vertice Russia-Africa il 28 e 29 ottobre a Mosca per discutere di cooperazione economica e sicurezza, mentre i familiari dei cittadini kenioti reclutati nel conflitto ucraino chiedono informazioni sulla loro sorte. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/kenya-heads-to-russia-summit-as-families-await-answers-on-ukraine-war-recruits-5640494",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T13:37+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z53f0a511",
+   "sez": "mondo",
+   "titolo": "Kenya: Parlamentari propongono gestione digitale successioni terriere",
+   "orig": "Going digital: Why MPs want land succession done digitally through E-Citizen",
+   "lead": "Parlamentari kenioti propongono di utilizzare la piattaforma E-Citizen per gestire digitalmente le procedure di successione immobiliare, un cambiamento significativo che potrebbe trasformare il modo in cui i cittadini affrontano l'eredità e la trasmissione della proprietà terriera. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/going-digital-why-mps-want-land-succession-done-digitally-through-e-citizen-5640398",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T13:22+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z9302ed3d",
+   "sez": "mondo",
+   "titolo": "Kenya: Ministero Istruzione citato in giudizio per difetti portale KEMIS",
+   "orig": "Education ministry sued over ‘flaws’ in KEMIS Portal",
+   "lead": "Il ministero dell'Istruzione keniota è stato citato in giudizio per presunti difetti critici nel portale KEMIS, che secondo i ricorrenti nasconde informazioni su istituti scolastici e limita significativamente le opzioni di scelta disponibili agli studenti. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/education/education-ministry-sued-over-flaws-in-kemis-portal-5640290",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T12:20+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z24befd0d",
+   "sez": "mondo",
+   "titolo": "Kenya: Tribunale annulla elezioni sindacali Kuppet per irregolarità",
+   "orig": "Court nullifies Kuppet Kiambu elections over irregularities",
+   "lead": "Un tribunale keniota ha annullato le elezioni di Kuppet Kiambu a causa di gravi irregolarità nel processo elettorale, ordinando il ripetimento delle elezioni e cassando completamente i risultati delle votazioni effettuate il 10 gennaio scorso. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/education/court-nullifies-kuppet-kiambu-elections-over-irregularities-5640272",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T11:35+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z28500de6",
+   "sez": "mondo",
+   "titolo": "Kenya: Tribunale anticorruzione ordina confisca beni ex contabile",
+   "orig": "Houses, plots and cash: Ex-Trans Nzoia county accountant loses Sh207m to State",
+   "lead": "Un tribunale anticorruzione del Kenya ha ordinato a un ex contabile della contea di Trans Nzoia la confisca di beni accumulati illecitamente per un valore complessivo di 207 milioni di scellini kenioti, da restituire allo Stato. Lo riferisce Daily Nation.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/counties/trans-nzoia/houses-plots-and-cash-ex-trans-nzoia-county-accountant-loses-sh207m-to-state-5640202",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T11:01+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/eacc-recovers-ksh-2077m-in-unexplained-assets-linked-to-former-trans-nzoia-accountant-n392442",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T09:40+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z19d3dfcd",
+   "sez": "mondo",
+   "titolo": "Francia: Rinvio partita Ligue 1 per disordini durante proteste",
+   "orig": "Toulouse v Troyes Ligue 1 game postponed as France gripped by unrest",
+   "lead": "La partita di Ligue 1 tra Tolosa e Troyes è stata rinviata a causa degli scontri urbani che stanno colpendo la Francia, dove le autorità hanno imposto coprifuochi parziali a Parigi e altre città per motivi di sicurezza. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/toulouse-v-troyes-ligue-1-game-postponed-as-france-gripped-by-unrest-n392461",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T14:30+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z1df59764",
+   "sez": "mondo",
+   "titolo": "Kenya: Governatore Nairobi licenzia capo dipartimento Mosiria",
+   "orig": "Nairobi Governor Sakaja fires Chief Officer Geoffrey Mosiria in latest reshuffle",
+   "lead": "Il governatore di Nairobi Sakaja ha licenziato il capo dipartimento Geoffrey Mosiria in un rimpasto della giunta municipale, pochi giorni dopo che Mosiria aveva annunciato l'intenzione di candidarsi alla carica di governatore nelle elezioni del 2027. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/nairobi-governor-sakaja-fires-chief-officer-geoffrey-mosiria-in-latest-reshuffle-n392457",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T14:17+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z99176c78",
+   "sez": "mondo",
+   "titolo": "Kenya: Atleta selezionato per esordio triathlon ai Giochi Olimpici Giovanili",
+   "orig": "Robert Froggen-Richard set for historic Kenyan triathlon debut at Youth Olympic Games",
+   "lead": "Robert Froggen-Richard è stato selezionato per rappresentare il Kenya nella disciplina del triathlon ai Giochi Olimpici Giovanili, un esordio storico per lo sport keniota che potrebbe incoraggiare altri atleti a praticare questa disciplina complessa. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/robert-froggen-richard-set-for-historic-kenyan-triathlon-debut-at-youth-olympic-games-n392460",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T14:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "za3d13c31",
+   "sez": "mondo",
+   "titolo": "Kenya: 146 avvocati candidati per grado Senior Counsel",
+   "orig": "Kindiki, Kingi, Kang’ata, Faith Odhiambo among 146 advocates seeking Senior Counsel rank",
+   "lead": "Tra i 146 avvocati kenioti candidati per la prestigiosa nomina di Senior Counsel figurano personalità di rilievo come Kindiki, Kingi, Kang'ata e Faith Odhiambo, che saranno valutati dal Comitato incaricato della selezione prima della nomina presidenziale. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/kindiki-kingi-kangata-faith-odhiambo-among-146-advocates-seeking-senior-counsel-rank-n392459",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T13:54+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z82f02259",
+   "sez": "mondo",
+   "titolo": "Kenya: Tre pugili raggiungono finali Campionati Africani Boxe",
+   "orig": "Three Kenyan boxers storm African Championships finals in Nairobi",
+   "lead": "Tre pugili kenioti, Grace Atieno, Elizabeth Akinyi e Clinton Macharia, hanno raggiunto le finali dei Campionati Africani di Boxe a Nairobi, ottenendo prestazioni convincenti nelle loro semifinali presso il Moi International Sports Centre di Kasarani. Lo riferisce Citizen Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/three-kenyan-boxers-storm-african-championships-finals-in-nairobi-n392455",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-10-21T12:45+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z266cc422",
+   "sez": "mondo",
+   "titolo": "Uganda: Servizi penitenziari dichiarano miglioramento salute prigionieri politici",
+   "orig": "Uganda: Prisons Say Lukwago, Besigye's Health Improving",
+   "lead": "Il servizio penitenziario ugandese afferma che la salute dei prigionieri politici Erias Lukwago e Kizza Besigye sta migliorando, nonostante le crescenti preoccupazioni dell'opinione pubblica riguardo all'accesso a cure mediche specializzate per i detenuti. Lo riferisce allAfrica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202610210428.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T11:18+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "zc5c49808",
+   "sez": "mondo",
+   "titolo": "Divieto USA su DeepSeek potrebbe scoraggiare adozione IA cinese",
+   "orig": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
+   "lead": "Esperti avvertono che il divieto del governo americano sul modello di intelligenza artificiale cinese DeepSeek potrebbe scoraggiare le aziende statunitensi dall'adottare soluzioni di IA cinese a basso costo, con potenziali ripercussioni sul mercato commerciale. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T14:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "ze76db45e",
+   "sez": "mondo",
+   "titolo": "Hong Kong: Lettere sospette a testate, indagini in corso",
+   "orig": "Suspicious letters containing white powder sent to 2 Hong Kong media outlets",
+   "lead": "La polizia di Hong Kong indaga su lettere sospette contenenti una sostanza bianca, presumibilmente farina d'avena schiacciata, inviate dal Regno Unito a due testate giornalistiche locali, tra cui la piattaforma digitale HK01, causando allarme. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371676/suspicious-letters-containing-white-powder-sent-2-hong-kong-media-outlets",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T13:34+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z3f589cd5",
+   "sez": "mondo",
+   "titolo": "Hong Kong: Scuole semi-private ammettono studenti stranieri",
+   "orig": "Hong Kong semi-private schools admit 20 more non-local students under expansion scheme",
+   "lead": "Circa 20 studenti stranieri sono stati ammessi alle scuole semi-private di Hong Kong nel nuovo anno accademico, provenienti da paesi quali Tailandia, Corea del Sud, Singapore, Stati Uniti e nazioni europee, per rafforzare il profilo educativo internazionale della città. Lo riferisce South China Morning Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/education/article/3371675/hong-kong-semi-private-schools-admit-20-more-non-local-students-under-expansion-scheme",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-10-21T13:03+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z0050f412",
+   "sez": "mondo",
+   "titolo": "Corea del Sud: Ex consigliere cita alleanza USA come 'maledizione'",
+   "orig": "Former Moon aide claims S. Korea-US alliance is &apos;curse&apos;",
+   "lead": "Moon Chung-in, ex consigliere del presidente Moon Jae-in, ha dichiarato che mantenere lo status quo dell'alleanza trentennale tra la Corea del Sud e gli Stati Uniti potrebbe rivelarsi una 'maledizione' piuttosto che una benedizione nei prossimi decenni. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10910514",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "zf981379f",
+   "sez": "mondo",
+   "titolo": "Corte suprema indiana riapre il dibattito sulla neutralità religiosa nella classificazione OBC",
+   "orig": "Supreme Court judgment opens up the religion-neutrality of OBC classification for debate",
+   "lead": "La Corte Suprema dell'India chiarisce che le comunità non-induiste possono accedere allo status di Other Backward Classes (OBC), ma distingue le fonti dell'arretratezza economica fra beneficiari indù e non-indù nel dibattito sulla permanenza della classificazione. Lo riferisce The Hindu.",
+   "more": [
+    "La classificazione di Other Backward Classes (OBC) nel sistema indiano risale agli anni '50, basandosi principalmente su criteri religiosi e sociali. Questo verdetto apre nuove questioni su come le comunità minoritarie religiose possano essere incluse in questi benefici."
+   ],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/supreme-court-judgment-opens-up-the-religion-neutrality-of-obc-classification-for-debate/article71607993.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T20:27+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z4fd25030",
+   "sez": "mondo",
+   "titolo": "Prashanth è il nuovo re degli elefanti Dasara, porterà il baldacchino dorato",
+   "orig": "Prashanth emerges as new king of Dasara jumbos, carries golden howdah",
+   "lead": "Prashanth, un elefante residente al campo di Dubare con 18 anni di esperienza come protagonista del festival Dasara, è stato scelto come successore del veterano tusker Abhimanyu e porterà il prezioso baldacchino dorato durante la processione annuale. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/karnataka/prashanth-emerges-as-new-king-of-dasara-jumbos-carries-golden-howdah/article71608044.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T20:26+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z681bb50b",
+   "sez": "mondo",
+   "titolo": "Il YSRCP ha corrotto le elezioni amministrative, accusa Chandrababu Naidu",
+   "orig": "YSRCP crying foul after vitiating the process of local body elections, asserts Chandrababu Naidu",
+   "lead": "Il presidente nazionale del TDP e Chief Minister Chandrababu Naidu accusa il partito di opposizione YSRCP di protestare dopo aver corrotto il processo delle elezioni amministrative locali, invitando i suoi esponenti a lavorare per la vittoria dei candidati alleati. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-crying-foul-after-vitiating-the-process-of-local-body-elections-asserts-chandrababu-naidu/article71607873.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T20:26+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z7224439f",
+   "sez": "mondo",
+   "titolo": "Rimandato il provvedimento cautelare sui leader CJP Das e Ranka",
+   "orig": "Big relief for Das, Ranka: CJP leaders released after 7 days; Dipke posts SRK clip",
+   "lead": "Una corte magistratuale speciale a Delhi ha rimandato la decisione sulla custodia dei leader del CJP Saurav Das e Ashutosh Ranka dopo una protesta a Jantar Mantar. La polizia chiedeva un'estensione di tre giorni, ma i due hanno sfidato la richiesta con ricorso alla corte suprema locale. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/india/delhi-court-orders-release-of-cjp-leaders-saurav-das-ashutosh-ranka/articleshow/135092955.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T18:22+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "zf9e5d07d",
+   "sez": "mondo",
+   "titolo": "Trump gioca con il fuoco nelle trattative con Putin per salvare il voto di midterm",
+   "orig": "Russian roulette: Trump bites the bullet with Putin in bid to survive US midterms",
+   "lead": "Donald Trump sta cercando di concludere un accordo con Putin per ottenere forniture russe di energia e alleviare i prezzi dei carburanti prima delle elezioni di metà mandato americane, calcolando che consegne rapide potrebbero dare vantaggi politici al suo partito. Lo riferisce Times of India.",
+   "more": [
+    "Le elezioni di midterm negli USA, previste per il 2026, rappresentano un momento critico per l'amministrazione Trump. L'aumento dei prezzi energetici è stato un fattore chiave nei risultati elettorali precedenti, rendendo le forniture estere cruciali per la strategia politica."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/us/trumps-russian-roulette-a-high-stakes-juggle-between-vladimir-putin-and-the-polls/articleshow/135092262.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T18:24+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z81e77bdc",
+   "sez": "mondo",
+   "titolo": "Jalaj Saxena eguaglia il record di Bishan Bedi nel Ranji Trophy, Kerala batte Odisha",
+   "orig": "Jalaj Saxena equals Bishan Bedi as Kerala notch up innings win against Odisha",
+   "lead": "Il lanciatore Jalaj Saxena del Kerala eguaglia il record di Bishan Singh Bedi con la sua trentacinquesima presa a cinque wicket nel Ranji Trophy, piazzandosi al quinto posto nella storia del torneo, mentre la squadra batte l'Odisha con un'inning di vantaggio. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/sports/cricket/india-domestic/ranji-trophy/jalaj-saxena-equals-bishan-singh-bedi-as-kerala-notch-up-innings-win-against-odisha-in-ranji-trophy/articleshow/135094690.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T20:11+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z468eb62c",
+   "sez": "mondo",
+   "titolo": "L'IA sta diventando conscia, gli umani devono fare amicizia con i robot, avverte Hinton",
+   "orig": "Godfather of AI: As AI becomes ‘conscious’, humans should make robots their friends",
+   "lead": "Geoffrey Hinton, il padre dell'intelligenza artificiale, avverte che i sistemi AI stanno sviluppando consapevolezza e mette in guardia dai rischi futuri se non gestiti con saggezza, raccomandando che gli umani considerino i robot come partner per mitigare pericoli potenziali. Lo riferisce Times of India.",
+   "more": [
+    "Geoffrey Hinton, noto padre dell'apprendimento profondo, ha avvertito negli anni scorsi sui rischi dell'IA. Le sue recenti dichiarazioni sulla coscienza artificiale riaccendono un dibattito filosofico e pratico sulla sicurezza dello sviluppo tecnologico."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-says-ai-is-becoming-conscious-and-humans-should-be-friends-with-robots-or-face-extinction/articleshow/135092243.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T17:48+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "zb6c722f8",
+   "sez": "mondo",
+   "titolo": "La fondazione di Reba McEntire ha aiutato 35.000 famiglie dal 1992 in Texas",
+   "orig": "Reba McEntire's Texas charity has helped over 35,000 families since 1992",
+   "lead": "La fondazione benefica di Reba McEntire, Reba's Ranch House, fondata nel 1992 in Texas, ha aiutato oltre 35.000 famiglie di pazienti ospedalizzati offrendo alloggio, pasti e supporto emotivo e spirituale, con molti ospiti che segnalano miglioramenti in sonno e ansia. Lo riferisce Times of India.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/us/in-1992-reba-mcentire-helped-open-a-guest-house-for-families-sleeping-in-hospital-chairs-and-cars-the-texas-charity-reports-it-has-since-welcomed-more-than-35000-families-needing-support/articleshow/135094020.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T19:36+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z4202d2eb",
+   "sez": "mondo",
+   "titolo": "Tribunale antiterrorismo nomina avvocato di stato nel caso Hazir-Mazari-Chattha",
+   "orig": "ATC appoints state counsel for Imaan, Hadi in security breach case",
+   "lead": "Una corte antiterrorismo di Islamabad ha nominato un counsel dello stato per la sezione della difesa nel caso di violazione della sicurezza che coinvolge gli avvocati Imaan Zainab Hazir-Mazari e Hadi Ali Chattha, riguardante l'interferenza con una rotta di sicurezza di una squadra di cricket internazionale. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038776/atc-appoints-state-counsel-for-imaan-hadi-in-security-breach-case",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-21T18:37+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z74981e47",
+   "sez": "mondo",
+   "titolo": "Antibiotici cinesi a basso costo minacciano l'ultimo impianto europeo di penicillina",
+   "orig": "How cheap Chinese antibiotics threaten Europe's last major penicillin plant",
+   "lead": "Fornitori economici cinesi di antibiotici minacciano la sopravvivenza dell'ultimo impianto europeo di produzione di penicillina, sollevando allarmi tra gli esperti per potenziali scarsità di farmaci essenziali e la crescente dipendenza dalle importazioni asiatiche nel continente. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "Il settore farmaceutico europeo dipende da una base produttiva ristretta. La penicillina rimane un farmaco essenziale globalmente, e le carenze in Europa potrebbero avere conseguenze significative sulla disponibilità di cure in tutto il continente."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/world/2026/10/21/how-cheap-chinese-antibiotics-threaten-europe-s-last-major-penicillin-plant",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "zbcd697fd",
+   "sez": "mondo",
+   "titolo": "Cinque persone arrestate per aver consentito ai cittadini di giocare al casinò di Parsa",
+   "orig": "Five detained for allegedly allowing Nepalis to gamble at Parsa casino",
+   "lead": "Cinque persone sono state fermate in Nepal per aver presuntamente consentito a cittadini nepali di giocare d'azzardo nel casinò di Parsa, in violazione della legge nazionale che vieta ai residenti di entrare negli stabilimenti e scommettere. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/21/five-detained-for-allegedly-allowing-nepalis-to-gamble-at-parsa-casino",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z3aae8624",
+   "sez": "mondo",
+   "titolo": "PBA Governors' Cup: Magnolia vince il Gruppo B, affronterà il TNT nei quarti",
+   "orig": "PBA: Magnolia turns back Rain or Shine, clinches Group B top seed",
+   "lead": "Magnolia si assicura il primo posto nel Gruppo B del Governors' Cup 2026 della PBA battendo Rain or Shine 107-103, con Javi Gomez de Liano che realizza 19 punti, qualificandosi così per i quarti di finale contro il TNT. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://sports.inquirer.net/702729/pba-magnolia-turns-back-rain-or-shine-clinches-group-b-top-seed",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-21T22:51+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
+   "id": "z1734ea6c",
+   "sez": "mondo",
+   "titolo": "Los Angeles crea servizio SMS per denunciare crimini d'odio anche in tagalog",
+   "orig": "Los Angeles County launches hate crime text-based reporting in Tagalog",
+   "lead": "La contea di Los Angeles lancia un servizio innovativo di segnalazione di crimini d'odio tramite SMS, permettendo ai residenti di denunciare anche in lingua tagalog, ampliando l'accesso alla giustizia per le comunità vulnerabili colpite da discriminazione e molestie. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "Los Angeles ha una significativa popolazione di lingua tagalog, dato il grande numero di immigrati filippini. L'accesso in lingua locale ai servizi legali e di segnalazione crimini è essenziale per comunità vulnerabili a molestie e discriminazione."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/777569/los-angeles-county-launches-hate-crime-text-reporting-in-tagalog",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-21T22:50+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "17:23",
+   "uscita": "17"
+  },
+  {
    "id": "z0918ba82",
    "sez": "mondo",
    "titolo": "Suore cattoliche si riuniscono a Chicago per rafforzare le comunità",
@@ -2235,6 +3043,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-21T16:07+02:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/putin-pristao-na-nastavak-pregovora-sa-sad-i-ukrajinom/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-10-21T16:46+02:00"
     }
    ],
    "data": "21 ott",
@@ -9313,30 +10130,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Kenya",
      "t": "2026-10-21T09:54+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:51",
-   "uscita": "13"
-  },
-  {
-   "id": "z52222018",
-   "sez": "mondo",
-   "titolo": "Kenya: EACC recupera 207,7 milioni di scellini da ex contabile Trans Nzoia",
-   "orig": "EACC recovers Ksh. 207.7M in unexplained assets linked to former Trans Nzoia accountant",
-   "lead": "L'Agenzia anticorruzione kenyota EACC ha recuperato 207,7 milioni di scellini di beni non spiegati collegati a un ex contabile della contea di Trans Nzoia. Lo riferisce Citizen Digital.",
-   "more": [
-    "Il caso rappresenta uno dei procedimenti anticorruzione dell'EACC contro funzionari pubblici kenyoti."
-   ],
-   "fonti": [
-    {
-     "n": "Citizen Digital",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/eacc-recovers-ksh-2077m-in-unexplained-assets-linked-to-former-trans-nzoia-accountant-n392442",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-10-21T09:40+00:00"
     }
    ],
    "data": "21 ott",
@@ -17054,7 +17847,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zb5bb344a": "Analisi critica della strategia politica basata su polarizzazione e retorica identitaria.",
   "z0152499b": "Enfasi sulla metodologia di preparazione nel calcio giovanile.",
   "z340baa20": "Verifica istituzionale su dichiarazioni pubbliche di figure politiche.",
-  "z52222018": "Enfasi sulle azioni di contrasto alla corruzione amministrativa.",
   "z1f9bee55": "allAfrica segnala sviluppi procedurali nella Commissione Madlanga sudafricana",
   "ze1f383fd": "SCMP sottolinea come le mosse del mercato immobiliare hongkonghese siano orientate dalle aspettative sulla politica monetaria statunitense",
   "zf543d3c4": "SCMP evidenzia il progressivo passaggio cinese verso l'autonomia tecnologica nell'industria navale militare",
@@ -17390,7 +18182,43 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z977db4c3": "N1 Serbia documenta la repressione della dissidenza politica nel Paese",
   "zc304e39c": "N1 Serbia riporta le preoccupazioni internazionali sulla libertà di stampa nazionale",
   "ze232fe63": "N1 Serbia documenta i messaggi dei candidati nell'ultima fase della campagna elettorale",
-  "z8f5abb0a": "N1 Serbia riporta un fatto di cronaca dalla capitale greca"
+  "z8f5abb0a": "N1 Serbia riporta un fatto di cronaca dalla capitale greca",
+  "zd7588dd9": "La notizia enfatizza il rispetto del governo serbo dei propri obblighi finanziari verso le istituzioni universitarie dopo il raggiungimento dei prerequisiti budgetari.",
+  "z040a6e97": "La testata riporta un intervento governativo su comportamenti quotidiani nei trasporti, sottolineando l'importanza della convivialità civile negli spazi pubblici.",
+  "z2fcb825e": "La testata collega l'episodio a un contesto più ampio di tensioni politiche e preoccupazioni di sicurezza tra i rappresentanti istituzionali.",
+  "z9360ddab": "La notizia evidenzia una apertura ucraina a soluzioni diplomatiche attraverso una possibile stabilizzazione territoriale del conflitto.",
+  "z74a4b333": "La copertura presenta la Francia in un momento critico di gestione dell'ordine pubblico di fronte a manifestazioni programmate.",
+  "zb0cf50f3": "La testata evidenzia i continui sforzi militari nigeriani per proteggere le infrastrutture energetiche critiche dagli attacchi.",
+  "za37c4f23": "La testata riporta una dichiarazione di allineamento politico tra amministrazioni locali e federali nigeriane sul tema dello sviluppo.",
+  "z072d0c77": "La testata riporta un messaggio istituzionale universitario sulla qualità e l'etica della ricerca scientifica in Nigeria.",
+  "z25516fb0": "La testata accosta la partecipazione keniota a un evento diplomatico internazionale alle preoccupazioni domestiche per cittadini coinvolti nel conflitto ucraino.",
+  "z53f0a511": "La testata presenta un'iniziativa legislativa volta a modernizzare i processi di amministrazione dell'eredità attraverso il digitale.",
+  "z9302ed3d": "La testata riporta una controversia legale riguardante l'accesso e la trasparenza delle informazioni nel sistema educativo keniota.",
+  "z24befd0d": "La testata riferisce di una decisione giudiziale che interviene nel processo elettorale sindacale, sottolineando l'importanza della trasparenza.",
+  "z28500de6": "La testata riporta un'azione di contrasto alla corruzione attraverso il recupero di patrimoni acquisiti illegittimamente.",
+  "z19d3dfcd": "La testata collega l'interruzione dell'attività sportiva alle tensioni sociali più ampie in corso nel paese.",
+  "z1df59764": "La testata collega il licenziamento all'annuncio politico di Mosiria, suggerendo dinamiche di competizione interna.",
+  "z99176c78": "La testata evidenzia un momento di sviluppo dello sport del triathlon in Kenya attraverso la rappresentazione olimpica giovanile.",
+  "za3d13c31": "La testata riporta una tappa del sistema giudiziario keniota con la candidatura di figure politico-legali di primo piano.",
+  "z82f02259": "La testata celebra il successo degli atleti kenioti nel contesto di una competizione continentale di boxe organizzata nel paese.",
+  "z266cc422": "La testata riporta una dichiarazione ufficiale sulla salute di oppositori politici detenuti, mentre emergono dubbi sulla credibilità e l'accesso sanitario.",
+  "zc5c49808": "La testata analizza le implicazioni commerciali e geopolitiche di una misura restrittiva americana nei confronti della tecnologia cinese.",
+  "ze76db45e": "La testata riporta un episodio che crea preoccupazione nei media locali di Hong Kong, evidenziando questioni di sicurezza legata alla libertà di stampa.",
+  "z3f589cd5": "La testata enfatizza l'apertura di Hong Kong verso l'istruzione internazionale quale strumento per attrarre talenti e affermarne il ruolo globale.",
+  "z0050f412": "La testata riporta una critica politica alle fondamenta della partnership strategica tra Seul e Washington da parte di una figura vicina al precedente governo.",
+  "zf981379f": "The Hindu affronta da prospettiva interna indiana una questione costituzionale complessa.",
+  "z4fd25030": "The Hindu racconta con tono celebrativo una tradizione culturale della regione.",
+  "z681bb50b": "The Hindu riporta il punto di vista del governo sulla contesa elettorale.",
+  "z7224439f": "Times of India copre sviluppi politico-legali in una questione di ordine pubblico sensibile.",
+  "zf9e5d07d": "Times of India analizza calcoli politici internazionali con angolo sulla politica interna americana.",
+  "z81e77bdc": "Times of India riferisce su un achievement sportivo crickettistico nel campionato nazionale.",
+  "z468eb62c": "Times of India esamina preoccupazioni etiche di un pioniere dell'IA sulla coscienza artificiale.",
+  "zb6c722f8": "Times of India documenta l'impatto umanitario di un'organizzazione benefica americana.",
+  "z4202d2eb": "Dawn riporta procedimenti legali in un caso di sicurezza sensibile.",
+  "z74981e47": "The Kathmandu Post evidenzia vulnerabilità economica europea alle forniture farmaceutiche cinesi.",
+  "zbcd697fd": "The Kathmandu Post riferisce su applicazione della legge nazionale sul gioco d'azzardo.",
+  "z3aae8624": "Philippine Daily Inquirer copre competizione professionale di pallacanestro locale.",
+  "z1734ea6c": "Philippine Daily Inquirer informa su iniziativa di sicurezza pubblica rivolta alle comunità immigrate."
  },
  "contesti": {
   "z247a9c3a": "Il Papa era stato operato martedì scorso al Policlinico Gemelli, intervento durante il quale è stato scoperto il tumore polmonare. Nei giorni seguenti ha ripreso gradualmente alcune attività pubbliche, apparendo in piazza San Pietro a bordo della papamobile e tenendo la prima udienza generale dopo l'operazione.",
@@ -20048,13 +20876,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z52222018": {
-   "n": "Kenya",
-   "p": [
-    "Kenya"
-   ],
-   "pt": []
-  },
   "z1f9bee55": {
    "n": "Sudafrica",
    "p": [
@@ -22389,6 +23210,255 @@ window.EDIZIONI["2026-10-21-sera"] = {
     "Greece"
    ],
    "pt": []
+  },
+  "zd7588dd9": {
+   "n": "Niš",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z040a6e97": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z2fcb825e": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z9360ddab": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z74a4b333": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb0cf50f3": {
+   "n": "Benue",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "za37c4f23": {
+   "n": "Edo",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z072d0c77": {
+   "n": "Nigeria",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z25516fb0": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z53f0a511": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z9302ed3d": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z24befd0d": {
+   "n": "Kiambu",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z28500de6": {
+   "n": "Trans Nzoia",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z19d3dfcd": {
+   "n": "Tolosa",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1df59764": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z99176c78": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "za3d13c31": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z82f02259": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z266cc422": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zc5c49808": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze76db45e": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z3f589cd5": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z0050f412": {
+   "n": "Corea del Sud",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zf981379f": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z4fd25030": {
+   "n": "Dubare, Karnataka",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z681bb50b": {
+   "n": "Andhra Pradesh",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z7224439f": {
+   "n": "Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zf9e5d07d": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z81e77bdc": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z468eb62c": {
+   "n": "Globale",
+   "p": [],
+   "pt": []
+  },
+  "zb6c722f8": {
+   "n": "Texas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4202d2eb": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z74981e47": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "zbcd697fd": {
+   "n": "Parsa",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z3aae8624": {
+   "n": "Antipolo",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z1734ea6c": {
+   "n": "Los Angeles County",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -22708,7 +23778,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zb5bb344a": 1,
   "z0152499b": 1,
   "z340baa20": 1,
-  "z52222018": 1,
   "z1f9bee55": 1,
   "ze1f383fd": 1,
   "zf543d3c4": 1,
@@ -23042,12 +24111,48 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z57a0dfc7": 1,
   "zc9d28956": 1,
   "zb8c6b3b5": 1,
-  "z91c3b625": 1,
+  "z91c3b625": 2,
   "z5a421134": 1,
   "z977db4c3": 1,
   "zc304e39c": 1,
   "ze232fe63": 1,
-  "z8f5abb0a": 1
+  "z8f5abb0a": 1,
+  "zd7588dd9": 1,
+  "z040a6e97": 1,
+  "z2fcb825e": 1,
+  "z9360ddab": 1,
+  "z74a4b333": 1,
+  "zb0cf50f3": 1,
+  "za37c4f23": 1,
+  "z072d0c77": 1,
+  "z25516fb0": 1,
+  "z53f0a511": 1,
+  "z9302ed3d": 1,
+  "z24befd0d": 1,
+  "z28500de6": 2,
+  "z19d3dfcd": 1,
+  "z1df59764": 1,
+  "z99176c78": 1,
+  "za3d13c31": 1,
+  "z82f02259": 1,
+  "z266cc422": 1,
+  "zc5c49808": 1,
+  "ze76db45e": 1,
+  "z3f589cd5": 1,
+  "z0050f412": 1,
+  "zf981379f": 1,
+  "z4fd25030": 1,
+  "z681bb50b": 1,
+  "z7224439f": 1,
+  "zf9e5d07d": 1,
+  "z81e77bdc": 1,
+  "z468eb62c": 1,
+  "zb6c722f8": 1,
+  "z4202d2eb": 1,
+  "z74981e47": 1,
+  "zbcd697fd": 1,
+  "z3aae8624": 1,
+  "z1734ea6c": 1
  },
  "video": {},
  "pillole": []
