@@ -3,6 +3,1560 @@ window.EDIZIONI["2026-10-21-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z9ca4c919",
+   "sez": "mondo",
+   "titolo": "Elezioni degli enti locali in Andhra Pradesh: lo YSRCP accoglie le direttive della Corte Suprema e chiede elezioni libere ed eque",
+   "orig": "Local body polls in Andhra Pradesh: YSRCP welcomes Supreme Court directions, urges SEC to ensure free and fair elections",
+   "lead": "Il partito YSRCP in India ha accolto con favore le indicazioni della Corte Suprema relative alle elezioni locali nell'Andhra Pradesh, sollecitando il Commissario Elettorale Statale a garantire la massima trasparenza attraverso l'installazione di telecamere a circuito chiuso nei centri di nomina. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-pradesh-ysrcp-welcomes-supreme-court-directions-urges-sec-to-ensure-free-and-fair-elections/article71607735.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T23:12+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z05e789f3",
+   "sez": "mondo",
+   "titolo": "Meira Kumar ha diritto al risarcimento per un terreno acquisito dal governo, stabilisce l'Alta Corte di Patna",
+   "orig": "Meira Kumar entitled to compensation for land acquired by government, says Patna High Court",
+   "lead": "L'Alta Corte di Patna ha stabilito che Meira Kumar ha diritto a un risarcimento per un terreno espropriato dal governo, annullando un precedente provvedimento del Collettore Distrettuale che aveva tentato di confiscare la proprietà revocando unilateralmente i registri catastali della famiglia. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/bihar/meira-kumar-entitled-to-compensation-for-land-acquired-by-government-says-patna-high-court/article71607445.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T23:11+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb0474023",
+   "sez": "mondo",
+   "titolo": "Quattordici candidati in corsa per la carica di sindaco di Guntur; assegnati i simboli elettorali",
+   "orig": "14 candidates in fray for Guntur Mayor post; election symbols allotted",
+   "lead": "Sono quattordici i candidati ufficialmente in lizza per la carica di sindaco di Guntur, in India, dove sono stati assegnati i relativi simboli elettorali. Tra questi, alla candidata del partito TDP Lakshmi Aparna è stata assegnata la bicicletta, mentre la contendente dello YSRCP Padmasridevi ha ricevuto il ventilatore a soffitto. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/andhra-pradesh/14-candidates-in-fray-for-guntur-mayor-post-election-symbols-allotted/article71608597.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-10-21T23:04+05:30"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7c1806c1",
+   "sez": "mondo",
+   "titolo": "Presentato ricorso all'Alta Corte di Lahore per il rilascio delle sorelle di Imran Khan dopo la fine della detenzione",
+   "orig": "LHC moved for release of Imran's sisters as 30-day detention period ends",
+   "lead": "Il figlio di Aleema Khan ha presentato un ricorso all'Alta Corte di Lahore per chiedere la scarcerazione della madre e delle sue due zie. Le tre sorelle dell'ex premier pakistano Imran Khan erano state arrestate a settembre per trent giorni in base all'ordinanza sul mantenimento dell'ordine pubblico. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2038804/lhc-moved-for-release-of-imrans-sisters-as-30-day-detention-period-ends",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-21T21:45+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "za9b9fead",
+   "sez": "mondo",
+   "titolo": "L'ex presidente Bidya Devi Bhandari partirà per la Cina giovedì",
+   "orig": "Former president Bidya Devi Bhandari to leave for China on Thursday",
+   "lead": "L'ex presidente del Nepal, Bidya Devi Bhandari, partirà giovedì alla volta della Cina per partecipare a un forum globale sulla governance. Si tratta del suo primo viaggio ufficiale all'estero da quando è stata nominata leader senior del partito CPN-UML. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/politics/2026/10/21/former-president-bidya-devi-bhandari-to-leave-for-china-on-thursday",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1b91a972",
+   "sez": "mondo",
+   "titolo": "L'amministrazione Trump afferma di aver revocato oltre 300.000 visti",
+   "orig": "Trump administration says it has revoked over 300,000 visas",
+   "lead": "L'amministrazione statunitense ha annunciato la revoca di oltre 300.000 visti, segnando un forte incremento dei provvedimenti restrittivi nell'ambito di una stretta sull'immigrazione che ha sollevato forti polemiche in materia di diritti civili, garanzie procedurali e presunte profilazioni razziali. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/world/2026/10/21/trump-administration-says-it-has-revoked-over-300-000-visas",
+     "angolo": "",
+     "atlas": "Nepal"
+    },
+    {
+     "n": "24.kg",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://24.kg/article/bolee-300-tysyach-viz-otozvali-v-ssha-s-nachala-vtorogo-sroka-prezidentstva-trampa",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-21T23:17+06:00"
+    }
+   ],
+   "data": "",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdac252d7",
+   "sez": "mondo",
+   "titolo": "Il presidente nepalese Paudel riceve il tika del Dashain a Sheetal Niwas",
+   "orig": "President Paudel receives Dashain tika at Sheetal Niwas",
+   "lead": "Il presidente del Nepal, Ramchandra Paudel, ha ricevuto il tika, il jamara e le offerte religiose dal proprio sacerdote ufficiale durante una cerimonia tenutasi alla residenza di Sheetal Niwas, impartendo successivamente la benedizione alla consorte e ai familiari. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/10/21/president-paudel-receives-dashain-tika-at-sheetal-niwas",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfb39c287",
+   "sez": "mondo",
+   "titolo": "L'MMDA sospende i lavori di scavo stradale in vista del vertice dell'Asean",
+   "orig": "MMDA halts road excavation ahead of Asean summit",
+   "lead": "L'Autorità per lo sviluppo della Metropolitan Manila (MMDA) ha imposto una moratoria sugli scavi stradali a partire dal primo novembre fino alla vigilia di Natale. La misura mira a ridurre i disagi alla viabilità in vista del 49esimo vertice dell'Asean e del periodo festivo. Lo riferisce Philippine Daily Inquirer.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://globalnation.inquirer.net/343317/mmda-halts-road-excavation-ahead-of-asean-summit",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-22T00:23+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z950486fe",
+   "sez": "mondo",
+   "titolo": "Il Messico muove una rara accusa di tradimento contro un ex funzionario per un'operazione antidroga degli Stati Uniti",
+   "orig": "Mexico levies rare treason charge against ex-official over US drug operation",
+   "lead": "I procuratori federali messicani hanno incriminato per tradimento un ex procuratore statale, accusandolo di aver autorizzato personale statunitense a partecipare a un'operazione contro il narcotraffico nel nord del Messico senza l'approvazione del governo federale. Lo riferisce The Straits Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/mexico-revives-rare-treason-charge-against-former-state-prosecutor",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-22T01:06+08:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfbeb432f",
+   "sez": "mondo",
+   "titolo": "Il ministro del Likud May Golan interrogata in un'indagine per corruzione dopo aver evitato ripetutamente le convocazioni",
+   "orig": "Likud minister May Golan questioned in corruption probe after repeatedly skipping summons",
+   "lead": "Il ministro israeliano May Golan è stata sottoposta a interrogatorio nell'ambito di un'inchiesta per corruzione, dopo che la polizia aveva completato le indagini accusandola di tangenti e frode in seguito a ripetute assenze alle precedenti convocazioni. Lo riferisce Haaretz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-crime/2026-10-21/ty-article/.premium/likud-minister-questioned-in-corruption-probe-after-repeatedly-skipping-summons/000001a1-5e3d-da79-a5fd-5eff52800000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-21T19:16+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4fc306bd",
+   "sez": "mondo",
+   "titolo": "Corrispondente di Channel 13 si scusa dopo un articolo di Haaretz sul soggiorno a casa di un lobbista del Qatar",
+   "orig": "Channel 13 correspondent apologizes after Haaretz report on stay at Qatar lobbyist's home",
+   "lead": "Il giornalista Suleiman Maswadeh, testimone nell'inchiesta nota come Qatargate, si è scusato pubblicamente dopo che un articolo di Haaretz ha rivelato il suo soggiorno presso l'abitazione di un lobbista del Qatar, pur ribadendo che la frequentazione non ha mai condizionato la sua attività professionale. Lo riferisce Haaretz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-crime/2026-10-21/ty-article/.premium/israeli-reporter-apologizes-after-haaretz-report-on-stay-at-qatar-lobbyist-home/000001a1-5efd-d64b-a1ff-7fff97850000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-21T18:27+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7b47fc45",
+   "sez": "mondo",
+   "titolo": "I pasdaran iraniani: l'Iran dispone della capacità missilistica per colpire le navi da guerra statunitensi",
+   "orig": "IRGC says Iran has missile capacity to target US navy vessels",
+   "lead": "Il vice capo dei Guardiani della Rivoluzione iraniani, Mostafa Izadi, ha dichiarato che l'Iran è in grado di prendere di mira le navi militari della Marina degli Stati Uniti grazie ai recenti progressi tecnologici e quantitativi del proprio arsenale missilistico. Lo riferisce Middle East Eye.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-iran-has-missile-capacity-target-us-navy-vessels",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T18:27+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z13d4b293",
+   "sez": "mondo",
+   "titolo": "Pezeshkian afferma che molti paesi continuano a collaborare con l'Iran nonostante le sanzioni statunitensi",
+   "orig": "Pezeshkian says countries still working with Iran despite US sanctions",
+   "lead": "Il presidente iraniano Masoud Pezeshkian ha affermato che numerosi Stati nel mondo mantengono legami commerciali e cooperazione con Teheran, nonostante le sanzioni imposte dagli Stati Uniti, accusando inoltre Donald Trump di minacciare apertamente di appropriarsi delle risorse petrolifere iraniane. Lo riferisce Middle East Eye.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-countries-still-working-iran-despite-us-sanctions",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T18:17+01:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "za96842f7",
+   "sez": "mondo",
+   "titolo": "Le regole di finanziamento scolastico nell'Australia Occidentale lasciano i bambini di otto anni a gestire da soli una patologia grave",
+   "orig": "This WA school funding rule means eight-year-olds could be managing life-threatening condition alone",
+   "lead": "Secondo la denuncia di una madre dell'Australia Occidentale, l'attuale sistema di finanziamento scolastico costringe i bambini di appena otto anni a gestire in autonomia una condizione salvavita complessa come il diabete di tipo 1 all'interno di un ambiente scolastico affollato e privo di assistenza adeguata. Lo riferisce Sydney Morning Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/western-australia/this-wa-school-funding-rule-means-eight-year-olds-could-be-managing-life-threatening-condition-alone-20261022-p6171l.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-22T03:00+11:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z72873b3d",
+   "sez": "mondo",
+   "titolo": "“Segui il carbonio”: appello per leggi sui rifiuti più severe mentre gli agricoltori traggono beneficio dal compost",
+   "orig": "‘Follow the carbon’: Call for tougher waste laws as farmers reap benefits of compost",
+   "lead": "Il responsabile del riciclaggio Greg Watts ha invocato l'introduzione di normative ambientali più rigorose e tariffe di conferimento in discarica più elevate, in seguito ai risultati positivi delle sperimentazioni agrarie che dimostrano l'efficacia del compost come alternativa ai fertilizzanti tradizionali. Lo riferisce Sydney Morning Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/national/western-australia/follow-the-carbon-call-for-tougher-waste-laws-as-farmers-reap-benefits-of-compost-20261022-p617m1.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-22T03:00+11:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "za235bca9",
+   "sez": "mondo",
+   "titolo": "Dussehra: enormi effigi di demoni date alle fiamme in India",
+   "orig": "Dussehra: Giant effigies of demons go up in flames in India",
+   "lead": "L'India ha celebrato la festività di Dussehra, nota anche come Vijayadashmi, con grandi festeggiamenti a Nuova Delhi culminati nell'incendio di gigantesche effigi di cartapesta del demone Ravana, spettacoli pirotecnici e la partecipazione del primo ministro alle celebrazioni tradizionali. Lo riferisce Euronews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/video/2026/10/21/dussehra-giant-effigies-of-demons-go-up-in-flames-in-india",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T19:21+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z32eff5a0",
+   "sez": "mondo",
+   "titolo": "Il premio europeo per il giornalismo premia un'inchiesta sugli abusi dei diritti umani nei centri migranti italiani in Albania",
+   "orig": "EU journalism prize awards investigation into human rights abuse at Italy’s migrant centres in Albania",
+   "lead": "Un'inchiesta pubblicata dalla piattaforma olandese De Correspondent sul controverso accordo sui migranti tra Italia e Albania, considerato un modello per i centri di rimpatrio al di fuori dell'Unione Europea, si è aggiudicata il prestigioso premio intitolato a Daphne Caruana Galizia. Lo riferisce Euronews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/10/21/eu-journalism-prize-awards-investigation-into-human-rights-abuse-at-italys-migrant-centres",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-21T19:21+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2bf92ddc",
+   "sez": "mondo",
+   "titolo": "Il Borussia Dortmund si rifiuta di fare la doccia nello stadio di Baku: “Non sono così lussuose”. Per i giocatori riservata l’area spa dell’hotel",
+   "orig": "Il Borussia Dortmund si rifiuta di fare la doccia nello stadio di Baku: “Non sono così lussuose”. Per i giocatori riservata l’area spa dell’hotel",
+   "lead": "I calciatori del Borussia Dortmund hanno lasciato lo stadio olimpico di Baku senza fare la doccia dopo la vittoria per 2-1 contro il Sabah FK, disputata martedì sera in Champions League. Secondo i media tedeschi, la squadra ha evitato l'uso degli spogliatoi per timore della presenza di Legionella nell'impianto idrico, preferendo l'area benessere dell'albergo. Lo riferisce Il Fatto Quotidiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/21/borussia-dortmund-docce-baku-legionella-notizie/8545847/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T17:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9e1d9cb9",
+   "sez": "mondo",
+   "titolo": "Mattarella sfida i magnati del tech: “Il controllo dei monopoli è libertà”. E cita Einaudi che li definiva “origine dei mali sociali”",
+   "orig": "Mattarella sfida i magnati del tech: “Il controllo dei monopoli è libertà”. E cita Einaudi che li definiva “origine dei mali sociali”",
+   "lead": "Il presidente della Repubblica Sergio Mattarella ha lanciato un duro monito contro la concentrazione del potere economico dei giganti della tecnologia, richiamando la lezione liberale di Luigi Einaudi e indicando nell'Unione Europea la dimensione necessaria per difendere la democrazia e contrastare i monopoli digitali. Lo riferisce Il Fatto Quotidiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/21/mattarella-contro-monopoli-strapotere-magnati-tech-controllarli-liberta-cita-einaudi/8545748/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T16:45+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb03644f7",
+   "sez": "mondo",
+   "titolo": "“Il regista di Berlusconi”: il 2 novembre a Roma la serata speciale con Travaglio, Oliva, Zanca e Gasparotti",
+   "orig": "“Il regista di Berlusconi”: il 2 novembre a Roma la serata speciale con Travaglio, Oliva, Zanca e Gasparotti",
+   "lead": "Lunedì 2 novembre al Teatro Palladium di Roma si terrà una serata evento dedicata alla presentazione del libro «Il regista di Berlusconi», un appuntamento per ripercorrere trent'anni di retroscena politici, televisione e retroscena del potere in Italia con la partecipazione di vari ospiti, tra cui Marco Travaglio. Lo riferisce Il Fatto Quotidiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/21/regista-berlusconi-presentazione-libro-roma-travaglio-notizie/8545611/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T16:40+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbfe399c2",
+   "sez": "mondo",
+   "titolo": "Ranucci a RaiNews, delega agli approfondimenti e alle inchieste: nominato vicedirettore (tra lo scetticismo)",
+   "orig": "Ranucci a RaiNews, delega agli approfondimenti e alle inchieste: nominato vicedirettore (tra lo scetticismo)",
+   "lead": "Sigfrido Ranucci è entrato ufficialmente nella squadra di RaiNews con la nomina a vicedirettore e la delega agli approfondimenti e alle inchieste, facendo ritorno nella redazione in cui aveva iniziato a lavorare nel 1999 fin dalla fondazione di Rainews24. Lo riferisce Il Messaggero.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/politica/ranucci_rainews_cosa_fara_ruolo_inchieste-9839770.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb6e01e8b",
+   "sez": "mondo",
+   "titolo": "In Marocco scontro politico sul programma di governo",
+   "orig": "Parties clash over Government program as RNI questions reform ambitions",
+   "lead": "Il partito RNI in Marocco ha avviato il suo ruolo di opposizione criticando il nuovo esecutivo per aver riprodotto le politiche precedenti. Durante una sessione parlamentare, la forza politica ha messo in discussione le ambizioni di riforma. Lo riferisce Hespress English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/147737-parties-clash-over-government-program-as-rni-questions-reform-ambitions.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-10-21T17:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf0a1aa56",
+   "sez": "mondo",
+   "titolo": "Cipro, carenza di insegnanti del 10% nelle scuole a tempo pieno",
+   "orig": "All-day schools face teacher shortages of about 10 per cent",
+   "lead": "Le scuole a tempo pieno a Cipro registrano persistenti carenze di personale docente pari a circa il dieci per cento, sia nella scuola primaria che secondaria. La questione è emersa durante un'audizione parlamentare della commissione istruzione. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/21/all-day-schools-face-teacher-shortages-of-about-10-per-cent",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-21T19:44+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2e64b421",
+   "sez": "mondo",
+   "titolo": "Cipro, l'imprenditore John Christodoulou punta alle presidenziali del 2028",
+   "orig": "John Christodoulou: I can solve the Cyprus problem",
+   "lead": "Il miliardario britannico-cipriota John Christodoulou ha annunciato l'intenzione di valutare una candidatura alle elezioni presidenziali cipriote del 2028, sostenendo di poter trovare una soluzione definitiva al blocco politico dell'isola. Lo riferisce Cyprus Mail.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/10/21/john-christodoulou-i-can-solve-the-cyprus-problem",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-10-21T19:40+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z219ec648",
+   "sez": "mondo",
+   "titolo": "Papuasia Nuova Guinea, il Partito Socialdemocratico apre una nuova sede",
+   "orig": "Social Democratic Party opens new Secretariat Office and launches website",
+   "lead": "Il Social Democratico in Papuasia Nuova Guinea ha inaugurato una nuova sede di segreteria e lanciato il sito web ufficiale a Port Moresby, nell'ambito di una strategia per professionalizzare l'organizzazione in vista delle elezioni generali del 2027. Lo riferisce Post-Courier.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/social-democratic-party-opens-new-secretariat-office-and-launches-website/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-21T17:17+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6ce2165d",
+   "sez": "mondo",
+   "titolo": "Papuasia Nuova Guinea, i lavori all'aeroporto di Aropa raggiungono il 78%",
+   "orig": "Aropa Airport upgrade reaches 78% completion; operations set to resume next month",
+   "lead": "La National Airports Corporation della Papuasia Nuova Guinea ha comunicato che i lavori di ammodernamento dell'aeroporto di Kieta, noto come Aropa, hanno raggiunto il 78 percento di completamento, con la ripresa delle attività prevista per il prossimo mese. Lo riferisce Post-Courier.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/aropa-airport-upgrade-reaches-78-completion-operations-set-to-resume-next-month/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-21T17:03+00:00"
+    },
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/kiunga-airport-runway-upgrade-hits-71-completion/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-21T16:20+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1afde23c",
+   "sez": "mondo",
+   "titolo": "Namibia, il leader dell'opposizione sfida l'Assemblea Nazionale",
+   "orig": "Amupanda challenges National Assembly over alleged constitutional breaches",
+   "lead": "Il leader politico namibiano Job Amupanda ha presentato una mozione formale per contestare l'Assemblea Nazionale in merito a presunte violazioni costituzionali, sollevando interrogativi sui poteri legislativi e sulla trasparenza parlamentare. Lo riferisce The Namibian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/amupanda-challenges-national-assembly-over-alleged-constitutional-breaches/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-21T17:37+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2e69b498",
+   "sez": "mondo",
+   "titolo": "Namibia, ondata di calore con temperature fino a 42 gradi",
+   "orig": "Heatwave to hit Namibia until weekend",
+   "lead": "I servizi meteorologici della Namibia hanno diramato un'allerta per un'intensa ondata di calore che interesserà gran parte del Paese fino al prossimo fine settimana, con temperature previste tra i 36 e i 42 gradi centigradi. Lo riferisce The Namibian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/heatwave-to-hit-namibia-until-weekend/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-21T17:19+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z04547b2c",
+   "sez": "mondo",
+   "titolo": "Namibia, invocato un consigliere speciale presidenziale per la pianificazione spaziale",
+   "orig": "Namibia Needs a Presidential Special Adviser on Spatial Planning",
+   "lead": "In vista dei prossimi piani di sviluppo nazionale e degli obiettivi verso il 2030, esperti in Namibia sottolineano l'urgenza di istituire la figura di un consigliere presidenziale speciale dedicato alla pianificazione spaziale e territoriale. Lo riferisce The Namibian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/namibia-needs-a-presidential-special-adviser-on-spatial-planning/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-10-21T17:10+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbf611fdf",
+   "sez": "mondo",
+   "titolo": "Malawi, il ministro Phiri avverte i capi tradizionali contro la protezione dei criminali",
+   "orig": "Minister Phiri installs new T.A Masula, warns against protecting chiefs accused of crimes",
+   "lead": "Durante l'insediamento di una nuova autorità tradizionale a Lilongwe, il ministro del Governo Locale Ben Malunga Phiri ha ammonito i capi locali, dichiarando che il governo non tollererà la protezione di leader accusati di crimini, inclusa la violenza sui minori. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/minister-phiri-installs-new-t-a-masula-warns-against-protecting-chiefs-accused-of-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=minister-phiri-installs-new-t-a-masula-warns-against-protecting-chiefs-accused-of-crimes",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-21T17:19+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd836c83b",
+   "sez": "mondo",
+   "titolo": "Malawi, l'Anticorruzione annulla un concorso pubblico all'Audithorium Nazionale",
+   "orig": "Jobs shame at National Audit Office: ACB cancels recruitment over bribery and leak claims",
+   "lead": "L'ufficio anti-corruzione del Malawi è intervenuto bloccando le procedure di assunzione presso l'Ufficio Nazionale di Revisione Contabile, dopo aver scoperto prove di fughe di notizie sui test d'esame e presunti episodi di corruzione. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/jobs-shame-at-national-audit-office-acb-cancels-recruitment-over-bribery-and-leak-claims/?utm_source=rss&utm_medium=rss&utm_campaign=jobs-shame-at-national-audit-office-acb-cancels-recruitment-over-bribery-and-leak-claims",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-21T16:11+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z23d1d6ad",
+   "sez": "mondo",
+   "titolo": "Malawi, attesa per la decisione del tribunale sui mandati d'arresto",
+   "orig": "Lawyer questions State’s use of taxpayers’ money in warrant dispute: Court to rule on Thursday",
+   "lead": "Il tribunale di Lilongwe si pronuncerà sull'eventuale annullamento dei mandati d'arresto emessi contro gli ex leader della coalizione per i diritti umani Timothy Mtambo, Gift Trapence e MacDonald Sembereka, a seguito di un'udienza di contestazione legale. Lo riferisce Nyasa Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/lawyer-questions-states-use-of-taxpayers-money-in-warrant-dispute-court-to-rule-on-thursday/?utm_source=rss&utm_medium=rss&utm_campaign=lawyer-questions-states-use-of-taxpayers-money-in-warrant-dispute-court-to-rule-on-thursday",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-10-21T15:29+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd1f2a60b",
+   "sez": "mondo",
+   "titolo": "Lussemburgo, audit rileva gravi falle nelle procedure di immigrazione",
+   "orig": "Major gaps in Luxembourg immigration procedures, audit into fraud scandal finds",
+   "lead": "Un audit esterno condotto in Lussemburgo, a seguito di uno scandalo emerso a luglio, ha evidenziato gravi carenze e violazioni nei controlli sull'immigrazione, comprese irregolarità legate a episodi di corruzione, falsificazione e traffico di migranti. Lo riferisce Luxembourg Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/major-gaps-in-luxembourg-immigration-procedures-audit-into-fraud-scandal-finds/163413868.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-10-21T16:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z82e65f94",
+   "sez": "mondo",
+   "titolo": "Australia, sciami di miliardi di falene confondono i radar meteorologici",
+   "orig": "‘It’s brilliant’: Billions of moths are causing havoc on weather radar, and scientists are thrilled",
+   "lead": "Vasti sciami migratori di falene hanno interferito con i radar meteorologici in Australia, generando falsi segnali scambiati per precipitazioni piovose. Il fenomeno sta offrendo agli scienziati nuove opportunità per studiare e monitorare le popolazioni di insetti nel continente. Lo riferisce Stuff NZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361049381/clouds-no-rain-moth-swarms-bamboozle-weather-radar",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-21T16:59+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zea513080",
+   "sez": "mondo",
+   "titolo": "Regno Unito, ritrovata in un garage una carlinga di un caccia Spitfire",
+   "orig": "Spitfire fuselage kept in garage for two decades",
+   "lead": "La fusoliera di un aereo da combattimento Spitfire, costruito nel 1945 e impiegato come bersaglio di addestramento militare, è stata ritrovata e acquistata all'asta dopo essere rimasta conservata all'interno di un garage per oltre vent'anni. Lo riferisce Stuff NZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361049372/spitfire-fuselage-kept-garage-two-decades-sells-1",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-21T16:25+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf7f3f891",
+   "sez": "mondo",
+   "titolo": "Aeroporto di Sarajevo e ambasciata egiziana valutano un collegamento aereo diretto",
+   "orig": "Sarajevo Airport Director and Ambassador of Egypt Discuss Potential Direct Air Route",
+   "lead": "Il direttore facente funzioni dell'Aeroporto di Sarajevo, Dino Selimovic, ha incontrato l'ambasciatore d'Egitto in Bosnia-Erzegovina, Walid Haggag, per discutere l'istituzione di una rotta aerea di linea diretta tra Sarajevo e Il Cairo per rafforzare la connettività turistica ed economica. Lo riferisce Sarajevo Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/sarajevo-airport-director-and-ambassador-of-egypt-discuss-potential-direct-air-route/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T16:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfaa49e81",
+   "sez": "mondo",
+   "titolo": "L'UE chiede a Belgrado di fermare la cittadinanza accelerata per i russi",
+   "orig": "Brukseli thirrje Beogradit: Jepini fund dhënies së shtetësisë me procedurë të përshpejtuar për rusët",
+   "lead": "La Commissione europea ha invitato le autorità della Serbia a interrompere la concessione della cittadinanza tramite procedure agevolate o accelerate ai cittadini di Paesi terzi, tra cui la Russia, che rappresentano un rischio per la sicurezza dell'Unione o per l'immigrazione clandestina. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/be-ja-u-pergjigjet-paralajmerimeve-ruse-e-ardhmja-e-ballkanit-perendimor-eshte-ne-bllok-2/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-21T17:50+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9c885660",
+   "sez": "mondo",
+   "titolo": "La FIFA sanziona la Spagna per cori anti-islamici durante l'amichevole con l'Egitto",
+   "orig": "FIFA ndëshkon Spanjën për thirrjet anti-islame në ndeshjen ndaj Egjiptit",
+   "lead": "La Federcalcio spagnola è stata punita dalla FIFA a causa dei cori offensivi e anti-islamici intonati da un gruppo di tifosi in occasione della partita amichevole disputata a marzo contro l'Egitto, in vista dei mondiali. La sanzione prevede la chiusura parziale delle tribune. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/fifa-ndeshkon-spanjen-per-thirrjet-anti-islame-ne-ndeshjen-ndaj-egjiptit/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-21T17:39+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc7ba214f",
+   "sez": "mondo",
+   "titolo": "L'UE risponde a Mosca: l'Europa è la casa naturale dei Balcani occidentali",
+   "orig": "BE-ja u përgjigjet paralajmërimeve ruse: E ardhmja e Ballkanit Perëndimor është në bllok",
+   "lead": "In risposta alle dichiarazioni della portavoce del ministero degli Esteri russo Maria Zakharova, l'Unione europea ha ribadito che il futuro dei Balcani occidentali risiede nell'integrazione comunitaria, nonostante le pressioni e le interferenze geopolitiche di Mosca nella regione. Lo riferisce Euronews Albania.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/be-ja-u-pergjigjet-paralajmerimeve-ruse-e-ardhmja-e-ballkanit-perendimor-eshte-ne-bllok/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-21T17:09+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcfb64578",
+   "sez": "mondo",
+   "titolo": "Vučić e Dodik insieme a Niš tra lode reciproca e proteste dei cittadini",
+   "orig": "Vučić i Dodik razmjenjivali hvalospjeve na skupu u Nišu, građani lupali u šerpe: \"Volimo Republiku Srpsku\"",
+   "lead": "Aleksandar Vučić, leader della lista elettorale \"Aleksandar Vučić – Unita Serbia\", e Milorad Dodik, presidente del SNSD, hanno partecipato a un evento elettorale a Niš, scambiandosi elogi pubblici. L'incontro è stato segnato dalla contestazione dei cittadini, che hanno protestato battendo sulle pentole. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/regija/vucic-i-dodik-razmjenjivali-hvalospjeve-na-skupu-u-nisu-gradjani-lupali-u-serpe-volimo-republiku-srpsku/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T19:37+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfd3aff1e",
+   "sez": "mondo",
+   "titolo": "Il Como sorprende il Manchester United segnando dopo meno di due minuti in Champions League",
+   "orig": "Šok za Manchester United: Como poveo preko nasljednika Messijeve desetke nakon manje od dvije minute (VIDEO)",
+   "lead": "I calciatori del Como hanno sorpreso il Manchester United passando in vantaggio nei primissimi istanti della partita di Champions League, grazie a una rete realizzata dall'erede della maglia numero dieci di Messi. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/sport/nogomet/sok-za-manchester-united-como-poveo-preko-nasljednika-messijeve-desetke-nakon-manje-od-dvije-minute-video/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T19:14+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1aeb32d4",
+   "sez": "mondo",
+   "titolo": "Il Borac sfida il KuPS in casa: il tecnico Marinović svela le analogie con i finlandesi",
+   "orig": "Borac želi tri boda protiv KuPS-a: Marinović otkrio na kojeg ga protivnika podsjećaju Finci",
+   "lead": "Il Borac di Banja Luka si prepara ad affrontare la formazione finlandese del KuPS nella partita casalinga di giovedì. Il tecnico Vinko Marinović ha espresso fiducia nelle capacità della sua squadra, rivelando inoltre quale avversario gli ricordi la compagine scandinava. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/sport/nogomet/borac-zeli-tri-boda-protiv-kups-a-marinovic-otkrio-na-kojeg-ga-protivnika-podsjecaju-finci/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T19:01+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdc73332d",
+   "sez": "mondo",
+   "titolo": "Duro attacco di Lagumdžija all'ONU contro la dirigenza serba: \"Mladić fu il boia della Bosnia, non un eroe\"",
+   "orig": "Lagumdžija žestoko odgovorio Srbiji pred Vijećem sigurnosti UN-a: \"Mladića će historija pamtiti kao kasapina Bosne, a oni ga slave kao heroja\"",
+   "lead": "Durante il suo intervento al Consiglio di sicurezza delle Nazioni Unite, l'ambasciatore della Bosnia-Esercizio Zlatko Lagumdžija ha criticato duramente l'attuale leadership della Serbia. Ha dichiarato che la storia ricorderà Ratko Mladić come il boia della Bosnia e non come un eroe celebrato. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/lagumdzija-zestoko-odgovorio-srbiji-pred-vijecem-sigurnosti-un-a-mladica-ce-historija-pamtiti-kao-kasapina-bosne-a-oni-ga-slave-kao-heroja/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T18:48+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf93155cb",
+   "sez": "mondo",
+   "titolo": "Riflettori sul clientelismo: il silenzio della Bosnia di fronte al malcontento giovanile in Europa",
+   "orig": "Novi dan: Jesmo li kao društvo potpuno kapitulirali pred klijentelizmom?",
+   "lead": "Mentre le città di tutta Europa assistono alle proteste di centinaia di migliaia di giovani che lottano per il diritto a una vita dignitosa, in Bosnia ed Erzegovina persiste un silenzio assoluto. L'editoriale interroga la società civile sulla presunta resa totale di fronte al clientelismo. Lo riferisce N1 Bosnia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/vijesti/novi-dan-jesmo-li-kao-drustvo-potpuno-kapitulirali-pred-klijentelizmom/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-10-21T18:47+02:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf6964e7a",
+   "sez": "mondo",
+   "titolo": "Iraq: le entrate doganali raggiungono un record storico nel mese di settembre",
+   "orig": "Iraq’s customs revenues hit record high in September",
+   "lead": "L'Autorità generale delle dogane dell'Iraq ha annunciato un incremento delle entrate superiore a 72 milioni di dollari registrato nel mese di settembre del 2026, rispetto allo stesso periodo dell'anno precedente, segnando un traguardo record per il bilancio statale. Lo riferisce Iraqi News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraqs-customs-revenues-hit-record-high-in-september/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-21T16:42+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf9f6969c",
+   "sez": "mondo",
+   "titolo": "Giordania: il Ministero dell'Interno rafforza i controlli sul commercio di oro e gioielli online",
+   "orig": "الداخلية تعلن تشديد الرقابة على تجارة الذهب والمجوهرات عبر مواقع التواصل الاجتماعي",
+   "lead": "Il Ministero dell'Interno giordano ha disposto un inasprimento della vigilanza e dei controlli sulle attività commerciali di oro e gioielli condotte attraverso le piattaforme di social media, per tutelare i consumatori e regolamentare il settore. Lo riferisce Roya News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/398246",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-21T20:39+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd7273a0a",
+   "sez": "mondo",
+   "titolo": "La principessa Dina Mired inserita tra le 100 donne più influenti nella lotta contro il cancro per il 2026",
+   "orig": "منصة OncoDaily تختار الأميرة دينا مرعد ضمن أكثر 100 امرأة تأثيرا في مكافحة السرطان لعام 2026",
+   "lead": "La piattaforma internazionale \"OncoDaily\" ha inserito nuovamente la principessa Dina Mired tra le cento donne più influenti al mondo nel campo della lotta contro il cancro per l'anno 2026, riconoscendo il suo costante impegno umanitario e medico. Lo riferisce Roya News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/398244",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-21T20:02+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf09c1428",
+   "sez": "mondo",
+   "titolo": "Mobilità ad Amman: il bus rapido raggiunge 170mila passeggeri giornalieri e risponde alla congestione",
+   "orig": "الباص السريع يسجل 170 ألف راكب يوميا ورؤية عمان تستجيب لاكتظاظ مسار جامعة البلقاء",
+   "lead": "I sistemi di trasporto pubblico ad alta capacità, tra cui il bus a transito rapido e i bus di Amman, hanno registrato un volume record di 170 mila passeggeri al giorno. Il municipio è intervenuto per decongestionare la tratta diretta all'Università Al-Balqa. Lo riferisce Roya News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Roya News",
+     "p": "XX",
+     "c": "Amman",
+     "u": "https://royanews.tv/news/398241",
+     "angolo": "",
+     "atlas": "Jordan",
+     "t": "2026-10-21T19:21+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8a9f8b51",
+   "sez": "mondo",
+   "titolo": "Yemen: l'esercito neutralizza 285 miliziani Houthi nelle ultime 24 ore",
+   "orig": "الجيش اليمني يعلن مقتل وإصابة 285 من الحوثيين خلال 24 ساعة",
+   "lead": "Le forze armate yemenite hanno condotto 835 operazioni mirate contro postazioni e movimenti dei ribelli Houthi nell'ambito dell'operazione \"Alba dello Yemen\". L'esercito ha dichiarato di aver neutralizzato circa 285 tra miliziani e comandanti in sole ventiquattro ore. Lo riferisce Yemen Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185482?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25a7%25d9%2584%25d8%25ac%25d9%258a%25d8%25b4-%25d8%25a7%25d9%2584%25d9%258a%25d9%2585%25d9%2586%25d9%258a-%25d9%258a%25d8%25b9%25d9%2584%25d9%2586-%25d9%2585%25d9%2582%25d8%25aa%25d9%2584-%25d9%2588%25d8%25a5%25d8%25b5%25d8%25a7%25d8%25a8%25d8%25a9-285-%25d9%2585%25d9%2586-%25d8%25a7%25d9%2584%25d8%25ad%25d9%2588",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-21T16:28+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5eb757fc",
+   "sez": "mondo",
+   "titolo": "Yemen, il capo del Consiglio presidenziale: \"I nostri cittadini conoscono il nemico e non dimenticano gli amici\"",
+   "orig": "رئيس مجلس القيادة: اليمنيون يعرفون عدوهم جيداً ولن ينسوا مواقف أصدقائهـم",
+   "lead": "Il presidente del Consiglio di comando presidenziale dello Yemen ha ribadito che il popolo yemenito sa riconoscere chiaramente i propri nemici e non dimenticherà il sostegno ricevuto dagli amici internazionali in questa fase cruciale, ricevendo le credenziali di diversi nuovi ambasciatori stranieri. Lo riferisce Yemen Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yemen Monitor",
+     "p": "XX",
+     "c": "Aden",
+     "u": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/185472?utm_source=rss&utm_medium=rss&utm_campaign=%25d8%25b1%25d8%25a6%25d9%258a%25d8%25b3-%25d9%2585%25d8%25ac%25d9%2584%25d8%25b3-%25d8%25a7%25d9%2584%25d9%2582%25d9%258a%25d8%25a7%25d8%25af%25d8%25a9-%25d8%25a7%25d9%2584%25d8%25b1%25d8%25a6%25d8%25a7%25d8%25b3%25d9%258a-%25d8%25a7%25d9%2584%25d9%258a%25d9%2585%25d9%2586%25d9%258a%25d9%2588%25d9%2586-%25d9%258a%25d8%25b9",
+     "angolo": "",
+     "atlas": "Yemen",
+     "t": "2026-10-21T15:53+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc7d3bee1",
+   "sez": "mondo",
+   "titolo": "Bahrein: il Ministro degli Esteri riceve le credenziali del nuovo ambasciatore dell'India",
+   "orig": "Foreign Minister Receives Credentials Copy of India’s New Ambassador",
+   "lead": "Il ministro degli Affari Esteri del Bahrein, Abdullatif bin Rashid Al Zayani, ha ricevuto una copia delle lettere credenziali del nuovo ambasciatore indiano, Pradeep Singh Rajpurohit. I due diplomatici hanno discusso il rafforzamento delle relazioni bilaterali. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/foreign-minister-receives-credentials-copy-of-indias-new-ambassador",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-21T17:31+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z870dca91",
+   "sez": "mondo",
+   "titolo": "India: Air India e IndiGo convocate per una revisione parlamentare",
+   "orig": "Air India, IndiGo Face Parliamentary Review",
+   "lead": "I vettori aerei Air India e IndiGo compariranno davanti a una commissione parlamentare indiana il prossimo 2 novembre. L'audizione rientra in un ciclo di verifiche sulle prestazioni delle aziende pubbliche e private operanti nel settore dell'aviazione civile. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/air-india-indigo-face-parliamentary-review",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-21T17:31+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z39404486",
+   "sez": "mondo",
+   "titolo": "Oman: arrestato un cittadino per aver promosso matrimoni con donne yemenite senza autorizzazione",
+   "orig": "Oman Detains Man Over Marriage Promotion",
+   "lead": "Le forze di polizia dell'Oman hanno arrestato un cittadino accusato di aver pubblicato sui social network un video promozionale per incentivare i matrimoni con donne yemenite in violazione delle normative vigenti e senza le necessarie autorizzazioni legali. Lo riferisce Daily Tribune (Bahrein).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/oman-detains-man-over-marriage-promotion",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-10-21T16:54+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcddac9a0",
+   "sez": "mondo",
+   "titolo": "Uzbekistan: Fergana e Kokand entrano nella Coalizione per la resilienza urbana dell'Asia centrale",
+   "orig": "Fergana, Kokand join Urban Resilience Coalition of Central Asia",
+   "lead": "Le città uzbeche di Fergana e Kokand sono entrate a far parte della Coalizione per la resilienza urbana dell'Asia centrale, portando a dieci i membri dell'alleanza. Le municipalità collaboreranno per migliorare la preparazione ai disastri naturali, con il supporto di UNDP, Giappone e GIZ. Lo riferisce Gazeta.uz (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/21/coalition/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T17:45+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z437bf51a",
+   "sez": "mondo",
+   "titolo": "Ucraina: oltre 20.400 cittadini dell'Asia centrale arruolati nell'esercito russo, il 40% dall'Uzbekistan",
+   "orig": "Over 20,400 Central Asians signed contracts with Russian army, 40% from Uzbekistan — Ukraine",
+   "lead": "Il progetto ucraino \"Voglio vivere\" ha identificato oltre 20.400 cittadini dell'Asia centrale che hanno firmato contratti con le forze armate russe per combattere in Ucraina. Il 40% di essi proviene dall'Uzbekistan, risultando tra i contingenti stranieri più consistenti catturati al fronte. Lo riferisce Gazeta.uz (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/10/21/ukraine-war/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T17:44+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd0207439",
+   "sez": "mondo",
+   "titolo": "Uzbekistan e Kirghizistan rafforzano la cooperazione sanitaria ed economica",
+   "orig": "Uzbekistan and Kyrgyzstan Seek to Expand Healthcare Cooperation",
+   "lead": "I rappresentanti di Uzbekistan e Kirghizistan si sono incontrati a Samarcanda per discutere l'espansione della collaborazione bilaterale nel settore medico, concentrandosi sulla formazione specialistica, sulle tecnologie di cura avanzate e sulla digitalizzazione dell'assistenza primaria. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-and-kyrgyzstan-seek-to-expand-healthcare-cooperation/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T22:15+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf16fe9f6",
+   "sez": "mondo",
+   "titolo": "Tashkent: attivate telecamere di sorveglianza lungo un tratto di 2,4 chilometri di via Lutfi",
+   "orig": "Tashkent Activates Traffic Cameras on 2.4-km Section of Lutfi Street",
+   "lead": "Le autorità di Tashkent hanno attivato nuovi dispositivi di controllo elettronico lungo un segmento di 2,4 chilometri di via Lutfi. Le telecamere monitoreranno il rispetto delle corsie riservate ai bus, alle biciclette e alla micromobilità urbana. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/tashkent-activates-traffic-cameras-on-24-km-section-of-lutfi-street/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T22:05+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z19aaba13",
+   "sez": "mondo",
+   "titolo": "Cooperazione internazionale e sanità: l'importanza di costruire competenze durature",
+   "orig": "From Agreements to Implementation: Building Lasting Healthcare Capacity Through International Cooperation",
+   "lead": "La cooperazione sanitaria internazionale offre l'opportunità di favorire lo scambio di conoscenze, sviluppare competenze professionali avanzate e migliorare l'organizzazione e l'efficienza delle istituzioni sanitarie. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/from-agreements-to-implementation-building-lasting-healthcare-capacity-through-international-cooperation/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T21:58+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zccee4c68",
+   "sez": "mondo",
+   "titolo": "La nuova Lunga Marcia della Cina: le sfide della modernizzazione e della transizione verde",
+   "orig": "China’s new Long March: Why its modernization is a demanding journey",
+   "lead": "In meno di otto decenni la Cina ha compiuto una trasformazione radicale, passando da una situazione di carenze alimentari e scarsa capacità industriale a una superpotenza commerciale globale, leader nell'innovazione tecnologica e nella transizione ecologica. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/chinas-new-long-march-why-its-modernization-is-a-demanding-journey/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T21:55+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0739ac13",
+   "sez": "mondo",
+   "titolo": "Asia-Pacifico: progressi nella lotta alla povertà ma restano sfide aperte per l'empowerment",
+   "orig": "Progress achieved, promise unfulfilled: Eradicating poverty and empowering people in Asia and the Pacific",
+   "lead": "I Paesi della regione Asia-Pacifico hanno registrato notevoli progressi negli ultimi trent'anni nel contrastare la povertà attraverso la combinazione di crescita economica, programmi statali e iniziative comunitarie, sebbene permangano obiettivi da raggiungere. Lo riferisce UzDaily.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/progress-achieved-promise-unfulfilled-eradicating-poverty-and-empowering-people-in-asia-and-the-pacific/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T21:44+05:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z58eaac28",
+   "sez": "mondo",
+   "titolo": "Baghdad: \"L'Iraq non permetterà minacce ai Paesi vicini\", smentita la presenza di basi Houthi",
+   "orig": "Baghdad Will Not Let Iraq Threaten Neighbors, Spokesman Says",
+   "lead": "Il portavoce del governo iracheno Haidar Al-Aboudi ha dichiarato che Baghdad non consentirà che il proprio territorio venga utilizzato per minacciare i vicini. Ha inoltre chiarito che la chiusura del valico di Al-Sheeb con l'Iran è dovuta a lavori tecnici, smentendo la presenza di quartier generali Houthi in Iraq. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947718/baghdad-will-not-let-iraq-threaten-neighbors-spokesman-says",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-21T20:50+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaf192427",
+   "sez": "mondo",
+   "titolo": "Kurdistan iracheno: alti funzionari del KDP registrano progressi nei rapporti con l'Unione Patriottica",
+   "orig": "Top KDP Official Notes Progress in Relations With PUK",
+   "lead": "Un alto esponente del Partito Democratico del Kurdistan (KDP) ha espresso rammarico per il mancato accordo sulla formazione del nuovo governo regionale, pur evidenziando i progressi positivi compiuti nelle relazioni istituzionali con l'Unione Patriottica del Kurdistan (PUK). Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947717/top-kdp-official-notes-progress-in-relations-with-puk",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-21T20:43+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z429f14f8",
+   "sez": "mondo",
+   "titolo": "Kurdistan iracheno: avviata la riforma della polizia in collaborazione con lo sviluppo delle Nazioni Unite",
+   "orig": "Kurdistan Region Police Reform Begins With UN Development Partnership",
+   "lead": "Hemin Mirani, funzionario del Ministero dell'Interno della Regione del Kurdistan, ha annunciato l'avvio del programma di riforma della polizia insieme al Programma di sviluppo dell'ONU, che partirà da quattro stazioni modello per estendersi poi alla polizia stradale e alla protezione civile. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/947711/kurdistan-region-police-reform-begins-with-un-development-partnership",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-10-21T20:20+03:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z34b0e4e0",
+   "sez": "mondo",
+   "titolo": "Uzbekistan: l'agenzia Uzatom ottiene la certificazione internazionale anti-corruzione",
+   "orig": "Uzbekistan's Uzatom Agency receives anti-bribery certification",
+   "lead": "L'agenzia uzbeca Uzatom ha conseguito la certificazione ISO 37001:2025 in seguito agli audit condotti da CERT International tra luglio e ottobre 2026. Il riconoscimento attesta la conformità agli standard internazionali di gestione e prevenzione della corruzione. Lo riferisce Daryo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/10/21/uzbekistans-uzatom-agency-receives-anti-bribery-certification/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-10-21T18:00+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2f95d99d",
+   "sez": "mondo",
+   "titolo": "Ghana: l'Autorità nazionale del petrolio garantisce standard elevati per i prodotti energetici",
+   "orig": "NPA committed to ensuring quality petroleum product for consumers - Edudzi Tameklo",
+   "lead": "La National Petroleum Authority (NPA) del Ghana ha ribadito il proprio impegno nel garantire che tutti i prodotti petroliferi immessi sul mercato rispettino i requisiti di qualità previsti, attraverso controlli capillari estesi all'intera catena di fornitura. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/npa-committed-to-ensuring-quality-petroleum-product-for-consumers-edudzi-tameklo",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-21T16:33+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7a15a061",
+   "sez": "mondo",
+   "titolo": "Ghana: analisti indicano il giudice Justice Senyo Dzamefe come prossimo capo della giustizia",
+   "orig": "Analyst tips Justice Dzamefe to be next Chief Justice",
+   "lead": "Secondo le valutazioni di diversi esperti e analisti legali ghanesi, il giudice Justice Senyo Dzamefe rappresenta il profilo più idoneo, competente ed equo per assumere la carica di prossimo presidente della Corte Suprema del Ghana. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/news/analyst-tips-justice-dzamefe-to-be-next-chief-justice",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-21T16:32+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "za3ecf982",
+   "sez": "mondo",
+   "titolo": "Ghana: le polemiche all'Obuasi SHTS riaprono il dibattito sulla governance scolastica e la sicurezza",
+   "orig": "When safeguarding fails: The Obuasi SHTS allegations and the crisis of school governance in Ghana",
+   "lead": "A seguito delle recenti accuse sollevate nei confronti dell'istituto Obuasi SHTS, gli osservatori sottolineano come il ruolo delle scuole vada ben oltre l'istruzione accademica, ricordando l'importanza primaria di tutelare la sicurezza, il benessere e lo sviluppo degli studenti. Lo riferisce 3News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/opinion/when-safeguarding-fails-the-obuasi-shts-allegations-and-the-crisis-of-school-governance-in-ghana",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-10-21T15:35+00:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdb9e36b7",
+   "sez": "mondo",
+   "titolo": "Bishkek, minacce alla sicurezza: tre giorni a un'impresa edile per risolvere i problemi",
+   "orig": "Угроза безопасности. В Бишкеке стройкомпании дали 3 дня на устранение неполадок",
+   "lead": "A Bishkek, l'amministrazione cittadina del Dipartimento statale di controllo architettonico e edile ha concesso tre giorni a un'azienda costruttrice per eliminare le irregolarità riscontrate durante un'ispezione in un cantiere situato in una via della città. Lo riferisce 24.kg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "24.kg",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://24.kg/article/ugroza-bezopasnosti-v-bishkeke-strojkompanii-dali-3-dnya-na-ustranenie-nepoladok",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-21T23:00+06:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z165a7eaf",
+   "sez": "mondo",
+   "titolo": "Kirghizistan: al via la seconda fase del progetto «Gabinetto aperto»",
+   "orig": "В Кыргызстане стартует второй этап проекта «Открытый кабинет»",
+   "lead": "In Kirghizistan prende il via la seconda fase del progetto denominato «Gabinetto aperto: territorio di responsabilità», un'iniziativa istituzionale ideata per incrementare la trasparenza e la pubblicità dell'operato degli organi governativi. Lo riferisce 24.kg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "24.kg",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://24.kg/article/v-kyrgyzstane-startuet-vtoroj-etap-proekta-otkrytyj-kabinet",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-21T22:42+06:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
+   "id": "z79c08369",
+   "sez": "mondo",
+   "titolo": "Kirghizistan, il digest serale: i fatti principali del 21 ottobre",
+   "orig": "Вечерний дайджест: основные события 21 октября в Кыргызстане",
+   "lead": "La redazione del portale kirghiso 24.kg ha pubblicato il riepilogo informativo con i principali eventi e i risultati più rilevanti emersi nella giornata di martedì 21 ottobre nel Paese. Lo riferisce 24.kg.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "24.kg",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://24.kg/article/vechernij-dajdzhest-osnovnye-sobytiya-21-oktyabrya-v-kyrgyzstane",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-10-21T22:00+06:00"
+    }
+   ],
+   "data": "21 ott",
+   "ora": "20:19",
+   "uscita": "sera"
+  },
+  {
    "id": "z928c8de7",
    "sez": "mondo",
    "titolo": "Il presidente Mirziyoyev avvia nuovi progetti industriali ed energetici nella regione di Kashkadarya",
@@ -169,6 +1723,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-10-21T18:51+02:00"
+    },
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/czech-communist-leader-joins-far-right-eu-political-grouping",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-21T17:35+02:00"
     }
    ],
    "data": "21 ott",
@@ -2949,6 +4512,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-10-22T01:06+08:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/samiti-i-be-se-ne-nentor-ne-fokus-ndihma-financiare-prej-70-miliarde-eurosh-te-ukraines/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-21T17:46+00:00"
     }
    ],
    "data": "21 ott",
@@ -3977,6 +5549,23 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Suriname",
      "t": "2026-10-21T12:55+00:00"
+    },
+    {
+     "n": "Euronews Albania",
+     "p": "XX",
+     "c": "Tirana",
+     "u": "https://euronews.al/putin-pranon-rifillimin-e-negociatave-trepaleshe-per-ukrainen/",
+     "angolo": "",
+     "atlas": "Albania",
+     "t": "2026-10-21T17:16+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/video/2026/10/21/ucraina-cremlino-negoziati-trilaterali-da-meta-novembre-1133451",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "21 ott",
@@ -6713,7 +8302,77 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zd6b5ad95": "Il settimanale regionale analizza le implicazioni geopolitiche della politica estera turca nel Corno d'Africa.",
   "ze1604a04": "L'emittente online monitora le promesse economiche del governo e l'impatto delle politiche fiscali sui contribuenti.",
   "z0833909b": "La testata keniota riporta la notizia di cronaca giudiziaria relativa alle operazioni di sicurezza antiterrorismo.",
-  "z576fb8f5": "Il portale keniota dà spazio all'innovazione finanziaria e alla crescita internazionale delle aziende tecnologiche africane."
+  "z576fb8f5": "Il portale keniota dà spazio all'innovazione finanziaria e alla crescita internazionale delle aziende tecnologiche africane.",
+  "z9ca4c919": "Cronaca politica incentrata sulla trasparenza elettorale e sulle richieste dei partiti locali in India.",
+  "z05e789f3": "Notizia di giustizia amministrativa e patrimoniale relativa a una controversia fondiaria in India.",
+  "zb0474023": "Cronaca locale e amministrativa incentrata sui preparativi e sulla logistica della competizione elettorale municipale.",
+  "z7c1806c1": "Aggiornamento giudiziario e politico sulle misure restrittive applicate ai familiari dell'opposizione in Pakistan.",
+  "za9b9fead": "Resoconto di politica estera e diplomatica incentrato sugli spostamenti internazionali dei leader politici nepalesi.",
+  "z1b91a972": "Analisi delle politiche migratorie federali statunitensi e delle relative polemiche legali e sociali.",
+  "zdac252d7": "Cronaca istituzionale e tradizionale legata alle festività religiose nazionali nepalesi.",
+  "zfb39c287": "Notizia di servizio pubblico e viabilità urbana legata a grandi eventi internazionali nelle Filippine.",
+  "z950486fe": "Cronaca giudiziaria e geopolitica incentrata sulla cooperazione di sicurezza transfrontaliera tra Messico e Stati Uniti.",
+  "zfbeb432f": "Cronaca giudiziaria e politica interna israeliana riguardante esponenti del governo.",
+  "z4fc306bd": "Approfondimento etico sui media e sui conflitti d'interesse nel giornalismo investigativo in Israele.",
+  "z7b47fc45": "Tensioni geopolitiche e militari nel Golfo Persico con dichiarazioni ufficiali di vertice militare iraniano.",
+  "z13d4b293": "Dichiarazioni di politica estera e commerciale del presidente iraniano sul fronte delle sanzioni internazionali.",
+  "za96842f7": "Inchiesta sociale e sanitaria sui servizi di supporto medico negli istituti scolastici australiani.",
+  "z72873b3d": "Approfondimento ambientale ed economico sulle politiche di gestione dei rifiuti e sull'agricoltura sostenibile in Australia.",
+  "za235bca9": "Servizio di costume e tradizioni popolari sulle festività religiose in India.",
+  "z32eff5a0": "Riconoscimento internazionale per il giornalismo d'inchiesta europeo sulle politiche migratorie.",
+  "z2bf92ddc": "Aneddoto di cronaca calcistica e precauzioni sanitarie in ambito internazionale.",
+  "z9e1d9cb9": "Commento istituzionale e politico di ampio respiro sui temi della sovranità digitale e della democrazia.",
+  "zb03644f7": "Segnalazione di eventi culturali e dibattito politico editoriale in Italia.",
+  "zbfe399c2": "Cronaca interna del mondo dell'informazione radiotelevisiva italiana e nomine aziendali.",
+  "zb6e01e8b": "Analisi delle dinamiche politiche interne marocchine e del posizionamento dei partiti in Parlamento.",
+  "zf0a1aa56": "Attenzione rivolta ai problemi strutturali del sistema scolastico pubblico cipriota.",
+  "z2e64b421": "Focus sulle prospettive politiche future e sul dibattito intorno alla divisione di Cipro.",
+  "z219ec648": "Cronaca politica locale orientata ai preparativi elettorali nel Pacifico meridionale.",
+  "z6ce2165d": "Attenzione puntata sugli investimenti infrastrutturali e sui trasporti a livello nazionale.",
+  "z1afde23c": "Monitoraggio delle istituzioni democratiche e del dibattito legale in Namibia.",
+  "z2e69b498": "Bollettino meteorologico e allerta climatica per la popolazione locale.",
+  "z04547b2c": "Approfondimento sulle strategie di sviluppo economico e territoriale a lungo termine.",
+  "zbf611fdf": "Attenzione focalizzata sulla legalità, sulla governance locale e sulla tutela dei diritti dei minori.",
+  "zd836c83b": "Cronaca giudiziaria incentrata sulla lotta alla corruzione e sulla trasparenza nei concorsi pubblici.",
+  "z23d1d6ad": "Attenzione sulle vicende giudiziarie che coinvolgono attivisti ed esponenti della società civile.",
+  "zd1f2a60b": "Analisi delle falle amministrative e di sicurezza all'interno delle istituzioni del Granducato.",
+  "z82e65f94": "Notizia curiosa di carattere scientifico e ambientale legata al monitoraggio meteorologico.",
+  "zea513080": "Racconto di una scoperta storica e di cimeli aeronautici.",
+  "zf7f3f891": "Focus sulla cooperazione bilaterale e sullo sviluppo dei trasporti aerei nei Balcani.",
+  "zfaa49e81": "Punto di vista europeo sui requisiti di sicurezza e le politiche di naturalizzazione nei Paesi candidati.",
+  "z9c885660": "Rapporto sulle decisioni disciplinari della federazione calcistica internazionale contro le discriminazioni.",
+  "zc7ba214f": "Analisi delle tensioni geopolitiche tra Bruxelles e Mosca sull'area balcanica.",
+  "zcfb64578": "La testata evidenzia il clima di tensione e le proteste popolari che accompagnano gli eventi politici dei leader.",
+  "zfd3aff1e": "La testata sportiva sottolinea la clamorosa e fulminea partenza della squadra italiana nella competizione europea.",
+  "z1aeb32d4": "La notizia si concentra sulle dichiarazioni della vigilia del tecnico in vista dell'impegno europeo.",
+  "zdc73332d": "La testata mette in risalto il duro scontro diplomatico consumatosi nel palazzo di vetro delle Nazioni Unite.",
+  "zf93155cb": "La testata adotta un tono di profonda analisi sociologica e critica sulla situazione politica ed economica interna.",
+  "zf6964e7a": "La testata economica focalizza l'attenzione sui dati finanziari positivi diffusi dalle autorità governative.",
+  "zf9f6969c": "La testata segue con attenzione le nuove disposizioni di sicurezza e regolamentazione del commercio digitale.",
+  "zd7273a0a": "La testata celebra il prestigioso riconoscimento internazionale ottenuto da un membro della famiglia reale.",
+  "zf09c1428": "L'articolo evidenzia l'efficacia e la crescente popolarità dei nuovi servizi di trasporto urbano.",
+  "z8a9f8b51": "La testata fornisce aggiornamenti regolari sull'andamento delle operazioni militari e sugli scontri nel Paese.",
+  "z5eb757fc": "La testata sottolinea i rapporti diplomatici del governo yemenito sullo scenario internazionale.",
+  "zc7d3bee1": "La testata privilegia le notizie di diplomazia istituzionale e cooperazione regionale.",
+  "z870dca91": "L'articolo monitora i controlli istituzionali sulle grandi compagnie di trasporto aereo.",
+  "z39404486": "La testata riporta le azioni delle forze dell'ordine contro la violazione delle leggi sui social media.",
+  "zcddac9a0": "La testata evidenzia i progetti di sviluppo sostenibile e cooperazione internazionale nell'area centroasiatica.",
+  "z437bf51a": "Il giornale approfondisce i dati relativi al reclutamento di mercenari stranieri nel conflitto in corso.",
+  "zd0207439": "La testata segue con interesse i tavoli di cooperazione bilaterale tra i Paesi dell'area.",
+  "zf16fe9f6": "La testata locale documenta le innovazioni tecnologiche per la gestione del traffico cittadino.",
+  "z19aaba13": "L'editoriale analizza i benefici strategici della condivisione di competenze mediche globali.",
+  "zccee4c68": "L'articolo offre un'ampia riflessione geopolitica ed economica sulla crescita della potenza asiatica.",
+  "z0739ac13": "La testata esamina i rapporti internazionali sullo sviluppo socio-economico regionale.",
+  "z58eaac28": "La testata pone l'accento sulla politica estera irachena e sulla smentita delle tensioni regionali.",
+  "zaf192427": "La testata locale segue le dinamiche politiche interne alla regione autonoma del Kurdistan.",
+  "z429f14f8": "Il giornale evidenzia i progetti di modernizzazione e riforma amministrativa nella regione.",
+  "z34b0e4e0": "La testata economica e finanziaria sottolinea la trasparenza e la conformità normativa delle agenzie governative.",
+  "z2f95d99d": "La testata pone l'accento sulla tutela dei consumatori e sui controlli energetici nazionali.",
+  "z7a15a061": "L'articolo riflette sul dibattito politico e giudiziario relativo alle nomine istituzionali di vertice nel Paese.",
+  "za3ecf982": "La testata stimola il dibattito pubblico sulla gestione e sulla sicurezza all'interno delle istituzioni scolastiche.",
+  "zdb9e36b7": "L'articolo adotta una prospettiva locale, incentrata sui controlli di sicurezza urbana e sulla gestione dei cantieri edili nella capitale del Kirghizistan.",
+  "z165a7eaf": "La testata monitora le riforme istituzionali e le iniziative volte a migliorare la trasparenza amministrativa nel Paese.",
+  "z79c08369": "Il media adotta un formato di rassegna giornaliera per riassumere i temi di maggiore interesse nazionale per i propri lettori."
  },
  "contesti": {
   "z0bfa9144": "Nei giorni scorsi l'episodio ha scosso il mondo politico australiano, spingendo i vertici della polizia federale a condannare fermamente l'accaduto e a denunciare un clima politico particolarmente teso e ostile nei confronti delle istituzioni.",
@@ -8746,6 +10405,531 @@ window.EDIZIONI["2026-10-21-sera"] = {
     "Kenya"
    ],
    "pt": []
+  },
+  "z9ca4c919": {
+   "n": "Andhra Pradesh",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z05e789f3": {
+   "n": "Patna",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zb0474023": {
+   "n": "Guntur",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z7c1806c1": {
+   "n": "Lahore",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "za9b9fead": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal",
+    "China"
+   ],
+   "pt": []
+  },
+  "z1b91a972": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdac252d7": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "zfb39c287": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z950486fe": {
+   "n": "Mexico City",
+   "p": [
+    "Mexico",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zfbeb432f": {
+   "n": "Tel Aviv",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z4fc306bd": {
+   "n": "Tel Aviv",
+   "p": [
+    "Israel",
+    "Qatar"
+   ],
+   "pt": []
+  },
+  "z7b47fc45": {
+   "n": "Tehran",
+   "p": [
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z13d4b293": {
+   "n": "Tehran",
+   "p": [
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za96842f7": {
+   "n": "Perth",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z72873b3d": {
+   "n": "Sydney",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "za235bca9": {
+   "n": "New Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z32eff5a0": {
+   "n": "Brussels",
+   "p": [
+    "Italy",
+    "Albania",
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z2bf92ddc": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z9e1d9cb9": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb03644f7": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbfe399c2": {
+   "n": "Rome",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb6e01e8b": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "zf0a1aa56": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z2e64b421": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus",
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z219ec648": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z6ce2165d": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z1afde23c": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z2e69b498": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z04547b2c": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "zbf611fdf": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "zd836c83b": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "z23d1d6ad": {
+   "n": "Lilongwe",
+   "p": [
+    "Malawi"
+   ],
+   "pt": []
+  },
+  "zd1f2a60b": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "z82e65f94": {
+   "n": "Wellington",
+   "p": [
+    "Australia",
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zea513080": {
+   "n": "Wellington",
+   "p": [
+    "United Kingdom",
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zf7f3f891": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz.",
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zfaa49e81": {
+   "n": "Tirana",
+   "p": [
+    "Serbia",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z9c885660": {
+   "n": "Tirana",
+   "p": [
+    "Spain",
+    "Egypt",
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zc7ba214f": {
+   "n": "Tirana",
+   "p": [
+    "Russia",
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zcfb64578": {
+   "n": "Niš",
+   "p": [
+    "Serbia",
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "zfd3aff1e": {
+   "n": "Manchester",
+   "p": [
+    "United Kingdom",
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z1aeb32d4": {
+   "n": "Banja Luka",
+   "p": [
+    "Bosnia and Herz.",
+    "Finland"
+   ],
+   "pt": []
+  },
+  "zdc73332d": {
+   "n": "New York",
+   "p": [
+    "United States of America",
+    "Bosnia and Herz.",
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "zf93155cb": {
+   "n": "Sarajevo",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "zf6964e7a": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "zf9f6969c": {
+   "n": "Amman",
+   "p": [
+    "Jordan"
+   ],
+   "pt": []
+  },
+  "zd7273a0a": {
+   "n": "Amman",
+   "p": [
+    "Jordan"
+   ],
+   "pt": []
+  },
+  "zf09c1428": {
+   "n": "Amman",
+   "p": [
+    "Jordan"
+   ],
+   "pt": []
+  },
+  "z8a9f8b51": {
+   "n": "Aden",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z5eb757fc": {
+   "n": "Aden",
+   "p": [
+    "Yemen",
+    "Czechia",
+    "Philippines",
+    "Spain",
+    "Nigeria",
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zc7d3bee1": {
+   "n": "Manama",
+   "p": [
+    "Bahrain",
+    "India"
+   ],
+   "pt": []
+  },
+  "z870dca91": {
+   "n": "New Delhi",
+   "p": [
+    "India",
+    "Bahrain"
+   ],
+   "pt": []
+  },
+  "z39404486": {
+   "n": "Muscat",
+   "p": [
+    "Oman",
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "zcddac9a0": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan",
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z437bf51a": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan",
+    "Russia",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zd0207439": {
+   "n": "Samarkand",
+   "p": [
+    "Uzbekistan",
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "zf16fe9f6": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z19aaba13": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zccee4c68": {
+   "n": "Beijing",
+   "p": [
+    "China",
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z0739ac13": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z58eaac28": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq",
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zaf192427": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z429f14f8": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z34b0e4e0": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z2f95d99d": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z7a15a061": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "za3ecf982": {
+   "n": "Obuasi",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "zdb9e36b7": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z165a7eaf": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z79c08369": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -8857,7 +11041,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "ze281bc0f": 1,
   "z0b3cc6c7": 1,
   "zcda2e48d": 1,
-  "zcf7271d2": 1,
+  "zcf7271d2": 2,
   "z71494b05": 1,
   "zc2f8f491": 1,
   "z16cff971": 1,
@@ -8983,7 +11167,77 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zd6b5ad95": 1,
   "ze1604a04": 1,
   "z0833909b": 1,
-  "z576fb8f5": 1
+  "z576fb8f5": 1,
+  "z9ca4c919": 1,
+  "z05e789f3": 1,
+  "zb0474023": 1,
+  "z7c1806c1": 1,
+  "za9b9fead": 1,
+  "z1b91a972": 2,
+  "zdac252d7": 1,
+  "zfb39c287": 1,
+  "z950486fe": 1,
+  "zfbeb432f": 1,
+  "z4fc306bd": 1,
+  "z7b47fc45": 1,
+  "z13d4b293": 1,
+  "za96842f7": 1,
+  "z72873b3d": 1,
+  "za235bca9": 1,
+  "z32eff5a0": 1,
+  "z2bf92ddc": 1,
+  "z9e1d9cb9": 1,
+  "zb03644f7": 1,
+  "zbfe399c2": 1,
+  "zb6e01e8b": 1,
+  "zf0a1aa56": 1,
+  "z2e64b421": 1,
+  "z219ec648": 1,
+  "z6ce2165d": 1,
+  "z1afde23c": 1,
+  "z2e69b498": 1,
+  "z04547b2c": 1,
+  "zbf611fdf": 1,
+  "zd836c83b": 1,
+  "z23d1d6ad": 1,
+  "zd1f2a60b": 1,
+  "z82e65f94": 1,
+  "zea513080": 1,
+  "zf7f3f891": 1,
+  "zfaa49e81": 1,
+  "z9c885660": 1,
+  "zc7ba214f": 1,
+  "zcfb64578": 1,
+  "zfd3aff1e": 1,
+  "z1aeb32d4": 1,
+  "zdc73332d": 1,
+  "zf93155cb": 1,
+  "zf6964e7a": 1,
+  "zf9f6969c": 1,
+  "zd7273a0a": 1,
+  "zf09c1428": 1,
+  "z8a9f8b51": 1,
+  "z5eb757fc": 1,
+  "zc7d3bee1": 1,
+  "z870dca91": 1,
+  "z39404486": 1,
+  "zcddac9a0": 1,
+  "z437bf51a": 1,
+  "zd0207439": 1,
+  "zf16fe9f6": 1,
+  "z19aaba13": 1,
+  "zccee4c68": 1,
+  "z0739ac13": 1,
+  "z58eaac28": 1,
+  "zaf192427": 1,
+  "z429f14f8": 1,
+  "z34b0e4e0": 1,
+  "z2f95d99d": 1,
+  "z7a15a061": 1,
+  "za3ecf982": 1,
+  "zdb9e36b7": 1,
+  "z165a7eaf": 1,
+  "z79c08369": 1
  },
  "video": {},
  "pillole": []
