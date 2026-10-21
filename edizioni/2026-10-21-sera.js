@@ -981,54 +981,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zf34531cb",
-   "sez": "mondo",
-   "titolo": "Russia disponibile a negoziati con Ucraina mediati da USA",
-   "orig": "La Russia ha detto di essere disposta a nuovi colloqui con l’Ucraina mediati dagli Stati Uniti: i più recenti risalgono a febbraio",
-   "lead": "La Russia ha dichiarato la disponibilità a riprendere negoziati con l'Ucraina con mediazione degli Stati Uniti, dopo che gli ultimi colloqui risalgono a febbraio 2026. Lo riferisce Il Post.",
-   "more": [
-    "I negoziati tra Russia e Ucraina rimangono al centro della diplomazia internazionale, con il coinvolgimento degli USA come potenziale mediatore."
-   ],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/21/russia-disposta-nuovi-colloqui-ucraina/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-21T16:43+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:39",
-   "uscita": "sera"
-  },
-  {
-   "id": "z329e3c68",
-   "sez": "tech",
-   "titolo": "Scoperte due falle critiche in linguaggio usato dal 70% dei siti web",
-   "orig": "Sono state trovate due falle di sicurezza in un linguaggio di programmazione usato dal 70 per cento dei siti web",
-   "lead": "Sono state scoperte due vulnerabilità di sicurezza critiche in un linguaggio di programmazione utilizzato dal 70 per cento dei siti web, mettendo potenzialmente a rischio milioni di server e applicazioni globali. Lo riferisce Il Post.",
-   "more": [
-    "Le vulnerabilità nei linguaggi ampiamente utilizzati come PHP rappresentano rischi sistemici per l'infrastruttura informatica mondiale."
-   ],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/21/internet-siti-offline-difetti-linguaggio-programmazione-php/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-21T15:57+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:39",
-   "uscita": "sera"
-  },
-  {
    "id": "z38f6b40c",
    "sez": "mondo",
    "titolo": "Discussione su AGOA, commercio e autonomia economica africana",
@@ -1130,52 +1082,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "p": "XX",
      "c": "Seul",
      "u": "https://www.hani.co.kr/arti/area/yeongnam/1283561.html",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "20:39",
-   "uscita": "sera"
-  },
-  {
-   "id": "za0bdd537",
-   "sez": "mondo",
-   "titolo": "Corea del Nord completa fortificazioni e minaccia artiglieria sulla DMZ",
-   "orig": "북, 요새화 완성·DMZ 포병대 배치 엄포…남북 ‘강 대 강’ 우려",
-   "lead": "Corea del Nord ha completato le fortificazioni sulla Zona Demilitarizzata minacciando lo schieramento di artiglieria pesante. Le mosse nordcoreane alimentano i rischi di escalation e acuiscono i timori di scontro diretto tra i due paesi. Lo riferisce The Hankyoreh.",
-   "more": [
-    "La DMZ rimane una delle zone più militarizzate al mondo, separando i due paesi dal 1953. La crescente militarizzazione da entrambi i lati riflette le persistenti tensioni geopolitiche sulla penisola coreana."
-   ],
-   "fonti": [
-    {
-     "n": "The Hankyoreh",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.hani.co.kr/arti/politics/defense/1283559.html",
-     "angolo": "",
-     "atlas": "South Korea"
-    }
-   ],
-   "data": "",
-   "ora": "20:39",
-   "uscita": "sera"
-  },
-  {
-   "id": "zaa8ecbec",
-   "sez": "mondo",
-   "titolo": "Kim Yo-jong minaccia di attivare altoparlanti verso il Sud entro il mese",
-   "orig": "김여정, MDL 시찰 뒤 “이달 중 대남확성기 전 국경서 가동”",
-   "lead": "Kim Yo-jong, sorella del leader supremo nordcoreano, ha minacciato di attivare gli altoparlanti di propaganda verso la Corea del Sud entro fine mese, dopo un'ispezione sulla Linea di Demarcazione Militare. L'escalation verbale riflette crescenti tensioni bilaterali. Lo riferisce The Hankyoreh.",
-   "more": [
-    "Gli altoparlanti ai confini sono stati a lungo strumento di propaganda tra i due stati. La loro riattivazione rappresenta un'escalation nelle tattiche di conflitto ibrido sulla penisola."
-   ],
-   "fonti": [
-    {
-     "n": "The Hankyoreh",
-     "p": "XX",
-     "c": "Seul",
-     "u": "https://www.hani.co.kr/arti/politics/defense/1283558.html",
      "angolo": "",
      "atlas": "South Korea"
     }
@@ -1297,6 +1203,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866402",
      "angolo": "",
      "atlas": "Taiwan"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-21T16:13+00:00"
     }
    ],
    "data": "",
@@ -1360,27 +1275,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "p": "XX",
      "c": "Taipei",
      "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866405",
-     "angolo": "",
-     "atlas": "Taiwan"
-    }
-   ],
-   "data": "",
-   "ora": "20:39",
-   "uscita": "sera"
-  },
-  {
-   "id": "zb909a27b",
-   "sez": "mondo",
-   "titolo": "Inviato Trump chiede a Putin di riprendere negoziati trilaterali",
-   "orig": "Trump envoy asks Putin to resume 3-way talks",
-   "lead": "Un inviato dell'amministrazione Trump ha chiesto al presidente russo Vladimir Putin di riprendere urgentemente i negoziati trilaterali, in un tentativo di riapertura del dialogo diplomatico tra le potenze. Il gesto rappresenta una possibile ricalibrazione della diplomazia americana. Lo riferisce Taipei Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Taipei Times",
-     "p": "XX",
-     "c": "Taipei",
-     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866406",
      "angolo": "",
      "atlas": "Taiwan"
     }
@@ -1680,7 +1574,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "z0fc30140",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Bahamas, 36 atlete ai campionati CARIFTA di ginnastica artistica",
    "orig": "CARIFTA Artistic Gymnastic Championships &#x27;must see event&#x27;",
    "lead": "La squadra bahamese schiera 36 ginnaste ai campionati di ginnastica artistica CARIFTA 2026, con cinque giovani che portano la bandiera nazionale. Lo riferisce The Tribune.",
@@ -2089,28 +1983,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zf2dcdc85",
-   "sez": "mondo",
-   "titolo": "Francia: piano di sicurezza rinforzato per il fine settimana",
-   "orig": "Déploiement des forces Sentinelle, amélioration de la mobilité des policiers… Ce que l’on sait du dispositif policier de ce week-end",
-   "lead": "Per evitare una ripetizione degli episodi del 17 ottobre, il ministero dell'Interno francese potenzia il dispositivo di sicurezza del fine settimana con il dispiegamento delle forze Sentinelle, migliore mobilità dei poliziotti e rafforzamento delle unità di intervento specializzate. Lo riferisce Le Figaro.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/actualite-france/deploiement-des-forces-sentinelle-amelioration-de-la-mobilite-des-policiers-ce-que-l-on-sait-du-dispositif-policier-de-ce-week-end-20261021",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-10-21T17:44+02:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:34",
-   "uscita": "sera"
-  },
-  {
    "id": "za571849e",
    "sez": "mondo",
    "titolo": "Parigi: manifestazione annunciata per sabato 24 ottobre",
@@ -2126,6 +1998,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-10-21T19:15+02:00"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-france-protests-weekend-riots-yellow-vests/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-21T12:00+00:00"
     }
    ],
    "data": "21 ott",
@@ -2484,6 +2365,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-10-21T15:30+00:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-21T11:01+00:00"
     }
    ],
    "data": "21 ott",
@@ -2723,30 +2613,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zfdae83e9",
-   "sez": "spazio",
-   "titolo": "Scoperta: particella trascurata potrebbe spiegare l'origine dell'universo",
-   "orig": "Descubren que una partícula ignorada durante décadas pudo haber dado origen al universo tal como lo conocemos",
-   "lead": "Scienziati hanno individuato una particella subatomica ignorata per decenni che avrebbe potuto determinare il destino dell'universo. La scoperta chiarisce perché la materia ha prevalso sull'antimateria nel Big Bang, risolvendo un mistero fondamentale della cosmologia. Lo riferisce Clarín.",
-   "more": [
-    "La particella rivela il meccanismo fisico dell'asimmetria materia-antimateria, questione centrale nella cosmologia teorica moderna."
-   ],
-   "fonti": [
-    {
-     "n": "Clarín",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.clarin.com/internacional/descubren-particula-ignorada-decadas-pudo-dado-origen-universo-conocemos_0_q5y8gmrz9w.html",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-10-21T17:25+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:34",
-   "uscita": "sera"
-  },
-  {
    "id": "zaf0025d9",
    "sez": "mondo",
    "titolo": "Adéla, la star slovacca di 22 anni scoperta grazie a una canzone per Nicole Kidman",
@@ -2786,30 +2652,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Argentina",
      "t": "2026-10-21T17:23+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:34",
-   "uscita": "sera"
-  },
-  {
-   "id": "zfd25543f",
-   "sez": "tech",
-   "titolo": "Falla critica di sicurezza: governi europei scollegano siti web preventivamente",
-   "orig": "Ciberataques: agencias internacionales y gobiernos instan a dar de baja sitios web por errores que pasaron desapercibidos por más de diez años",
-   "lead": "Un'intelligenza artificiale ha scoperto due vulnerabilità critiche nel linguaggio di programmazione PHP, che alimenta gran parte del web mondiale. Finlandia e Paesi Bassi hanno scollegato preventivamente i loro portali ufficiali. Lo riferisce Clarín.",
-   "more": [
-    "Le falle erano rimaste inosservate per oltre dieci anni. Altre organizzazioni internazionali come Wikimedia hanno disattivato sistemi per applicare patch di sicurezza."
-   ],
-   "fonti": [
-    {
-     "n": "Clarín",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.clarin.com/mundo/ciberataques-agencias-internacionales-gobiernos-instan-dar-baja-sitios-web-errores-pasaron-desapercibidos-anos_0_NpLSPnIoSS.html",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-10-21T17:21+00:00"
     }
    ],
    "data": "21 ott",
@@ -2862,7 +2704,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "zea242cbd",
-   "sez": "mondo",
+   "sez": "cucina",
    "titolo": "Da Valparaíso al cielo: il ristorante 'Caperucita e il Lupo' entra nei menu premium aereo",
    "orig": "La Caperucita y el Lobo: el restorán porteño que vuela cada vez mas alto",
    "lead": "Il ristorante 'La Caperucita y el Lobo', fondato dallo chef Leo de la Iglesia e dalla compagna Carolina Gatica, amplia la sua presenza con una partnership con una compagnia aerea. Il locale ha consolidato la propria cucina a Valparaíso. Lo riferisce La Tercera.",
@@ -2898,6 +2740,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Chile",
      "t": "2026-10-21T17:45+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/mundo/ciberataques-agencias-internacionales-gobiernos-instan-dar-baja-sitios-web-errores-pasaron-desapercibidos-anos_0_NpLSPnIoSS.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-21T17:21+00:00"
     }
    ],
    "data": "21 ott",
@@ -4659,28 +4510,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z47aee5b7",
-   "sez": "dibattito",
-   "titolo": "Il governo polacco prova ad ampliare il diritto all'aborto",
-   "orig": "Il governo polacco sta provando a estendere il diritto all’aborto",
-   "lead": "Il governo polacco sta cercando di estendere il diritto all'aborto in uno dei Paesi con la legislazione più restrittiva in Europa sul tema. Il tentativo rischia però di arenarsi a causa del potere di veto del presidente, sostenuto dall'estrema destra, che può bloccare l'iter della riforma. La Polonia vieta l'interruzione di gravidanza salvo rari casi, una delle normative più severe tra i Paesi dell'Unione europea, e da anni il tema divide il governo e le forze politiche conservatrici sostenute dal presidente.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/10/21/polonia-leggi-aborto/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-21T15:50+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:31",
-   "uscita": "sera"
-  },
-  {
    "id": "zbd5e5204",
    "sez": "mondo",
    "titolo": "Donna partorisce in treno in movimento a Groningen",
@@ -4704,7 +4533,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "z8908e1a8",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Immagine TV sorprende dopo partita del Viking: \"Non ho mai visto niente di simile\"",
    "orig": "TV-bilde etter Viking-kamp forbløffar: – Aldri sett noko liknande",
    "lead": "Il Viking è considerato unico in un aspetto specifico della Champions League per una particolarità tattica nata da una decisione spietata adottata sei anni fa dalla squadra norvegese. L'immagine televisiva post-partita risulterebbe eccezionale secondo la testata. Lo riferisce NRK.",
@@ -4750,7 +4579,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "z212e8fb2",
-   "sez": "mondo",
+   "sez": "cultura",
    "titolo": "\"I legamenti crociati\" di Béchir Garbouj presentato a Tunisi",
    "orig": "«Les Ligaments croisés» de Béchir Garbouj à Beït al-Hikma : Entre art du jeu et fracture existentielle",
    "lead": "Il sesto romanzo dello scrittore francofono tunisino Béchir Garbouj è stato presentato mercoledì all'Accademia tunisina delle scienze. L'opera uscita nel 2025 usa il calcio come specchio della società contemporanea e della condizione umana. La presentazione è avvenuta il 14 ottobre. Lo riferisce La Presse de Tunisie.",
@@ -4907,7 +4736,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   },
   {
    "id": "zf2c060ec",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "A 16 anni allena con il Bayern Monaco: il talento scelto dalla Germania anziché dalla Croazia",
    "orig": "Hrvatska ga pozivala, Njemačka ga preuzela: Sa 16 godina već trenira s prvom ekipom Bayerna",
    "lead": "Durante l'ultimo allenamento del Bayern prima della sfida di Champions League con l'Arsenal è apparso un giovane calciatore poco noto al grande pubblico che a 16 anni si allena già con la prima squadra del club bavarese. Lo riferisce N1 Bosnia.",
@@ -6783,37 +6612,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zc5993da3",
-   "sez": "mondo",
-   "titolo": "Unione Europea: avviata un'indagine formale su Booking.com per frodi e inserzioni ingannevoli",
-   "orig": "Booking.com: Έρευνα της Κομισιόν για απάτες και πληρωμένες καταχωρίσεις",
-   "lead": "La Commissione Europea ha aperto un'indagine ufficiale nei confronti della piattaforma Booking.com per verificare eventuali violazioni del Regolamento sui Servizi Digitali (DSA) in merito a inserzioni fraudolente, truffe informatiche e trasparenza delle offerte a pagamento. Lo riferisce ERT News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ERT News",
-     "p": "XX",
-     "c": "Atene",
-     "u": "https://www.ertnews.gr/eidiseis/epistimi/booking-com-ereyna-tis-komision-gia-apates-kai-pliromenes-kataxoriseis/",
-     "angolo": "",
-     "atlas": "Greece",
-     "t": "2026-10-21T17:56+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/10/21/truffe-e-annunci-sponsorizzati-indagine-dellue-su-booking_6bf836ec-a25a-4483-b391-34325de60583.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-10-21T17:56+02:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:18",
-   "uscita": "sera"
-  },
-  {
    "id": "z0ffb59a4",
    "sez": "mondo",
    "titolo": "Grecia, Nikos Androulakis presenta le proposte del Pasok per ripristinare il reddito dei pensionati",
@@ -7517,6 +7315,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-21T09:28-04:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/west-bank/2026-10-21/ty-article/.premium/democratic-congressional-candidate-brad-lander-detained-in-west-bank-group-says/000001a1-5de3-da49-abe9-5ffb7b750000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-10-21T13:00+03:00"
     }
    ],
    "data": "21 ott",
@@ -7605,6 +7412,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-10-21T18:00+02:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445712/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-21T14:32+02:00"
     }
    ],
    "data": "21 ott",
@@ -7790,28 +7606,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-10-21T16:16+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "20:18",
-   "uscita": "sera"
-  },
-  {
-   "id": "zdbffdc5b",
-   "sez": "mondo",
-   "titolo": "Taiwan, incriminati cinque uomini per un complotto contro un comico satirico",
-   "orig": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
-   "lead": "La procura di Nuova Taipei ha incriminato cinque persone accusate di aver pianificato di investire con un'auto il comico Huang Yi-hao, bersaglio di intimidazioni dopo aver ironizzato sul Partito Comunista cinese e su Xi Jinping. Lo riferisce The Guardian.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-21T16:13+00:00"
     }
    ],
    "data": "21 ott",
@@ -10455,6 +10249,32 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-21T16:46+02:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/globus/832609/putin-nudi-nove-pregovore-vitkof-ga-naziva-humanitarcem",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-10-21T16:40+02:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/21/russia-disposta-nuovi-colloqui-ucraina/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T16:43+00:00"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866406",
+     "angolo": "",
+     "atlas": "Taiwan"
     }
    ],
    "data": "21 ott",
@@ -11418,6 +11238,51 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Lithuania",
      "t": "2026-10-21T20:27+03:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/o-vulnerabilitate-critica-in-coloana-vertebrala-a-internetului-face-site-uri-guvernamentale-din-intreaga-europa-sa-se-inchida-2382744",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-10-21T14:42+00:00"
+    },
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/technology/european-union-warning-php-vulnerabilities-october-2026/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-10-21T15:44+08:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/patch-or-go-dark-eu-cyber-officials-warn-websites-over-critical-php-flaws",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-21T18:26+08:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2636055",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-10-21T11:10+02:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/21/internet-siti-offline-difetti-linguaggio-programmazione-php/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T15:57+00:00"
     }
    ],
    "data": "21 ott",
@@ -11971,6 +11836,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Canada",
      "t": "2026-10-21T16:45+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/internacional/descubren-particula-ignorada-decadas-pudo-dado-origen-universo-conocemos_0_q5y8gmrz9w.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-10-21T17:25+00:00"
     }
    ],
    "data": "21 ott",
@@ -11995,6 +11869,14 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Greece",
      "t": "2026-10-21T16:15+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/greek-basketball-chief-held-in-match-fixing-probe/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
     }
    ],
    "data": "21 ott",
@@ -12404,29 +12286,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
     }
    ],
    "data": "21 ott",
-   "ora": "20:11",
-   "uscita": "sera"
-  },
-  {
-   "id": "z127c390c",
-   "sez": "cucina",
-   "titolo": "World Pasta Day 2026: per nove italiani su dieci è simbolo di identità, tradizione e piacere",
-   "orig": "World Pasta Day 2026: per nove italiani su dieci è simbolo di identità, tradizione e piacere",
-   "lead": "In occasione del World Pasta Day 2026, i dati confermano che per nove italiani su dieci la pasta rappresenta un elemento fondamentale di identità culturale, tradizione e piacere gastronomico, con radici che risalgono ai tempi degli antichi romani. Lo riferisce Il Messaggero – Roma.",
-   "more": [
-    "La pasta è il pilastro della dieta mediterranea e della gastronomia italiana nel mondo, con una storia millenaria che unisce la semplicità degli ingredienti alla creatività culinaria."
-   ],
-   "fonti": [
-    {
-     "n": "Il Messaggero – Roma",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/roma/centro_storico/world_pasta_day_2026_nove_italiani_su_dieci_simbolo_di_identita_tradizione_piacere-9839724.html",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "",
    "ora": "20:11",
    "uscita": "sera"
   },
@@ -12917,28 +12776,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z040a6e97",
-   "sez": "mondo",
-   "titolo": "Regno Unito lancia campagna contro musica senza cuffie sui trasporti",
-   "orig": "UK to Headphone Dodgers on Trains: Shush",
-   "lead": "Il primo ministro britannico Andy Burnham ha annunciato una campagna per scoraggiare l'ascolto di musica e video senza cuffie sui trasporti pubblici britannici, con l'obiettivo di migliorare l'esperienza dei pendolari e dei viaggiatori. Lo riferisce The New York Times.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-10-21T11:01+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:23",
-   "uscita": "17"
-  },
-  {
    "id": "z9360ddab",
    "sez": "mondo",
    "titolo": "Zelenskyy aperto al congelamento delle linee nel conflitto ucraino",
@@ -12954,30 +12791,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-10-21T10:11-04:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:23",
-   "uscita": "17"
-  },
-  {
-   "id": "z74a4b333",
-   "sez": "mondo",
-   "titolo": "Francia: governo testa per marcia Gilet Gialli a Parigi",
-   "orig": "French government faces fresh test as Yellow Vests plan Paris march on Saturday",
-   "lead": "Il governo francese si prepara a una nuova prova con una marcia dei Gilet Gialli pianificata a Parigi, mentre il presidente Macron ha promesso di fermare chi cercherà di causare disordini durante la protesta. Lo riferisce The Globe and Mail.",
-   "more": [
-    "I Gilet Gialli sono un movimento di protesta emerso in Francia nel 2018, inizialmente contro l'aumento delle tasse sui carburanti, evolvendosi in una più ampia contestazione delle politiche socioeconomiche del governo."
-   ],
-   "fonti": [
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/article-france-protests-weekend-riots-yellow-vests/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-21T12:00+00:00"
     }
    ],
    "data": "21 ott",
@@ -14305,30 +14118,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "ze5c346ad",
-   "sez": "tech",
-   "titolo": "Vulnerabilità critica in PHP blocca siti governativi europei",
-   "orig": "O vulnerabilitate critică în „coloana vertebrală” a internetului face site-uri guvernamentale din întreaga Europă să se închidă",
-   "lead": "Una vulnerabilità critica scoperta in PHP, linguaggio di programmazione ampiamente utilizzato, ha reso inaccessibili mercoledì siti web governativi europei. Gli amministratori si affrettano a proteggere i sistemi dalla scoperta di due falle critiche in questo elemento chiave dell'infrastruttura internet. Lo riferisce HotNews.",
-   "more": [
-    "PHP è uno dei linguaggi più utilizzati nei siti web globali. La vulnerabilità ha spinto un'ondata di aggiornamenti urgenti tra i gestori di infrastrutture critiche europee."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/o-vulnerabilitate-critica-in-coloana-vertebrala-a-internetului-face-site-uri-guvernamentale-din-intreaga-europa-sa-se-inchida-2382744",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-10-21T14:42+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:20",
-   "uscita": "17"
-  },
-  {
    "id": "z7ab80379",
    "sez": "mondo",
    "titolo": "Sindaco di Bucarest rimane sotto controllo giudiziario per corruzione",
@@ -14418,28 +14207,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Kosovo",
      "t": "2026-10-21T14:39+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:20",
-   "uscita": "17"
-  },
-  {
-   "id": "z627cc71d",
-   "sez": "mondo",
-   "titolo": "Putin si dichiara disponibile a negoziati Ucraina-USA il prossimo mese",
-   "orig": "Putin načelno spreman za nove pregovore, Vitkof ga naziva...",
-   "lead": "La Russia ha segnalato disponibilità di principio a riprendere i colloqui con l'Ucraina e gli Stati Uniti il mese prossimo, secondo quanto riferito. Un inviato americano ha elogiato pubblicamente il presidente Putin. La mossa rappresenta un potenziale sbocco diplomatico nella crisi in corso. Lo riferisce Vijesti.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/svijet/globus/832609/putin-nudi-nove-pregovore-vitkof-ga-naziva-humanitarcem",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-10-21T16:40+02:00"
     }
    ],
    "data": "21 ott",
@@ -15062,28 +14829,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Belgium",
      "t": "2026-10-21T14:33+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:20",
-   "uscita": "17"
-  },
-  {
-   "id": "zb33176dc",
-   "sez": "mondo",
-   "titolo": "Austria: commissione parlamentare esamina caso Pilnacek, focus su guida contromano",
-   "orig": "Geisterfahrt im Fokus",
-   "lead": "Una commissione parlamentare austriaca ha continuato le audizioni nel caso dell'ex capo della sezione giustizia Christian Pilnacek, scomparso il 20 ottobre 2023. L'attenzione si concentra sulla sua guida contromano la notte precedente il decesso.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3445712/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-10-21T14:32+02:00"
     }
    ],
    "data": "21 ott",
@@ -16284,30 +16029,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z5892dcbe",
-   "sez": "economia",
-   "titolo": "L'Ue apre un'indagine su Booking per possibili violazioni della tutela dei consumatori",
-   "orig": "MELDUNGEN WIRTSCHAFT - Die EU ermittelt gegen die Reiseplattform Booking wegen möglicher Verstösse gegen den Verbraucherschutz",
-   "lead": "La Commissione europea ha avviato un'indagine sulla piattaforma di viaggi Booking per presunte violazioni delle norme a tutela dei consumatori. La notizia è stata riportata in breve tra le segnalazioni economiche della giornata, senza ulteriori dettagli sulla natura specifica delle accuse o sui tempi dell'indagine. Lo riferisce NZZ.",
-   "more": [
-    "Booking.com è una delle maggiori piattaforme mondiali di prenotazione di hotel e alloggi online. Negli ultimi anni le autorità europee hanno più volte indagato sulle grandi piattaforme digitali del turismo per pratiche commerciali ritenute scorrette, come la presentazione dei prezzi o le clausole imposte agli hotel partner, nell'ambito delle normative Ue a tutela dei consumatori."
-   ],
-   "fonti": [
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-10-21T13:44+00:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "17:15",
-   "uscita": "17"
-  },
-  {
    "id": "z5a7d223a",
    "sez": "economia",
    "titolo": "Cile, due banche chiedono il fallimento del secondo maggiore importatore di biciclette",
@@ -16671,6 +16392,33 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Ireland",
      "t": "2026-10-21T11:14+01:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/epistimi/booking-com-ereyna-tis-komision-gia-apates-kai-pliromenes-kataxoriseis/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-10-21T17:56+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/10/21/truffe-e-annunci-sponsorizzati-indagine-dellue-su-booking_6bf836ec-a25a-4483-b391-34325de60583.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-21T17:56+02:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-10-21T13:44+00:00"
     }
    ],
    "data": "21 ott",
@@ -20994,6 +20742,14 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-21T13:30+00:00"
+    },
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/centro_storico/world_pasta_day_2026_nove_italiani_su_dieci_simbolo_di_identita_tradizione_piacere-9839724.html",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "21 ott",
@@ -21709,27 +21465,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
     }
    ],
    "data": "21 ott",
-   "ora": "17:05",
-   "uscita": "17"
-  },
-  {
-   "id": "za0522f05",
-   "sez": "sport",
-   "titolo": "Il capo della federazione cestistica greca arrestato per combine di partite",
-   "orig": "Greek basketball chief held in match-fixing probe",
-   "lead": "Vangelis Liolios, presidente della federazione greca di pallacanestro, è stato arrestato nell'ambito di un'ampia indagine su presunte combine sportive che coinvolge diversi sospetti e decine di partite. Non sono stati forniti ulteriori dettagli sulle accuse specifiche o sulle tempistiche dell'inchiesta. Lo riferisce The Punch.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "The Punch",
-     "p": "XX",
-     "c": "Lagos",
-     "u": "https://punchng.com/greek-basketball-chief-held-in-match-fixing-probe/?utm_source=rss.punchng.com&utm_medium=web",
-     "angolo": "",
-     "atlas": "Nigeria"
-    }
-   ],
-   "data": "",
    "ora": "17:05",
    "uscita": "17"
   },
@@ -23047,6 +22782,22 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "North Korea",
      "t": "2026-10-21T07:58+00:00"
+    },
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/politics/defense/1283558.html",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "The Hankyoreh",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.hani.co.kr/arti/politics/defense/1283559.html",
+     "angolo": "",
+     "atlas": "South Korea"
     }
    ],
    "data": "21 ott",
@@ -24587,6 +24338,15 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "u": "https://www.rtp.pt/noticias/mundo/primeiro-ministro-frances-recebe-sindicatos-antes-de-novas-manifestacoes_n1773188",
      "angolo": "",
      "atlas": "Portugal"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/actualite-france/deploiement-des-forces-sentinelle-amelioration-de-la-mobilite-des-policiers-ce-que-l-on-sait-du-dispositif-policier-de-ce-week-end-20261021",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-10-21T17:44+02:00"
     }
    ],
    "data": "21 ott",
@@ -24988,30 +24748,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
      "angolo": "",
      "atlas": "Pakistan",
      "t": "2026-10-21T11:22+05:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:43",
-   "uscita": "13"
-  },
-  {
-   "id": "z8c505d05",
-   "sez": "mondo",
-   "titolo": "Israele detiene il candidato democratico Brad Lander in Cisgiordania",
-   "orig": "Israel detains U.S. Democratic congressional candidate Brad Lander in West Bank, group says",
-   "lead": "Le autorità israeliane hanno detenuto il candidato al Congresso democratico statunitense Brad Lander in Cisgiordania, secondo quanto riportato dall'organizzazione Rabbis for Human Rights. Lander è stato fermato insieme ad altri 80 membri del gruppo e attivisti statunitensi in un villaggio vicino a Betlemme, dove stavano aiutando agricoltori palestinesi ad accedere a terre diventate difficilmente raggiungibili dall'attacco di Hamas del 7 ottobre 2023. Lo riferisce Haaretz.",
-   "more": [
-    "Dall'attacco di Hamas del 7 ottobre 2023 e dalla conseguente guerra a Gaza, in Cisgiordania sono aumentate le restrizioni di accesso per gli agricoltori palestinesi a terre vicine a colonie israeliane, spesso per motivi di sicurezza. Attivisti israeliani e internazionali accompagnano talvolta gli agricoltori per facilitarne l'accesso, in episodi che possono portare a tensioni con le forze di sicurezza."
-   ],
-   "fonti": [
-    {
-     "n": "Haaretz",
-     "p": "XX",
-     "c": "Tel Aviv",
-     "u": "https://www.haaretz.com/west-bank/2026-10-21/ty-article/.premium/democratic-congressional-candidate-brad-lander-detained-in-west-bank-group-says/000001a1-5de3-da49-abe9-5ffb7b750000",
-     "angolo": "",
-     "atlas": "Israel",
-     "t": "2026-10-21T13:00+03:00"
     }
    ],
    "data": "21 ott",
@@ -29214,48 +28950,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zfcff2229",
-   "sez": "tech",
-   "titolo": "Allarme cybersicurezza per gravi falle in PHP",
-   "orig": "Cyber agency warns websites may go dark as PHP prepares critical fix",
-   "lead": "Le autorità europee per la cybersicurezza hanno lanciato un allarme su due falle critiche individuate nel linguaggio di programmazione PHP, usato da ampie porzioni del web, inclusi i siti basati su WordPress. Secondo gli esperti, le vulnerabilità potrebbero permettere a malintenzionati di prendere il controllo dei server, con il rischio che molti siti vadano offline se non verrà applicata rapidamente una correzione.",
-   "more": [
-    "PHP è uno dei linguaggi di programmazione più usati per creare siti web dinamici, alla base di piattaforme come WordPress che gestisce una grande quota dei siti internet mondiali. Falle critiche in software così diffusi possono avere un impatto su milioni di siti contemporaneamente."
-   ],
-   "fonti": [
-    {
-     "n": "Rappler",
-     "p": "XX",
-     "c": "Manila",
-     "u": "https://www.rappler.com/technology/european-union-warning-php-vulnerabilities-october-2026/",
-     "angolo": "",
-     "atlas": "Philippines",
-     "t": "2026-10-21T15:44+08:00"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/patch-or-go-dark-eu-cyber-officials-warn-websites-over-critical-php-flaws",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-10-21T18:26+08:00"
-    },
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2636055",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-10-21T11:10+02:00"
-    }
-   ],
-   "data": "21 ott",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
    "id": "zc058918f",
    "sez": "economia",
    "titolo": "Ue, accordo tra Consiglio e Parlamento su riserva di stabilità del mercato del carbonio",
@@ -30244,7 +29938,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z5ef22d51": "L'ONU richiama l'attenzione sul divario tra impegni e risultati.",
   "z17f4257d": "Gli studi evidenziati dalle testate mostrano un danno ecologico persistente nel tempo.",
   "z94a605a1": "Vatican News sottolinea la novità del servizio dedicato ai più giovani.",
-  "zfcff2229": "Le testate asiatiche riportano l'allerta diffusa dalle autorità europee per la cybersicurezza.",
   "zc058918f": "Il Consiglio dell'Unione europea comunica l'intesa raggiunta con il Parlamento.",
   "z5b96c218": "Yonhap riporta le dimissioni legate all'errore di attribuzione.",
   "ze29e668c": "La testata descrive le misure di prevenzione adottate dalle autorità tanzaniane.",
@@ -30368,7 +30061,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z1b16dedf": "El Observador descrive il nuovo approccio della DGI come mirato specificamente ai grandi patrimoni.",
   "z59a2b42b": "Africaguinee presenta Guiyang come esempio di città intelligente basata su tecnologie avanzate.",
   "z18b1b1ea": "Dawn riporta i dettagli tecnici dell'aumento dei tassi sui certificati di risparmio nazionali pakistani.",
-  "z8c505d05": "Haaretz riporta la versione dell'organizzazione per i diritti umani sulla detenzione del candidato americano.",
   "z0a15a776": "Gulf News riporta i dati finanziari diffusi dalla banca.",
   "z11cb04ba": "Euronews riporta l'appello di Trump alle aziende per rendere più accettati i data center a livello locale.",
   "zd2d0ac8f": "South China Morning Post segnala le difficoltà delle piccole aziende cinesi nel quotarsi a Hong Kong.",
@@ -30610,7 +30302,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zcf97ce3b": "Skift presenta i risultati della ricerca ASTA-GBTA sulla gestione strategica dei viaggi aziendali",
   "z6d578b2f": "SoraNews24 offre consigli di galateo per ordinare il sushi come i giapponesi",
   "z05b1b47b": "CNA riporta la firma degli accordi bilaterali durante l'incontro ad Abu Dhabi",
-  "za0522f05": "The Punch riporta l'arresto del presidente della federazione cestistica greca nell'inchiesta sulle combine",
   "z7a98e6b5": "South China Morning Post descrive l'accordo Tesla-Alipay nel contesto della competizione cinese sulle auto elettriche",
   "zeee3605a": "Middle East Eye denuncia i ritardi nelle cure oncologiche per le donne nella Striscia di Gaza",
   "z87c7e7e2": "IEEE Spectrum racconta il lavoro dei volontari di Wikipedia contro i contenuti generati dall'IA",
@@ -30718,7 +30409,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z462a7ecf": "La testata riporta i contenuti dell'incontro tra il premier curdo e un diplomatico statunitense.",
   "z8b623847": "La testata riporta l'offerta di collaborazione taiwanese per sostenere l'economia di Eswatini.",
   "z9c426525": "La testata riporta la discussione emersa durante un incontro economico sulla fiducia dei giovani nel sistema pensionistico.",
-  "z5892dcbe": "La testata segnala l'apertura di un'indagine Ue senza fornire ulteriori dettagli.",
   "z5a7d223a": "La testata riporta la richiesta di fallimento presentata dalle banche creditrici.",
   "z941c7719": "La testata presenta la nuova iniziativa di cooperazione tra Andorra e i territori vicini.",
   "z68f8aab2": "L'editorialista critica la riduzione del budget destinato all'istruzione nel bilancio rettificativo senegalese.",
@@ -30796,12 +30486,10 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z7a4f0e5e": "La testata riferisce le valutazioni critiche di un veterano della politica romena sulla stabilità governativa",
   "zf61462a2": "La testata riporta la contesa tra partiti sulla coerenza nel trattare questioni di corruzione e reabilitazione",
   "zaaed5ed8": "La testata approfondisce il problema strutturale della violenza scolastica e il ruolo di una petizione popolare",
-  "ze5c346ad": "La testata riferisce l'impatto di una minaccia informatica sulla sicurezza dell'infrastruttura governativa europea",
   "z7ab80379": "La testata segue il procedimento penale contro il sindaco capoluogo della capitale romena",
   "z96834b16": "La testata riporta una diversificazione industriale inusuale di un marchio alimentare storico romeno",
   "z8bdcc127": "La testata pubblica i risultati dell'OSCE sulla valutazione del sistema giudiziario kosovaro",
   "zb90ec68d": "La testata riferisce un processo che affronta responsabilità penali per il conflitto del 1999",
-  "z627cc71d": "La testata riferisce segnali di apertura diplomatica da parte della Russia sui colloqui di pace",
   "za02b872b": "La testata riferisce una sentenza sulla contrattazione retributiva nel settore pubblico montenegrino",
   "z16f61f64": "La testata riporta la dichiarazione di appoggio di una figura politica bosniaca al premier israeliano",
   "za8b4b93a": "La testata riferisce il parere di una commissaria UE sul completamento dei criteri di adesione del Montenegro",
@@ -30829,7 +30517,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z8773c820": "Cronaca di crisi logistica con ripercussioni dirette su consumatori",
   "zc721cb3b": "Decisione di tribunale su responsabilità di holding madre per condotta di filiale straniera",
   "za3e64e92": "Sviluppo procedurale in processo per omicidio di rilievo nazionale",
-  "zb33176dc": "Inchiesta parlamentare su morte sospetta di alto funzionario dello stato",
   "zb80369ad": "Cronaca su compromesso legislativo europeo contestato per implicazioni climatiche",
   "za12d3a65": "Notizia di interesse umano su talento giovanile precoce in scacchi",
   "z0477702b": "Reportage giornalistico su infrastruttura tecnologica di rilevanza continentale",
@@ -30868,9 +30555,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "ze232fe63": "N1 Serbia documenta i messaggi dei candidati nell'ultima fase della campagna elettorale",
   "z8f5abb0a": "N1 Serbia riporta un fatto di cronaca dalla capitale greca",
   "zd7588dd9": "La notizia enfatizza il rispetto del governo serbo dei propri obblighi finanziari verso le istituzioni universitarie dopo il raggiungimento dei prerequisiti budgetari.",
-  "z040a6e97": "La testata riporta un intervento governativo su comportamenti quotidiani nei trasporti, sottolineando l'importanza della convivialità civile negli spazi pubblici.",
   "z9360ddab": "La notizia evidenzia una apertura ucraina a soluzioni diplomatiche attraverso una possibile stabilizzazione territoriale del conflitto.",
-  "z74a4b333": "La copertura presenta la Francia in un momento critico di gestione dell'ordine pubblico di fronte a manifestazioni programmate.",
   "zb0cf50f3": "La testata evidenzia i continui sforzi militari nigeriani per proteggere le infrastrutture energetiche critiche dagli attacchi.",
   "za37c4f23": "La testata riporta una dichiarazione di allineamento politico tra amministrazioni locali e federali nigeriane sul tema dello sviluppo.",
   "z072d0c77": "La testata riporta un messaggio istituzionale universitario sulla qualità e l'etica della ricerca scientifica in Nigeria.",
@@ -30939,7 +30624,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z7157fae5": "La testata evidenzia le prospettive e le soluzioni tecnologiche proposte dagli esperti per modernizzare l'industria delle costruzioni residenziali.",
   "z0bb85c06": "La testata evidenzia i risultati di una ricerca scientifica sul benessere psicologico e sui fattori di rischio depressivo nei pazienti oncologici.",
   "zdbcbcda0": "La testata evidenzia la partecipazione dell'attrice hollywoodiana al festival romano e i temi centrali del film interpretato e diretto da Jesse Eisenberg.",
-  "z127c390c": "La testata evidenzia il forte legame culturale e affettivo degli italiani nei confronti della pasta in occasione della giornata mondiale dedicata.",
   "z6fc44f0a": "La testata evidenzia le difficoltà finanziarie e operative che rallentano le politiche di tutela ambientale e la realizzazione dei progetti idrici.",
   "z07f88fad": "La testata evidenzia l'allarme lanciato dagli esperti finanziari sui rischi legati agli acquisti rateali per il periodo natalizio.",
   "z38743a78": "La testata evidenzia il contributo scientifico derivato dai recenti dati spaziali e dall'analisi delle inversioni magnetiche solari.",
@@ -31065,7 +30749,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zd0aa2088": "Notizia di cronaca sportiva focalizzata sul mercato del basket europeo.",
   "zf27969ee": "Aggiornamento sportivo sulle competizioni europee di pallacanestro per club.",
   "zaff8e5b3": "Denuncia sindacale e sanitaria sulle condizioni operative dei servizi ospedalieri pediatrici.",
-  "zc5993da3": "Focus normativo e antitrust dell'Unione Europea sulla tutela dei consumatori online.",
   "z0ffb59a4": "Cronaca politica interna incentrata sulle proposte economiche dell'opposizione greca.",
   "z2c5ea5e7": "Attenzione alla mobilitazione giovanile e alla gestione dell'ordine pubblico in ambito europeo.",
   "zf6c8495a": "Informazione scientifica e ambientale sull'andamento climatico globale e sui rischi meteorologici.",
@@ -31110,7 +30793,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z8e646ccb": "La testata locale pone l'accento sull'impegno sociale per l'inclusione scolastica dei bambini in Tunisia.",
   "z70690bb6": "Il giornale evidenzia i dati positivi e le prospettive di sviluppo economico e industriale del Paese.",
   "zdb055e1d": "La notizia evidenzia l'intervento delle autorità locali per prevenire disservizi energetici legati alle proteste sindacali.",
-  "zdbffdc5b": "Il quotidiano britannico pone l'accento sulle accuse di repressione transnazionale rivolte a Pechino.",
   "z968521f5": "Il quotidiano segue la cronaca giudiziaria locale legata agli episodi di disordine urbano nel centro cittadino.",
   "zf467df1c": "Il quotidiano finanziario analizza gli aspetti diplomatici ed economici delle richieste di restituzione del patrimonio storico.",
   "z4c930bc2": "L'emittente regionale segue da vicino gli sviluppi della politica interna ungherese e l'azione del nuovo esecutivo.",
@@ -31240,7 +30922,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z53f49ed9": "Agência Brasil riporta la proposta del TSE e le obiezioni sollevate da giuristi e società civile.",
   "z387e50e5": "RTP e Público segnalano la diffusione di nuove truffe online in Portogallo.",
   "z5b450013": "PBS NewsHour riporta l'esplosione e le conseguenze sanitarie temute dalle autorità locali.",
-  "z47aee5b7": "Il Post descrive il tentativo del governo polacco di ampliare il diritto all'aborto e gli ostacoli politici che incontra.",
   "zbd5e5204": "Testata televisiva olandese riporta evento insolito come storia umana di soccorso.",
   "z8908e1a8": "Emittente norvegese racconta particolarità tattica di squadra locale in competizioni europee.",
   "zbdce6848": "Agenzia statale brasiliana riferisce innovazione nei servizi pubblici di trasporto urbano.",
@@ -31279,7 +30960,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "ze760f324": "La testata riferisce dati ufficiali dell'amministrazione boliviana su importazioni energetiche critiche per l'economia.",
   "z6e0972c7": "Le Monde documenta una partnership geopolitica strategica occultata dalle dichiarazioni ufficiali dei due governi.",
   "zaa367070": "Le Figaro raccoglie testimonianze di cittadini che, spaventati dagli eventi del 17 ottobre, cercano una difesa privata.",
-  "zf2dcdc85": "Le Figaro riporta le misure securitarie annunciate dal governo francese in risposta ai disordini del 17 ottobre.",
   "za571849e": "Le Figaro informa sulla seconda ondata di proteste annunciata a Parigi in seguito ai disordini della scorsa settimana.",
   "z633d3715": "Le Figaro copre le tensioni attorno al congresso del partito di Le Pen e le sue dichiarazioni difensive.",
   "zffa1cdb6": "Libération sottolinea l'eco internazionale dei disordini francesi, con gli studenti greci che si mobilitano per questioni di scuola e diritti.",
@@ -31307,10 +30987,8 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z1876778e": "G1 evidenzia il funzionamento della corruzione sistemica negli appalti pubblici brasiliani.",
   "z3b497520": "G1 mappa la reazione commerciale globale a una crisi zoosanitaria brasiliana.",
   "zd2b2e308": "G1 documenta la percezione popolare sulla strumentalizzazione politica delle azioni governative in prossimità del voto.",
-  "zfdae83e9": "Clarín presenta una scoperta scientifica fondamentale nella ricerca delle origini dell'universo.",
   "zaf0025d9": "Clarín racconta la traiettoria fulminea di un'artista emergente che ha sfruttato il supporto di una celebrity internazionale.",
   "z5fcb6aa8": "Clarín evidenzia gli sforzi di conservazione ambientale e reintegrazione della fauna selvatica.",
-  "zfd25543f": "Clarín documenta una crisi di sicurezza informatica globale con conseguenze per la disponibilità di servizi online strategici.",
   "z31be57ae": "La Nación riporta la dichiarazione definitiva di un autore canonico sulla conclusione della propria produzione letteraria.",
   "z20e84fc2": "La Tercera riferisce l'approvazione normativa di una consolidazione nel settore retail cileno.",
   "zea242cbd": "La Tercera evidenzia il successo imprenditoriale di una realtà locale che si afferma a livello internazionale.",
@@ -31379,15 +31057,11 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z6fccae09": "L'agenzia CNA riferisce il rafforzamento della governance di Anthropic.",
   "z883eee16": "L'agenzia CNA riferisce la valutazione svedese di restrizioni su atleti di paesi rivali.",
   "z75801810": "L'agenzia CNA riferisce l'istanza dell'organizzazione animalista nei confronti del club.",
-  "zf34531cb": "Il Post italiano riferisce la posizione diplomatica della Russia sui negoziati.",
-  "z329e3c68": "Il Post italiano riporta un rischio critico di sicurezza informatica su scala globale.",
   "z38f6b40c": "La testata sudafricana offre un dibattito su AGOA e le dinamiche economiche africane.",
   "z465c035d": "L'emittente austriaca riferisce il commento della presidente su politiche universitarie.",
   "z5804f083": "L'emittente austriaca riferisce il riconoscimento culturale al letterato.",
   "z1ec6aff9": "L'emittente danese riferisce il contenzioso politico-scolastico.",
   "z63d7a16c": "Il giornale sudcoreano riferisce l'evento relativo alla vita marina.",
-  "za0bdd537": "The Hankyoreh offre una prospettiva sudcoreana sui movimenti militari nordcoreani, focalizzandosi sui rischi di escalation regionale.",
-  "zaa8ecbec": "The Hankyoreh riporta le dichiarazioni provocatorie della leadership nordcoreana con focus su implicazioni regionali.",
   "z7572ce85": "The Hindu mette in rilievo gli sviluppi della cooperazione militare indo-australiana con prospettiva indiana.",
   "zf30fe806": "The Hindu evidenzia le iniziative locali di ricerca marina e sviluppo sostenibile della pesca in Kerala.",
   "zb7fa5fc9": "The Hindu offre una prospettiva leggera sulla partecipazione popolare ai festeggiamenti del Dasara.",
@@ -31396,7 +31070,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "za6059fca": "Taipei Times mette in rilievo le decisioni antitrust taiwanese con focus su tutela della concorrenza nel mercato digitale.",
   "zebcf5a0d": "Taipei Times copre gli sviluppi della strategia militare USA con enfasi sulle implicazioni regionali per Taiwan.",
   "z02fe083b": "Taipei Times riporta i bollettini meteorologici con enfasi sulla preparazione civile ai fenomeni avversi.",
-  "zb909a27b": "Taipei Times copre gli sviluppi diplomatici globali, riferendo su iniziative negoziali russo-americane.",
   "zb32ccc27": "Gulf News riferisce su incidenti infrastrutturali in Arabia Saudita con focus su responsabilità amministrativa.",
   "zb8288deb": "Gulf News riporta i bollettini meteorologici sauditi con enfasi sulla preparazione civile.",
   "ze8e25eb7": "Gulf News copre i cambiamenti nei servizi consolari con focus su implicazioni per la comunità indiana negli Emirati.",
@@ -32390,13 +32063,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "zfcff2229": {
-   "n": "Unione Europea",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "zc058918f": {
    "n": "Bruxelles",
    "p": [
@@ -33237,11 +32903,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "p": [
     "Pakistan"
    ],
-   "pt": []
-  },
-  "z8c505d05": {
-   "n": "Betlemme",
-   "p": [],
    "pt": []
   },
   "z0a15a776": {
@@ -34923,13 +34584,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "za0522f05": {
-   "n": "Grecia",
-   "p": [
-    "Greece"
-   ],
-   "pt": []
-  },
   "z7a98e6b5": {
    "n": "Cina",
    "p": [
@@ -35680,13 +35334,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z5892dcbe": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "z5a7d223a": {
    "n": "Santiago",
    "p": [
@@ -36213,11 +35860,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "ze5c346ad": {
-   "n": "Europa",
-   "p": [],
-   "pt": []
-  },
   "z7ab80379": {
    "n": "Romania",
    "p": [
@@ -36243,15 +35885,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Kosovo",
    "p": [
     "Kosovo"
-   ],
-   "pt": []
-  },
-  "z627cc71d": {
-   "n": "Russia",
-   "p": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
    ],
    "pt": []
   },
@@ -36446,13 +36079,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Belgio",
    "p": [
     "Belgium"
-   ],
-   "pt": []
-  },
-  "zb33176dc": {
-   "n": "Vienna",
-   "p": [
-    "Austria"
    ],
    "pt": []
   },
@@ -36720,25 +36346,11 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z040a6e97": {
-   "n": "Regno Unito",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "z9360ddab": {
    "n": "Ucraina",
    "p": [
     "Ukraine",
     "Russia"
-   ],
-   "pt": []
-  },
-  "z74a4b333": {
-   "n": "Parigi",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -37209,13 +36821,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "pt": []
   },
   "zdbcbcda0": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "z127c390c": {
    "n": "Roma",
    "p": [
     "Italy"
@@ -38121,14 +37726,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "zc5993da3": {
-   "n": "Atene",
-   "p": [
-    "Greece",
-    "Belgium"
-   ],
-   "pt": []
-  },
   "z0ffb59a4": {
    "n": "Atene",
    "p": [
@@ -38451,13 +38048,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "n": "Dakar",
    "p": [
     "Senegal"
-   ],
-   "pt": []
-  },
-  "zdbffdc5b": {
-   "n": "Nuova Taipei",
-   "p": [
-    "Taiwan"
    ],
    "pt": []
   },
@@ -39377,13 +38967,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "z47aee5b7": {
-   "n": "Varsavia",
-   "p": [
-    "Poland"
-   ],
-   "pt": []
-  },
   "zbd5e5204": {
    "n": "Groningen",
    "p": [
@@ -39652,13 +39235,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "zf2dcdc85": {
-   "n": "Francia",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "za571849e": {
    "n": "Parigi",
    "p": [
@@ -39840,11 +39416,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "zfdae83e9": {
-   "n": "Mondo",
-   "p": [],
-   "pt": []
-  },
   "zaf0025d9": {
    "n": "Slovacchia",
    "p": [
@@ -39857,11 +39428,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    "p": [
     "Argentina"
    ],
-   "pt": []
-  },
-  "zfd25543f": {
-   "n": "Europa",
-   "p": [],
    "pt": []
   },
   "z31be57ae": {
@@ -40333,18 +39899,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "zf34531cb": {
-   "n": "Mosca",
-   "p": [
-    "Russia"
-   ],
-   "pt": []
-  },
-  "z329e3c68": {
-   "n": "Global",
-   "p": [],
-   "pt": []
-  },
   "z38f6b40c": {
    "n": "Città del Capo",
    "p": [
@@ -40376,22 +39930,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z63d7a16c": {
    "n": "Seul",
    "p": [
-    "South Korea"
-   ],
-   "pt": []
-  },
-  "za0bdd537": {
-   "n": "Zona Demilitarizzata",
-   "p": [
-    "North Korea",
-    "South Korea"
-   ],
-   "pt": []
-  },
-  "zaa8ecbec": {
-   "n": "Linea di Demarcazione Militare",
-   "p": [
-    "North Korea",
     "South Korea"
    ],
    "pt": []
@@ -40453,14 +39991,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
    ],
    "pt": []
   },
-  "zb909a27b": {
-   "n": "Russia",
-   "p": [
-    "Russia",
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zb32ccc27": {
    "n": "Gedda",
    "p": [
@@ -40514,7 +40044,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z5ef22d51": 1,
   "z17f4257d": 2,
   "z94a605a1": 1,
-  "zfcff2229": 2,
   "zc058918f": 1,
   "z5b96c218": 1,
   "ze29e668c": 1,
@@ -40639,7 +40168,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z1b16dedf": 1,
   "z59a2b42b": 1,
   "z18b1b1ea": 1,
-  "z8c505d05": 2,
   "z0a15a776": 1,
   "z11cb04ba": 1,
   "zd2d0ac8f": 1,
@@ -40881,7 +40409,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zcf97ce3b": 1,
   "z6d578b2f": 1,
   "z05b1b47b": 1,
-  "za0522f05": 1,
   "z7a98e6b5": 1,
   "zeee3605a": 1,
   "z87c7e7e2": 1,
@@ -40992,7 +40519,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z462a7ecf": 1,
   "z8b623847": 1,
   "z9c426525": 1,
-  "z5892dcbe": 1,
   "z5a7d223a": 1,
   "z941c7719": 1,
   "z68f8aab2": 1,
@@ -41070,12 +40596,10 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z7a4f0e5e": 1,
   "zf61462a2": 1,
   "zaaed5ed8": 1,
-  "ze5c346ad": 1,
   "z7ab80379": 1,
   "z96834b16": 1,
   "z8bdcc127": 1,
   "zb90ec68d": 1,
-  "z627cc71d": 1,
   "za02b872b": 1,
   "z16f61f64": 1,
   "za8b4b93a": 1,
@@ -41103,7 +40627,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z8773c820": 1,
   "zc721cb3b": 1,
   "za3e64e92": 1,
-  "zb33176dc": 1,
   "zb80369ad": 1,
   "za12d3a65": 1,
   "z0477702b": 1,
@@ -41142,9 +40665,7 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "ze232fe63": 1,
   "z8f5abb0a": 2,
   "zd7588dd9": 1,
-  "z040a6e97": 1,
   "z9360ddab": 1,
-  "z74a4b333": 1,
   "zb0cf50f3": 1,
   "za37c4f23": 1,
   "z072d0c77": 1,
@@ -41213,7 +40734,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z7157fae5": 1,
   "z0bb85c06": 1,
   "zdbcbcda0": 1,
-  "z127c390c": 1,
   "z6fc44f0a": 1,
   "z07f88fad": 1,
   "z38743a78": 1,
@@ -41339,7 +40859,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "zd0aa2088": 1,
   "zf27969ee": 1,
   "zaff8e5b3": 1,
-  "zc5993da3": 2,
   "z0ffb59a4": 1,
   "z2c5ea5e7": 1,
   "zf6c8495a": 1,
@@ -41384,7 +40903,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z8e646ccb": 1,
   "z70690bb6": 1,
   "zdb055e1d": 1,
-  "zdbffdc5b": 1,
   "z968521f5": 1,
   "zf467df1c": 1,
   "z4c930bc2": 1,
@@ -41514,7 +41032,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z53f49ed9": 1,
   "z387e50e5": 1,
   "z5b450013": 1,
-  "z47aee5b7": 2,
   "zbd5e5204": 1,
   "z8908e1a8": 1,
   "zbdce6848": 1,
@@ -41553,7 +41070,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "ze760f324": 1,
   "z6e0972c7": 1,
   "zaa367070": 1,
-  "zf2dcdc85": 1,
   "za571849e": 1,
   "z633d3715": 1,
   "zffa1cdb6": 1,
@@ -41581,10 +41097,8 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z1876778e": 1,
   "z3b497520": 1,
   "zd2b2e308": 1,
-  "zfdae83e9": 1,
   "zaf0025d9": 1,
   "z5fcb6aa8": 1,
-  "zfd25543f": 1,
   "z31be57ae": 1,
   "z20e84fc2": 1,
   "zea242cbd": 1,
@@ -41653,15 +41167,11 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "z6fccae09": 1,
   "z883eee16": 1,
   "z75801810": 1,
-  "zf34531cb": 1,
-  "z329e3c68": 1,
   "z38f6b40c": 1,
   "z465c035d": 1,
   "z5804f083": 1,
   "z1ec6aff9": 1,
   "z63d7a16c": 1,
-  "za0bdd537": 1,
-  "zaa8ecbec": 1,
   "z7572ce85": 1,
   "zf30fe806": 1,
   "zb7fa5fc9": 1,
@@ -41670,7 +41180,6 @@ window.EDIZIONI["2026-10-21-sera"] = {
   "za6059fca": 1,
   "zebcf5a0d": 1,
   "z02fe083b": 1,
-  "zb909a27b": 1,
   "zb32ccc27": 1,
   "zb8288deb": 1,
   "ze8e25eb7": 1,
