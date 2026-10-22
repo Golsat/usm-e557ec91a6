@@ -7,16 +7,11 @@ window.CONSUMI = [
   "out": 47057,
   "usd": 1.84,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-10T21:23:36",
-  "fase": "completamento a blocchi",
-  "blocchi": 1,
-  "in": 302390,
-  "out": 12417,
-  "usd": 0.4,
-  "notizie": 23
  },
  {
   "t": "2026-10-10T21:23:36",
@@ -26,16 +21,11 @@ window.CONSUMI = [
   "out": 12417,
   "usd": 0.4,
   "notizie": 23,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-10T21:27:45",
-  "fase": "completamento a blocchi",
-  "blocchi": 12,
-  "in": 2750601,
-  "out": 130522,
-  "usd": 3.66,
-  "notizie": 267
  },
  {
   "t": "2026-10-10T21:27:45",
@@ -45,16 +35,11 @@ window.CONSUMI = [
   "out": 130522,
   "usd": 3.66,
   "notizie": 267,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-10T21:47:03",
-  "fase": "completamento a blocchi",
-  "blocchi": 5,
-  "in": 990020,
-  "out": 63653,
-  "usd": 1.64,
-  "notizie": 110
  },
  {
   "t": "2026-10-10T21:47:03",
@@ -64,6 +49,10 @@ window.CONSUMI = [
   "out": 63653,
   "usd": 1.64,
   "notizie": 110,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -74,16 +63,11 @@ window.CONSUMI = [
   "out": 11854,
   "usd": 0.52,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-10T23:12:59",
-  "fase": "completamento a blocchi",
-  "blocchi": 5,
-  "in": 1197167,
-  "out": 100059,
-  "usd": 2.14,
-  "notizie": 99
  },
  {
   "t": "2026-10-10T23:12:59",
@@ -93,6 +77,10 @@ window.CONSUMI = [
   "out": 100059,
   "usd": 2.14,
   "notizie": 99,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -103,16 +91,11 @@ window.CONSUMI = [
   "out": 17312,
   "usd": 0.65,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-10T23:26:12",
-  "fase": "completamento a blocchi",
-  "blocchi": 5,
-  "in": 1509171,
-  "out": 111356,
-  "usd": 2.44,
-  "notizie": 96
  },
  {
   "t": "2026-10-10T23:26:12",
@@ -122,6 +105,10 @@ window.CONSUMI = [
   "out": 111356,
   "usd": 2.44,
   "notizie": 96,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -132,16 +119,11 @@ window.CONSUMI = [
   "out": 8118,
   "usd": 0.37,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-10T23:39:12",
-  "fase": "completamento a blocchi",
-  "blocchi": 1,
-  "in": 16262,
-  "out": 14724,
-  "usd": 0.43,
-  "notizie": 12
  },
  {
   "t": "2026-10-10T23:39:12",
@@ -151,16 +133,11 @@ window.CONSUMI = [
   "out": 14724,
   "usd": 0.43,
   "notizie": 12,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-10T23:42:23",
-  "fase": "completamento a blocchi",
-  "blocchi": 1,
-  "in": 13304,
-  "out": 7751,
-  "usd": 0.26,
-  "notizie": 12
  },
  {
   "t": "2026-10-10T23:42:23",
@@ -170,6 +147,10 @@ window.CONSUMI = [
   "out": 7751,
   "usd": 0.26,
   "notizie": 12,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -179,7 +160,11 @@ window.CONSUMI = [
   "in": 88669,
   "out": 130483,
   "usd": 2.51,
-  "notizie": 165
+  "notizie": 165,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-11T09:41:36",
@@ -188,7 +173,11 @@ window.CONSUMI = [
   "in": 55897,
   "out": 52205,
   "usd": 1.16,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-11T10:15:20",
@@ -198,16 +187,11 @@ window.CONSUMI = [
   "out": 14292,
   "usd": 0.43,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-11T10:18:06",
-  "fase": "completamento a blocchi",
-  "blocchi": 5,
-  "in": 53697,
-  "out": 57938,
-  "usd": 1.59,
-  "notizie": 102
  },
  {
   "t": "2026-10-11T10:18:06",
@@ -217,16 +201,11 @@ window.CONSUMI = [
   "out": 57938,
   "usd": 1.59,
   "notizie": 102,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-11T13:05:00",
-  "fase": "completamento a blocchi",
-  "blocchi": 5,
-  "in": 60283,
-  "out": 68953,
-  "usd": 1.86,
-  "notizie": 130
  },
  {
   "t": "2026-10-11T13:05:00",
@@ -236,6 +215,10 @@ window.CONSUMI = [
   "out": 68953,
   "usd": 1.86,
   "notizie": 130,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 240
  },
  {
@@ -246,16 +229,11 @@ window.CONSUMI = [
   "out": 98148,
   "usd": 0.06,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-11T17:04:33",
-  "fase": "completamento a blocchi",
-  "blocchi": 5,
-  "in": 59195,
-  "out": 65229,
-  "usd": 1.78,
-  "notizie": 128
  },
  {
   "t": "2026-10-11T17:04:33",
@@ -265,6 +243,10 @@ window.CONSUMI = [
   "out": 65229,
   "usd": 1.78,
   "notizie": 128,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 240
  },
  {
@@ -275,6 +257,10 @@ window.CONSUMI = [
   "out": 48348,
   "usd": 0.03,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -284,7 +270,11 @@ window.CONSUMI = [
   "in": 52954,
   "out": 74985,
   "usd": 1.48,
-  "notizie": 119
+  "notizie": 119,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-11T17:29:07",
@@ -293,7 +283,11 @@ window.CONSUMI = [
   "in": 5715,
   "out": 38596,
   "usd": 0.21,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-11T18:45:44",
@@ -302,7 +296,11 @@ window.CONSUMI = [
   "in": 52968,
   "out": 83514,
   "usd": 1.61,
-  "notizie": 116
+  "notizie": 116,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-11T18:49:28",
@@ -311,16 +309,11 @@ window.CONSUMI = [
   "in": 12853,
   "out": 66031,
   "usd": 0.36,
-  "notizie": null
- },
- {
-  "t": "2026-10-11T20:10:00",
-  "fase": "scrittura (Claude Code)",
-  "blocchi": null,
-  "in": 74,
-  "out": 37797,
-  "usd": 1.3512937,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-11T20:10:00",
@@ -330,6 +323,10 @@ window.CONSUMI = [
   "out": 37797,
   "usd": 1.3512937,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 467
  },
  {
@@ -340,16 +337,11 @@ window.CONSUMI = [
   "out": 38269,
   "usd": 0.02,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-11T20:14:08",
-  "fase": "completamento a blocchi",
-  "blocchi": 4,
-  "in": 50117,
-  "out": 43424,
-  "usd": 1.27,
-  "notizie": 74
  },
  {
   "t": "2026-10-11T20:14:08",
@@ -359,16 +351,11 @@ window.CONSUMI = [
   "out": 43424,
   "usd": 1.27,
   "notizie": 74,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 120
- },
- {
-  "t": "2026-10-11T22:14:51",
-  "fase": "scrittura (Claude Code)",
-  "blocchi": null,
-  "in": 114,
-  "out": 70652,
-  "usd": 2.4836855,
-  "notizie": null
  },
  {
   "t": "2026-10-11T22:14:51",
@@ -378,16 +365,11 @@ window.CONSUMI = [
   "out": 70652,
   "usd": 2.4836855,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 962
- },
- {
-  "t": "2026-10-11T22:24:42",
-  "fase": "completamento a blocchi",
-  "blocchi": 7,
-  "in": 65443,
-  "out": 82377,
-  "usd": 1.87,
-  "notizie": 166
  },
  {
   "t": "2026-10-11T22:24:42",
@@ -397,16 +379,11 @@ window.CONSUMI = [
   "out": 82377,
   "usd": 1.87,
   "notizie": 166,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 300
- },
- {
-  "t": "2026-10-11T22:39:12",
-  "fase": "completamento a blocchi",
-  "blocchi": 7,
-  "in": 62645,
-  "out": 81765,
-  "usd": 2.14,
-  "notizie": 160
  },
  {
   "t": "2026-10-11T22:39:12",
@@ -416,6 +393,10 @@ window.CONSUMI = [
   "out": 81765,
   "usd": 2.14,
   "notizie": 160,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 240
  },
  {
@@ -425,7 +406,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T08:14:45",
@@ -434,7 +419,11 @@ window.CONSUMI = [
   "in": 31452,
   "out": 29836,
   "usd": 0.0,
-  "notizie": 85
+  "notizie": 85,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T08:14:49",
@@ -443,7 +432,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T08:15:06",
@@ -452,7 +445,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": 0
+  "notizie": 0,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T13:33:01",
@@ -461,7 +458,11 @@ window.CONSUMI = [
   "in": 116478,
   "out": 137364,
   "usd": 0.0,
-  "notizie": 416
+  "notizie": 416,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T13:33:05",
@@ -470,7 +471,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T17:25:36",
@@ -479,7 +484,11 @@ window.CONSUMI = [
   "in": 23468,
   "out": 27239,
   "usd": 0.0,
-  "notizie": 74
+  "notizie": 74,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T17:25:40",
@@ -488,7 +497,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T20:22:16",
@@ -497,7 +510,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T20:23:30",
@@ -506,7 +523,11 @@ window.CONSUMI = [
   "in": 16598,
   "out": 13013,
   "usd": 0.0,
-  "notizie": 40
+  "notizie": 40,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T20:23:33",
@@ -515,7 +536,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-12T20:23:50",
@@ -524,7 +549,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": 0
+  "notizie": 0,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T08:12:14",
@@ -533,7 +562,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T08:31:35",
@@ -542,7 +575,11 @@ window.CONSUMI = [
   "in": 295181,
   "out": 368403,
   "usd": 0.0,
-  "notizie": 1069
+  "notizie": 1069,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T08:32:30",
@@ -551,7 +588,11 @@ window.CONSUMI = [
   "in": 36342,
   "out": 32053,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T08:34:45",
@@ -560,7 +601,11 @@ window.CONSUMI = [
   "in": 84135,
   "out": 61473,
   "usd": 0.0,
-  "notizie": 136
+  "notizie": 136,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T08:41:11",
@@ -570,6 +615,10 @@ window.CONSUMI = [
   "out": 30467,
   "usd": 0.05,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 132
  },
  {
@@ -580,6 +629,10 @@ window.CONSUMI = [
   "out": 35082,
   "usd": 0.03,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 162
  },
  {
@@ -589,7 +642,11 @@ window.CONSUMI = [
   "in": 0,
   "out": 0,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T09:26:41",
@@ -599,6 +656,10 @@ window.CONSUMI = [
   "out": 31791,
   "usd": 0.05,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 138
  },
  {
@@ -608,7 +669,11 @@ window.CONSUMI = [
   "in": 35177,
   "out": 30786,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T11:02:09",
@@ -618,6 +683,10 @@ window.CONSUMI = [
   "out": 27955,
   "usd": 0.1,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -628,6 +697,10 @@ window.CONSUMI = [
   "out": 34940,
   "usd": 0.16,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 162
  },
  {
@@ -637,7 +710,11 @@ window.CONSUMI = [
   "in": 27730,
   "out": 23126,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T15:05:17",
@@ -646,7 +723,11 @@ window.CONSUMI = [
   "in": 117968,
   "out": 191875,
   "usd": 3.68,
-  "notizie": 303
+  "notizie": 303,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T15:13:40",
@@ -655,7 +736,11 @@ window.CONSUMI = [
   "in": 35733,
   "out": 145633,
   "usd": 0.82,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T18:06:18",
@@ -664,7 +749,11 @@ window.CONSUMI = [
   "in": 233910,
   "out": 432452,
   "usd": 8.01,
-  "notizie": 566
+  "notizie": 566,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T18:15:33",
@@ -673,7 +762,11 @@ window.CONSUMI = [
   "in": 34693,
   "out": 148544,
   "usd": 0.83,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-13T20:06:33",
@@ -683,16 +776,11 @@ window.CONSUMI = [
   "out": 154837,
   "usd": 0.09,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
- },
- {
-  "t": "2026-10-13T20:11:04",
-  "fase": "scrittura (Claude Code)",
-  "blocchi": null,
-  "in": 52,
-  "out": 37602,
-  "usd": 1.0995455000000003,
-  "notizie": null
  },
  {
   "t": "2026-10-13T20:11:04",
@@ -702,6 +790,10 @@ window.CONSUMI = [
   "out": 37602,
   "usd": 1.0995455000000003,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 508
  },
  {
@@ -711,7 +803,11 @@ window.CONSUMI = [
   "in": 5032,
   "out": 174892,
   "usd": 17.7179309,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T08:57:45",
@@ -720,7 +816,11 @@ window.CONSUMI = [
   "in": 49498,
   "out": 246081,
   "usd": 1.35,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T09:29:53",
@@ -729,7 +829,11 @@ window.CONSUMI = [
   "in": 205726,
   "out": 313739,
   "usd": 6.1,
-  "notizie": 515
+  "notizie": 515,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T14:02:31",
@@ -738,7 +842,11 @@ window.CONSUMI = [
   "in": 288567,
   "out": 441284,
   "usd": 8.58,
-  "notizie": 765
+  "notizie": 765,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T14:08:24",
@@ -747,7 +855,11 @@ window.CONSUMI = [
   "in": 31998,
   "out": 133602,
   "usd": 0.75,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T17:56:11",
@@ -756,7 +868,11 @@ window.CONSUMI = [
   "in": 38007,
   "out": 31438,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T18:08:24",
@@ -765,7 +881,11 @@ window.CONSUMI = [
   "in": 10732,
   "out": 18203,
   "usd": 0.0,
-  "notizie": 41
+  "notizie": 41,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T18:08:54",
@@ -774,7 +894,11 @@ window.CONSUMI = [
   "in": 16649,
   "out": 13210,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T20:55:16",
@@ -783,7 +907,11 @@ window.CONSUMI = [
   "in": 6626,
   "out": 178356,
   "usd": 14.580557100000002,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T21:04:32",
@@ -792,7 +920,11 @@ window.CONSUMI = [
   "in": 42407,
   "out": 186105,
   "usd": 1.05,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-14T21:48:57",
@@ -801,7 +933,11 @@ window.CONSUMI = [
   "in": 171708,
   "out": 258938,
   "usd": 5.05,
-  "notizie": 452
+  "notizie": 452,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-15T08:46:45",
@@ -810,7 +946,11 @@ window.CONSUMI = [
   "in": 5342,
   "out": 165509,
   "usd": 18.459057699999995,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-15T08:49:55",
@@ -819,7 +959,11 @@ window.CONSUMI = [
   "in": 43886,
   "out": 36454,
   "usd": 0.0,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-15T14:16:29",
@@ -828,7 +972,11 @@ window.CONSUMI = [
   "in": 224069,
   "out": 355990,
   "usd": 3.0,
-  "notizie": 761
+  "notizie": 761,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-15T14:22:55",
@@ -837,7 +985,11 @@ window.CONSUMI = [
   "in": 31731,
   "out": 126699,
   "usd": 0.72,
-  "notizie": null
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-16T06:34:46",
@@ -847,6 +999,10 @@ window.CONSUMI = [
   "out": 111599,
   "usd": 9.208606600000005,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -857,6 +1013,10 @@ window.CONSUMI = [
   "out": 150660,
   "usd": 1.03,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -867,7 +1027,50 @@ window.CONSUMI = [
   "out": 365743,
   "usd": 7.13,
   "notizie": 650,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 1440
+ },
+ {
+  "t": "2026-10-16T08:34:46",
+  "fase": "scrittura (Claude Code)",
+  "blocchi": null,
+  "in": 8122,
+  "out": 111599,
+  "usd": 9.208606600000005,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-16T08:45:18",
+  "fase": "traduzione titoli",
+  "blocchi": 12,
+  "in": 38372,
+  "out": 150660,
+  "usd": 1.03,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-16T09:35:04",
+  "fase": "completamento a blocchi",
+  "blocchi": 27,
+  "in": 242625,
+  "out": 365743,
+  "usd": 7.13,
+  "notizie": 650,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-16T12:00:38",
@@ -877,6 +1080,10 @@ window.CONSUMI = [
   "out": 460474,
   "usd": 8.9,
   "notizie": 769,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 1680
  },
  {
@@ -887,7 +1094,37 @@ window.CONSUMI = [
   "out": 129279,
   "usd": 0.7,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-16T14:00:38",
+  "fase": "completamento a blocchi",
+  "blocchi": 32,
+  "in": 293326,
+  "out": 460474,
+  "usd": 8.9,
+  "notizie": 769,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-16T14:08:32",
+  "fase": "traduzione titoli",
+  "blocchi": 9,
+  "in": 32584,
+  "out": 129279,
+  "usd": 0.7,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-16T16:09:21",
@@ -897,6 +1134,10 @@ window.CONSUMI = [
   "out": 273403,
   "usd": 2.92,
   "notizie": 591,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 2340
  },
  {
@@ -907,6 +1148,10 @@ window.CONSUMI = [
   "out": 30269,
   "usd": 0.0,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -917,6 +1162,10 @@ window.CONSUMI = [
   "out": 31581,
   "usd": 0.0,
   "notizie": 113,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 540
  },
  {
@@ -927,7 +1176,50 @@ window.CONSUMI = [
   "out": 91538,
   "usd": 0.52,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-16T18:09:21",
+  "fase": "completamento a blocchi",
+  "blocchi": 30,
+  "in": 175384,
+  "out": 273403,
+  "usd": 2.92,
+  "notizie": 591,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-16T18:11:20",
+  "fase": "traduzione titoli",
+  "blocchi": 12,
+  "in": 36914,
+  "out": 30269,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-16T18:32:10",
+  "fase": "completamento a blocchi",
+  "blocchi": 5,
+  "in": 25328,
+  "out": 31581,
+  "usd": 0.0,
+  "notizie": 113,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-16T18:35:05",
@@ -937,7 +1229,24 @@ window.CONSUMI = [
   "out": 57760,
   "usd": 4.950776,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-16T18:37:30",
+  "fase": "traduzione titoli",
+  "blocchi": 6,
+  "in": 21702,
+  "out": 91538,
+  "usd": 0.52,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-16T18:44:13",
@@ -947,6 +1256,10 @@ window.CONSUMI = [
   "out": 198564,
   "usd": 1.1,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -957,7 +1270,89 @@ window.CONSUMI = [
   "out": 249000,
   "usd": 4.8,
   "notizie": 416,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 900
+ },
+ {
+  "t": "2026-10-16T20:35:05",
+  "fase": "scrittura (Claude Code)",
+  "blocchi": null,
+  "in": 3743,
+  "out": 57760,
+  "usd": 4.950776,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-16T20:44:13",
+  "fase": "traduzione titoli",
+  "blocchi": 11,
+  "in": 40288,
+  "out": 198564,
+  "usd": 1.1,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-16T21:06:46",
+  "fase": "completamento a blocchi",
+  "blocchi": 17,
+  "in": 156027,
+  "out": 249000,
+  "usd": 4.8,
+  "notizie": 416,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-17T08:29:12",
+  "fase": "scrittura (Claude Code)",
+  "blocchi": null,
+  "in": 8403,
+  "out": 78128,
+  "usd": 6.838408399999999,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-17T08:38:32",
+  "fase": "traduzione titoli",
+  "blocchi": 13,
+  "in": 48866,
+  "out": 205253,
+  "usd": 1.15,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-17T09:14:11",
+  "fase": "completamento a blocchi",
+  "blocchi": 23,
+  "in": 238869,
+  "out": 371605,
+  "usd": 6.86,
+  "notizie": 559,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-17T10:50:21",
@@ -967,6 +1362,10 @@ window.CONSUMI = [
   "out": 9954,
   "usd": 0.26,
   "notizie": 20,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 180
  },
  {
@@ -977,6 +1376,10 @@ window.CONSUMI = [
   "out": 15284,
   "usd": 0.6042671999999999,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 339
  },
  {
@@ -987,6 +1390,10 @@ window.CONSUMI = [
   "out": 24253,
   "usd": 0.09,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -997,6 +1404,10 @@ window.CONSUMI = [
   "out": 8287,
   "usd": 0.22,
   "notizie": 16,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 60
  },
  {
@@ -1007,6 +1418,10 @@ window.CONSUMI = [
   "out": 3038,
   "usd": 0.04,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1017,6 +1432,10 @@ window.CONSUMI = [
   "out": 23393,
   "usd": 0.6,
   "notizie": 44,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 180
  },
  {
@@ -1027,7 +1446,37 @@ window.CONSUMI = [
   "out": 4022,
   "usd": 0.02,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-17T13:25:37",
+  "fase": "completamento a blocchi",
+  "blocchi": 2,
+  "in": 11726,
+  "out": 15710,
+  "usd": 0.32,
+  "notizie": 34,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-17T16:57:45",
+  "fase": "traduzione titoli",
+  "blocchi": 8,
+  "in": 31145,
+  "out": 150339,
+  "usd": 0.83,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-17T17:33:23",
@@ -1037,6 +1486,10 @@ window.CONSUMI = [
   "out": 819015,
   "usd": 4.45,
   "notizie": 829,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 1920
  },
  {
@@ -1047,6 +1500,10 @@ window.CONSUMI = [
   "out": 31350,
   "usd": 0.15,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1057,7 +1514,102 @@ window.CONSUMI = [
   "out": 120397,
   "usd": 0.07,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-17T17:54:40",
+  "fase": "completamento a blocchi",
+  "blocchi": 26,
+  "in": 148769,
+  "out": 503431,
+  "usd": 3.45,
+  "notizie": 540,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-17T17:59:42",
+  "fase": "traduzione titoli",
+  "blocchi": 8,
+  "in": 27395,
+  "out": 22350,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-17T20:23:08",
+  "fase": "completamento a blocchi",
+  "blocchi": 21,
+  "in": 201988,
+  "out": 420824,
+  "usd": 3.5,
+  "notizie": 409,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-17T20:29:33",
+  "fase": "traduzione titoli",
+  "blocchi": 9,
+  "in": 34109,
+  "out": 140096,
+  "usd": 0.79,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-18T08:13:13",
+  "fase": "scrittura (Claude Code)",
+  "blocchi": null,
+  "in": 6357,
+  "out": 8281,
+  "usd": 0.1674,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-18T08:23:47",
+  "fase": "traduzione titoli",
+  "blocchi": 13,
+  "in": 48975,
+  "out": 233570,
+  "usd": 1.28,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-18T08:58:27",
+  "fase": "completamento a blocchi",
+  "blocchi": 21,
+  "in": 130883,
+  "out": 395089,
+  "usd": 3.14,
+  "notizie": 438,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-18T12:03:30",
@@ -1067,6 +1619,10 @@ window.CONSUMI = [
   "out": 5517,
   "usd": 0.1425,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 49
  },
  {
@@ -1077,6 +1633,10 @@ window.CONSUMI = [
   "out": 81852,
   "usd": 0.05,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1087,6 +1647,10 @@ window.CONSUMI = [
   "out": 74682,
   "usd": 0.04,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1097,6 +1661,10 @@ window.CONSUMI = [
   "out": 417482,
   "usd": 2.26,
   "notizie": 429,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 1020
  },
  {
@@ -1107,6 +1675,10 @@ window.CONSUMI = [
   "out": 834,
   "usd": 0.01,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1117,6 +1689,10 @@ window.CONSUMI = [
   "out": 404731,
   "usd": 1.78,
   "notizie": 444,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 1080
  },
  {
@@ -1127,6 +1703,10 @@ window.CONSUMI = [
   "out": 25654,
   "usd": 0.12,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1137,6 +1717,10 @@ window.CONSUMI = [
   "out": 159336,
   "usd": 0.71,
   "notizie": 138,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 420
  },
  {
@@ -1147,6 +1731,10 @@ window.CONSUMI = [
   "out": 11429,
   "usd": 0.05,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1157,7 +1745,50 @@ window.CONSUMI = [
   "out": 133851,
   "usd": 0.08,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-18T13:31:50",
+  "fase": "completamento a blocchi",
+  "blocchi": 2,
+  "in": 13612,
+  "out": 42126,
+  "usd": 0.5,
+  "notizie": 44,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-18T13:35:26",
+  "fase": "traduzione titoli",
+  "blocchi": 2,
+  "in": 6651,
+  "out": 34716,
+  "usd": 0.19,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-18T17:10:14",
+  "fase": "completamento a blocchi",
+  "blocchi": 19,
+  "in": 114781,
+  "out": 386068,
+  "usd": 3.21,
+  "notizie": 455,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-18T17:20:01",
@@ -1167,7 +1798,24 @@ window.CONSUMI = [
   "out": 471065,
   "usd": 2.23,
   "notizie": 428,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 1140
+ },
+ {
+  "t": "2026-10-18T17:20:29",
+  "fase": "traduzione titoli",
+  "blocchi": 13,
+  "in": 47721,
+  "out": 220031,
+  "usd": 1.22,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-18T17:22:21",
@@ -1177,6 +1825,10 @@ window.CONSUMI = [
   "out": 30134,
   "usd": 0.13,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1187,7 +1839,37 @@ window.CONSUMI = [
   "out": 77472,
   "usd": 0.05,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-18T17:35:15",
+  "fase": "completamento a blocchi",
+  "blocchi": 4,
+  "in": 23077,
+  "out": 83283,
+  "usd": 0.69,
+  "notizie": 70,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-18T17:39:39",
+  "fase": "traduzione titoli",
+  "blocchi": 3,
+  "in": 10829,
+  "out": 60869,
+  "usd": 0.34,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
  },
  {
   "t": "2026-10-18T20:02:05",
@@ -1197,6 +1879,10 @@ window.CONSUMI = [
   "out": 5857,
   "usd": 0.1561,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 53
  },
  {
@@ -1207,6 +1893,10 @@ window.CONSUMI = [
   "out": 64223,
   "usd": 0.04,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  },
  {
@@ -1217,6 +1907,10 @@ window.CONSUMI = [
   "out": 402870,
   "usd": 1.52,
   "notizie": 357,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": 1020
  },
  {
@@ -1227,6 +1921,324 @@ window.CONSUMI = [
   "out": 24762,
   "usd": 0.13,
   "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
+  "sec": null
+ },
+ {
+  "t": "2026-10-20T07:33:09",
+  "fase": "scrittura (Claude Code)",
+  "blocchi": null,
+  "in": 5866,
+  "out": 4463,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-20T07:35:09",
+  "fase": "traduzione titoli",
+  "blocchi": 13,
+  "in": 43187,
+  "out": 35408,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-20T07:48:00",
+  "fase": "completamento a blocchi",
+  "blocchi": 17,
+  "in": 101019,
+  "out": 138659,
+  "usd": 0.0,
+  "notizie": 445,
+  "inviate": 493,
+  "scartate": 48,
+  "ritentati": 3,
+  "senza_risultato": 0
+ },
+ {
+  "t": "2026-10-20T13:06:23",
+  "fase": "completamento a blocchi",
+  "blocchi": 19,
+  "in": 99554,
+  "out": 140073,
+  "usd": 0.0,
+  "notizie": 421,
+  "inviate": 550,
+  "scartate": 129,
+  "ritentati": 0,
+  "senza_risultato": 0
+ },
+ {
+  "t": "2026-10-20T13:07:43",
+  "fase": "traduzione titoli",
+  "blocchi": 9,
+  "in": 27055,
+  "out": 21861,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-20T17:27:49",
+  "fase": "completamento a blocchi",
+  "blocchi": 19,
+  "in": 97851,
+  "out": 140366,
+  "usd": 0.0,
+  "notizie": 449,
+  "inviate": 544,
+  "scartate": 95,
+  "ritentati": 0,
+  "senza_risultato": 0
+ },
+ {
+  "t": "2026-10-20T17:33:29",
+  "fase": "traduzione titoli",
+  "blocchi": 11,
+  "in": 37855,
+  "out": 32220,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-20T20:03:40",
+  "fase": "scrittura (Claude Code)",
+  "blocchi": null,
+  "in": 2659,
+  "out": 3335,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-20T20:21:04",
+  "fase": "completamento a blocchi",
+  "blocchi": 16,
+  "in": 104955,
+  "out": 151105,
+  "usd": 0.0,
+  "notizie": 370,
+  "inviate": 464,
+  "scartate": 94,
+  "ritentati": 4,
+  "senza_risultato": 1
+ },
+ {
+  "t": "2026-10-20T20:22:50",
+  "fase": "traduzione titoli",
+  "blocchi": 8,
+  "in": 25467,
+  "out": 20632,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-20T20:33:38",
+  "fase": "completamento a blocchi",
+  "blocchi": 10,
+  "in": 52988,
+  "out": 72108,
+  "usd": 0.0,
+  "notizie": 230,
+  "inviate": 299,
+  "scartate": 69,
+  "ritentati": 1,
+  "senza_risultato": 0
+ },
+ {
+  "t": "2026-10-21T07:35:08",
+  "fase": "scrittura (Claude Code)",
+  "blocchi": null,
+  "in": 4913,
+  "out": 5801,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-21T07:38:46",
+  "fase": "traduzione titoli",
+  "blocchi": 14,
+  "in": 44417,
+  "out": 36301,
+  "usd": 0.0,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-21T07:43:44",
+  "fase": "completamento a blocchi",
+  "blocchi": 17,
+  "in": 92096,
+  "out": 131121,
+  "usd": 0.0,
+  "notizie": 448,
+  "inviate": 485,
+  "scartate": 37,
+  "ritentati": 1,
+  "senza_risultato": 0
+ },
+ {
+  "t": "2026-10-21T12:59:00",
+  "fase": "completamento a blocchi",
+  "blocchi": 19,
+  "in": 187196,
+  "out": 339622,
+  "usd": 4.21,
+  "notizie": 406,
+  "inviate": 552,
+  "scartate": 146,
+  "ritentati": 1,
+  "senza_risultato": 1
+ },
+ {
+  "t": "2026-10-21T13:06:06",
+  "fase": "traduzione titoli",
+  "blocchi": 9,
+  "in": 32423,
+  "out": 149906,
+  "usd": 0.84,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-21T17:53:48",
+  "fase": "completamento a blocchi",
+  "blocchi": 18,
+  "in": 153065,
+  "out": 344367,
+  "usd": 4.25,
+  "notizie": 406,
+  "inviate": 523,
+  "scartate": 117,
+  "ritentati": 2,
+  "senza_risultato": 2
+ },
+ {
+  "t": "2026-10-21T18:02:37",
+  "fase": "traduzione titoli",
+  "blocchi": 11,
+  "in": 42275,
+  "out": 184599,
+  "usd": 1.03,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-21T20:02:03",
+  "fase": "scrittura (Claude Code)",
+  "blocchi": null,
+  "in": 6220,
+  "out": 4141,
+  "usd": 0.1042,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-21T20:20:26",
+  "fase": "completamento a blocchi",
+  "blocchi": 16,
+  "in": 95506,
+  "out": 121968,
+  "usd": 0.0,
+  "notizie": 362,
+  "inviate": 454,
+  "scartate": 92,
+  "ritentati": 6,
+  "senza_risultato": 1
+ },
+ {
+  "t": "2026-10-21T20:26:49",
+  "fase": "traduzione titoli",
+  "blocchi": 8,
+  "in": 29954,
+  "out": 131999,
+  "usd": 0.74,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null
+ },
+ {
+  "t": "2026-10-21T20:48:19",
+  "fase": "completamento a blocchi",
+  "blocchi": 11,
+  "in": 68529,
+  "out": 221433,
+  "usd": 1.88,
+  "notizie": 228,
+  "inviate": 317,
+  "scartate": 89,
+  "ritentati": 0,
+  "senza_risultato": 0
+ },
+ {
+  "t": "2026-10-22T21:07:54",
+  "fase": "scrittura (mattino)",
+  "blocchi": null,
+  "in": 11471,
+  "out": 10149,
+  "usd": 0.2962,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
+  "sec": 88
+ },
+ {
+  "t": "2026-10-22T21:11:09",
+  "fase": "traduzione titoli",
+  "blocchi": 13,
+  "in": 77806,
+  "out": 189386,
+  "usd": 0.12,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
   "sec": null
  }
 ];
