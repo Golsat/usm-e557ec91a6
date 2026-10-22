@@ -66,7 +66,7 @@ window.EDIZIONI["2026-10-22"] = {
   },
   {
    "id": "zd434d71a",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Ucraina, Trump: «più vicini a una soluzione»",
    "orig": "Ucraina, Trump: più vicini a soluzione",
    "lead": "Il presidente Trump afferma che si è più vicini a una soluzione per l'Ucraina, dopo il rilancio di Zelensky e le aperture di Putin. Il leader russo si dice disposto a discutere un vertice con Trump e Zelensky: «ne discutiamo». La trattativa resta aperta.",
@@ -93,7 +93,9 @@ window.EDIZIONI["2026-10-22"] = {
    ],
    "data": "22 ott",
    "ora": "21:25",
-   "uscita": "mattino"
+   "uscita": "mattino",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zd8980c1a",
@@ -3236,7 +3238,7 @@ window.EDIZIONI["2026-10-22"] = {
   },
   {
    "id": "z7d68a460",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Come funzionano le elezioni in Israele e chi sono i principali candidati",
    "orig": "How do Israel's elections work and who are the main contenders?",
    "lead": "Una guida spiega il funzionamento delle prossime elezioni in Israele e presenta i principali contendenti. Molti osservatori considerano questo voto uno dei più decisivi nella storia del Paese, con conseguenze che vanno oltre i confini israeliani e toccano gli equilibri internazionali. La fonte non riporta nel sommario nomi dei candidati né la data del voto. Lo riferisce BBC News.",
@@ -3274,7 +3276,9 @@ window.EDIZIONI["2026-10-22"] = {
    ],
    "data": "22 ott",
    "ora": "21:19",
-   "uscita": "mattino"
+   "uscita": "mattino",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zb376fd2e",
@@ -4224,7 +4228,7 @@ window.EDIZIONI["2026-10-22"] = {
   },
   {
    "id": "z9771a6e1",
-   "sez": "italia",
+   "sez": "prima",
    "titolo": "Cortina, la famiglia Vacchi compra lo storico Hotel de la Poste",
    "orig": "Cortina, Alberto Vacchi compra l’Hotel de la Poste: ospitò Hemingway, Fonda e “Vacanze di Natale”",
    "lead": "L'imprenditore bolognese Alberto Vacchi ha concluso la trattativa per acquistare l'Hotel de la Poste di Cortina d'Ampezzo, uno degli alberghi più noti della località dolomitica. L'hotel passa così sotto il controllo della famiglia di industriali bolognesi attivi nel settore del packaging. La struttura sarà gestita dal figlio dell'imprenditore. L'albergo è legato alla storia della località: ha ospitato personaggi come lo scrittore Ernest Hemingway e l'attore Henry Fonda, ed è comparso nel film «Vacanze di Natale». Le fonti non indicano il prezzo dell'operazione né i progetti futuri per la struttura.",
@@ -4262,7 +4266,9 @@ window.EDIZIONI["2026-10-22"] = {
    ],
    "data": "22 ott",
    "ora": "21:15",
-   "uscita": "mattino"
+   "uscita": "mattino",
+   "sez_prima": "italia",
+   "riempimento": true
   },
   {
    "id": "zfd6e943c",
@@ -8586,7 +8592,10 @@ window.EDIZIONI["2026-10-22"] = {
   "z01424c81": "Negli ultimi mesi l'amministrazione Trump ha colpito la Corte penale internazionale con sanzioni sempre più ampie e il presidente americano ha promesso di smantellarla «mattone dopo mattone». In risposta, i Paesi europei hanno dichiarato il loro sostegno all'indipendenza del tribunale. Il premio Sacharov arriva in questo clima di scontro tra Washington e la Corte.",
   "z1df9a06f": "Stephen Hubbard era stato catturato a Izium durante l'occupazione russa e imprigionato con l'accusa di essere un mercenario al servizio dell'Ucraina. Per anni la sua famiglia ha avuto pochissime possibilità di intervenire, come racconta il figlio. Nelle ultime settimane Trump aveva chiesto a Putin di liberarlo, mentre proseguivano i contatti diplomatici tra Washington e Mosca.",
   "z2f7c97f9": "Nei giorni scorsi Champi si è rafforzato fino a diventare un super tifone, tra i più intensi della stagione nel Pacifico, prima di iniziare a perdere forza avvicinandosi a Taiwan. Le autorità hanno preparato l'isola all'impatto, mentre i voli venivano cancellati e le esercitazioni militari nella regione venivano modificate.",
-  "zb60d1577": "Le manifestazioni sono cominciate il 17 ottobre. Lo scorso fine settimana, a margine delle proteste, ci sono state violenze e saccheggi. A Parigi le autorità hanno introdotto un coprifuoco notturno nelle zone di République e delle Halles. Molte città hanno poi vietato i raduni previsti per sabato."
+  "zb60d1577": "Le manifestazioni sono cominciate il 17 ottobre. Lo scorso fine settimana, a margine delle proteste, ci sono state violenze e saccheggi. A Parigi le autorità hanno introdotto un coprifuoco notturno nelle zone di République e delle Halles. Molte città hanno poi vietato i raduni previsti per sabato.",
+  "zd434d71a": "La diplomazia sull'Ucraina procede a fasi alterne da quando Donald Trump è tornato alla Casa Bianca promettendo di chiudere il conflitto. Dopo il vertice con Putin in Alaska nell'agosto 2025 e l'incontro a Washington con Zelensky e i leader europei, i negoziati si sono più volte arenati. Le recenti mosse di Kiev e le aperture di Mosca su un possibile vertice a tre hanno riaperto la trattativa.",
+  "z7d68a460": "Israele arriva al voto dopo anni segnati dall'attacco di Hamas del 7 ottobre 2023 e dalla lunga guerra a Gaza, conclusa con il cessate il fuoco dell'ottobre 2025. La Knesset eletta nel novembre 2022 ha sostenuto il governo di Benjamin Netanyahu, il più a destra della storia del Paese, contestato a lungo anche per la riforma della giustizia. Il voto è considerato decisivo per il futuro politico israeliano.",
+  "z9771a6e1": "Cortina d'Ampezzo ha vissuto una stagione di forte attenzione internazionale grazie ai Giochi olimpici invernali di Milano Cortina del febbraio 2026, che hanno rilanciato l'interesse per le strutture ricettive della località. In questo contesto si inserisce la trattativa, ora conclusa, con cui la famiglia Vacchi, alla guida di un gruppo bolognese del packaging, acquisisce l'Hotel de la Poste, albergo simbolo della storia ampezzana."
  },
  "cronologie": {
   "zda3ea83a": [
@@ -8741,6 +8750,56 @@ window.EDIZIONI["2026-10-22"] = {
    [
     "23 ottobre",
     "Alle 15 Macron riceve le organizzazioni degli studenti delle superiori"
+   ]
+  ],
+  "zd434d71a": [
+   [
+    "24 febbraio 2022",
+    "La Russia invade l'Ucraina su larga scala"
+   ],
+   [
+    "15 agosto 2025",
+    "Vertice Trump-Putin ad Anchorage, in Alaska, senza accordo"
+   ],
+   [
+    "18 agosto 2025",
+    "Zelensky e i leader europei incontrano Trump alla Casa Bianca"
+   ],
+   [
+    "Ultimi giorni",
+    "Rilancio di Zelensky e aperture di Putin a un vertice a tre"
+   ]
+  ],
+  "z7d68a460": [
+   [
+    "1 novembre 2022",
+    "Elezioni della Knesset; nasce il governo guidato da Netanyahu"
+   ],
+   [
+    "2023",
+    "Proteste di massa contro la riforma della giustizia"
+   ],
+   [
+    "7 ottobre 2023",
+    "Attacco di Hamas e inizio della guerra a Gaza"
+   ],
+   [
+    "Ottobre 2025",
+    "Entra in vigore il cessate il fuoco a Gaza"
+   ]
+  ],
+  "z9771a6e1": [
+   [
+    "1983",
+    "L'hotel compare nel film «Vacanze di Natale»"
+   ],
+   [
+    "Febbraio 2026",
+    "Cortina ospita i Giochi olimpici invernali di Milano Cortina"
+   ],
+   [
+    "Ottobre 2026",
+    "La famiglia Vacchi conclude l'acquisto dell'Hotel de la Poste"
    ]
   ]
  },
@@ -10914,7 +10973,7 @@ window.EDIZIONI["2026-10-22"] = {
   "z5aa28c26": 2,
   "zba92ddc9": 2,
   "zc25784bd": 1,
-  "z9771a6e1": 1,
+  "z9771a6e1": 2,
   "zfd6e943c": 2,
   "zb9be6618": 1,
   "z87a8c13c": 1,
@@ -11091,7 +11150,7 @@ window.EDIZIONI["2026-10-22"] = {
   "z21ae7fda": 2,
   "z78ab9c3c": 1,
   "zc1068fa9": 2,
-  "z7d68a460": 1,
+  "z7d68a460": 3,
   "zb376fd2e": 1,
   "z7a3e2349": 2,
   "z243f95ac": 1,
@@ -11120,7 +11179,7 @@ window.EDIZIONI["2026-10-22"] = {
   "z68d27692": 1,
   "zbdddcadd": 1,
   "z9f7af5d3": 1,
-  "zd434d71a": 1,
+  "zd434d71a": 2,
   "zd8980c1a": 1,
   "z014bff7f": 1,
   "z1807f3cb": 1,
