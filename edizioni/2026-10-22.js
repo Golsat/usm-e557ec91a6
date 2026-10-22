@@ -629,7 +629,7 @@ window.EDIZIONI["2026-10-22"] = {
   },
   {
    "id": "zdfa7bbc7",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Basket, il COSPN sconfitto dall'Urunani BBC nella Road to BAL",
    "orig": "BASKETBALL – ROAD TO BAL - COSPN sombre face à Urunani",
    "lead": "Il COSPN, campione in carica del Madagascar, è stato sconfitto 69-93 dall'Urunani BBC del Burundi nella prima giornata della Road to BAL, nella zona Est in Uganda. Il match, disputato mercoledì, rappresenta l'esordio della squadra malgascia nella fase di qualificazione.",
@@ -1052,7 +1052,7 @@ window.EDIZIONI["2026-10-22"] = {
   },
   {
    "id": "z1308b9a7",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Cricket, Sudafrica batte l'Australia nel secondo Test e pareggia la serie",
    "orig": "Australia falls to defeat in final session, South Africa levels series",
    "lead": "Il Sudafrica ha vinto il secondo Test a Gqeberha con un margine di una pari inning e 31 run, pareggiando la serie sull'1-1. La squadra ha dovuto fronteggiare il maltempo e la resistenza dell'Australia nell'ultima sessione. Lo riferisce ABC News Australia.",
@@ -5807,6 +5807,15 @@ window.EDIZIONI["2026-10-22"] = {
      "angolo": "",
      "atlas": "Czechia",
      "t": "2026-10-22T11:07+02:00"
+    },
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/10/22/international-news-united-nations-warn-el-nino-could-become-strongest-on-record-urges-governments-to-prepare/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-10-22T16:08+00:00"
     }
    ],
    "data": "22 ott",
@@ -7220,7 +7229,7 @@ window.EDIZIONI["2026-10-22"] = {
   },
   {
    "id": "z00d040dd",
-   "sez": "economia",
+   "sez": "italia",
    "titolo": "A Napoli i «City Talks» con ministri e il sindaco Manfredi",
    "orig": "Al via a Napoli i “City Talks”, con Pichetto, Abodi, Giuli, Manfredi, Durigon e Butti",
    "lead": "Venerdì 23 e sabato 24 ottobre Napoli ospita i «City Talks», due giornate di incontri dedicate al tema «Le sfide». L'evento si svolge nella sede dell'ACEN, l'Associazione Costruttori Edili Napoli. Tra i partecipanti annunciati ci sono i ministri Gilberto Pichetto Fratin, Andrea Abodi e Alessandro Giuli, il sindaco di Napoli Gaetano Manfredi, il sottosegretario Claudio Durigon e il sottosegretario Alessio Butti. Gli incontri metteranno a confronto istituzioni e mondo delle costruzioni sulle sfide delle città. Lo riferisce Il Sole 24 Ore.",
@@ -7716,30 +7725,6 @@ window.EDIZIONI["2026-10-22"] = {
     }
    ],
    "data": "",
-   "ora": "21:15",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z3bdb2444",
-   "sez": "ambiente",
-   "titolo": "Onu: El Niño potrebbe diventare il più forte mai registrato",
-   "orig": "International News: United Nations warn El Niño could become strongest on record, urges Governments to prepare",
-   "lead": "L'Organizzazione meteorologica mondiale, agenzia delle Nazioni Unite, avverte che l'attuale fenomeno di El Niño potrebbe raggiungere un'intensità senza precedenti. Mercoledì la segretaria generale Celeste Saulo ha spiegato che l'evento rischia di provocare caldo estremo, siccità e alluvioni in diverse parti del mondo. Per questo ha chiesto ai governi di agire per tempo e di prepararsi, così da ridurre i danni possibili. Lo riferisce Breaking Belize News.",
-   "more": [
-    "El Niño è un fenomeno climatico naturale in cui le acque superficiali del Pacifico tropicale centrale e orientale diventano più calde del normale. Si ripete ogni pochi anni e modifica piogge e temperature in molte regioni del pianeta. Tende inoltre a far salire la temperatura media globale, sommandosi al riscaldamento causato dalle attività umane."
-   ],
-   "fonti": [
-    {
-     "n": "Breaking Belize News",
-     "p": "XX",
-     "c": "Belmopan",
-     "u": "https://www.breakingbelizenews.com/2026/10/22/international-news-united-nations-warn-el-nino-could-become-strongest-on-record-urges-governments-to-prepare/",
-     "angolo": "",
-     "atlas": "Belize",
-     "t": "2026-10-22T16:08+00:00"
-    }
-   ],
-   "data": "22 ott",
    "ora": "21:15",
    "uscita": "mattino"
   },
@@ -8444,7 +8429,6 @@ window.EDIZIONI["2026-10-22"] = {
   "zaef80a70": "Orizzonte Scuola mette al centro le informazioni da escludere per tutelare la privacy degli studenti.",
   "z51ec2ac2": "Rolling Stone Italia precisa la portata del ritorno, legato alle prove per concerti specifici.",
   "z63c93192": "Sky TG24 affianca le misure di sicurezza alla lettura sociale della violenza giovanile.",
-  "z3bdb2444": "Breaking Belize News riporta l'appello dell'Onu ai governi perché si preparino in anticipo.",
   "zc93340c7": "Al Jazeera mette in risalto la presenza delle migliori squadre, The Punch le date e i club già qualificati.",
   "z8c9b1db4": "Turkish Minute insiste sul rischio legato all'energia, Bianet sugli effetti limitati per chi chiede prestiti.",
   "z80a70e75": "MaltaToday presenta lo spettacolo soffermandosi sui temi della crescita e dell'amicizia.",
@@ -9908,11 +9892,6 @@ window.EDIZIONI["2026-10-22"] = {
    ],
    "pt": []
   },
-  "z3bdb2444": {
-   "n": "Mondo",
-   "p": [],
-   "pt": []
-  },
   "zc93340c7": {
    "n": "Stati Uniti",
    "p": [
@@ -11040,7 +11019,6 @@ window.EDIZIONI["2026-10-22"] = {
   "zaef80a70": 1,
   "z51ec2ac2": 1,
   "z63c93192": 1,
-  "z3bdb2444": 2,
   "zc93340c7": 2,
   "z8c9b1db4": 2,
   "z80a70e75": 1,
