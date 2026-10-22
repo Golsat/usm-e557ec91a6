@@ -3,6 +3,1164 @@ window.EDIZIONI["2026-10-22"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "zbdddcadd",
+   "sez": "mondo",
+   "titolo": "I cocaleros boliviani chiedono il carcere per la produzione illegale di coca",
+   "orig": "Cocaleros piden sancionar con cárcel la producción ilegal de hoja de coca en Bolivia",
+   "lead": "I cocaleros boliviani chiedono che la produzione illegale di foglia di coca sia punita con il carcere. Intanto il governo conferma la presenza della DEA nel Paese e ammette che le coltivazioni nel Trópico di Cochabamba superano il limite legale fissato.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/10/22/cocaleros-piden-sancionar-con-carcel-la-produccion-ilegal-de-hoja-de-coca-en-bolivia/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-10-22T18:55+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/gobierno-confirma-presencia-dea-bolivia-admite-que-cultivos-coca-superan-limite-legal/20261022104832998009.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-22T10:48-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9f7af5d3",
+   "sez": "mondo",
+   "titolo": "Italia e Spagna revocano i controlli alle frontiere dopo la crisi di Ceuta",
+   "orig": "Italy and Spain lift border controls after months of tension over Ceuta",
+   "lead": "Italia e Spagna revocano i controlli alle frontiere dopo mesi di tensioni legate a Ceuta, dove oltre 70.000 persone sono entrate irregolarmente dal Marocco. Il tema preoccupa l'Unione europea per la sicurezza dei confini. Il caso alimenta la tensione politica in vista delle elezioni del mese prossimo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-10-22T16:04+00:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/video/2026/10/22/how-migration-is-reshaping-the-political-debate-in-spains-ceuta",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-22T17:39+02:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd434d71a",
+   "sez": "mondo",
+   "titolo": "Ucraina, Trump: «più vicini a una soluzione»",
+   "orig": "Ucraina, Trump: più vicini a soluzione",
+   "lead": "Il presidente Trump afferma che si è più vicini a una soluzione per l'Ucraina, dopo il rilancio di Zelensky e le aperture di Putin. Il leader russo si dice disposto a discutere un vertice con Trump e Zelensky: «ne discutiamo». La trattativa resta aperta.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/ucraina-trump-piu-vicini-a-soluzione-376c5a1e-5dfc-4151-a41b-a7389c2b8a66.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T06:40+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/10/22/ucraina-putin-apre-a-un-vertice-con-trump-e-zelensky-ne-discutiamo_98c24b57-9871-4c38-bc42-2d378bac89ad.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T17:08+02:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd8980c1a",
+   "sez": "italia",
+   "titolo": "Shalabayeva, terzo processo d'appello per cinque imputati",
+   "orig": "Shalabayeva, appello ter per 5 imputati",
+   "lead": "La Cassazione ha ordinato un terzo processo d'appello per cinque imputati, poliziotti accusati del sequestro della figlia di Alma Shalabayeva. Il caso riguarda l'espulsione di Alma e della figlia nel 2013. Si tratta di una vicenda giudiziaria che si trascina da anni.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/shalabayeva-appello-ter-per-5-imputati-a4597878-c96f-4a92-9043-b3a8ec8625ef.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T15:57+00:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/10/22/alma-shalabayeva-nuovo-processo-cassazione/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T16:48+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z014bff7f",
+   "sez": "mondo",
+   "titolo": "Seul, 34 attivisti studenteschi condannati per intrusione nel complesso presidenziale e in una base Usa",
+   "orig": "34 student activists convicted of illegal entry into presidential compound, U.S. base",
+   "lead": "Un tribunale di Seul ha condannato giovedì 34 attivisti studenteschi per essersi introdotti illegalmente nel complesso presidenziale e in una base militare statunitense, con fatti avvenuti tra il 2022 e il 2024. Il tribunale distrettuale occidentale ha inflitto una pena a un dirigente di spicco del gruppo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261022010300315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-10-22T17:19+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10911953",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1807f3cb",
+   "sez": "mondo",
+   "titolo": "Papua Nuova Guinea, il Parlamento si avvicina a una decisione sull'indipendenza di Bougainville",
+   "orig": "Bougainville scars acknowledged as Papua New Guinea MPs near big decision",
+   "lead": "Nel parlamento della Papua Nuova Guinea si svolge un dibattito carico di emozione sulla possibile approvazione dell'indipendenza della regione autonoma di Bougainville, mentre i deputati si avvicinano a una decisione importante. Il confronto riconosce le ferite lasciate dal passato della regione. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2085694/bougainville-scars-acknowledged-as-papua-new-guinea-mps-near-big-decision",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-22T17:37+13:00"
+    },
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/australia-announces-pgk21-million-el-nino-support-package-for-papua-new-guinea/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-22T17:27+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z141a4d06",
+   "sez": "mondo",
+   "titolo": "Nigeria, Makinde difende la corsa alle presidenziali 2027 contro Tinubu",
+   "orig": "2027: Makinde defends running against Tinubu, says South-west can present two presidential candidates",
+   "lead": "Il governatore Makinde difende la sua candidatura alle presidenziali del 2027 contro Tinubu, sostenendo che il Sud-Ovest può presentare due candidati. Afferma che la sua ambizione nasce dal desiderio di offrire ai nigeriani una leadership alternativa, capace di affrontare le sfide economiche, di sicurezza e di sviluppo del Paese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/headlines/919357-2027-makinde-defends-running-against-tinubu-says-south-west-can-present-two-presidential-candidates.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-10-22T16:52+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/evening-recap-nec-backs-90-day-cost-plan-makinde-defends-bid-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zba311237",
+   "sez": "mondo",
+   "titolo": "Birmania, Kim Aris sente la madre Aung San Suu Kyi dopo oltre cinque anni",
+   "orig": "Son of Aung San Suu Kyi Says He Has First Call With Her in 5 Years",
+   "lead": "Kim Aris, figlio di Aung San Suu Kyi, ha avuto la prima telefonata con la madre detenuta dopo oltre cinque anni. Ha detto che sentire la sua voce vale più delle parole, ma una sola conversazione non equivale alla libertà. Chiede di mantenere la pressione per ottenerla.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Irrawaddy",
+     "p": "XX",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/news/burma/son-of-aung-san-suu-kyi-says-he-has-first-call-with-her-in-5-years.html",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-10-22T10:54+00:00"
+    },
+    {
+     "n": "Myanmar Now",
+     "p": "XX",
+     "c": "Yangon",
+     "u": "https://myanmar-now.org/en/news/suu-kyi-speaks-to-son-for-first-time-in-more-than-five-years/",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-10-22T09:47+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4b187792",
+   "sez": "mondo",
+   "titolo": "Lisbona, la prima conferenza di Davi Kopenawa",
+   "orig": "\"Lição de humildade\" na primeira conferência da Davi Kopenawa em Lisboa",
+   "lead": "Davi Kopenawa, xamano e leader spirituale del popolo Yanomami, ha tenuto la sua prima conferenza a Lisbona, nel punto più occidentale dell'Europa continentale, il Cabo da Roca. L'incontro con una ricercatrice portoghese di scienze sociali è stato una lezione di umiltà.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/cultura/licao-de-humildade-na-primeira-conferencia-da-davi-kopenawa-em-lisboa_n1773586",
+     "angolo": "",
+     "atlas": "Portugal"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/10/22/newsletter/azul",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-10-22T17:41+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za10da274",
+   "sez": "economia",
+   "titolo": "Tir, danni per milioni e frutta e carne colpite",
+   "orig": "Tir, Mauro Lusetti: “Danni per milioni, colpiti frutta e carne. Una settimana per la normalità”",
+   "lead": "Mauro Lusetti, vicepresidente di Confcommercio e presidente di Conad, parla di danni per milioni legati ai tir, con frutta e carne tra i prodotti colpiti. Stima una settimana per tornare alla normalità e nota che al Sud i contratti con gli autotrasportatori prevedono meno spesso clausole di adeguamento automatico al caro-gasolio. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/22/news/tir_mauro_lusetti_conad_danni_per_milioni_colpiti_frutta_e_carne-425667631/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T15:39+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/10/22/news/tir_mauro_lusetti_conad_danni_per_milioni_colpiti_frutta_e_carne-425667631/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T17:39+02:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7d9b9838",
+   "sez": "mondo",
+   "titolo": "Pace o guerra, l'Ucraina decide il futuro dell'Ue",
+   "orig": "Pace o guerra, sarà l’Ucraina a decidere il futuro dell’Ue",
+   "lead": "Trattative e combattimenti in Ucraina aprono scenari incogniti che pesano sull'Unione europea, a partire dal patto tra Trump e Putin. Secondo l'analisi, sarà l'Ucraina a decidere il futuro dell'Ue. Lo scenario resta incerto, con ricadute su tutta l'Unione. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/10/22/news/pace_o_guerra_sara_l_ucraina_a_decidere_il_futuro_dell_ue-425667156/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T13:00+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/10/22/news/pace_o_guerra_sara_l_ucraina_a_decidere_il_futuro_dell_ue-425667156/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T15:00+02:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z77a00205",
+   "sez": "mondo",
+   "titolo": "Pakistan, annullata la nomina del legale dello Stato nel caso Imaan Mazari e Hadi Chattha",
+   "orig": "ATC replaces state counsel in security breach case after Imaan, Hadi object to appointment",
+   "lead": "Un tribunale antiterrorismo pakistano ha annullato giovedì la nomina dell'avvocato dello Stato Taimoor Janjua nel caso di violazione della sicurezza che vede imputati gli avvocati Imaan Zainab Mazari-Hazir e Hadi Ali Chattha. La decisione segue l'obiezione degli imputati alla condotta passata del legale in un altro procedimento.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2039035/atc-replaces-state-counsel-in-security-breach-case-after-imaan-hadi-object-to-appointment",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-22T20:57+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2636320/atc-replaces-state-counsel-after-imaan-hadi-object-to-appointment",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-10-22T11:33+05:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z19139300",
+   "sez": "mondo",
+   "titolo": "Cisgiordania, quattro italiane fermate. Israele annuncia l'espulsione",
+   "orig": "Cisgiordania, quattro italiane tra gli attivisti fermati. Farnesina chiede chiarimenti urgenti. Israele annuncia l’espulsione: “Promozione del terrorismo”",
+   "lead": "Israele annuncia l'espulsione degli attivisti internazionali fermati in Cisgiordania, tra cui quattro italiane, accusati di «promozione del terrorismo». La polizia israeliana sostiene che alcuni sarebbero coinvolti nell'«esaltazione di attentatori». La Farnesina chiede chiarimenti urgenti sul fermo. Il fermo riguarda volontari impegnati a difesa dei raccoglitori di olive palestinesi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/10/22/cisgiordania-fermate-quattro-attiviste-italiane-la-farnesina-interviene-e-chiede-chiarimenti-urgenti-a-israele/8547000/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T18:22+00:00"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/mondo/attiviste_italiane_arrestate_cisgiordania_israele_chi_sono_perche_cosa_e_successo-9842204.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4b41c204",
+   "sez": "mondo",
+   "titolo": "Somalia, piano per demolire edifici vicino all'aeroporto di Mogadiscio",
+   "orig": "Somalia plans to demolish structures near Mogadishu airport to improve security",
+   "lead": "Il governo federale somalo prevede di trasferire o demolire edifici vicino all'aeroporto internazionale Aden Adde di Mogadiscio, per rafforzare la sicurezza e migliorare le operazioni dello scalo principale del Paese. Il progetto è finalizzato a rendere più efficiente il principale ingresso internazionale della Somalia. Lo riferisce Hiiraan Online.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/security4/2026/Oct/206586/somalia_plans_to_demolish_structures_near_mogadishu_airport_to_improve_security.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-22T08:24+00:00"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/somalia-police-enter-hormuud-headquarters-mogadishu/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-10-18T17:02+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0ff92681",
+   "sez": "mondo",
+   "titolo": "Sud Sudan, spari a Rubkona durante l'arresto di un ex commissario",
+   "orig": "Gunfire erupts as soldiers arrest former Rubkona commissioner over political endorsement",
+   "lead": "Spari all'aeroporto di Rubkona, nello Stato sudsudanese dell'Unity, mentre soldati arrestano l'ex commissario di contea Stephen Salam Maluit. Il fermo è legato al suo presunto sostegno a un candidato che vuole sostituire il governatore ad interim Joseph Nguen Manytuil. Secondo Eye Radio, avrebbe aperto il fuoco all'arrivo del candidato Michael Chanjiek Geay.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/breaking-gunfire-erupts-as-soldiers-arrest-former-rubkona-commissioner-over-political-endorsement/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-gunfire-erupts-as-soldiers-arrest-former-rubkona-commissioner-over-political-endorsement",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-22T10:32+00:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/ex-rubkona-commissioner-arrested-after-alleged-shooting-at-bentiu-airstrip/?utm_source=rss&utm_medium=rss&utm_campaign=ex-rubkona-commissioner-arrested-after-alleged-shooting-at-bentiu-airstrip",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-10-22T12:42+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7aa2e387",
+   "sez": "mondo",
+   "titolo": "Racquetball, il boliviano Conrrado Moscoso è bicampione mondiale",
+   "orig": "El boliviano Conrrado Moscoso es campeón mundial de ráquetbol",
+   "lead": "Il boliviano Conrrado Moscoso, numero uno del mondo secondo il ranking IRF, ha vinto il titolo mondiale di racquetball a Temuco, in Cile, battendo 3-1 lo statunitense Jake Bredenbeck in finale. Il successo gli permette di revalidare la corona mondiale, rendendolo bicampione del mondo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/deportes/el-boliviano-conrrado-moscoso-es-campeon-mundial-de-raquetbol-",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-22T13:36-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/deportes/conrrado-moscoso-vuelve-conquistar-mundo-es-bicampeon-mundial/20261022114852998012.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-10-22T11:48-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8d80190f",
+   "sez": "mondo",
+   "titolo": "Spagna, il PSOE accetta un faccia a faccia con Feijóo il 16 novembre",
+   "orig": "El PSOE acepta un cara a cara con Feijóo el 16 de noviembre y sigue en el aire la celebración del debate a cuatro",
+   "lead": "Il PSOE accetta un confronto diretto con il leader del Partito popolare Alberto Núñez Feijóo il 16 novembre. Il dibattito tra le quattro forze maggiori, previsto per il 26, resta in bilico: i socialisti vogliono RTVE, il PP rifiuta la rete pubblica, mentre i popolari propongono Atresmedia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-psoe-acepta-un-cara-a-cara-con-feijoo-el-16-de-noviembre.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-22T15:54+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/22/6ada2ea4e4d4d887418b45b8.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-22T17:54+02:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/22/6ada4fd6e4d4d8e0338b456e.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-22T20:08+02:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z128cd284",
+   "sez": "mondo",
+   "titolo": "Edan Diop si ritaglia spazio all'AS Monaco dopo il prestito",
+   "orig": "« Son jeu a gagné en maturité » : comment Edan Diop a profité de son prêt à Bruges pour se faire une place à l’AS Monaco",
+   "lead": "Il centrocampista Edan Diop si è preso spazio all'AS Monaco dopo il prestito al Cercle Bruges, dove ha migliorato il rendimento. Ha conquistato la fiducia dell'allenatore Filipe Luis e ha già due titolarità in questa stagione. Giovedì sera, alle 21, il Monaco riceve lo SC Fribourg al Louis-II in Ligue Conférence. Lo riferisce Monaco Matin.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/football/son-jeu-a-gagne-en-maturite-comment-edan-diop-a-profite-de-son-pret-a-bruges-pour-se-faire-une-place-a-l-as-monaco-10744411",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-22T08:15+02:00"
+    },
+    {
+     "n": "Monaco Tribune",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.monaco-tribune.com/2026/10/choisir-la-meilleure-villas-pendant-ses-vacances-comment-faire/",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-10-17T12:53+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb1a77992",
+   "sez": "mondo",
+   "titolo": "Guinea, ampio rimpasto nell'apparato giudiziario",
+   "orig": "Guinée : vaste remaniement au sein de l’appareil judiciaire",
+   "lead": "Il presidente Doumbouya ha varato con decreto un ampio rimpasto dell'apparato giudiziario, che coinvolge la Corte suprema e le corti d'appello di Conakry e Kankan. Il provvedimento, trasmesso mercoledì sera dalla tv nazionale, interessa anche l'Ispettorato generale dei servizi giudiziari. La presidenza ha fornito chiarimenti sulla decisione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/10/guinee-vaste-remaniement-au-sein-de-lappareil-judiciaire/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-22T16:47+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/pourquoi-le-president-doumbouya-a-opere-un-remaniement-au-sein-de-lappareil-judiciaire-la-presidence-apporte-des-precisions/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-10-22T10:30+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z58082f10",
+   "sez": "economia",
+   "titolo": "Vienna, la Borsa chiude in forte calo sull'intelligenza artificiale: -4,60%",
+   "orig": "Wiener Börse schloss tiefrot",
+   "lead": "La Borsa di Vienna ha chiuso in profondo rosso, con un calo del 4,60%, trascinata dalla vendita dei titoli dell'intelligenza artificiale. Pesano i piani di Meta e i costi record delle assicurazioni sui crediti nel settore. Il calo interessa tutto il comparto tecnologico.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3445886/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-22T18:04+02:00"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000345596/-wiener-b246rse-schlie223t-tiefrot-atx-rutscht-um-460-prozent-ab?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-10-22T15:56+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zdfa7bbc7",
+   "sez": "mondo",
+   "titolo": "Basket, il COSPN sconfitto dall'Urunani BBC nella Road to BAL",
+   "orig": "BASKETBALL – ROAD TO BAL - COSPN sombre face à Urunani",
+   "lead": "Il COSPN, campione in carica del Madagascar, è stato sconfitto 69-93 dall'Urunani BBC del Burundi nella prima giornata della Road to BAL, nella zona Est in Uganda. Il match, disputato mercoledì, rappresenta l'esordio della squadra malgascia nella fase di qualificazione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/8378915760063535304/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-22T05:50+03:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/basketball-le-cospn-sincline-face-a-lurunani-bbc-du-burundi-pour-son-entree-en-lice-a-la-road-to-bal-en-ouganda",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-10-22T09:09+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1684639f",
+   "sez": "salute",
+   "titolo": "Stare seduti alla scrivania tutto il giorno: cinque rimedi contro i dolori",
+   "orig": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+   "lead": "Restare seduti alla scrivania per tutta la giornata provoca dolori e non fa bene alla salute. La NPR propone cinque strategie per alleviare il disagio, dagli esercizi per i muscoli oculari contro l'affaticamento della vista a un movimento per combattere il mal di schiena. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-22T05:01-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z948c9bc3",
+   "sez": "mondo",
+   "titolo": "Usa, Valadao lotta per la rielezione in un collegio dove il Medicaid copre il 62%",
+   "orig": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+   "lead": "Il deputato repubblicano David Valadao cerca la rielezione nella California centrale, dove circa il 62% dei residenti del suo collegio è coperto da Medicaid, il programma che ha votato per tagliare l'anno scorso. Il punto è se riuscirà a vincere. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-22T05:00-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z809b6895",
+   "sez": "mondo",
+   "titolo": "Usa, il ridisegno dei collegi voluto da Trump dà un vantaggio ai repubblicani",
+   "orig": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+   "lead": "Il ridisegno dei collegi elettorali voluto dal presidente Trump ha innescato una rara ondata di ridisegni a metà decennio, dando ai repubblicani un vantaggio iniziale per conservare la Camera. Ma il risultato dipenderà dagli elettori, che decideranno nelle urne. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-22T05:00-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze1c67289",
+   "sez": "mondo",
+   "titolo": "Irlanda, la tempesta Austen porta piogge intense e rischio di allagamenti",
+   "orig": "'Intense' rain, flooding as Storm Austen to hit Ireland",
+   "lead": "La tempesta Austen si abbatte sull'Irlanda con piogge descritte come intense. La Direzione nazionale per la gestione degli incendi e delle emergenze avverte del potenziale rischio di allagamenti e di difficili condizioni di viaggio. L'avviso è stato diffuso dalle autorità competenti. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1022/1596378-weather-warnings/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-22T06:21+01:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/munster/2026/1022/1596483-storm-preparation/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-22T15:55+01:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd8f77b2d",
+   "sez": "mondo",
+   "titolo": "Irlanda del Nord, richiesta di licenza di esumazione per riseppellire Roger Casement",
+   "orig": "Exhumation licence sought in bid to re-inter Casement",
+   "lead": "Un gruppo di sostenitori che vuole riseppellire i resti di Roger Casement a Murlough Bay, nella contea di Antrim, ha presentato domanda formale per ottenere una licenza di esumazione. La campagna mira a riportare le spoglie nel luogo scelto per la sepoltura. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ireland/2026/1022/1596487-roger-casement-exhumation/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-10-22T19:00+01:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0c459dc2",
+   "sez": "mondo",
+   "titolo": "Corte Ue: la legge ceca viola il diritto all'avvocato durante gli interrogatori",
+   "orig": "EU court rules Czech law breaches right to a lawyer during police questioning",
+   "lead": "La Corte di giustizia dell'Unione europea ha stabilito che la normativa ceca viola il diritto ad avere un avvocato durante gli interrogatori di polizia. La sentenza riguarda le garanzie delle persone sottoposte a interrogatorio nella Repubblica Ceca. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/eu-court-rules-czech-law-breaches-right-a-lawyer-during-police-questioning-8900715",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-10-22T13:04+02:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za3de02e2",
+   "sez": "mondo",
+   "titolo": "Polonia, indagine su un presunto complotto per incendiare una fabbrica di droni per l'Ucraina",
+   "orig": "Lenkija tiria sąmokslą padegti karinius dronus Ukrainai gaminančią gamyklą",
+   "lead": "I procuratori polacchi hanno aperto un'indagine su un presunto complotto per incendiare una fabbrica che produce droni militari destinati all'Ucraina. Secondo quanto emerso, un reclutatore legato alla Russia avrebbe offerto 30mila dollari per l'atto. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3090448/lenkija-tiria-samoksla-padegti-karinius-dronus-ukrainai-gaminancia-gamykla",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-22T21:42+03:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9050b964",
+   "sez": "mondo",
+   "titolo": "Estonia, accesso alla piattaforma Moodle limitato temporaneamente",
+   "orig": "Education ministry to temporarily restrict access to Moodle platform",
+   "lead": "Il ministero dell'Istruzione e della ricerca estone limita temporaneamente l'accesso alla piattaforma di apprendimento Moodle a partire da giovedì. La misura risponde a vulnerabilità critiche del software e serve a garantire la sicurezza della piattaforma e dei dati trattati. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610173696/education-ministry-to-temporarily-restrict-access-to-moodle-platform",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-22T16:19+03:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4d501ca1",
+   "sez": "mondo",
+   "titolo": "Estonia, arrivano in Paese missili HIMARS a corto raggio",
+   "orig": "Shorter-range HIMARS missiles arrive in Estonia",
+   "lead": "Il ministro della Difesa estone Martin Herem ha confermato a ERR che in Estonia sono arrivati missili con gittata di 70 chilometri per il sistema di artiglieria a razzi HIMARS, definiti a corto raggio. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610173675/shorter-range-himars-missiles-arrive-in-estonia",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-22T16:05+03:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zefbf2317",
+   "sez": "mondo",
+   "titolo": "Estonia, il premier: con i Social Democratici si lavorerebbe meglio sotto Vseviov",
+   "orig": "Prime minister: We'll definitely work better with the Social Democrats under Vseviov",
+   "lead": "Il premier estone Kristen Michal, presidente del Partito Riformatore, ha affermato che la collaborazione con i Social Democratici sarebbe sicuramente migliore se il partito fosse guidato da Jonatan Vseviov. Le dichiarazioni riguardano i rapporti tra le due forze politiche. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610173660/prime-minister-we-ll-definitely-work-better-with-the-social-democrats-under-vseviov",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-10-22T15:55+03:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb824f025",
+   "sez": "mondo",
+   "titolo": "Lettonia, niente nuove tasse né spesa: anni di austerità, avverte il ministro",
+   "orig": "No new taxes, no new spending, promises Latvian Finance Minister",
+   "lead": "Il ministro delle Finanze lettone Māris Kučinskis ha annunciato che i prossimi anni saranno di austerità, controllo e riforme, senza nuove tasse né spesa aggiuntiva, con probabili blocchi salariali nel settore pubblico. Le dichiarazioni sono state rese il 22 ottobre al programma radiofonico Krustpunktā. Lo riferisce LSM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/economy/economy/22.10.2026-no-new-taxes-no-new-spending-promises-latvian-finance-minister.a668736/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-10-22T15:16+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6f434e09",
+   "sez": "mondo",
+   "titolo": "Lettonia, roaming nazionale in tutto il Paese in caso di crisi",
+   "orig": "'Nationwide roaming' will be available across Latvia in a crisis",
+   "lead": "Il Saeima lettone ha approvato in via definitiva, giovedì 22 ottobre, modifiche urgenti alla legge sulle comunicazioni elettroniche. L'obiettivo è garantire le comunicazioni ai residenti in situazioni di crisi, con il cosiddetto roaming nazionale disponibile su tutto il territorio. Lo riferisce LSM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/society/society/22.10.2026-nationwide-roaming-will-be-available-across-latvia-in-a-crisis.a668698/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-10-22T11:53+00:00"
+    },
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/features/media/22.10.2026-saeima-passes-controversial-quickfire-amendments-to-media-law.a668690/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-10-22T11:44+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb2b512cc",
+   "sez": "mondo",
+   "titolo": "Stati Uniti, richieste di sussidio di disoccupazione scese a 194mila, minimo da luglio",
+   "orig": "U.S. jobless claims fell to 194,000 last week, lowest since July",
+   "lead": "Le richieste settimanali di sussidio di disoccupazione negli Stati Uniti sono scese a 194mila nell'ultima settimana, il livello più basso da luglio. Nel corso dell'anno le richieste sono rimaste su livelli storicamente bassi, senza mai superare quota 230mila in una singola settimana. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/economy/u-s-jobless-claims-fell-to-194000-last-week-lowest-since-july",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-22T13:55-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z78f270da",
+   "sez": "mondo",
+   "titolo": "Trump in Iowa con la candidata al Senato Ashley Hinson",
+   "orig": "WATCH LIVE: Trump rallies in Iowa with GOP Senate candidate Ashley Hinson",
+   "lead": "Il presidente Donald Trump terrà giovedì un comizio a Sioux City, nel nordovest conservatore dell'Iowa, insieme alla candidata repubblicana al Senato Ashley Hinson. L'evento, in un'area considerata sicura per il partito, punta a favorire l'affluenza, pur legando più strettamente la candidata a un presidente impopolare. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-with-gop-senate-candidate-ashley-hinson",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-22T10:02-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8d50839e",
+   "sez": "mondo",
+   "titolo": "Michigan, ultimo dibattito al Senato: El-Sayed e Rogers si contestano la lealtà",
+   "orig": "In final Michigan Senate debate, El-Sayed and Rogers question each other's loyalties",
+   "lead": "Nell'ultimo dibattito per il Senato in Michigan, El-Sayed e Rogers si sono rivolti reciprocamente accuse sulla propria lealtà. Stavolta il confronto si è concentrato sulle politiche, anche se entrambi hanno più volte ripreso i loro attacchi principali. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/in-final-michigan-senate-debate-el-sayed-and-rogers-question-each-others-loyalties",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-22T09:54-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z6fc7758a",
+   "sez": "mondo",
+   "titolo": "Canadesi coinvolti nella stretta Usa sul voto, Washington accusa Ottawa di interferenza",
+   "orig": "Canadians caught up in Trump voter fraud crackdown as U.S. accuses Canada of election interference",
+   "lead": "Negli Stati Uniti, da fine anno scorso, i pubblici ministeri federali hanno incriminato decine di non cittadini, molti dei quali residenti permanenti da lungo tempo, per aver votato illegalmente alle elezioni federali. Almeno 13 canadesi sono coinvolti, alla vigilia delle elezioni di metà mandato del 3 novembre. Lo riferisce CBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/canada/canadians-caught-up-in-trump-crackdown-on-noncitizen-voting-midterms-9.7390326?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-10-22T04:00-04:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z74b837ad",
+   "sez": "mondo",
+   "titolo": "Francia, 217 condannati al carcere per i disordini",
+   "orig": "French justice minister says 217 people jailed over riots",
+   "lead": "Il ministro della Giustizia francese ha riferito che 217 persone sono state condannate al carcere per i disordini, mentre 2.700 sono state fermate. Gli avvocati hanno criticato la rapidità dei processi e il sovraffollamento delle carceri francesi. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/french-justice-minister-says-217-people-jailed-over-riots-6483431",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-10-23T01:17+08:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1308b9a7",
+   "sez": "mondo",
+   "titolo": "Cricket, Sudafrica batte l'Australia nel secondo Test e pareggia la serie",
+   "orig": "Australia falls to defeat in final session, South Africa levels series",
+   "lead": "Il Sudafrica ha vinto il secondo Test a Gqeberha con un margine di una pari inning e 31 run, pareggiando la serie sull'1-1. La squadra ha dovuto fronteggiare il maltempo e la resistenza dell'Australia nell'ultima sessione. Lo riferisce ABC News Australia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-10-22/test-cricket-live-updates-south-africa-vs-australia/107298268",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-10-22T07:08+00:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4776489b",
+   "sez": "mondo",
+   "titolo": "Auckland, treni cancellati e in ritardo per problemi di ventilazione nella galleria CRL",
+   "orig": "Trains cancelled and delayed after ventilation problems in CRL tunnel",
+   "lead": "Ad Auckland, problemi di ventilazione nella galleria del City Rail Link hanno causato cancellazioni e ritardi sulle linee East West, South City e Onehunga West. Le criticità riguardano problemi infrastrutturali. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/community/2092016/trains-cancelled-and-delayed-after-ventilation-problems-in-crl-tunnel",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-23T07:21+13:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1c8e20cc",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda, la quinoa come nuova opzione per gli agricoltori di seminativi",
+   "orig": "Growing quinoa 'very real, new option' for struggling arable farmers",
+   "lead": "In Nuova Zelanda la coltivazione della quinoa viene presentata come nuova opzione concreta per gli agricoltori di seminativi in difficoltà. La crescente domanda e le nuove opportunità di esportazione potrebbero offrire una soluzione ad alcune delle difficoltà del settore. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/country/2092185/growing-quinoa-very-real-new-option-for-struggling-arable-farmers",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-10-23T06:48+13:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z85b93f17",
+   "sez": "mondo",
+   "titolo": "Figi, il rapporto con Israele è «biblico e reale» secondo il vice premier",
+   "orig": "Israel's relationship with Pacific is 'biblical, ageless, real', Fijian deputy PM says",
+   "lead": "Il vice primo ministro delle Figi ha affermato che il rapporto tra Israele e il Pacifico è «biblico, senza età, reale», poiché l'intero Pacifico insulare si riconosce in Israele. La dichiarazione arriva dopo l'ammissione di Israele nel Forum delle Isole del Pacifico come partner per lo sviluppo. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2084983/israel-s-relationship-with-pacific-is-biblical-ageless-real-fijian-deputy-pm-says",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-22T16:32+13:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd93a197a",
+   "sez": "mondo",
+   "titolo": "Papua occidentale, la società civile chiede accesso all'ONU e al Pacifico",
+   "orig": "West Papuan civil society calls for UN and Pacific access to region",
+   "lead": "La società civile della Papua occidentale chiede l'accesso della regione all'ONU e alle nazioni del Pacifico. Giacarta sostiene che i problemi di diritti umani in Papua siano già affrontati, ma le organizzazioni ritengono necessario l'accesso dell'ufficio ONU per i diritti umani e un dialogo. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2070620/west-papuan-civil-society-calls-for-un-and-pacific-access-to-region",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-10-22T11:50+13:00"
+    }
+   ],
+   "data": "22 ott",
+   "ora": "21:25",
+   "uscita": "mattino"
+  },
+  {
    "id": "zc93340c7",
    "sez": "sport",
    "titolo": "Gli Stati Uniti ospiteranno nel 2028 il primo Mondiale per club femminile",
@@ -2562,6 +3720,15 @@ window.EDIZIONI["2026-10-22"] = {
      "angolo": "",
      "atlas": "Serbia",
      "t": "2026-10-22T20:21+02:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3090452/artejant-svarbiems-rinkimams-serbijoje-i-mitingus-susirinko-tukstanciai-zmoniu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-10-22T22:00+03:00"
     }
    ],
    "data": "22 ott",
@@ -3082,6 +4249,15 @@ window.EDIZIONI["2026-10-22"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-10-22T20:02+02:00"
+    },
+    {
+     "n": "Il Sole 24 Ore – Casa24",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/vacchi-acquista-l-hotel-de-poste-cortina-AJAhPerB",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-10-22T17:55+00:00"
     }
    ],
    "data": "22 ott",
@@ -7367,7 +8543,50 @@ window.EDIZIONI["2026-10-22"] = {
   "zcc73dbf0": "Gabonreview dà voce alla posizione del direttore dell'ente, con focus sui costi del sistema.",
   "z1fc0f584": "Radio Ndeke Luka dà voce al ministero, con una prospettiva istituzionale.",
   "zbf408e2a": "Público, quotidiano lisbonese, mette l'accento sulla richiesta formale dell'Ordine.",
-  "z68d27692": "Seneweb, testata senegalese, presenta la cerimonia come segnale dell'impegno del Paese."
+  "z68d27692": "Seneweb, testata senegalese, presenta la cerimonia come segnale dell'impegno del Paese.",
+  "zbdddcadd": "ABC Color riporta la richiesta dei cocaleros, mentre Opinión (Bolivia) si concentra sulle parole del governo.",
+  "z9f7af5d3": "Al Jazeera inquadra la notizia come questione di sicurezza delle frontiere europee.",
+  "zd434d71a": "Rai News dà risalto alle parole di Trump, mentre l'ANSA mette al centro l'apertura di Putin.",
+  "zd8980c1a": "Rai News sintetizza l'esito processuale, Il Post ricostruisce il quadro complessivo della vicenda.",
+  "z014bff7f": "Yonhap e il Korea Herald riportano la sentenza con taglio di cronaca giudiziaria.",
+  "z1807f3cb": "RNZ Pacific mette in primo piano la dimensione emotiva del dibattito e le cicatrici del passato.",
+  "z141a4d06": "Premium Times riporta le parole del governatore, il Punch le inserisce in un riepilogo serale delle notizie del giorno.",
+  "zba311237": "The Irrawaddy, testata in esilio, riporta le parole del figlio con attenzione al messaggio di prudenza; Myanmar Now sottolinea la richiesta di pressione.",
+  "z4b187792": "RTP dà risalto al valore simbolico dell'incontro, Público lega la visita al tema del litio in Portogallo.",
+  "za10da274": "La Repubblica affida la notizia a un'intervista con un rappresentante della distribuzione, con focus sull'impatto economico.",
+  "z7d9b9838": "La Repubblica legge il conflitto soprattutto in chiave di ricadute europee, con taglio analitico.",
+  "z77a00205": "Dawn riporta la vicenda nel dettaglio processuale, con riferimenti al caso della coppia di avvocati.",
+  "z19139300": "Il Fatto Quotidiano insiste sul fronte diplomatico italiano, il Messaggero sul contesto dei volontari a tutela dei raccoglitori di olive.",
+  "z4b41c204": "Hiiraan Online riporta l'iniziativa governativa con il solo punto di vista ufficiale.",
+  "z0ff92681": "Sudans Post ed Eye Radio riportano la vicenda con attenzione al clima politico locale.",
+  "z7aa2e387": "Brújula Digital riporta il risultato in modo essenziale, Opinión (Bolivia) adotta un tono celebrativo.",
+  "z8d80190f": "El País si concentra sul braccio di ferro tra le emittenti, El Mundo sottolinea il rifiuto del PP.",
+  "z128cd284": "Monaco Matin racconta la crescita del giocatore come percorso di maturazione personale.",
+  "zb1a77992": "Mosaïque Guinée racconta il decreto nei dettagli, Africaguinee approfondisce la motivazione ufficiale.",
+  "z58082f10": "ORF registra il dato di chiusura, Der Standard inquadra il ribasso come vendita dei titoli legati all'IA.",
+  "zdfa7bbc7": "L'Express de Madagascar e 2424.mg riportano il risultato dal punto di vista della squadra malgascia.",
+  "z1684639f": "NPR adotta un taglio di servizio, con consigli pratici per chi lavora alla scrivania.",
+  "z948c9bc3": "NPR lega la sfida elettorale all'impatto dei tagli al Medicaid sul collegio.",
+  "z809b6895": "NPR presenta il tema come questione politica aperta, rimandata al giudizio degli elettori.",
+  "ze1c67289": "RTÉ News riporta l'allerta delle autorità con un taglio di servizio per la popolazione.",
+  "zd8f77b2d": "La testata irlandese racconta la vicenda dal punto di vista del gruppo promotore, con taglio di cronaca.",
+  "z0c459dc2": "La testata ceca, con sede a Praga, riporta la sentenza europea come questione che incide sull'ordinamento nazionale.",
+  "za3de02e2": "La testata lituana riporta la notizia basandosi sull'avvio dell'inchiesta, senza entrare nel merito delle indagini.",
+  "z9050b964": "La testata estone presenta la misura come intervento tecnico di sicurezza, riportando la spiegazione ufficiale del ministero.",
+  "z4d501ca1": "La testata estone dà conto della conferma diretta del ministro, senza ulteriori dettagli operativi.",
+  "zefbf2317": "La testata estone riporta le dichiarazioni del premier sul tema dei rapporti tra partiti, senza commenti aggiuntivi.",
+  "zb824f025": "La testata lettone riporta l'intervista al ministro, che delinea un quadro di bilancio restrittivo.",
+  "z6f434e09": "La testata lettone presenta la misura come strumento per le emergenze, con riferimento diretto alla legge modificata.",
+  "zb2b512cc": "La testata statunitense riporta il dato inserendolo nel confronto con l'andamento dell'anno in corso.",
+  "z78f270da": "La testata statunitense sottolinea il rischio politico per la candidata, legato alla figura del presidente.",
+  "z8d50839e": "La testata statunitense riporta lo scambio tra i candidati, distinguendo tra il tono del confronto e i temi affrontati.",
+  "z6fc7758a": "La testata canadese mette in primo piano i cittadini del proprio Paese coinvolti nell'inchiesta americana.",
+  "z74b837ad": "La testata di Singapore riporta le cifre ufficiali accanto alle critiche degli avvocati, senza valutazioni proprie.",
+  "z1308b9a7": "La testata australiana racconta la sconfitta della propria squadra, evidenziando la tenuta difensiva dell'ultima sessione.",
+  "z4776489b": "La testata neozelandese riporta il disservizio ferroviario come conseguenza di problemi infrastrutturali.",
+  "z1c8e20cc": "La testata neozelandese propone la quinoa come possibile risposta economica al momento difficile del settore agricolo.",
+  "z85b93f17": "La testata neozelandese riporta le parole del politico fijiano senza commenti aggiuntivi.",
+  "zd93a197a": "La testata neozelandese riporta sia la posizione di Giacarta sia le richieste della società civile."
  },
  "contesti": {
   "zda3ea83a": "Lo scorso dicembre Trump ha citato in giudizio la BBC per diffamazione, contestando il montaggio di Panorama che accostava due sezioni diverse del suo discorso del 2021, ritenuto fuorviante. Nel corso della causa i legali dell'emittente hanno denunciato i rinvii del presidente nel fissare la propria deposizione, fino all'intervento del giudice federale.",
@@ -7781,6 +9000,126 @@ window.EDIZIONI["2026-10-22"] = {
     }
    ],
    "divergono": "Sui tempi del negoziato di libero scambio, Deutsche Welle scrive «entro la fine del 2026», mentre Al Jazeera e The Globe and Mail indicano l'avvio il mese prossimo. Sull'interscambio, Deutsche Welle e Al Jazeera riportano i circa 3 miliardi di dollari citati da Erdogan; The Globe and Mail dà 4,3 miliardi nel 2025 secondo Statistics Canada, con saldo favorevole alla Turchia. Deutsche Welle e Al Jazeera parlano di una visita di due giorni, The Globe and Mail di un viaggio di quattro giorni. Deutsche Welle e The Globe and Mail danno spazio ai diritti umani, Al Jazeera li omette. Solo The Globe and Mail spiega il precedente congelamento dei rapporti con le restrizioni canadesi all'export di armi."
+  },
+  "z8ab6c070": {
+   "voci": [
+    {
+     "n": "Nazioni Unite (UN News)",
+     "c": "New York",
+     "p": "XX",
+     "t": "Giudizio parziale: è disponibile solo titolo e occhiello. L'occhiello attribuisce all'OMS il potenziamento della risposta sanitaria d'emergenza in Afar, Amhara e Tigray, motivato da bisogni umanitari crescenti dovuti a «ostilità in corso». Il titolo inserisce la notizia in una rassegna con altri temi.",
+     "b": "t"
+    },
+    {
+     "n": "Egypt Independent",
+     "c": "Il Cairo",
+     "p": "XX",
+     "t": "L'articolo non parla dell'Etiopia. Riporta la condanna egiziana dell'attacco all'aeroporto King Fahd di Dammam, in Arabia Saudita, citando il ministero degli Esteri del Cairo e l'autorità saudita dell'aviazione civile: due morti e otto feriti, di cui elenca le nazionalità.",
+     "b": "a"
+    },
+    {
+     "n": "Dawn",
+     "c": "Karachi",
+     "p": "XX",
+     "t": "L'articolo non riguarda l'Etiopia. Annuncia la riunione a Istanbul dei ministri degli Esteri del gruppo R-4 (Pakistan, Egitto, Arabia Saudita, Turchia) con il gruppo E-3 europeo. Cita il ministero turco e una fonte diplomatica turca sentita da Reuters. Tra i temi: Hormuz, Yemen e Ucraina.",
+     "b": "a"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "L'articolo, firmato Reuters, non tratta dell'Etiopia. Mette al centro l'appello egiziano a soluzioni politiche in Yemen, in vista del voto parlamentare del 26 ottobre sul sostegno militare all'Arabia Saudita contro gli Houthi. Ricostruisce il ruolo limitato dell'Egitto nella coalizione e riporta l'avvertimento di un esponente houthi.",
+     "b": "a"
+    },
+    {
+     "n": "Daily News Egypt",
+     "c": "Il Cairo",
+     "p": "XX",
+     "t": "L'articolo non riguarda l'emergenza sanitaria etiope. Riferisce l'intervento di al-Sisi all'Egypt Forum 2026: lo sforzo militare egiziano serve a difendere l'Arabia Saudita, non ad attaccare lo Yemen. Cita la «diga etiope» come rischio per la sicurezza idrica, con cifre fornite dal ministro Sewilam.",
+     "b": "a"
+    }
+   ],
+   "divergono": ""
+  },
+  "z91bc41fd": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Mette al centro l'allarme di Merz su uno spionaggio «intenso» e il suo giudizio di «successo» sull'arresto. Cita la Procura federale: contatti con l'intelligence russa tramite un intermediario «almeno da luglio 2025». Elenca altri arresti avvenuti quest'anno, tra cui quello dell'ex capo del BND Hanning, e riporta l'accusa di Putin alla Germania di aver fabbricato prove.",
+     "b": "a"
+    },
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "Resoconto informativo: arresto in Brandeburgo, contatti con un intermediario da luglio 2025, raccolta di informazioni su produzione bellica e sul fianco orientale della NATO. Inquadra il caso nella campagna «ibrida» russa, cita il capo del BND Jaeger sulla «guerra ombra» e la smentita di Mosca.",
+     "b": "a"
+    },
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Riporta i dati della Procura, precisando che l'arresto è avvenuto a 85 km da Berlino, e un Merz «non sorpreso». Si concentra sui droni: innalzamento del livello di minaccia della Bundeswehr, drone esplosivo vicino a Wunstorf, attacco fallito a Lipsia ad agosto. Cita Jaeger e la smentita di Mosca.",
+     "b": "a"
+    },
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "L'articolo tratta un altro fatto: l'arresto in Russia di un cittadino tedesco, ex soldato della Bundeswehr, accusato dall'FSB di essere un «mercenario» al servizio dell'Ucraina. Riporta il riserbo del ministero degli Esteri tedesco e la liberazione dell'americano Stephen Hubbard.",
+     "b": "a"
+    },
+    {
+     "n": "Financial Times",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Giudizio parziale: sono disponibili solo titolo e occhiello. Il titolo riprende l'avvertimento di Merz su uno spionaggio russo «intenso». L'occhiello parla di informazioni su siti militari e produttori di armi passate al «Cremlino».",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le date dell'attacco con drone all'aeroporto di Lipsia/Halle non coincidono: BBC News lo colloca a settembre, Al Jazeera ad agosto. Anche le reazioni di Merz sono riportate diversamente: BBC News e Financial Times mettono in primo piano l'allarme e la parola «successo», mentre Deutsche Welle e Al Jazeera sottolineano che il cancelliere era «non sorpreso». Sul fronte russo, BBC News riferisce l'accusa di Putin alla Germania di aver fabbricato prove, mentre Deutsche Welle e Al Jazeera riportano soltanto la smentita di Mosca. Solo Al Jazeera si sofferma sul drone di Wunstorf e sull'innalzamento della soglia di minaccia; solo BBC News cita il caso Hanning."
+  },
+  "zd13eb84d": {
+   "voci": [
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale: si dispone solo di titolo e occhiello. Il titolo mette al centro il prezzo del gasolio, arrivato a 2,3 euro, con la formula «caro carburanti»; l'occhiello indica come fonte i dati dell'Osservatorio prezzi del Mimit. Non si menzionano gli aiuti del governo.",
+     "b": "t"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Mette al centro il decreto da 175 milioni, di cui 105 per i tir, 60 per l'agricoltura e 10 per la pesca, e lo slittamento della tassa sui minipacchi. Cita Meloni («intimidazione»), Salvini, Rixi, Lollobrigida, associazioni favorevoli e critiche (Confimprenditori: «pannicelli caldi») e il Codacons.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Racconta la protesta dei tir come un aggiornamento continuo, con disagi diffusi: scaffali vuoti, distributori a secco, raccolta rifiuti sospesa. Quantifica il decreto in circa 550 milioni tra risorse sbloccate e stanziate e insiste sulla possibile precettazione. Riporta governo, Confcommercio, Confindustria e l'opposizione del Pd («misure tampone»).",
+     "b": "a"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Si concentra sulla pesca: pescherecci fermi nei porti, soprattutto nell'Alto Adriatico, contro il caro gasolio e le politiche europee. Riporta i 10 milioni a fondo perduto, pari al 10% della spesa da giugno al 15 ottobre, con dati sui costi delle imbarcazioni. Cita il plauso delle associazioni e un'armatrice («disperati»).",
+     "b": "a"
+    },
+    {
+     "n": "Gambero Rosso",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale: si dispone solo di titolo e occhiello. Mette in evidenza il contributo fino a 45 centesimi al litro per gli agricoltori e dichiara di aver visionato la bozza del decreto. Indica 60 milioni per l'agricoltura, 10 per la pesca e 60 per gli autotrasportatori.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le cifre complessive differiscono. ANSA parla di 175 milioni, di cui 105 per i tir; la Repubblica di circa 550 milioni tra risorse sbloccate e stanziate. Nella Repubblica, inoltre, Meloni cita 106 milioni aggiunti ai 434 già stanziati, mentre ANSA indica un credito d'imposta che passa da 430 a circa 480 milioni, più altri 60 milioni. L'occhiello di Gambero Rosso attribuisce agli autotrasportatori 60 milioni, contro i 105 indicati da ANSA. Cambia anche il fuoco: Il Sole 24 Ore privilegia la pesca e le politiche europee, la Repubblica i disagi e la precettazione, mentre Rai News, nel solo titolo, si ferma al prezzo del gasolio."
   }
  },
  "luoghi": {
@@ -9284,6 +10623,305 @@ window.EDIZIONI["2026-10-22"] = {
     "Senegal"
    ],
    "pt": []
+  },
+  "zbdddcadd": {
+   "n": "Bolivia",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z9f7af5d3": {
+   "n": "Ceuta",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zd434d71a": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zd8980c1a": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z014bff7f": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z1807f3cb": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "z141a4d06": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zba311237": {
+   "n": "Birmania",
+   "p": [
+    "Myanmar"
+   ],
+   "pt": []
+  },
+  "z4b187792": {
+   "n": "Cabo da Roca",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "za10da274": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z7d9b9838": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z77a00205": {
+   "n": "Rawalpindi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z19139300": {
+   "n": "Cisgiordania",
+   "p": [],
+   "pt": []
+  },
+  "z4b41c204": {
+   "n": "Mogadiscio",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z0ff92681": {
+   "n": "Rubkona",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z7aa2e387": {
+   "n": "Temuco",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z8d80190f": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z128cd284": {
+   "n": "Monaco",
+   "p": [
+    "Monaco"
+   ],
+   "pt": []
+  },
+  "zb1a77992": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z58082f10": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "zdfa7bbc7": {
+   "n": "Uganda",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "z1684639f": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z948c9bc3": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z809b6895": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze1c67289": {
+   "n": "Irlanda",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zd8f77b2d": {
+   "n": "Murlough Bay, contea di Antrim (Irlanda del Nord)",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z0c459dc2": {
+   "n": "Lussemburgo",
+   "p": [
+    "Luxembourg"
+   ],
+   "pt": []
+  },
+  "za3de02e2": {
+   "n": "Polonia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z9050b964": {
+   "n": "Tallinn, Estonia",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z4d501ca1": {
+   "n": "Tallinn, Estonia",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zefbf2317": {
+   "n": "Tallinn, Estonia",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zb824f025": {
+   "n": "Riga, Lettonia",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "z6f434e09": {
+   "n": "Riga, Lettonia",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "zb2b512cc": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z78f270da": {
+   "n": "Sioux City, Iowa",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8d50839e": {
+   "n": "Michigan",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z6fc7758a": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z74b837ad": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z1308b9a7": {
+   "n": "Gqeberha, Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z4776489b": {
+   "n": "Auckland, Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z1c8e20cc": {
+   "n": "Nuova Zelanda",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z85b93f17": {
+   "n": "Figi",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "zd93a197a": {
+   "n": "Papua occidentale, Indonesia",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -9501,7 +11139,50 @@ window.EDIZIONI["2026-10-22"] = {
   "zcc73dbf0": 2,
   "z1fc0f584": 1,
   "zbf408e2a": 2,
-  "z68d27692": 1
+  "z68d27692": 1,
+  "zbdddcadd": 1,
+  "z9f7af5d3": 1,
+  "zd434d71a": 1,
+  "zd8980c1a": 1,
+  "z014bff7f": 1,
+  "z1807f3cb": 1,
+  "z141a4d06": 1,
+  "zba311237": 1,
+  "z4b187792": 1,
+  "za10da274": 1,
+  "z7d9b9838": 1,
+  "z77a00205": 1,
+  "z19139300": 1,
+  "z4b41c204": 1,
+  "z0ff92681": 1,
+  "z7aa2e387": 1,
+  "z8d80190f": 1,
+  "z128cd284": 1,
+  "zb1a77992": 1,
+  "z58082f10": 1,
+  "zdfa7bbc7": 1,
+  "z1684639f": 1,
+  "z948c9bc3": 1,
+  "z809b6895": 1,
+  "ze1c67289": 1,
+  "zd8f77b2d": 1,
+  "z0c459dc2": 1,
+  "za3de02e2": 1,
+  "z9050b964": 1,
+  "z4d501ca1": 1,
+  "zefbf2317": 1,
+  "zb824f025": 1,
+  "z6f434e09": 1,
+  "zb2b512cc": 1,
+  "z78f270da": 1,
+  "z8d50839e": 1,
+  "z6fc7758a": 1,
+  "z74b837ad": 1,
+  "z1308b9a7": 1,
+  "z4776489b": 1,
+  "z1c8e20cc": 1,
+  "z85b93f17": 1,
+  "zd93a197a": 1
  },
  "video": {},
  "pillole": []
