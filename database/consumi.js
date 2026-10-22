@@ -2240,5 +2240,33 @@ window.CONSUMI = [
   "ritentati": null,
   "senza_risultato": null,
   "sec": null
+ },
+ {
+  "t": "2026-10-22T21:27:26",
+  "fase": "completamento (livello MEDIO, uscita mattino,16 min)",
+  "blocchi": 10,
+  "in": 107404,
+  "out": 206172,
+  "usd": 2.89,
+  "notizie": 267,
+  "inviate": 296,
+  "scartate": 29,
+  "ritentati": 0,
+  "senza_risultato": 0,
+  "sec": 960
+ },
+ {
+  "t": "2026-10-22T21:29:00",
+  "fase": "correzioni uscita mattino (2026-10-22)",
+  "blocchi": null,
+  "in": 71612,
+  "out": 19166,
+  "usd": 0.06,
+  "notizie": null,
+  "inviate": null,
+  "scartate": null,
+  "ritentati": null,
+  "senza_risultato": null,
+  "sec": null
  }
 ];
