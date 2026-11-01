@@ -667,7 +667,7 @@ window.EDIZIONI["2026-11-01-sera"] = {
   },
   {
    "id": "z81864cf7",
-   "sez": "cultura",
+   "sez": "sport",
    "titolo": "Un documentario racconta la storia della prima donna a giocare a football professionistico",
    "orig": "‘Panther Pat’ Shines a Light on the Nearly Forgotten First Woman to Play Pro Football",
    "lead": "Un cortometraggio documentario intitolato 'Panther Pat' racconta la storia di Pat Palinkas, un'insegnante elementare che nel 1970 scese in campo con gli Orlando Panthers diventando la prima donna a giocare a football americano professionistico. Il progetto fa parte di un'iniziativa chiamata JoyDrops, che promuove cortometraggi incentrati sulla gioia come alternativa ai documentari spesso dominati da storie drammatiche, in vista delle candidature ai premi del settore. Lo riferisce Good News Network.",
