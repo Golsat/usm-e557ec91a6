@@ -3,6 +3,1212 @@ window.EDIZIONI["2026-11-01-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z00c6b2de",
+   "sez": "economia",
+   "titolo": "Lee Group innesca un piano industriale da 1,8 miliardi di dollari in Nigeria",
+   "orig": "Lee Group set to unveil $1.8bn industrial park in Ogun, targets 29 factories, 2,500 jobs",
+   "lead": "Il gruppo industriale Lee sta per inaugurare il First Industrial Park nello stato di Ogun, in Nigeria. L'infrastruttura da 1,8 miliardi di dollari, estesa su 450 ettari nelle aree di Sagamu e Obafemi-Owode, ospiterà 29 fabbriche e creerà 2.500 posti di lavoro in diversi settori manifatturieri. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/promoted/921925-lee-group-set-to-unveil-1-8bn-industrial-park-in-ogun-targets-29-factories-2500-jobs.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-01T17:23+00:00"
+    },
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/10/30/disney-job-cuts-experiences-theme-parks/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-30T22:28+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z54e70f50",
+   "sez": "mondo",
+   "titolo": "Operazione alla caviglia per Saibari dopo lo scontro in campo",
+   "orig": "Bayern's Saibari sidelined after ankle surgery",
+   "lead": "Il calciatore della nazionale marocchina Ismael Saibari è stato sottoposto a un intervento chirurgico alla caviglia destra dopo essersi infortunato in uno scontro di gioco durante il pareggio per 2-2 tra Bayern Monaco e Borussia Dortmund. Il giocatore dovrà osservare un periodo di riposo forzato.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/bayerns-saibari-sidelined-after-ankle-surgery-n393140",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-01T15:50+00:00"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/148380-bayerns-saibari-sidelined-after-ankle-surgery.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-01T17:21+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z02e0fd80",
+   "sez": "economia",
+   "titolo": "Crescono gli spettacoli teatrali in Corea del Sud nonostante il calo del botteghino",
+   "orig": "Plays post their best third quarter in five years even as Korea’s overall ticket sales slip",
+   "lead": "Il mercato degli spettacoli dal vivo in Corea del Sud ha registrato nel terzo trimestre una flessione delle vendite complessive di biglietti a 427,4 miliardi di won, ma le opere teatrali in prosa hanno ottenuto il miglior risultato estivo degli ultimi cinque anni. Lo riferisce The Korea Herald.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10921836",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-01T17:18+00:00"
+    },
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/news/caterpillar-posts-highest-sales-quarter-ever-data-centers-q3-2026/873294/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-30T10:11-04:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zee35e1f1",
+   "sez": "economia",
+   "titolo": "In Iraq nasce il progetto Erbil Motor City da 20 milioni di dollari",
+   "orig": "$20 Million Erbil Motor City Project to Create Jobs and Boost Tourism",
+   "lead": "Il progetto Erbil Motor City, realizzato da Toyota Iraq in collaborazione con Sardar Group per un valore di 20 milioni di dollari, coprirà un'area di 250.000 metri quadrati a Erbil. Il complesso comprenderà piste automobilistiche e centri logistici per creare impiego e rilanciare il turismo. Lo riferisce Kurdistan24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/950075/20-million-erbil-motor-city-project-to-create-jobs-and-boost-tourism",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-01T20:15+03:00"
+    },
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/10/ines-ruhengeri-to-1729-new-graduates-create-jobs-dont-just-seek-them/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-10-31T08:29+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z25ea96f5",
+   "sez": "mondo",
+   "titolo": "Guterres mette in guardia sulla corsa agli armamenti con intelligenza artificiale",
+   "orig": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+   "lead": "Il segretario generale delle Nazioni Unite António Guterres ha messo in guardia dai rischi devastanti di una corsa agli armamenti basati sull'intelligenza artificiale tra Stati Uniti e Cina. Guterres ha auspicato che il suo successore sia una donna, ribadendo che un mondo privo di regole condivise sarebbe un disastro. Lo riferisce El País.",
+   "more": [
+    "L'avvertimento del vertice dell'ONU giunge in una fase di forte accelerazione nell'impiego militare delle tecnologie emergenti e di crescenti tensioni geopolitiche tra Washington e Pechino sul controllo degli standard tecnologici globali."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-01T18:19+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/europa/ucrania-abre-la-puerta-a-que-armas-rusas-capturadas-sean-analizadas-la-tecnologia-que-podria-ayudar-a-colombia-contra-los-drones-ilegales-3597067",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-01T06:01-05:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z44c03dd4",
+   "sez": "mondo",
+   "titolo": "Valentin Vacherot trionfa agli Swiss Indoors di Basilea",
+   "orig": "Das Tennismärchen des Valentin Vacherot geht weiter – der Monegasse gewinnt die Swiss Indoors",
+   "lead": "Il tennista monegasco Valentin Vacherot ha vinto il torneo ATP 500 Swiss Indoors di Basilea superando in finale il ceco Jiri Lehecka con il punteggio di 2-6, 6-3, 6-3. Per l'atleta ventisettenne si tratta del secondo titolo del circuito ATP conquistato in carriera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/sport/tennis/der-ungesetzte-valentin-vacherot-gewinnt-die-swiss-indoors-in-basel-ld.10051174",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-01T18:19+00:00"
+    },
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/tennis/apres-une-semaine-parfaite-le-monegasque-valentin-vacherot-remporte-le-deuxieme-titre-atp-de-sa-carriere-10751581",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-11-01T17:42+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z398ab5d9",
+   "sez": "mondo",
+   "titolo": "I presidenti di Turchia ed Timor Est attesi in Corea del Sud per vertici bilaterali",
+   "orig": "Turkish, East Timorese presidents to visit S. Korea this week for talks with Lee",
+   "lead": "I presidenti di Turchia ed Timor Est, Recep Tayyip Erdogan e José Ramos-Horta, si recheranno in visita ufficiale in Corea del Sud per incontrare il presidente Lee Jae Myung. I colloqui bilaterali prevedono la firma di patti di cooperazione e incontri al vertice.",
+   "more": [
+    "I vertici diplomatici a Seul puntano a rafforzare le relazioni economiche e commerciali tra la Corea del Sud, la Turchia e la nazione del Sud-est asiatico, consolidando intese strategiche e accordi bilaterali."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261101004100315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-01T18:49+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10921878",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10921866",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-01T18:47+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2dc84353",
+   "sez": "mondo",
+   "titolo": "Si conclude la tregua a Olechky dopo l'evacuazione di 700 civili",
+   "orig": "Ukraine : dernier jour d'une trêve exceptionnelle à Olechky",
+   "lead": "Giunge al termine la tregua eccezionale di sei giorni nella città occupata di Olechky, nel sud dell'Ucraina, che ha permesso l'evacuazione di circa 700 residenti bloccati sulla linea del fronte. La popolazione locale ha sofferto per mesi gravi carenze di generi alimentari.",
+   "more": [
+    "La breve sospensione delle ostilità ha consentito ai civili di abbandonare una zona devastata dai combattimenti lungo il fiume Dnipro, pur in presenza di attacchi e bombardamenti continui in altri settori del paese."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261101-ukraine-dernier-jour-d-une-tr%C3%AAve-exceptionnelle-%C3%A0-olechky",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-01T16:41+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/11/01/en-ukraine-les-habitants-d-olechky-evacues-nous-ne-savons-pas-ou-aller-mais-une-chose-est-sure-nous-survivrons_6804529_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-01T17:56+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z65321c02",
+   "sez": "ambiente",
+   "titolo": "Il lupo Bram impagliato al museo Naturalis scatena le proteste nei Paesi Bassi",
+   "orig": "Wolf Bram opgezet in Naturalis, niet iedereen is daar blij mee: 'Neem mij, niet hem'",
+   "lead": "Il lupo Bram, abbattuto lo scorso anno sulle colline dell'Utrecht dopo aver morso una donna, è stato impagliato ed esposto al museo Naturalis di Leida. L'iniziativa ha scatenato accese proteste da parte di attivisti contrari all'esibizione dell'animale come reperto museale.",
+   "more": [
+    "L'abbattimento e la successiva esposizione dell'esemplare hanno riacceso nei Paesi Bassi il dibattito sulla gestione dei grandi predatori e sulla convivenza tra fauna selvatica e comunità locali."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2637603",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-11-01T15:46+01:00"
+    },
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/11/01/hoe-wolf-bram-als-museumdier-publiekelijk-het-eeuwige-leven-krijgt-niet-zonder-controverse-bram-heeft-in-leven-moeten-lijden-nu-moet-hij-dienen-a4940227",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-11-01T17:19+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdd979051",
+   "sez": "mondo",
+   "titolo": "Stallo sul bilancio in Senegal e rischio di nuove elezioni anticipate",
+   "orig": "Dissolution inévitable : Élire en 2027 l’Assemblée de 2029 (Par Dr Cheikh Omar DIALLO)",
+   "lead": "In Senegal, il respingimento del disegno di legge di bilancio rettificativo in commissione parlamentare ha inasprito lo scontro istituzionale tra l'esecutivo e la maggioranza. Lo stallo politico potrebbe condurre a un secondo scioglimento dell'Assemblea nazionale e a elezioni legislative anticipate.",
+   "more": [
+    "La tensione politica tra il governo senegalese e il parlamento riflette le difficoltà di mediazione sul bilancio pubblico, ventilando l'ipotesi di nuove consultazioni elettorali per superare il blocco istituzionale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/opinions/dissolution-inevitable-elire-en-2027-lassemblee-de-2029-par-dr-cheikh-omar-diallo/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-01T17:53+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Contribution/dissolution-inevitable-elire-en-2027-lassemblee-de-2029-par-dr-cheikh-omar-diallo_n_999002375.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-01T18:14+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9ba1f263",
+   "sez": "mondo",
+   "titolo": "Tensioni al confine pakistano e affermazioni sulla prontezza militare di Islamabad",
+   "orig": "‘We’re technology-savvy’: DG ISPR says Pakistan ahead of India, Afghan Taliban in operational readiness",
+   "lead": "Il portavoce delle forze armate del Pakistan ha dichiarato che il paese vanta una prontezza operativa superiore rispetto all'India e ai talebani afghani grazie all'adozione di nuove tecnologie. Nel frattempo, le forze pakistane hanno risposto a scontenti colpi d'arma da fuoco sparati dal confine afghano nel Waziristan del Sud.",
+   "more": [
+    "L'escalation lungo il confine pakistano-afghano coincide con l'interesse espresso dagli Stati Uniti per affrontare le preoccupazioni di Islamabad in materia di terrorismo transfrontaliero e sicurezza regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2041391/were-technology-savvy-dg-ispr-says-pakistan-ahead-of-india-afghan-taliban-in-operational-readiness",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-01T22:31+05:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2041405/pakistan-responds-to-unprovoked-firing-from-afghan-posts-along-border-in-lower-south-waziristan-dc",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-01T23:46+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2638119/pakistani-forces-respond-to-unprovoked-firing-from-afghan-border-posts-says-dc",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-01T17:21+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2638068/rubio-says-us-open-to-role-on-pakistans-afghan-terror-concerns",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-01T07:51+05:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z963d9597",
+   "sez": "mondo",
+   "titolo": "Il Comitato elettorale d'Israele difende la validità del voto dopo le accuse di Netanyahu",
+   "orig": "Election chief says results valid after Netanyahu claimed Arabs 'stole vote'",
+   "lead": "Il presidente del Comitato elettorale centrale d'Israele, Noam Sohlberg, ha confermato la validità dei risultati elettorali, affermando che il voto si è svolto regolarmente. La precisazione giunge dopo le accuse di Benjamin Netanyahu, che aveva sostenuto che il voto fosse stato sottratto dai cittadini arabi.",
+   "more": [
+    "La dichiarazione della massima autorità elettorale punta a rassicurare l'opinione pubblica sulla legittimità del processo democratico, respingendo le contestazioni avanzate sui presunti condizionamenti del voto."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article/.premium/election-chief-says-results-valid-amid-likud-effort-to-invalidate-arab-vote/000001a1-9835-dc07-a3f5-da3f10ea0000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-01T20:08+02:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-election-chief-says-results-valid-after-netanyahu-claims-vote",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-01T18:28+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd4615b3e",
+   "sez": "mondo",
+   "titolo": "Caso radar in Bolivia, il governo fa ricorso contro gli arresti domiciliari dell'ex ministro",
+   "orig": "Caso radares: Gobierno apela la detención domiciliaria del exministro Edmundo Novillo",
+   "lead": "Il governo della Bolivia ha presentato ricorso contro la decisione giudiziaria che ha concesso la detención domiciliaria all'ex ministro Edmundo Novillo nell'ambito delle indagini sul caso dei radar. L'ex esponente governativo si trova attualmente a Cochabamba per scontare la misura cautelare. Lo riferisce Brújula Digital.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/caso-radares-gobierno-apela-la-detencion-domiciliaria-del-exministro-edmundo-novillo",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-01T10:25-04:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/caso-maletas-revocan-detencion-domiciliaria-exjuez-hebert-zeballos_1793550056",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-01T16:20+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2be30d0f",
+   "sez": "mondo",
+   "titolo": "Oltre trecento arresti a Londra durante il corteo pro-Palestine Action",
+   "orig": "A Londra ci sono stati 325 arresti durante un raduno a sostegno di Palestine Action, organizzazione vietata nel Regno Unito",
+   "lead": "A Londra le forze dell'ordine hanno arrestato 325 persone nel corso di una manifestazione svoltasi in sostegno di Palestine Action, un'organizzazione vietata dalle autorità del Regno Unito. Gli arresti sono avvenuti durante i controlli di polizia legati al rispetto del divieto. Lo riferisce Il Post.",
+   "more": [
+    "L'intervento della polizia britannica rientra nell'applicazione delle normative antiterrorismo e di sicurezza pubblica introdotte per vietare l'attività di gruppi considerati eversivi o illegali sul territorio nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/01/londra-regno-unito-arresti-raduno-palestine-action/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-01T17:33+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/01/news/regno_unito_ministro_difesa_scorte_cibo_pronti_emergenze_conflitti_attacchi-425691365/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-01T11:30+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf7e299da",
+   "sez": "mondo",
+   "titolo": "Scontri e feriti durante gli sgomberi dei presidi a Lisbona e Porto",
+   "orig": "18h Começam a juntar-se manifestantes no Porto e Lisboa",
+   "lead": "Nuove proteste e accampamenti si sono formati a Lisbona e Porto, sfociando in scontri con le forze dell'ordine. Gli interventi della polizia per sgomberare le tende hanno provocato decine di feriti tra i manifestanti e diversi feriti tra gli agenti.",
+   "more": [
+    "Le tensioni nelle principali città portoghesi sono degenerate in seguito al rifiuto dei manifestanti di smantellare i presidi, scatenando duri interventi delle forze di polizia e successive polemiche sull'uso della forza."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/18h-comecam-a-juntar-se-manifestantes-no-porto-e-lisboa_a1_1776133",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-01T18:29+00:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/11/01/sociedade/reportagem/vamos-apanhar-relato-carga-policial-manifestantes-lisboa-2193363",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-01T16:15+00:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/11/01/sociedade/noticia/inem-confirma-25-feridos-apos-cargas-policiais-acampadas-lisboa-porto-2193358",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-01T13:14+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfc03d986",
+   "sez": "mondo",
+   "titolo": "I sondaggi statunitensi delineano gli equilibri in vista delle elezioni di metà mandato",
+   "orig": "How to think about the midterms — and the political moment the country is in",
+   "lead": "In vista delle elezioni di metà mandato negli Stati Uniti, i sondaggi mostrano un vantaggio per il Partito Democratico, pur con margini di incertezza sull'affluenza e sui tempi dello spoglio. L'esito del voto definirà gli equilibri politici e il consenso della nazione. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-01T13:27-05:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "za1a01e71",
+   "sez": "mondo",
+   "titolo": "Le elezioni di metà mandato mettono alla prova la stabilità politica degli Stati Uniti",
+   "orig": "The midterms will test the nation's political direction and confidence",
+   "lead": "Le prossime elezioni di metà mandato negli Stati Uniti metteranno alla prova la fiducia politica della popolazione e la direzione strategica del paese. Secondo le analisi, il clima di incertezza potrebbe protrarsi anche nelle settimane successive al voto. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-01T12:57-05:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z81f6e463",
+   "sez": "mondo",
+   "titolo": "Trump riprende i comizi in Iowa e Kansas per il controllo del Senato",
+   "orig": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
+   "lead": "Il presidente degli Stati Uniti Donald Trump è tornato ad animare i comizi elettorali in Iowa e Kansas nel tentativo di preservare la maggioranza repubblicana al Senato. La ripresa delle attività di campagna segue una breve pausa trascorsa nel club di Mar-a-Lago in Florida. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-01T16:19+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z78dde3de",
+   "sez": "mondo",
+   "titolo": "Ex direttori della tv ceca difendono il finanziamento tramite canone",
+   "orig": "Former Czech Television directors defend licence fee funding",
+   "lead": "Gli ex direttori della televisione pubblica ceca si sono pronunciati in difesa del sistema di finanziamento tramite canone radiotelevisivo. Gli ex dirigenti hanno ribadito la necessità di garantire risorse stabili per preservare l'indipendenza e la qualità dell'informazione del servizio pubblico. Lo riferisce Radio Prague International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/former-czech-television-directors-defend-licence-fee-funding-8901518",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-01T18:16+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1285beb2",
+   "sez": "mondo",
+   "titolo": "La Lettonia assume la presidenza di turno del Consiglio di Sicurezza dell'ONU",
+   "orig": "Latvia takes charge of the United Nations Security Council for first time",
+   "lead": "La Lettonia ha assunto per la prima volta nella sua storia diplomatica la presidenza di turno del Consiglio di Sicurezza delle Nazioni Unite. Durante l'intero mese, il paese baltico presiederà tutte le riunioni formali e informali del massimo organo di sicurezza dell'ONU. Lo riferisce LSM.",
+   "more": [
+    "L'assunzione della presidenza mensile rappresenta un traguardo storico per la diplomazia di Riga, consentendo al paese di guidare le agende e le consultazioni internazionali sui principali dossier di crisi globale."
+   ],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/politics/diplomacy/01.11.2026-latvia-takes-charge-of-the-united-nations-security-council-for-first-time.a670070/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-11-01T17:57+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z47faa26f",
+   "sez": "mondo",
+   "titolo": "Rientrata l'allerta aerea nei comuni orientali della Lettonia",
+   "orig": "Air alert in Ludza and Krāslava municipalities of Latvia is over",
+   "lead": "Le forze armate nazionali della Lettonia hanno revocato l'allarme aereo precedentemente emesso per i municipalità orientali di Ludza e Krāslava. La misura di emergenza, scattata a causa di una potenziale minaccia allo spazio aereo, è stata ritirata in breve tempo senza conseguenze. Lo riferisce LSM.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LSM",
+     "p": "XX",
+     "c": "Riga",
+     "u": "https://eng.lsm.lv/article/society/defence/01.11.2026-air-alert-in-ludza-and-kraslava-municipalities-of-latvia-is-over.a669214/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+     "angolo": "",
+     "atlas": "Latvia",
+     "t": "2026-11-01T17:09+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8e17e30f",
+   "sez": "mondo",
+   "titolo": "\"Maxxing\" è la parola dell'anno, ma il fenomeno sta esaurendo la sua spinta?",
+   "orig": "Maxxing named word of the year, but is it maxxed out?",
+   "lead": "La parola dell'anno è stata assegnata al termine \"maxxing\", espressione emersa nella cultura digitale per indicare la massimizzazione di ogni aspetto della vita quotidiana, dal sonno alle proteine. L'uso diffuso del suffisso riflette una crescente pressione verso l'ottimizzazione personale costante. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/life/lifestyle/maxxing-named-word-of-the-year-but-is-it-maxxed-out",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-02T07:28+13:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf544c964",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda, polemiche sui tempi del prestito governativo per i treni",
+   "orig": "'Disingenous': Questions arise over timing of Government train loan",
+   "lead": "I consiglieri comunali di Invercargill hanno criticato i tempi del prestito governativo destinato alla rete ferroviaria, sostenendo di essere penalizzati ingiustamente dalle accuse dell'esecutivo sugli sprechi dei fondi locali. La controversia evidenzia le tensioni finanziarie tra amministrazioni locali e governo centrale in Nuova Zelanda. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/political/2292356/disingenous-questions-arise-over-timing-of-government-train-loan",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-02T06:41+13:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z772e5060",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda, carburante e cibo al centro delle preoccupazioni degli elettori",
+   "orig": "Backroads to the Beehive: Fuel, food and the future at top of the south",
+   "lead": "Nella regione settentrionale dell'Isola del Sud della Nuova Zelanda, gli elettori indicano l'aumento dei costi del carburante, dei generi alimentari e il futuro economico quali questioni prioritarie per le prossime elezioni. Le preoccupazioni riflettono le difficoltà generali legate al costo della vita nel Paese. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/politics_election-2026/2292336/backroads-to-the-beehive-fuel-food-and-the-future-at-top-of-the-south",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-02T06:40+13:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfbf7bda3",
+   "sez": "mondo",
+   "titolo": "Pacifico, i leader della Micronesia chiedono di mettere le popolazioni al centro del confronto USA-Cina",
+   "orig": "Micronesian leaders urge people-first approach to US-China rivalry",
+   "lead": "Gli esperti di sicurezza e i leader dell'Oceano Pacifico hanno sollevato preoccupazioni per l'intensificarsi della rivalità militare tra Stati Uniti e Cina nella regione. Gli studiosi esortano entrambe le superpotenze a evitare che la competizione strategica vada a scapito delle esigenze e del benessere dei cittadini locali. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2292218/micronesian-leaders-urge-people-first-approach-to-us-china-rivalry",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-11-02T06:30+13:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z02b0fa12",
+   "sez": "mondo",
+   "titolo": "Yemen, l'ONU segnala oltre 300.000 sfollati in due mesi per l'escalation del conflitto",
+   "orig": "ΟΗΕ: Περισσότεροι από 300.000 εκτοπισμένοι στην Υεμένη μέσα σε δύο μήνες λόγω των συγκρούσεων",
+   "lead": "Oltre 300.000 persone sono state costrette ad abbandonare le proprie abitazioni nello Yemen occidentale a causa dell'intensificarsi degli scontri armati, la maggior parte negli ultimi due mesi. L'Organizzazione Internazionale per le Migrazioni ha chiesto con urgenza a tutte le parti in causa di proteggere la popolazione civile. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/roi-idiseon/oie-perissoteroi-apo-300-000-ektopismenoi-stin-yemeni-mesa-se-dyo-mines-logo-ton-sygkrouseon/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-01T18:15+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z805fdb18",
+   "sez": "economia",
+   "titolo": "Grecia, erogati 7,8 milioni di euro a circa ventimila agricoltori",
+   "orig": "ΑΑΔΕ: Πληρώθηκαν 7,8 εκατ. ευρώ σε 19.819 αγρότες για τη βασική ενίσχυση του 2026 – Έως τις 30 Νοεμβρίου η επόμενη προκαταβολή",
+   "lead": "L'Autorità indipendente delle entrate pubbliche greca ha versato sabato 7,8 milioni di euro a 19.819 agricoltori quale anticipo della partecipazione al sostegno di base del 2026. Il pagamento riguarda i produttori che hanno presentato domanda entro il 25 settembre ed equivale al settanta per cento dell'aiuto complessivo. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/aade-plirothikan-7-8-ekat-eyro-se-19-819-agrotes-gia-ti-vasiki-enisxysi-tou-2026-eos-tis-30-noemvriou-i-epomeni-prokatavoli/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-01T18:00+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z01f09903",
+   "sez": "mondo",
+   "titolo": "Nigeria, gruppi giovanili cristiani e musulmani firmano un accordo di pace in vista del 2027",
+   "orig": "2027: Christian, Muslim youth groups sign peace accord ahead of elections",
+   "lead": "Diverse organizzazioni giovanili cristiane e musulmane in Nigeria hanno sottoscritto un accordo di pace in vista delle elezioni presidenziali del 2027. I rappresentanti hanno sottolineato che la consultazione metterà alla prova l'unità del Paese, invitando i giovani a rifiutare ogni manipolazione politica finalizzata alla violenza. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/more-news/921950-2027-christian-muslim-youth-groups-sign-peace-accord-ahead-of-elections.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-01T18:57+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7e8072f0",
+   "sez": "mondo",
+   "titolo": "Nigeria, nello Stato di Jigawa si rilancia il piano per i bambini fuori dal sistema scolastico",
+   "orig": "How Jigawa is building on derided federal initiative to address almajiri challenge",
+   "lead": "Lo Stato nigeriano di Jigawa sta sviluppando ulteriormente l'iniziativa federale delle scuole Tsangaya per accogliere i bambini non scolarizzati, noti come Almajirai. Il programma, inizialmente contrastato dai chierici islamici conservatori nel 2012, viene ora adattato per migliorare l'integrazione educativa e sociale nella regione. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/921924-how-jigawa-is-building-on-derided-federal-initiative-to-address-almajiri-challenge.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-01T17:28+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z256f4ea4",
+   "sez": "mondo",
+   "titolo": "Sudafrica, ottantatré partiti si contendono le elezioni comunali a Johannesburg",
+   "orig": "OUR CITY NEWS: Eighty-three parties contest crowded Joburg local government elections",
+   "lead": "La municipalità di Johannesburg risulta la più disputata del Sudafrica nelle prossime elezioni amministrative locali, con ben ottantatré formazioni politiche ai nastri di partenza. Molte delle liste civiche e dei piccoli partiti concorrenti affrontano la sfida nel tentativo di intercettare il malcontento cittadino sulla gestione urbana. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-01-eighty-three-parties-contest-crowded-joburg-local-government-elections/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7029e90e",
+   "sez": "economia",
+   "titolo": "Sudafrica, forte accumulo di merci nel porto di Durban sotto la lente delle autorità",
+   "orig": "Troubled port: Transnet and foreign operator face scrutiny over backlog at Durban Gateway Terminal",
+   "lead": "I gravi ritardi nel movimento dei container presso il Durban Gateway Terminal hanno innescato forte preoccupazione tra gli operatori commerciali e la presidenza sudafricana. La gestione tramite partnership pubblico-privata tra la compagnia statale Transnet e l'operatore estero solleva interrogativi sulla ripartizione delle responsabilità operative. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-01-transnet-and-foreign-operator-face-scrutiny-over-backlog-at-durban-gateway-terminal/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z11ad39c8",
+   "sez": "economia",
+   "titolo": "Sudafrica, la società tecnologica Datatec mostra una crescita contenuta degli utili",
+   "orig": "Investment Outlook: Did Datatec catch an AI tailwind or is it a breeze?",
+   "lead": "La società informatica Datatec ha registrato un aumento del diciotto per cento del fatturato lordo fatturato, ma l'utile per azione è cresciuto soltanto dell'uno virgola quattro per cento. I risultati sollevano dubbi tra gli analisti circa la tenuta dei margini operativi e l'effettiva portata della domanda legata all'intelligenza artificiale. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-01-did-datatec-catch-an-ai-tailwind-or-is-it-a-breeze/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z053659bb",
+   "sez": "mondo",
+   "titolo": "Sudafrica, l'ex statistico generale Lehohla critica la gestione politica ed economica del Paese",
+   "orig": "POLITICIANS PUMMELLED: SA’s path to ‘no future’ — former statistician-general Lehohla slams ‘performative’ politics",
+   "lead": "Intervenendo al forum della Fondazione Kgalema Motlanthe, l'ex statistico generale sudafricano Pali Lehohla ha lanciato l'allarme sulla frammentazione della democrazia nel Paese. Lehohla ha duramente attaccato le politiche dell'ANC, sottolineando come la dipendenza dal settore minerario e la disuguaglianza economica stiano compromettendo il futuro della nazione. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-01-sas-path-to-no-future-former-statistician-general-lehohla-slams-performative-politics/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z45fcbe5b",
+   "sez": "mondo",
+   "titolo": "Sudafrica, crisi di legittimità nelle amministrazioni locali in vista dei nuovi sindaci",
+   "orig": "ANALYSIS: New mayors beware — SA’s local government revolt is waiting for a spark",
+   "lead": "Chiunque assumerà la guida del comune di Johannesburg dovrà affrontare non soltanto gravi problemi di governance, ma anche un profondo deficit di legittimità istituzionale. L'analisi evidenzia come la protesta sociale nelle città sudafricane stia accumulando tensioni pronte a esplodere al primo fattore scatenante. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-01-new-mayors-beware-sas-local-government-revolt-is-waiting-for-a-spark/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7591e5a1",
+   "sez": "mondo",
+   "titolo": "Lettonia, incursione di un oggetto non identificato nello spazio aereo nazionale",
+   "orig": "Incursiune în spațiul aerian al Letoniei. Mesajul forțelor armate pentru populație",
+   "lead": "Le forze armate lettoni hanno rilevato la presenza di un oggetto volante non identificato nello spazio aereo nazionale nei pressi dei confini con Russia e Bielorussia. Durante lo stato di allerta, le autorità militari hanno invitato la popolazione a rimanere al chiuso per ragioni di sicurezza e prevenzione. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/incursiune-in-spatiul-aerian-al-letoniei-mesajul-fortelor-armate-pentru-populatie-2392043",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-01T18:35+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z497984d0",
+   "sez": "mondo",
+   "titolo": "Europa, l'impatto del crimine organizzato e del riciclaggio sui prezzi delle abitazioni",
+   "orig": "INTERVIU. Cum ajung banii murdari să ne scumpească locuințele. O jurnalistă de investigații descrie mecanismele crimei organizate",
+   "lead": "In un'intervista, la giornalista d'inchiesta Pavla Holcová descrive come il riciclaggio di denaro da parte della criminalità organizzata stia influenzando direttamente la vita dei cittadini europei, provocando il rincaro degli immobili e manipolando le elezioni. Le reti criminali si sono consolidate in veri e propri supercartelli transnazionali. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/interviu-cum-ajung-banii-murdari-sa-ne-scumpeasca-locuintele-o-jurnalista-de-investigatii-premiata-descrie-mecanismele-crimei-organizate-2391865",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-01T18:08+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcdc152d8",
+   "sez": "mondo",
+   "titolo": "Romania, dibattito nei partiti sulla riforma amministrativo-territoriale",
+   "orig": "„O reformă administrativ-teritorială schimbă radical structura partidelor noastre mari”. Semnal din Administrația Prezidențială după cerința lui Grindeanu pentru Guvernul Niculescu",
+   "lead": "Il consigliere presidenziale rumeno Radu Burnete ha affermato che il confronto più complesso sulla riforma amministrativa si sta svolgendo all'interno dei principali partiti politici. La discussione segue la richiesta del leader del PSD Sorin Grindeanu al primo ministro Luca Niculescu di porre la fiducia sul progetto in Parlamento. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/o-reforma-administrativ-teritoriala-schimba-radical-structura-partidelor-noastre-mari-semnal-din-administratia-prezidentiala-dupa-cerinta-lui-grindeanu-pentru-guvernul-niculescu-2390817",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-01T17:49+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4bdf8914",
+   "sez": "mondo",
+   "titolo": "Serbia, voto da ripetere in 53 seggi elettorali",
+   "orig": "Crta: Na ponovljenim izborima, na 53 biračka mjesta do 16 sati...",
+   "lead": "In Serbia si vota di nuovo in 53 seggi elettorali dopo la decisione della Commissione elettorale repubblicana di ripetere la consultazione in 31 sezioni prive di risultati certi dal 25 ottobre e in altre 22 dove il voto era stato annullato. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/balkan/834271/crta-na-ponovljenim-izborima-na-53-biracka-mjesta-do-16-sati-glasalo-35-odsto-biraca",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-01T17:32+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9f620dfe",
+   "sez": "mondo",
+   "titolo": "Podgorica, proseguono i lavori sul boulevard Voislavljevića",
+   "orig": "Ekipa Televizije Vijesti provjerila stanje na terenu: Kada će biti...",
+   "lead": "A Podgorica i lavori principali per la realizzazione del boulevard Voislavljevića si concluderanno entro la fine dell'anno secondo l'Autorità per il traffico, che cofinanzia con la capitale un progetto da 14,4 milioni di euro, nonostante le numerose complicazioni emerse nel cantiere. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/tv/emisije/834292/ekipa-televizije-vijesti-provjerila-stanje-na-terenu-kada-ce-biti-zavrseni-radovi-na-bulevaru-vojislavljevica",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-01T19:38+01:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/tv/emisije/834290/muzejski-kompleks-u-podgorici-dvije-godine-cekanja-bez-datuma-i-cijene",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-01T19:28+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1870e810",
+   "sez": "mondo",
+   "titolo": "Montenegro, l'UE avverte sui rischi economici dell'aumento salariale",
+   "orig": "Vajc: 26 država članica EU jasno je poručilo da bilateralna...",
+   "lead": "L'eurodeputato Thomas Waitz ha dichiarato che ventisei Stati membri dell'Unione Europea sostengono il Montenegro, sottolineando che salari più alti possono fermare la fuga di cervelli, ma occorre valutare attentamente le conseguenze di tali aumenti su inflazione, bilancio pubblico e deficit statale. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/tv/emisije/834289/vajc-26-drzava-clanica-eu-jasno-je-porucilo-da-bilateralna-pitanja-ne-smiju-biti-prepreka-pristupnom-procesu-crne-gore",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-01T19:24+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4bd3b43c",
+   "sez": "mondo",
+   "titolo": "Medio Oriente, Rubio sostiene la ripresa dei colloqui con l'Iran",
+   "orig": "Comment on Rubio says Iran talks have never stopped, stresses US preference for diplomacy by Jerry Alatalo",
+   "lead": "A Ramallah si discute la fine dell'era di Donald Trump e Benjamin Netanyahu mentre il senatore statunitense Marco Rubio sostiene che i colloqui diplomatici con l'Iran non si sono mai interrotti, ribadendo la preferenza di Washington per la diplomazia rispetto all'escalation militare. Lo riferisce Middle East Monitor.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Monitor",
+     "p": "XX",
+     "c": "Ramallah",
+     "u": "https://www.middleeastmonitor.com/20261031-rubio-says-iran-talks-have-never-stopped-stresses-us-preference-for-diplomacy/#comment-17322",
+     "angolo": "",
+     "atlas": "Palestine",
+     "t": "2026-11-01T17:55+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd609a1cb",
+   "sez": "mondo",
+   "titolo": "Sudan, l'esercito accusa il ruolo del Sud Sudan nella guerra",
+   "orig": "Sudan army voices regret over South Sudanese role in war",
+   "lead": "A Juba, il capo di stato maggiore dell'esercito sudanese, generale Yassir al-Atta, ha espresso profondo rammarico per il presunto coinvolgimento di forze del Sud Sudan nel conflitto armato in corso nel Paese, riaprendo le tensioni diplomatiche tra le due nazioni africane. Lo riferisce Radio Tamazuj.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/sudan-army-voices-regret-over-south-sudanese-role-in-war",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-01T18:31+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcb3ffced",
+   "sez": "mondo",
+   "titolo": "Francia, partita da Saint-Malo la 13ª Route du Rhum",
+   "orig": "Départ de la 13e Route du Rhum sous une \"très belle journée ensoleillée\"",
+   "lead": "Da Saint-Malo 115 navigatori sono partiti per la tredicesima edizione della Route du Rhum. La celebre regata transatlantica in solitaria prende il via in condizioni meteorologiche favorevoli, con i concorrenti più veloci che puntano a percorrere la rotta oceanica a tempo di record. Lo riferisce France 24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261101-d%C3%A9part-de-la-13e-route-du-rhum-sous-une-tr%C3%A8s-belle-journ%C3%A9e-ensoleill%C3%A9e",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-01T17:18+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "zed409d5d",
+   "sez": "mondo",
+   "titolo": "Polonia, l'UE si schiera con Tusk nella nomina dei giudici",
+   "orig": "Pologne : pourquoi ce bras de fer entre Tusk et Nawrocki ?",
+   "lead": "La Commissione Europea è intervenuta nella crisi politica a Varsavia sostenendo la posizione del primo ministro Donald Tusk e chiedendo al presidente Karol Nawrocki di convalidare la nomina dei giudici per superare il blocco istituzionale che interessa la magistratura polacca. Lo riferisce France 24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261101-pologne-pourquoi-ce-bras-de-fer-entre-tusk-et-nawrocki",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-01T17:14+00:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "za9a0b7c5",
+   "sez": "mondo",
+   "titolo": "Germania, il movimento Gen Z regelt condanna le violenze urbane",
+   "orig": "Initiative \"Gen Z regelt\" distanziert sich von Krawallen nach friedlichen Protesten",
+   "lead": "In Germania i rappresentanti del movimento Gen Z regelt si sono ufficialmente dissociati dai disordini urbani e dagli atti di vandalismo verificatisi a seguito delle recenti manifestazioni pacifiche, ribadendo la propria contrarietà all'uso della violenza durante le proteste della gioventù. Lo riferisce Tagesschau.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1676182.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-01T18:04+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2170acb5",
+   "sez": "mondo",
+   "titolo": "Ucraina, aumenta la produzione e l'uso di droni a lungo raggio",
+   "orig": "Ukraine setzt zunnehmend auf selbst entwickelte Langstreckendrohnen",
+   "lead": "L'Ucraina fa un uso sempre più ampio di droni a lungo raggio sviluppati e fabbricati sul proprio territorio nazionale. La strategia militare di Kiev punta ad ampliare il raggio delle operazioni difensive e offensive riducendo la dipendenza dalle forniture di equipaggiamenti militari stranieri. Lo riferisce Tagesschau.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/video/video-1676190.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-01T18:04+01:00"
+    }
+   ],
+   "data": "1 nov",
+   "ora": "20:42",
+   "uscita": "sera"
+  },
+  {
    "id": "z87a93839",
    "sez": "prima",
    "titolo": "Scienziata di Cambridge morta nell'incidente ferroviario in Spagna",
@@ -372,6 +1578,15 @@ window.EDIZIONI["2026-11-01-sera"] = {
      "angolo": "",
      "atlas": "Iraq",
      "t": "2026-11-01T18:31+03:00"
+    },
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-01T17:24+01:00"
     }
    ],
    "data": "1 nov",
@@ -411,44 +1626,29 @@ window.EDIZIONI["2026-11-01-sera"] = {
      "angolo": "",
      "atlas": "Cyprus",
      "t": "2026-11-01T20:33+02:00"
+    },
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202611016088",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-01T18:42+00:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/sport/fudbal/834291/enfild-vise-nije-nocna-mora-arsenala-kai-haverc-srusio-liverpul-sampion-je-sam-na-vrhu",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-01T19:29+01:00"
     }
    ],
    "data": "1 nov",
    "ora": "20:39",
    "uscita": "sera"
-  },
-  {
-   "id": "zd8a2ba7c",
-   "sez": "prima",
-   "titolo": "India, Amit Shah sfida Rahul Gandhi a un dibattito parlamentare",
-   "orig": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament",
-   "lead": "Il ministro degli Interni indiano Amit Shah ha sfidato il leader dell'opposizione Rahul Gandhi a un dibattito parlamentare aperto sulle presunte irregolarità elettorali e sul presunto furto di voti. La richiesta è giunta alla vigilia di una grande manifestazione organizzata dalle forze di opposizione a Delhi contro i vertici della Commissione elettorale. Nel contempo, il partito di governo BJP ha accusato Gandhi di aver isolato la sorella Priyanka durante le ultime proteste dell'alleanza dell'opposizione.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-10-31T05:06+00:00"
-    },
-    {
-     "n": "The Hindu",
-     "p": "XX",
-     "c": "Chennai",
-     "u": "https://www.thehindu.com/news/national/bjp-alleges-rift-between-rahul-priyanka-accuses-lop-of-sidelining-sister-at-india-bloc-protests/article71654117.ece",
-     "angolo": "",
-     "atlas": "India",
-     "t": "2026-11-02T00:25+05:30"
-    }
-   ],
-   "data": "1 nov",
-   "ora": "20:39",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
   },
   {
    "id": "z0ee4037d",
@@ -1076,13 +2276,38 @@ window.EDIZIONI["2026-11-01-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-10-30T11:00+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261101-inde-des-milliers-de-manifestants-contre-la-r%C3%A9vision-des-listes-%C3%A9lectorales",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-01T16:39+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-10-31T05:06+00:00"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/bjp-alleges-rift-between-rahul-priyanka-accuses-lop-of-sidelining-sister-at-india-bloc-protests/article71654117.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-02T00:25+05:30"
     }
    ],
    "data": "1 nov",
    "ora": "20:39",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z5a020c88",
@@ -1391,6 +2616,14 @@ window.EDIZIONI["2026-11-01-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-01T19:25+01:00"
+    },
+    {
+     "n": "RTCG",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://rtcg.me/sport/fudbal/898616/osmajic-nastavlja-da-reseta-niksicanin-trasirao-djenovi-put-do-trece-pobjede-u-nizu.html",
+     "angolo": "",
+     "atlas": "Montenegro"
     }
    ],
    "data": "1 nov",
@@ -2770,7 +4003,7 @@ window.EDIZIONI["2026-11-01-sera"] = {
   },
   {
    "id": "z5be3c87e",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Il premier canadese Mark Carney discute le trattative con l'UE e i rapporti con Donald Trump",
    "orig": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
    "lead": "Il Primo Ministro del Canada Mark Carney ha illustrato gli sviluppi dei colloqui con l'Unione Europea volti a diversificare i partner commerciali e ridurre la dipendenza economica dagli Stati Uniti. Carney ha difeso la proposta di un'associazione speciale con il blocco europeo, pur registrando le riserve della Germania. Al contempo, il premier canadese ha riferito progressi nei negoziati commerciali condotti con l'amministrazione americana guidata da Donald Trump a pochi giorni dalle elezioni di metà mandato.",
@@ -2799,7 +4032,9 @@ window.EDIZIONI["2026-11-01-sera"] = {
    ],
    "data": "1 nov",
    "ora": "20:39",
-   "uscita": "sera"
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zdfd57b6b",
@@ -2882,7 +4117,6 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "zae0a5a58": "La stampa internazionale risalta il successo al debutto di Almgren e il secondo titolo di Chepkirui a New York.",
   "z83137ae0": "I quotidiani internazionali analizzano l'allarme dei diplomati del Golfo di fronte alle minacce reciproche tra Teheran e Washington.",
   "z89650ca6": "Le testate sportive sottolineano il valore storico dell'affermazione dell'Arsenal ad Anfield dopo 14 anni.",
-  "zd8a2ba7c": "Deutsche Welle e The Hindu riportano lo scontro politico sulle accuse di frode elettorale e le tensioni interne all'opposizione.",
   "z0ee4037d": "BBC Travel e la Repubblica mettono a confronto gli standard di servizio e i costi dei vettori internazionali.",
   "z78f43bbe": "La Jornada ed El Comercio evidenziano la passione e i sacrifici economici dei sostenitori messicani per la Formula 1.",
   "zce8a3e63": "I media sudamericani monitorano l'impatto del maltempo sugli ecosistemi protetti e sulla rete elettrica delle isole.",
@@ -2971,7 +4205,53 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "z6436c690": "Daily Nation mette in evidenza le manovre della maggioranza keniana per integrare esponenti di spicco dell'opposizione.",
   "z5be3c87e": "Deutsche Welle risalta le dichiarazioni di Carney sulla necessità di stringere intese internazionali più ampie al di fuori del continente americano.",
   "zdfd57b6b": "Al Jazeera pone l'attenzione sulla protesta dei lavoratori dell'abbigliamento e sull'avvio della commissione salariale.",
-  "z3f0981d7": "RTÉ News evidenzia le parole di cordoglio della presidenza irlandese per la perdita dell'atleta."
+  "z3f0981d7": "RTÉ News evidenzia le parole di cordoglio della presidenza irlandese per la perdita dell'atleta.",
+  "z00c6b2de": "La testata nigeriana mette in evidenza le ricadute occupazionali e lo sviluppo industriale nello stato di Ogun.",
+  "z54e70f50": "Le testate africane seguono da vicino le vicende cliniche e agonistiche della stella della nazionale marocchina.",
+  "z02e0fd80": "Il quotidiano sudcoreano analizza l'andamento del settore culturale evidenziando il contrasto tra il calo generale e la crescita del teatro.",
+  "zee35e1f1": "L'emittente curda sottolinea le opportunità economiche e turistiche legate agli investimenti infrastrutturali di Toyota e Sardar Group.",
+  "z25ea96f5": "Il giornale spagnolo mette in rilievo le riflessioni geopolitiche del segretario generale dell'ONU sul futuro della governance globale e dell'IA.",
+  "z44c03dd4": "La testata elvetica celebra l'impresa del tennista monegasco, confermando la sua crescita ad alti livelli nel circuito internazionale.",
+  "z398ab5d9": "L'agenzia sudcoreana rileva l'intensa attività diplomatica del governo di Seul e l'importanza strategica dei colloqui bilaterali in programma.",
+  "z2dc84353": "I media francesi mettono in evidenza l'impatto umanitario dell'evacuazione e la precarietà della situazione per i civili intrappolati nel conflitto.",
+  "z65321c02": "La radiotelevisione olandese descrive la controversia pubblica che unisce il tema della conservazione faunistica alle proteste etiche in difesa degli animali.",
+  "zdd979051": "La stampa senegalese esamina le implicazioni costituzionali e politiche dello stallo di bilancio tra il potere esecutivo e quello legislativo.",
+  "z9ba1f263": "Il quotidiano pakistano evidenzia la fermezza della risposta militare di Islamabad e le aperture diplomatiche di Washington sulla sicurezza della regione.",
+  "z963d9597": "La testata israeliana enfatizza le garanzie istituzionali fornite dal Comitato elettorale a tutela della regolarità delle consultazioni.",
+  "zd4615b3e": "La testata boliviana segue da vicino gli sviluppi giudiziari della vicenda dei radar e le iniziative legali dell'esecutivo.",
+  "z2be30d0f": "Il giornale italiano offre una sintesi oggettiva sull'intervento di polizia a Londra e l'applicazione dei divieti contro organizzazioni messe al bando.",
+  "zf7e299da": "I media portoghesi documentano con drammaticità gli scontri di piazza e il bilancio dei feriti dopo gli interventi della polizia a Lisbona e Porto.",
+  "zfc03d986": "L'emittente pubblica statunitense analizza gli orientamenti dell'elettorato e i possibili scenari politici alla vigilia delle consultazioni.",
+  "za1a01e71": "La testata statunitense riflette sulle ripercussioni istituzionali e sulla tenuta della stabilità politica interna al termine della campagna elettorale.",
+  "z81f6e463": "Il network internazionale evidenzia la strategia elettorale dell'amministrazione repubblicana per mantenere la maggioranza al Senato.",
+  "z78dde3de": "L'emittente ceca offre visibilità al dibattito nazionale sulla sostenibilità economica e sull'autonomia dell'emittente pubblica.",
+  "z1285beb2": "Il servizio pubblico lettone sottolinea la rilevanza storica dell'evento per il prestigio e il ruolo diplomatico del paese nel contesto internazionale.",
+  "z47faa26f": "La testata lettone riporta con prontezza l'evoluzione dei protocolli di sicurezza militare lungo i confini orientali del paese.",
+  "z8e17e30f": "Analisi di costume e tendenze linguistiche da una prospettiva culturale neozelandese.",
+  "zf544c964": "Attenzione puntata sulla gestione delle risorse pubbliche e sul contrasto tra amministrazioni locali ed esecutivo.",
+  "z772e5060": "Focalizzazione sui temi socio-economici di prossimità percepiti dalla popolazione rurale.",
+  "zfbf7bda3": "Copertura attenta agli equilibri geopolitici e alla tutela delle comunità dell'Oceania.",
+  "z02b0fa12": "Monitoraggio costante delle crisi umanitarie internazionali diffuse dalle agenzie dell'ONU.",
+  "z805fdb18": "Informazione di servizio focalizzata sulle erogazioni pubbliche ed economiche statali.",
+  "z01f09903": "Informativa sulla coesione sociale e sulle iniziative interreligiose per la stabilità democratica.",
+  "z7e8072f0": "Approfondimento sulle riforme educative sociali nel nord della Nigeria.",
+  "z256f4ea4": "Analisi politica locale focalizzata sul pluralismo e sulla frammentazione elettorale sudafricana.",
+  "z7029e90e": "Inchiesta sulle inefficienze infrastrutturali e sulle dinamiche del partenariato pubblico-privato.",
+  "z11ad39c8": "Valutazione finanziaria e analisi dei rendimenti societari nel settore tech.",
+  "z053659bb": "Riflessione critica sulle fragilità istituzionali ed economiche della democrazia sudafricana.",
+  "z45fcbe5b": "Esame delle tensioni sociali e del rischio di instabilità nei governi cittadini.",
+  "z7591e5a1": "Attenzione alla sicurezza dei confini orientali della NATO ed europea.",
+  "z497984d0": "Inchiesta sulle dinamiche economiche illegali e sulle infiltrazioni della criminalità organizzata.",
+  "zcdc152d8": "Analisi delle dinamiche politiche interne alla maggioranza di governo rumena.",
+  "z4bdf8914": "La testata montenegrina segue lo svolgimento e il monitoraggio delle consultazioni elettorali nella regione.",
+  "z9f620dfe": "Il canale tv montenegrino monitora lo stato dei cantieri e la gestione delle opere pubbliche nella capitale.",
+  "z1870e810": "Il quotidiano montenegrino riporta la posizione dei rappresentanti europei sul percorso di integrazione del Paese.",
+  "z4bd3b43c": "Il media focalizzato sul Medio Oriente analizza la politica estera statunitense e la stabilità regionale.",
+  "zd609a1cb": "L'emittente regionale segue da vicino le dinamiche belliche e le relazioni bilaterali nel Corno d'Africa.",
+  "zcb3ffced": "Il canale di informazione transalpino copre l'inizio della storica regata velica transatlantica.",
+  "zed409d5d": "Il network internazionale analizza i conflitti istituzionali tra governo polacco e presidenza della Repubblica.",
+  "za9a0b7c5": "Il media tedesco evidenzia la spaccatura tra gli organizzatori pacifici e le frange violente delle manifestazioni.",
+  "z2170acb5": "Il notiziario tedesco analizza l'evoluzione tecnologica e l'autosufficienza militare delle forze ucraine."
  },
  "contesti": {
   "zae0a5a58": "Negli ultimi anni la Maratona di New York si è confermata una delle competizioni podistiche più partecipate al mondo, attirando atleti professionisti ed amatori da decine di Paesi diversi per correre attraverso i cinque distretti della metropoli americana.",
@@ -2983,8 +4263,8 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "z8b075bf2": "Nelle ultime settimane i consiglieri della Casa Bianca hanno analizzato i precedenti giuridici sull'uso delle ordinanze d'emergenza, prevedendo una forte contrapposizione istituzionale qualora le urne consegnino la maggioranza parlamentare all'opposizione.",
   "z87a93839": "Nei giorni scorsi un grave incidente ferroviario è avvenuto in Spagna, provocando un tragico bilancio di almeno 69 vittime. Tra i passeggeri coinvolti vi era la ricercatrice Marta Shahbazi dell'Università di Cambridge, in viaggio verso una conferenza scientifica dove avrebbe dovuto ricevere un prestigioso riconoscimento per le sue ricerche nella biologia dello sviluppo. La notizia del disastro e della scomparsa della scienziata ha suscitato vasto cordoglio nella comunità accademica internazionale.",
   "zd85522e8": "A seguito delle recenti consultazioni elettorali in Israele, sono emersi sospetti di irregolarità nel processo di voto. La Commissione elettorale ha quindi avviato le verifiche necessarie, giungendo a confermare la piena regolarità delle operazioni senza comprometterne l'esito finale. Il presidente Isaac Herzog ha annunciato che i dati ufficiali verranno diffusi mercoledì per lanciare le consultazioni politiche, mentre le varie forze si preparano a indicare le proprie raccomandazioni per la guida del governo.",
-  "zd8a2ba7c": "Tensioni crescenti segnano il panorama politico indiano a causa delle accuse mosse dall'opposizione su presunti brogli e manipolazioni elettorali. Le forze di opposizione, guidate da Rahul Gandhi, hanno organizzato importanti manifestazioni di protesta a Nuova Delhi contro i vertici della Commissione elettorale. In risposta, il ministro degli Interni Amit Shah ha lanciato una sfida per un dibattito parlamentare aperto, mentre il partito di governo BJP ha attaccato la leadership dell'opposizione.",
-  "z6df47007": "Negli ultimi tempi in India sono aumentate le proteste relative alla cancellazione di numerosi cittadini dalle liste elettorali senza un'adeguata comunicazione ufficiale. L'esclusione di molti aventi diritto ha sollevato forti polemiche sulla trasparenza dei processi democratici nel Paese. Per denunciare l'accaduto e chiedere risposte concrete alle autorità, centinaia di manifestanti hanno organizzato un'imponente marcia a Nuova Delhi sfilando con uno striscione lungo un chilometro contenente i nomi degli elettori esclusi."
+  "z6df47007": "Negli ultimi tempi in India sono aumentate le proteste relative alla cancellazione di numerosi cittadini dalle liste elettorali senza un'adeguata comunicazione ufficiale. L'esclusione di molti aventi diritto ha sollevato forti polemiche sulla trasparenza dei processi democratici nel Paese. Per denunciare l'accaduto e chiedere risposte concrete alle autorità, centinaia di manifestanti hanno organizzato un'imponente marcia a Nuova Delhi sfilando con uno striscione lungo un chilometro contenente i nomi degli elettori esclusi.",
+  "z5be3c87e": "Nelle ultime settimane, il governo canadese guidato da Mark Carney ha intensificato gli sforzi per diversificare le proprie partnership commerciali e ridurre la dipendenza economica dagli Stati Uniti. Il piano prevede una proposta di associazione speciale con l'Unione Europea, pur incontrando lo scetticismo della Germania. Parallelamente, Ottawa ha avviato complessi negoziati commerciali con l'amministrazione di Donald Trump, cercando un'intesa alla vigilia delle imminenti elezioni di metà mandato."
  },
  "cronologie": {
   "za4862048": [
@@ -3055,20 +4335,6 @@ window.EDIZIONI["2026-11-01-sera"] = {
     "Prevista la pubblicazione dei dati ufficiali e l'avvio delle consultazioni alla Residenza presidenziale."
    ]
   ],
-  "zd8a2ba7c": [
-   [
-    "Giorni scorsi",
-    "L'opposizione indiana solleva accuse di irregolarità e presunta sottrazione di voti."
-   ],
-   [
-    "Vigilia della manifestazione",
-    "Amit Shah sfida Rahul Gandhi a un dibattito parlamentare aperto sulle elezioni."
-   ],
-   [
-    "Oggi",
-    "Manifestazione dell'opposizione a Delhi e attacchi politici del BJP contro la gestione delle proteste."
-   ]
-  ],
   "z6df47007": [
    [
     "Settimane scorsi",
@@ -3081,6 +4347,20 @@ window.EDIZIONI["2026-11-01-sera"] = {
    [
     "Oggi",
     "Marcia di protesta a Nuova Delhi con uno striscione di un chilometro con i nomi degli esclusi."
+   ]
+  ],
+  "z5be3c87e": [
+   [
+    "Nelle scorse settimane",
+    "Avvio dei colloqui tra Canada e UE per definire un'associazione speciale"
+   ],
+   [
+    "Nei giorni scorsi",
+    "La Germania esprime prime riserve sull'accordo proposto da Ottawa"
+   ],
+   [
+    "Recente",
+    "Progressi nei colloqui commerciali bilaterali tra Canada e amministrazione Trump"
    ]
   ]
  },
@@ -3143,6 +4423,46 @@ window.EDIZIONI["2026-11-01-sera"] = {
     }
    ],
    "divergono": "Le testate registrano scostamenti nelle cifre degli exit poll: ANSA e Sky TG24 riportano dati puntuali (52,5% per Yotova e 43,4% per Gyurov), Deutsche Welle indica forchette di percentuale (50,7%-52,5% contro 43,4%-44%) ed Euronews approssima al 52% e 45%. Sul piano dei temi, Deutsche Welle ed Euronews enfatizzano il dibattito internazionale su Ucraina, droni nel Mar Nero e relazioni con Mosca. Sky TG24 si distingue integrando elementi di politica interna ed economia, come l'inflazione post-Eurozona, i costi energetici e il forte astensionismo registrato al primo turno."
+  },
+  "z6df47007": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "La voce del Qatar riporta che i manifestanti a Nuova Delhi hanno sfilato con uno «striscione di un chilometro» con i nomi dei cittadini cancellati. L'articolo non era leggibile, limitandosi a titolo e occhiello, quindi il giudizio è parziale. L'impostazione appare essenzialmente informativa.",
+     "b": "t"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "La testata riporta un testo focalizzato sulle previsioni per il campionato di pallacanestro universitario NCAA 2026-27 negli Stati Uniti. L'articolo non affronta in alcun modo la protesta di Nuova Delhi né la questione della cancellazione degli elettori in India.",
+     "b": "a"
+    },
+    {
+     "n": "France 24",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "La voce della Francia riferisce di «migliaia di manifestanti» a Nuova Delhi che chiedono le dimissioni del capo della Commissione elettorale. L'articolo non era leggibile oltre a titolo e occhiello, pertanto il giudizio è parziale. La trattazione appare puramente informativa.",
+     "b": "t"
+    },
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "La voce della Germania presenta una rassegna informativa sull'India, ponendo al centro lo scontro tra il ministro Amit Shah e l'opposizione sul presunto «furto di voti». Cita l'impeachment simbolico e la manifestazione al Ramlila Maidan contro il capo della Commissione elettorale Gyanesh Kumar.",
+     "b": "a"
+    },
+    {
+     "n": "The Hindu",
+     "c": "Chennai",
+     "p": "XX",
+     "t": "La testata indiana mette al centro le dichiarazioni dei portavoce del BJP Sambit Patra e Pradeep Bhandari. Riporta le accuse secondo cui Rahul Gandhi avrebbe oscurato la sorella Priyanka durante le proteste dell'opposizione, sostenendo che lei sia stata messa in «seconda fila» per timore di affiancamento.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate offrono prospettive profondamente diverse. The Guardian pubblica un contenuto del tutto non pertinente sulla pallacanestro statunitense. Al Jazeera e France 24 mettono in risalto la manifestazione di piazza e la rabbia contro la revisione elettorale. Deutsche Welle adotta un'impostazione informativa bilanciata, documentando sia la sfida parlamentare del ministro Amit Shah sia la mobilitazione dell'alleanza INDIA. Al contrario, The Hindu sposta la cornice della vicenda sulla dinamica politica interna dell'opposizione, focalizzandosi sulle accuse del partito di governo BJP circa una presunta rivalità tra Rahul e Priyanka Gandhi."
   }
  },
  "luoghi": {
@@ -3234,13 +4554,6 @@ window.EDIZIONI["2026-11-01-sera"] = {
    "n": "Liverpool",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "zd8a2ba7c": {
-   "n": "Nuova Delhi",
-   "p": [
-    "India"
    ],
    "pt": []
   },
@@ -3875,6 +5188,328 @@ window.EDIZIONI["2026-11-01-sera"] = {
     "Ireland"
    ],
    "pt": []
+  },
+  "z00c6b2de": {
+   "n": "Ogun",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z54e70f50": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z02e0fd80": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zee35e1f1": {
+   "n": "Erbil",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z25ea96f5": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z44c03dd4": {
+   "n": "Basilea",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z398ab5d9": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z2dc84353": {
+   "n": "Oleshky",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z65321c02": {
+   "n": "Leida",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "zdd979051": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z9ba1f263": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z963d9597": {
+   "n": "Tel Aviv",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zd4615b3e": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z2be30d0f": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf7e299da": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zfc03d986": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za1a01e71": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z81f6e463": {
+   "n": "Iowa",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z78dde3de": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z1285beb2": {
+   "n": "Riga",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "z47faa26f": {
+   "n": "Ludza",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "z8e17e30f": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zf544c964": {
+   "n": "Invercargill",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z772e5060": {
+   "n": "Isola del Sud",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zfbf7bda3": {
+   "n": "Micronesia",
+   "p": [
+    "Micronesia"
+   ],
+   "pt": []
+  },
+  "z02b0fa12": {
+   "n": "Yemen",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z805fdb18": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z01f09903": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z7e8072f0": {
+   "n": "Jigawa",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z256f4ea4": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z7029e90e": {
+   "n": "Durban",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z11ad39c8": {
+   "n": "Città del Capo",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z053659bb": {
+   "n": "Città del Capo",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z45fcbe5b": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z7591e5a1": {
+   "n": "Riga",
+   "p": [
+    "Latvia"
+   ],
+   "pt": []
+  },
+  "z497984d0": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zcdc152d8": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z4bdf8914": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z9f620dfe": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z1870e810": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z4bd3b43c": {
+   "n": "Ramallah",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zd609a1cb": {
+   "n": "Juba",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "zcb3ffced": {
+   "n": "Saint-Malo",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zed409d5d": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "za9a0b7c5": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z2170acb5": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3889,9 +5524,8 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "z814141ac": 1,
   "zd5fd0067": 1,
   "zae0a5a58": 1,
-  "z83137ae0": 1,
-  "z89650ca6": 1,
-  "zd8a2ba7c": 2,
+  "z83137ae0": 2,
+  "z89650ca6": 2,
   "z0ee4037d": 2,
   "z78f43bbe": 2,
   "zce8a3e63": 2,
@@ -3915,7 +5549,7 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "z48427ed9": 1,
   "z82a31fdc": 1,
   "zd6cee3fe": 1,
-  "z6df47007": 2,
+  "z6df47007": 3,
   "z5a020c88": 1,
   "ze3e6a5fe": 1,
   "z9f5d26d6": 1,
@@ -3928,7 +5562,7 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "z33c33c8d": 1,
   "zf82a2f46": 1,
   "zee557dbc": 1,
-  "z18678c3a": 1,
+  "z18678c3a": 2,
   "z8ec48287": 1,
   "zc6a4c586": 1,
   "z3cf83588": 1,
@@ -3980,7 +5614,53 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "z6436c690": 1,
   "z5be3c87e": 2,
   "zdfd57b6b": 2,
-  "z3f0981d7": 2
+  "z3f0981d7": 2,
+  "z00c6b2de": 1,
+  "z54e70f50": 1,
+  "z02e0fd80": 2,
+  "zee35e1f1": 1,
+  "z25ea96f5": 1,
+  "z44c03dd4": 1,
+  "z398ab5d9": 1,
+  "z2dc84353": 1,
+  "z65321c02": 1,
+  "zdd979051": 1,
+  "z9ba1f263": 1,
+  "z963d9597": 1,
+  "zd4615b3e": 1,
+  "z2be30d0f": 1,
+  "zf7e299da": 1,
+  "zfc03d986": 1,
+  "za1a01e71": 1,
+  "z81f6e463": 1,
+  "z78dde3de": 1,
+  "z1285beb2": 1,
+  "z47faa26f": 1,
+  "z8e17e30f": 1,
+  "zf544c964": 1,
+  "z772e5060": 1,
+  "zfbf7bda3": 1,
+  "z02b0fa12": 1,
+  "z805fdb18": 1,
+  "z01f09903": 1,
+  "z7e8072f0": 1,
+  "z256f4ea4": 1,
+  "z7029e90e": 1,
+  "z11ad39c8": 1,
+  "z053659bb": 1,
+  "z45fcbe5b": 1,
+  "z7591e5a1": 1,
+  "z497984d0": 1,
+  "zcdc152d8": 1,
+  "z4bdf8914": 2,
+  "z9f620dfe": 1,
+  "z1870e810": 2,
+  "z4bd3b43c": 2,
+  "zd609a1cb": 2,
+  "zcb3ffced": 1,
+  "zed409d5d": 2,
+  "za9a0b7c5": 2,
+  "z2170acb5": 2
  },
  "video": {},
  "pillole": []
