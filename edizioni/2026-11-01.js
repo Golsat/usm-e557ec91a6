@@ -553,7 +553,7 @@ window.EDIZIONI["2026-11-01"] = {
   },
   {
    "id": "z7db8a8bb",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Thailandia, il premier difende il piano di prestiti per il solare domestico",
    "orig": "Anutin defends govt solar rooftop loan plan",
    "lead": "Il primo ministro thailandese Anutin Charnvirakul ha difeso il programma governativo di prestiti per impianti solari sui tetti delle abitazioni, dopo le critiche dell'opposizione sul pacchetto di prestiti da 200 miliardi di baht previsto dall'iniziativa. Il premier ha affermato che il piano non rappresenta un \"assegno in bianco\", respingendo le accuse di gestione poco trasparente delle risorse pubbliche destinate al progetto. L'iniziativa punta a favorire l'installazione di pannelli solari domestici nel paese, in un contesto di dibattito politico sulle modalità di finanziamento della transizione energetica.",
