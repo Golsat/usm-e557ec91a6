@@ -70,7 +70,7 @@ window.EDIZIONI["2026-11-01-sera"] = {
   },
   {
    "id": "z3b3b13db",
-   "sez": "mondo",
+   "sez": "ambiente",
    "titolo": "Territorio del Nord in Australia, piano sull'acqua criticato dagli ambientalisti",
    "orig": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
    "lead": "Il governo del Territorio del Nord, in Australia, è accusato da un'organizzazione ambientalista di voler eliminare l'obbligo legale di destinare una quota d'acqua alla tutela dell'ambiente. La misura viene definita un attacco senza precedenti alla natura, descritto come estremo anche per gli standard dell'attuale governo di centrodestra della regione. Secondo il gruppo ambientalista, la decisione si inserisce in una serie di scelte politiche che negli ultimi tempi hanno ridotto le protezioni ambientali nel territorio. Lo riferisce The Guardian.",
@@ -935,39 +935,6 @@ window.EDIZIONI["2026-11-01-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-01T16:08+01:00"
-    }
-   ],
-   "data": "1 nov",
-   "ora": "17:05",
-   "uscita": "17"
-  },
-  {
-   "id": "za45e5a90",
-   "sez": "economia",
-   "titolo": "Pensioni, piccolo incentivo per chi resta al lavoro ma stretta sulle rivalutazioni",
-   "orig": "Pensioni, piccolo contributo per chi resta al lavoro. Stangata sulle rivalutazioni",
-   "lead": "La manovra di bilancio 2027 conferma alcune misure a favore dei lavoratori anziani che scelgono di rimanere al lavoro, prevedendo un piccolo contributo economico per chi prolunga la propria attività. Tuttavia, secondo le simulazioni riportate, il bilancio complessivo per la categoria dei pensionati resta negativo, soprattutto a causa di una stretta sulle rivalutazioni degli assegni. Lo riferisce la Repubblica.",
-   "more": [
-    "La rivalutazione delle pensioni è il meccanismo con cui gli importi vengono periodicamente aggiornati in base all'inflazione, per mantenerne il potere d'acquisto. Negli ultimi anni i governi italiani hanno spesso modulato questi aumenti in base al reddito, generando dibattiti sull'equità delle misure verso i pensionati con assegni più bassi."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/01/news/pensioni_manovra_2027_cosa_cambia_rivalutazione_simulazione-425691404/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-01T10:50+00:00"
-    },
-    {
-     "n": "la Repubblica – Economia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/01/news/pensioni_manovra_2027_cosa_cambia_rivalutazione_simulazione-425691404/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-01T15:01+01:00"
     }
    ],
    "data": "1 nov",
@@ -5339,7 +5306,6 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "z09099581": "EarthSky evidenzia che lo studio riduce la probabilità che le comete abbiano seminato la vita sulla Terra.",
   "zcd3b6516": "Breaking Belize News presenta l'iniziativa come possibile modello da valutare anche per il Belize.",
   "ze94a311d": "la Repubblica descrive il piano come un tentativo concreto di sostituire Netanyahu.",
-  "za45e5a90": "la Repubblica sottolinea che il bilancio complessivo per i pensionati resta negativo nonostante gli incentivi a restare al lavoro.",
   "z4b328ccc": "OndaRock racconta l'aneddoto come parte della mitologia della band.",
   "zfa9203fb": "il Post-Courier descrive una situazione di emergenza umanitaria sull'isola.",
   "z6004420e": "l'AIEA presenta il nucleare come strumento utile per la sostenibilità urbana.",
@@ -6514,13 +6480,6 @@ window.EDIZIONI["2026-11-01-sera"] = {
    ],
    "pt": []
   },
-  "za45e5a90": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z4b328ccc": {
    "n": "New York",
    "p": [
@@ -6925,7 +6884,6 @@ window.EDIZIONI["2026-11-01-sera"] = {
   "z09099581": 1,
   "zcd3b6516": 1,
   "ze94a311d": 2,
-  "za45e5a90": 1,
   "z4b328ccc": 1,
   "zfa9203fb": 1,
   "z6004420e": 1,
