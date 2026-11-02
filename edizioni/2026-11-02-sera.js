@@ -3,6 +3,167 @@ window.EDIZIONI["2026-11-02-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z2e20599f",
+   "sez": "mondo",
+   "titolo": "Falso allarme nucleare e chimico sull'app d'emergenza in Ucraina",
+   "orig": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+   "lead": "Un attacco informatico da parte di hacker sconosciuti ha violato l'applicazione mobile nazionale per le allerte d'emergenza in Ucraina. Attraverso la piattaforma sono stati inviati falsi messaggi ai residenti, inclusi avvisi di minaccia nucleare, attacchi chimici e combattimenti strada per strada a Kiev. Molti cittadini ucraini, abituati da anni ai bombardamenti russi, non hanno dato credito alle notifiche e hanno dubitato della loro veridicità, evitando così il panico. Lo riferisce BBC News.",
+   "more": [
+    "Le applicazioni di allerta precoce sono strumenti fondamentali nei contesti di conflitto per avvisare la popolazione civile in tempo reale sui pericoli imminenti, come raid aerei o missilistici. La loro compromissione tramite attacchi informatici rappresenta una seria minaccia alla sicurezza pubblica, mirata a destabilizzare il fronte interno e a generare confusione psicologica tra i civili."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-02T18:34+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-02T11:11+00:00"
+    }
+   ],
+   "data": "2 nov",
+   "ora": "20:28",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb0b492b5",
+   "sez": "italia",
+   "titolo": "Una targa a Firenze per Dante Nocentini, il giornalista che annunciò l'alluvione",
+   "orig": "Una targa per Dante Nocentini, giornalista annunciò l'alluvione di Firenze",
+   "lead": "Una targa commemorativa viene dedicata a Dante Nocentini, caporedattore dell'ANSA che per primo diede la notizia del disastro causato dallo straripamento dell'Arno. Il giornalista si accorse personalmente della tracimazione del fiume, raggiunse tempestivamente la redazione e diffuse l'informazione alla stampa e ai cittadini. Lo riferisce ANSA.",
+   "more": [
+    "L'alluvione di Firenze del novembre 1966 fu uno dei disastri naturali più gravi della storia italiana del Novecento. L'Arno ruppe gli argini in più punti, sommergendo il centro storico della città, provocando decine di vittime e danneggiando in modo inestimabile opere d'arte, monumenti e milioni di volumi custoditi nelle biblioteche locali."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/toscana/notizie/2026/11/02/una-targa-per-dante-nocentini-giornalista-annuncio-lalluvione-di-firenze_91133b37-9342-4f25-8104-92901e631b1e.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-02T18:37+01:00"
+    }
+   ],
+   "data": "2 nov",
+   "ora": "20:28",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze4081db2",
+   "sez": "mondo",
+   "titolo": "Cresce la pressione sui funzionari elettorali negli Stati Uniti",
+   "orig": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
+   "lead": "I distretti elettorali chiamati a decidere il controllo della Camera e del Senato l'anno prossimo sono distribuiti in tutto il territorio statunitense. In vista delle prossime scadenze, i funzionari locali preposti al voto in queste aree potrebbero trovarsi a fronteggiare livelli di scrutinio e pressioni pubbliche senza precedenti. Lo riferisce NPR.",
+   "more": [
+    "Il sistema elettorale statunitense si basa su una complessa rete di funzionari locali e statali incaricati di gestire le operazioni di voto e la certificazione dei risultati. Negli ultimi anni, la polarizzazione politica ha reso questi ruoli particolarmente esposti a contestazioni, minacce e pressioni legali o mediatiche durante lo svolgimento delle consultazioni."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-02T05:00-05:00"
+    }
+   ],
+   "data": "2 nov",
+   "ora": "20:28",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5ce4a701",
+   "sez": "ambiente",
+   "titolo": "Raggiunto un accordo globale per la tutela della natura, ma restano nodi sui finanziamenti",
+   "orig": "Global nature talks reach deal but money remains an issue",
+   "lead": "Diversi Paesi hanno trovato un'intesa internazionale per rilanciare un accordo globale volto a fermare il degrado e la perdita di biodiversità. Nonostante l'obiettivo comune di rimettere in carreggiata le politiche di protezione ambientale, persistono divisioni e incertezze riguardo alle risorse economiche necessarie per sostenere gli interventi. Lo riferisce BBC News.",
+   "more": [
+    "I negoziati internazionali sulla biodiversità richiedono complessi compromessi tra le nazioni industrializzate e quelle in via di sviluppo. Il nodo centrale riguarda solitamente la mobilitazione di fondi adeguati e il trasferimento di tecnologie per consentire ai Paesi economicamente più vulnerabili di attuare misure efficaci di conservazione degli ecosistemi."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-31T01:27+00:00"
+    },
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/uzbekistan/4241893.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-11-02T22:11+04:00"
+    }
+   ],
+   "data": "2 nov",
+   "ora": "20:28",
+   "uscita": "sera"
+  },
+  {
+   "id": "zadc599e6",
+   "sez": "tech",
+   "titolo": "Migliorare la qualità degli insight nell'analisi aziendale basata su agenti",
+   "orig": "Raising the quality of insights in agentic analytics",
+   "lead": "Negli ultimi anni l'intelligenza artificiale generativa ha trasformato l'analisi aziendale, rendendola accessibile a tutti i dipendenti. La nuova frontiera dell'intelligenza artificiale basata su agenti promette di automatizzare interi flussi di lavoro aziendali e di compiere azioni autonome basate sui dati elaborati. Tuttavia, il settore deve ancora superare un limite critico legato alla qualità complessiva degli insight generati da questi sistemi. Lo riferisce MIT Technology Review.",
+   "more": [
+    "L'automazione avanzata tramite agenti intelligenti sfrutta modelli linguistici e algoritmi complessi non solo per interpretare le informazioni, ma anche per eseguire decisioni operative in autonomia. Affinché queste tecnologie siano affidabili in ambito aziendale, è necessario perfezionare la precisione dei dati analizzati per evitare errori operativi su larga scala."
+   ],
+   "fonti": [
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-02T17:00+00:00"
+    }
+   ],
+   "data": "2 nov",
+   "ora": "20:28",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3e6bb78b",
+   "sez": "viaggi",
+   "titolo": "Treni, qual è il posto più sicuro? L'importanza del tavolino e del senso di marcia",
+   "orig": "Treni, qual è il posto più sicuro? Il ruolo del tavolino e perché sedersi contromarcia può fare la differenza",
+   "lead": "Dopo il recente disastro ferroviario avvenuto in Spagna, molti viaggiatori si interrogano sulla sicurezza dei diversi vagoni e dei sedili a bordo dei treni. Gli studi dedicati alla protezione dei passeggeri mostrano che la scelta della posizione, l'utilizzo dei tavolini e l'orientamento del sedile rispetto al senso di marcia possono fare la differenza in caso di impatto o incidente. Lo riferisce Il Messaggero – Tecnologia.",
+   "more": [
+    "La sicurezza passiva sui convogli ferroviari viene studiata attraverso simulazioni di impatto e analisi strutturali per ridurre i danni ai passeggeri durante le collisioni. Fattori come la decelerazione improvvisa, la presenza di ostacoli fissi come i tavolini e la direzione in cui si siede il viaggiatore influenzano la dinamica degli urti corporei."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/treni_posto_piu_sicuro_tavolino_sedile_contromarcia_studi-9856663.html",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "",
+   "ora": "20:28",
+   "uscita": "sera"
+  },
+  {
    "id": "z8cdb3012",
    "sez": "economia",
    "titolo": "Azerbaigian e Turchia: segnali di tensione sui limiti degli aiuti economici",
@@ -230,30 +391,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "South Korea",
      "t": "2026-11-02T17:34+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "20:17",
-   "uscita": "sera"
-  },
-  {
-   "id": "z2b141590",
-   "sez": "economia",
-   "titolo": "Filippine: profitti record per il settore bancario nel terzo trimestre",
-   "orig": "PH banks post record Q3 profit",
-   "lead": "Le banche delle Filippine hanno chiuso il terzo trimestre del 2026 con un utile netto record di 315,5 miliardi di pesos, segnando un incremento del 4,3% rispetto allo stesso periodo dell'anno precedente. Secondo i dati della banca centrale (BSP), la crescita dei profitti è stata alimentata dal mantenimento di tassi di interesse elevati, che hanno garantito margini più ampi agli istituti di credito nonostante le incertezze economiche. Le banche sono riuscite a navigare tra le sfide del mercato interno e internazionale, beneficiando della solida domanda di credito. Questo risultato rappresenta il valore più alto mai raggiunto dal settore finanziario filippino per un terzo trimestre. Lo riferisce Philippine Daily Inquirer.",
-   "more": [
-    "L'aumento dei tassi di interesse deciso dalle banche centrali per contrastare l'inflazione ha un impatto positivo immediato sulla redditività delle banche commerciali, poiché aumenta lo spread tra interessi attivi e passivi. Tuttavia, se i tassi rimangono troppo alti per periodi prolungati, sussiste il rischio di un aumento delle sofferenze bancarie dovuto alla difficoltà dei debitori di onorare i prestiti."
-   ],
-   "fonti": [
-    {
-     "n": "Philippine Daily Inquirer",
-     "p": "XX",
-     "c": "Manila",
-     "u": "https://business.inquirer.net/619319/ph-banks-post-record-q3-profit",
-     "angolo": "",
-     "atlas": "Philippines",
-     "t": "2026-11-03T02:24+08:00"
     }
    ],
    "data": "2 nov",
@@ -1513,39 +1650,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z70d2b2d1",
-   "sez": "mondo",
-   "titolo": "Elezioni di metà mandato negli USA: i seggi in palio",
-   "orig": "Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa",
-   "lead": "Gli elettori americani si preparano per l'Election Day delle midterm, che rinnoverà l'intera Camera dei Rappresentanti e 35 seggi del Senato su 100. La consultazione coinvolge anche numerose cariche locali e governatori statali, determinando i futuri equilibri di potere nel Congresso durante l'amministrazione in corso.",
-   "more": [
-    "Le elezioni di metà mandato si svolgono a metà del mandato quadriennale di un presidente statunitense. Storicamente, queste consultazioni rappresentano un referendum sull'operato della Casa Bianca e possono influenzare drasticamente la capacità legislativa del presidente nei restanti due anni."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-02T18:02+00:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-02T19:02+01:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "20:17",
-   "uscita": "sera"
-  },
-  {
    "id": "z2ca0c46f",
    "sez": "mondo",
    "titolo": "Germania, ex ministra Bas accusa la CDU di disumanità",
@@ -1638,6 +1742,15 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Cyprus",
      "t": "2026-11-02T20:08+02:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-02T15:00+00:00"
     }
    ],
    "data": "2 nov",
@@ -1914,30 +2027,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-02T13:25-05:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "20:17",
-   "uscita": "sera"
-  },
-  {
-   "id": "z54f25b20",
-   "sez": "mondo",
-   "titolo": "Polonia, scontro istituzionale sul Tribunale Costituzionale",
-   "orig": "Poland's in the midst of a constitutional crisis. Here's what's happening",
-   "lead": "La Polonia sta attraversando una grave crisi costituzionale a causa di un decennio di dispute riguardanti l'indipendenza delle alte corti. Lo scontro frontale tra il primo ministro e il presidente della Repubblica ha scatenato nuove proteste davanti al Tribunale Costituzionale di Varsavia durante l'ultimo fine settimana. Lo riferisce CBC News.",
-   "more": [
-    "La disputa riguarda la nomina dei giudici e la legittimità delle riforme giudiziarie introdotte dai precedenti governi. Questo conflitto ha creato tensioni costanti con l'Unione Europea, che accusa la Polonia di minare lo stato di diritto e l'indipendenza della magistratura ordinaria."
-   ],
-   "fonti": [
-    {
-     "n": "CBC News",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.cbc.ca/news/world/poland-constitutional-crisis-9.7405663?cmp=rss",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-11-02T12:06-05:00"
     }
    ],
    "data": "2 nov",
@@ -2962,6 +3051,50 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Dominican Rep.",
      "t": "2026-11-02T13:06+00:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-02T13:44+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/iran-offers-to-reopen-hormuz-within-48-hours/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/uae/abu-dhabi/snoc-says-uae-can-have-a-100-kilometre-pipeline-to-bypass-strait-of-hormuz-1.500733036",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-02T18:38+04:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ready-reopen-hormuz-two-days-if-us-agrees-demands",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-02T13:59+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/iran-pronti-a-riaprire-hormuz-in-due-giorni-se-gli-usa-accettano-le-condizioni_f5315141-c840-4f45-89ca-066c867cee06.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-02T16:46+01:00"
     }
    ],
    "data": "2 nov",
@@ -3028,6 +3161,33 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Senegal",
      "t": "2026-11-02T17:48+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/joj-dakar-2026/joj-dakar-2026-le-savoir-faire-senegalais-derriere-la-magie-du-spectacle/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-02T10:00+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Entretien/joj-dakar-2026-babacar-mbengue-dg-de-la-sapco-le-veritable-enjeu-des-joj-pour-le-secteur-du-tourisme_n_999002426.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-02T11:23+00:00"
+    },
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/107985-joj-2026-dakar-face-au-defi-de-la-mobilisation",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-11-02T10:14+00:00"
     }
    ],
    "data": "2 nov",
@@ -3401,6 +3561,15 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-02T17:38+00:00"
+    },
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/11/numeri-lucca-comics-2026/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-02T09:40+00:00"
     }
    ],
    "data": "2 nov",
@@ -5063,30 +5232,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z090808cd",
-   "sez": "economia",
-   "titolo": "Detenuto in Serbia il proprietario di Alta Bank dopo la perdita della licenza",
-   "orig": "Serbia detains Alta Bank owner Davor Macura after bank used by Russian emigrants loses license",
-   "lead": "Davor Macura, proprietario di Alta Bank e uomo d'affari vicino al Partito Progressista Serbo, è stato arrestato dalle autorità serbe. Il fermo avviene dopo che la banca, utilizzata frequentemente dagli emigrati russi, ha perso la propria licenza operativa. Al momento non è stato rilasciato alcun annuncio ufficiale circa le motivazioni specifiche della detenzione, ma i media locali collegano l'evento alle recenti difficoltà finanziarie e amministrative dell'istituto di credito in un clima di incertezza normativa. Lo riferisce Meduza.",
-   "more": [
-    "Il settore bancario in Serbia ha visto negli ultimi anni un afflusso di clienti provenienti dalla Russia a seguito delle sanzioni internazionali. La revoca della licenza a una banca e l'arresto del suo proprietario possono segnalare controlli più severi sulla conformità finanziaria o tensioni interne tra l' élite economica e il potere politico nel Paese balcanico, interessato a mantenere standard internazionali."
-   ],
-   "fonti": [
-    {
-     "n": "Meduza",
-     "p": "XX",
-     "c": "Riga (in esilio)",
-     "u": "https://meduza.io/en/news/2026/11/02/serbia-detains-alta-bank-owner-davor-macura-after-bank-used-by-russian-emigrants-loses-license",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-11-02T20:34+03:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "20:09",
-   "uscita": "sera"
-  },
-  {
    "id": "zd6c4154a",
    "sez": "tech",
    "titolo": "Uno studio avverte sui limiti del polo tecnologico Pax Silica nelle Filippine",
@@ -5152,30 +5297,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Ghana",
      "t": "2026-11-02T16:39+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "20:09",
-   "uscita": "sera"
-  },
-  {
-   "id": "z66c22667",
-   "sez": "economia",
-   "titolo": "Il premier belga Bart De Wever offre le dimissioni per una disputa sul bilancio",
-   "orig": "One of the EU’s most vocal opponents of seizing Russian assets may be leaving office. Belgium’s prime minister has offered to resign over a budget dispute.",
-   "lead": "Il primo ministro del Belgio, Bart De Wever, ha presentato le sue dimissioni a Re Filippo a seguito di un disaccordo sulla gestione del bilancio nazionale. De Wever è noto per essere uno dei principali oppositori europei al sequestro dei beni russi congelati, una posizione che ha creato tensioni all'interno dell'Unione Europea. La crisi di governo si inserisce in un contesto politico complesso per il Paese, mettendo a rischio la stabilità economica e le decisioni strategiche su temi di politica estera e finanziaria. Lo riferisce Meduza.",
-   "more": [
-    "Il Belgio è un Paese federale la cui stabilità politica è spesso messa alla prova da difficili negoziati tra i partiti. Il Primo Ministro guida solitamente coalizioni ampie che devono trovare un equilibrio su temi fiscali. Le dimissioni rimescolano le alleanze parlamentari e possono portare a periodi di governo provvisorio in attesa di nuovi accordi per la gestione della spesa pubblica."
-   ],
-   "fonti": [
-    {
-     "n": "Meduza",
-     "p": "XX",
-     "c": "Riga (in esilio)",
-     "u": "https://meduza.io/en/news/2026/11/02/one-of-the-eu-s-most-vocal-opponents-of-seizing-russian-assets-may-be-leaving-office-belgium-s-prime-minister-has-offered-to-resign-over-a-budget-dispute",
-     "angolo": "",
-     "atlas": "Russia",
-     "t": "2026-11-02T20:24+03:00"
     }
    ],
    "data": "2 nov",
@@ -5323,30 +5444,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-02T12:57+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z6fbd26ac",
-   "sez": "mondo",
-   "titolo": "Partiti arabi sostengono Eisenkot nelle trattative per la coalizione in Israele",
-   "orig": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
-   "lead": "Le trattative per la formazione di una nuova coalizione di governo in Israele continuano, con i partiti arabi che si schierano a sostegno di Gadi Eisenkot. Le varie forze politiche stanno valutando i possibili percorsi per arrivare al potere, in un quadro politico ancora incerto. Lo riferisce Al Jazeera.",
-   "more": [
-    "Gadi Eisenkot è un ex capo di stato maggiore dell'esercito israeliano entrato in politica, noto per le sue posizioni critiche verso la gestione del conflitto a Gaza da parte del governo Netanyahu; il sostegno dei partiti arabi israeliani può pesare negli equilibri di una coalizione."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-02T15:00+00:00"
     }
    ],
    "data": "2 nov",
@@ -7272,65 +7369,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z8b168d59",
-   "sez": "mondo",
-   "titolo": "L'Iran dice che riaprirebbe lo Stretto di Hormuz in due giorni come parte di un accordo con gli USA",
-   "orig": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-   "lead": "Funzionari iraniani hanno parlato di alcuni progressi nei negoziati per la riapertura dello Stretto di Hormuz, vitale corridoio per il trasporto di petrolio e gas, dichiarandosi pronti a riaprirlo entro 48 ore se Washington accetterà le condizioni poste da Teheran. L'annuncio arriva mentre l'Iran si prepara anche a un possibile scenario di guerra totale, dopo che il presidente statunitense Donald Trump ha rilanciato minacce militari durante un comizio per le elezioni di metà mandato. Lo riferiscono The New York Times, Gulf News e Middle East Eye.",
-   "more": [
-    "Lo Stretto di Hormuz, tra Iran e Oman, è uno dei passaggi marittimi più strategici al mondo per il trasporto di petrolio e gas. Minacce di chiusura da parte iraniana sono state più volte usate come leva negoziale nelle tensioni con gli Stati Uniti e i paesi del Golfo."
-   ],
-   "fonti": [
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-02T13:44+00:00"
-    },
-    {
-     "n": "The Punch",
-     "p": "XX",
-     "c": "Lagos",
-     "u": "https://punchng.com/iran-offers-to-reopen-hormuz-within-48-hours/?utm_source=rss.punchng.com&utm_medium=web",
-     "angolo": "",
-     "atlas": "Nigeria"
-    },
-    {
-     "n": "Gulf News",
-     "p": "XX",
-     "c": "Dubai",
-     "u": "https://gulfnews.com/uae/abu-dhabi/snoc-says-uae-can-have-a-100-kilometre-pipeline-to-bypass-strait-of-hormuz-1.500733036",
-     "angolo": "",
-     "atlas": "United Arab Emirates",
-     "t": "2026-11-02T18:38+04:00"
-    },
-    {
-     "n": "Middle East Eye",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-ready-reopen-hormuz-two-days-if-us-agrees-demands",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-11-02T13:59+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/02/iran-pronti-a-riaprire-hormuz-in-due-giorni-se-gli-usa-accettano-le-condizioni_f5315141-c840-4f45-89ca-066c867cee06.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-02T16:46+01:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
    "id": "z7f20eb5f",
    "sez": "prima",
    "titolo": "Bolivia in emergenza per El Niño: la siccità colpisce 63 comuni",
@@ -7537,6 +7575,15 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Poland",
      "t": "2026-10-30T20:55+00:00"
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/poland-constitutional-crisis-9.7405663?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-02T12:06-05:00"
     }
    ],
    "data": "2 nov",
@@ -9362,30 +9409,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zc52cbc44",
-   "sez": "manga",
-   "titolo": "Lucca Comics & Games 2026, i numeri della sessantesima edizione",
-   "orig": "Lucca Comics & Games 2026: i numeri della manifestazione",
-   "lead": "Si è conclusa il 1° novembre la sessantesima edizione di Lucca Comics & Games, uno dei principali festival dedicati a fumetti, manga e giochi in Europa. La manifestazione ha reso noti i dati relativi a questa edizione, confermando le dimensioni dell'evento che ogni anno attira pubblico e operatori del settore nella città toscana. Lo riferisce Fumettologica.",
-   "more": [
-    "Lucca Comics & Games è uno dei più grandi festival al mondo dedicati a fumetto, manga, videogiochi e cultura pop, nato negli anni Sessanta e diventato negli anni un appuntamento di riferimento internazionale per appassionati e professionisti del settore."
-   ],
-   "fonti": [
-    {
-     "n": "Fumettologica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://fumettologica.it/2026/11/numeri-lucca-comics-2026/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-02T09:40+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "z3b9dde6f",
    "sez": "ambiente",
    "titolo": "Eliminato il primo nido di vespa velutina asiatica in Polonia, esperti avvertono di nuovi arrivi",
@@ -10096,6 +10119,15 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Bosnia and Herz.",
      "t": "2026-11-02T12:07+01:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/02/serbia-detains-alta-bank-owner-davor-macura-after-bank-used-by-russian-emigrants-loses-license",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-02T20:34+03:00"
     }
    ],
    "data": "2 nov",
@@ -10508,7 +10540,7 @@ window.EDIZIONI["2026-11-02-sera"] = {
   },
   {
    "id": "z5ee15c69",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Elezioni di metà mandato negli Stati Uniti: sei cose da osservare nella notte del voto",
    "orig": "6 things to watch for on election night",
    "lead": "Gli americani si preparano a votare martedì per le elezioni di metà mandato che decideranno il controllo del Congresso per gli ultimi due anni del mandato del presidente Donald Trump. Le analisi si concentrano su gruppi di elettori che si sarebbero allontanati da Trump durante il suo secondo mandato, e sulle conseguenze del risultato per spesa pubblica e politiche sull'intelligenza artificiale secondo gli investitori. Lo riferiscono NPR, The Straits Times e CNA.",
@@ -10542,6 +10574,24 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-11-02T18:05+08:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-02T18:02+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/03/news/elezioni_midterm_usa_cariche_in_gioco_parlamentari_governatori-425694350/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-02T19:02+01:00"
     }
    ],
    "data": "2 nov",
@@ -10622,6 +10672,15 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "u": "https://asia.nikkei.com/business/materials/chinese-steel-industry-losses-snowball-as-demand-falls-and-costs-rise",
      "angolo": "",
      "atlas": "Japan"
+    },
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://business.inquirer.net/619319/ph-banks-post-record-q3-profit",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-03T02:24+08:00"
     }
    ],
    "data": "2 nov",
@@ -10849,6 +10908,15 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Luxembourg",
      "t": "2026-11-02T12:19+00:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/02/one-of-the-eu-s-most-vocal-opponents-of-seizing-russian-assets-may-be-leaving-office-belgium-s-prime-minister-has-offered-to-resign-over-a-budget-dispute",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-02T20:24+03:00"
     }
    ],
    "data": "2 nov",
@@ -10891,48 +10959,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Dem. Rep. Congo",
      "t": "2026-11-02T08:50+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
-   "id": "ze4a79547",
-   "sez": "mondo",
-   "titolo": "Il talento senegalese dietro lo spettacolo dei Giochi olimpici della gioventù Dakar 2026",
-   "orig": "JOJ Dakar 2026 : le savoir-faire sénégalais derrière la magie du spectacle",
-   "lead": "Dietro le coreografie, gli effetti di luce e i costumi della cerimonia di apertura dei Giochi olimpici della gioventù Dakar 2026 (31 ottobre-13 novembre) c'è il lavoro coordinato da Khady Niang di creatori, artisti e tecnici senegalesi. Lo riferisce Le Soleil.",
-   "more": [
-    "I JOJ Dakar 2026 rappresentano un evento storico per l'Africa, prima volta che il continente ospita questa competizione olimpica giovanile. La cerimonia ha riflesso il patrimonio culturale e il savoir-faire senegalese."
-   ],
-   "fonti": [
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/joj-dakar-2026/joj-dakar-2026-le-savoir-faire-senegalais-derriere-la-magie-du-spectacle/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-11-02T10:00+00:00"
-    },
-    {
-     "n": "Seneweb",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://www.seneweb.com/fr/news/Entretien/joj-dakar-2026-babacar-mbengue-dg-de-la-sapco-le-veritable-enjeu-des-joj-pour-le-secteur-du-tourisme_n_999002426.html",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-11-02T11:23+00:00"
-    },
-    {
-     "n": "Radio Ndeke Luka",
-     "p": "XX",
-     "c": "Bangui",
-     "u": "https://www.radiondekeluka.org/107985-joj-2026-dakar-face-au-defi-de-la-mobilisation",
-     "angolo": "",
-     "atlas": "Central African Rep.",
-     "t": "2026-11-02T10:14+00:00"
     }
    ],
    "data": "2 nov",
@@ -11101,7 +11127,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "zcc3bfdb2": "La testata riporta l'aggiornamento sull'identificazione delle vittime.",
   "z4d3b7edd": "La polizia difende la propria azione, mentre le fonti non riportano la posizione dei manifestanti.",
   "z86c2b924": "La testata valorizza il borgo come meta di turismo enogastronomico e culturale.",
-  "zc52cbc44": "La testata riporta i dati ufficiali diffusi dagli organizzatori della manifestazione.",
   "z3b9dde6f": "La testata segnala l'intervento riuscito ma avverte del rischio di ulteriore diffusione.",
   "z27d7e519": "La testata riporta le dichiarazioni iraniane senza conferme indipendenti sui dettagli della proposta.",
   "z7c23a18c": "La testata analizza i rischi economici legati alla ripresa delle tensioni militari.",
@@ -11144,7 +11169,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z89ad96a1": "Scetticismo sulla retorica ottimista repubblicana di fronte ai dati sondaggistici sfavorevoli.",
   "zb41ecd01": "Enfasi sulla crisi di governo belga scatenata dall'impasse sui conti pubblici.",
   "zb523d2fe": "Sottolineatura dei risultati militari e dei dati di arresi volontari come indicatore di indebolimento della ribellione.",
-  "ze4a79547": "Valorizzazione della capacità creativa e tecnica senegalese nel contesto di un evento sportivo internazionale storico.",
   "zaa27e603": "Enfasi sulla ripresa delle vendite e il ruolo trainante dell'export per il settore automobilistico sudcoreano.",
   "z699723aa": "Focus sugli scontri tra candidati dell'opposizione intorno ai temi energetici in vista delle presidenziali 2027.",
   "z25ff4710": "Attenzione alle implicazioni umanitarie e di sicurezza delle politiche americane di deportazione verso l'Afghanistan talebano.",
@@ -11153,7 +11177,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z969b9c7c": "La BBC pone l'accento sulla scorta aerea militare fornita dall'aviazione ungherese al volo civile.",
   "z11863152": "BBC News collega la possibile stretta sui costi al prolungarsi del conflitto tra Stati Uniti e Iran, che sta facendo salire i prezzi del carburante.",
   "zdb793758": "Il quotidiano britannico mette in luce l'argomentazione costituzionale sollevata da Reddit contro il governo.",
-  "z6fbd26ac": "Al Jazeera si concentra sulle manovre politiche in corso tra i diversi blocchi per la formazione del nuovo governo.",
   "z187abbf5": "Al Jazeera sottolinea il contrasto tra i guadagni record delle compagnie americane e l'aumento dei costi energetici per le famiglie.",
   "zd98b074a": "la Repubblica evidenzia che gran parte dei fondi destinati ai giovani sono agevolazioni indirette e non trasferimenti diretti.",
   "zd1a17848": "N1 Serbia e N1 Bosnia riportano entrambe la notizia degli arresti, confermando i dettagli dell'accusa di frode elettorale.",
@@ -11207,7 +11230,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "za163ff71": "La testata sottolinea il ruolo mediatore cinese in un momento di forte tensione tra Iran e Stati Uniti.",
   "zd8a75806": "La testata, gestita da giornalisti in esilio, mantiene una prospettiva critica verso il regime militare birmano.",
   "z60fa0284": "La testata riporta in modo essenzialmente procedurale la convocazione parlamentare.",
-  "z8b168d59": "Le testate riportano le dichiarazioni iraniane insieme alle rinnovate minacce di guerra del presidente statunitense.",
   "z7f20eb5f": "La testata riporta i dati ufficiali sulle famiglie colpite diffusi dal governo.",
   "z5bb67b8d": "La testata segue l'agenda diplomatica del presidente boliviano durante la trasferta europea.",
   "za02587b6": "Le testate seguono in parallelo due fronti del conflitto, con avanzate sia governative sia degli Houthi.",
@@ -11312,11 +11334,9 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z66dee367": "L'agenzia italiana sottolinea come i fattori economici e le spine tecnologiche stiano influenzando profondamente l'opinione pubblica americana.",
   "z208f9662": "La testata sottolinea l'appello urgente del direttore dell'OMS affinché i governi non rallentino i negoziati per la sicurezza sanitaria comune.",
   "zd853ff10": "La testata neozelandese evidenzia il prestigio degli artisti aggiunti per celebrare il ventennale della manifestazione.",
-  "z090808cd": "La testata mette in luce il legame tra la chiusura della banca e la figura politica del suo proprietario.",
   "zd6c4154a": "La testata filippina solleva dubbi sulla strategia governativa, citando uno studio accademico che chiede maggiore attenzione al valore aggiunto.",
   "zd62ce13b": "La testata specializzata evidenzia la necessità di cautela scientifica di fronte a risultati meno incoraggianti del previsto sulla psilocibina.",
   "z835f42de": "La testata ghanese riporta l'omaggio di Dumelo a una delle icone del cinema nazionale.",
-  "z66c22667": "La testata evidenzia come la crisi di bilancio si intrecci con le posizioni del premier belga contrarie al sequestro degli asset russi.",
   "z04ddd6e5": "Euronews mette in risalto la minaccia posta dai droni alle rotte commerciali e il sospetto coinvolgimento della Russia negli attacchi.",
   "zd6793021": "La testata scientifica pone l'accento sul rischio che l'IA possa esacerbare le disparità sanitarie anziché ridurle.",
   "z6f3cc0f3": "La testata nigeriana sottolinea l'importanza strategica dell'integrazione dei mercati creativi per la crescita economica del continente africano.",
@@ -11329,7 +11349,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "ze57729f2": "La testata sottolinea l'impatto immediato delle dichiarazioni politiche iraniane sulla fiducia degli investitori e sulla volatilità dei prezzi del greggio.",
   "z89c03fe6": "La testata enfatizza la natura storica della seduta parlamentare a Sebha e l'importanza strategica dell'unanimità sulla raffineria meridionale.",
   "zc206cd65": "La testata evidenzia la preoccupazione dei mercati valutari coreani per le possibili ripercussioni delle consultazioni elettorali statunitensi.",
-  "z2b141590": "La testata sottolinea l'eccezionalità del risultato finanziario del settore bancario filippino in un contesto di alti tassi d'interesse.",
   "z1da7a0a9": "La testata riporta l'ottimismo cauto degli analisti sulla capacità di recupero di una delle principali realtà tecnologiche del Paese.",
   "z3abac489": "La testata mette in luce lo sforzo proattivo delle autorità filippine nel cercare collaborazioni industriali e tecnologiche con il Canada.",
   "z7b01a2ca": "La testata pone l'accento sulla determinazione del governo nel mantenere il controllo sulle infrastrutture energetiche strategiche contro le resistenze dei privati.",
@@ -11367,7 +11386,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z4226b812": "Focus sulle misure di sicurezza e la sorveglianza militare ai confini orientali dell'Unione Europea.",
   "z39a219eb": "Le testate si concentrano sulla lista dei premiati e sulla storica ricollocazione dell'evento a causa dei lavori.",
   "z6025942f": "L'attenzione è rivolta al tentativo di sbloccare l'eredità tramite il supporto di un grande istituto internazionale.",
-  "z70d2b2d1": "Repubblica analizza nel dettaglio la composizione del voto e l'importanza delle sfide locali e nazionali.",
   "z2ca0c46f": "La fonte mette in luce il lato umano e le aspre frizioni personali dietro la cronaca politica tedesca.",
   "z936270bd": "Le testate pakistane seguono con precisione ogni sviluppo legale e le condizioni di detenzione dell'ex premier.",
   "z196020b0": "Middle East Eye monitora i movimenti dei leader dell'opposizione nel tentativo di scalzare la maggioranza uscente.",
@@ -11381,7 +11399,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "zc5b8af14": "La fonte locale sottolinea l'impegno governativo nella pianificazione militare a lungo termine.",
   "zefa52c24": "PBS NewsHour si focalizza sulle difficoltà economiche e sulle ridotte opzioni per i cittadini che usufruiscono del servizio sanitario pubblico.",
   "zc67b57eb": "La testata analizza il tempismo elettorale delle promesse miliardarie dell'amministrazione Trump verso il mondo rurale.",
-  "z54f25b20": "CBC News offre una prospettiva esterna sullo stallo istituzionale polacco e sulle proteste di piazza a Varsavia.",
   "za6860259": "Analisi politica focalizzata sugli impatti per la Nuova Zelanda.",
   "z95969c01": "Cronaca sportiva internazionale dall'angolatura greca.",
   "z73221928": "Focus sui riflessi internazionali delle elezioni americane sulla sicurezza europea.",
@@ -11399,14 +11416,20 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z555f5c59": "Cronaca giudiziaria legata a vicende che coinvolgono la presidenza.",
   "z319323ca": "Copertura del dibattito legislativo sulle riforme finanziarie in Nigeria.",
   "zd63ea055": "Riflessione culturale e storica sulla gestione dei siti legati al nazismo.",
-  "z0bbdb5cb": "Ricostruzione storica e culturale sulle origini di un genere musicale."
+  "z0bbdb5cb": "Ricostruzione storica e culturale sulle origini di un genere musicale.",
+  "z2e20599f": "La BBC evidenzia come la popolazione abbia ignorato i messaggi grazie alla resilienza sviluppata durante anni di conflitto.",
+  "zb0b492b5": "L'ANSA sottolinea il valore storico del lavoro giornalistico svolto dal proprio caporedattore durante una tragedia nazionale.",
+  "ze4081db2": "NPR evidenzia la vulnerabilità del personale amministrativo e la diffusione nazionale delle aree chiave per il controllo del Congresso.",
+  "z5ce4a701": "La BBC evidenzia il divario tra gli impegni formali presi dai governi e la reale disponibilità di finanziamenti condivisi.",
+  "zadc599e6": "Il MIT Technology Review evidenzia la distanza tra le potenzialità future dell'IA agentica e le attuali limitazioni tecniche.",
+  "z3e6bb78b": "Il Messaggero evidenzia i criteri tecnici legati alla posizione a bordo per migliorare la sicurezza personale in viaggio."
  },
  "contesti": {
   "z4877b7ec": "Negli ultimi anni le azioni delle grandi società tecnologiche statunitensi sono salite grazie all'entusiasmo per l'intelligenza artificiale, con investimenti record in infrastrutture e chip. Negli ultimi mesi sono emersi crescenti dubbi tra gli investitori sulla reale redditività di questi investimenti, alimentando episodi di volatilità sui mercati.",
   "zfbf92d90": "Nelle ultime settimane impianti petroliferi nella regione di Samara sono stati colpiti più volte da attacchi con drone ucraini, nel quadro di una campagna più ampia contro le infrastrutture energetiche russe.",
   "z478699a6": "Negli ultimi anni il Giappone ha più volte rafforzato i propri piani di prevenzione sismica e vulcanica, in particolare dopo il terremoto e lo tsunami del 2011. Esperti e governo hanno discusso a lungo la necessità di un organismo centrale che coordinasse le diverse agenzie coinvolte nella gestione delle emergenze, anche in vista del rischio di un megaterremoto previsto lungo la fossa di Nankai.",
   "zd195fd26": "La mobilitazione era iniziata circa sei settimane prima di questa ripresa, con blocchi più estesi in numerose città. Dopo le concessioni annunciate dal governo nella settimana del 26 ottobre, alcune organizzazioni studentesche avevano deciso di proseguire la protesta al rientro dalle vacanze scolastiche di inizio novembre.",
-  "z5ee15c69": "Le elezioni di metà mandato arrivano dopo mesi di sondaggi che segnalavano un calo di consensi per Trump tra alcune fasce di elettorato. Gli investitori e gli analisti seguono da settimane le proiezioni sul possibile cambio di maggioranza al Congresso e le sue implicazioni economiche.",
+  "z5ee15c69": "Nelle settimane precedenti alle elezioni di metà mandato negli Stati Uniti, la campagna elettorale si è concentrata sul controllo del Congresso durante la seconda metà del mandato del presidente Donald Trump. I sondaggi e i dibattiti pubblici hanno evidenziato il comportamento dei diversi gruppi di elettori, inclusi quelli tradizionalmente orientati verso i repubblicani ma apparsi distanti in questa fase, mentre i mercati finanziari hanno monitorato attentamente le possibili ripercussioni politiche sulle future decisioni in materia di spesa pubblica e regolamentazione tecnologica.",
   "z164749c9": "Lo scorso ottobre un attacco informatico aveva colpito i sistemi di refrigerazione di diversi supermercati francesi, facendo salire anomalamente le temperature di frigoriferi e congelatori e compromettendo merce deperibile. L'episodio aveva fatto emergere dubbi sulla sicurezza informatica delle reti che gestiscono la catena del freddo nella grande distribuzione europea, senza che fossero individuati con certezza gli autori né le modalità esatte dell'intrusione nei sistemi industriali connessi.",
   "z82611c57": "Lo scrittore australiano Craig Silvey, noto per i romanzi 'Jasper Jones' e 'Runt', era stato indagato dopo una perquisizione della polizia nella sua abitazione, nell'ambito di un'indagine su materiale di abuso sessuale su minori. Lo scorso maggio Silvey si era dichiarato colpevole dei reati a lui attribuiti, aprendo la strada al processo che ha esaminato anche numerosi messaggi in cui l'autore esprimeva desiderio sessuale verso ragazzi giovani.",
   "z94557350": "Durante una partita del Real Madrid era circolato un meme che accostava l'immagine di Kylian Mbappé a quella di Mao Zedong, suscitando forti reazioni in Cina e spingendo la tv statale CCTV a sospendere la trasmissione delle partite del club spagnolo. Mbappé, il Real Madrid e la Liga avevano successivamente presentato scuse ufficiali per l'episodio, cercando di placare le polemiche e ripristinare i rapporti con il pubblico e i media cinesi.",
@@ -11414,7 +11437,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "zb35bb40b": "Negli ultimi 28 anni Karl Bushby ha proseguito il suo viaggio a piedi attorno al mondo, iniziato nel 1998 dal Cile, attraversando quattro continenti senza mai utilizzare mezzi di trasporto, affrontando tappe estreme come il Darién Gap, lo stretto di Bering e il Mar Caspio.",
   "z6b2478f9": "Dopo l'elezione dell'8 maggio 2025, Papa Leone XIV ha compiuto diversi viaggi internazionali; l'imminente visita in Argentina, prevista dall'8 all'11 novembre, è attesa come un momento significativo per il paese sudamericano e per la comunità religiosa locale.",
   "zde40dfc1": "Da oltre tre decenni la Minurso ha presidiato il Sahara Occidentale senza riuscire a realizzare l'obiettivo originario di un referendum sull'autodeterminazione. Negli ultimi anni la tensione tra Marocco e Fronte Polisario è rimasta alta, mentre diversi paesi hanno progressivamente riconosciuto la sovranità marocchina sul territorio, rendendo sempre più difficile il rinnovo del mandato della missione.",
-  "z8b168d59": "Le tensioni tra Iran e Stati Uniti si sono intensificate negli ultimi mesi dopo attacchi israelo-statunitensi contro siti iraniani, con minacce reciproche di escalation militare. Lo Stretto di Hormuz è tornato più volte al centro delle trattative, data la sua importanza per l'approvvigionamento energetico globale e la possibilità iraniana di limitarne l'accesso in caso di conflitto aperto.",
   "z0da2da22": "Negli ultimi anni la Polonia ha vissuto tensioni ricorrenti tra presidenza e governo sulla nomina dei giudici costituzionali, in un contesto di più ampio scontro tra forze nazionaliste e filoeuropee sul controllo della magistratura, ereditato dalle riforme giudiziarie controverse degli anni precedenti.",
   "zd1a17848": "Da tempo le autorità serbe e bosniache monitorano flussi sospetti di cittadini bosniaci che trasferiscono la residenza in comuni di confine come Mali Zvornik, area a forte presenza mista, in prossimità di tornate elettorali locali. Indagini della procura serba su reti di facilitatori che offrivano documenti e registrazioni in cambio di denaro o promesse di voto hanno portato a un'operazione coordinata con arresti mirati nei giorni scorsi.",
   "za6713e71": "Re Carlo III e la regina Camilla sono in visita nei Caraibi per partecipare alle celebrazioni dell'indipendenza di Antigua e Barbuda, paese di cui il sovrano britannico resta capo di Stato nonostante il dibattito locale su un possibile passaggio a repubblica. Il tour reale, parte di un più ampio impegno del monarca nel Commonwealth caraibico, comprendeva cerimonie ufficiali e militari svoltesi all'aperto nei giorni precedenti l'episodio della pioggia.",
@@ -11548,16 +11570,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
     "La Minurso cessa le operazioni dopo 35 anni"
    ]
   ],
-  "z8b168d59": [
-   [
-    "2026",
-    "Attacchi israelo-statunitensi contro siti iraniani innescano il conflitto"
-   ],
-   [
-    "2026-11-02",
-    "L'Iran si dice pronto a riaprire Hormuz in 48 ore se gli USA accettano le sue condizioni"
-   ]
-  ],
   "z0da2da22": [
    [
     "2026-11-01",
@@ -11682,6 +11694,20 @@ window.EDIZIONI["2026-11-02-sera"] = {
    [
     "2 novembre 2026",
     "Annuncio ufficiale dei nuovi prezzi calmierati per benzina e diesel"
+   ]
+  ],
+  "z5ee15c69": [
+   [
+    "Settimane precedenti",
+    "Intensificazione dei comizi e dei tour elettorali in tutto il Paese"
+   ],
+   [
+    "Giorni scorsi",
+    "Pubblicazione delle ultime analisi demografiche sul comportamento dei gruppi di elettori"
+   ],
+   [
+    "Vigilia del voto",
+    "Chiusura della campagna con focus sul controllo futuro del Congresso"
    ]
   ]
  },
@@ -12076,6 +12102,58 @@ window.EDIZIONI["2026-11-02-sera"] = {
     }
    ],
    "divergono": "Mentre El Tiempo e La Nación CR si occupano della crisi iraniana, divergono nella narrazione: la prima ipotizza una riapertura \"entro due giorni\", mentre la seconda analizza i mediatori e l'impatto economico sul greggio. Le restanti testate coprono fatti diversi: El Nacional si focalizza sulla diplomazia tra Stati Uniti e Venezuela, mentre Diario Libre riporta esclusivamente le nuove direttive sanitarie aeroportuali statunitensi per il contenimento del virus Ebola."
+  },
+  "z6b2478f9": {
+   "voci": [
+    {
+     "n": "Vatican News (italiano)",
+     "c": "Città del Vaticano",
+     "p": "XX",
+     "t": "La voce della Santa Sede riferisce le parole di padre Alejandro Moral sull'attesa in Argentina per la visita di Papa Leone XIV. L'articolo riporta che il pontefice sarà una «voce di unità» e descrive il clima di gioia e preghiera nel Paese.",
+     "b": "a"
+    },
+    {
+     "n": "La Nación",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "La testata argentina descrive l'itinerario ufficiale della visita di Papa Leone XIV dall'8 all'11 novembre, includendo Buenos Aires, Córdoba e Luján. Riporta i decreti del governo sui ferodi, i concerti previsti e le restrizioni di traffico sull'avenida del Libertador.",
+     "b": "a"
+    },
+    {
+     "n": "El Observador",
+     "c": "Montevideo",
+     "p": "XX",
+     "t": "Il quotidiano uruguaiano analizza come la visita del Papa e la sua encíclica sulla tecnologia stimolino una riflessione nella sinistra e nel Frente Amplio. Riporta le testimonianze e il passato cristiano di diversi dirigenti politici locali.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate divergono per l'approccio e i temi trattati riguardo alla visita di Papa Leone XIV. Vatican News (italiano) si concentra sul profilo spirituale del pontefice e sulle attese di unità e dialogo in Argentina tramite le parole di padre Moral. La Nación offre un resoconto logistico dettagliato con date, tappe ufficiali, eventi musicali e decreti sui ferodi emanati dal governo argentino. El Observador sposta invece il fuoco sull'Uruguay, esaminando l'impatto politico e culturale della visita e dell'enciclica del Papa sui leader della sinistra uruguaiana del Frente Amplio."
+  },
+  "z5ee15c69": {
+   "voci": [
+    {
+     "n": "NPR",
+     "c": "Washington",
+     "p": "US",
+     "t": "L'emittente statunitense analizza sei indicatori chiave per la notte delle elezioni di metà mandato, tra cui i primi seggi in bilico, il voto degli indipendenti, la partecipazione giovanile e le dinamiche in stati come Michigan e Texas.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Il giudizio è parziale poiché l'articolo non è leggibile. L'occhiello riporta che l'election day prevede il rinnovo di tutti i 435 seggi della Camera e di 35 seggi del Senato, oltre a consultazioni locali.",
+     "b": "t"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Il giudizio è parziale per via del testo non disponibile. L'occhiello specifica che il voto di domani comprende il rinnovo integrale della Camera dei Rappresentanti, di 35 seggi del Senato e di varie cariche locali.",
+     "b": "t"
+    }
+   ],
+   "divergono": ""
   }
  },
  "luoghi": {
@@ -12279,13 +12357,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   },
   "z86c2b924": {
    "n": "Italia centrale",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "zc52cbc44": {
-   "n": "Lucca",
    "p": [
     "Italy"
    ],
@@ -12587,13 +12658,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    ],
    "pt": []
   },
-  "ze4a79547": {
-   "n": "Dakar",
-   "p": [
-    "Senegal"
-   ],
-   "pt": []
-  },
   "zaa27e603": {
    "n": "Seul",
    "p": [
@@ -12647,13 +12711,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "n": "Australia",
    "p": [
     "Australia"
-   ],
-   "pt": []
-  },
-  "z6fbd26ac": {
-   "n": "Israele",
-   "p": [
-    "Israel"
    ],
    "pt": []
   },
@@ -13025,13 +13082,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "n": "Dakar",
    "p": [
     "Senegal"
-   ],
-   "pt": []
-  },
-  "z8b168d59": {
-   "n": "Stretto di Hormuz",
-   "p": [
-    "Iran"
    ],
    "pt": []
   },
@@ -13763,13 +13813,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    ],
    "pt": []
   },
-  "z090808cd": {
-   "n": "Belgrado",
-   "p": [
-    "Serbia"
-   ],
-   "pt": []
-  },
   "zd6c4154a": {
    "n": "Manila",
    "p": [
@@ -13788,13 +13831,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "n": "Accra",
    "p": [
     "Ghana"
-   ],
-   "pt": []
-  },
-  "z66c22667": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -13879,13 +13915,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "n": "Seul",
    "p": [
     "South Korea"
-   ],
-   "pt": []
-  },
-  "z2b141590": {
-   "n": "Manila",
-   "p": [
-    "Philippines"
    ],
    "pt": []
   },
@@ -14144,13 +14173,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    ],
    "pt": []
   },
-  "z70d2b2d1": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z2ca0c46f": {
    "n": "Berlino",
    "p": [
@@ -14239,13 +14261,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "n": "Washington",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z54f25b20": {
-   "n": "Varsavia",
-   "p": [
-    "Poland"
    ],
    "pt": []
   },
@@ -14374,6 +14389,48 @@ window.EDIZIONI["2026-11-02-sera"] = {
     "United States of America"
    ],
    "pt": []
+  },
+  "z2e20599f": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zb0b492b5": {
+   "n": "Firenze",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "ze4081db2": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5ce4a701": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zadc599e6": {
+   "n": "Cambridge",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3e6bb78b": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -14406,7 +14463,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "zcc3bfdb2": 2,
   "z4d3b7edd": 1,
   "z86c2b924": 1,
-  "zc52cbc44": 1,
   "z3b9dde6f": 1,
   "z27d7e519": 2,
   "z7c23a18c": 1,
@@ -14440,16 +14496,15 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z59482e2f": 1,
   "z4fdfdbfc": 1,
   "zd195fd26": 1,
-  "z5ee15c69": 1,
+  "z5ee15c69": 2,
   "zc400fab9": 1,
-  "z0223a819": 1,
+  "z0223a819": 2,
   "z8f0cd925": 1,
   "z9f2399bf": 1,
   "z0a62f6d0": 1,
   "z89ad96a1": 1,
   "zb41ecd01": 2,
   "zb523d2fe": 1,
-  "ze4a79547": 1,
   "zaa27e603": 1,
   "z699723aa": 1,
   "z25ff4710": 1,
@@ -14458,7 +14513,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z969b9c7c": 1,
   "z11863152": 2,
   "zdb793758": 1,
-  "z6fbd26ac": 1,
   "z187abbf5": 1,
   "zd98b074a": 1,
   "zd1a17848": 3,
@@ -14512,11 +14566,10 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "za163ff71": 2,
   "zd8a75806": 1,
   "z60fa0284": 1,
-  "z8b168d59": 2,
   "z7f20eb5f": 2,
   "z5bb67b8d": 1,
   "za02587b6": 2,
-  "z0da2da22": 1,
+  "z0da2da22": 2,
   "zdc62a529": 1,
   "z3ddccd6f": 2,
   "z73b40074": 1,
@@ -14617,11 +14670,9 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z66dee367": 2,
   "z208f9662": 1,
   "zd853ff10": 1,
-  "z090808cd": 1,
   "zd6c4154a": 1,
   "zd62ce13b": 1,
   "z835f42de": 1,
-  "z66c22667": 1,
   "z04ddd6e5": 1,
   "zd6793021": 1,
   "z6f3cc0f3": 1,
@@ -14634,7 +14685,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "ze57729f2": 2,
   "z89c03fe6": 1,
   "zc206cd65": 1,
-  "z2b141590": 1,
   "z1da7a0a9": 1,
   "z3abac489": 1,
   "z7b01a2ca": 1,
@@ -14672,10 +14722,9 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z4226b812": 1,
   "z39a219eb": 1,
   "z6025942f": 1,
-  "z70d2b2d1": 1,
   "z2ca0c46f": 1,
   "z936270bd": 1,
-  "z196020b0": 1,
+  "z196020b0": 2,
   "zae1da294": 1,
   "zcb855191": 1,
   "ze0235b1c": 1,
@@ -14686,7 +14735,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "zc5b8af14": 1,
   "zefa52c24": 1,
   "zc67b57eb": 1,
-  "z54f25b20": 1,
   "za6860259": 1,
   "z95969c01": 1,
   "z73221928": 1,
@@ -14704,7 +14752,13 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z555f5c59": 1,
   "z319323ca": 1,
   "zd63ea055": 1,
-  "z0bbdb5cb": 1
+  "z0bbdb5cb": 1,
+  "z2e20599f": 2,
+  "zb0b492b5": 1,
+  "ze4081db2": 1,
+  "z5ce4a701": 1,
+  "zadc599e6": 1,
+  "z3e6bb78b": 1
  },
  "video": {},
  "pillole": []
