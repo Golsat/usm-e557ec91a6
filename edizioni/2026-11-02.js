@@ -1703,7 +1703,7 @@ window.EDIZIONI["2026-11-02"] = {
   },
   {
    "id": "z7ee46fad",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Calcio, Juventus batte Napoli 2-0 nella decima giornata di Serie A",
    "orig": "Du smūgiai iš toli: „Juventus“ namuose pranoko mažumoje likusią „Napoli“",
    "lead": "La Juventus ha conquistato un'importante vittoria nel campionato italiano di calcio domenica nella decima giornata di Serie A. La squadra allenata da Luciano Spalletti ha sconfitto il Napoli con un netto 2:0, mantenendo così vive le ambizioni per la vittoria del titolo. Lo riferisce LRT.",
@@ -1734,7 +1734,7 @@ window.EDIZIONI["2026-11-02"] = {
   },
   {
    "id": "z55bfeff2",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Atletica, australiano Strintzos quinto a New York Marathon, qualificato per Olimpiadi 2028",
    "orig": "Strintzos eyes Olympic berth after fifth finish in New York Marathon",
    "lead": "L'atleta australiano Haftu Strintzos, che detiene il record nazionale nel paese, ha completato con successo la maratona di New York classificandosi quinto nel risultato che soddisfa lo standard di qualificazione richiesto per i Giochi Olimpici di 2028. Lo riferisce ABC News Australia.",
