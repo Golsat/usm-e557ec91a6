@@ -3,39 +3,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z2e20599f",
-   "sez": "mondo",
-   "titolo": "Falso allarme nucleare e chimico sull'app d'emergenza in Ucraina",
-   "orig": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-   "lead": "Un attacco informatico da parte di hacker sconosciuti ha violato l'applicazione mobile nazionale per le allerte d'emergenza in Ucraina. Attraverso la piattaforma sono stati inviati falsi messaggi ai residenti, inclusi avvisi di minaccia nucleare, attacchi chimici e combattimenti strada per strada a Kiev. Molti cittadini ucraini, abituati da anni ai bombardamenti russi, non hanno dato credito alle notifiche e hanno dubitato della loro veridicità, evitando così il panico. Lo riferisce BBC News.",
-   "more": [
-    "Le applicazioni di allerta precoce sono strumenti fondamentali nei contesti di conflitto per avvisare la popolazione civile in tempo reale sui pericoli imminenti, come raid aerei o missilistici. La loro compromissione tramite attacchi informatici rappresenta una seria minaccia alla sicurezza pubblica, mirata a destabilizzare il fronte interno e a generare confusione psicologica tra i civili."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-02T18:34+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-02T11:11+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "20:28",
-   "uscita": "sera"
-  },
-  {
    "id": "zb0b492b5",
    "sez": "italia",
    "titolo": "Una targa a Firenze per Dante Nocentini, il giornalista che annunciò l'alluvione",
@@ -2147,30 +2114,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Greece",
      "t": "2026-11-02T18:33+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "20:17",
-   "uscita": "sera"
-  },
-  {
-   "id": "z8a683b36",
-   "sez": "mondo",
-   "titolo": "FIFA: nuovo scandalo fiscale per Gianni Infantino",
-   "orig": "Νέο σκάνδαλο με FIFA και Ινφαντίνο αποκαλύπτουν οι «The New York Times» και«Le Monde»",
-   "lead": "Il presidente della FIFA, Gianni Infantino, è al centro di un nuovo scandalo rivelato da New York Times e Le Monde. Secondo le inchieste, un accordo permetterebbe alla federazione internazionale di coprire le obbligazioni fiscali personali di Infantino negli Stati Uniti per il periodo 2024-2026. Lo riferisce ERT News.",
-   "more": [
-    "La FIFA, con sede a Zurigo in Svizzera, è l'organo di governo mondiale del calcio. Negli ultimi anni, l'organizzazione è stata ripetutamente scossa da inchieste giudiziarie riguardanti corruzione e cattiva gestione finanziaria, portando a riforme interne e a un'intensa sorveglianza mediatica internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "ERT News",
-     "p": "XX",
-     "c": "Atene",
-     "u": "https://www.ertnews.gr/athlitismos/neo-skandalo-me-fifa-kai-infantino-apokalyptoun-oi-the-new-york-times-kai-le-monde/",
-     "angolo": "",
-     "atlas": "Greece",
-     "t": "2026-11-02T18:21+00:00"
     }
    ],
    "data": "2 nov",
@@ -5947,6 +5890,15 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-11-02T15:55+00:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/athlitismos/neo-skandalo-me-fifa-kai-infantino-apokalyptoun-oi-the-new-york-times-kai-le-monde/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-02T18:21+00:00"
     }
    ],
    "data": "2 nov",
@@ -11404,7 +11356,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z73221928": "Focus sui riflessi internazionali delle elezioni americane sulla sicurezza europea.",
   "ze9143263": "Cronaca locale greca su eventi naturali.",
   "z17c95b85": "Monitoraggio delle mobilitazioni sindacali nel settore dell'istruzione pubblica.",
-  "z8a683b36": "Inchiesta internazionale su presunte irregolarità finanziarie ai vertici del calcio.",
   "z5d4f8845": "Copertura delle tensioni legate alla presenza militare russa nel Paese.",
   "z8c88a652": "Monitoraggio delle politiche fiscali e del debito pubblico nazionale.",
   "zfed88d2e": "Focus sulla partecipazione democratica e le riforme istituzionali.",
@@ -11417,7 +11368,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z319323ca": "Copertura del dibattito legislativo sulle riforme finanziarie in Nigeria.",
   "zd63ea055": "Riflessione culturale e storica sulla gestione dei siti legati al nazismo.",
   "z0bbdb5cb": "Ricostruzione storica e culturale sulle origini di un genere musicale.",
-  "z2e20599f": "La BBC evidenzia come la popolazione abbia ignorato i messaggi grazie alla resilienza sviluppata durante anni di conflitto.",
   "zb0b492b5": "L'ANSA sottolinea il valore storico del lavoro giornalistico svolto dal proprio caporedattore durante una tragedia nazionale.",
   "ze4081db2": "NPR evidenzia la vulnerabilità del personale amministrativo e la diffusione nazionale delle aree chiave per il controllo del Congresso.",
   "z5ce4a701": "La BBC evidenzia il divario tra gli impegni formali presi dai governi e la reale disponibilità di finanziamenti condivisi.",
@@ -14299,13 +14249,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    ],
    "pt": []
   },
-  "z8a683b36": {
-   "n": "Zurigo",
-   "p": [
-    "Switzerland"
-   ],
-   "pt": []
-  },
   "z5d4f8845": {
    "n": "Gyumri",
    "p": [
@@ -14387,13 +14330,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "n": "Detroit",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z2e20599f": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -14740,7 +14676,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z73221928": 1,
   "ze9143263": 1,
   "z17c95b85": 1,
-  "z8a683b36": 1,
   "z5d4f8845": 1,
   "z8c88a652": 1,
   "zfed88d2e": 1,
@@ -14753,7 +14688,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z319323ca": 1,
   "zd63ea055": 1,
   "z0bbdb5cb": 1,
-  "z2e20599f": 2,
   "zb0b492b5": 1,
   "ze4081db2": 1,
   "z5ce4a701": 1,
