@@ -126,30 +126,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zdf30b4f9",
-   "sez": "mondo",
-   "titolo": "Hacker inviano un falso allarme nucleare all'app di emergenza ucraina",
-   "orig": "Hackers send fake nuclear threat alert to Ukraine emergency app",
-   "lead": "Hacker non identificati hanno preso di mira l'app nazionale di allerta emergenze dell'Ucraina, inviando ai residenti di Kyiv un messaggio che avvertiva di un rischio imminente di attacco nucleare. L'app ha anche segnalato erroneamente una minaccia chimica sulla capitale ucraina e combattimenti strada per strada. Il messaggio falso è stato diffuso domenica notte. Non è ancora chiaro chi sia responsabile dell'attacco informatico né quali fossero gli obiettivi precisi. Lo riferisce The Guardian.",
-   "more": [
-    "Le app di allerta pubblica, usate per avvisare la popolazione di minacce reali come attacchi missilistici, sono bersagli sensibili per attacchi informatici: la diffusione di falsi allarmi può generare panico e minare la fiducia dei cittadini nei sistemi di sicurezza durante un conflitto in corso."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-02T11:11+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
    "id": "z6fbd26ac",
    "sez": "mondo",
    "titolo": "Partiti arabi sostengono Eisenkot nelle trattative per la coalizione in Israele",
@@ -834,7 +810,7 @@ window.EDIZIONI["2026-11-02-sera"] = {
   },
   {
    "id": "z16bf519c",
-   "sez": "ambiente",
+   "sez": "ingegneria",
    "titolo": "Hong Kong, il progetto Northern Metropolis passa dalla tecnologia alle città universitarie",
    "orig": "Technopole to University Towns: Why Hong Kong’s Northern Metropolis shifted focus from hi-tech to higher ed",
    "lead": "Ministri del governo, accademici e rappresentanti del mondo imprenditoriale si sono riuniti a Hong Kong per un vertice di due giorni dedicato al progetto Northern Metropolis, un piano da miliardi di dollari per trasformare circa 300 ettari di territorio al confine con la Cina continentale. L'incontro ha discusso la costruzione di tre città universitarie nell'area, segnando uno spostamento di priorità rispetto all'iniziale focus sull'alta tecnologia. Lo riferisce Hong Kong Free Press.",
@@ -5838,7 +5814,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z969b9c7c": "BBC News evidenzia l'intervento di un caccia militare ungherese per scortare l'aereo verso un atterraggio sicuro.",
   "z11863152": "BBC News collega la possibile stretta sui costi al prolungarsi del conflitto tra Stati Uniti e Iran, che sta facendo salire i prezzi del carburante.",
   "zdb793758": "The Guardian sottolinea che si tratta della prima vera sfida legale al divieto, basata sul principio costituzionale della libertà di comunicazione politica.",
-  "zdf30b4f9": "The Guardian evidenzia la gravità del falso allarme, che ha riguardato minacce nucleari, chimiche e di combattimenti urbani.",
   "z6fbd26ac": "Al Jazeera si concentra sulle manovre politiche in corso tra i diversi blocchi per la formazione del nuovo governo.",
   "z187abbf5": "Al Jazeera sottolinea il contrasto tra i guadagni record delle compagnie americane e l'aumento dei costi energetici per le famiglie.",
   "zd98b074a": "la Repubblica evidenzia che gran parte dei fondi destinati ai giovani sono agevolazioni indirette e non trasferimenti diretti.",
@@ -6891,13 +6866,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    ],
    "pt": []
   },
-  "zdf30b4f9": {
-   "n": "Kyiv",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z6fbd26ac": {
    "n": "Israele",
    "p": [
@@ -7516,7 +7484,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z969b9c7c": 1,
   "z11863152": 2,
   "zdb793758": 1,
-  "zdf30b4f9": 1,
   "z6fbd26ac": 1,
   "z187abbf5": 1,
   "zd98b074a": 1,
