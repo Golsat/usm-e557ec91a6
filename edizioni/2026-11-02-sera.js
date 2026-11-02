@@ -106,30 +106,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zdf30b4f9",
-   "sez": "mondo",
-   "titolo": "Hacker inviano un falso allarme nucleare all'app di emergenza dell'Ucraina",
-   "orig": "Hackers send fake nuclear threat alert to Ukraine emergency app",
-   "lead": "Ignoti hacker hanno colpito l'app di allerta emergenze dell'Ucraina, inviando ai residenti di Kiev un falso messaggio che segnalava un alto rischio di un attacco nucleare imminente. Il messaggio, diffuso domenica notte, avvertiva erroneamente anche di una minaccia chimica sulla capitale ucraina e di combattimenti strada per strada. Non è stato identificato chi abbia condotto l'attacco né quali fossero le sue finalità. Lo riferisce The Guardian.",
-   "more": [
-    "Durante il conflitto tra Russia e Ucraina, gli attacchi informatici contro infrastrutture civili e app governative sono diventati uno strumento per diffondere panico e disinformazione tra la popolazione, oltre agli attacchi militari tradizionali."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-02T11:11+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "z36a1de43",
    "sez": "mondo",
    "titolo": "Il fondatore del Pkk Ocalan trasferito in una nuova sezione del carcere turco",
@@ -219,30 +195,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-02T07:27+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
-   "id": "zc1cd33c4",
-   "sez": "mondo",
-   "titolo": "Bulgaria, Yotova vince le elezioni con il 57,7% dei voti",
-   "orig": "Bulgaria, Yotova vince con 57,7% voti",
-   "lead": "In Bulgaria la candidata Yotova ha vinto le elezioni con il 57,7% dei voti, battendo l'europeista Gyurov, fermo al 39,4%. Lo riferisce Rai News.",
-   "more": [
-    "La Bulgaria è membro dell'Unione Europea dal 2007 e negli ultimi anni ha vissuto una fase di instabilità politica, con diverse elezioni ravvicinate e un confronto frequente tra forze filoeuropee e candidati più critici verso le istituzioni europee."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/bulgaria-yotova-vince-con-577-voti-b1fca40c-05d0-4252-93a6-359895caf38f.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-02T08:13+00:00"
     }
    ],
    "data": "2 nov",
@@ -1932,48 +1884,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zf6e5ffb4",
-   "sez": "dibattito",
-   "titolo": "In Francia riprendono, su scala minore, le proteste studentesche nelle scuole",
-   "orig": "France’s school protests resume on smaller scale as students return from break",
-   "lead": "Al ritorno dalle vacanze, in Francia sono riprese le proteste studentesche nelle scuole superiori, su scala molto più ridotta rispetto alle settimane precedenti. Gli studenti chiedono la ristrutturazione degli edifici scolastici datati, più insegnanti, più posti nelle università e la fine di un sistema di ammissione universitaria che considerano socialmente ingiusto. Alcuni istituti a Parigi, Marsiglia e Rennes sono stati oggetto di tentativi di blocco. Lo riferiscono The Globe and Mail, South China Morning Post e Hespress English.",
-   "more": [
-    "In Francia il sistema di ammissione all'università si basa su una piattaforma centralizzata che assegna i posti disponibili in base a criteri di merito e preferenze, un meccanismo spesso criticato da studenti e famiglie per le disparità territoriali e sociali che genera. Le mobilitazioni studentesche su questi temi si sono susseguite a più riprese negli ultimi mesi."
-   ],
-   "fonti": [
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/article-france-school-protests-smaller-scale-blockades/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-11-02T11:14+00:00"
-    },
-    {
-     "n": "South China Morning Post",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/news/world/europe/article/3373008/french-school-protests-resume-smaller-scale-holidays-end",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-11-02T11:13+00:00"
-    },
-    {
-     "n": "Hespress English",
-     "p": "XX",
-     "c": "Rabat",
-     "u": "https://en.hespress.com/148392-french-high-school-protests-resume-after-two-week-break.html",
-     "angolo": "",
-     "atlas": "Morocco",
-     "t": "2026-11-02T10:40+00:00"
-    }
-   ],
-   "data": "2 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "zeed84274",
    "sez": "mondo",
    "titolo": "Tanzania, i rifugiati burundesi nel campo di Nyarugusu denunciano l'esclusione dall'aiuto umanitario",
@@ -2260,6 +2170,33 @@ window.EDIZIONI["2026-11-02-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-11-02T05:30+00:00"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-france-school-protests-smaller-scale-blockades/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-02T11:14+00:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/europe/article/3373008/french-school-protests-resume-smaller-scale-holidays-end",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-02T11:13+00:00"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/148392-french-high-school-protests-resume-after-two-week-break.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-02T10:40+00:00"
     }
    ],
    "data": "2 nov",
@@ -2892,12 +2829,10 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z164749c9": "The Guardian sottolinea la somiglianza con l'attacco informatico che aveva già colpito i supermercati francesi in ottobre.",
   "z82611c57": "The Guardian evidenzia i messaggi in cui l'autore esprimeva il proprio desiderio sessuale verso ragazzi giovani.",
   "zcbfa6031": "BBC News sottolinea che l'Uganda è stato il primo contributore di truppe alla missione istituita nel 2007.",
-  "zdf30b4f9": "The Guardian sottolinea i contenuti falsi del messaggio, dall'allarme nucleare a quello chimico.",
   "z36a1de43": "Al Jazeera inquadra il trasferimento nel contesto delle richieste curde per porre fine al conflitto con la Turchia.",
   "zdab07809": "Al Jazeera evidenzia l'accusa di cospirazione per corruzione contro i lanciatori coinvolti.",
   "zc291c56c": "La Repubblica riporta l'analisi di Jill Lepore sul rapporto tra elezioni, intelligenza artificiale e data center.",
   "z23356481": "La Repubblica segnala i rischi indicati dai mercati per i titoli delle grandi aziende tecnologiche.",
-  "zc1cd33c4": "Rai News riporta i risultati ufficiali del voto, con il margine netto tra i due candidati.",
   "z4877b7ec": "CGTN definisce il calo la peggiore ondata di vendite tecnologiche degli ultimi mesi.",
   "z34526578": "NME riporta le dichiarazioni di Josh Homme, che promette ai fan \"qualcosa che va oltre quanto fatto finora\".",
   "z790923ab": "The Astana Times sottolinea il piazzamento nella top cinque della pattinatrice kazaka.",
@@ -2950,7 +2885,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z1cd2a94b": "La testata sottolinea la composizione del collegio giudicante e la conferma definitiva della condanna.",
   "za000ab61": "La testata riporta i dettagli della cerimonia diplomatica organizzata per l'anniversario nazionale.",
   "z9e785a68": "Le testate sottolineano la giovane età dell'artista e la natura politica dell'accusa.",
-  "zf6e5ffb4": "Le testate internazionali notano la riduzione della partecipazione rispetto alle settimane precedenti.",
   "zeed84274": "La testata riporta la denuncia diretta dei rifugiati sulle condizioni di esclusione nel campo.",
   "z154923e9": "Gabonreview riporta le dichiarazioni del nuovo presidente sulla strategia di trasformazione locale.",
   "z59482e2f": "Le Monde riporta sia l'accusa di Mélenchon che la replica dell'emittente sulla cronologia della cancellazione.",
@@ -2978,7 +2912,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z4877b7ec": "Negli ultimi anni le azioni delle grandi società tecnologiche statunitensi sono salite grazie all'entusiasmo per l'intelligenza artificiale, con investimenti record in infrastrutture e chip. Negli ultimi mesi sono emersi crescenti dubbi tra gli investitori sulla reale redditività di questi investimenti, alimentando episodi di volatilità sui mercati.",
   "zfbf92d90": "Nelle ultime settimane impianti petroliferi nella regione di Samara sono stati colpiti più volte da attacchi con drone ucraini, nel quadro di una campagna più ampia contro le infrastrutture energetiche russe.",
   "z478699a6": "Negli ultimi anni il Giappone ha più volte rafforzato i propri piani di prevenzione sismica e vulcanica, in particolare dopo il terremoto e lo tsunami del 2011. Esperti e governo hanno discusso a lungo la necessità di un organismo centrale che coordinasse le diverse agenzie coinvolte nella gestione delle emergenze, anche in vista del rischio di un megaterremoto previsto lungo la fossa di Nankai.",
-  "zf6e5ffb4": "Le proteste studentesche erano iniziate settimane prima della pausa scolastica, con blocchi più estesi in diverse città francesi. Dopo due settimane di vacanza, gli studenti hanno annunciato la ripresa della mobilitazione per chiedere al governo interventi su edifici, personale e criteri di accesso universitario.",
   "ze0391847": "Il viaggio di Bushby era iniziato nel 1998 dal Cile, con l'obiettivo di percorrere a piedi l'intero pianeta attraversando continenti e confini, un progetto nato, secondo i racconti, da un'idea scritta su un biglietto di auguri di compleanno. Negli anni l'impresa ha attirato crescente attenzione mediatica internazionale.",
   "zd195fd26": "La mobilitazione era iniziata circa sei settimane prima di questa ripresa, con blocchi più estesi in numerose città. Dopo le concessioni annunciate dal governo nella settimana del 26 ottobre, alcune organizzazioni studentesche avevano deciso di proseguire la protesta al rientro dalle vacanze scolastiche di inizio novembre.",
   "z5ee15c69": "Le elezioni di metà mandato arrivano dopo mesi di sondaggi che segnalavano un calo di consensi per Trump tra alcune fasce di elettorato. Gli investitori e gli analisti seguono da settimane le proiezioni sul possibile cambio di maggioranza al Congresso e le sue implicazioni economiche.",
@@ -3175,13 +3108,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    ],
    "pt": []
   },
-  "zdf30b4f9": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z36a1de43": {
    "n": "Isola di Imrali",
    "p": [
@@ -3207,13 +3133,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    "n": "non specificato",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "zc1cd33c4": {
-   "n": "non specificato",
-   "p": [
-    "Bulgaria"
    ],
    "pt": []
   },
@@ -3583,13 +3502,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
    ],
    "pt": []
   },
-  "zf6e5ffb4": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zeed84274": {
    "n": "Nyarugusu",
    "p": [
@@ -3749,12 +3661,10 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z164749c9": 2,
   "z82611c57": 2,
   "zcbfa6031": 1,
-  "zdf30b4f9": 1,
   "z36a1de43": 1,
   "zdab07809": 1,
   "zc291c56c": 1,
   "z23356481": 1,
-  "zc1cd33c4": 1,
   "z4877b7ec": 2,
   "z34526578": 1,
   "z790923ab": 1,
@@ -3807,7 +3717,6 @@ window.EDIZIONI["2026-11-02-sera"] = {
   "z1cd2a94b": 1,
   "za000ab61": 1,
   "z9e785a68": 2,
-  "zf6e5ffb4": 2,
   "zeed84274": 1,
   "z154923e9": 1,
   "z59482e2f": 1,
