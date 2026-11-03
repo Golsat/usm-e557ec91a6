@@ -632,6 +632,24 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "Ecuador",
      "t": "2026-11-03T15:30+00:00"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-11/vatican-press-office-presents-pope-leo-s-journey-latin-america.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-03T15:00+01:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/pope-leo-healthy-and-needs-no-extra-measures-for-south-america-trip-vatican-says",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-03T23:52+08:00"
     }
    ],
    "data": "3 nov",
@@ -728,6 +746,15 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-11-03T08:28+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-03T05:00-05:00"
     }
    ],
    "data": "3 nov",
@@ -1220,39 +1247,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z64ef6768",
-   "sez": "mondo",
-   "titolo": "Il Vaticano presenta il viaggio apostolico di Papa Leone in America Latina",
-   "orig": "Vatican presents Pope Leo's Apostolic Journey to Latin America",
-   "lead": "La Sala Stampa della Santa Sede ha illustrato ai giornalisti i dettagli del viaggio apostolico di Papa Leone in America Latina. Il Pontefice visiterà Uruguay, Argentina e Perù, nazioni in cui ha operato per decenni come missionario e vescovo, partendo nonostante il recente intervento chirurgico ai polmoni. Lo riferisce Vatican News (inglese).",
-   "more": [
-    "I viaggi apostolici dei Papi rappresentano momenti centrali del pontificato per incontrare le comunità cattoliche locali, dialogare con le autorità civili e affrontare questioni sociali e spirituali di rilevanza internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Vatican News (inglese)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/en/pope/news/2026-11/vatican-press-office-presents-pope-leo-s-journey-latin-america.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-11-03T15:00+01:00"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/pope-leo-healthy-and-needs-no-extra-measures-for-south-america-trip-vatican-says",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-03T23:52+08:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "17:08",
-   "uscita": "17"
-  },
-  {
    "id": "z7fd1e390",
    "sez": "spazio",
    "titolo": "Industria spaziale in crescita: si cercano soluzioni per ampliare l'accesso all'orbita",
@@ -1655,7 +1649,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "z6fd47e4d",
-   "sez": "tech",
+   "sez": "ambiente",
    "titolo": "Immagini di droni rivelano i siti a rischio di crollo sulle scogliere di Pakri",
    "orig": "Drone imagery reveals likely sites of future Pakri cliff collapses",
    "lead": "Anni di rilevamenti condotti con i droni dai geologi dell'Università di Tartu hanno mostrato che le scogliere di Pakri subiscono un'intensa erosione alla base da parte dell'acqua marina, che erode l'arenaria tenera provocando il cedimento del calcare sovrastante. I modelli tridimensionali ricavati consentono di identificare le zone pericolose. Lo riferisce ERR News.",
@@ -2831,7 +2825,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "z2466bc86",
-   "sez": "mondo",
+   "sez": "economia",
    "titolo": "Il Vietnam vieterà l'importazione di elettronica usata e telefoni rigenerati dal 2027",
    "orig": "Vietnam's new list of banned used electronics, refurbished phones included, takes effect from 2027",
    "lead": "Il governo vietnamita ha aggiornato la normativa commerciale vietando l'importazione di smartphone usati, computer e vari dispositivi digitali ricondizionati a partire dal primo gennaio 2027. Lo riferisce VnExpress.",
@@ -3054,30 +3048,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-03T07:00+00:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "12:49",
-   "uscita": "13"
-  },
-  {
-   "id": "z8334a355",
-   "sez": "mondo",
-   "titolo": "Stati Uniti al voto per l'Election Day: in palio il controllo del Congresso",
-   "orig": "It's Election Day. Control of Congress is on the line, and what else you need to know",
-   "lead": "Negli Stati Uniti si sono aperti i seggi per l'Election Day, durante il quale i cittadini decideranno la composizione del futuro Congresso. I primi dati ufficiali sulla spoglio cominceranno ad affluire dalle 18:00 ora della costa orientale dagli Stati del Kentucky e dell'Indiana. L'esito del voto determinerà l'equilibrio politico a Washington, stabilendo se la presidenza potrà contare su una maggioranza favorevole oppure affrontare una situazione di governo diviso. Lo riferisce NPR.",
-   "more": [
-    "Le elezioni congressuali determinano quali partiti avranno il potere di approvare le nomine giudiziarie e la legislazione federale. Gli Stati della costa orientale con chiusura anticipata dei seggi forniscono spesso le prime indicazioni sull'orientamento generale dell'elettorato."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-03T05:00-05:00"
     }
    ],
    "data": "3 nov",
@@ -5236,7 +5206,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zde170fe9": "ANSA sottolinea la trasformazione della storica sede politica romana in una struttura ricettiva di lusso.",
   "z3079a7cc": "Rai News evidenzia il duro avvertimento espresso dal presidente del parlamento iraniano verso gli Stati Uniti.",
   "zdbebcfa6": "Deutsche Welle metti al centro la sicurezza europea e la proposta di legge tedesca sui reati sessuali.",
-  "z8334a355": "NPR sottolinea l'avvio delle operazioni di voto e l'importanza dei primi dati in arrivo da Kentucky e Indiana.",
   "zef1780b3": "Yonhap risalta l'accordo tra i presidenti Lee ed Erdogan sui settori strategici del nucleare e degli armamenti.",
   "z1be92266": "RTP sottolinea l'addio del tecnico portoghese dopo le sconfitte interne subite in Championship.",
   "z7e28ee3a": "Al Jazeera risalta il tentativo di Reddit e degli attivisti di far annullare la legge dinanzi alla massima corte australiana.",
@@ -5329,7 +5298,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z075bbc10": "La testata evidenzia l'approvazione del documento parlamentare sulla disabilità minorile e le critiche al Pei differenziato.",
   "zbde881c0": "La testata evidenzia l'investimento privato e la collaborazione multisettoriale per la salvaguardia del bacino idrografico.",
   "za3e0cf5d": "La testata evidenzia l'ampio piano di tagli occupazionali e di risparmio energetico e finanziario della società.",
-  "z64ef6768": "La testata evidenzia i dettagli del programma e le tappe del imminente viaggio papale in Sud America.",
   "z7fd1e390": "La testata evidenzia il divario tra l'aumento dei lanci e la persistente carenza di spazio a bordo dei vettori.",
   "za2a9151b": "La testata evidenzia il racconto in prima persona dell'ex agente sul superamento dei sistemi di cifratura criminali.",
   "zb57c8583": "La testata evidenzia i progetti moldavi di upgrading infrastrutturale e ferroviario con Romania e Ucraina.",
@@ -5758,13 +5726,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "n": "Berlin",
    "p": [
     "Germany"
-   ],
-   "pt": []
-  },
-  "z8334a355": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -6446,11 +6407,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "pt": []
   },
-  "z64ef6768": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
   "z7fd1e390": {
    "n": "Washington",
    "p": [
@@ -6825,7 +6781,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zde170fe9": 1,
   "z3079a7cc": 1,
   "zdbebcfa6": 1,
-  "z8334a355": 1,
   "zef1780b3": 1,
   "z1be92266": 1,
   "z7e28ee3a": 3,
@@ -6918,7 +6873,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z075bbc10": 1,
   "zbde881c0": 1,
   "za3e0cf5d": 1,
-  "z64ef6768": 1,
   "z7fd1e390": 1,
   "za2a9151b": 1,
   "zb57c8583": 1,
