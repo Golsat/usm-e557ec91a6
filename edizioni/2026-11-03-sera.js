@@ -99,57 +99,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zdbcb2f17",
-   "sez": "mondo",
-   "titolo": "Elezioni di metà mandato negli Stati Uniti: le sfide decisive per il controllo del Congresso",
-   "orig": "Disputas clave de las elecciones de mitad de mandato en EEUU",
-   "lead": "Gli elettori statunitensi sono chiamati alle urne nelle elezioni di midterm per decidere se il partito del presidente manterrà il controllo del Congresso o se l'opposizione conquisterà la maggioranza. I sondaggi indicano la possibilità di pesanti perdite per gli alleati del governo in diversi Stati conservatori. La competizione coinvolge seggi chiave sia al Senato che alla Camera dei rappresentanti, con sfide molto equilibrate che potrebbero alterare gli equilibri politici del Paese. Lo riferisce Clarín.",
-   "more": [
-    "Le elezioni di metà mandato si tengono a metà del mandato presidenziale e servono a rinnovare l'intero Congresso federale. Storicamente, il partito del presidente in carica tende a perdere consensi in queste tornate elettorali, rendendo l'esito del voto un indicatore fondamentale del gradimento popolare e delle prospettive di governo per la seconda metà del quadriennio."
-   ],
-   "fonti": [
-    {
-     "n": "Clarín",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.clarin.com/estados-unidos/disputas-clave-de-las-elecciones-de-mitad-de-mandato-en-eeuu_0_R5aLGO9gSq.html",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-11-03T18:30+00:00"
-    },
-    {
-     "n": "El Comercio",
-     "p": "XX",
-     "c": "Lima",
-     "u": "https://elcomercio.pe/mundo/eeuu/elecciones-legislativas-de-medio-mandato-en-estados-unidos-que-se-juega-donald-trump-y-que-esta-en-riesgo-en-el-senado-y-la-camara-de-representantes-noticia/",
-     "angolo": "",
-     "atlas": "Peru",
-     "t": "2026-11-03T18:50+00:00"
-    },
-    {
-     "n": "El Observador",
-     "p": "XX",
-     "c": "Montevideo",
-     "u": "https://www.elobservador.com.uy/mundo/estados-unidos-vota-unas-elecciones-clave-trump-las-midterms-y-el-control-del-congreso-juego-n6062520",
-     "angolo": "",
-     "atlas": "Uruguay",
-     "t": "2026-11-03T13:04-03:00"
-    },
-    {
-     "n": "El Nacional",
-     "p": "XX",
-     "c": "Caracas",
-     "u": "https://www.elnacional.com/2026/11/elecciones-en-estados-clave-definiran-el-control-del-senado-de-ee-uu/",
-     "angolo": "",
-     "atlas": "Venezuela",
-     "t": "2026-11-03T19:00+00:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "20:15",
-   "uscita": "sera"
-  },
-  {
    "id": "z17c062a8",
    "sez": "mondo",
    "titolo": "Francia, pressioni su Édouard Philippe per primarie nel centrodestra contro il rischio ballottaggio tra Mélenchon e Le Pen",
@@ -366,30 +315,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-03T12:52-05:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "20:15",
-   "uscita": "sera"
-  },
-  {
-   "id": "zbdff9a73",
-   "sez": "dibattito",
-   "titolo": "Proteste nel sistema scolastico e universitario in Francia: scuole bloccate e università chiuse",
-   "orig": "Frankreich: Unis geschlossen, Schulen blockiert – Proteste gehen weiter",
-   "lead": "In seguito alle vacanze autunnali, i giovani in Francia proseguono le proteste per denunciare le criticità nel settore dell'istruzione, con università chiuse e scuole bloccate. In alcune località, gli insegnanti hanno deciso di unirsi alle manifestazioni condividendo le medesime rivendicazioni sulle condizioni del sistema educativo. Lo riferisce Der Spiegel.",
-   "more": [
-    "Le mobilitazioni studentesche e sindacali nel settore dell'istruzione in Europa riaccendono periodicamente il confronto pubblico sui finanziamenti statali, sul numero di studenti per classe e sulle riforme dei programmi di studio. Il coinvolgimento del corpo docente nei blocchi rappresenta un elemento di intensificazione del confronto con le autorità ministeriali."
-   ],
-   "fonti": [
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/ausland/frankreich-unis-geschlossen-schulen-blockiert-proteste-gehen-weiter-a-87d48f7c-a360-4f21-b8a2-8d952ab0349a#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-03T19:18+01:00"
     }
    ],
    "data": "3 nov",
@@ -1224,39 +1149,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z50d8b521",
-   "sez": "mondo",
-   "titolo": "Stati Uniti e Iran distanti da un accordo per fermare il conflitto, mentre il Qatar media",
-   "orig": "Iran and U.S. still far from deal to end war, official says, as Qatar pushes mediation",
-   "lead": "Gli Stati Uniti e l'Iran rimangono distanti dal raggiungimento di un'intesa per porre fine alle ostilità, nonostante i tentativi di mediazione diplomatica condotti dal Qatar. Da Toronto si segnala che le forze armate statunitensi hanno compiuto attacchi definiti difensivi contro l'isola iraniana di Qesm, prendendo di mira postazioni di missili terra-aria impiegati contro risorse militari americane. Lo riferisce The Globe and Mail.",
-   "more": [
-    "La crisi tra Stati Uniti e Iran nel Golfo Persico comporta frequenti scontri militari circoscritti e complesse trattative diplomatiche mediate da Paesi terzi come il Qatar, nel tentativo di prevenire un'escalation su più ampia scala nella regione mediorientale."
-   ],
-   "fonti": [
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/article-iran-us-deal-to-end-war/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-11-03T17:17+00:00"
-    },
-    {
-     "n": "Daily News Egypt",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://dailynewsegypt.com/2026/11/03/egypt-fm-pushes-for-middle-east-de-escalation-in-talks-with-qatar-and-iraq/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-11-03T17:52+00:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "20:13",
-   "uscita": "sera"
-  },
-  {
    "id": "z3d61194d",
    "sez": "mondo",
    "titolo": "Elezioni di metà mandato negli Stati Uniti: i collegi chiave in cui si deciderà l'esito del voto",
@@ -1690,6 +1582,15 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-11-03T18:00+01:00"
+    },
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1876400-20261103.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-03T17:13+08:00"
     }
    ],
    "data": "3 nov",
@@ -4665,6 +4566,42 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-03T05:00-05:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/disputas-clave-de-las-elecciones-de-mitad-de-mandato-en-eeuu_0_R5aLGO9gSq.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-03T18:30+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mundo/eeuu/elecciones-legislativas-de-medio-mandato-en-estados-unidos-que-se-juega-donald-trump-y-que-esta-en-riesgo-en-el-senado-y-la-camara-de-representantes-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-03T18:50+00:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/mundo/estados-unidos-vota-unas-elecciones-clave-trump-las-midterms-y-el-control-del-congreso-juego-n6062520",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-03T13:04-03:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/11/elecciones-en-estados-clave-definiran-el-control-del-senado-de-ee-uu/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-11-03T19:00+00:00"
     }
    ],
    "data": "3 nov",
@@ -8353,30 +8290,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "za7625445",
-   "sez": "economia",
-   "titolo": "Hong Kong: il prodotto interno lordo cresce del 5,2% nel terzo trimestre del 2026",
-   "orig": "Hong Kong economy grew 5.2pc in Q3 2026",
-   "lead": "Nel terzo trimestre del 2026 l'economia di Hong Kong ha registrato una crescita su base annua del 5,2%, sostenuta dall'aumento delle esportazioni di merci, salite del 30,4% in termini reali, e dalla ripresa della domanda interna. Secondo le stime preliminari diffuse dal Dipartimento di Statistica, il dato supera il 4,2% registrato nel trimestre precedente. Nei primi nove mesi dell'anno il PIL dell'ex colonia britannica è cresciuto del 5,1%, segnando il ritmo d'espansione più rapido per questo periodo negli ultimi cinque anni. Lo riferisce RTHK.",
-   "more": [
-    "Il Prodotto Interno Lordo misura il valore totale dei beni e dei servizi prodotti in un Paese o territorio in un dato periodo. Essendo un importante hub finanziario e commerciale, la crescita di Hong Kong dipende fortemente dai flussi di merci e dalla tenuta dei mercati internazionali."
-   ],
-   "fonti": [
-    {
-     "n": "RTHK",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://news.rthk.hk/rthk/en/component/k2/1876400-20261103.htm",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-11-03T17:13+08:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "12:49",
-   "uscita": "13"
-  },
-  {
    "id": "z1cdf4bf0",
    "sez": "mondo",
    "titolo": "Egitto e Sudan firmano un accordo sulla sicurezza idrica e respingono le azioni dell'Etiopia",
@@ -8857,6 +8770,24 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "u": "https://kathmandupost.com/world/2026/11/03/iran-us-deal-still-out-of-reach-despite-heightened-diplomatic-efforts",
      "angolo": "",
      "atlas": "Nepal"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-iran-us-deal-to-end-war/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-03T17:17+00:00"
+    },
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://dailynewsegypt.com/2026/11/03/egypt-fm-pushes-for-middle-east-de-escalation-in-talks-with-qatar-and-iraq/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-11-03T17:52+00:00"
     }
    ],
    "data": "3 nov",
@@ -9072,7 +9003,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z263796b6": "Deutsche Welle mette in guardia sul rischio che i grandi prestiti delle aziende tecnologiche statunitensi aumentino il costo del debito per i governi europei.",
   "z6262d746": "LRT definisce il calendario delle consultazioni dei ministri europei per la scelta del nuovo presidente della BCE.",
   "z3782383c": "CNA sottolinea che, secondo gli esperti, la flessione dei titoli di Sheng Siong non compromette il valore dell'azienda.",
-  "za7625445": "RTHK mette in evidenza la solida accelerazione dell'economia di Hong Kong guidata dal forte incremento del commercio estero.",
   "z1cdf4bf0": "Egypt Independent mette in risalto l'intesa strategica tra Il Cairo e Khartoum contro le decisioni unilaterali di Addis Abeba sulla diga.",
   "zcb0d9484": "PBS NewsHour mette in luce l'impegno delle organizzazioni di fact-checking per garantire la trasparenza informativa durante le consultazioni negli Stati Uniti.",
   "z24e43751": "Yonhap sottolinea l'impegno congiunto del governo e delle istituzioni sportive sudcoreane a favore della candidatura olimpica.",
@@ -9236,7 +9166,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zca2e0530": "La testata evidenzia la ripresa delle attività diplomatiche della Romania in Corea del Nord.",
   "zff7f6042": "La testata evidenzia l'incriminazione per tradimento nei confronti dell'ex portavoce presidenziale ucraino.",
   "z304363e7": "La testata evidenzia la condanna detentiva inflitta a un consigliere distrettuale per reati contro minori.",
-  "z50d8b521": "La testata evidenzia il persistere delle distanze diplomatiche e i recenti attacchi militari tra Stati Uniti e Iran.",
   "z3d61194d": "La testata evidenzia l'importanza dei collegi chiave nelle elezioni di metà mandato negli Stati Uniti.",
   "z252e56e1": "La testata evidenzia l'intervento governativo per calmierare le tariffe dei trasporti pubblici a Bangkok.",
   "zc54ea599": "La testata evidenzia la cerimonia di premiazione dei diplomatici da parte del Presidente degli Emirati Arabi Uniti.",
@@ -9297,7 +9226,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zca5be6f3": "la Repubblica mette in luce le stime del sindacato e le criticità relative ai costi dei Pip e alla portabilità.",
   "z39e6df3d": "NPR evidenzia l'impatto positivo ma effimero della tregua sulla vita quotidiana dei residenti.",
   "z33f6fec1": "NPR si concentra sulle tipologie di competizione elettorale determinanti per interpretare i risultati del voto congressuale.",
-  "zdbcb2f17": "Clarín evidenzia l'incertezza dei distretti chiave e il possibile ribaltamento degli equilibri politici al Congresso.",
   "z17c062a8": "la Repubblica – Esteri evidenzia la strategia del centrodestra per evitare l'esclusione al primo turno e le richieste di unione avanzate da Édouard Philippe.",
   "z2f18076b": "NPR – Istruzione evidenzia la volontà della nuova presidenza sindacale di allontanare gli educatori dalle divisioni politiche partitiche.",
   "z5c1ccadf": "BBC News evidenzia la necessità di interventi urgenti e le critiche sulla scarsa centralità dell'ambiente nell'agenda di governo.",
@@ -9305,7 +9233,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zb01d66d9": "Good News Network evidenzia la portata dell'impresa e la rarità del gruppo sanguigno del donatore.",
   "z7afff587": "Il Messaggero – Roma evidenzia le date, le sedi coinvolte e la scadenza definitiva del formato cartaceo prevista per il 2027.",
   "za2504bb9": "Anime News Network si concentra sulle piattaforme di destinazione e sulla finestra di lancio occidentale del gioco.",
-  "zbdff9a73": "Der Spiegel evidenzia la prosecuzione delle proteste studentesche e l'adesione dei docenti in diverse aree della Francia.",
   "z9cae47f8": "L'Aiea evidenzia l'avvio della rete internazionale dedicata alla salvaguardia delle risorse idriche lacustri.",
   "z7b91c80c": "RNZ sottolinea la ricerca di alternative agricole e le conclusioni dello studio di fattibilità dopo la chiusura dell'impianto.",
   "zb02f6ba5": "Orizzonte Scuola evidenzia i contenuti e gli obiettivi dell'accordo istituzionale focalizzato sull'educazione finanziaria degli studenti.",
@@ -10282,13 +10209,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "n": "Singapore",
    "p": [
     "Singapore"
-   ],
-   "pt": []
-  },
-  "za7625445": {
-   "n": "Hong Kong",
-   "p": [
-    "China"
    ],
    "pt": []
   },
@@ -11463,13 +11383,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "pt": []
   },
-  "z50d8b521": {
-   "n": "Toronto",
-   "p": [
-    "Canada"
-   ],
-   "pt": []
-  },
   "z3d61194d": {
    "n": "Cairo",
    "p": [
@@ -11910,13 +11823,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "pt": []
   },
-  "zdbcb2f17": {
-   "n": "Buenos Aires",
-   "p": [
-    "Argentina"
-   ],
-   "pt": []
-  },
   "z17c062a8": {
    "n": "Roma",
    "p": [
@@ -11963,13 +11869,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "n": "Houston",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "zbdff9a73": {
-   "n": "Amburgo",
-   "p": [
-    "Germany"
    ],
    "pt": []
   },
@@ -12059,7 +11958,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z263796b6": 1,
   "z6262d746": 1,
   "z3782383c": 1,
-  "za7625445": 1,
   "z1cdf4bf0": 2,
   "zcb0d9484": 1,
   "z24e43751": 1,
@@ -12223,7 +12121,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zca2e0530": 1,
   "zff7f6042": 1,
   "z304363e7": 1,
-  "z50d8b521": 1,
   "z3d61194d": 1,
   "z252e56e1": 1,
   "zc54ea599": 1,
@@ -12284,7 +12181,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zca5be6f3": 1,
   "z39e6df3d": 1,
   "z33f6fec1": 1,
-  "zdbcb2f17": 1,
   "z17c062a8": 1,
   "z2f18076b": 1,
   "z5c1ccadf": 1,
@@ -12292,7 +12188,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zb01d66d9": 1,
   "z7afff587": 1,
   "za2504bb9": 1,
-  "zbdff9a73": 1,
   "z9cae47f8": 1,
   "z7b91c80c": 1,
   "zb02f6ba5": 1,
