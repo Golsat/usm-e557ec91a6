@@ -3,6 +3,522 @@ window.EDIZIONI["2026-11-03-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z34509313",
+   "sez": "sport",
+   "titolo": "Morte di De Miguel: insulti social al portiere Owono e rischi penali",
+   "orig": "Morte De Miguel, insulti social al portiere Owono. Per lui anche il rischio di sanzioni penali",
+   "lead": "Il portiere della squadra di Andorra, Owono, è finito al centro di pesanti insulti sui social network in seguito alla morte di De Miguel. La situazione ha esposto il calciatore, attualmente in stato di shock, anche al rischio di incorrere in sanzioni di carattere penale. Lo riferisce la Repubblica.",
+   "more": [
+    "Nel mondo dello sport professionistico, gli episodi di cronaca che coinvolgono atleti in vicende drammatiche generano spesso un'immediata ondata di reazioni e polemiche digitali. Le autorità giudiziarie e le piattaforme di comunicazione monitorano costantemente i fenomeni di odio online e le minacce per individuare eventuali profili di responsabilità penale."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/sport/calcio/2026/11/03/news/morte_de_miguel_owono_cosa_dice_la_legge-425696705/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-03T16:05+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "zca5be6f3",
+   "sez": "economia",
+   "titolo": "Fondi pensione, l'allarme Cgil sulla portabilità: possibili perdite fino a 86mila euro",
+   "orig": "Fondi pensione, l’allarme Cgil: “Con la portabilità si rischiano perdite fino a 86mila euro”",
+   "lead": "La Cgil ha lanciato un allarme riguardo alla portabilità nei fondi pensione, stimando potenziali perdite economiche fino a 86mila euro per i lavoratori. Secondo una simulazione effettuata su un arco temporale di 35 anni, i maggiori costi legati ai Pip potrebbero determinare fino a 44mila euro in meno. Il sindacato contesta inoltre il trasferimento del contributo aziendale al di fuori dei fondi negoziali. Lo riferisce la Repubblica.",
+   "more": [
+    "La previdenza complementare in Italia si articola tra fondi negoziali (chiusi), fondi aperti e Piani individuali pensionistici (Pip). La portabilità consente ai lavoratori di trasferire la propria posizione da una forma pensionistica a un'altra, ma i costi di gestione, i rendimenti storici e la diversa natura dei prodotti finanziari possono incidere sensibilmente sul montante accumulato a fine carriera."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/11/03/news/fondi_pensione_allarme_cgil_portabilita_perdite-425696412/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-03T14:29+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z39e6df3d",
+   "sez": "mondo",
+   "titolo": "Un breve cessate il fuoco regala a Kherson un temporaneo ritorno alla normalità",
+   "orig": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+   "lead": "Un breve periodo di cessate il fuoco ha consentito alla regione ucraina di Kherson di vivere un momento di apparente ritorno alla normalità. Nella città di Kherson, solitamente esposta alla costante minaccia dei droni russi, i residenti sono tornati a frequentare i caffè, le famiglie si sono riunite all'aperto e i negozi sono stati presi d'assalto per gli acquisti. Alcuni abitanti hanno descritto la città come viva e simile al passato. Lo riferisce NPR.",
+   "more": [
+    "La città di Kherson e la regione circostante sono state teatro di intensi combattimenti e di una prolungata occupazione militare prima di tornare sotto il controllo ucraino. La vicinanza della linea del fronte rende la zona particolarmente vulnerabile agli attacchi quotidiani, compromettendo la sicurezza e la continuità delle attività quotidiane della popolazione civile."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-03T10:54-05:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z33f6fec1",
+   "sez": "mondo",
+   "titolo": "Elezioni negli Stati Uniti: quattro tipi di sfide alla Camera da monitorare",
+   "orig": "Four types of House races to watch on election night to know how it might go",
+   "lead": "Con la chiusura dei seggi e l'inizio dello spoglio delle schede durante la notte elettorale, l'analisi di alcune specifiche sfide per i seggi della Camera dei rappresentanti offre indicazioni fondamentali per comprendere l'andamento complessivo delle elezioni di metà mandato negli Stati Uniti. Lo riferisce NPR.",
+   "more": [
+    "Le elezioni di metà mandato (midterm) negli Stati Uniti rappresentano un test cruciale per l'amministrazione in carica, poiché consentono di rinnovare l'intera Camera dei rappresentanti e un terzo del Senato. L'esito di queste consultazioni determina spesso gli equilibri politici e la capacità del presidente di portare avanti la propria agenda legislativa nei due anni successivi."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-03T06:00-05:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdbcb2f17",
+   "sez": "mondo",
+   "titolo": "Elezioni di metà mandato negli Stati Uniti: le sfide decisive per il controllo del Congresso",
+   "orig": "Disputas clave de las elecciones de mitad de mandato en EEUU",
+   "lead": "Gli elettori statunitensi sono chiamati alle urne nelle elezioni di midterm per decidere se il partito del presidente manterrà il controllo del Congresso o se l'opposizione conquisterà la maggioranza. I sondaggi indicano la possibilità di pesanti perdite per gli alleati del governo in diversi Stati conservatori. La competizione coinvolge seggi chiave sia al Senato che alla Camera dei rappresentanti, con sfide molto equilibrate che potrebbero alterare gli equilibri politici del Paese. Lo riferisce Clarín.",
+   "more": [
+    "Le elezioni di metà mandato si tengono a metà del mandato presidenziale e servono a rinnovare l'intero Congresso federale. Storicamente, il partito del presidente in carica tende a perdere consensi in queste tornate elettorali, rendendo l'esito del voto un indicatore fondamentale del gradimento popolare e delle prospettive di governo per la seconda metà del quadriennio."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/disputas-clave-de-las-elecciones-de-mitad-de-mandato-en-eeuu_0_R5aLGO9gSq.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-03T18:30+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mundo/eeuu/elecciones-legislativas-de-medio-mandato-en-estados-unidos-que-se-juega-donald-trump-y-que-esta-en-riesgo-en-el-senado-y-la-camara-de-representantes-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-03T18:50+00:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/mundo/estados-unidos-vota-unas-elecciones-clave-trump-las-midterms-y-el-control-del-congreso-juego-n6062520",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-03T13:04-03:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/11/elecciones-en-estados-clave-definiran-el-control-del-senado-de-ee-uu/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-11-03T19:00+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z17c062a8",
+   "sez": "mondo",
+   "titolo": "Francia, pressioni su Édouard Philippe per primarie nel centrodestra contro il rischio ballottaggio tra Mélenchon e Le Pen",
+   "orig": "Francia, pressing su Philippe per primarie nel centrodestra: si teme ballottaggio Mélenchon-Le Pen",
+   "lead": "Nel centrodestra francese cresce il pressing affinché l'ex primo ministro Édouard Philippe promuova delle primarie per giungere a una candidatura unitaria. L'obiettivo è evitare che il candidato moderato venga escluso già al primo turno, scongiurando così il rischio di un ballottaggio tra Jean-Luc Mélenchon e Marine Le Pen. Dal canto suo, Philippe chiede a Gabriel Attal e agli altri esponenti di fare un passo indietro per non disperdere i voti dell'area moderata. Lo riferisce la Repubblica – Esteri.",
+   "more": [
+    "Il sistema elettorale presidenziale francese prevede un sistema a doppio turno maggioritario, in cui i primi due candidati più votati al primo turno accedono al ballottaggio. Questa dinamica spinge spesso i partiti a cercare alleanze o candidature forti per evitare l'esclusione di intere aree politiche, come tradizionalmente accade tra i moderati e i centristi."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/03/news/francia_pressing_philippe_primarie_centrodestra_teme_ballottaggio_melenchon_le_pen-425695771/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-03T11:29+01:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-plus-que-jamais-assure-d-etre-au-second-tour-jean-luc-melenchon-creuse-encore-l-ecart-avec-edouard-philippe-selon-un-sondage-20261103",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-03T19:49+01:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/amerique/siri-hustvedt-ecrivaine-dans-les-etats-unis-de-trump-je-sens-le-besoin-dun-soulevement-populaire-20261103_LXVHAD4IJRC3DMSWHEOHUQR2WQ/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-03T15:24+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/joj-dakar-2026-rugby-a-7-feminin-le-kenya-decroche-lor-face-a-laustralie_n_999002555.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-03T18:10+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/joj-dakar-2026-natation-mana-ishikawa-offre-une-troisieme-medaille-dor-au-japon_n_999002554.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-03T17:41+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/jean-luc-melenchon-juge-la-chine-bien-plus-fiable-que-les-etats-unis-comme-partenaire/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-03T14:09+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2f18076b",
+   "sez": "mondo",
+   "titolo": "La nuova presidente del sindacato insegnanti statunitense punta a ridurre la politicizzazione",
+   "orig": "New teachers union president wants to steer educators away from partisan politics",
+   "lead": "Princess Moss, neo eletta alla guida della principale organizzazione sindacale dei lavoratori della scuola negli Stati Uniti, ha illustrato le priorità per la categoria. Nel suo intervento, la rappresentante della National Education Association ha affrontato le sfide quotidiane che gravano sugli educatori, auspicando una linea orientata a distogliere il personale scolastico dalle polemiche della politica di parte. Lo riferisce NPR – Istruzione.",
+   "more": [
+    "I sindacati degli insegnanti negli Stati Uniti svolgono un ruolo di primo piano nel dibattito sulle politiche educative, sui finanziamenti pubblici e sulle condizioni di lavoro del personale scolastico. Il rapporto tra il mondo della scuola e l'arena politica partitica è storicamente complesso e oggetto di frequenti discussioni sulla neutralità dell'insegnamento."
+   ],
+   "fonti": [
+    {
+     "n": "NPR – Istruzione",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/10/28/nx-s1-5953069-e1/new-teachers-union-president-wants-to-steer-educators-away-from-partisan-politics",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-10-28T17:34-04:00"
+    },
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/speaker-urges-mps-to-put-national-interest-ahead-of-partisan-politics-in-constitutional-review/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-11-03T18:13+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5c1ccadf",
+   "sez": "ambiente",
+   "titolo": "Crisi della biodiversità: il governo sollecitato a interventi immediati",
+   "orig": "Action needed to tackle 'biodiversity crisis'",
+   "lead": "Si rende necessaria un'azione tempestiva per far fronte alla cosiddetta «crisi della biodiversità». La questione ambientale si inserisce in un quadro di crescenti preoccupazioni riguardo all'attenzione ritenuta insufficiente che l'esecutivo riserva alle tematiche ecologiche complessive. Lo riferisce BBC News.",
+   "more": [
+    "La perdita di biodiversità rappresenta una delle sfide ambientali globali più urgenti, legata alla distruzione degli habitat naturali, ai cambiamenti climatici e all'inquinamento. Le organizzazioni ambientaliste e la comunità scientifica sollecitano costantemente i governi ad adottare politiche di tutela rigorose per preservare gli ecosistemi terrestri e marini."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-03T17:25+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8fa9c2f2",
+   "sez": "musica",
+   "titolo": "David Gilmour lancia un canale YouTube in streaming 24 ore su 24 dedicato alla sua carriera",
+   "orig": "David Gilmour, Pink Floyd e carriera solista in streaming 24 ore su 24: il nuovo canale YouTube",
+   "lead": "David Gilmour ha inaugurato un nuovo canale di streaming su YouTube attivo 24 ore su 24, interamente incentrato sul proprio percorso artistico. La programmazione offre una selezione continua di brani, registrazioni d'archivio, filmati dal vivo e contenuti inediti che ripercorrono sia gli anni trascorsi con i Pink Floyd sia la successiva produzione solista dell'artista britannico. Lo riferisce OndaRock.",
+   "more": [
+    "Le piattaforme di streaming digitale e i canali ufficiali dedicati agli artisti storici della musica rock rappresentano oggi strumenti privilegiati per valorizzare cataloghi discografici ultradecennali. Attraverso la diffusione continua di materiale raro e concerti storici, i musicisti riescono a mantenere un legame costante con le comunità di fan di diverse generazioni."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/david-gilmour-pink-floyd-nuovo-canale-youtube-streaming-video-24-ore-su-24/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-03T17:53+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb01d66d9",
+   "sez": "mondo",
+   "titolo": "Poliziotto australiano dona il suo sangue raro 545 volte in tutti i centri del Paese",
+   "orig": "He Donated His Ultra-rare Blood 545 Times While Visiting Every Blood Bank in Australia",
+   "lead": "Trevor Bergman, un poliziotto australiano di 59 anni, ha completato un viaggio straordinario donando il suo sangue estremamente raro in tutti gli 85 centri di raccolta presenti in Australia. Nel corso della sua iniziativa, l'uomo ha effettuato 545 donazioni, offrendo un supporto vitale a pazienti in ogni angolo del Paese. Bergman risulta essere uno dei circa 150 cittadini australiani noti per possedere questo particolare gruppo sanguigno. Lo riferisce Good News Network.",
+   "more": [
+    "La donazione di sangue è un'attività fondamentale per il sistema sanitario e per la gestione di emergenze mediche, interventi chirurgici e terapie oncologiche. I gruppi sanguigni rari rivestono un'importanza ancora maggiore, poiché i pazienti che ne necessitano possono ricevere trasfusioni esclusivamente da donatori compatibili con le medesime caratteristiche genetiche."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/ultra-rare-blood-carrier-finishes-grand-tour-around-australia-to-donate-at-all-85-blood-banks/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-03T16:30+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "good": true,
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7afff587",
+   "sez": "italia",
+   "titolo": "Roma, nuovo open day per la Carta d'identità elettronica nel fine settimana",
+   "orig": "Carta d'identità elettronica a Roma: nuovo open day sabato 7 e domenica 8 novembre. I Municipi, i Pit aperti e gli orari",
+   "lead": "È in programma un nuovo open day dedicato al rilascio della Carta d'identità elettronica (Cie) a Roma per sabato 7 e domenica 8 novembre. L'iniziativa coinvolgerà i Municipi e i punti di informazione turistica (Pit) con l'apertura straordinaria degli sportelli e la definizione di orari dedicati. L'amministrazione ricorda inoltre che a partire dal 31 gennaio 2027 il formato cartaceo della carta d'identità perderà definitivamente validità, rimanendo in vigore esclusivamente la Cie. Lo riferisce Il Messaggero – Roma.",
+   "more": [
+    "Il processo di digitalizzazione dei documenti di riconoscimento in Italia prevede la progressiva sostituzione della tradizionale carta d'identità cartacea con la Carta d'identità elettronica dotata di microprocessore e standard di sicurezza avanzati. Per smaltire le richieste e facilitare l'utenza, i comuni italiani organizzano regolarmente giornate straordinarie di apertura degli uffici anagrafici."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/metropoli/carta_identita_roma_open_novembre_orari_municipi-9866439.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-03T17:57+01:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "za2504bb9",
+   "sez": "manga",
+   "titolo": "Hyperspace Neptunia: Unlimited Game in arrivo in Occidente nel 2027",
+   "orig": "Hyperspace Neptunia: Unlimited Game Heads West in 2027",
+   "lead": "Il videogioco Hyperspace Neptunia: Unlimited Game farà il suo debutto sul mercato occidentale nel corso del 2027. Il titolo sarà distribuito per diverse piattaforme, tra cui le console Nintendo Switch e la nuova Switch 2, oltre a PlayStation 5, PlayStation 4 e PC. Lo riferisce Anime News Network.",
+   "more": [
+    "La serie videoludica di Neptunia, caratterizzata da ambientazioni e personaggi ispirati all'immaginario dei manga e degli anime giapponesi, gode di un vasto seguito internazionale. La pubblicazione multipiattaforma risponde alla strategia di ampliare la diffusione dei titoli di questa franchise presso il pubblico occidentale."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-11-03/hyperspace-neptunia-unlimited-game-heads-west-in-2027/.243488",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-03T12:52-05:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbdff9a73",
+   "sez": "dibattito",
+   "titolo": "Proteste nel sistema scolastico e universitario in Francia: scuole bloccate e università chiuse",
+   "orig": "Frankreich: Unis geschlossen, Schulen blockiert – Proteste gehen weiter",
+   "lead": "In seguito alle vacanze autunnali, i giovani in Francia proseguono le proteste per denunciare le criticità nel settore dell'istruzione, con università chiuse e scuole bloccate. In alcune località, gli insegnanti hanno deciso di unirsi alle manifestazioni condividendo le medesime rivendicazioni sulle condizioni del sistema educativo. Lo riferisce Der Spiegel.",
+   "more": [
+    "Le mobilitazioni studentesche e sindacali nel settore dell'istruzione in Europa riaccendono periodicamente il confronto pubblico sui finanziamenti statali, sul numero di studenti per classe e sulle riforme dei programmi di studio. Il coinvolgimento del corpo docente nei blocchi rappresenta un elemento di intensificazione del confronto con le autorità ministeriali."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/frankreich-unis-geschlossen-schulen-blockiert-proteste-gehen-weiter-a-87d48f7c-a360-4f21-b8a2-8d952ab0349a#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-03T19:18+01:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9cae47f8",
+   "sez": "organizzazioni",
+   "titolo": "L'Aiea lancia una rete globale per aiutare i Paesi a monitorare e proteggere i laghi del mondo",
+   "orig": "IAEA Launches Global Network to Help Countries Monitor and Protect the World’s Lakes",
+   "lead": "L'Agenzia internazionale per l'energia atomica (Aiea) ha annunciato il lancio di una nuova rete globale concepita per supportare i governi nazionali nel monitoraggio e nella tutela delle risorse lacustri del pianeta. Lo riferisce Agenzia internazionale per l'energia atomica (Aiea).",
+   "more": [
+    "I laghi del mondo rappresentano riserve d'acqua dolce indispensabili per gli ecosistemi, l'agricoltura e le comunità umane, ma sono fortemente minacciati dai cambiamenti climatici e dall'inquinamento. L'impiego di tecniche isotopiche e scientifiche avanzate promosse da organismi internazionali consente di analizzare lo stato di salute delle acque e di pianificare interventi mirati di salvaguardia ambientale."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-launches-global-network-to-help-countries-monitor-and-protect-the-worlds-lakes",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7b91c80c",
+   "sez": "economia",
+   "titolo": "Nuove prospettive per i produttori orticoli di Hawke's Bay dopo la chiusura dello stabilimento McCain",
+   "orig": "Hawke's Bay vegetable growers on the hunt for higher value crops after McCain closure",
+   "lead": "In seguito alla chiusura dello stabilimento della McCain, i produttori orticoli della regione di Hawke's Bay hanno avviato una serie di valutazioni per orientarsi verso coltivazioni a più alto valore aggiunto. Uno studio di fattibilità ha evidenziato la necessità per gli agricoltori locali di evitare in futuro un modello produttivo su larga scala analogo a quello precedente. Lo riferisce RNZ.",
+   "more": [
+    "La chiusura di grandi impianti di trasformazione alimentare in aree a vocazione agricola costringe spesso i produttori locali a riconvertire le proprie coltivazioni e a cercare nuovi mercati. La transizione verso colture di nicchia o ad alto valore aggiunto rappresenta una strategia per garantire la sostenibilità economica del settore agroalimentare regionale."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/business/2325419/hawke-s-bay-vegetable-growers-on-the-hunt-for-higher-value-crops-after-mccain-closure",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-04T05:32+13:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb02f6ba5",
+   "sez": "adolescenti",
+   "titolo": "Scuola, rinnovato il protocollo tra MIM e Corte dei conti per l'educazione alla legalità finanziaria",
+   "orig": "Firmato il rinnovo del protocollo tra MIM e Corte dei conti per l’educazione alla legalità finanziaria",
+   "lead": "Il Ministero dell'Istruzione e del Merito (MIM) e la Procura generale della Corte dei conti hanno sottoscritto il rinnovo dell'intesa istituzionale dedicata alla promozione della legalità finanziaria nelle scuole. L'accordo mira a diffondere tra gli studenti la conoscenza del corretto utilizzo dei fondi pubblici e a sensibilizzare le nuove generazioni sul contrasto agli sprechi amministrativi. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "L'educazione civica e finanziaria all'interno delle istituzioni scolastiche italiane riveste un ruolo fondamentale per formare cittadini consapevoli del valore delle risorse pubbliche. La collaborazione tra il ministero e organi di controllo come la Corte dei conti permette di introdurre nelle classi percorsi formativi legati alla trasparenza e alla responsabilità nella gestione della cosa pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/firmato-il-rinnovo-del-protocollo-tra-mim-e-corte-dei-conti-per-leducazione-alla-legalita-finanziaria/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-03T18:37+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "zae6796fb",
+   "sez": "adolescenti",
+   "titolo": "Docenti neoassunti, chiarimenti sulle categorie esonerate dal periodo di formazione e prova",
+   "orig": "Docenti neoassunti, chi non deve svolgere il periodo di formazione e prova",
+   "lead": "L'Ufficio Scolastico di Milano ha diffuso una dettagliata schematizzazione rivolta ai docenti neoassunti per chiarire quali categorie di insegnanti non sono tenute a ripetere il periodo di formazione e prova. La guida offre indicazioni operative per orientare il personale scolastico tra le normative vigenti. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Il periodo di formazione e prova per i docenti neoassunti in Italia rappresenta un passaggio obbligatorio per l'immissione in ruolo definitiva, disciplinato da specifiche disposizioni ministeriali. La normativa prevede tuttavia particolari esoneri per chi ha già maturato determinati requisiti di servizio o superato precedenti valutazioni analoghe."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/docenti-neoassunti-chi-non-deve-svolgere-il-periodo-di-formazione-e-prova/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-03T17:23+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "z8fa9d120",
+   "sez": "adolescenti",
+   "titolo": "Mondo ATA, online la newsletter con le indicazioni sul calcolo del punteggio di servizio",
+   "orig": "Anno 1, n. 39 Mondo ATA – Calcolo del punteggio di servizio con tabella in PDF nella newsletter del 6 novembre. Iscriviti gratuitamente",
+   "lead": "È disponibile il nuovo numero della newsletter Mondo ATA, lo strumento informativo dedicato al personale amministrativo, tecnico e ausiliario della scuola e a chi aspira a entrare nelle graduatorie. L'edizione approfondisce le modalità di calcolo del punteggio di servizio, mettendo a disposizione degli utenti una tabella esplicativa in formato PDF. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Il personale ATA costituisce una componente essenziale per il funzionamento delle istituzioni scolastiche italiane. L'aggiornamento costante delle graduatorie e il corretto calcolo del punteggio di servizio rappresentano passaggi cruciali per la gestione della carriera e delle supplenze del personale non docente."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/anno-1-n-39-mondo-ata-calcolo-del-punteggio-di-servizio-con-tabella-in-pdf-nella-newsletter-del-6-novembre-iscriviti-gratuitamente/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-03T17:15+00:00"
+    }
+   ],
+   "data": "3 nov",
+   "ora": "20:15",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
    "id": "zfdcb66b3",
    "sez": "economia",
    "titolo": "Le pompe di calore faticano a diffondersi nelle imprese italiane: l'ostacolo principale è il costo",
@@ -356,6 +872,42 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-11-03T14:13-04:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/economia/2026/11/03/6ae9e4bee4d4d8db7f8b45a2.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-03T15:05+01:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-11-03/el-uso-de-la-linea-del-accidente-de-urda-se-disparo-un-28-en-cinco-anos-y-los-operadores-reclamaban-sustituir-el-lzb-es-muy-importante.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-03T14:49+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-10-28T13:47+01:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/quien-era-nathalia-gadelha-la-piloto-de-20-anos-que-saco-su-licencia-a-los-17-y-fallecio-en-el-accidente-aereo-de-florida-3598045",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-03T07:23-05:00"
     }
    ],
    "data": "3 nov",
@@ -508,7 +1060,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "ze30b21cf",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Il Parlamento della Groenlandia approva l'accordo di sicurezza con Stati Uniti e Danimarca",
    "orig": "Greenland parliament approves security deal with US, Denmark",
    "lead": "I legislatori della Groenlandia hanno approvato all'unanimità un accordo di sicurezza trilaterale stipulato con Stati Uniti e Danimarca. La votazione, svoltasi a Doha, ha registrato sedici voti a favore e sette astensioni sull'intesa formale che era stata sottoscritta nel mese di settembre, confermando la cooperazione strategica nella regione artica. Lo riferisce Al Jazeera.",
@@ -537,9 +1089,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "data": "3 nov",
    "ora": "20:13",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z2272086d",
@@ -886,37 +1436,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z34e5ff7c",
-   "sez": "mondo",
-   "titolo": "Incontro a Berlino, Merz e Zelensky chiedono un seggio per l'Europa al tavolo dei negoziati",
-   "orig": "Besuch in Berlin: Merz und Selenskij fordern Platz für Europa am Verhandlungstisch",
-   "lead": "Durante la visita a Berlino, il presidente ucraino Volodymyr Zelensky e il cancelliere tedesco Friedrich Merz hanno chiesto che l'Europa abbia un proprio spazio al tavolo dei futuri negoziati tra le parti in guerra, mentre gli Stati Uniti preparano nuove trattative. Lo riferisce la Süddeutsche Zeitung.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Süddeutsche Zeitung",
-     "p": "DE",
-     "c": "Monaco",
-     "u": "https://www.sueddeutsche.de/politik/ukraine-praesident-unterstuetzung-besuch-merz-deutschland-li.3573106",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-03T16:35+00:00"
-    },
-    {
-     "n": "Ukrinform",
-     "p": "XX",
-     "c": "Kyiv",
-     "u": "https://www.ukrinform.net/rubric-ato/4181024-merz-announces-november-19-meeting-of-coalition-of-the-willing-in-berlin.html",
-     "angolo": "",
-     "atlas": "Ukraine",
-     "t": "2026-11-03T18:00+02:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "20:13",
-   "uscita": "sera"
-  },
-  {
    "id": "z59457977",
    "sez": "mondo",
    "titolo": "Spagna, il governo ritiene impossibile sospendere il voto ai figli dei beneficiari della 'ley de nietos'",
@@ -1232,6 +1751,24 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-11-03T15:17+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/tanzania-activist-mwaipaya-not-in-police-custody-ig-kanja-tells-court-n393238",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-03T09:41+00:00"
+    },
+    {
+     "n": "The Citizen",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/national/kenya-court-summons-police-chief-over-missing-tanzanian-activist-5656078",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-02T16:15+00:00"
     }
    ],
    "data": "3 nov",
@@ -2378,30 +2915,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z5bed19b6",
-   "sez": "mondo",
-   "titolo": "OpenAI assume l'ex segretario dell'esercito statunitense Dan Driscoll",
-   "orig": "OpenAI angajează un fost secretar american al armatei. „Cei care servesc statul merită cele mai bune instrumente”",
-   "lead": "OpenAI ha assunto l'ex segretario dell'esercito terrestre degli Stati Uniti, Dan Driscoll, per un ruolo incentrato sull'impiego dell'intelligenza artificiale nel settore della sicurezza nazionale. Driscoll aveva lasciato il precedente incarico alla fine di agosto in seguito a divergenze con i vertici del Pentagono. Lo riferisce HotNews.",
-   "more": [
-    "L'integrazione delle tecnologie di intelligenza artificiale nei contesti legati alla difesa e alla sicurezza nazionale rappresenta un tema centrale di cooperazione e confronto tra aziende tecnologiche e governi."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/openai-angajeaza-un-fost-secretar-american-al-armatei-cei-care-servesc-statul-merita-cele-mai-bune-instrumente-2393890",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-11-03T18:24+00:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "20:12",
-   "uscita": "sera"
-  },
-  {
    "id": "z7c854bae",
    "sez": "ingegneria",
    "titolo": "Il Dipartimento dei Trasporti USA stanzia fondi per la sicurezza ferroviaria",
@@ -3379,7 +3892,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "zfa0852dc",
-   "sez": "italia",
+   "sez": "prima",
    "titolo": "Daniel ritrovato all'aeroporto di Napoli",
    "orig": "Daniel ritrova i genitori dopo mesi in aeroporto a Napoli: ora vuole tornare in Svezia",
    "lead": "Daniel, un giovane svedese di 25 anni scomparso da mesi, è stato rintracciato all'interno dell'aeroporto di Capodichino a Napoli, dove viveva da diverse settimane. Il caso è stato risolto grazie alla collaborazione tra l'Ambasciata di Svezia e i servizi sociali del Comune di Napoli, che hanno permesso al giovane di ricongiungersi con i propri genitori. La famiglia ne aveva denunciato la scomparsa tempo addietro. Ora il ragazzo sta completando le procedure necessarie per fare rientro nel suo Paese d'origine insieme ai familiari, mettendo fine a una lunga vicenda di incertezza.",
@@ -3408,7 +3921,9 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "data": "3 nov",
    "ora": "17:08",
-   "uscita": "17"
+   "uscita": "17",
+   "sez_prima": "italia",
+   "riempimento": true
   },
   {
    "id": "z18c93287",
@@ -3526,7 +4041,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "zd28d904b",
-   "sez": "economia",
+   "sez": "prima",
    "titolo": "Aumento bollette gas per i vulnerabili",
    "orig": "Aumentano del 9% le bollette del gas dei vulnerabili. Arera: 'Pesano le quotazioni'",
    "lead": "L'autorità Arera ha annunciato un incremento del 9% nelle bollette del gas per i consumatori che rientrano nella categoria dei vulnerabili. L'aumento è causato principalmente dall'andamento delle quotazioni dell'energia sul mercato, con il prezzo della materia prima che ha raggiunto gli 88,36 euro a megawattora. Questa variazione riflette le tensioni sui mercati energetici internazionali e inciderà direttamente sui costi di fornitura per le famiglie italiane che beneficiano ancora di regimi di tutela. Gli aggiornamenti dei prezzi seguono le fluttuazioni periodiche degli indici di riferimento del settore.",
@@ -3555,7 +4070,9 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "data": "3 nov",
    "ora": "17:08",
-   "uscita": "17"
+   "uscita": "17",
+   "sez_prima": "economia",
+   "riempimento": true
   },
   {
    "id": "zdd126523",
@@ -3741,6 +4258,24 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-03T08:23+00:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/ukraine-praesident-unterstuetzung-besuch-merz-deutschland-li.3573106",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-03T16:35+00:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-ato/4181024-merz-announces-november-19-meeting-of-coalition-of-the-willing-in-berlin.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-03T18:00+02:00"
     }
    ],
    "data": "3 nov",
@@ -3946,7 +4481,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "z767ea9e2",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Viaggio del Papa in Uruguay, Argentina e Perù",
    "orig": "An overview of the Church in Uruguay, Argentina, and Peru",
    "lead": "Papa Leone XIV si prepara per un importante viaggio apostolico che toccherà Uruguay, Argentina e Perù, con l'obiettivo di rafforzare il legame tra la Chiesa e le comunità locali. Il Pontefice arriverà in Argentina l'8 novembre, visitando Buenos Aires, Córdoba e Luján, dove affronterà temi legati alla povertà e alla disuguaglianza sociale. In Perù, il viaggio è descritto come un 'ritorno a casa' che attirerà oltre un milione di fedeli. Le autorità locali prevedono un impatto economico milionario grazie al massiccio afflusso di pellegrini previsto per le celebrazioni liturgiche.",
@@ -5217,30 +5752,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z75c109b7",
-   "sez": "dibattito",
-   "titolo": "Sicurezza ferroviaria e trasporti in Spagna: governo e sindacati divisi",
-   "orig": "El Gobierno descarta dimisiones, anuncia una batería de medidas para \"minimizar riesgos\" y los sindicatos le responden con una huelga ferroviaria en plena campaña electoral",
-   "lead": "In Spagna si discute della sicurezza della rete ferroviaria dopo i recenti problemi tecnici e gli incidenti. Secondo il ministro dei Trasporti Óscar Puente, la rete non è saturata, ma il governo ha escluso dimissioni e annunciato un pacchetto di misure per ridurre i rischi, tra cui controlli incrociati sulle disposizioni e la riduzione delle frequenze sulla linea ad alta velocità Madrid-Siviglia. I sindacati hanno risposto indedicendo uno sciopero dei treni in piena campagna elettorale, chiedendo garanzie di sicurezza e contestando la gestione dei trasporti. Lo riferisce El Mundo.",
-   "more": [
-    "La rete ferroviaria ad alta velocità spagnola, una delle più estese d'Europa, unisce la capitale Madrid con le principali regioni del Paese. La gestione della sicurezza sui corridoi ferroviari richiede il bilanciamento tra l'aumento dei volumi di traffico guidato dalla liberalizzazione del settore e l'adozione dei più moderni sistemi di segnalamento automatizzato per prevenire incidenti ed errori umani nelle sale di controllo."
-   ],
-   "fonti": [
-    {
-     "n": "El Mundo",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://www.elmundo.es/economia/2026/11/03/6ae9e4bee4d4d8db7f8b45a2.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-11-03T15:05+01:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "17:08",
-   "uscita": "17"
-  },
-  {
    "id": "z5b30db91",
    "sez": "ambiente",
    "titolo": "Il Brasile chiude la COP30 e presenta la tabella di marcia globale contro i combustibili fossili",
@@ -5862,48 +6373,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "Somalia",
      "t": "2026-10-31T10:16+00:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "17:08",
-   "uscita": "17"
-  },
-  {
-   "id": "z1f00214f",
-   "sez": "mondo",
-   "titolo": "Incidente di Urda: il traffico sulla linea ferroviaria era aumentato del 28% in cinque anni",
-   "orig": "El uso de la línea del accidente de Urda se disparó un 28% en cinco años y los operadores reclamaban cambiar el LZB: “Es muy importante”",
-   "lead": "L'utilizzo della linea ferroviaria interessata dal grave incidente di Urda, in Spagna, è aumentato del ventotto per cento negli ultimi cinque anni, spinto dall'apertura del mercato ferroviario. I dirigenti delle compagnie di trasporto Iryo e Ouigo avevano sollecitato il passaggio dal vecchio sistema di sicurezza LZB del 1992, disattivato il giorno del sinistro, alla tecnologia più moderna ERTMS per garantire maggiore agilità nei collegamenti tra Madrid e il sud del Paese.",
-   "more": [
-    "La liberalizzazione dei trasporti ferroviari in Spagna ha comportato un incremento dell'offerta di treni ad alta velocità sulle tratte principali. L'adeguamento dei sistemi di segnalamento e il passaggio all'ERTMS costituiscono lo standard europeo prescelto per aumentare la capacità delle linee garantendo al contempo elevati livelli di sicurezza operativa."
-   ],
-   "fonti": [
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/espana/2026-11-03/el-uso-de-la-linea-del-accidente-de-urda-se-disparo-un-28-en-cinco-anos-y-los-operadores-reclamaban-sustituir-el-lzb-es-muy-importante.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-11-03T14:49+00:00"
-    },
-    {
-     "n": "El Mundo",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-10-28T13:47+01:00"
-    },
-    {
-     "n": "El Tiempo",
-     "p": "XX",
-     "c": "Bogotá",
-     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/quien-era-nathalia-gadelha-la-piloto-de-20-anos-que-saco-su-licencia-a-los-17-y-fallecio-en-el-accidente-aereo-de-florida-3598045",
-     "angolo": "",
-     "atlas": "Colombia",
-     "t": "2026-11-03T07:23-05:00"
     }
    ],
    "data": "3 nov",
@@ -7632,6 +8101,15 @@ window.EDIZIONI["2026-11-03-sera"] = {
      "angolo": "",
      "atlas": "Russia",
      "t": "2026-11-03T14:19+03:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/openai-angajeaza-un-fost-secretar-american-al-armatei-cei-care-servesc-statul-merita-cele-mai-bune-instrumente-2393890",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-03T18:24+00:00"
     }
    ],
    "data": "3 nov",
@@ -8512,37 +8990,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "za89b08c5",
-   "sez": "mondo",
-   "titolo": "Attivista tanzaniano scomparso: il capo della polizia keniota smentisce l'arresto in tribunale",
-   "orig": "Tanzanian activist Mwaipaya not in police custody; IG Kanja tells court",
-   "lead": "Il capo della polizia del Kenya, Douglas Kanja, si è presentato in tribunale a Nairobi per rispondere sulla scomparsa dell'attivista tanzaniano Twaha Mwaipaya. Kanja ha riferito al giudice che l'attivista non è detenuto in alcuna struttura della polizia keniota.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Citizen Digital",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/tanzania-activist-mwaipaya-not-in-police-custody-ig-kanja-tells-court-n393238",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-11-03T09:41+00:00"
-    },
-    {
-     "n": "The Citizen",
-     "p": "XX",
-     "c": "Dar es Salaam",
-     "u": "https://www.thecitizen.co.tz/tanzania/news/national/kenya-court-summons-police-chief-over-missing-tanzanian-activist-5656078",
-     "angolo": "",
-     "atlas": "Tanzania",
-     "t": "2026-11-02T16:15+00:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "12:49",
-   "uscita": "13"
-  },
-  {
    "id": "z4cfed188",
    "sez": "economia",
    "titolo": "In Mozambico si tiene la seconda edizione del Women Investment Forum",
@@ -8641,7 +9088,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z8fb2575a": "OC Media sottolinea le denunce di RSF sulla pressione esercitata dalle autorità sui media indipendenti in Georgia e Azerbaigian.",
   "z10188642": "RTP pone l'accento sulla ripresa del rialzo dei tassi Euribor su tutte le principali scadenze finanziarie.",
   "z7c97750e": "The Punch si concentra sugli impegni istituzionali delle amministrazioni africane nel settore della sicurezza e del welfare.",
-  "za89b08c5": "Citizen Digital evidenzia la comparizione del vertice della polizia davanti ai giudici sul caso dell'attivista scomparso.",
   "z4cfed188": "Club of Mozambique analizza le iniziative a sostegno dell'imprenditoria femminile e della crescita economica in Africa.",
   "zfa0852dc": "la Repubblica sottolinea il ruolo delle istituzioni locali e diplomatiche nel risolvere il caso.",
   "z18c93287": "la Repubblica connette gli episodi italiani a una serie di minacce più ampia in tutta Europa.",
@@ -8695,7 +9141,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zfcc2db4c": "La testata evidenzia l'adesione dei sindacati alla nuova giornata di protesta e le previsioni sulle difficoltà per i passeggeri.",
   "zc38bd6e9": "la Repubblica mette in luce le reazioni critiche dell'opposizione italiana per l'esclusione del Paese dal vertice diplomatico a Bruxelles.",
   "z245ee58e": "MIT Technology Review evidenzia il potenziale della teoria dei giochi inversa nel definire meccanismi di controllo per l'intelligenza artificiale.",
-  "z75c109b7": "El Mundo sottolinea la contrapposizione tra le misure annunciate dal governo spagnolo e lo sciopero indetto dai sindacati ferroviari.",
   "z5b30db91": "Rappler e The Guardian evidenziano l'invito della presidenza brasiliana a passare dai negoziati diplomatici all'attuazione immediata dei piani di riduzione dei combustibili fossili.",
   "zdf0a3e4b": "The BMJ pone l'accento sul divario tra la potenza dei modelli di intelligenza artificiale e l'inadeguatezza delle difese informatiche pubbliche in ambito sanitario.",
   "zc2501b92": "The Japan Times e Iraqi News mettono in luce gli effetti dell'inflazione e dei costi energetici rispettivamente sui bilanci delle famiglie in Russia e sui voli di Lufthansa.",
@@ -8712,7 +9157,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zb5757be9": "Rai News, ANSA e la Repubblica evidenziano il monito della Commissione europea e le contrapposte posizioni tra governo e opposizione.",
   "z1ef5c3c8": "CNA e South China Morning Post mettono in luce il coinvolgimento dell'ex vertice della polizia nelle intercettazioni al Presidente.",
   "z28640d52": "Hiiraan Online, KT Press e Somali Guardian mettono in rilievo la conclusione del ventennale impegno militare dell'Uganda e l'impatto dei tagli ai fondi statunitensi.",
-  "z1f00214f": "El País ed El Mundo evidenziano l'incremento di traffico sul corridoio ferroviario Madrid-Sud e le richieste di ammodernamento dei sistemi di sicurezza.",
   "z609d73f7": "L'analisi evidenzia le criticità strutturali e i ritardi della Repubblica Ceca nel raggiungere gli standard di difesa richiesti dall'Alleanza Atlantica.",
   "z477befc3": "La testata focalizza l'attenzione sulla straordinaria prestazione individuale che segna l'inizio della carriera del giovane atleta.",
   "zca36c918": "La notizia sottolinea la decisione giudiziaria che blocca un importante appalto statale per irregolarità procedurali governative.",
@@ -8732,7 +9176,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "ze83393ed": "Medical Xpress evidenzia l'innovazione tecnologica nel campo della microchirurgia oculare grazie a strumenti diagnostici avanzati.",
   "zced32c99": "RTP evidenzia l'accordo economico internazionale per la compravendita della compagnia assicurativa GamaLife.",
   "z62115d7d": "Il Post evidenzia il confronto politico e culturale sulle dinamiche di accettazione dei verdetti elettorali da parte dei leader.",
-  "z5bed19b6": "HotNews evidenzia l'ingresso di una figura di rilievo istituzionale nel settore della sicurezza all'interno di un'azienda leader dell'intelligenza artificiale.",
   "z7c854bae": "Construction Dive evidenzia lo stanziamento di ingenti risorse pubbliche per il miglioramento della sicurezza e della mobilità ferroviaria.",
   "z60c4c21b": "Orizzonte Scuola evidenzia i dati statistici ufficiali dell'Inail sull'aumento degli incidenti e dei casi mortali nelle scuole italiane.",
   "z980ec2d2": "Medical Xpress evidenzia il progresso nella ricerca medica sulle cause genetiche delle patologie oculari.",
@@ -8799,7 +9242,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zc54ea599": "La testata evidenzia la cerimonia di premiazione dei diplomatici da parte del Presidente degli Emirati Arabi Uniti.",
   "z16a7901a": "La testata locale documenta la disputa amministrativa e fondiaria che coinvolge l'amministrazione cittadina e le attività commerciali della zona.",
   "z8d5f3753": "La testata ghanese riporta i dettagli ufficiali forniti dalle autorità locali in merito al traffico illecito di esplosivi lungo la frontiera.",
-  "z34e5ff7c": "Il quotidiano tedesco evidenzia la strategia diplomatica comune tra Berlino e Kyiv per non essere emarginati dalle iniziative di pace promosse da Washington.",
   "z59457977": "Il quotidiano spagnolo analizza la risposta legale dell'esecutivo alle richieste di blocco delle misure cautelari legate alla controversa legge sulla nazionalità.",
   "z60d8c156": "Il portale senegalese sottolinea il rafforzamento della cooperazione energetica e logistica tra i due Stati confinanti nel Sahel.",
   "z430d2a01": "La testata online segue da vicino gli sviluppi della sicurezza interna e i disagi operativi subiti dai media di Stato guineani.",
@@ -8850,7 +9292,25 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zdd53d9ff": "La testata monitora le tensioni istituzionali e giudiziarie all'interno del sistema politico polacco.",
   "z9ebb83c4": "Il giornale analizza le criticità economiche del sistema sanitario e l'impatto sui piani di assistenza.",
   "z1f27a2af": "La testata segue le dinamiche di governance e le decisioni delle federazioni sportive internazionali.",
-  "z99c3b981": "La testata rende omaggio alla figura storica della militanza e dei diritti civili in Sudafrica."
+  "z99c3b981": "La testata rende omaggio alla figura storica della militanza e dei diritti civili in Sudafrica.",
+  "z34509313": "la Repubblica sottolinea lo stato di shock del portiere e le possibili conseguenze penali legate agli insulti online.",
+  "zca5be6f3": "la Repubblica mette in luce le stime del sindacato e le criticità relative ai costi dei Pip e alla portabilità.",
+  "z39e6df3d": "NPR evidenzia l'impatto positivo ma effimero della tregua sulla vita quotidiana dei residenti.",
+  "z33f6fec1": "NPR si concentra sulle tipologie di competizione elettorale determinanti per interpretare i risultati del voto congressuale.",
+  "zdbcb2f17": "Clarín evidenzia l'incertezza dei distretti chiave e il possibile ribaltamento degli equilibri politici al Congresso.",
+  "z17c062a8": "la Repubblica – Esteri evidenzia la strategia del centrodestra per evitare l'esclusione al primo turno e le richieste di unione avanzate da Édouard Philippe.",
+  "z2f18076b": "NPR – Istruzione evidenzia la volontà della nuova presidenza sindacale di allontanare gli educatori dalle divisioni politiche partitiche.",
+  "z5c1ccadf": "BBC News evidenzia la necessità di interventi urgenti e le critiche sulla scarsa centralità dell'ambiente nell'agenda di governo.",
+  "z8fa9c2f2": "OndaRock sottolinea l'offerta continuativa e i contenuti d'archivio proposti dal nuovo canale di streaming dell'artista.",
+  "zb01d66d9": "Good News Network evidenzia la portata dell'impresa e la rarità del gruppo sanguigno del donatore.",
+  "z7afff587": "Il Messaggero – Roma evidenzia le date, le sedi coinvolte e la scadenza definitiva del formato cartaceo prevista per il 2027.",
+  "za2504bb9": "Anime News Network si concentra sulle piattaforme di destinazione e sulla finestra di lancio occidentale del gioco.",
+  "zbdff9a73": "Der Spiegel evidenzia la prosecuzione delle proteste studentesche e l'adesione dei docenti in diverse aree della Francia.",
+  "z9cae47f8": "L'Aiea evidenzia l'avvio della rete internazionale dedicata alla salvaguardia delle risorse idriche lacustri.",
+  "z7b91c80c": "RNZ sottolinea la ricerca di alternative agricole e le conclusioni dello studio di fattibilità dopo la chiusura dell'impianto.",
+  "zb02f6ba5": "Orizzonte Scuola evidenzia i contenuti e gli obiettivi dell'accordo istituzionale focalizzato sull'educazione finanziaria degli studenti.",
+  "zae6796fb": "Orizzonte Scuola evidenzia la pubblicazione della guida operativa dell'Ufficio Scolastico dedicata alle esenzioni dal periodo di prova.",
+  "z8fa9d120": "Orizzonte Scuola segnala la pubblicazione della guida pratica e della tabella in PDF per il calcolo del punteggio del personale ATA."
  },
  "contesti": {
   "zef1780b3": "Negli ultimi anni la Corea del Sud ha moltiplicato le intese per la fornitura di equipaggiamenti militari e centrali nucleari a partner internazionali. La Turchia ha avviato un piano di modernizzazione delle proprie infrastrutture energetiche e delle dotazioni belliche.",
@@ -8871,7 +9331,9 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zc5404fcd": "Nei giorni scorsi in Spagna si sono registrate forti polemiche politiche e sindacali riguardo allo stato delle infrastrutture di trasporto, sollevate in seguito a un recente incidente ferroviario. Le critiche si sono concentrate in particolare sulle condizioni della linea ad alta velocità tra Madrid e Siviglia, spingendo il governo a intervenire pubblicamente per rassicurare l'opinione pubblica sulla sicurezza dei collegamenti.",
   "ze30b21cf": "Nelle scorse settimane Stati Uniti, Danimarca e Groenlandia hanno lavorato alla definizione di un'intesa strategica per rafforzare la cooperazione nella regione artica. Tale percorso diplomatico ha portato alla sottoscrizione formale di un accordo di sicurezza trilaterale, sottoposto successivamente all'esame dei vari organi legislativi competenti per la ratifica e l'approvazione definitiva.",
   "z6dd473ec": "Negli ultimi anni il dibattito sul passato coloniale dell'Impero Britannico e sulle responsabilità storiche legate alla tratta degli schiavi si è intensificato in seno ai paesi membri del Commonwealth. Le richieste di risarcimento morale e materiale, avanzate da diverse nazioni partner, hanno preceduto l'importante vertice internazionale ad Antigua, ponendo al centro del confronto il tema della memoria storica.",
-  "za87b23ba": "Le indagini sul delitto di Garlasco, l'omicidio di Chiara Poggi avvenuto anni fa, hanno conosciuto nel tempo diverse fasi giudiziarie e nuove analisi investigative. La Procura di Pavia ha riesaminato gli elementi raccolti attorno alla figura di Andrea Sempio, arrivando a formulare un quadro accusatorio specifico che conduce direttamente alla richiesta formale di rinvio a giudizio."
+  "za87b23ba": "Le indagini sul delitto di Garlasco, l'omicidio di Chiara Poggi avvenuto anni fa, hanno conosciuto nel tempo diverse fasi giudiziarie e nuove analisi investigative. La Procura di Pavia ha riesaminato gli elementi raccolti attorno alla figura di Andrea Sempio, arrivando a formulare un quadro accusatorio specifico che conduce direttamente alla richiesta formale di rinvio a giudizio.",
+  "zfa0852dc": "Nei mesi scorsi, la famiglia di Daniel, un giovane svedese di 25 anni, ne aveva denunciato la scomparsa dopo averne persi i contatti. Per lungo tempo non si erano avute notizie certe sui suoi spostamenti, finché le ricerche non si sono concentrate in Italia, dove il giovane si trovava da settimane senza che i familiari ne fossero a conoscenza, vivendo all'interno dello scalo aeroportuale di Napoli Capodichino.",
+  "zd28d904b": "Nel corso delle ultime settimane, i mercati energetici internazionali hanno registrato una fase di forte instabilità e rialzo delle quotazioni della materia prima. In questo contesto, l'autorità di regolazione Arera ha monitorato l'andamento dei prezzi all'ingrosso del gas naturale, giunti a toccare quota 88,36 euro a megawattora, ponendo le basi per l'aggiornamento periodico delle tariffe riservate ai consumatori che si trovano ancora in regime di tutela."
  },
  "cronologie": {
   "zef1780b3": [
@@ -9100,6 +9562,34 @@ window.EDIZIONI["2026-11-03-sera"] = {
    [
     "Oggi",
     "La Procura chiede formalmente il rinvio a giudizio per Andrea Sempio con l'aggravante di crudeltà e odio"
+   ]
+  ],
+  "zfa0852dc": [
+   [
+    "Mesi fa",
+    "Presentazione della denuncia di scomparsa da parte dei familiari in Svezia"
+   ],
+   [
+    "Settimane scorse",
+    "Il giovane trova rifugio e vive all'interno dell'aeroporto di Napoli Capodichino"
+   ],
+   [
+    "Giorni recenti",
+    "Attivazione congiunta dell'Ambasciata di Svezia e dei servizi sociali del Comune di Napoli"
+   ]
+  ],
+  "zd28d904b": [
+   [
+    "Settimane scorse",
+    "Crescita delle tensioni sui mercati energetici internazionali e delle quotazioni del gas"
+   ],
+   [
+    "Nei giorni scorsi",
+    "Raggiungimento del prezzo della materia prima a 88,36 euro a megawattora"
+   ],
+   [
+    "Oggi",
+    "Annuncio ufficiale dell'Arera sull'aumento del 9% per i consumatori vulnerabili"
    ]
   ]
  },
@@ -9348,6 +9838,105 @@ window.EDIZIONI["2026-11-03-sera"] = {
     }
    ],
    "divergono": "Le testate concordano sui contenuti essenziali del discorso di re Carlo III ad Antigua e Barbuda e sul mancato uso di scuse formali, differenziandosi unicamente nella completezza del testo disponibile: ANSA offre il resoconto completo dell'intervento e del dibattito sulle riparazioni, mentre la Repubblica e la sua edizione esteri presentano l'articolo in forma parziale con il medesimo focus sul possibile scostamento tra la posizione del monarca e quella del governo."
+  },
+  "z6d9bf1b9": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "La testata qatariota, voce del Qatar, riferisce l'accordo dei leader dell'opposizione israeliana per sostenere Gadi Eisenkot come primo ministro. Cita cifre sui seggi parlamentari, le quattro condizioni fissate da Eisenkot e le posizioni dei vari partiti, includendo dettagli sui palestinesi d'Israele. L'articolo è puramente informativo e cronachistico.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Il quotidiano italiano riporta l'incontro del Blocco del cambiamento ad Herzliya in vista delle consultazioni per la formazione del governo, concentrandosi sul mandato a Eisenkot. Poiché il testo integrale non è disponibile, il giudizio è parziale basandosi unicamente su titolo e occhiello.",
+     "b": "t"
+    },
+    {
+     "n": "The Standard (Kenya)",
+     "c": "Nairobi",
+     "p": "XX",
+     "t": "Il quotidiano keniota tratta un raduno dell'opposizione legato alla politica interna locale in vista delle elezioni del 2027. Trattandosi di un articolo non leggibile, il giudizio è del tutto parziale ed è basato esclusivamente su titolo e occhiello.",
+     "b": "t"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La sezione esteri del quotidiano italiano riprende il vertice dei leader anti-Netanyahu ad Herzliya focalizzandosi sul candidato Eisenkot. Essendo l'articolo protetto da paywall, il giudizio risulta parziale e limitato alle informazioni del titolo e dell'occhiello.",
+     "b": "t"
+    }
+   ],
+   "divergono": ""
+  },
+  "z767ea9e2": {
+   "voci": [
+    {
+     "n": "Vatican News (inglese)",
+     "c": "Città del Vaticano",
+     "p": "XX",
+     "t": "La voce della Santa Sede presenta i dati statistici della Chiesa cattolica per Uruguay, Argentina e Perù tratti dall'Annuario Statistico. Riporta cifre su battezzati, giurisdizioni, parrocchie e personale ecclesiastico, adottando un tono descrittivo, informativo e istituzionale.",
+     "b": "a"
+    },
+    {
+     "n": "La Nación",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "Il quotidiano argentino si concentra sulla pianificazione pratica della visita del pontefice, inclusi i giorni di permanenza dal 8 all'11 novembre, i tagli stradali, le proteste e i sondaggi d'opinione sulle priorità sociali. Riporta dichiarazioni governative ed eventi culturali previsti.",
+     "b": "a"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "c": "Città del Vaticano",
+     "p": "XX",
+     "t": "La testata ufficiale vaticana descrive i dettagli organizzativi del viaggio apostolico forniti dalla Sala Stampa della Santa Sede, citando il programma, i motti ufficiali e i santi locali. Il tono è puramente informativo e volto alla promozione dell'evento pastorale.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate divergono nel focus e nelle date associate al viaggio del Papa: Vatican News (inglese) descrive un viaggio apostolico di dodici giorni complessivi tra il 6 e il 17 novembre attraverso Uruguay, Argentina e Perù, mentre La Nación circoscrive la tappa argentina specificamente dall'8 all'11 novembre 2026. Inoltre, Vatican News si concentra sulle statistiche ecclesiali e sui temi spirituali dei santi locali, mentre La Nación enfatizza ampiamente la logistica pratica locale, i decreti di ferie nazionali, i tagli del traffico e i sondaggi d'opinione sulle aspettative sociali dei cittadini argentini."
+  },
+  "z8c02cf5f": {
+   "voci": [
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "La voce della Germania (pubblica) riferisce ampiamente sui midterms come «referendum su Trump», citando i problemi di inflazione, i sondaggi bassi e l'attacco a un'installazione anti-aerea iraniana. Riporta l'arresto di un uomo in Oklahoma e i problemi ai lettori di schede a New York. L'articolo adotta un tono neutro e puramente informativo.",
+     "b": "a"
+    },
+    {
+     "n": "The New York Times",
+     "c": "New York",
+     "p": "US",
+     "t": "L'articolo è accessibile solo tramite titolo e occhiello. La testata privata statunitense indica che il presidente Trump ha ripetutamente menzionato l'Iran alla vigilia del voto. Il giudizio è parziale a causa del paywall.",
+     "b": "t"
+    },
+    {
+     "n": "The Globe and Mail",
+     "c": "Toronto",
+     "p": "XX",
+     "t": "La testata canadese privata evidenzia la rabbia per i prezzi, i dazi sulle merci canadesi e la guerra in Iran. Cita i sondaggi sull'aumento dei prezzi e il voto anticipato di oltre 57 milioni di persone. Il testo è puramente informativo e descrive le sfide nei vari stati.",
+     "b": "a"
+    },
+    {
+     "n": "The Globe and Mail",
+     "c": "Toronto",
+     "p": "XX",
+     "t": "In questo secondo articolo, la testata canadese privata si concentra sulla lotta per il controllo di Congresso e Senato come «referendum sul secondo mandato». Riporta dati sulle spese miliardarie, il calo dell'approvazione al 35% secondo l'AP-NORC e le tensioni locali. L'articolo è informativo e fattuale.",
+     "b": "a"
+    },
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "La voce del Qatar (pubblica) si limita a titolo e occhiello, descrivendo il voto come un «test ad alto rischio» che potrebbe sottrarre il controllo del Congresso ai repubblicani. Il giudizio è parziale per mancanza del testo integrale.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le testate divergono sull'enfasi data alle questioni estere e commerciali: The Globe and Mail evidenzia con forza i dazi imposti da Trump sulle merci canadesi e il ruolo anomalo del Canada nella campagna, un aspetto del tutto assente o non centrale in Deutsche Welle. Inoltre, sui sondaggi relativi all'approvazione presidenziale e sui dettagli specifici delle singole sfide locali (come i candidati in Ohio e Michigan), Deutsche Welle e The Globe and Mail offrono quadri differenti, concentrandosi su storie statali diverse (come la disputa sul voto in Alaska o le primarie in Michigan per Deutsche Welle, e i dettagli sulle spese pubblicitarie per The Globe and Mail)."
   }
  },
  "luoghi": {
@@ -9817,14 +10406,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "pt": []
   },
-  "za89b08c5": {
-   "n": "Nairobi",
-   "p": [
-    "Kenya",
-    "Tanzania"
-   ],
-   "pt": []
-  },
   "z4cfed188": {
    "n": "Maputo",
    "p": [
@@ -10216,13 +10797,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "pt": []
   },
-  "z75c109b7": {
-   "n": "Madrid",
-   "p": [
-    "Spain"
-   ],
-   "pt": []
-  },
   "z5b30db91": {
    "n": "Belém",
    "p": [
@@ -10332,13 +10906,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "n": "Mogadiscio",
    "p": [
     "Somalia"
-   ],
-   "pt": []
-  },
-  "z1f00214f": {
-   "n": "Urda",
-   "p": [
-    "Spain"
    ],
    "pt": []
   },
@@ -10477,13 +11044,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "n": "Milano",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z5bed19b6": {
-   "n": "Bucarest",
-   "p": [
-    "Romania"
    ],
    "pt": []
   },
@@ -10946,14 +11506,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    ],
    "pt": []
   },
-  "z34e5ff7c": {
-   "n": "Berlin",
-   "p": [
-    "Germany",
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z59457977": {
    "n": "Madrid",
    "p": [
@@ -11329,6 +11881,132 @@ window.EDIZIONI["2026-11-03-sera"] = {
     "South Africa"
    ],
    "pt": []
+  },
+  "z34509313": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zca5be6f3": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z39e6df3d": {
+   "n": "Kherson",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z33f6fec1": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdbcb2f17": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z17c062a8": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2f18076b": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5c1ccadf": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8fa9c2f2": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb01d66d9": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7afff587": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za2504bb9": {
+   "n": "Houston",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbdff9a73": {
+   "n": "Amburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z9cae47f8": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z7b91c80c": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zb02f6ba5": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zae6796fb": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8fa9d120": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -11372,7 +12050,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z701d4476": 1,
   "z2d3fa135": 2,
   "zaecb010c": 1,
-  "z7ab64d31": 1,
+  "z7ab64d31": 2,
   "za263807a": 1,
   "z4a9fe271": 1,
   "z6f2fb95e": 1,
@@ -11397,9 +12075,8 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z8fb2575a": 2,
   "z10188642": 1,
   "z7c97750e": 1,
-  "za89b08c5": 2,
   "z4cfed188": 1,
-  "zfa0852dc": 1,
+  "zfa0852dc": 2,
   "z18c93287": 3,
   "zd28d904b": 2,
   "zdd126523": 3,
@@ -11407,11 +12084,11 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z32346e86": 1,
   "z1944b62b": 1,
   "z49a65584": 1,
-  "zbe0a7d55": 1,
+  "zbe0a7d55": 2,
   "zcba7d8a6": 2,
   "za8d1a278": 1,
   "z6d9bf1b9": 2,
-  "z767ea9e2": 1,
+  "z767ea9e2": 2,
   "z8c02cf5f": 3,
   "z3a795282": 2,
   "z40f0ad51": 2,
@@ -11451,7 +12128,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zfcc2db4c": 1,
   "zc38bd6e9": 1,
   "z245ee58e": 1,
-  "z75c109b7": 1,
   "z5b30db91": 2,
   "zdf0a3e4b": 1,
   "zc2501b92": 2,
@@ -11468,7 +12144,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zb5757be9": 3,
   "z1ef5c3c8": 2,
   "z28640d52": 2,
-  "z1f00214f": 2,
   "z609d73f7": 1,
   "z477befc3": 1,
   "zca36c918": 1,
@@ -11488,7 +12163,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "ze83393ed": 1,
   "zced32c99": 2,
   "z62115d7d": 1,
-  "z5bed19b6": 1,
   "z7c854bae": 1,
   "z60c4c21b": 1,
   "z980ec2d2": 1,
@@ -11555,7 +12229,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zc54ea599": 1,
   "z16a7901a": 1,
   "z8d5f3753": 1,
-  "z34e5ff7c": 1,
   "z59457977": 1,
   "z60d8c156": 1,
   "z430d2a01": 1,
@@ -11565,7 +12238,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "za87b23ba": 2,
   "z57e367b7": 1,
   "ze1fefe2f": 1,
-  "z67844b79": 1,
+  "z67844b79": 2,
   "zda225a3a": 1,
   "z610b3aa3": 1,
   "za35deee5": 1,
@@ -11606,7 +12279,25 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zdd53d9ff": 1,
   "z9ebb83c4": 1,
   "z1f27a2af": 1,
-  "z99c3b981": 1
+  "z99c3b981": 1,
+  "z34509313": 1,
+  "zca5be6f3": 1,
+  "z39e6df3d": 1,
+  "z33f6fec1": 1,
+  "zdbcb2f17": 1,
+  "z17c062a8": 1,
+  "z2f18076b": 1,
+  "z5c1ccadf": 1,
+  "z8fa9c2f2": 1,
+  "zb01d66d9": 1,
+  "z7afff587": 1,
+  "za2504bb9": 1,
+  "zbdff9a73": 1,
+  "z9cae47f8": 1,
+  "z7b91c80c": 1,
+  "zb02f6ba5": 1,
+  "zae6796fb": 1,
+  "z8fa9d120": 1
  },
  "video": {},
  "pillole": []
