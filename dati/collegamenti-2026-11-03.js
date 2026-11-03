@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"za641e438":[["2026-10-16","z17de38bb","16 ott","'Klara and the Sun': la recensione del film di Taika Waititi tratto da Ishiguro"]],"zd1d000c5":[["2026-10-20-sera","zee20f5a5","20 ott","Il decimo volume delle light novel di The Iceblade Sorcerer Shall Rule the World anticipa la conclusione"]]});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {});
