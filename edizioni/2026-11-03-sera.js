@@ -213,192 +213,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z3aab856c",
-   "sez": "prima",
-   "titolo": "Stati Uniti attaccano l'isola di Qeshm mentre si svolgono le elezioni di metà mandato",
-   "orig": "Mientras Trump ataca isla en zona de Ormuz, habla de paz con Irán",
-   "lead": "Nelle stesse ore in cui oltre 250 milioni di cittadini statunitensi sono chiamati alle urne per rinnovare la Camera e un terzo del Senato nelle elezioni di metà mandato, gli Stati Uniti hanno sferrato un attacco militare contro obiettivi iraniani nell'isola di Qeshm, nello Stretto di Hormuz. L'operazione militare, confermata da fonti ufficiali a Washington, giunge in risposta al danneggiamento di un velivolo militare americano avvenuto nella regione e rischia di influenzare l'esito politico del voto.",
-   "more": [
-    "Gli attacchi statunitensi nello Stretto di Hormuz coincidono con un momento di grande rilevanza politica interna negli Stati Uniti. Le elezioni di metà mandato sono considerate un test cruciale per la presidenza Trump, potendo ridisegnare la maggioranza in entrambe le aule del Congresso."
-   ],
-   "fonti": [
-    {
-     "n": "La Jornada",
-     "p": "XX",
-     "c": "Città del Messico",
-     "u": "https://www.jornada.com.mx/2026/11/03/mundo/022n1mun?partner=rss",
-     "angolo": "",
-     "atlas": "Mexico",
-     "t": "2026-11-03T08:06+00:00"
-    },
-    {
-     "n": "La Tercera",
-     "p": "XX",
-     "c": "Santiago",
-     "u": "https://www.latercera.com/mundo/noticia/las-claves-para-entender-las-elecciones-de-medio-mandato/",
-     "angolo": "",
-     "atlas": "Chile",
-     "t": "2026-11-03T10:20+00:00"
-    },
-    {
-     "n": "El Tiempo",
-     "p": "XX",
-     "c": "Bogotá",
-     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/elecciones-de-medio-termino-en-estados-unidos-un-referendum-sobre-donald-trump-analisis-de-daniel-zovatto-3597966",
-     "angolo": "",
-     "atlas": "Colombia",
-     "t": "2026-11-03T05:01-05:00"
-    },
-    {
-     "n": "El Tiempo",
-     "p": "XX",
-     "c": "Bogotá",
-     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/elecciones-de-medio-mandato-en-ee-uu-los-democratas-favoritos-para-recuperar-el-congreso-frente-a-donald-trump-3597958",
-     "angolo": "",
-     "atlas": "Colombia",
-     "t": "2026-11-03T00:01-05:00"
-    },
-    {
-     "n": "El Tiempo",
-     "p": "XX",
-     "c": "Bogotá",
-     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/nueva-operacion-militar-de-estados-unidos-contra-iran-ataco-isla-en-el-golfo-persico-a-horas-de-las-elecciones-de-medio-termino-3598012",
-     "angolo": "",
-     "atlas": "Colombia",
-     "t": "2026-11-02T22:45-05:00"
-    },
-    {
-     "n": "El Comercio",
-     "p": "XX",
-     "c": "Lima",
-     "u": "https://elcomercio.pe/mundo/eeuu/elecciones-legislativas-de-estados-unidos-2026-abren-los-primeros-colegios-electorales-en-estados-unidos-en-una-jornada-que-marcara-la-presidencia-de-donald-trump-noticia/",
-     "angolo": "",
-     "atlas": "Peru",
-     "t": "2026-11-03T11:27+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/tv-and-radio/2026/nov/02/john-oliver-maga-james-talarico-midterms",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-02T16:25+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/videogallery/2026/11/03/midterm-il-candidato-dem-talarico-abbiamo-24-ore-per-dare-tutto-e-vincere_ad5488cd-38f4-4319-b5ab-11f920e2d9ef.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-03T11:42+01:00"
-    },
-    {
-     "n": "Der Spiegel",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.spiegel.de/ausland/midterms-usa-james-talarico-fuehrt-in-texas-und-laesst-republikaner-zittern-a-6d890f4d-113f-4e11-b760-821b39a2577b#ref=rss",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-03T12:26+01:00"
-    },
-    {
-     "n": "Il Fatto Quotidiano",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilfattoquotidiano.it/2026/11/03/midterm-texas-talarico-apre-a-trump-maga/8558812/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-03T11:21+00:00"
-    },
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/mondo/sondaggi_texas_stato_tradito_candidato_democratico_talarico_avanti_ultime_notizie-9864823.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-03T00:32+01:00"
-    },
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/us-midterm-election-how-it-works-why-it-s-important-and-races-to-watch/a-79789932",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-03T08:05+00:00"
-    },
-    {
-     "n": "CBC News",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.cbc.ca/news/world/midterm-races-to-watch-senate-house-9.7395306?cmp=rss",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-10-27T12:00-04:00"
-    },
-    {
-     "n": "The Lancet",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02187-2/fulltext?rss=yes",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-10-31T00:00+00:00"
-    },
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/us/2026/1103/1597714-us-midterms-elections/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-11-03T03:01+00:00"
-    },
-    {
-     "n": "Dawn",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://www.dawn.com/news/2041758/polls-open-on-us-east-coast-in-midterm-elections-that-could-weaken-trumps-hold-on-washington",
-     "angolo": "",
-     "atlas": "Pakistan",
-     "t": "2026-11-03T16:21+05:00"
-    },
-    {
-     "n": "BBC Newsround",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/newsround/videos/ckjwex05p29xo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-03T06:44+00:00"
-    },
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-03T06:00-05:00"
-    },
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-03T10:40+00:00"
-    }
-   ],
-   "data": "3 nov",
-   "ora": "12:49",
-   "uscita": "13"
-  },
-  {
    "id": "zef1780b3",
    "sez": "mondo",
    "titolo": "Corea del Sud e Turchia rafforzano la cooperazione sul nucleare e sulla difesa",
@@ -715,7 +529,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "z274b99f0",
-   "sez": "ingegneria",
+   "sez": "mondo",
    "titolo": "La Corea del Sud fonda un'agenzia militare per lo sviluppo di droni",
    "orig": "Seoul launches new drone development agency to counter North Korean advances",
    "lead": "Il governo della Corea del Sud ha istituito la nuova Agenzia per i Droni di Difesa con l'obiettivo di guidare la progettazione e l'impiego dei velivoli senza pilota e dei sistemi anti-drone militari. La struttura sostituisce il precedente Comando Operazioni Droni ed è stata creata a pochi giorni di distanza dalla partecipazione del leader nordcoreano Kim Jong Un a un'esposizione tecnologica di droni a Pyongyang, che ha evidenziato le crescenti capacità aeree della Corea del Nord.",
@@ -1296,7 +1110,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "z40b86f72",
-   "sez": "cultura",
+   "sez": "manga",
    "titolo": "Prosegue la pubblicazione di Gaston Lagaffe tra le polemiche della figlia del creatore",
    "orig": "Gaston Lagaffe continua, ma la figlia del suo autore è contraria",
    "lead": "Il celebre personaggio dei fumetti Gaston Lagaffe continua a essere pubblicato con un secondo album realizzato dagli autori Delaf e Lewis Trondheim, scatenando tuttavia la ferma opposizione della figlia del suo creatore originale. La vicenda riapre il dibattito legale ed etico sul diritto morale dell'autore, sulla gestione della casa editrice Dupuis e sulle decisioni dell'arbitrato tenutosi nel 2023. La controversia evidenzia lo scontro tra la tutela della volontà patrimoniale e artistica degli eredi e il proseguimento della serie editoriale. Lo riferisce Fumettologica.",
@@ -1606,7 +1420,7 @@ window.EDIZIONI["2026-11-03-sera"] = {
   },
   {
    "id": "za263807a",
-   "sez": "italia",
+   "sez": "musica",
    "titolo": "L'Auditorium di Roma trasmette in filodiffusione il nuovo album dal vivo di Keith Jarrett",
    "orig": "Ascolto in filodiffusione negli spazi esterni dell'Auditorium di Roma, ecco il nuovo album di Keith Jarrett",
    "lead": "In occasione della pubblicazione del nuovo album dal vivo intitolato \"Roma\" del pianista Keith Jarrett, prevista per il 6 novembre con l'etichetta ECM Records, gli spazi esterni dell'Auditorium Parco della Musica Ennio Morricone ospiteranno l'ascolto in filodiffusione dell'opera. La Fondazione propone l'iniziativa per permettere al pubblico e ai visitatori del complesso di ascoltare in anteprima le registrazioni dello storico concerto tenuto dal musicista statunitense nella capitale. Lo riferisce Il Messaggero – Roma.",
@@ -2616,7 +2430,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zdbebcfa6": "Deutsche Welle metti al centro la sicurezza europea e la proposta di legge tedesca sui reati sessuali.",
   "z4c765b2b": "NPR pone l'attenzione sulla fragilità dei sistemi di refrigerazione industriale di fronte ai cyberattacchi.",
   "z8334a355": "NPR sottolinea l'avvio delle operazioni di voto e l'importanza dei primi dati in arrivo da Kentucky e Indiana.",
-  "z3aab856c": "La Jornada mette in risalto il contrasto tra i raid militari statunitensi nel Golfo Persico e le aperture di facciata al dialogo.",
   "zef1780b3": "Yonhap risalta l'accordo tra i presidenti Lee ed Erdogan sui settori strategici del nucleare e degli armamenti.",
   "z1be92266": "RTP sottolinea l'addio del tecnico portoghese dopo le sconfitte interne subite in Championship.",
   "z7e28ee3a": "Al Jazeera risalta il tentativo di Reddit e degli attivisti di far annullare la legge dinanzi alla massima corte australiana.",
@@ -2684,7 +2497,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z4cfed188": "Club of Mozambique analizza le iniziative a sostegno dell'imprenditoria femminile e della crescita economica in Africa."
  },
  "contesti": {
-  "z3aab856c": "Nelle ultime settimane le tensioni nel Golfo Persico si sono inasprite con attacchi aerei e marittimi scambiati tra forze statunitensi e iraniane. Parallelamente, la campagna elettorale per il Congresso americano si è svolta tra forti polarizzazioni sulla politica estera ed economica.",
   "zef1780b3": "Negli ultimi anni la Corea del Sud ha moltiplicato le intese per la fornitura di equipaggiamenti militari e centrali nucleari a partner internazionali. La Turchia ha avviato un piano di modernizzazione delle proprie infrastrutture energetiche e delle dotazioni belliche.",
   "z1be92266": "Nella stagione precedente il West Ham era retrocesso dalla Premier League, ma la dirigenza aveva inizialmente confermato Nuno Espírito Santo in panchina. L'avvio deludente nel nuovo campionato ha però incrinato la fiducia della società nella gestione del tecnico.",
   "z7e28ee3a": "Negli scorsi mesi il parlamento di Canberra aveva approvato con procedura d'urgenza la legge restrittiva per i minori. Piattaforme tecnologiche e attivisti per i diritti digitali avevano subito annunciato battaglie legali per contrastare l'entrata in vigore del provvedimento.",
@@ -2692,16 +2504,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "z9495de90": "Negli ultimi mesi, i rapporti commerciali tra Regno Unito e Unione Europea sono stati caratterizzati da complesse procedure burocratiche per i prodotti agroalimentari introdotte dopo la Brexit. Le continue consultazioni tra Londra e Bruxelles hanno cercato di ridurre l'impatto di tali controlli sui costi e sulle catene di distribuzione. Nelle settimane recenti, i negoziatori delle due parti hanno intensificato i colloqui in vista dell'imminente vertice bilaterale, arrivando a definire una bozza d'intesa congiunta."
  },
  "cronologie": {
-  "z3aab856c": [
-   [
-    "3 novembre 2026",
-    "L'aviazione e i droni statunitensi colpiscono postazioni militari sull'isola di Qeshm."
-   ],
-   [
-    "4 novembre 2026",
-    "Si aprono i seggi negli Stati Uniti per le elezioni legislative di metà mandato."
-   ]
-  ],
   "zef1780b3": [
    [
     "3 novembre 2026",
@@ -2773,32 +2575,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
     }
    ],
    "divergono": "Le testate divergono significativamente sui tempi e sulle motivazioni del processo. BBC News presenta l'accordo come imminente, legato a un summit di novembre, mentre The Guardian svela un rinvio dell'attuazione al primo trimestre del 2028 dovuto alla necessità di allineare le legislazioni sui fungicidi. RTÉ News mette in primo piano la centralità del mercato irlandese e il superamento della linea di confine marittima, aspetto trattato con cautela da The Guardian, che riporta lo scetticismo dei partiti nordirlandesi DUP e UUP sulla reale efficacia della riduzione dei controlli."
-  },
-  "z3aab856c": {
-   "voci": [
-    {
-     "n": "La Jornada",
-     "c": "Città del Messico",
-     "p": "XX",
-     "t": "Giudizio parziale. La testata riporta attacchi statunitensi contro obiettivi iraniani nello stretto di Ormuz. Cita fonti del Wall Street Journal e AP, evidenziando il contrasto tra l'operazione militare e le dichiarazioni di \"pace con l'Irán\" rilasciate dal presidente Trump.",
-     "b": "t"
-    },
-    {
-     "n": "La Tercera",
-     "c": "Santiago",
-     "p": "XX",
-     "t": "Articolo neutrale che spiega le elezioni come indicatore di gradimento per Trump. Riporta il minimo storico di approvazione al \"36,7%\" e cita l'inflazione causata dalla guerra contro l'Iran iniziata a febbraio. Menziona fonti come Silver Bulletin, CBS e il vicepresidente JD Vance.",
-     "b": "a"
-    },
-    {
-     "n": "El Tiempo",
-     "c": "Bogotá",
-     "p": "XX",
-     "t": "Giudizio parziale. Il primo titolo definisce le elezioni un \"referendum\" su Donald Trump; il secondo indica i democratici come favoriti; il terzo riporta una \"operazione militare\" contro un'isola iraniana a poche ore dal voto. Testo non leggibile causa restrizioni della testata.",
-     "b": "a"
-    }
-   ],
-   "divergono": "Le testate presentano prospettive diverse sull'urgenza e sul contesto del conflitto. La Tercera inquadra le tensioni come una guerra già avviata a febbraio, indicandola tra le cause dell'inflazione che pesa sulle elezioni. Al contrario, La Jornada e i titoli di El Tiempo presentano l'attacco all'isola di Qeshm come un evento bellico improvviso e concomitante con l'apertura delle urne. Inoltre, mentre La Tercera si concentra sui dati statistici di disapprovazione di Trump (60%), i titoli di El Tiempo puntano sulla natura referendaria del voto e sul favoritismo dei democratici."
   },
   "z7e28ee3a": {
    "voci": [
@@ -2895,13 +2671,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
    "n": "Washington",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z3aab856c": {
-   "n": "Qeshm Island",
-   "p": [
-    "Iran"
    ],
    "pt": []
   },
@@ -3382,7 +3151,6 @@ window.EDIZIONI["2026-11-03-sera"] = {
   "zdbebcfa6": 1,
   "z4c765b2b": 1,
   "z8334a355": 1,
-  "z3aab856c": 3,
   "zef1780b3": 1,
   "z1be92266": 1,
   "z7e28ee3a": 3,
