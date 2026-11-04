@@ -3,6 +3,1035 @@ window.EDIZIONI["2026-11-04-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zbf86e7d6",
+   "sez": "mondo",
+   "titolo": "Germania, arrestato un terzo cittadino turco per il rogo alla stazione Starlink",
+   "orig": "Another Turkish suspect arrested in Germany over fire at Polish Starlink station",
+   "lead": "Un cittadino turco è stato arrestato a Reutlingen, in Germania, nell'ambito delle indagini sull'incendio doloso di una stazione Starlink in Polonia avvenuto a settembre. Si tratta del terzo sospettato di nazionalità turca fermato dalle autorità tedesche in relazione a questo caso nelle ultime tre settimane. Lo riferisce Turkish Minute.",
+   "more": [
+    "Starlink, gestita da SpaceX, fornisce connettività satellitare globale ed è diventata un'infrastruttura critica in vari scenari di conflitto, rendendo le sue installazioni terrestri potenziali obiettivi di sabotaggio internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/04/another-turkish-suspect-arrested-in-germany-over-fire-at-polish-starlink-station/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-04T15:35+00:00"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/chennai/youth-arrested-for-pelting-train-with-stones-near-vyasarpadi-station/article71665238.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-05T00:17+05:30"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4c262e83",
+   "sez": "mondo",
+   "titolo": "USA, Trump ammette l'impatto negativo della guerra in Iran sul voto di midterm",
+   "orig": "Trump says Republicans harmed by Iran war, inability to ‘transfer the love’ for him",
+   "lead": "Il presidente Donald Trump ha ammesso mercoledì che la guerra in Iran ha pesato sulle perdite dei Repubblicani nelle elezioni di metà mandato negli Stati Uniti. Nonostante la perdita del controllo del Congresso, Trump ha difeso la scelta bellica definendola comunque meritevole, pur riconoscendo l'incapacità di trasferire il consenso personale al partito.",
+   "more": [
+    "Le elezioni di metà mandato negli Stati Uniti determinano la composizione del Congresso e sono spesso considerate un referendum sull'operato del presidente, influenzando la capacità legislativa dell'amministrazione per i restanti due anni di mandato."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-04-trump-says-republicans-harmed-by-iran-war-inability-to-transfer-the-love-for-him/",
+     "angolo": "",
+     "atlas": "South Africa"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/middle-east/trump-says-republicans-harmed-by-iran-war-inability-to-transfer-the-love-for-him",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-05T02:37+08:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0599c226",
+   "sez": "mondo",
+   "titolo": "Gabon, ultimatum dell'Assemblea Nazionale ai deputati ex ministri",
+   "orig": "Retour à l’Assemblée nationale : le PAN fixe un ultimatum aux députés anciens ministres",
+   "lead": "A Libreville, il presidente dell'Assemblea Nazionale del Gabon ha lanciato un ultimatum ai deputati che hanno ricoperto incarichi ministeriali affinché tornino a esercitare il loro mandato parlamentare. L'avviso è giunto durante una sessione dedicata al controllo dell'operato del governo Oligui III e alla presentazione dei rapporti finanziari della Corte dei conti.",
+   "more": [
+    "Il Gabon sta attraversando una fase di transizione politica dopo il colpo di Stato del 2023. La riorganizzazione delle istituzioni e il ritorno alla piena funzionalità del parlamento sono passi centrali nel processo di normalizzazione democratica avviato dai militari."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/retour-a-lassemblee-nationale-le-pan-fixe-un-ultimatum-aux-deputes-anciens-ministres/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-04T13:43+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/economie/budget-2027-a-lassemblee-nationale-le-rejet-attendu-dune-copie-budgetaire-distordue-et-perimee-20261104_D42ACMWWHBBZ5C45PUSPCKO6LI/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-04T17:57+00:00"
+    },
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/finances-publiques-la-cour-des-comptes-remet-ses-rapports-2025-a-lassemblee-nationale/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-04T12:07+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf99ce94d",
+   "sez": "mondo",
+   "titolo": "Colombia, incertezze sugli aiuti USA dopo la vittoria dei Democratici",
+   "orig": "Los nuevos congresistas que llegarían a supervisar la asistencia exterior de EE. UU. a Colombia tras victoria demócrata, ¿cómo cambia el panorama?",
+   "lead": "La vittoria dei Democratici alle elezioni di metà mandato negli Stati Uniti aprirà una nuova fase nella supervisione dell'assistenza estera verso la Colombia. Da gennaio, i comitati bilaterali saranno guidati da legislatori con priorità differenti, prefigurando un cambiamento nei rapporti tra Washington e Bogotà sotto un governo federale diviso.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/los-nuevos-congresistas-que-llegarian-a-supervisar-la-asistencia-exterior-de-ee-uu-a-colombia-tras-victoria-democrata-como-cambia-el-panorama-3598337",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-04T11:22-05:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mag/usa/local-us/la-victoria-democrata-configura-un-gobierno-dividido-y-abre-una-nueva-etapa-en-washington-nnda-nnrt-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-04T18:51+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8f207575",
+   "sez": "economia",
+   "titolo": "Guinea, calo dei ricavi dall'export di bauxite nonostante l'alta produzione",
+   "orig": "Baisse des recettes d’exportation de la bauxite : les explications de l’honorable Mohamed Nabé",
+   "lead": "La Guinea, tra i leader mondiali nella produzione di bauxite, registra un calo nelle entrate fiscali derivanti dalle esportazioni del minerale nonostante gli elevati volumi estratti. Le autorità sono state interrogate per chiarire perché il Paese non stia beneficiando pienamente della sua posizione strategica nel mercato estrattivo internazionale.",
+   "more": [
+    "La bauxite è la principale materia prima per la produzione di alluminio. Per nazioni come la Guinea, la gestione delle rendite minerarie è cruciale per lo sviluppo economico, ma spesso sconta problemi di trasparenza e fluttuazioni dei prezzi."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/baisse-des-recettes-dexportation-de-la-bauxite-les-explications-de-lhonorable-mohamed-nabe/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-04T15:29+00:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/economie-les-recettes-dexportation-de-la-zone-franche-reculent-de-103-au-cours-du-troisieme-trimestre-2026",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-11-04T16:34+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb324afc4",
+   "sez": "mondo",
+   "titolo": "Bolivia, il governo accusa: legami tra vertici giudiziari e narcotraffico",
+   "orig": "Oviedo sobre Mariaca y Saucedo: \"eran muy amigos, andaban juntos, vivían juntos en Sucre”",
+   "lead": "Il governo boliviano ha denunciato stretti legami tra l'ex procuratore Roger Mariaca, arrestato per narcotraffico, e il presidente del Tribunale Supremo di Giustizia, Romer Saucedo, fuggito all'estero. Le autorità sospettano che diversi complici stiano lasciando il Paese per evitare l'azione della magistratura in un caso che scuote le istituzioni.",
+   "more": [
+    "La magistratura boliviana è spesso al centro di controversie. Questo caso di presunta infiltrazione del narcotraffico nei massimi vertici rappresenta una sfida istituzionale significativa per la stabilità del sistema legale del Paese andino."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/oviedo-sobre-mariaca-y-saucedo-eran-muy-amigos-andaban-juntos-vivian-juntos-en-sucre",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-04T14:20-04:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/la-paz/ministro-gobierno-dice-saucedo-mariaca-eran-amigos-vivian-juntos-sucre_1793812556",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-04T17:15+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/la-paz/maldonado-dice-identificaron-autores-amenazas-estrella-saucedo_1793810485",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-04T16:41+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/maldonado-asegura-que-identifico-quienes-amenazaron-relaciona-mariaca/20261104135231998679.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-04T13:52-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/gobierno-asegura-que-saucedo-mariaca-eran-muy-amigos-advierte-que-muchos-complices-estan-escapando/20261104134019998678.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-04T13:40-04:00"
+    },
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/maldonado-la-huida-de-saucedo-tambien-tiene-relacion-con-el-caso-mariaca",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-04T12:35-04:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4df191f5",
+   "sez": "mondo",
+   "titolo": "Montenegro, il governo ribadisce l'obiettivo dell'adesione all'Unione Europea",
+   "orig": "Mađarska - Crna Gora",
+   "lead": "Il ministro degli Esteri del Montenegro, Ibrahimović, ha riaffermato l'impegno incrollabile del Paese nel costruire un futuro europeo e completare il percorso di adesione all'Unione Europea. Il governo si dichiara determinato a non rallentare le riforme necessarie per l'ingresso definitivo nella famiglia europea dei popoli.",
+   "more": [
+    "Il Montenegro è considerato uno dei paesi balcanici più avanzati nel processo di negoziazione per l'adesione all'UE, avendo avviato i colloqui formali nel 2012 e puntando a soddisfare i criteri richiesti entro il prossimo quinquennio."
+   ],
+   "fonti": [
+    {
+     "n": "RTCG",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://rtcg.me/tv/tvcg-2/sport/899441/madjarska---crna-gora.html",
+     "angolo": "",
+     "atlas": "Montenegro"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/politika/834838/ibrahimovic-crna-gora-gradi-evropsku-buducnost-konkretnim-rezultatima-i-odgovornom-politikom",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-04T19:14+01:00"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/chernogorian-karogh-e-em-andamaktsoutyan-paymanagiry-storagrel-2027-i-hounisin-evrahandznazhoghov/33890588.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-04T20:42+04:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0256179c",
+   "sez": "mondo",
+   "titolo": "Ucraina, Zelensky in Spagna per discutere di nuovi sistemi di difesa aerea",
+   "orig": "Zelensky lands in Spain to discuss air defense",
+   "lead": "Il presidente ucraino Volodymyr Zelensky è arrivato in Spagna mercoledì per discutere il rafforzamento della difesa aerea di Kyiv contro le aggressioni russe. Zelensky ha espresso gratitudine per il supporto già ricevuto e ha annunciato la preparazione di ulteriori passi nell'assistenza militare bilaterale per proteggere i cieli ucraini.",
+   "more": [
+    "La difesa aerea è la priorità assoluta per l'Ucraina per proteggere le infrastrutture energetiche e i centri civili dagli attacchi russi. La Spagna ha contribuito precedentemente con sistemi Hawk e missili Patriot per potenziare lo scudo ucraino."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/zelensky-lands-in-spain-to-discuss-air-defense/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-04T16:46+00:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-polytics/4181489-zelensky-arrives-in-spain.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-04T18:46+02:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/zelenski-stin-ispania-gia-synomilies-me-stoxo-tin-enisxysi-tis-oukranikis-antiaeroporikis-amynas-sto-epikentro-kai-oi-epafes-me-tis-ipa/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-04T18:58+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze4bd3d9f",
+   "sez": "economia",
+   "titolo": "Guinea, a processo l'ex governatore della Banca Centrale per il furto di 3 tonnellate d'oro",
+   "orig": "CRIEF: Lounceny Nabé affirme que les 3,135 tonnes d’or se trouvent chez Affinor",
+   "lead": "L'ex governatore della Banca Centrale della Guinea, Lounceny Nabé, è comparso davanti alla CRIEF per rispondere del presunto dirottamento di oltre tre tonnellate d'oro. Durante l'udienza, Nabé ha sostenuto che il metallo prezioso si trovi presso una società di raffinazione, respingendo le accuse di malversazione di fondi pubblici.",
+   "more": [
+    "La CRIEF è il tribunale speciale istituito in Guinea dopo il colpo di Stato per perseguire la corruzione e i crimini economici commessi da ex alti funzionari dello Stato durante le precedenti amministrazioni."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/crief-lounceny-nabe-affirme-que-les-3135-tonnes-dor-se-trouvent-chez-affinor/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-04T14:49+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/04/affaire-des-3-tonnes-dor-a-la-bcrg-lancien-gouverneur-lounceny-nabe-a-la-barre/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-04T17:25+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5956407d",
+   "sez": "mondo",
+   "titolo": "USA, vittoria storica per i giovani politici di origine africana alle midterm",
+   "orig": "The young politicians with African roots making history in the US midterms",
+   "lead": "Una nuova generazione di giovani politici con radici africane ha ottenuto vittorie storiche nelle elezioni di metà mandato negli Stati Uniti. Questi successi sono seguiti con interesse in Africa, dove vengono visti come un esempio del potenziale impatto che i giovani elettori possono avere nel rinnovare le istituzioni politiche. Lo riferisce BBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-04T16:34+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd0c5ef38",
+   "sez": "mondo",
+   "titolo": "USA, Schumer celebra il 'rinnovamento generazionale' del Senato",
+   "orig": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+   "lead": "Il leader dei Democratici al Senato, Chuck Schumer, ha salutato il cambio di controllo del Congresso come un \"rinnovamento generazionale\" voluto dagli elettori statunitensi. All'indomani del voto, Schumer ha sottolineato che i cittadini hanno espresso chiaramente le proprie priorità, affidando al partito il compito di realizzarle immediatamente. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-04T13:37-05:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc03d2153",
+   "sez": "mondo",
+   "titolo": "USA, i Democratici preparano commissioni d'inchiesta su Trump e Musk",
+   "orig": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+   "lead": "Con la riconquista della maggioranza, i Democratici pianificano una serie di indagini sull'amministrazione e sugli affari di Donald Trump. Grazie al potere di citazione, il Congresso esaminerà dossier sensibili come i file Epstein, le attività di Elon Musk, la guerra in Iran e i potenziali conflitti d'interesse presidenziali. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-04T12:38-05:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z75931d4b",
+   "sez": "mondo",
+   "titolo": "Kansas, il pastore democratico neo-eletto invoca il decoro a Washington",
+   "orig": "Kansas just elected a Democrat. His message to Washington? Be decent",
+   "lead": "Il pastore metodista che ha conquistato un seggio senatoriale tradizionalmente repubblicano in Kansas ha inviato un messaggio di decoro e unità a Washington. Il neo-eletto ha dichiarato che gli elettori cercano non solo cambiamenti politici, ma anche una riscoperta del terreno comune e della fede nel dialogo civile. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-04T11:08-05:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaa0c6752",
+   "sez": "mondo",
+   "titolo": "USA, fact-checking: smentite le narrazioni virali su frodi elettorali",
+   "orig": "Fact check: Examining viral narratives after the US midterm elections",
+   "lead": "Nonostante i significativi guadagni dei Democratici nelle elezioni di metà mandato, sui social media si sono diffuse narrazioni virali infondate riguardanti presunte frodi elettorali. Esperti e osservatori stanno verificando le affermazioni sul voto illegale, volte a minare l'integrità del processo democratico statunitense dopo lo scrutinio. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-04T18:45+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z71aadfae",
+   "sez": "mondo",
+   "titolo": "Germania, 15 anni dalla scoperta della cellula terroristica neonazista NSU",
+   "orig": "Neo-Nazi NSU attacks exposed 15 years ago",
+   "lead": "Quindici anni fa veniva scoperta l'esistenza del National Socialist Underground (NSU), il gruppo terroristico neonazista responsabile di numerosi attacchi in Germania. Nonostante le condanne, molti interrogativi rimangono aperti sulla rete di complicità e sulla reazione della società tedesca di fronte ai crimini di matrice xenofoba. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/neo-nazi-nsu-attacks-exposed-15-years-ago/a-79857781",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-04T17:16+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6d33ab0e",
+   "sez": "mondo",
+   "titolo": "Stati Uniti, i Democratici celebrano il controllo di entrambe le camere",
+   "orig": "Key moments as Democrats sweep to victories in US midterms",
+   "lead": "I Democratici celebrano in tutti gli Stati Uniti dopo una serie di vittorie che ha permesso loro di assumere il controllo di entrambe le camere del Congresso. La spazzata elettorale segna un momento di svolta politica, ridefinendo i rapporti di forza tra il potere legislativo e la Casa Bianca di Trump. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/key-moments-as-democrats-sweep-to-victories-in-us-midterms",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-04T18:13+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3bdbca4b",
+   "sez": "mondo",
+   "titolo": "Israele, la scommessa di Netanyahu su Trump vacilla dopo il voto USA",
+   "orig": "Netanyahu bet on Trump – but both lost",
+   "lead": "La sconfitta dei Repubblicani di Donald Trump nelle elezioni di metà mandato mette in difficoltà il primo ministro israeliano Benjamin Netanyahu, che aveva puntato fortemente sul legame con l'alleato statunitense. L'establishment politico israeliano valuta ora le conseguenze del rigetto degli elettori americani verso il principale partner internazionale di Israele. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-04T17:41+00:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/how-trump-and-republicans-lost-the-2026-midterm-elections-according-to-ap-voter-poll",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-04T11:19-05:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zde82a748",
+   "sez": "mondo",
+   "titolo": "Trump valuta la rimozione di Hegseth dopo la sconfitta elettorale",
+   "orig": "„CBS News“: Trumpas klausia patarėjų, ar Hegsethas turėtų likt poste po pralaimėtų rinkimų",
+   "lead": "Dopo i pesanti insuccessi dei repubblicani alle elezioni di martedì, Donald Trump ha consultato i suoi consiglieri più stretti sulla permanenza di Pete Hegseth nel ruolo di Segretario alla Difesa. Il presidente avrebbe espresso dubbi durante diverse telefonate private seguite ai risultati catastrofici per il partito. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3104790/cbs-news-trumpas-klausia-patareju-ar-hegsethas-turetu-likt-poste-po-pralaimetu-rinkimu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-04T20:53+02:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z073273e9",
+   "sez": "mondo",
+   "titolo": "Lituania, bassa affluenza per l'elezione del membro del Seimas",
+   "orig": "Renkant Seimo narį Nalšios šiaurinėje apygardoje per dvi dienas balsavo 2,37 proc. rinkėjų",
+   "lead": "La Commissione elettorale centrale ha riferito che solo il 2,37% degli elettori ha partecipato ai primi due giorni di voto anticipato per eleggere un nuovo membro del parlamento nel distretto nord di Nalšia. Le operazioni di voto proseguono per coprire il seggio vacante nell'assemblea nazionale. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3104787/renkant-seimo-nari-nalsios-siaurineje-apygardoje-per-dvi-dienas-balsavo-2-37-proc-rinkeju",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-04T20:40+02:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1901beca",
+   "sez": "mondo",
+   "titolo": "Iran, due lituane detenute da quattro settimane",
+   "orig": "Irane sulaikytos lietuvės sesuo: jei Iranas paprašytų išpirkos, sumokėčiau dabar pat",
+   "lead": "Due donne di nazionalità lituana sono detenute in Iran da ormai quattro settimane senza notizie certe sul loro rilascio. La sorella di una delle prigioniere ha dichiarato pubblicamente di essere pronta a pagare un riscatto immediato pur di riportarle in patria sane e salve. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/lituanica/aktualijos/751/3104743/irane-sulaikytos-lietuves-sesuo-jei-iranas-paprasytu-ispirkos-sumokeciau-dabar-pat",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-04T20:26+02:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z99cdc7dc",
+   "sez": "mondo",
+   "titolo": "Usa, analisti: il voto frena Trump ma non stravolge la politica",
+   "orig": "JAV kadencijos vidurio rinkimai: stabdis Trumpui, bet ne politikos kardinalus pokytis",
+   "lead": "I risultati delle elezioni di metà mandato negli Stati Uniti hanno rappresentato una battuta d'arresto per Donald Trump, riducendo i rischi a lungo termine per l'Europa e i Paesi Baltici. Tuttavia, gli esperti avvertono che i prossimi due mesi saranno caratterizzati da una forte incertezza politica. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3104670/jav-kadencijos-vidurio-rinkimai-stabdis-trumpui-bet-ne-politikos-kardinalus-pokytis",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-04T20:10+02:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2079c899",
+   "sez": "mondo",
+   "titolo": "Usa, i democratici conquistano il controllo di Camera e Senato",
+   "orig": "Democrats usher in a new era with their resounding sweep of the House and the Senate",
+   "lead": "In una vittoria schiacciante a livello nazionale, i democratici hanno estromesso i repubblicani dal controllo della Camera e del Senato. Gli elettori hanno respinto il partito del presidente, optando per un cambiamento radicale nella guida del Paese dopo anni di dominio conservatore nelle istituzioni. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/democrats-usher-in-a-new-era-with-their-resounding-sweep-of-the-house-and-the-senate",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-04T12:57-05:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "za34db711",
+   "sez": "mondo",
+   "titolo": "Usa, record storico di governatori neri eletti in una sola notte",
+   "orig": "Until the midterms, only 3 Black governors were ever elected in U.S. Tuesday saw 5 wins",
+   "lead": "Le elezioni di martedì hanno segnato un punto di svolta storico negli Stati Uniti con l'elezione di cinque governatori neri, superando il totale complessivo della storia americana precedente. Questo risultato emerge tra centinaia di votazioni per il Congresso e per le cariche statali di alto livello. Lo riferisce CBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/us-midterms-historic-results-9.7408465?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-04T12:03-05:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb02fb6f1",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, preoccupazione per il controllo democratico del Congresso",
+   "orig": "(News Focus) Democratic control of Congress could complicate S. Korea's nuclear submarines, Trump-Kim summit prospects: experts",
+   "lead": "Gli esperti avvertono che la vittoria dei democratici al Congresso degli Stati Uniti potrebbe ostacolare i progetti della Corea del Sud sui sottomarini nucleari. Il nuovo equilibrio di potere mette inoltre a rischio le prospettive di futuri vertici diplomatici tra Trump e la Corea del Nord. Lo riferisce Yonhap.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261105000200315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-05T02:16+09:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z65b9025c",
+   "sez": "mondo",
+   "titolo": "Zelensky conferisce un'onorificenza a Melania Trump",
+   "orig": "Zelenskyy awards US first lady Ukrainian civilian honour",
+   "lead": "Il presidente ucraino Volodymyr Zelenskyy ha premiato la First Lady statunitense Melania Trump con un'onorificenza civile per il suo impegno umanitario. Il riconoscimento è legato al suo contributo per garantire il cessate il fuoco che ha permesso l'evacuazione di civili da una città occupata dai russi. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/world/zelenskyy-melania-trump-honour-ukraine-ceasefire-6525091",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-05T02:33+08:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4ce9191f",
+   "sez": "tech",
+   "titolo": "Licenziati dall'intelligenza artificiale: cresce l'allarme dei lavoratori",
+   "orig": "What it's like to lose your job to AI",
+   "lead": "In Nuova Zelanda, specialisti dello sviluppo aziendale denunciano la perdita del lavoro a causa della sostituzione con sistemi di intelligenza artificiale. I professionisti colpiti definiscono la strategia aziendale come controproducente nel lungo periodo, evidenziando il rischio di un drastico impoverimento delle competenze umane nel settore. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/personal-finance/2346813/what-it-s-like-to-lose-your-job-to-ai",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-05T07:41+13:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5e30682e",
+   "sez": "mondo",
+   "titolo": "Fiji, bloccata la ratifica del trattato di sicurezza con l'Australia",
+   "orig": "Parliamentary committee puts ratification of Fiji-Australia security treaty on hold",
+   "lead": "Un comitato parlamentare delle Fiji ha sospeso la ratifica del trattato di sicurezza bilaterale con l'Australia, scatenando la delusione del primo ministro Sitiveni Rabuka. Il governo ha annunciato che cercherà percorsi alternativi per formalizzare le alleanze strategiche regionali denominate Vuvale Union e Ocean of Peace. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2349209/parliamentary-committee-puts-ratification-of-fiji-australia-security-treaty-on-hold",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-05T07:33+13:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0661c0db",
+   "sez": "mondo",
+   "titolo": "Carenza di docenti infermieri dovuta ai divari salariali",
+   "orig": "Nursing teachers blame short-staffing on better frontline pay gap",
+   "lead": "In Nuova Zelanda, i docenti di infermieristica attribuiscono la grave carenza di personale docente alle migliori retribuzioni offerte nei ruoli operativi in prima linea. La situazione sta causando un aumento delle dimensioni delle classi e rendendo insostenibile la gestione della formazione per i nuovi operatori sanitari. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/health/2347918/nursing-teachers-blame-short-staffing-on-better-frontline-pay-gap",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-05T07:20+13:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb27115cf",
+   "sez": "mondo",
+   "titolo": "Salonicco, mostra sulla stampa greca durante la guerra del 1940",
+   "orig": "Θεσσαλονίκη: Εγκαίνια της έκθεσης «Πώς κάλυψε ο Τύπος το Έπος του ’40″ στο Διοικητήριο",
+   "lead": "A Salonicco è stata inaugurata la mostra storica \"Come la stampa ha coperto l'epopea del '40\", dedicata al racconto giornalistico del conflitto italo-greco. L'esposizione presenta prime pagine originali, corrispondenze di guerra e cimeli rari che documentano i 219 giorni di resistenza nazionale contro l'invasione. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/ert3/thessaloniki-egkainia-tis-ekthesis-pos-kalypse-o-typos-to-epos-tou-40-sto-dioikitirio/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-04T18:31+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1544ba8d",
+   "sez": "mondo",
+   "titolo": "Putin conferisce l'Ordine d'Onore al leader della Transnistria",
+   "orig": "Putin awarded Krasnoselsky the Russian Federation’s Order of Honour",
+   "lead": "Il presidente russo Vladimir Putin ha insignito Vadim Krasnoselski, leader della regione separatista della Transnistria, dell'Ordine d'Onore della Federazione Russa. La cerimonia ufficiale si è svolta a Mosca, confermando lo stretto legame politico tra il Cremlino e l'amministrazione dell'enclave non riconosciuta nel territorio moldavo. Lo riferisce IPN (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/putin-awarded-krasnoselsky-the-russian-federations-order-of-honour/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-04T16:06+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3c07fb21",
+   "sez": "mondo",
+   "titolo": "Armenia, arrestato il miliardario Samvel Karapetyan",
+   "orig": "Սամվել Կարապետյանին տեղափոխել են Հակակոռուպցիոն դատարան, կալանավորելու միջնորդություն կա",
+   "lead": "Il magnate Samvel Karapetyan è stato arrestato e trasferito al tribunale anticorruzione per un presunto danno di 64,5 miliardi di dram causato alla rete elettrica nazionale. Gli inquirenti hanno richiesto la custodia cautelare per Karapetyan e altre otto persone coinvolte nell'indagine per crimini finanziari. Lo riferisce Azatutyun (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/samvel-karapetyanin-teghapokhetsin-hakakorouptsion-dataran/33890826.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-04T20:50+04:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6e2597fa",
+   "sez": "ambiente",
+   "titolo": "Fiji, l'effetto El Niño minaccia incendi e siccità",
+   "orig": "El Niño puts towns on alert",
+   "lead": "Le crescenti condizioni di El Niño hanno messo in allerta diverse città delle Fiji per l'elevato rischio di incendi boschivi e carenza idrica. Il governo ha esortato i consigli comunali a rafforzare i controlli contro i roghi illegali in vista di un prolungato periodo di siccità. Lo riferisce FBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/el-nino-puts-towns-on-alert/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-11-04T18:05+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbfb2293f",
+   "sez": "mondo",
+   "titolo": "Fiji, 33mila studenti abbandonano le borse di studio statali",
+   "orig": "Thousands drop out of government scholarships",
+   "lead": "Dal 2014, oltre 33.000 studenti sponsorizzati dal governo delle Fiji non hanno completato gli studi universitari, causando una perdita di circa 235,4 milioni di dollari in fondi pubblici. I dati sollevano seri interrogativi sulla gestione dei 1,4 miliardi di dollari investiti nel sistema delle borse di studio. Lo riferisce FBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/thousands-drop-out-of-government-scholarships/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-11-04T18:03+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaa0701c7",
+   "sez": "mondo",
+   "titolo": "L'Università del Pacifico del Sud nomina Patricia Naisara a un ruolo esecutivo",
+   "orig": "USP appoints Patricia Naisara to Executive role",
+   "lead": "L'Università del Pacifico del Sud ha nominato Patricia Naisara direttrice esecutiva per le strategie del personale. Naisara, avvocato commerciale proveniente da Westpac Fiji con esperienza in conformità aziendale, supervisionerà la pianificazione della forza lavoro e lo sviluppo dei dipendenti presso la sede di Suva, nelle Fiji. Lo riferisce FBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/usp-appoints-patricia-naisara-to-executive-role/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-11-04T18:00+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "z17e2af8e",
+   "sez": "mondo",
+   "titolo": "Mosca convoca diplomatico norvegese dopo il sequestro di una nave russa",
+   "orig": "Moscow Summons Norwegian Diplomat Over Seizure of Research Ship and State Property",
+   "lead": "La Russia ha convocato un diplomatico norvegese a Mosca per protestare contro il sequestro di una nave da ricerca e di proprietà statali ruse, avvenuto il 2 settembre in Norvegia. L'azione mira a garantire un risarcimento da 4,2 miliardi di dollari spettante all'azienda ucraina Naftogaz. Lo riferisce Moscow Times.",
+   "more": [
+    "La disputa legale è legata alla confisca di asset energetici in Crimea dopo l'occupazione russa del 2014. Naftogaz ha ottenuto sentenze favorevoli in diversi tribunali internazionali per il risarcimento dei danni subiti, portando al blocco di beni russi all'estero per garantirne il pagamento."
+   ],
+   "fonti": [
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/04/moscow-summons-norwegian-diplomat-over-seizure-of-research-ship-and-state-property-a94180",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-04T21:08+03:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb59cce80",
+   "sez": "mondo",
+   "titolo": "Mbalula accoglie con favore le difficoltà elettorali di Trump",
+   "orig": "‘He has been very nasty’: Mbalula welcomes Trump’s election setbacks",
+   "lead": "Il segretario generale dell'ANC, Fikile Mbalula, ha espresso soddisfazione per le difficoltà politiche incontrate da Donald Trump durante le elezioni di metà mandato negli Stati Uniti. Mbalula ha accusato l'ex presidente di aver tenuto un atteggiamento ostile verso il Sudafrica in merito all'accordo commerciale Agoa. Lo riferisce Mail & Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/politics/2026-11-04-he-has-been-very-nasty-mbalula-welcomes-trump-s-election-setbacks/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-04T17:16+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc74fbd3d",
+   "sez": "mondo",
+   "titolo": "Dodici milioni di elettori al voto in Sudafrica per le locali del 2026",
+   "orig": "A meagre 12 million people cast ballots as vote counting commences after 12pm",
+   "lead": "Circa dodici milioni di elettori hanno votato mercoledì per le elezioni governative locali del 2026 in Sudafrica. Secondo i dati preliminari diffusi dalla Commissione Elettorale nazionale, lo spoglio delle schede è iniziato subito dopo la chiusura dei seggi, fissata alle ore 17:00 in tutto il Paese. Lo riferisce Mail & Guardian.",
+   "more": [
+    "Il Sudafrica è una repubblica parlamentare dove le elezioni locali determinano la gestione delle municipalità e dei distretti. Il voto del 2026 rappresenta un passaggio politico delicato per misurare il consenso dei principali partiti nazionali in un contesto di forte crisi economica."
+   ],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-11-04-a-meagre-12-million-people-cast-ballots-as-vote-counting-commences-after-12pm/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-04T17:13+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze0a1639a",
+   "sez": "mondo",
+   "titolo": "Nuova generazione in corsa per il governo locale sudafricano",
+   "orig": "A new generation in the running for local government",
+   "lead": "Diversi candidati con meno di trent'anni partecipano alle elezioni governative locali del 2026 in Sudafrica, puntando a rinnovare la leadership politica nelle municipalità. I giovani aspiranti amministratori intendono affrontare direttamente le criticità legate alla fornitura dei servizi essenziali che affliggono numerose comunità del Paese. Lo riferisce Mail & Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-11-04-a-new-generation-in-the-running-for-local-government/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-04T16:20+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbabe8eba",
+   "sez": "economia",
+   "titolo": "Riforme educative in Nigeria: erogati 372 miliardi per prestiti studenteschi",
+   "orig": "Tinubu’s Education Reforms: FG disburses ₦372.62bn in student loans, trains 156,446 TVET beneficiaries",
+   "lead": "Il governo della Nigeria ha erogato circa 372 miliardi di naira in prestiti studenteschi e formato oltre 156.000 beneficiari nell'ambito delle riforme educative del presidente Tinubu. Gli interventi mirano a potenziare l'istruzione tecnica e digitalizzare il sistema per migliorare la qualità dell'insegnamento nel Paese. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/922738-tinubus-education-reforms-fg-disburses-%e2%82%a6372-62bn-in-student-loans-trains-156446-tvet-beneficiaries.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-04T17:33+00:00"
+    }
+   ],
+   "data": "4 nov",
+   "ora": "20:43",
+   "uscita": "sera"
+  },
+  {
    "id": "z2e9cb97e",
    "sez": "prima",
    "titolo": "La Svizzera rinuncia al rimborso delle spese mediche per i feriti di Crans-Montana",
@@ -159,7 +1188,7 @@ window.EDIZIONI["2026-11-04-sera"] = {
   },
   {
    "id": "zfded5905",
-   "sez": "economia",
+   "sez": "prima",
    "titolo": "Wall Street apre in rialzo dopo il voto negli Stati Uniti",
    "orig": "Wall Street apre in volata dopo le elezioni, Dj +1,95%, Nasdaq +1,31%",
    "lead": "All'apertura dei mercati finanziari dopo la giornata elettorale negli Stati Uniti, la Borsa di Wall Street ha registrato una forte corsa al rialzo, guidata dall'indice Dow Jones in salita del 1,95% e dal Nasdaq in aumento del 1,31%. Nel medesimo contesto si è verificato un marcato crollo dei titoli societari legati alla galassia aziendale di Elon Musk, con il marchio Tesla che ha ceduto il 4% in avvio. Parallelamente si è assistito a una sensibile flessione del prezzo del petrolio sulle piazze internazionali.",
@@ -188,7 +1217,9 @@ window.EDIZIONI["2026-11-04-sera"] = {
    ],
    "data": "4 nov",
    "ora": "20:15",
-   "uscita": "sera"
+   "uscita": "sera",
+   "sez_prima": "economia",
+   "riempimento": true
   },
   {
    "id": "ze81c72ff",
@@ -357,6 +1388,24 @@ window.EDIZIONI["2026-11-04-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-11-04T17:18+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/trump-habla-sobre-la-construccion-del-salon-de-baile-y-evita-el-tema-de-las-elecciones_0_XTc6byE4DP.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-04T18:50+00:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/internacional/estados-unidos/trump-reaparece-tras-las-elecciones-y-promete-construir-el-salon-de-baile-mas-bonito-de-la-casa-blanca-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-04T18:10+00:00"
     }
    ],
    "data": "4 nov",
@@ -2437,14 +3486,54 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "zc5810200": "Libya Herald evidenzia il cambio di norma che permette l'importazione di merci senza intermediazione bancaria.",
   "z54b639af": "Libya Herald evidenzia i colloqui del vertice della National Oil Corporation con le multinazionali del petrolio ad Abu Dhabi.",
   "z522e92e3": "The Citizen evidenzia l'appello delle autorità della Tanzania a preferire i prodotti industriali nazionali.",
-  "zfc0aa6d6": "The Korea Herald evidenzia l'accordo imminente per il passaggio di proprietà e la ricapitalizzazione di JoongAng Ilbo."
+  "zfc0aa6d6": "The Korea Herald evidenzia l'accordo imminente per il passaggio di proprietà e la ricapitalizzazione di JoongAng Ilbo.",
+  "zbf86e7d6": "Il quotidiano turco con sede in esilio monitora attentamente le azioni legali contro i propri cittadini in Europa.",
+  "z4c262e83": "La testata sudafricana analizza l'ammissione di Trump attraverso il dispaccio internazionale di Reuters.",
+  "z0599c226": "Il portale gabonese si focalizza sulla riorganizzazione istituzionale e sulla trasparenza dei conti pubblici durante la transizione.",
+  "zf99ce94d": "La testata colombiana analizza con preoccupazione i possibili mutamenti nelle dinamiche di finanziamento e cooperazione internazionale.",
+  "z8f207575": "I media guineani pongono l'accento sulla discrepanza tra volumi produttivi e benefici economici per lo Stato.",
+  "zb324afc4": "La stampa boliviana segue da vicino lo scandalo che coinvolge i più alti gradi della giustizia nazionale.",
+  "z4df191f5": "La stampa montenegrina sottolinea la determinazione diplomatica del Paese verso l'integrazione occidentale.",
+  "z0256179c": "Le testate ucraine enfatizzano la diplomazia militare del presidente per ottenere forniture belliche cruciali.",
+  "ze4bd3d9f": "I media guineani seguono con attenzione i procedimenti giudiziari legati alla repressione degli illeciti finanziari della precedente gestione.",
+  "z5956407d": "L'emittente britannica evidenzia il legame sociopolitico tra la diaspora africana negli USA e le aspettative dei giovani nel continente d'origine.",
+  "zd0c5ef38": "NPR riporta le prime dichiarazioni ufficiali della leadership democratica dopo la riconquista della maggioranza parlamentare.",
+  "zc03d2153": "L'analisi si sposta sugli strumenti di controllo parlamentare che la nuova maggioranza intende attivare contro l'esecutivo.",
+  "z75931d4b": "NPR pone l'accento sulla dimensione morale e trasversale di una vittoria elettorale inaspettata in uno stato conservatore.",
+  "zaa0c6752": "L'emittente tedesca analizza la disinformazione post-elettorale come minaccia alla stabilità democratica degli Stati Uniti.",
+  "z71aadfae": "Deutsche Welle ripercorre una ferita aperta nella storia recente della sicurezza interna tedesca.",
+  "z6d33ab0e": "La testata qatariota evidenzia la portata storica del successo democratico sugli equilibri di potere americani.",
+  "z3bdbca4b": "Al Jazeera analizza le ripercussioni geopolitiche del voto statunitense sugli equilibri nel Medio Oriente.",
+  "zde82a748": "La testata lituana monitora le tensioni interne all'amministrazione statunitense citando fonti di intelligence politica.",
+  "z073273e9": "LRT segue i dati sulla partecipazione democratica locale nelle elezioni suppletive parlamentari.",
+  "z1901beca": "L'emittente lituana raccoglie l'appello disperato dei familiari dei connazionali trattenuti all'estero.",
+  "z99cdc7dc": "LRT analizza le implicazioni geopolitiche del voto statunitense dal punto di vista della sicurezza europea.",
+  "z2079c899": "La testata statunitense evidenzia la portata storica dello spostamento dell'equilibrio di potere al Congresso.",
+  "za34db711": "CBC News pone l'accento sul progresso della rappresentanza etnica nelle alte cariche esecutive statali.",
+  "zb02fb6f1": "L'agenzia coreana valuta l'impatto del voto americano sulla sicurezza nazionale e sui dossier nucleari asiatici.",
+  "z65b9025c": "CNA riporta l'inedito gesto di gratitudine diplomatica ucraina verso un membro della famiglia Trump.",
+  "z4ce9191f": "RNZ esplora il lato umano dell'automazione tecnologica attraverso le testimonianze dirette dei lavoratori.",
+  "z5e30682e": "RNZ segue lo stallo diplomatico tra Fiji e Australia sulla cooperazione militare e di sicurezza.",
+  "z0661c0db": "RNZ denuncia le criticità strutturali nella formazione sanitaria neozelandese.",
+  "zb27115cf": "L'emittente greca celebra il valore della memoria storica attraverso gli archivi dell'informazione bellica.",
+  "z1544ba8d": "IPN mette in luce l'atto simbolico di Mosca nei confronti dei movimenti separatisti in Moldavia.",
+  "z3c07fb21": "Azatutyun segue l'offensiva giudiziaria armena contro la corruzione e gli oligarchi del settore energetico.",
+  "z6e2597fa": "FBC News riporta le misure d'emergenza adottate per contrastare i cambiamenti climatici stagionali nelle isole.",
+  "zbfb2293f": "FBC News evidenzia lo spreco di risorse pubbliche nel settore dell'istruzione superiore nazionale.",
+  "zaa0701c7": "Monitoraggio delle nomine di alto livello nelle istituzioni accademiche regionali.",
+  "z17e2af8e": "Cronaca delle tensioni diplomatiche e legali tra Mosca e i paesi europei.",
+  "zb59cce80": "Analisi delle posizioni politiche del partito di governo sudafricano verso gli Stati Uniti.",
+  "zc74fbd3d": "Resoconto sull'andamento delle operazioni elettorali amministrative in Sudafrica.",
+  "ze0a1639a": "Focus sul ricambio generazionale nella politica municipale sudafricana.",
+  "zbabe8eba": "Analisi dell'impatto economico delle riforme governative nel settore dell'istruzione nigeriana."
  },
  "contesti": {
   "z2e9cb97e": "Dopo il drammatico incendio avvenuto nel resort di Crans-Montana, le autorità elvetiche e quelle italiane hanno avviato complessi contatti diplomatici per gestire l'emergenza e la presa in carico dei feriti. Nei giorni precedenti, la questione del pagamento delle ingenti spese ospedaliere per i cittadini italiani ricoverati in Svizzera aveva sollevato accese discussioni tra i due Paesi, spingendo le famiglie coinvolte a chiedere un intervento diretto delle istituzioni di Roma.",
   "z4388d6e8": "Le recenti elezioni di metà mandato negli Stati Uniti sono state fortemente condizionate dall'escalation militare in Medio Oriente e dal coinvolgimento armato con l'Iran. L'impopolarità delle operazioni belliche ha provocato una dura penalizzazione elettorale per i Repubblicani, culminata nella perdita della maggioranza sia alla Camera che al Senato e nell'apertura di una profonda spaccatura politica all'interno dell'amministrazione guidata dalla Casa Bianca.",
   "z066f3a70": "In occasione della tappa romana del suo tour concertistico in Italia, Bob Dylan è stato invitato in Vaticano per un'udienza con Papa Leone XIV. I rapporti ideali tra il Pontefice e l'artista americano si erano già consolidati di recente, quando il Papa aveva menzionato i testi del cantautore nella prefazione a un libro sul disarmo, sottolineando il valore della musica nella promozione della pace nel mondo.",
   "zcf40c247": "Negli ultimi mesi la competizione politica nel Partito Democratico statunitense ha visto un forte attivismo dell'ala progressista, impegnata a mobilitare l'elettorato nelle consultazioni locali in Michigan. I sondaggi della vigilia prefiguravano una sfida incerta, ma l'intenso lavoro sui territori e il crescente consenso attorno alla figura di Abdul El-Sayed hanno progressivamente spostato gli equilibri politici, culminando in un'inaspettata e netta affermazione elettorale su scala statale.",
-  "ze1d37dc2": "Nelle ultime ore un attacco informatico di tipo ibrido ha colpito il sistema sanitario francese, manomettendo la gestione termica dei frigoriferi per le sacche di sangue. Sebbene il ministero della Salute transalpino abbia escluso conseguenze sanitarie per i pazienti, l'incursione hacker ha fatto scattare l'allerta di sicurezza nelle infrastrutture critiche europee, spingendo anche il Centro nazionale sangue italiano a potenziare i propri sistemi di difesa informatica."
+  "ze1d37dc2": "Nelle ultime ore un attacco informatico di tipo ibrido ha colpito il sistema sanitario francese, manomettendo la gestione termica dei frigoriferi per le sacche di sangue. Sebbene il ministero della Salute transalpino abbia escluso conseguenze sanitarie per i pazienti, l'incursione hacker ha fatto scattare l'allerta di sicurezza nelle infrastrutture critiche europee, spingendo anche il Centro nazionale sangue italiano a potenziare i propri sistemi di difesa informatica.",
+  "zfded5905": "Nelle settimane precedenti l'election day, i mercati internazionali hanno vissuto una fase di forte attesa e volatilità. L'incertezza sull'esito della sfida tra Donald Trump e Kamala Harris ha spinto gli investitori alla prudenza, monitorando attentamente i programmi economici dei candidati. Con la chiusura dei seggi e la progressiva definizione dei risultati, la prospettiva di una transizione chiara ha favorito un ritorno di fiducia, riflettendosi immediatamente sulle quotazioni dei principali indici azionari americani."
  },
  "cronologie": {
   "z2e9cb97e": [
@@ -2515,6 +3604,20 @@ window.EDIZIONI["2026-11-04-sera"] = {
    [
     "Oggi",
     "Udienza privata nel Palazzo Apostolico vaticano e scambio di doni con il Papa"
+   ]
+  ],
+  "zfded5905": [
+   [
+    "5 novembre",
+    "Si svolgono le elezioni presidenziali negli Stati Uniti"
+   ],
+   [
+    "6 novembre mattina",
+    "I primi dati elettorali delineano la vittoria di Donald Trump"
+   ],
+   [
+    "6 novembre pomeriggio",
+    "Wall Street apre in forte rialzo registrando record per il Dow Jones"
    ]
   ]
  },
@@ -2624,6 +3727,46 @@ window.EDIZIONI["2026-11-04-sera"] = {
     }
    ],
    "divergono": "Le testate evidenziano aspetti diversi delle affermazioni di Vance e del contesto elettorale. The Hindu e PBS NewsHour citano i dati dell'AP Voter Poll, ma The Hindu sottolinea che il costo della vita è stato decisivo più della guerra e contrappone apertamente Vance a Trump, il quale ha definito il conflitto «molto saggia». Nikkei Asia mette in rilievo le reazioni dei mercati finanziari e le difese di Trump, che ha sostenuto di non essere in scheda. Cyprus Mail è l'unica a citare fonti di Reuters per prefigurare conseguenze sulle decisioni militari e l'ipotesi di impeachment per il Segretario alla Difesa Pete Hegseth."
+  },
+  "z066f3a70": {
+   "voci": [
+    {
+     "n": "Vatican News (inglese)",
+     "c": "Città del Vaticano",
+     "p": "XX",
+     "t": "La voce della Santa Sede si focalizza sul messaggio contro il \"riarmo nucleare\" contenuto nella citazione di Dylan scelta dal Papa. Riporta lo scambio di doni e i precedenti storici del 1997 a Bologna. Il tono è celebrativo e prettamente informativo.",
+     "b": "a"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "La testata riporta un resoconto neutrale, descrivendo l'abbigliamento del cantante in \"felpa nera\". Sottolinea la nazionalità del Pontefice, definito come primo papa statunitense, e cita le sue tensioni politiche con Donald Trump riguardo alla guerra. Il resoconto è puramente informativo.",
+     "b": "a"
+    },
+    {
+     "n": "Gulf News",
+     "c": "Dubai",
+     "p": "XX",
+     "t": "L'articolo presenta una cronaca asciutta dell'incontro, definendo Dylan una leggenda del folk ricevuta dal leader dei \"cattolici nel mondo\". Menziona l'autobiografia regalata al Papa e le posizioni anti-guerra del Pontefice, fornendo un contesto informativo generale e neutrale.",
+     "b": "a"
+    },
+    {
+     "n": "Euronews",
+     "c": "Lione",
+     "p": "XX",
+     "t": "Pone l'accento sulla connessione tra \"musica, spiritualità e impegno\" sociale. Riporta i contributi di Antonio Spadaro e Andrea Monda, esaminando la fede di Dylan e citando il Papa secondo cui il \"cantare è proprio di chi ama\". Offre un approccio analitico e culturale.",
+     "b": "a"
+    },
+    {
+     "n": "Pitchfork",
+     "c": "New York",
+     "p": "US",
+     "t": "La testata statunitense adotta un approccio informale, soffermandosi sul dettaglio del \"singolo guanto\" rimosso da Dylan. Collega l'evento alla precedente visita di Patti Smith e descrive il Pontefice come uno studioso della poetica dell'artista statunitense. Il tono è analitico.",
+     "b": "a"
+    }
+   ],
+   "divergono": "The Straits Times e Gulf News evidenziano il profilo politico di Leone XIV, descrivendolo come primo papa statunitense in contrasto con Trump, dettagli assenti in Vatican News. Pitchfork e Euronews approfondiscono la conversione di Dylan al cristianesimo, elemento ignorato dalla testata vaticana. Mentre Euronews sottolinea l'impegno per la pace attraverso i testi dylaniani, Pitchfork vede in queste citazioni un modo per confermare le credenziali culturali del Pontefice. Infine, solo Pitchfork riporta il dettaglio visivo del singolo guanto rimosso dal cantante durante l'udienza, mentre Euronews è l'unica a citare i collaboratori papali Spadaro e Monda."
   }
  },
  "luoghi": {
@@ -3166,13 +4309,286 @@ window.EDIZIONI["2026-11-04-sera"] = {
     "South Korea"
    ],
    "pt": []
+  },
+  "zbf86e7d6": {
+   "n": "Reutlingen",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z4c262e83": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0599c226": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "zf99ce94d": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8f207575": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zb324afc4": {
+   "n": "Sucre",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z4df191f5": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z0256179c": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "ze4bd3d9f": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z5956407d": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zd0c5ef38": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc03d2153": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z75931d4b": {
+   "n": "Kansas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zaa0c6752": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z71aadfae": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z6d33ab0e": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3bdbca4b": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zde82a748": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z073273e9": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z1901beca": {
+   "n": "Teheran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z99cdc7dc": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2079c899": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za34db711": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb02fb6f1": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z65b9025c": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z4ce9191f": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z5e30682e": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z0661c0db": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zb27115cf": {
+   "n": "Salonicco",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z1544ba8d": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z3c07fb21": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z6e2597fa": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "zbfb2293f": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "zaa0701c7": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z17e2af8e": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zb59cce80": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zc74fbd3d": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "ze0a1639a": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zbabe8eba": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
   "z2e9cb97e": 3,
   "zcf40c247": 2,
   "ze1d37dc2": 3,
-  "zfded5905": 1,
+  "zfded5905": 2,
   "ze81c72ff": 1,
   "zaccaa0ca": 1,
   "z68af44d7": 1,
@@ -3246,7 +4662,46 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "zc5810200": 1,
   "z54b639af": 1,
   "z522e92e3": 1,
-  "zfc0aa6d6": 1
+  "zfc0aa6d6": 1,
+  "zbf86e7d6": 1,
+  "z4c262e83": 1,
+  "z0599c226": 1,
+  "zf99ce94d": 1,
+  "z8f207575": 1,
+  "zb324afc4": 1,
+  "z4df191f5": 2,
+  "z0256179c": 2,
+  "ze4bd3d9f": 1,
+  "z5956407d": 1,
+  "zd0c5ef38": 1,
+  "zc03d2153": 1,
+  "z75931d4b": 1,
+  "zaa0c6752": 1,
+  "z71aadfae": 1,
+  "z6d33ab0e": 1,
+  "z3bdbca4b": 2,
+  "zde82a748": 1,
+  "z073273e9": 1,
+  "z1901beca": 1,
+  "z99cdc7dc": 1,
+  "z2079c899": 1,
+  "za34db711": 1,
+  "zb02fb6f1": 1,
+  "z65b9025c": 1,
+  "z4ce9191f": 1,
+  "z5e30682e": 1,
+  "z0661c0db": 1,
+  "zb27115cf": 1,
+  "z1544ba8d": 1,
+  "z3c07fb21": 1,
+  "z6e2597fa": 1,
+  "zbfb2293f": 1,
+  "zaa0701c7": 1,
+  "z17e2af8e": 1,
+  "zb59cce80": 1,
+  "zc74fbd3d": 1,
+  "ze0a1639a": 1,
+  "zbabe8eba": 1
  },
  "video": {},
  "pillole": []
