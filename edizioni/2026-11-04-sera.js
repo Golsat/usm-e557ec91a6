@@ -105,30 +105,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z762197ad",
-   "sez": "mondo",
-   "titolo": "Trump è davvero un'\"anatra zoppa\" dopo aver perso entrambe le camere del Congresso?",
-   "orig": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
-   "lead": "Dopo la perdita del controllo di Camera e Senato da parte dei repubblicani alle elezioni di metà mandato, Al Jazeera si chiede se il presidente statunitense Donald Trump sia ora una \"anatra zoppa\", espressione usata per i presidenti con potere limitato nella seconda parte del mandato. Nonostante la perdita del controllo legislativo, secondo l'analisi, Trump conserva ampi poteri esecutivi che gli permettono di continuare a portare avanti la propria agenda anche senza l'appoggio del Congresso.",
-   "more": [
-    "Negli Stati Uniti un presidente viene definito \"lame duck\" quando, perso il sostegno parlamentare o vicino alla fine del mandato, fatica a far approvare le proprie leggi. Il presidente mantiene però poteri come il veto, le nomine e gli ordini esecutivi, strumenti che gli consentono di agire anche senza una maggioranza in Congresso."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-04T15:04+00:00"
-    }
-   ],
-   "data": "4 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
    "id": "zd0f96238",
    "sez": "salute",
    "titolo": "Tinto Brass, gli ultimi mesi da \"prigioniero\" a Isola Farnese tra la frana e l'appello a Mattarella",
@@ -225,75 +201,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-04T12:58+00:00"
-    }
-   ],
-   "data": "4 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z1068f7b4",
-   "sez": "mondo",
-   "titolo": "Il \"muro rosso\" repubblicano in Florida resiste all'onda blu democratica negli Stati Uniti",
-   "orig": "El muro rojo de los republicanos en Florida resiste a la ola azul demócrata en EE UU",
-   "lead": "Alle elezioni di metà mandato americane, i democratici hanno riconquistato il controllo del Congresso grazie a una vasta \"onda blu\", ma in Florida il voto repubblicano ha tenuto. Il nuovo Congresso avrà il più ampio gruppo di socialisti democratici della sua storia. Tra i risultati più significativi, la vittoria di Abdul El-Sayed, primo senatore musulmano eletto negli Stati Uniti, e il sorprendente successo di Gina Hinojosa in Texas, stato tradizionalmente repubblicano. I democratici hanno riconquistato gruppi elettorali che nel 2024 avevano votato per Trump, come giovani, ispanici e afroamericani.",
-   "more": [
-    "Le elezioni di metà mandato rinnovano l'intera Camera dei Rappresentanti e parte del Senato statunitense. Un risultato netto a favore dell'opposizione, come questa \"onda blu\" democratica, limita la capacità del presidente in carica di far approvare le proprie leggi e apre la strada a possibili indagini parlamentari sul suo operato."
-   ],
-   "fonti": [
-    {
-     "n": "14ymedio",
-     "p": "XX",
-     "c": "Madrid (in esilio)",
-     "u": "https://www.14ymedio.com/internacional/muro-rojo-republicanos-florida-resiste_1_1132801.html",
-     "angolo": "",
-     "atlas": "Cuba",
-     "t": "2026-11-04T10:45+00:00"
-    },
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-11-04T15:52+00:00"
-    },
-    {
-     "n": "El Mundo",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://www.elmundo.es/internacional/2026/11/04/6aeb4323e4d4d8fd328b4575.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-11-04T16:01+01:00"
-    },
-    {
-     "n": "El Mundo",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-11-04T12:13+01:00"
-    },
-    {
-     "n": "Clarín",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.clarin.com/estados-unidos/democratas-recuperan-apoyo-de-5-grupos-clave-que-respaldaron-a-trump-en-2024-encuesta-ap_0_YgtcgLdSuM.html",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-11-04T15:40+00:00"
-    },
-    {
-     "n": "Diario Libre",
-     "p": "XX",
-     "c": "Santo Domingo",
-     "u": "https://www.diariolibre.com/usa/actualidad/2026/11/04/elecciones-ee-uu-2026-democratas-arrebatan-el-congreso-a-trump/3710127",
-     "angolo": "",
-     "atlas": "Dominican Rep.",
-     "t": "2026-11-04T01:45+00:00"
     }
    ],
    "data": "4 nov",
@@ -1975,6 +1882,24 @@ window.EDIZIONI["2026-11-04-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-04T12:36+00:00"
+    },
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/english/2026/11/04/hungary-opens-database-of-communist-era-informer-files",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-11-04T12:30+01:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/hungary-opens-communist-era-informer-files-in-belated-reckoning-with-cold-war-past",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-04T18:42+08:00"
     }
    ],
    "data": "4 nov",
@@ -2073,37 +1998,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
      "u": "https://asia.nikkei.com/politics/indonesia-chief-of-staff-sacked-for-allegedly-wiretapping-president-prabowo",
      "angolo": "",
      "atlas": "Japan"
-    }
-   ],
-   "data": "4 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z1bea6c1a",
-   "sez": "mondo",
-   "titolo": "I leader iraniani accolgono i risultati dei midterm americani",
-   "orig": "Iranian leaders welcome US midterms, but Trump may still attack",
-   "lead": "I leader iraniani celebrano pubblicamente i risultati delle elezioni americane di midterm del 3 novembre come un netto rifiuto della politica estera bellicosa dell'amministrazione Trump verso il paese persiano e una evidente sconfitta della cosiddetta guerra all'Iran. Lo riferisce Al Jazeera.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-04T15:13+00:00"
-    },
-    {
-     "n": "CBC News",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.cbc.ca/news/world/iran-united-states-midterm-results-trump-9.7408499?cmp=rss",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-11-04T07:54-05:00"
     }
    ],
    "data": "4 nov",
@@ -2367,39 +2261,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zc6224276",
-   "sez": "mondo",
-   "titolo": "Elezioni USA: il crollo elettorale di Trump e dei repubblicani",
-   "orig": "États-Unis – Midterms du 3 novembre 2026 : la déroute républicaine ou les premières fissures de l’empire Trump (Dr Seydou Kanté)",
-   "lead": "Le elezioni di midterm americane del 3 novembre 2026 segnano una schiacciante debacle elettorale per il presidente Trump, con il controllo di entrambe le camere del Congresso che passa saldamente ai democratici secondo i risultati ufficiali finali. Lo riferisce Le Soleil.",
-   "more": [
-    "Due anni dopo il ritorno di Trump alla Casa Bianca, il presidente subisce un'inversione dei rapporti di forza così significativa da rappresentare ben più che una semplice sconfitta di metà mandato."
-   ],
-   "fonti": [
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/opinions/tribune-dexpert/etats-unis-midterms-du-3-novembre-2026-la-deroute-republicaine-ou-les-premieres-fissures-de-lempire-trump-dr-seydou-kante/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-11-04T14:38+00:00"
-    },
-    {
-     "n": "2424.mg",
-     "p": "XX",
-     "c": "Antananarivo",
-     "u": "https://www.2424.mg/etats-unis-donald-trump-refuse-dendosser-la-responsabilite-de-la-deroute-republicaine-plusieurs-minorites-signent-des-victoires-historiques",
-     "angolo": "",
-     "atlas": "Madagascar",
-     "t": "2026-11-04T09:55+00:00"
-    }
-   ],
-   "data": "4 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
    "id": "zaf06a769",
    "sez": "mondo",
    "titolo": "La squadra dell'esercito ruandese esclusa dal campionato africano dopo le sanzioni Usa",
@@ -2648,6 +2509,24 @@ window.EDIZIONI["2026-11-04-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-04T06:40+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-04T15:13+00:00"
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/iran-united-states-midterm-results-trump-9.7408499?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-04T07:54-05:00"
     }
    ],
    "data": "4 nov",
@@ -2841,6 +2720,60 @@ window.EDIZIONI["2026-11-04-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-04T04:48-05:00"
+    },
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/internacional/muro-rojo-republicanos-florida-resiste_1_1132801.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-11-04T10:45+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-04T15:52+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/internacional/2026/11/04/6aeb4323e4d4d8fd328b4575.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-04T16:01+01:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-04T12:13+01:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/democratas-recuperan-apoyo-de-5-grupos-clave-que-respaldaron-a-trump-en-2024-encuesta-ap_0_YgtcgLdSuM.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-04T15:40+00:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/usa/actualidad/2026/11/04/elecciones-ee-uu-2026-democratas-arrebatan-el-congreso-a-trump/3710127",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-11-04T01:45+00:00"
     }
    ],
    "data": "4 nov",
@@ -3948,48 +3881,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z6f2bd80e",
-   "sez": "mondo",
-   "titolo": "Cosa cambia con il Congresso Usa in mano ai democratici",
-   "orig": "Democratic takeover of US Congress: What happens next",
-   "lead": "Dopo la vittoria alle elezioni di midterm, i democratici si preparano a un'offensiva legislativa contro il presidente Donald Trump, avendo conquistato il controllo di entrambe le camere del Congresso statunitense. Il nuovo assetto dà loro il potere di contestare le politiche dell'amministrazione, avviare indagini, convocare testimoni e documenti tramite commissioni d'inchiesta, e bloccare le nomine presidenziali negli ultimi due anni del mandato di Trump. Lo riferisce Bangkok Post.",
-   "more": [
-    "Il controllo del Congresso consente alla maggioranza di insediare i presidenti delle commissioni parlamentari, strumenti chiave per le indagini politiche, oltre a poter bloccare bilanci e nomine. È una delle principali leve di contrappeso al potere presidenziale nel sistema statunitense."
-   ],
-   "fonti": [
-    {
-     "n": "Bangkok Post",
-     "p": "XX",
-     "c": "Bangkok",
-     "u": "https://www.bangkokpost.com/world/3348574/democratic-takeover-of-us-congress-what-happens-next",
-     "angolo": "",
-     "atlas": "Thailand",
-     "t": "2026-11-04T13:45+07:00"
-    },
-    {
-     "n": "NZ Herald",
-     "p": "XX",
-     "c": "Auckland",
-     "u": "https://www.nzherald.co.nz/world/democratic-takeover-of-us-congress-what-happens-next/YOIJPQ3SDNBODKYKSTJQE7PEAQ/",
-     "angolo": "",
-     "atlas": "New Zealand",
-     "t": "2026-11-04T07:35+00:00"
-    },
-    {
-     "n": "Iraqi News",
-     "p": "XX",
-     "c": "Baghdad",
-     "u": "https://www.iraqinews.com/world/democratic-takeover-of-us-congress-what-happens-next/",
-     "angolo": "",
-     "atlas": "Iraq",
-     "t": "2026-11-04T07:32+00:00"
-    }
-   ],
-   "data": "4 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "z43fce458",
    "sez": "economia",
    "titolo": "Il gruppo Ecobank conferma la crescita nei primi nove mesi del 2026",
@@ -4568,39 +4459,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zbb0bf5e9",
-   "sez": "mondo",
-   "titolo": "L'Ungheria apre i file degli informatori comunisti",
-   "orig": "Hungary opens database of communist-era informer files",
-   "lead": "L'Ungheria rende pubblici online i record di oltre 50mila informatori dell'era comunista, aprendo una finestra sulla vasta rete di spionaggio del regime di partito unico. Il governo descrive la mossa come parte di un processo di guarigione e riconciliazione con il passato della Guerra Fredda.",
-   "more": [
-    "L'Ungheria, come altri Paesi dell'Europa centrale, sta affrontando il suo passato comunista attraverso la trasparenza. La pubblicazione dei file della polizia segreta rappresenta un passo significativo verso la riconciliazione post-Guerra Fredda."
-   ],
-   "fonti": [
-    {
-     "n": "Telex English",
-     "p": "XX",
-     "c": "Budapest",
-     "u": "https://telex.hu/english/2026/11/04/hungary-opens-database-of-communist-era-informer-files",
-     "angolo": "",
-     "atlas": "Hungary",
-     "t": "2026-11-04T12:30+01:00"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/hungary-opens-communist-era-informer-files-in-belated-reckoning-with-cold-war-past",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-04T18:42+08:00"
-    }
-   ],
-   "data": "4 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "z1e766ab7",
    "sez": "mondo",
    "titolo": "Midterm Usa: sei lezioni dall'onda blu democratica",
@@ -4713,7 +4571,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "zf6b73e2e": "The Kyiv Independent riporta nel dettaglio le accuse delle agenzie anticorruzione.",
   "z748d99c5": "Hong Kong Free Press nota il tono inusualmente concessivo di Trump.",
   "z53aa4f3f": "The Guardian sottolinea l'esperienza di Parker nelle promozioni in Premier League.",
-  "z6f2bd80e": "Bangkok Post elenca gli strumenti a disposizione della nuova maggioranza democratica.",
   "z43fce458": "Lefaso.net riporta i dati finanziari diffusi dal gruppo.",
   "zed2b744f": "CNA evidenzia la prestazione di Kohli nell'apertura della serie ODI.",
   "z93b833af": "Mosaïque Guinée riporta il contenuto del decreto presidenziale.",
@@ -4728,17 +4585,14 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "zcc2fa0fa": "Turkish Minute riporta i dati di un sondaggio di un istituto filogovernativo.",
   "z5cc11c7f": "Hong Kong Free Press richiama le preoccupazioni delle organizzazioni per i diritti umani.",
   "zc7912e62": "L'ottica è quella del rafforzamento normativo per combattere un problema ambientale transnazionale.",
-  "zbb0bf5e9": "L'approccio è quello della riconciliazione storica attraverso l'apertura dei file della polizia segreta del regime comunista.",
   "z1e766ab7": "Una prospettiva analitica che va oltre la semplice cronaca dei risultati elettorali per esaminare i significati politici più ampi.",
   "zd2a86c07": "L'angolazione è quella della competizione geopolitica e della diplomazia cinese che sfrutta il vuoto creato dalle tensioni occidentali-iraniane.",
   "ze1d37dc2": "la Repubblica sottolinea la rassicurazione della ministra sull'assenza di conseguenze sanitarie.",
   "ze81c72ff": "BBC News segnala l'avvertimento di Herzog ai partiti sulle promesse non mantenibili.",
-  "z762197ad": "Al Jazeera analizza i poteri residui di Trump dopo la sconfitta legislativa.",
   "zd0f96238": "la Repubblica ricostruisce le difficoltà quotidiane vissute da Brass nell'ultimo periodo di vita.",
   "z3d67f9ed": "la Repubblica evidenzia il richiamo del Papa agli insegnamenti sociali del Concilio.",
   "zd0d1df6d": "ANSA riporta la richiesta tecnica della commissione Bilancio sulle norme da eliminare.",
   "z16ab24d0": "Deutsche Welle segnala le speranze del mondo imprenditoriale tedesco su maggiore stabilità commerciale.",
-  "z1068f7b4": "14ymedio e altre testate ispaniche descrivono l'ampiezza dell'onda blu e le sue eccezioni, come la Florida.",
   "zc5674ac1": "Le agenzie internazionali collegano l'attacco alla più ampia campagna ucraina contro la logistica russa.",
   "za2694b04": "Premium Times sottolinea l'assenza totale della Nigeria tra le categorie maschili dei premi.",
   "z45c9d6ca": "La Nación raccoglie le reazioni contrastanti di governi e leader mondiali alla sconfitta di Trump.",
@@ -4789,7 +4643,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "z7e3f14bb": "La testata riassume i principali risultati e novità emersi dal voto di metà mandato.",
   "z29876ba3": "La testata ricorda l'anniversario della saga cinematografica collegandolo all'uscita della nuova serie tv.",
   "zefe0d047": "Deutsche Welle sottolinea le implicazioni politiche e di sicurezza dell'operazione.",
-  "z1bea6c1a": "Al Jazeera evidenzia la visione iraniana come reazione critica alla politica estera americana.",
   "zb23df76f": "ERR News copre una cronaca giudiziaria di frode ai danni di un ente culturale locale.",
   "z08df6fc9": "Yonhap copre la Korean Series focalizzandosi sulla prestazione del giocatore chiave.",
   "z91be42da": "Bhutan Broadcasting Service segnala una crisi nei servizi sanitari locali.",
@@ -4797,8 +4650,7 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "zdf62734e": "Mail & Guardian analizza l'impatto economico critico delle sanzioni commerciali americane.",
   "zc19ff0b5": "Keep Talking Greece riporta una dichiarazione ufficiale sulla continuità delle relazioni greco-americane.",
   "z016a79f8": "RTP copre un'operazione di polizia giudiziaria su un presunto anello di traffico di stupefacenti.",
-  "z245814c7": "La Presse de Tunisie celebra la performance di giovani talenti locali in competizione internazionale.",
-  "zc6224276": "Le Soleil offre un'analisi critica del fallimento elettorale dell'amministrazione Trump."
+  "z245814c7": "La Presse de Tunisie celebra la performance di giovani talenti locali in competizione internazionale."
  },
  "contesti": {
   "z0b109f48": "Negli ultimi giorni le tensioni tra Stati Uniti e Iran erano salite dopo ripetuti scambi di accuse e minacce militari, con Trump che paventava un 'colpo pesante' contro Teheran. Il voto di midterm del 3 novembre ha portato a una vittoria democratica al Congresso, interpretata anche come segnale di stanchezza dell'elettorato americano verso i rischi di un conflitto con l'Iran.",
@@ -4807,7 +4659,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "z4de7da01": "Il 4 novembre l'Italia celebra la Giornata dell'Unità nazionale e delle Forze Armate, ricorrenza istituita per commemorare la fine della Prima guerra mondiale. Quest'anno la cerimonia coincide con il sessantesimo anniversario dell'alluvione dell'Arno del novembre 1966, evento per cui il presidente Mattarella si è recato a Firenze, città simbolo di quella catastrofe che causò decine di vittime e danni enormi al patrimonio artistico.",
   "z17c57d35": "Il settore ferroviario spagnolo è sotto pressione dopo l'incidente ferroviario di Urda, che ha minato la fiducia dei cittadini nel servizio AVE e messo in difficoltà il ministro dei Trasporti Óscar Puente, già oggetto di critiche per la gestione delle infrastrutture. Le polemiche politiche e mediatiche sulla sicurezza ferroviaria hanno portato alle dimissioni del ministro, spingendo Pedro Sánchez a riorganizzare rapidamente l'esecutivo.",
   "ze1d37dc2": "Negli ultimi mesi l'Europa ha registrato un'ondata crescente di attacchi informatici contro infrastrutture critiche, dagli ospedali alle reti energetiche, spesso attribuiti a gruppi legati a Stati ostili. L'Établissement Français du Sang, già colpito da un data breach nel 2025, è tornato ora nel mirino con un attacco definito 'ibrido' che ha preso di mira direttamente il sistema di conservazione del sangue donato, aumentando l'allarme sulla vulnerabilità del settore sanitario.",
-  "z1068f7b4": "Negli ultimi anni le elezioni di metà mandato erano state caratterizzate da un progressivo avvicinamento di alcuni gruppi elettorali al Partito Repubblicano, culminato nella vittoria di Trump nel 2024. Il voto di questa settimana inverte parzialmente questa tendenza, restituendo il controllo del Congresso ai democratici.",
   "zc5674ac1": "Negli ultimi mesi l'Ucraina ha intensificato gli attacchi con drone contro magazzini e centri logistici di grandi aziende russe, tra cui più volte lo stesso deposito Ozon di Adygeysk, colpito già in precedenza nel corso della campagna avviata da luglio 2026.",
   "z45c9d6ca": "Le elezioni di metà mandato di questa settimana negli Stati Uniti hanno segnato una vittoria netta dei democratici, che hanno riconquistato il controllo del Congresso dopo due anni di maggioranza repubblicana, suscitando reazioni diverse tra governi e opinioni pubbliche internazionali.",
   "z982a1500": "Donald Trump e il Partito Repubblicano avevano mantenuto il controllo del Congresso dopo le elezioni presidenziali del 2024. Nei mesi precedenti al voto di metà mandato erano circolati sondaggi che prevedevano un recupero democratico parziale, legato a temi economici come inflazione e dazi commerciali.",
@@ -4888,16 +4739,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    [
     "4 novembre 2026",
     "Sánchez affida l'interim del ministero al vicepresidente Carlos Cuerpo"
-   ]
-  ],
-  "z1068f7b4": [
-   [
-    "2026-11-03",
-    "Si vota per le elezioni di metà mandato negli Stati Uniti"
-   ],
-   [
-    "2026-11-04",
-    "I democratici riconquistano il controllo di Camera e Senato"
    ]
   ],
   "zc5674ac1": [
@@ -5515,13 +5356,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    ],
    "pt": []
   },
-  "z6f2bd80e": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z43fce458": {
    "n": "Lomé",
    "p": [
@@ -5620,13 +5454,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    ],
    "pt": []
   },
-  "zbb0bf5e9": {
-   "n": "Budapest",
-   "p": [
-    "Hungary"
-   ],
-   "pt": []
-  },
   "z1e766ab7": {
    "n": "Stati Uniti",
    "p": [
@@ -5657,13 +5484,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    ],
    "pt": []
   },
-  "z762197ad": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zd0f96238": {
    "n": "Isola Farnese",
    "p": [
@@ -5687,13 +5507,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    "n": "Germania",
    "p": [
     "Germany"
-   ],
-   "pt": []
-  },
-  "z1068f7b4": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -6039,13 +5852,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
    ],
    "pt": []
   },
-  "z1bea6c1a": {
-   "n": "Iran",
-   "p": [
-    "Iran"
-   ],
-   "pt": []
-  },
   "zb23df76f": {
    "n": "Tallinn",
    "p": [
@@ -6099,13 +5905,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
     "Tunisia"
    ],
    "pt": []
-  },
-  "zc6224276": {
-   "n": "Stati Uniti d'America",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
   }
  },
  "rilievo": {
@@ -6153,7 +5952,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "zf6b73e2e": 2,
   "z748d99c5": 2,
   "z53aa4f3f": 1,
-  "z6f2bd80e": 2,
   "z43fce458": 1,
   "zed2b744f": 1,
   "z93b833af": 1,
@@ -6168,17 +5966,14 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "zcc2fa0fa": 1,
   "z5cc11c7f": 2,
   "zc7912e62": 1,
-  "zbb0bf5e9": 1,
   "z1e766ab7": 1,
   "zd2a86c07": 1,
   "ze1d37dc2": 3,
   "ze81c72ff": 1,
-  "z762197ad": 1,
   "zd0f96238": 1,
   "z3d67f9ed": 1,
   "zd0d1df6d": 1,
   "z16ab24d0": 1,
-  "z1068f7b4": 1,
   "zc5674ac1": 2,
   "za2694b04": 2,
   "z45c9d6ca": 1,
@@ -6229,7 +6024,6 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "z7e3f14bb": 1,
   "z29876ba3": 1,
   "zefe0d047": 1,
-  "z1bea6c1a": 1,
   "zb23df76f": 1,
   "z08df6fc9": 1,
   "z91be42da": 1,
@@ -6237,8 +6031,7 @@ window.EDIZIONI["2026-11-04-sera"] = {
   "zdf62734e": 1,
   "zc19ff0b5": 1,
   "z016a79f8": 1,
-  "z245814c7": 1,
-  "zc6224276": 1
+  "z245814c7": 1
  },
  "video": {},
  "pillole": []
