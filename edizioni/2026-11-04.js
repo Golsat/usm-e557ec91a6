@@ -92,7 +92,7 @@ window.EDIZIONI["2026-11-04"] = {
   },
   {
    "id": "za703f56a",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Il Canada si unisce al boicottaggio dell'hockey su ghiaccio contro la Russia",
    "orig": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
    "lead": "Il governo canadese ha annunciato che le proprie squadre di hockey su ghiaccio non scenderanno in campo contro la Russia, aderendo a una coalizione di nazioni contrarie alla reintegrazione degli atleti russi nelle competizioni internazionali a causa del conflitto in Ucraina. La decisione impedirà ai giocatori russi di partecipare al prossimo campionato mondiale juniores. Lo riferisce The Guardian.",
@@ -829,7 +829,7 @@ window.EDIZIONI["2026-11-04"] = {
   },
   {
    "id": "z6f079a43",
-   "sez": "cultura",
+   "sez": "musica",
    "titolo": "Esce il nuovo album della cantante Sampa the Great intitolato Nu Zamrock",
    "orig": "Sampa the Great: Nu Zamrock review – a full-circle moment for a world-class act",
    "lead": "La musicista Sampa Tembo, nota come Sampa the Great, ha pubblicato il suo terzo album intitolato Nu Zamrock. L'artista, prima donna a vincere il premio dell'Associazione dell'industria discografica australiana per l'hip-hop e il rap, unisce nel nuovo disco le influenze del suo percorso tra Australia, Zambia e Botswana.",
@@ -1073,7 +1073,7 @@ window.EDIZIONI["2026-11-04"] = {
   },
   {
    "id": "zf43e5016",
-   "sez": "musica",
+   "sez": "cultura",
    "titolo": "La prefazione del libro Il dolore che resta di Rachel Aviv pubblicato in Italia da Iperborea",
    "orig": "Quello che le madri leggono nei figli",
    "lead": "La casa editrice Iperborea ha pubblicato in Italia il libro di Rachel Aviv intitolato Il dolore che resta. L'opera raccoglie storie che esplorano la complessità dei legami familiari, tra cui il diario di una madre con aspirazioni di scrittura e le vicende di Hannah Upp e Alice Munro.",
