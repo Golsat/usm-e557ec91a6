@@ -1161,7 +1161,7 @@ window.EDIZIONI["2026-11-04-sera"] = {
   },
   {
    "id": "zb97eef4a",
-   "sez": "salute",
+   "sez": "organizzazioni",
    "titolo": "Minacce biologiche legate all'IA richiedono regole internazionali, non impegni volontari",
    "orig": "AI enabled biological threats require international governance, not voluntary safeguards",
    "lead": "Il British Medical Journal sostiene che la rivelazione di Anthropic riguardo a scienziati che hanno usato o tentato di usare l'intelligenza artificiale Claude per ricerche biologiche potenzialmente utili allo sviluppo di armi biologiche non debba essere né minimizzata né esagerata. I cinque casi segnalati non dimostrano intenti malevoli né l'esistenza di un programma di armi biologiche, ma secondo la rivista la vera questione è se la governance possa tenere il passo con l'aumento delle capacità dei sistemi di IA.",
