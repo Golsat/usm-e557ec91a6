@@ -3,30 +3,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z64dd8e1b",
-   "sez": "dibattito",
-   "titolo": "Proteste in crescita in Francia, sindacati uniti contro il caro vita",
-   "orig": "French protests see numbers surge as unions join strikes over high cost of living",
-   "lead": "Giovedì i sindacati francesi hanno guidato oltre 260 manifestazioni in tutto il paese per chiedere al governo misure concrete contro il caro vita e per i salari. Secondo il ministero dell'Interno hanno partecipato circa 600.000 persone, mentre i sindacati parlano di un numero molto più alto. Le proteste sono state in gran parte pacifiche, ma a Parigi ci sono stati scontri e un liceo è stato dato alle fiamme; la capitale è stata presidiata dalle forze dell'ordine. Il governo non ha ancora risposto nel merito alle richieste dei manifestanti.",
-   "more": [
-    "Le proteste si inseriscono in un clima di tensione sociale legato all'aumento dei prezzi e al dibattito sul bilancio pubblico francese, con sindacati che da mesi chiedono misure per sostenere il potere d'acquisto dei lavoratori. Il governo, alle prese con i conti pubblici, deve bilanciare richieste sociali e vincoli di spesa."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-05T17:59+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "20:37",
-   "uscita": "sera"
-  },
-  {
    "id": "z40e4ee59",
    "sez": "sport",
    "titolo": "Addio a Jesus de Miguel, funerali a Navahermosa per l'attaccante del Tenerife",
@@ -1389,7 +1365,7 @@ window.EDIZIONI["2026-11-05-sera"] = {
   },
   {
    "id": "zd7c5153e",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Brasile, l'IBGE seleziona 27mila rilevatori temporanei per il Censimento Agropecuario",
    "orig": "IBGE abre seleção para mais de 27 mil recenseadores temporários",
    "lead": "L'Istituto Brasiliano di Geografia e Statistica (IBGE) ha avviato la selezione pubblica per assumere 27.279 rilevatori temporanei destinati al 12° Censimento Agropecuario, Forestale e Acquicolo. Le iscrizioni si apriranno il 6 novembre sul sito della Fondazione Cesgranrio e i contratti, della durata di sei mesi, copriranno tutto il territorio.",
@@ -2382,83 +2358,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-11-05T17:45+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "20:18",
-   "uscita": "sera"
-  },
-  {
-   "id": "z54532331",
-   "sez": "prima",
-   "titolo": "Crollano a Wall Street i titoli tecnologici e legati all'intelligenza artificiale",
-   "orig": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-   "lead": "I mercati finanziari statunitensi hanno registrato una forte flessione guidata dal comparto tecnologico, che ha visto crollare il valore delle azioni legate all'intelligenza artificiale e le quote di SpaceX di Elon Musk. Gli investitori stanno valutando le possibili conseguenze dell'esito elettorale di metà mandato negli Stati Uniti, temendo che la nuova composizione parlamentare possa imporre controlli più stringenti sullo sviluppo del settore dell'intelligenza artificiale e sulla costruzione di nuovi centri elaborazione dati a elevato consumo energetico.",
-   "more": [
-    "L'espansione dei modelli di intelligenza artificiale richiede enormi infrastrutture di calcolo e consumi energetici record, fattori che attirano crescenti richieste di regolamentazione ambientale e industriale. L'eventualità di controlli normativi più rigidi spinge gli investitori a ridurre l'esposizione sui titoli a più alta crescita."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-05T17:57+00:00"
-    },
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-05T17:56+00:00"
-    },
-    {
-     "n": "SVT Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.svt.se/nyheter/ekonomi/oro-for-ai-broms-sanker-wall-street",
-     "angolo": "",
-     "atlas": "Sweden",
-     "t": "2026-11-05T16:57+01:00"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-05T15:42+00:00"
-    },
-    {
-     "n": "Egypt Independent",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.egyptindependent.com/anthropic-was-founded-to-answer-to-humanity-soon-it-will-also-answer-to-wall-street/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-11-05T13:50+00:00"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-05T15:53+00:00"
-    },
-    {
-     "n": "Nikkei Asia",
-     "p": "XX",
-     "c": "Tokyo",
-     "u": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-nasdaq-tumbles-4-on-ai-regulation-fears",
-     "angolo": "",
-     "atlas": "Japan"
     }
    ],
    "data": "5 nov",
@@ -6402,39 +6301,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zd4d4a9b6",
-   "sez": "mondo",
-   "titolo": "Francia in piazza per i salari, scontri e vandalismi",
-   "orig": "Frankrijk demonstreert opnieuw voor hogere lonen, regering wil onrust voorkomen",
-   "lead": "Nuove proteste per le rivendicazioni salariali hanno paralizzato la Francia giovedì 5 novembre, con la polizia che ha caricato i manifestanti a Lione e un incendio appiccato a una scuola a Toulouse. Il governo teme un'escalation dei disordini. Lo riferisce NOS.",
-   "more": [
-    "Manifestanti hanno bloccato strade con cassonetti a Parigi e in altre città hanno protestato contro proposte di riduzione dei salari."
-   ],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2638145",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-11-05T13:57+01:00"
-    },
-    {
-     "n": "VRT NWS",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.vrt.be/vrtnws/nl/2026/11/02/meer-efficiente-zonnepanelen-spin-off-imec-uhasselt.rss.xml",
-     "angolo": "",
-     "atlas": "Belgium",
-     "t": "2026-11-05T15:59+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "17:05",
-   "uscita": "17"
-  },
-  {
    "id": "zdb42f3f6",
    "sez": "mondo",
    "titolo": "Onu lancia guida preparazione città Corno d'Africa a El Niño",
@@ -8955,7 +8821,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "zcadbdda4": "Resoconto della composizione della delegazione russa per un incontro diplomatico promosso dalla signora Trump.",
   "zdb2e1458": "Atto di rappresaglia amministrativa russo verso un'organizzazione politica georgiana di opposizione.",
   "z8ef1d7d1": "Cronaca di una visita diplomatica su sfondo di divergenze su questioni etiche e religiose tra i due alleati regionali.",
-  "zd4d4a9b6": "Copertura dei disordini pubblici in corso durante proteste nazionali su questioni economiche.",
   "zdb42f3f6": "Presentazione di un nuovo strumento di pianificazione dell'adattamento ai rischi climatici rivolto ad amministratori urbani africani.",
   "zb2a91065": "Comunicazione della lista convocati con novità e assenze rilevanti in vista di appuntamenti qualificanti.",
   "z405ec8b5": "Annuncio della leadership militare tedesca in un momento di riassetto strategico dell'esercito.",
@@ -8964,7 +8829,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "za0929b78": "Denuncia di discriminazione nell'erogazione degli aiuti umanitari nel campo profughi.",
   "zbbcd315b": "Cronaca della fase processuale su accuse di frode finanziaria nei confronti dell'imprenditore austriaco.",
   "z950e9a89": "La BBC evidenzia la rapidità con cui la Camera ha approvato l'impeachment subito dopo le dimissioni.",
-  "z54532331": "La BBC sottolinea la preoccupazione per i controlli sui data center dopo il voto.",
   "z6243a6af": "L'ANSA evidenzia la mancata partecipazione al voto di Salvini durante il Consiglio dei ministri.",
   "za97fe8ec": "L'ANSA rimarca il legame tra il provvedimento del Viminale e l'inchiesta giudiziaria di Ravenna.",
   "z620df8ec": "The Guardian definisce gli anziani come eroi silenziosi determinanti per il trionfo di Lula.",
@@ -9076,7 +8940,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z7e2d7e23": "Meduza focalizza l'attenzione sui tentativi delle aziende russe di rilevare gli asset delle multinazionali uscite dal mercato.",
   "zc24c9b07": "La testata indipendente russa contrappone le attese di Kiev sul Congresso americano alle speranze di Mosca verso Donald Trump.",
   "ze8aa6c26": "Meduza sottolinea la risposta giudiziaria delle autorità ucraine alle contestazioni pubbliche sulle forze armate.",
-  "z64dd8e1b": "Le testate internazionali sottolineano la portata nazionale delle proteste e la discrepanza tra i numeri ufficiali e quelli sindacali.",
   "z40e4ee59": "ANSA riporta la commozione e la partecipazione compatta della squadra del Tenerife ai funerali del compagno.",
   "z8ced4f7c": "The Guardian sottolinea l'ampiezza delle lacune nelle valutazioni globali sul commercio di specie selvatiche rispetto alle stime precedenti.",
   "zc48305fc": "Fumettologica si concentra sull'adattamento televisivo del fumetto e sulla data di debutto annunciata.",
@@ -9106,9 +8969,7 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z950e9a89": "Nelle settimane precedenti, le difficoltà dell'istituto digitale avevano cominciato a destare allarme tra i risparmiatori. Le opposizioni parlamentari avevano denunciato i legami opachi tra i vertici della banca e membri del governo, chiedendo chiarimenti sui depositi pubblici e minacciando l'avvio della procedura di impeachment qualora non fossero state fornite garanzie adeguate sulla salvaguardia delle finanze statali.",
   "z758b2a81": "Negli ultimi mesi l'istituto centrale britannico aveva mantenuto invariati i tassi dopo la serie di rialzi avviata contro l'ondata inflazionistica post-pandemica. Il persistere della crescita salariale e la risalita delle previsioni sui prezzi al consumo hanno spinto il comitato di politica monetaria a mutare orientamento per evitare un radicamento delle aspettative inflazionistiche.",
   "z64c9f442": "Nelle settimane precedenti, i combattimenti e le distruzioni lungo il fronte meridionale avevano intrappolato numerosi civili senza accesso ad aiuti basilari. La diplomazia statunitense ha lavorato a un canale negoziale discreto per concordare condizioni minime di sicurezza temporanea, culminate nella finestra operativa concessa a fine ottobre.",
-  "z54532331": "Nelle scorse settimane i mercati finanziari hanno vissuto una fase di attesa legata al voto per le elezioni di metà mandato negli Stati Uniti. L'esito delle urne e la nuova configurazione del Congresso hanno subito sollevato forti preoccupazioni tra gli investitori riguardo a possibili stringenti regolamentazioni per il settore dell'intelligenza artificiale e per i centri elaborazione dati, scatenando una pesante sessione di vendite che ha colpito Wall Street e colossi come SpaceX.",
   "z6243a6af": "Nelle scorse settimane la Regione Veneto ha approvato una legge regionale per definire tempi e procedure sull'accesso al fine vita, colmando un vuoto normativo in assenza di una legge statale. La decisione ha riacceso il confronto politico sul tema dell'eutanasia, fino alla riunione del Consiglio dei ministri che ha stabilito di promuovere il ricorso alla Corte costituzionale per verificare la legittimità del testo, registrando posizioni distinte all'interno della stessa maggioranza.",
-  "z64dd8e1b": "Nelle ultime settimane in Francia si sono susseguite tensioni sociali legate al costo della vita e al bilancio statale, con sindacati che avevano già annunciato mobilitazioni nazionali per chiedere interventi sui salari e sui prezzi.",
   "z760311a0": "Dopo l'elezione nel 2025, Leone XIV ha pianificato il suo primo grande viaggio apostolico intercontinentale, scegliendo l'America Latina, terra natale del predecessore Francesco. Nelle settimane precedenti Vaticano e governi locali hanno definito programmi, sicurezza e logistica, mentre in Argentina, Uruguay e Perù sono stati annunciati giorni festivi, modifiche alla viabilità e intense richieste di biglietti per le celebrazioni liturgiche pubbliche.",
   "zefa71da1": "Nelle settimane precedenti al voto di metà mandato 2026, i sondaggi avevano segnalato un calo di popolarità per l'amministrazione repubblicana, complice il malcontento economico e le tensioni interne al partito. I democratici avevano concentrato risorse e candidati competitivi in stati tradizionalmente conservatori come Ohio e Texas, puntando su temi locali e mobilitazione dell'elettorato giovanile e urbano per erodere il vantaggio repubblicano."
  },
@@ -9301,20 +9162,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    [
     "Novembre 2026",
     "Evento alla Casa Bianca per celebrare l'accordo umanitario raggiunto"
-   ]
-  ],
-  "z54532331": [
-   [
-    "Settimane scorse",
-    "Svolgimento delle elezioni di metà mandato negli Stati Uniti"
-   ],
-   [
-    "Giorni scorsi",
-    "Timori degli investitori su nuove norme restrittive per l'IA e i data center"
-   ],
-   [
-    "Oggi",
-    "Forte flessione a Wall Street con il crollo dei titoli tecnologici e delle quote di SpaceX"
    ]
   ],
   "z6243a6af": [
@@ -9653,46 +9500,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
     }
    ],
    "divergono": "Le testate coprono tappe diverse del viaggio (Argentina, Perù, Uruguay) senza sovrapporsi direttamente sui medesimi fatti. Clarín e La Nación divergono nel taglio: la prima è un semplice calendario festività, la seconda un reportage ampio con aneddoti biografici e dichiarazioni di esperti. I due articoli di El Comercio si concentrano su aspetti complementari (biglietti e viabilità) senza contraddirsi. El Observador è l'unica a sottolineare il valore storico della visita uruguaiana, assente negli altri pezzi."
-  },
-  "z54532331": {
-   "voci": [
-    {
-     "n": "BBC News",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Centra il racconto su Elon Musk, con SpaceX (-9%) e Tesla (-11%), collegando il crollo alla vittoria democratica nei midterm e allo stato del Texas. Cita l'investimento di Musk (quasi 450 milioni di dollari) e dichiarazioni di dirigenti tech come Greg Brockman (OpenAI) e Dina Powell McCormick (Meta) sulla necessità di 'comunicare meglio'.",
-     "b": "a"
-    },
-    {
-     "n": "Al Jazeera",
-     "c": "Doha",
-     "p": "QA",
-     "t": "Fornisce il quadro più dettagliato con dati su 45 iniziative elettorali locali sui data center (39 approvate restrizioni), stime UBS su un possibile rischio del 30% della capacità 2028, e cifre su Nvidia (-8,2%), Micron, CoreWeave, Nebius. Cita analisti come Michael Monaghan e Dan Ives e nota il balzo dell'oro a 4.115 dollari l'oncia.",
-     "b": "a"
-    },
-    {
-     "n": "SVT Nyheter",
-     "c": "Stoccolma",
-     "p": "XX",
-     "t": "Racconto sintetico e numerico, con percentuali di Dow Jones, S&P 500 e Nasdaq, e calo di singoli titoli (Nvidia -6,4%, Qualcomm -11,5%). Cita l'economista Maria Landeborn di Danske Bank sull'incertezza legata all'agenda democratica sui data center.",
-     "b": "a"
-    },
-    {
-     "n": "Egypt Independent",
-     "c": "Il Cairo",
-     "p": "XX",
-     "t": "Non tratta il crollo di borsa ma la struttura societaria di Anthropic in vista della sua IPO, descrivendo il modello di 'public benefit corporation' e il controllo dei fondatori tramite il Long-Term Benefit Trust, citando analisti come Gil Luria e Jay Ritter.",
-     "b": "a"
-    },
-    {
-     "n": "Financial Times",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Giudizio parziale: il testo dell'articolo non è leggibile (paywall). Dal titolo e dall'occhiello emerge solo che le borse europee (Stoxx 600) avrebbero superato Wall Street nel 2026 dopo la vittoria democratica, senza altri dettagli verificabili.",
-     "b": "t"
-    }
-   ],
-   "divergono": "BBC News e Al Jazeera concordano sulle cause (vittoria democratica, restrizioni sui data center) ma BBC enfatizza il ruolo personale di Musk, mentre Al Jazeera fornisce più contesto statistico (45 iniziative elettorali, stime UBS) e cita più fonti di mercato. SVT Nyheter riporta cifre simili ma in forma più sintetica, senza riferimenti a Musk o alle elezioni locali sui data center. Egypt Independent si distingue perché non tratta affatto il crollo dei titoli, ma la quotazione di Anthropic, un tema collegato solo indirettamente. Financial Times, essendo illeggibile, offre solo un titolo che suggerisce un sorpasso europeo, aspetto non menzionato dalle altre testate."
   },
   "z16fcea77": {
    "voci": [
@@ -10524,13 +10331,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    ],
    "pt": []
   },
-  "zd4d4a9b6": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zdb42f3f6": {
    "n": "Corno d'Africa",
    "p": [
@@ -10586,13 +10386,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "n": "Asunción",
    "p": [
     "Paraguay"
-   ],
-   "pt": []
-  },
-  "z54532331": {
-   "n": "New York",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -11377,13 +11170,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    ],
    "pt": []
   },
-  "z64dd8e1b": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z40e4ee59": {
    "n": "Navahermosa",
    "p": [
@@ -11584,7 +11370,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "zcadbdda4": 1,
   "zdb2e1458": 1,
   "z8ef1d7d1": 1,
-  "zd4d4a9b6": 1,
   "zdb42f3f6": 1,
   "zb2a91065": 1,
   "z405ec8b5": 1,
@@ -11593,7 +11378,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "za0929b78": 1,
   "zbbcd315b": 1,
   "z950e9a89": 3,
-  "z54532331": 2,
   "z6243a6af": 2,
   "za97fe8ec": 2,
   "z620df8ec": 1,
@@ -11705,7 +11489,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z7e2d7e23": 2,
   "zc24c9b07": 2,
   "ze8aa6c26": 1,
-  "z64dd8e1b": 1,
   "z40e4ee59": 1,
   "z8ced4f7c": 1,
   "zc48305fc": 1,
