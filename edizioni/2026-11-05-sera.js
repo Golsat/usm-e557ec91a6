@@ -1481,7 +1481,7 @@ window.EDIZIONI["2026-11-05-sera"] = {
   },
   {
    "id": "z643a1de9",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "La Tanzania avvia la seconda fase di registrazione per l'assicurazione sanitaria delle persone con disabilità",
    "orig": "Tanzanian begins the 2nd phase registration to provide health insurance cover to persons with disabilities",
    "lead": "Il governo tanzaniano ha avviato la seconda fase di registrazione al programma di assicurazione sanitaria universale, con l'obiettivo di estendere la copertura alle persone con disabilità e ad altri gruppi che non ne hanno ancora beneficiato. L'annuncio è stato fatto a Dodoma dal primo ministro Mwigulu Nchemba, rispondendo a domande sul programma. L'iniziativa fa parte degli sforzi del governo per garantire l'accesso alle cure sanitarie a fasce di popolazione finora escluse dal sistema assicurativo nazionale. Lo riferisce Daily News (Tanzania).",
@@ -2119,37 +2119,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z147fc41a",
-   "sez": "mondo",
-   "titolo": "Schiavitù continua a gettare ombra sui Caraibi",
-   "orig": "VIDEO: Slavery ‘still casts a shadow’ over the Caribbean",
-   "lead": "Il Re Carlo III dichiara che la tratta transatlantica di schiavi «continua a gettare un'ombra» sugli stati caraibici e altre nazioni del Commonwealth. Ghana, Trinidad e Tobago spingono per istituire un organismo congiunto Africa-Caraibi per negoziare con il Regno Unito riparazioni oltre compensazioni economiche. Lo riferiscono iWitness News e 3News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "iWitness News",
-     "p": "XX",
-     "c": "Kingstown",
-     "u": "https://www.iwnsvg.com/2026/11/05/video-slavery-still-casts-a-shadow-over-the-caribbean/",
-     "angolo": "",
-     "atlas": "St. Vin. and Gren.",
-     "t": "2026-11-05T04:52+00:00"
-    },
-    {
-     "n": "3News",
-     "p": "XX",
-     "c": "Accra",
-     "u": "https://3news.com/politics/reparations-ghana-trinidad-tobago-au-caricom-mechanism",
-     "angolo": "",
-     "atlas": "Ghana",
-     "t": "2026-11-05T10:24+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "12:37",
-   "uscita": "13"
-  },
-  {
    "id": "zb1d73f92",
    "sez": "economia",
    "titolo": "Indice belga Bel-20 raggiunge nuovo record di 6.031 punti",
@@ -2266,7 +2235,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "zdb39a9b6": "Daily News Tanzania descrive l'incontro come parte della preparazione regionale alle emergenze climatiche.",
   "zc7cc5de6": "IPN presenta la misura come una novità normativa per i dipendenti del ministero dell'Interno moldavo.",
   "zc3864a84": "Enfasi sulle capacità militari e sulla sperimentazione tecnologica della Corea del Nord",
-  "z147fc41a": "Attenzione alle conseguenze storiche della schiavitù e alle rivendicazioni di giustizia riparativa",
   "zb1d73f92": "Tono positivo sulla ripresa economica del Belgio e il raggiungimento di un milestone finanziario importante",
   "z7d541d86": "Conflitto sulla legittimità elettorale con accuse di Netanyahu contestate dagli organismi ufficiali, enfasi sul record storico di rappresentanza araba"
  },
@@ -2853,11 +2821,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    ],
    "pt": []
   },
-  "z147fc41a": {
-   "n": "Kingstown",
-   "p": [],
-   "pt": []
-  },
   "zb1d73f92": {
    "n": "Bruxelles",
    "p": [
@@ -2926,7 +2889,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "zdb39a9b6": 1,
   "zc7cc5de6": 1,
   "zc3864a84": 1,
-  "z147fc41a": 1,
   "zb1d73f92": 1,
   "z7d541d86": 1
  },
