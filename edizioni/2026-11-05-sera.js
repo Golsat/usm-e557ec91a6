@@ -3,6 +3,326 @@ window.EDIZIONI["2026-11-05-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z64dd8e1b",
+   "sez": "dibattito",
+   "titolo": "Proteste in crescita in Francia, sindacati uniti contro il caro vita",
+   "orig": "French protests see numbers surge as unions join strikes over high cost of living",
+   "lead": "Giovedì i sindacati francesi hanno guidato oltre 260 manifestazioni in tutto il paese per chiedere al governo misure concrete contro il caro vita e per i salari. Secondo il ministero dell'Interno hanno partecipato circa 600.000 persone, mentre i sindacati parlano di un numero molto più alto. Le proteste sono state in gran parte pacifiche, ma a Parigi ci sono stati scontri e un liceo è stato dato alle fiamme; la capitale è stata presidiata dalle forze dell'ordine. Il governo non ha ancora risposto nel merito alle richieste dei manifestanti.",
+   "more": [
+    "Le proteste si inseriscono in un clima di tensione sociale legato all'aumento dei prezzi e al dibattito sul bilancio pubblico francese, con sindacati che da mesi chiedono misure per sostenere il potere d'acquisto dei lavoratori. Il governo, alle prese con i conti pubblici, deve bilanciare richieste sociali e vincoli di spesa."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-05T17:59+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z40e4ee59",
+   "sez": "sport",
+   "titolo": "Addio a Jesus de Miguel, funerali a Navahermosa per l'attaccante del Tenerife",
+   "orig": "L'ultimo commosso saluto a Jesus de Miguel, funerali a Navahermosa",
+   "lead": "Alla cerimonia ha partecipato l'intera squadra per un ultimo saluto al giocatore. Lo riferisce ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/2026/11/05/lultimo-commosso-saluto-a-jesus-de-miguel-funerali-a-navahermosa_9ac3b4ac-43e8-476c-9143-c7f1fa065915.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T18:16+01:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8ced4f7c",
+   "sez": "ambiente",
+   "titolo": "Il commercio di specie selvatiche riguarda il doppio delle specie finora stimate",
+   "orig": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
+   "lead": "Un nuovo studio pubblicato su Science Advances rivela che il numero di specie animali e vegetali coinvolte nel commercio globale di fauna selvatica è più del doppio di quanto stimato in precedenza, superando le 100.000 specie. Il commercio comprende animali e piante contrabbandati illegalmente, venduti come ornamenti o utilizzati nei settori della pesca, del legname e della moda. I ricercatori avvertono che le valutazioni globali presentano ampie lacune e non hanno tenuto il passo con i cambiamenti del settore. Lo riferisce The Guardian.",
+   "more": [
+    "Il commercio di fauna selvatica comprende sia attività legali, come l'allevamento e la vendita regolamentata di piante e animali, sia il traffico illegale, spesso legato al bracconaggio e alla perdita di biodiversità. Organizzazioni internazionali monitorano questo commercio per contrastarne gli effetti su specie minacciate ed ecosistemi."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-10-30T18:00+00:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/science-and-health/nature-environment/2026-11-05/ty-article/.premium/series-of-wildlife-bridges-in-israel-will-allow-animals-to-cross-major-roads/000001a1-ab95-df0e-a9a3-bfdda0750000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-05T19:22+02:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc48305fc",
+   "sez": "cultura",
+   "titolo": "Primo trailer per Criminal, la serie tv tratta dal fumetto di Brubaker e Phillips",
+   "orig": "Il primo trailer di Criminal, la serie tv tratta dal fumetto di Brubaker e Phillips",
+   "lead": "Prime Video ha pubblicato il primo trailer di Criminal, serie televisiva basata sul fumetto omonimo scritto da Ed Brubaker e disegnato da Sean Phillips. La serie debutterà il 13 gennaio 2027. Lo riferisce Fumettologica.",
+   "more": [
+    "Ed Brubaker e Sean Phillips sono un duo di autori noto per fumetti crime acclamati dalla critica, tra cui proprio Criminal, pubblicato originariamente negli Stati Uniti e diventato un riferimento del genere noir a fumetti."
+   ],
+   "fonti": [
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/11/criminal-serie-tv-primo-trailer/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T17:22+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z68453115",
+   "sez": "economia",
+   "titolo": "Black Friday, in Romania cresce del 262% la ricerca online in un settore specifico",
+   "orig": "Ce caută românii pe Google de Black Friday. Domeniul în care căutările au crescut cu 262%",
+   "lead": "Secondo un comunicato di Google Romania, il Black Friday non è più concentrato in un solo giorno ma si è trasformato in una stagione commerciale di circa sei settimane, da ottobre alla prima metà di novembre. L'azienda segnala che le ricerche online dei romeni legate agli acquisti sono aumentate notevolmente, con un settore che ha registrato una crescita del 262%. Lo riferisce HotNews.",
+   "more": [
+    "Il Black Friday, nato negli Stati Uniti come giornata di sconti dopo il Giorno del Ringraziamento, si è diffuso a livello globale diventando negli ultimi anni un periodo prolungato di promozioni commerciali, con effetti significativi sulle ricerche online e sulle vendite al dettaglio."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/ce-cauta-romanii-pe-google-de-black-friday-cautarile-pentru-servicii-bancare-au-crescut-cu-262-2396236",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-05T18:46+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3f02c534",
+   "sez": "mondo",
+   "titolo": "Risolto dopo oltre 20 anni il mistero di un lucchetto di un relitto di 400 anni",
+   "orig": "400-yo Shipwreck Puzzle Finally Cracked After More Than 20 Years of Mystery",
+   "lead": "Grazie a una scansione tomografica ospedaliera, un gruppo di scienziati ha decifrato il meccanismo di un lucchetto di 400 anni ritrovato all'interno di un relitto carico di tesori su una spiaggia del Galles. Il lucchetto era stato scoperto sepolto nella sabbia con un metal detector e il suo funzionamento è rimasto un mistero per più di vent'anni. Lo riferisce Good News Network.",
+   "more": [
+    "I relitti storici lungo le coste britanniche, spesso legati a naufragi di navi mercantili o militari dei secoli passati, offrono importanti informazioni sulla tecnologia e i commerci dell'epoca; strumenti diagnostici come la tomografia computerizzata permettono oggi di studiare oggetti antichi senza danneggiarli."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/400-yo-padlock-code-finally-cracked-more-than-20-years-after-being-found-in-shipwreck-treasure/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-05T16:30+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "good": true,
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z11f47fb1",
+   "sez": "ingegneria",
+   "titolo": "Lo studio Shea progetta in South Carolina una biblioteca \"salotto della comunità\"",
+   "orig": "Studio Shea designs South Carolina library as \"community living room\"",
+   "lead": "Lo studio di architettura Studio Shea, con sede a Brooklyn, ha completato una biblioteca con rivestimento metallico e un atrio centrale in South Carolina, negli Stati Uniti. Il progetto si ispira al contesto civico e industriale del sito su cui è costruito. Lo riferisce Dezeen.",
+   "more": [
+    "Le biblioteche pubbliche contemporanee vengono spesso progettate non solo come spazi per i libri ma come luoghi di incontro e socialità per le comunità locali, con architetture che puntano a favorire la permanenza e l'aggregazione, non solo la consultazione."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/11/05/studio-shea-south-carolina-library/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-05T18:00+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0922e52a",
+   "sez": "italia",
+   "titolo": "Supplenze, tra interpelli quotidiani e attese per la conferma del servizio",
+   "orig": "Supplenze docenti, si lavora tramite interpello e tutto diventa “precario”. Anche attendere la conferma per la presa di servizio",
+   "lead": "Secondo Orizzonte Scuola, i docenti che lavorano tramite supplenza in Italia si trovano a gestire quotidianamente centinaia di interpelli pubblicati per le nomine brevi, dover inviare domande e controllare risposte, con termini oltre i quali considerarsi liberi da un incarico. La condizione riguarda in particolare chi non riceve chiamate nella propria provincia e deve affidarsi a questo sistema, rendendo il lavoro particolarmente precario anche nell'attesa della conferma per la presa di servizio. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Il sistema delle supplenze scolastiche in Italia prevede, oltre alle graduatorie, il meccanismo degli interpelli con cui le scuole pubblicano posti vacanti da coprire con nomine brevi, spesso di pochi giorni; i docenti devono candidarsi di continuo, generando una condizione di instabilità lavorativa diffusa tra il personale precario."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/supplenze-docenti-si-lavora-tramite-interpello-e-tutto-diventa-precario-anche-attendere-la-conferma-per-la-presa-di-servizio/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T18:30+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "zeb2cc354",
+   "sez": "organizzazioni",
+   "titolo": "L'Aiea analizza l'impatto delle ondate di calore sulle centrali nucleari",
+   "orig": "Impact of Heatwaves on Nuclear Power Plants",
+   "lead": "L'Agenzia internazionale per l'energia atomica (Aiea), con sede a Vienna, ha pubblicato un documento sull'impatto delle ondate di calore sulle centrali nucleari. Il testo analizza come le temperature elevate possano influire sul funzionamento degli impianti. Lo riferisce l'Aiea.",
+   "more": [
+    "Le centrali nucleari necessitano di grandi quantità di acqua per il raffreddamento dei reattori; le ondate di calore e la conseguente riduzione della disponibilità o dell'efficienza di raffreddamento dell'acqua dei fiumi e dei mari possono costringere gli impianti a ridurre la produzione o fermarsi temporaneamente, un tema sempre più rilevante con l'aumento delle temperature globali."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/news/impact-of-heatwaves-on-nuclear-power-plants",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z55fe8f96",
+   "sez": "economia",
+   "titolo": "In Nuova Zelanda quasi mille persone guadagnano almeno un milione di dollari l'anno",
+   "orig": "Are you in the top 10 percent of income earners?",
+   "lead": "Secondo gli ultimi dati dell'Inland Revenue neozelandese, 980 persone in Nuova Zelanda dichiarano un reddito di almeno un milione di dollari all'anno. I dati permettono di collocare i contribuenti nelle diverse fasce di reddito del paese. Lo riferisce RNZ.",
+   "more": [
+    "Le autorità fiscali pubblicano periodicamente dati sulla distribuzione dei redditi per monitorare le disuguaglianze economiche e informare il dibattito pubblico su politiche fiscali, come eventuali tassazioni aggiuntive sui redditi più alti."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/business/2368100/are-you-in-the-top-10-percent-of-income-earners",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-06T06:16+13:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3fdfd243",
+   "sez": "ingegneria",
+   "titolo": "Il designer Gustaf Westman rivisita Topolino e i suoi amici con forme arrotondate e colorate",
+   "orig": "gustaf westman gives disney’s mickey & friends his signature chunky, colorful forms",
+   "lead": "Il designer svedese Gustaf Westman ha realizzato una collezione che traduce le sagome dei personaggi Disney di Topolino e i suoi amici in oggetti domestici con forme tondeggianti e colori vivaci, dal vasellame ai mobili da collezione. Lo riferisce Designboom.",
+   "more": [
+    "Gustaf Westman è noto per il suo stile riconoscibile fatto di forme arrotondate e colori pastello applicati a oggetti di uso quotidiano, uno stile diventato molto popolare sui social media negli ultimi anni nel settore del design di interni."
+   ],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/design/gustaf-westman-disney-mickey-mouse-chunky-colorful-furniture/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-05T16:59+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9e90b897",
+   "sez": "adolescenti",
+   "titolo": "Gioco d'azzardo tra i giovani, Schettini dà voce alle testimonianze dei ragazzi",
+   "orig": "Gioco d’azzardo, Schettini: “Vi hanno mai parlato di questa forma bastarda di dipendenza?”. Le testimonianze dei giovani sui social",
+   "lead": "Il content creator ed ex insegnante Vincenzo Schettini ha pubblicato sui social un video in cui lascia la parola a giovani poco più grandi degli studenti a cui si rivolge, che raccontano la propria dipendenza dal gioco d'azzardo. Secondo le loro testimonianze, l'abitudine è iniziata quasi per gioco, online o con gli amici, per poi portarli a rubare soldi in casa e a sentirsi isolati dal mondo. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Il gioco d'azzardo online è diventato accessibile anche ai minori attraverso piattaforme digitali e social media; le dipendenze da gioco possono portare a conseguenze economiche, relazionali e psicologiche, ed esperti e istituzioni scolastiche promuovono campagne di sensibilizzazione per prevenirne la diffusione tra adolescenti."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/gioco-dazzardo-schettini-vi-hanno-mai-parlato-di-questa-forma-bastarda-di-dipendenza-le-testimonianze-dei-giovani-sui-social/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T18:15+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera",
+   "sub": "giochi"
+  },
+  {
+   "id": "z814ee71c",
+   "sez": "ingegneria",
+   "titolo": "Fluor vince un appalto da oltre 4 miliardi di dollari per un data center in Kentucky",
+   "orig": "Fluor Wins EPC Contract for $4B-Plus Terawulf Data Center Complex in Kentucky",
+   "lead": "L'azienda di ingegneria Fluor ha ottenuto un contratto EPC (progettazione, approvvigionamento e costruzione) dal valore superiore a 4 miliardi di dollari per realizzare il complesso di data center della società Terawulf a Hawesville, in Kentucky. Le prime porzioni del campus sono previste pronte per l'operatività entro la fine del 2027. Lo riferisce Engineering News-Record.",
+   "more": [
+    "I data center per l'elaborazione di dati e intelligenza artificiale richiedono investimenti sempre più ingenti e infrastrutture complesse per l'alimentazione energetica e il raffreddamento, spingendo grandi aziende di ingegneria e costruzioni a competere per appalti miliardari in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Engineering News-Record",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.enr.com/articles/64200-fluor-wins-epc-contract-for-4b-plus-terawulf-data-center-complex-in-kentucky",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-05T12:27-05:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "20:37",
+   "uscita": "sera"
+  },
+  {
    "id": "z50b2768b",
    "sez": "economia",
    "titolo": "Clima d'affari sfavorevole per il 22% delle industrie in Marocco",
@@ -340,7 +660,7 @@ window.EDIZIONI["2026-11-05-sera"] = {
   },
   {
    "id": "z760311a0",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Il Papa in America Latina tra visite pastorali e misure straordinarie",
    "orig": "Se viene un fin de semana de cuatro días por la visita del Papa: quiénes podrán disfrutarlo y dónde habrá más feriados",
    "lead": "Il Papa Leone XIV compirà un viaggio apostolico in America Latina, con tappe previste in Argentina, Uruguay e Perù. In Argentina la visita si svolgerà da domenica 8 a mercoledì 11 novembre con appuntamenti a Buenos Aires, Córdoba e Luján, accompagnata da giorni festivi e modifiche alla viabilità. Venerdì il pontefice arriverà in Uruguay, mentre a Lima la Messa programmata alla base aerea di Las Palmas ha registrato il tutto esaurito sui portali di biglietteria.",
@@ -390,46 +710,33 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "Uruguay",
      "t": "2026-11-05T12:51-03:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "20:24",
-   "uscita": "sera"
-  },
-  {
-   "id": "z51967600",
-   "sez": "mondo",
-   "titolo": "Pressioni sui repubblicani dopo la sconfitta elettorale negli USA",
-   "orig": "Republicans quickly turn against Pete Hegseth after midterms rout",
-   "lead": "Negli Stati Uniti, la sconfitta del Partito Repubblicano alle elezioni di metà mandato ha innescato forti tensioni interne all'amministrazione. Diversi esponenti repubblicani individuano nel Segretario alla Difesa, Pete Hegseth, il principale responsabile del calo di consensi causato dal conflitto con l'Iran. Alla Camera si ipotizza un voto sulla sua posizione già la settimana prossima, mentre il presidente Donald Trump ha rifiutato finora di sollevare Hegseth dal suo incarico al Pentagono.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Egypt Independent",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.egyptindependent.com/republicans-quickly-turn-against-pete-hegseth-after-midterms-rout/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-11-05T13:47+00:00"
     },
     {
-     "n": "Gulf News",
+     "n": "Vatican News (inglese)",
      "p": "XX",
-     "c": "Dubai",
-     "u": "https://gulfnews.com/world/americas/iran-war-puts-us-defence-secretary-pete-hegseths-pentagon-future-in-doubt-1.500737625",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html",
      "angolo": "",
-     "atlas": "United Arab Emirates",
-     "t": "2026-11-05T22:19+04:00"
+     "atlas": "Vatican",
+     "t": "2026-11-05T13:00+01:00"
     },
     {
-     "n": "Stuff NZ",
+     "n": "Vatican News (italiano)",
      "p": "XX",
-     "c": "Wellington",
-     "u": "https://www.stuff.co.nz/world-news/361055741/donald-trump-refuses-sack-us-defence-secretary-over-iran-war",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/vaticano/news/2026-11/cardinale-parolin-intervista-viaggio-leone-xiv-america-latina.html",
      "angolo": "",
-     "atlas": "New Zealand",
-     "t": "2026-11-05T18:44+00:00"
+     "atlas": "Vatican",
+     "t": "2026-11-05T13:00+01:00"
+    },
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/mundo/la-victoria-democrata-y-sus-posibles-efectos-en-america-latina/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-11-05T15:00+00:00"
     }
    ],
    "data": "5 nov",
@@ -565,37 +872,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z6db0bfeb",
-   "sez": "sport",
-   "titolo": "Cristiano Ronaldo annuncia il ritiro dalla nazionale del Portogallo",
-   "orig": "Cristiano Ronaldo announces his international retirement from Portugal",
-   "lead": "Il calciatore portoghese Cristiano Ronaldo ha annunciato giovedì il proprio ritiro definitivo dalla selezione del Portogallo, ponendo fine a una straordinaria carriera internazionale durata ventitré anni. Nel corso del suo lungo percorso con la nazionale, l'attaccante ha preso parte a sei edizioni dei Campionati Mondiali, ha conquistato il titolo europeo nel 2016 e ha stabilito il primato assoluto di reti realizzate a livello mondiale nel calcio maschile.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "PBS NewsHour",
-     "p": "US",
-     "c": "Arlington",
-     "u": "https://www.pbs.org/newshour/nation/cristiano-ronaldo-announces-his-international-retirement-from-portugal",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-05T13:03-05:00"
-    },
-    {
-     "n": "Eye Radio",
-     "p": "XX",
-     "c": "Juba",
-     "u": "https://eyeradio.org/cristiano-ronaldo-retires-from-international-football-after-23-year-career/?utm_source=rss&utm_medium=rss&utm_campaign=cristiano-ronaldo-retires-from-international-football-after-23-year-career",
-     "angolo": "",
-     "atlas": "S. Sudan",
-     "t": "2026-11-05T11:28+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "20:24",
-   "uscita": "sera"
-  },
-  {
    "id": "z4b708819",
    "sez": "ambiente",
    "titolo": "La società civile nigeriana chiede misure contro le emissioni di metano",
@@ -620,37 +896,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "S. Sudan",
      "t": "2026-11-05T10:12+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "20:24",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze838e473",
-   "sez": "ambiente",
-   "titolo": "L'ONU denuncia un grave deficit nei fondi per l'adattamento climatico",
-   "orig": "COP31: le déficit de financement de l'adaptation est \"ahurissant\" (ONU)",
-   "lead": "A pochi giorni dall'apertura del vertice sul clima COP31 ad Adalia, le Nazioni Unite hanno pubblicato un rapporto che definisce sconcertante il deficit di finanziamento per l'adattamento ai cambiamenti climatici. Secondo l'ONU, le risorse destinate ai Paesi vulnerabili dovrebbero essere moltiplicate per dieci. Il Segretario generale António Guterres ha avvertito che la comunità internazionale deve scegliere se investire oggi nella prevenzione o pagare domani i costi delle catastrofi.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261105-cop31-le-d%C3%A9ficit-de-financement-de-l-adaptation-est-ahurissant-onu",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-05T17:52+00:00"
-    },
-    {
-     "n": "Journal du Mali",
-     "p": "XX",
-     "c": "Bamako",
-     "u": "https://journaldumali.com/cop31-financer-ladaptation-au-mali/",
-     "angolo": "",
-     "atlas": "Mali",
-     "t": "2026-11-05T14:33+00:00"
     }
    ],
    "data": "5 nov",
@@ -2119,6 +2364,24 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-11-05T11:39+00:00"
+    },
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/presidente-do-paraguai-renuncia-em-meio-crise-bancaria-vice-assume",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-05T14:26-03:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/11/05/mundo/noticia/santiago-pena-presidente-paraguai-demitese-apos-colapso-ueno-bank-2193929",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-05T17:45+00:00"
     }
    ],
    "data": "5 nov",
@@ -2152,13 +2415,55 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-11-05T17:56+00:00"
+    },
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/ekonomi/oro-for-ai-broms-sanker-wall-street",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-11-05T16:57+01:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-05T15:42+00:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/anthropic-was-founded-to-answer-to-humanity-soon-it-will-also-answer-to-wall-street/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-11-05T13:50+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-05T15:53+00:00"
+    },
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-nasdaq-tumbles-4-on-ai-regulation-fears",
+     "angolo": "",
+     "atlas": "Japan"
     }
    ],
    "data": "5 nov",
    "ora": "20:18",
-   "uscita": "sera",
-   "sez_prima": "economia",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z6243a6af",
@@ -2722,48 +3027,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "u": "https://www.ilmessaggero.it/tecnologia/news/supercomputer_60_milioni_intelligenza_artificiale_come_funziona_a_cosa_serve-9860863.html",
      "angolo": "",
      "atlas": "Italy"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "20:18",
-   "uscita": "sera"
-  },
-  {
-   "id": "z6b9f1908",
-   "sez": "economia",
-   "titolo": "Il Pakistan riduce i prezzi ufficiali di benzina e gasolio",
-   "orig": "Petrol price slashed by Rs9.41 per litre, high-speed diesel by Rs5.56",
-   "lead": "Le autorità del Pakistan hanno annunciato una significativa riduzione dei prezzi ufficiali al consumo per i carburanti, tagliando la benzina di 9,41 rupie al litro e il gasolio per autotrazione di 5,56 rupie. Il provvedimento è stato formalizzato dal ministero dell'Energia e dall'autorità di regolazione di settore nell'ambito del meccanismo periodico di adeguamento tariffario. La misura punta ad alleggerire la spesa per i trasporti e a contenere i costi di produzione in un quadro economico caratterizzato da forti pressioni inflazionistiche. Lo riferisce Dawn.",
-   "more": [
-    "Nei Paesi in via di sviluppo la dinamica dei prezzi dei carburanti incide immediatamente sul costo delle merci e sui beni alimentari distribuiti su gomma. Le riforme sui sussidi energetici e i ritocchi regolatori sono costantemente monitorati dalle istituzioni creditizie internazionali."
-   ],
-   "fonti": [
-    {
-     "n": "Dawn",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://www.dawn.com/news/2042367/petrol-price-slashed-by-rs941-per-litre-high-speed-diesel-by-rs556",
-     "angolo": "",
-     "atlas": "Pakistan",
-     "t": "2026-11-05T22:53+05:00"
-    },
-    {
-     "n": "The Express Tribune",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://tribune.com.pk/story/2638853/govt-slashes-petrol-by-rs941-diesel-by-rs556-for-nov-6",
-     "angolo": "",
-     "atlas": "Pakistan",
-     "t": "2026-11-05T17:45+05:00"
-    },
-    {
-     "n": "Expats.cz",
-     "p": "XX",
-     "c": "Praga",
-     "u": "https://www.expats.cz/czech-news/article/czech-fuel-price-caps-fall-friday-with-petrol-below-czk-42-a-liter",
-     "angolo": "",
-     "atlas": "Czechia",
-     "t": "2026-11-05T17:38+01:00"
     }
    ],
    "data": "5 nov",
@@ -3795,6 +4058,33 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "Azerbaijan",
      "t": "2026-11-05T13:45+00:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2042367/petrol-price-slashed-by-rs941-per-litre-high-speed-diesel-by-rs556",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-05T22:53+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2638853/govt-slashes-petrol-by-rs941-diesel-by-rs556-for-nov-6",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-05T17:45+05:00"
+    },
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/czech-fuel-price-caps-fall-friday-with-petrol-below-czk-42-a-liter",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-05T17:38+01:00"
     }
    ],
    "data": "5 nov",
@@ -4164,65 +4454,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "ora": "17:05",
    "uscita": "17",
    "sub": "musica"
-  },
-  {
-   "id": "ze9b9c73e",
-   "sez": "economia",
-   "titolo": "Timori sull'intelligenza artificiale fanno scendere Wall Street, in calo anche il Nasdaq",
-   "orig": "Oro för AI-broms sänker Wall Street",
-   "lead": "Le borse statunitensi hanno registrato un calo dopo il rinnovato timore degli investitori sulle valutazioni delle società legate all'intelligenza artificiale, con l'indice Nasdaq in flessione di oltre il 5%. Tra le spiegazioni indicate figura il timore che l'espansione dell'IA negli Stati Uniti possa essere frenata da una politica più democratica dopo le elezioni di metà mandato. Il Financial Times rileva che le borse europee hanno superato quelle di Wall Street nel confronto annuale, con lo Stoxx 600 ora davanti all'S&P 500.",
-   "more": [
-    "Le valutazioni elevate delle società tecnologiche legate all'intelligenza artificiale sono osservate con attenzione dagli analisti, che temono una possibile bolla speculativa. Cambiamenti politici, come un Congresso a maggioranza democratica, possono influenzare le aspettative di crescita del settore introducendo nuove regole su energia, dati e lavoro."
-   ],
-   "fonti": [
-    {
-     "n": "SVT Nyheter",
-     "p": "XX",
-     "c": "Stoccolma",
-     "u": "https://www.svt.se/nyheter/ekonomi/oro-for-ai-broms-sanker-wall-street",
-     "angolo": "",
-     "atlas": "Sweden",
-     "t": "2026-11-05T16:57+01:00"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-05T15:42+00:00"
-    },
-    {
-     "n": "Egypt Independent",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.egyptindependent.com/anthropic-was-founded-to-answer-to-humanity-soon-it-will-also-answer-to-wall-street/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-11-05T13:50+00:00"
-    },
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-05T15:53+00:00"
-    },
-    {
-     "n": "Nikkei Asia",
-     "p": "XX",
-     "c": "Tokyo",
-     "u": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-nasdaq-tumbles-4-on-ai-regulation-fears",
-     "angolo": "",
-     "atlas": "Japan"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "17:05",
-   "uscita": "17"
   },
   {
    "id": "zdae13fab",
@@ -5588,6 +5819,33 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "Mexico",
      "t": "2026-11-05T10:19+00:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/republicans-quickly-turn-against-pete-hegseth-after-midterms-rout/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-11-05T13:47+00:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/americas/iran-war-puts-us-defence-secretary-pete-hegseths-pentagon-future-in-doubt-1.500737625",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-05T22:19+04:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361055741/donald-trump-refuses-sack-us-defence-secretary-over-iran-war",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-05T18:44+00:00"
     }
    ],
    "data": "5 nov",
@@ -5825,48 +6083,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "",
      "t": "2026-11-05T15:59+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "17:05",
-   "uscita": "17"
-  },
-  {
-   "id": "z6be86134",
-   "sez": "mondo",
-   "titolo": "Il cardinale Parolin: il viaggio del Papa in America Latina sarà testimonianza di unità e riconciliazione",
-   "orig": "Cardinal Parolin: Pope’s Latin America visit is ‘witness to unity, reconciliation’",
-   "lead": "Mentre Uruguay, Argentina e Perù attendono l'arrivo di Papa Leone XIV per il suo sesto viaggio apostolico internazionale, il segretario di Stato vaticano cardinale Pietro Parolin ha dichiarato che l'incontro con le comunità locali sarà carico di memoria, affetto e riconoscenza, descrivendo la visita come testimonianza di unità e riconciliazione. Lo riferisce Vatican News.",
-   "more": [
-    "I viaggi apostolici internazionali sono visite ufficiali del Pontefice in diversi Paesi, durante le quali incontra autorità civili, religiose e comunità locali. L'America Latina è la regione con la più alta concentrazione di cattolici al mondo e ha un legame particolare con la Chiesa data l'origine latinoamericana di diversi pontefici recenti."
-   ],
-   "fonti": [
-    {
-     "n": "Vatican News (inglese)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-parolin-pope-leo-xiv-interview-latin-america-visit.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-11-05T13:00+01:00"
-    },
-    {
-     "n": "Vatican News (italiano)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/it/vaticano/news/2026-11/cardinale-parolin-intervista-viaggio-leone-xiv-america-latina.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-11-05T13:00+01:00"
-    },
-    {
-     "n": "Confidencial",
-     "p": "XX",
-     "c": "Managua",
-     "u": "https://confidencial.digital/mundo/la-victoria-democrata-y-sus-posibles-efectos-en-america-latina/",
-     "angolo": "",
-     "atlas": "Nicaragua",
-     "t": "2026-11-05T15:00+00:00"
     }
    ],
    "data": "5 nov",
@@ -7118,6 +7334,24 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "South Africa",
      "t": "2026-11-05T12:19+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261105-cop31-le-d%C3%A9ficit-de-financement-de-l-adaptation-est-ahurissant-onu",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-05T17:52+00:00"
+    },
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/cop31-financer-ladaptation-au-mali/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-11-05T14:33+00:00"
     }
    ],
    "data": "5 nov",
@@ -7721,6 +7955,24 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "Bolivia",
      "t": "2026-11-05T10:43-04:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/nation/cristiano-ronaldo-announces-his-international-retirement-from-portugal",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-05T13:03-05:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/cristiano-ronaldo-retires-from-international-football-after-23-year-career/?utm_source=rss&utm_medium=rss&utm_campaign=cristiano-ronaldo-retires-from-international-football-after-23-year-career",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-05T11:28+00:00"
     }
    ],
    "data": "5 nov",
@@ -8321,7 +8573,7 @@ window.EDIZIONI["2026-11-05-sera"] = {
   },
   {
    "id": "zefa71da1",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Come le elezioni di metà mandato americane hanno colorato di blu la mappa degli Stati Uniti",
    "orig": "Visualising how the US midterms turned the map blue",
    "lead": "Un'analisi dei dati delle elezioni di metà mandato del 2026 negli Stati Uniti mostra come diversi seggi siano passati dai repubblicani ai democratici, inclusi stati storicamente considerati roccaforti conservatrici. Tra i cambiamenti più rilevanti figurano i ribaltamenti registrati in Ohio e Texas, dove i democratici hanno conquistato posizioni di governatore e seggi al Senato. Secondo alcuni osservatori politici citati, questi risultati non garantiscono però che tali stati rimarranno democratici anche nelle elezioni presidenziali del 2028.",
@@ -8359,7 +8611,9 @@ window.EDIZIONI["2026-11-05-sera"] = {
    ],
    "data": "5 nov",
    "ora": "12:37",
-   "uscita": "13"
+   "uscita": "13",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zcdbda4c7",
@@ -8645,7 +8899,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "zdff54e34": "NPR evidenzia i limiti del Congresso sull'andamento dei prezzi energetici",
   "zcb15599c": "CBC News e Cyprus Mail sottolineano la mancanza di una rivendicazione ufficiale",
   "z57a798a8": "The Guardian loda la chiarezza e la bellezza visiva del nuovo remake",
-  "ze9b9c73e": "Il Financial Times sottolinea il sorpasso delle borse europee su Wall Street",
   "zdae13fab": "Billboard racconta il percorso di Guitarricadelafuente verso il debutto cinematografico",
   "zf386c7d0": "Clarín riporta l'impegno di OpenAI a coprire i costi di infrastrutture locali",
   "zffc8c431": "The Guardian critica la prevedibilità del film e l'anticipo della stagione natalizia",
@@ -8693,7 +8946,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z434964d3": "La Nouvelle Tribune riporta la decisione della città californiana sulla registrazione delle unioni poliamorose.",
   "ze9abd860": "Tagesschau riporta i primi esiti delle indagini che escludono il coinvolgimento di terzi nella morte di Aiwanger.",
   "z5667f2ce": "Al Jazeera sottolinea il peso del record di seggi ottenuto dai partiti arabi nel sostenere la candidatura di Eisenkot.",
-  "z6be86134": "Vatican News riporta le parole del cardinale Parolin sul significato del viaggio papale in America Latina.",
   "zbac7fbe7": "allAfrica segnala le possibili conseguenze della sentenza sulla partecipazione dell'ADC alle elezioni del 2027.",
   "zb6cc6462": "Brújula Digital sottolinea il collegamento tra l'approvazione dei crediti e l'accordo precedente della Bolivia con il Fmi.",
   "z973eacf7": "Cronaca di un conflitto interno al Pcf tra la linea ufficiale e i deputati.",
@@ -8724,7 +8976,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "zcb29a51c": "Confidencial sottolinea il legame indissolubile indicato tra il destino democratico di Caracas, Cuba e Nicaragua.",
   "z97be6b85": "RTÉ News evidenzia come la chiusura metta fine alla controversa scissione nel golf mondiale.",
   "z53bbda41": "San Marino RTV evidenzia la partecipazione della Repubblica del Titano ai lavori istituzionali a Roma.",
-  "z6b9f1908": "Dawn sottolinea l'entità dei tagli applicati ai prezzi alla pompa per benzina e diesel.",
   "zf8d58b51": "NPR pone l'accento sulla componente di gioia ed entusiasmo trasmessa dal pianista nel suo progetto sonoro.",
   "z16910a00": "San Marino RTV evidenzia l'elenco dei ventisei atleti chiamati per l'ultima doppia sfida dell'anno.",
   "z787b03ab": "The Guardian racconta aneddoti sul cambio radicale di stile di vita dei programmatori dopo il successo.",
@@ -8771,13 +9022,10 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z473ccf45": "La testata evidenzia il contegno dell'imputato in aula al momento della lettura del verdetto.",
   "z2dc57928": "La testata fa notare la gravità delle accuse di corruzione rivolte al magistrato.",
   "z760311a0": "La testata mette in rilievo l'estensione del calendario dei giorni festivi legati alla visita papale.",
-  "z51967600": "La testata risalta le divisioni interne al partito e le contestazioni al capo del Pentagono.",
   "z682e511e": "La testata mette in evidenza le motivazioni del commissario tecnico sull'esclusione di Tapia.",
   "z9fe66361": "La testata sottolinea le risposte fornite dalla commissione parlamentare al ministero dell'Economia.",
   "zf42443c9": "La testata risalta le tensioni geopolitiche tra Russia e Giappone alla base del sequestro aziendale.",
-  "z6db0bfeb": "La testata sottolinea il termine di una carriera da record costellata di successi internazionali.",
   "z4b708819": "La testata mette in luce le carenze normative ed esecutive denunciate dalle associazioni ambientaliste.",
-  "ze838e473": "La testata rilancia il duro richiamo delle Nazioni Unite sulla necessità di decuplicare gli investimenti.",
   "z045688e1": "La testata evidenzia l'entità della pena inflitta dopo lo scontro a fuoco con la polizia.",
   "z1c0a7847": "La testata sottolinea l'attesa di Mosca per l'avvio formale dei negoziati con le istituzioni serbe.",
   "z8ae56602": "La testata canadese sottolinea la portata storica dell'elezione del primo senatore musulmano e l'impatto del suo discorso di vittoria.",
@@ -8827,7 +9075,20 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "ze3ab600e": "La testata delle Fiji analizza le ripercussioni dell'instabilità politica passata sulle infrastrutture sanitarie del Paese.",
   "z7e2d7e23": "Meduza focalizza l'attenzione sui tentativi delle aziende russe di rilevare gli asset delle multinazionali uscite dal mercato.",
   "zc24c9b07": "La testata indipendente russa contrappone le attese di Kiev sul Congresso americano alle speranze di Mosca verso Donald Trump.",
-  "ze8aa6c26": "Meduza sottolinea la risposta giudiziaria delle autorità ucraine alle contestazioni pubbliche sulle forze armate."
+  "ze8aa6c26": "Meduza sottolinea la risposta giudiziaria delle autorità ucraine alle contestazioni pubbliche sulle forze armate.",
+  "z64dd8e1b": "Le testate internazionali sottolineano la portata nazionale delle proteste e la discrepanza tra i numeri ufficiali e quelli sindacali.",
+  "z40e4ee59": "ANSA riporta la commozione e la partecipazione compatta della squadra del Tenerife ai funerali del compagno.",
+  "z8ced4f7c": "The Guardian sottolinea l'ampiezza delle lacune nelle valutazioni globali sul commercio di specie selvatiche rispetto alle stime precedenti.",
+  "zc48305fc": "Fumettologica si concentra sull'adattamento televisivo del fumetto e sulla data di debutto annunciata.",
+  "z68453115": "HotNews riporta i dati diffusi da Google Romania sull'evoluzione delle ricerche online legate al Black Friday.",
+  "z3f02c534": "Good News Network racconta la risoluzione di un enigma tecnico durato oltre vent'anni grazie a tecnologie mediche.",
+  "z11f47fb1": "Dezeen sottolinea il legame tra il progetto architettonico e il contesto industriale e civico del territorio.",
+  "z0922e52a": "Orizzonte Scuola denuncia la complessità e la precarietà del sistema degli interpelli per le supplenze brevi.",
+  "zeb2cc354": "L'Aiea si concentra sugli effetti tecnici delle ondate di calore sul funzionamento delle centrali nucleari.",
+  "z55fe8f96": "RNZ si concentra sui dati dell'Inland Revenue relativi ai redditi più alti del paese.",
+  "z3fdfd243": "Designboom descrive la collezione come una rilettura in chiave design dei personaggi Disney.",
+  "z9e90b897": "Orizzonte Scuola riporta le testimonianze dirette dei giovani raccolte nel video di Schettini.",
+  "z814ee71c": "Engineering News-Record evidenzia le dimensioni economiche e i tempi di realizzazione del progetto."
  },
  "contesti": {
   "zd0d044b4": "I rapporti tra Milei e Sánchez si erano già inasprite nei giorni precedenti al vertice, con il presidente argentino che aveva definito il premier spagnolo 'corrotto' e 'dittatore', alimentando tensioni diplomatiche tra Argentina e Spagna.",
@@ -8846,7 +9107,10 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z758b2a81": "Negli ultimi mesi l'istituto centrale britannico aveva mantenuto invariati i tassi dopo la serie di rialzi avviata contro l'ondata inflazionistica post-pandemica. Il persistere della crescita salariale e la risalita delle previsioni sui prezzi al consumo hanno spinto il comitato di politica monetaria a mutare orientamento per evitare un radicamento delle aspettative inflazionistiche.",
   "z64c9f442": "Nelle settimane precedenti, i combattimenti e le distruzioni lungo il fronte meridionale avevano intrappolato numerosi civili senza accesso ad aiuti basilari. La diplomazia statunitense ha lavorato a un canale negoziale discreto per concordare condizioni minime di sicurezza temporanea, culminate nella finestra operativa concessa a fine ottobre.",
   "z54532331": "Nelle scorse settimane i mercati finanziari hanno vissuto una fase di attesa legata al voto per le elezioni di metà mandato negli Stati Uniti. L'esito delle urne e la nuova configurazione del Congresso hanno subito sollevato forti preoccupazioni tra gli investitori riguardo a possibili stringenti regolamentazioni per il settore dell'intelligenza artificiale e per i centri elaborazione dati, scatenando una pesante sessione di vendite che ha colpito Wall Street e colossi come SpaceX.",
-  "z6243a6af": "Nelle scorse settimane la Regione Veneto ha approvato una legge regionale per definire tempi e procedure sull'accesso al fine vita, colmando un vuoto normativo in assenza di una legge statale. La decisione ha riacceso il confronto politico sul tema dell'eutanasia, fino alla riunione del Consiglio dei ministri che ha stabilito di promuovere il ricorso alla Corte costituzionale per verificare la legittimità del testo, registrando posizioni distinte all'interno della stessa maggioranza."
+  "z6243a6af": "Nelle scorse settimane la Regione Veneto ha approvato una legge regionale per definire tempi e procedure sull'accesso al fine vita, colmando un vuoto normativo in assenza di una legge statale. La decisione ha riacceso il confronto politico sul tema dell'eutanasia, fino alla riunione del Consiglio dei ministri che ha stabilito di promuovere il ricorso alla Corte costituzionale per verificare la legittimità del testo, registrando posizioni distinte all'interno della stessa maggioranza.",
+  "z64dd8e1b": "Nelle ultime settimane in Francia si sono susseguite tensioni sociali legate al costo della vita e al bilancio statale, con sindacati che avevano già annunciato mobilitazioni nazionali per chiedere interventi sui salari e sui prezzi.",
+  "z760311a0": "Dopo l'elezione nel 2025, Leone XIV ha pianificato il suo primo grande viaggio apostolico intercontinentale, scegliendo l'America Latina, terra natale del predecessore Francesco. Nelle settimane precedenti Vaticano e governi locali hanno definito programmi, sicurezza e logistica, mentre in Argentina, Uruguay e Perù sono stati annunciati giorni festivi, modifiche alla viabilità e intense richieste di biglietti per le celebrazioni liturgiche pubbliche.",
+  "zefa71da1": "Nelle settimane precedenti al voto di metà mandato 2026, i sondaggi avevano segnalato un calo di popolarità per l'amministrazione repubblicana, complice il malcontento economico e le tensioni interne al partito. I democratici avevano concentrato risorse e candidati competitivi in stati tradizionalmente conservatori come Ohio e Texas, puntando su temi locali e mobilitazione dell'elettorato giovanile e urbano per erodere il vantaggio repubblicano."
  },
  "cronologie": {
   "zd0d044b4": [
@@ -9065,6 +9329,42 @@ window.EDIZIONI["2026-11-05-sera"] = {
    [
     "Oggi",
     "Il Consiglio dei ministri impugna la legge del Veneto dinanzi alla Corte costituzionale"
+   ]
+  ],
+  "z760311a0": [
+   [
+    "ottobre 2026",
+    "Il Vaticano conferma le tappe in Argentina, Uruguay e Perù"
+   ],
+   [
+    "fine ottobre",
+    "Governi locali annunciano festività e misure straordinarie per la visita"
+   ],
+   [
+    "primi di novembre",
+    "Apertura delle prenotazioni per la Messa a Lima, subito esaurite"
+   ],
+   [
+    "8 novembre",
+    "Inizio della visita papale in Argentina"
+   ]
+  ],
+  "zefa71da1": [
+   [
+    "settembre 2026",
+    "Sondaggi mostrano erosione del vantaggio repubblicano in stati chiave"
+   ],
+   [
+    "ottobre 2026",
+    "Campagne finali concentrate su Ohio e Texas"
+   ],
+   [
+    "3 novembre 2026",
+    "Election Day: voto di metà mandato negli Stati Uniti"
+   ],
+   [
+    "4-5 novembre 2026",
+    "Risultati confermano vittorie democratiche in Ohio e Texas"
    ]
   ]
  },
@@ -9327,6 +9627,105 @@ window.EDIZIONI["2026-11-05-sera"] = {
     }
    ],
    "divergono": "Le testate presentano divergenze sostanziali. BBC News e The Express Tribune trattano l’aumento dei tassi britannici, mentre Radio Prague International si riferisce solo alla banca centrale ceca. The Express Tribune attribuisce la pressione inflazionistica al conflitto tra USA e Iran e cita politici come Andy Burnham, assenti nella BBC. La testata TASS diverge totalmente, ignorando il tema bancario per concentrarsi sulla competizione tra Cina e Stati Uniti, definendo la posizione di questi ultimi come un “esaurimento nevrotico”. Infine, mentre la BBC analizza l'impatto domestico sui mutui e la convenienza per i risparmiatori, The Express Tribune privilegia la stabilità dei mercati finanziari e le dinamiche geopolitiche globali."
+  },
+  "z760311a0": {
+   "voci": [
+    {
+     "n": "Clarín",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "Si concentra sul calendario dei giorni festivi legati alla visita papale, con date precise (8-11 novembre) e differenze tra Buenos Aires, Córdoba e provincia. Testo puramente informativo, elenca anche la festività del 20 novembre.",
+     "b": "a"
+    },
+    {
+     "n": "La Nación",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "Articolo ampio che unisce agenda papale, chiusure stradali a Palermo e Recoleta, decreto presidenziale di Milei (1103/2026) e aneddoti biografici su Prevost in Perù. Cita fonti come la teologa Véronique Lecaros e il cardiologo Jorge Tartaglione, con dettagli minuziosi su vie chiuse e orari.",
+     "b": "a"
+    },
+    {
+     "n": "El Observador",
+     "c": "Montevideo",
+     "p": "XX",
+     "t": "Ricostruisce l'intera agenda orari per orario della tappa uruguaiana (6-8 novembre), sottolineando che è la prima visita papale dal 1988 (Giovanni Paolo II) e dettagliando tagli stradali e deviazioni di autobus a Montevideo.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate coprono tappe diverse del viaggio (Argentina, Perù, Uruguay) senza sovrapporsi direttamente sui medesimi fatti. Clarín e La Nación divergono nel taglio: la prima è un semplice calendario festività, la seconda un reportage ampio con aneddoti biografici e dichiarazioni di esperti. I due articoli di El Comercio si concentrano su aspetti complementari (biglietti e viabilità) senza contraddirsi. El Observador è l'unica a sottolineare il valore storico della visita uruguaiana, assente negli altri pezzi."
+  },
+  "z54532331": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Centra il racconto su Elon Musk, con SpaceX (-9%) e Tesla (-11%), collegando il crollo alla vittoria democratica nei midterm e allo stato del Texas. Cita l'investimento di Musk (quasi 450 milioni di dollari) e dichiarazioni di dirigenti tech come Greg Brockman (OpenAI) e Dina Powell McCormick (Meta) sulla necessità di 'comunicare meglio'.",
+     "b": "a"
+    },
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Fornisce il quadro più dettagliato con dati su 45 iniziative elettorali locali sui data center (39 approvate restrizioni), stime UBS su un possibile rischio del 30% della capacità 2028, e cifre su Nvidia (-8,2%), Micron, CoreWeave, Nebius. Cita analisti come Michael Monaghan e Dan Ives e nota il balzo dell'oro a 4.115 dollari l'oncia.",
+     "b": "a"
+    },
+    {
+     "n": "SVT Nyheter",
+     "c": "Stoccolma",
+     "p": "XX",
+     "t": "Racconto sintetico e numerico, con percentuali di Dow Jones, S&P 500 e Nasdaq, e calo di singoli titoli (Nvidia -6,4%, Qualcomm -11,5%). Cita l'economista Maria Landeborn di Danske Bank sull'incertezza legata all'agenda democratica sui data center.",
+     "b": "a"
+    },
+    {
+     "n": "Egypt Independent",
+     "c": "Il Cairo",
+     "p": "XX",
+     "t": "Non tratta il crollo di borsa ma la struttura societaria di Anthropic in vista della sua IPO, descrivendo il modello di 'public benefit corporation' e il controllo dei fondatori tramite il Long-Term Benefit Trust, citando analisti come Gil Luria e Jay Ritter.",
+     "b": "a"
+    },
+    {
+     "n": "Financial Times",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Giudizio parziale: il testo dell'articolo non è leggibile (paywall). Dal titolo e dall'occhiello emerge solo che le borse europee (Stoxx 600) avrebbero superato Wall Street nel 2026 dopo la vittoria democratica, senza altri dettagli verificabili.",
+     "b": "t"
+    }
+   ],
+   "divergono": "BBC News e Al Jazeera concordano sulle cause (vittoria democratica, restrizioni sui data center) ma BBC enfatizza il ruolo personale di Musk, mentre Al Jazeera fornisce più contesto statistico (45 iniziative elettorali, stime UBS) e cita più fonti di mercato. SVT Nyheter riporta cifre simili ma in forma più sintetica, senza riferimenti a Musk o alle elezioni locali sui data center. Egypt Independent si distingue perché non tratta affatto il crollo dei titoli, ma la quotazione di Anthropic, un tema collegato solo indirettamente. Financial Times, essendo illeggibile, offre solo un titolo che suggerisce un sorpasso europeo, aspetto non menzionato dalle altre testate."
+  },
+  "z16fcea77": {
+   "voci": [
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "L'articolo non era leggibile per intero: il giudizio si basa solo su titolo e occhiello, che riportano la richiesta di Meloni di una \"sola voce\" europea e la formalizzazione di una decisione entro dicembre.",
+     "b": "t"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Riporta per intero la lettera di Meloni a Costa, elencando cronologicamente gli incontri di novembre (Miami, Oslo, Helsinki, Berlino) come prova del caos di formati. Cita testualmente l'espressione \"ordine sparso\" e la richiesta di decidere il negoziatore entro il Consiglio di dicembre.",
+     "b": "a"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Riporta ampiamente la stessa lettera, aggiungendo contesto: la colloca dopo la \"disfatta\" elettorale di Trump e descrive l'attivismo parallelo del formato E3 (Francia, Germania, Regno Unito) con l'esercitazione militare in Polonia, non citata da Meloni. Riferisce anche le parole di Crosetto sul 13° pacchetto di aiuti all'Ucraina.",
+     "b": "a"
+    },
+    {
+     "n": "Sky TG24",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Inserisce la lettera di Meloni in un live aggiornato su molti fatti della giornata (lettere di Melania Trump, dichiarazioni di Zelensky, Kallas, Crosetto). Riporta che Kaja Kallas si è detta \"d'accordo\" con Meloni sulla necessità di una voce europea unica, dando così sostegno istituzionale alla posizione italiana.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Il Sole 24 Ore aggiunge dettagli assenti altrove, come il contesto post-elettorale americano e l'esercitazione militare E3 in Polonia non menzionata da Meloni nella sua lettera. Sky TG24 è l'unica a riportare la reazione di Kaja Kallas, che si dichiara d'accordo con la richiesta italiana, dando un riscontro europeo che gli altri articoli non citano. La Repubblica si concentra esclusivamente sul testo della lettera senza contesto aggiuntivo, mentre Sky TG24 la inserisce in un flusso di notizie eterogeneo sulla guerra, riducendone il peso relativo. Rai News, essendo leggibile solo in parte, non permette un confronto completo."
   }
  },
  "luoghi": {
@@ -9737,13 +10136,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    ],
    "pt": []
   },
-  "ze9b9c73e": {
-   "n": "New York",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zdae13fab": {
    "n": "Spagna",
    "p": [
@@ -10066,11 +10458,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    ],
    "pt": []
   },
-  "z6be86134": {
-   "n": "Città del Vaticano",
-   "p": [],
-   "pt": []
-  },
   "zbac7fbe7": {
    "n": "Abuja",
    "p": [
@@ -10283,13 +10670,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z6b9f1908": {
-   "n": "Islamabad",
-   "p": [
-    "Pakistan"
    ],
    "pt": []
   },
@@ -10615,13 +10995,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    ],
    "pt": []
   },
-  "z51967600": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z682e511e": {
    "n": "Lima",
    "p": [
@@ -10643,24 +11016,10 @@ window.EDIZIONI["2026-11-05-sera"] = {
    ],
    "pt": []
   },
-  "z6db0bfeb": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal"
-   ],
-   "pt": []
-  },
   "z4b708819": {
    "n": "Abuja",
    "p": [
     "Nigeria"
-   ],
-   "pt": []
-  },
-  "ze838e473": {
-   "n": "Adalia",
-   "p": [
-    "Turkey"
    ],
    "pt": []
   },
@@ -11017,6 +11376,97 @@ window.EDIZIONI["2026-11-05-sera"] = {
     "Ukraine"
    ],
    "pt": []
+  },
+  "z64dd8e1b": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z40e4ee59": {
+   "n": "Navahermosa",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z8ced4f7c": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zc48305fc": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z68453115": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z3f02c534": {
+   "n": "Galles",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z11f47fb1": {
+   "n": "South Carolina",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0922e52a": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zeb2cc354": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z55fe8f96": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z3fdfd243": {
+   "n": "Internazionale",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z9e90b897": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z814ee71c": {
+   "n": "Hawesville, Kentucky",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -11078,7 +11528,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "zdff54e34": 3,
   "zcb15599c": 3,
   "z57a798a8": 2,
-  "ze9b9c73e": 2,
   "zdae13fab": 2,
   "zf386c7d0": 2,
   "zffc8c431": 1,
@@ -11126,7 +11575,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z434964d3": 1,
   "ze9abd860": 1,
   "z5667f2ce": 2,
-  "z6be86134": 1,
   "zbac7fbe7": 2,
   "zb6cc6462": 1,
   "z973eacf7": 1,
@@ -11157,7 +11605,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "zcb29a51c": 2,
   "z97be6b85": 2,
   "z53bbda41": 1,
-  "z6b9f1908": 1,
   "zf8d58b51": 1,
   "z16910a00": 1,
   "z787b03ab": 1,
@@ -11204,13 +11651,10 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z473ccf45": 2,
   "z2dc57928": 2,
   "z760311a0": 2,
-  "z51967600": 2,
   "z682e511e": 1,
   "z9fe66361": 1,
   "zf42443c9": 2,
-  "z6db0bfeb": 2,
   "z4b708819": 1,
-  "ze838e473": 2,
   "z045688e1": 1,
   "z1c0a7847": 1,
   "z8ae56602": 1,
@@ -11260,7 +11704,20 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "ze3ab600e": 1,
   "z7e2d7e23": 2,
   "zc24c9b07": 2,
-  "ze8aa6c26": 1
+  "ze8aa6c26": 1,
+  "z64dd8e1b": 1,
+  "z40e4ee59": 1,
+  "z8ced4f7c": 1,
+  "zc48305fc": 1,
+  "z68453115": 1,
+  "z3f02c534": 1,
+  "z11f47fb1": 1,
+  "z0922e52a": 1,
+  "zeb2cc354": 1,
+  "z55fe8f96": 1,
+  "z3fdfd243": 1,
+  "z9e90b897": 1,
+  "z814ee71c": 1
  },
  "video": {},
  "pillole": []
