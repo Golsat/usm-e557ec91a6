@@ -368,6 +368,78 @@ window.EDIZIONI["2026-11-05-sera"] = {
      "angolo": "",
      "atlas": "Benin",
      "t": "2026-11-05T13:05+00:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/05/news/allarme_bomba_volo_dublino_roma_atterraggio_emergenza_francia-425700771/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T08:52+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/passeggero-su-dublino-roma-dirottato-visti-i-jet-abbiamo-pensato-a-una-bomba_6ab76623-5f96-423d-8646-c7e741bce129.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T11:46+01:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/allarme-bomba-dirottati-tre-voli-verso-litalia-857197b8-f2ac-4cc1-bdb1-121a6e063b25.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T09:45+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/allarmi-bomba-su-due-voli-diretti-a-roma-e-uno-partito-da-malpensa.-altri_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T12:11+01:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/bulgaria-tre-allarmi-bomba-su-aerei-da9c7b24-dc4b-4d2e-93f8-9ad659c1c45a.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T10:00+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3447301/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-05T12:03+01:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/berichte-ueber-mehrere-bombendrohungen-gegen-passagierfluege-in-europa-ld.10055153",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-05T10:57+00:00"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000347660/bombendrohungen-gegen-fluege-in-europa--maschine-in-wien-gelandet?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-05T09:50+00:00"
     }
    ],
    "data": "5 nov",
@@ -577,76 +649,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "data": "5 nov",
    "ora": "17:05",
    "uscita": "17"
-  },
-  {
-   "id": "z77ed4d90",
-   "sez": "dibattito",
-   "titolo": "Francia, sciopero generale e manifestazioni: incendiato un liceo vicino a Tolosa",
-   "orig": "Parigi blindata, in fiamme liceo Tolosa",
-   "lead": "In Francia si è svolta una giornata di sciopero generale e manifestazioni in diverse città, durante la quale un liceo a Tournefeuille, vicino a Tolosa, è stato dato alle fiamme: secondo le prime ricostruzioni un gruppo di persone sarebbe entrato nell'edificio sparando fuochi d'artificio all'interno. Le autorità hanno definito l'episodio inammissibile. Le fonti non specificano nel dettaglio quali siano le richieste dei manifestanti alla base della mobilitazione nazionale.",
-   "more": [
-    "Gli scioperi generali in Francia vengono spesso organizzati da coalizioni sindacali per protestare contro misure economiche o sociali del governo, e rappresentano uno strumento tradizionale di pressione politica. Episodi di violenza isolati, come incendi o scontri, si verificano talvolta ai margini di manifestazioni più ampie e pacifiche."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/parigi-blindata-in-fiamme-liceo-tolosa-ff088be1-9ed4-4c86-93b3-db3b69c55d00.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T15:05+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/francia-giornata-di-sciopero-cortei-in-260-citta-attesi-fino-a-700.000-manifestanti_df510ebe-b004-47ce-9763-a6b8755813ea.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T14:48+01:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/05/news/manifestazioni_francia_liceo_incendiato_tolosa_proteste_parigi-425701398/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T12:22+00:00"
-    },
-    {
-     "n": "Il Fatto Quotidiano",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilfattoquotidiano.it/2026/11/05/sciopero-generale-francia-liceo-fiamme-tolosa-notizie/8561897/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T14:53+00:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/05/news/manifestazioni_francia_liceo_incendiato_tolosa_proteste_parigi-425701398/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T14:33+01:00"
-    },
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-05T15:43+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "17:05",
-   "uscita": "17",
-   "top": true
   },
   {
    "id": "zffc8c431",
@@ -1357,7 +1359,7 @@ window.EDIZIONI["2026-11-05-sera"] = {
   },
   {
    "id": "z51a8b971",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Musk spende quasi 500 milioni di dollari nei midterm, con pochi risultati per i repubblicani",
    "orig": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
    "lead": "Elon Musk ha speso quasi 500 milioni di dollari nelle elezioni di midterm statunitensi del 2026, un record individuale di spesa elettorale, senza riuscire a garantire ai repubblicani i risultati sperati. Secondo i resoconti, solo tre dei 43 candidati repubblicani sostenuti da Musk alla Camera hanno ottenuto risultati significativi. Lo riferisce BBC News.",
@@ -1390,7 +1392,7 @@ window.EDIZIONI["2026-11-05-sera"] = {
   },
   {
    "id": "z8db2b32b",
-   "sez": "tech",
+   "sez": "economia",
    "titolo": "Shein investirà 500 milioni di euro in un hub logistico in Polonia",
    "orig": "Chinese fashion platform Shein to invest €500 million in Polish logistics hub",
    "lead": "La piattaforma di moda cinese Shein investirà 500 milioni di euro nella costruzione di un hub logistico in Polonia. L'espansione arriva dopo l'introduzione da parte dell'Unione Europea di nuove tariffe sui piccoli pacchi provenienti dalle piattaforme di e-commerce cinesi. Lo riferisce Notes from Poland.",
@@ -2394,7 +2396,7 @@ window.EDIZIONI["2026-11-05-sera"] = {
   },
   {
    "id": "zdab25609",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Bhutan verso il debutto al Campionato Saff",
    "orig": "Bhutan prepares for SAFF Championship opener against Bangladesh",
    "lead": "La nazionale calcistica del Bhutan si prepara al debutto nel Campionato Saff, che inizia venerdì 6 novembre in Bangladesh. I Dragon Boys affronteranno gli ospiti nella cruciale partita d'apertura, sperando di qualificarsi per le semifinali del torneo. Lo riferisce Bhutan Broadcasting Service.",
@@ -2765,93 +2767,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "data": "5 nov",
    "ora": "17:05",
    "uscita": "17"
-  },
-  {
-   "id": "z98e42132",
-   "sez": "prima",
-   "titolo": "Allarme bomba su un volo Dublino-Roma, atterraggio d'emergenza in Francia",
-   "orig": "Allarme bomba su un volo Dublino-Roma, atterraggio d'emergenza in Francia",
-   "lead": "Un volo partito da Dublino e diretto a Roma è stato dirottato e ha effettuato un atterraggio d'emergenza a Evreux, in Francia, dopo un allarme bomba a bordo. L'ufficio del primo ministro francese sta monitorando la situazione. Poco dopo è arrivata un'altra segnalazione riguardante un aereo proveniente da Helsinki, atterrato a Fiumicino per lo stesso motivo. Un passeggero del volo dirottato ha raccontato di aver visto jet militari e di aver temuto si trattasse di una bomba. Sono in corso le operazioni di bonifica sui velivoli coinvolti, mentre le autorità cercano di capire l'origine degli allarmi.",
-   "more": [
-    "Gli allarmi bomba su voli civili attivano protocolli standard: scorta di caccia militari, dirottamento verso l'aeroporto più sicuro e bonifica del velivolo da parte degli artificieri. Nella maggior parte dei casi si tratta di falsi allarmi, ma le procedure di sicurezza impongono comunque controlli completi prima di consentire ai passeggeri di proseguire il viaggio."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/05/news/allarme_bomba_volo_dublino_roma_atterraggio_emergenza_francia-425700771/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T08:52+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/passeggero-su-dublino-roma-dirottato-visti-i-jet-abbiamo-pensato-a-una-bomba_6ab76623-5f96-423d-8646-c7e741bce129.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T11:46+01:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/allarme-bomba-dirottati-tre-voli-verso-litalia-857197b8-f2ac-4cc1-bdb1-121a6e063b25.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T09:45+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/05/allarmi-bomba-su-due-voli-diretti-a-roma-e-uno-partito-da-malpensa.-altri_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T12:11+01:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/bulgaria-tre-allarmi-bomba-su-aerei-da9c7b24-dc4b-4d2e-93f8-9ad659c1c45a.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T10:00+00:00"
-    },
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3447301/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-11-05T12:03+01:00"
-    },
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/international/berichte-ueber-mehrere-bombendrohungen-gegen-passagierfluege-in-europa-ld.10055153",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-11-05T10:57+00:00"
-    },
-    {
-     "n": "Der Standard",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://www.derstandard.at/story/3000000347660/bombendrohungen-gegen-fluege-in-europa--maschine-in-wien-gelandet?ref=rss",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-11-05T09:50+00:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "12:37",
-   "uscita": "13"
   },
   {
    "id": "zce70fd6d",
@@ -5005,7 +4920,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
  ],
  "quiz": [],
  "sguardi": {
-  "z98e42132": "Repubblica segue in diretta l'evolversi della vicenda e le reazioni dei passeggeri coinvolti.",
   "zce70fd6d": "La BBC verifica la vicenda del licenziamento diventata virale online.",
   "z5a5578dd": "Al Jazeera analizza l'evoluzione del conflitto dopo un mese di offensiva governativa.",
   "z54fae2f1": "Al Jazeera riprende la nota del Tesoro statunitense sulle nuove sanzioni.",
@@ -5067,7 +4981,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "ze9b9c73e": "Il Financial Times sottolinea il sorpasso delle borse europee su Wall Street",
   "zdae13fab": "Billboard racconta il percorso di Guitarricadelafuente verso il debutto cinematografico",
   "zf386c7d0": "Clarín riporta l'impegno di OpenAI a coprire i costi di infrastrutture locali",
-  "z77ed4d90": "Il Fatto Quotidiano riporta la testimonianza sull'irruzione nel liceo di Tournefeuille",
   "zffc8c431": "The Guardian critica la prevedibilità del film e l'anticipo della stagione natalizia",
   "z7bafe1e5": "Daily Tribune sottolinea che si tratta dei primi voli del Golfo verso Venezuela e Colombia",
   "z4de18186": "The Lancet distingue l'uso dei test non invasivi tra pratica clinica e studi sperimentali",
@@ -5138,14 +5051,12 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "z7287e9ca": "Negli ultimi anni l'Uzbekistan ha portato avanti riforme nel settore agricolo per aumentare l'efficienza della produzione di cotone, riducendo la dipendenza dalle quote statali in vigore durante l'epoca sovietica e investendo nella filiera tessile interna, nell'ambito di una più ampia strategia di modernizzazione economica.",
   "z366ed612": "Negli ultimi due anni si sono registrati diversi episodi di danni a cavi e gasdotti nel Baltico, che hanno portato i paesi della regione, inclusa l'alleanza NATO, a rafforzare il monitoraggio delle infrastrutture sottomarine e a condurre indagini su possibili responsabilità russe.",
   "zb95e33b0": "Il caso Koldo è emerso nel 2024 con le prime accuse di corruzione legate ad appalti per mascherine durante la pandemia, coinvolgendo l'ex ministro Ábalos e il suo assistente Koldo García; da allora l'inchiesta giudiziaria si è ampliata con nuove perquisizioni, arresti e rivelazioni che hanno coinvolto anche ambienti vicini al Partito Popolare.",
-  "z98e42132": "Negli ultimi mesi gli scali europei hanno registrato un aumento di allarmi bomba e segnalazioni di sicurezza su voli civili, spesso rivelatisi infondati ma gestiti con il massimo rigore dalle autorità aeree. Protocolli di dirottamento verso aeroporti alternativi e scorte di caccia militari sono diventati prassi comune per gestire queste emergenze, generando forte apprensione tra i passeggeri coinvolti e intense verifiche di sicurezza una volta a terra.",
   "zce70fd6d": "Nelle settimane precedenti il cuoco italiano Davide Tamburella, impiegato in un ristorante australiano, si era rifiutato più volte di preparare pizze con ananas, ritenendo l'abbinamento un tradimento della tradizione culinaria italiana. Il contrasto con il datore di lavoro è degenerato nel licenziamento, spingendo Tamburella a presentare ricorso alla Fair Work Commission australiana per ottenere la reintegrazione nel suo posto di lavoro.",
   "zdff54e34": "Martedì si sono svolte le elezioni di metà mandato negli Stati Uniti, con una vittoria ampia dei democratici che ha cambiato gli equilibri al Congresso. Da allora diverse analisi internazionali hanno iniziato a valutare le conseguenze del voto su temi che vanno dalla politica energetica ai rapporti con Iran, Cina, India e Caucaso.",
   "zcb15599c": "Nei giorni scorsi un'ondata simile di falsi allarmi bomba aveva già colpito diversi voli europei, con atterraggi di emergenza e deviazioni in vari paesi. Le autorità europee avevano aperto indagini senza però individuare responsabili, mentre cresceva il timore di una regia coordinata.",
   "ze54fabfb": "Dal suo arrivo al Bayern Monaco nel 2023, Harry Kane si è rapidamente affermato come uno dei migliori attaccanti del calcio europeo, vincendo due titoli di Bundesliga e una Coppa di Germania con il club bavarese. Nel 2026 ha ottenuto il Pallone d'Oro, consacrando la sua stagione con i bavaresi e con la nazionale inglese.",
   "z0dee300c": "Il 3 novembre 2026 i democratici hanno conquistato la maggioranza in entrambe le camere del Congresso, infliggendo una sconfitta storica ai repubblicani. Da allora nel partito è iniziata una fase di recriminazioni interne su chi abbia responsabilità nel risultato.",
   "ze9abd860": "Hubert Aiwanger, vicepresidente del governo bavarese ed economia regionale, è stato trovato morto in un hotel di Berlino in circostanze inizialmente non chiarite, suscitando reazioni di cordoglio da parte delle istituzioni bavaresi, incluso il presidente Söder.",
-  "z77ed4d90": "Da settimane in Francia cresce la tensione sociale legata alle politiche di bilancio e alle riforme previdenziali del governo, con sindacati che denunciano tagli alla spesa pubblica e precarietà crescente. Dopo vari scioperi settoriali nelle ultime settimane, le principali sigle sindacali hanno convocato una giornata di mobilitazione nazionale, confluita oggi in manifestazioni diffuse e, in alcuni casi, episodi di violenza come l'incendio del liceo vicino a Tolosa.",
   "z16fcea77": "Negli ultimi mesi l'Unione europea ha mostrato divisioni crescenti sulla gestione del conflitto russo-ucraino, con singoli Stati membri che hanno intrapreso iniziative diplomatiche autonome parallele agli sforzi comuni. Washington ha intanto promosso propri tentativi di mediazione per un cessate il fuoco. In questo contesto l'Italia ha più volte richiamato Bruxelles alla necessità di una posizione unitaria, chiedendo ora la nomina di un negoziatore europeo unico entro dicembre."
  },
  "cronologie": {
@@ -5209,24 +5120,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    [
     "2026-11-05",
     "La UCO perquisisce la casa di Ábalos e arresta sei persone"
-   ]
-  ],
-  "z98e42132": [
-   [
-    "giorni scorsi",
-    "Aumento delle segnalazioni di allarmi bomba su voli europei"
-   ],
-   [
-    "oggi",
-    "Volo Dublino-Roma dirottato e atterrato d'emergenza a Evreux, Francia"
-   ],
-   [
-    "oggi",
-    "Jet militari intercettano l'aereo, passeggeri in stato di allarme"
-   ],
-   [
-    "oggi",
-    "Volo da Helsinki atterra a Fiumicino per analoga segnalazione, bonifiche in corso"
    ]
   ],
   "zce70fd6d": [
@@ -5301,20 +5194,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
     "I primi accertamenti escludono responsabilità altrui"
    ]
   ],
-  "z77ed4d90": [
-   [
-    "Settembre 2026",
-    "Primi scioperi settoriali contro la manovra di bilancio"
-   ],
-   [
-    "Ottobre 2026",
-    "Sindacati annunciano giornata di mobilitazione nazionale"
-   ],
-   [
-    "5 novembre 2026",
-    "Sciopero generale, manifestazioni e incendio di un liceo a Tournefeuille"
-   ]
-  ],
   "z16fcea77": [
    [
     "Ottobre 2026",
@@ -5331,46 +5210,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   ]
  },
  "confronti": {
-  "z98e42132": {
-   "voci": [
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Giudizio parziale: solo titolo e occhiello disponibili. Riporta lo scalo d'emergenza a Evreux e la segnalazione su un volo da Helsinki atterrato a Fiumicino, citando il monitoraggio del governo francese e le operazioni di bonifica in corso.",
-     "b": "t"
-    },
-    {
-     "n": "ORF",
-     "c": "Vienna",
-     "p": "XX",
-     "t": "Presenta un quadro ampio di minacce in tutta Europa, elencando casi in Austria, Belgio, Bulgaria, Danimarca, Praga e Francia, con cifre precise (151 passeggeri, 6 membri equipaggio). Cita fonti ufficiali (ministero dell'Interno austriaco, polizia danese, polizia ceca) e ricorda i sospetti su 'Russia' e 'Iran' per episodi simili recenti, senza confermarli.",
-     "b": "a"
-    },
-    {
-     "n": "NZZ",
-     "c": "Zurigo",
-     "p": "XX",
-     "t": "Articolo informativo basato su dpa e Ansa, descrive la seconda ondata di minacce della settimana e dettaglia i casi di Vienna, Fiumicino e Copenaghen. Riporta la definizione di minaccia 'abstrakte' da parte di un portavoce austriaco e la frase della polizia danese su nessun 'pericolo' rilevato.",
-     "b": "a"
-    },
-    {
-     "n": "Der Standard",
-     "c": "Vienna",
-     "p": "XX",
-     "t": "Si concentra sui due casi austriaci: il volo Wizz Air dirottato a Vienna per una mail di minaccia partita dalla Polonia, e il volo Finnair da Helsinki atterrato regolarmente. Cita il portavoce Loidl, nessun oggetto sospetto trovato.",
-     "b": "a"
-    },
-    {
-     "n": "ANSA",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Racconta l'episodio dal punto di vista di un passeggero italiano a bordo, Nicola Timpone, che descrive la tensione nel vedere i jet militari e l'atterraggio su una pista secondaria circondata da pompieri e ambulanze. Il tono è testimoniale, in prima persona.",
-     "b": "a"
-    }
-   ],
-   "divergono": "Le testate concordano sui fatti base (volo Dublino-Roma dirottato a Evreux), ma ORF e NZZ ampliano il quadro a decine di episodi europei simultanei, mentre Der Standard si concentra solo sui casi austriaci e ANSA racconta l'accaduto tramite la testimonianza di un passeggero. La Repubblica, essendo solo titolo/occhiello, menziona anche un volo da Helsinki a Fiumicino non dettagliato dalle altre. ORF è l'unica a collegare esplicitamente gli episodi al clima di accuse verso Russia e Iran."
-  },
   "zd0d044b4": {
    "voci": [
     {
@@ -5516,56 +5355,9 @@ window.EDIZIONI["2026-11-05-sera"] = {
     }
    ],
    "divergono": "Le testate divergono sul numero di voli coinvolti: Radio Prague Si limita ai quattro diretti a Praga, The Guardian parla di almeno 15 voli, mentre CBC News e Cyprus Mail indicano almeno 25. Sull'attribuzione delle responsabilità, CBC News e Cyprus Mail citano esplicitamente accuse di più paesi europei contro la Russia e un collegamento Regno Unito-Iran, mentre Radio Prague resta neutra senza ipotesi di responsabilità e The Guardian cita solo la smentita russa senza accuse dirette da parte di governi. Prague Morning, infine, non tratta affatto l'episodio delle minacce di bomba, occupandosi di un tema del tutto diverso (truffe sugli affitti)."
-  },
-  "z77ed4d90": {
-   "voci": [
-    {
-     "n": "Rai News",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Giudizio parziale: solo titolo e occhiello disponibili. Il titolo segnala Parigi blindata e il liceo in fiamme a Tolosa, l'occhiello parla di manifestazioni in tutta la Francia.",
-     "b": "t"
-    },
-    {
-     "n": "BBC News",
-     "c": "Londra",
-     "p": "UK",
-     "t": "Articolo ampio e analitico: cita oltre 250.000 manifestanti in quasi 70 città, 70.000 agenti schierati, scioperi in scuole, ospedali, trasporti e raffinerie. Riporta dichiarazioni di sindacalisti (Binet, Léon) e del ministro Nuñez, parlando di 'black bloc' e scontri a Lyon e Rennes.",
-     "b": "a"
-    },
-    {
-     "n": "ANSA",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Racconto fattuale: 260 città coinvolte, adesione di gilet gialli, studenti e agricoltori, disagi su trasporti e chiusura di sale del Louvre e della Torre Eiffel. Riferisce l'incendio del liceo Françoise a Tournefeuille e la condanna del vicepresidente regionale Chibli come 'atti inammissibili'.",
-     "b": "a"
-    },
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Giudizio parziale: solo titolo e occhiello disponibili. Il titolo segnala migliaia in piazza e il liceo incendiato; l'occhiello indica una previsione di 500.000-700.000 manifestanti in Francia, 80.000 a Parigi.",
-     "b": "t"
-    },
-    {
-     "n": "Il Fatto Quotidiano",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Si concentra sull'episodio del liceo Françoise a Tournefeuille, descrivendo l'ingresso di un gruppo di ragazzi con fuochi d'artificio lanciati con mortai, senza feriti. Riporta la stessa condanna di Chibli, definendo i fatti 'atti inammissibili'.",
-     "b": "a"
-    }
-   ],
-   "divergono": "BBC News offre il quadro più dettagliato con cifre su manifestanti (250.000), forze di polizia (70.000) e scontri specifici a Lyon e Rennes, assenti negli articoli italiani. La Repubblica cita stime più alte (500.000-700.000 in Francia, 80.000 a Parigi) non confermate dagli altri. ANSA e Il Fatto Quotidiano si concentrano sull'incendio del liceo di Tournefeuille con dettagli coincidenti sui fuochi d'artificio, mentre Rai News e Repubblica, essendo leggibili solo nei titoli, non permettono confronti approfonditi sui fatti."
   }
  },
  "luoghi": {
-  "z98e42132": {
-   "n": "Evreux",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zce70fd6d": {
    "n": "Australia",
    "p": [
@@ -5991,13 +5783,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
    "n": "Stati Uniti",
    "p": [
     "United States of America"
-   ],
-   "pt": []
-  },
-  "z77ed4d90": {
-   "n": "Tolosa",
-   "p": [
-    "France"
    ],
    "pt": []
   },
@@ -6440,7 +6225,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   }
  },
  "rilievo": {
-  "z98e42132": 3,
   "zce70fd6d": 2,
   "z5a5578dd": 1,
   "z54fae2f1": 1,
@@ -6502,7 +6286,6 @@ window.EDIZIONI["2026-11-05-sera"] = {
   "ze9b9c73e": 2,
   "zdae13fab": 2,
   "zf386c7d0": 2,
-  "z77ed4d90": 3,
   "zffc8c431": 1,
   "z7bafe1e5": 2,
   "z4de18186": 1,
