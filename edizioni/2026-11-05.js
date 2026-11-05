@@ -290,6 +290,24 @@ window.EDIZIONI["2026-11-05"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-05T01:00+01:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/04/i-mercati-brindano-dopo-il-voto-usa-giu-la-difesa-e-rally-di-banche-e-tech_e4cb0902-0e68-4d16-9575-cc40d4484c1a.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-04T22:28+01:00"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/trump_mid_term_mercati_borse_euro-9869395.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T00:18+01:00"
     }
    ],
    "data": "5 nov",
@@ -568,39 +586,6 @@ window.EDIZIONI["2026-11-05"] = {
    "uscita": "mattino",
    "sez_prima": "mondo",
    "riempimento": true
-  },
-  {
-   "id": "z1914bdd4",
-   "sez": "dibattito",
-   "titolo": "Mercati in rialzo dopo il voto Usa: cosa sta succedendo",
-   "orig": "I mercati brindano dopo il voto Usa, giù la difesa e rally di banche e tech",
-   "lead": "Dopo le elezioni di metà mandato negli Stati Uniti, che hanno visto i democratici conquistare la maggioranza al Congresso, i mercati finanziari hanno reagito con un forte rialzo, scrive l'ANSA. Secondo l'agenzia, sono scesi i titoli della difesa, mentre banche e tecnologia hanno messo a segno un rally; il dollaro ha perso terreno su tutte le principali valute e sono crollati petrolio e gas, insieme ai rendimenti dei titoli di Stato. Il Messaggero osserva che gli investitori guardano con favore al declino politico di Donald Trump, ormai definito 'anatra zoppa' dopo la sconfitta alle urne.",
-   "more": [
-    "Le elezioni di metà mandato americane, chiamate 'midterm', si tengono a metà del mandato presidenziale e rinnovano la Camera dei Rappresentanti e un terzo del Senato. Quando il partito del presidente perde la maggioranza in una o entrambe le Camere, la sua capacità di approvare leggi si riduce, e il presidente viene spesso definito 'anatra zoppa' per il resto del mandato."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/04/i-mercati-brindano-dopo-il-voto-usa-giu-la-difesa-e-rally-di-banche-e-tech_e4cb0902-0e68-4d16-9575-cc40d4484c1a.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-04T22:28+01:00"
-    },
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/economia/news/trump_mid_term_mercati_borse_euro-9869395.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T00:18+01:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "07:46",
-   "uscita": "mattino"
   },
   {
    "id": "z5a48c954",
@@ -2066,58 +2051,6 @@ window.EDIZIONI["2026-11-05"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z48b7d470",
-   "sez": "prima",
-   "titolo": "Elezioni midterm: negli Stati Uniti i Democratici vincono su tutti i fronti",
-   "orig": "Elezioni midterm, negli Stati Uniti i Dem si prendono tutto",
-   "lead": "Alle elezioni di midterm negli Stati Uniti i Democratici hanno ottenuto la maggioranza sia alla Camera che al Senato, conquistando anche roccaforti tradizionalmente conservatrici come Kansas, Iowa e Texas. In Georgia è stata eletta la prima governatrice afroamericana, mentre in Minnesota hanno vinto candidati nativi americani. Il voto segna una pesante sconfitta per il presidente Donald Trump e il Partito Repubblicano. Lo riferisce San Marino RTV.",
-   "more": [
-    "Le elezioni di midterm statunitensi rinnovano l'intero Congresso e numerosi governatorati a metà del mandato presidenziale. Una vittoria netta dell'opposizione, come quella democratica, indica un giudizio negativo dell'elettorato sull'operato del presidente in carica e ridisegna gli equilibri di potere a Washington per la seconda metà del mandato."
-   ],
-   "fonti": [
-    {
-     "n": "San Marino RTV",
-     "p": "XX",
-     "c": "San Marino",
-     "u": "https://www.sanmarinortv.sm/news/mondo-c8/elezioni-midterm-negli-stati-uniti-i-dem-si-prendono-tutto-a298092",
-     "angolo": "",
-     "atlas": "San Marino",
-     "t": "2026-11-04T06:12+01:00"
-    },
-    {
-     "n": "Il Fatto Quotidiano",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilfattoquotidiano.it/2026/11/04/midterm-usa-trump-sconfitto-notizie/8560902/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-04T20:13+00:00"
-    },
-    {
-     "n": "la Repubblica – Economia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/11/05/news/elezioni_di_meta_mandato_negli_usa_equilibri_di_potere_e_scenari_futuri-425700315/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-05T00:31+01:00"
-    },
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/cronaca/video/2026/11/05/gli-stati-uniti-che-bocciano-trump-le-pagine-di-oggi-1137482",
-     "angolo": "",
-     "atlas": "Italy"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "07:46",
-   "uscita": "mattino",
-   "sez_prima": "mondo",
-   "riempimento": true
-  },
-  {
    "id": "zc4b30360",
    "sez": "mondo",
    "titolo": "Bruxelles non si aspetta miglioramenti nei rapporti con Trump dopo i midterm",
@@ -2825,6 +2758,41 @@ window.EDIZIONI["2026-11-05"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-04T15:15+00:00"
+    },
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/news/mondo-c8/elezioni-midterm-negli-stati-uniti-i-dem-si-prendono-tutto-a298092",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-11-04T06:12+01:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/04/midterm-usa-trump-sconfitto-notizie/8560902/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-04T20:13+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/obiettivo-capitale/mercati/2026/11/05/news/elezioni_di_meta_mandato_negli_usa_equilibri_di_potere_e_scenari_futuri-425700315/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T00:31+01:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/cronaca/video/2026/11/05/gli-stati-uniti-che-bocciano-trump-le-pagine-di-oggi-1137482",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "5 nov",
@@ -2991,7 +2959,6 @@ window.EDIZIONI["2026-11-05"] = {
   "zb97729bd": "NOS e VRT NWS concordano sui dettagli tecnici del rientro e sul fallimento del tentativo di salvataggio.",
   "zf23e61c9": "Il New York Times sottolinea l'incertezza dei passeggeri rimasti a bordo senza una soluzione definita.",
   "z175b90b6": "La Rai riporta la lettura positiva di Ghalibaf sul risultato del voto americano.",
-  "z1914bdd4": "ANSA e Il Messaggero descrivono la reazione positiva dei mercati come conseguenza diretta della perdita di potere di Trump.",
   "z5a48c954": "Gambero Rosso mette in evidenza la lunga attesa burocratica prima dell'apertura e i prezzi contenuti del locale.",
   "z345e9363": "Billboard sottolinea la particolarità del percorso professionale di Johnson, dalla musica per anime alla carica di procuratore.",
   "z7441d981": "RTÉ News riporta la denuncia dell'EPA sulla gestione delle infrastrutture idriche nazionali.",
@@ -3034,7 +3001,6 @@ window.EDIZIONI["2026-11-05"] = {
   "z50c391be": "La Cucina Italiana sottolinea la posizione raggiunta da Piazza Duomo come miglior ristorante italiano.",
   "z3f8141fb": "Philippine Daily Inquirer ricostruisce la sequenza decisiva del quarto periodo guidata da Kuminga.",
   "ze6b9526e": "Le Matin Algérie segnala, citando fonti proprie, un breve incontro tra i due capi di stato maggiore a Parigi.",
-  "z48b7d470": "San Marino RTV evidenzia le roccaforti conservatrici conquistate dai Democratici e i risultati storici in Georgia e Minnesota.",
   "zc4b30360": "NOS raccoglie le reazioni caute e anonime di diplomatici europei a Bruxelles.",
   "z6f927fe6": "The New York Times segue le consultazioni di Herzog e le reazioni di Netanyahu e dei suoi rivali.",
   "zdea83649": "SOS Médias Burundi riporta la riunione d'urgenza convocata dal nuovo responsabile del campo.",
@@ -3060,8 +3026,7 @@ window.EDIZIONI["2026-11-05"] = {
   "z175b90b6": "Le tensioni tra Stati Uniti e Iran erano aumentate dopo i bombardamenti statunitensi sui siti nucleari iraniani nel giugno 2025 e le successive minacce reciproche. Trump aveva più volte evocato un'opzione militare contro Teheran. In vista delle elezioni di metà mandato, il tema della guerra con l'Iran era diventato centrale nel dibattito politico interno americano, con i democratici critici verso l'approccio bellicista dell'amministrazione.",
   "z2b692233": "Negli ultimi anni l'Africa occidentale e meridionale è diventata una rotta sempre più strategica per il narcotraffico internazionale, grazie a porti poco controllati e corruzione diffusa. Le autorità hanno già segnalato sequestri record di cocaina sudamericana destinata all'Europa. Recentemente sono emerse prove che alcuni gruppi criminali hanno iniziato a installare laboratori per produrre droghe sintetiche direttamente sul continente, non più solo come punto di transito.",
   "z329702d1": "In Bolivia la crisi giudiziaria si è aggravata dopo accuse di corruzione e traffico di influenze nel Tribunale Supremo di Giustizia. Romer Saucedo, presidente dell'organo, si è dichiarato vittima di persecuzione politica e ha lasciato il paese dirigendosi in Brasile, mentre la Procura Generale ha emesso un ordine di arresto per presunto traffico di sostanze controllate, alimentando un acceso dibattito pubblico sulla credibilità delle accuse.",
-  "ze21b40b6": "Haiti è da anni travolta dalla violenza delle bande armate che controllano gran parte della capitale Port-au-Prince, con missioni internazionali di sicurezza finora insufficienti a ripristinare l'ordine. El Salvador, sotto la presidenza di Nayib Bukele, ha costruito la propria immagine su una drastica repressione delle gang interne (mara) e ha progressivamente offerto supporto militare e tecnico ad altri paesi della regione per contrastare la criminalità organizzata.",
-  "z48b7d470": "Negli Stati Uniti il malcontento verso l'amministrazione Trump era cresciuto nei mesi precedenti a causa di politiche economiche contestate, controversie sull'immigrazione e tensioni internazionali, inclusi i raid in Iran. I sondaggi pre-elettorali indicavano un vantaggio democratico in diversi stati chiave, mentre il partito puntava a mobilitare elettori giovani, minoranze e comunità native per riconquistare il Congresso dopo anni di controllo repubblicano."
+  "ze21b40b6": "Haiti è da anni travolta dalla violenza delle bande armate che controllano gran parte della capitale Port-au-Prince, con missioni internazionali di sicurezza finora insufficienti a ripristinare l'ordine. El Salvador, sotto la presidenza di Nayib Bukele, ha costruito la propria immagine su una drastica repressione delle gang interne (mara) e ha progressivamente offerto supporto militare e tecnico ad altri paesi della regione per contrastare la criminalità organizzata."
  },
  "cronologie": {
   "z630e117e": [
@@ -3290,24 +3255,6 @@ window.EDIZIONI["2026-11-05"] = {
    [
     "5 novembre 2026",
     "Ritrovato il veicolo dei tecnici, Bukele rivendica l'intervento"
-   ]
-  ],
-  "z48b7d470": [
-   [
-    "2025",
-    "Calo della popolarità di Trump nei sondaggi"
-   ],
-   [
-    "Ottobre 2026",
-    "Campagna elettorale serrata nei swing states"
-   ],
-   [
-    "3 novembre 2026",
-    "Si svolgono le elezioni di midterm"
-   ],
-   [
-    "5 novembre 2026",
-    "Confermata la vittoria democratica a Camera e Senato"
    ]
   ]
  },
@@ -3585,13 +3532,6 @@ window.EDIZIONI["2026-11-05"] = {
    "n": "Teheran",
    "p": [
     "Iran"
-   ],
-   "pt": []
-  },
-  "z1914bdd4": {
-   "n": "New York",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -3883,13 +3823,6 @@ window.EDIZIONI["2026-11-05"] = {
    ],
    "pt": []
   },
-  "z48b7d470": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zc4b30360": {
    "n": "Bruxelles",
    "p": [
@@ -3974,7 +3907,6 @@ window.EDIZIONI["2026-11-05"] = {
   "zb97729bd": 2,
   "zf23e61c9": 1,
   "z175b90b6": 3,
-  "z1914bdd4": 1,
   "z5a48c954": 1,
   "z345e9363": 1,
   "z7441d981": 1,
@@ -4017,7 +3949,6 @@ window.EDIZIONI["2026-11-05"] = {
   "z50c391be": 2,
   "z3f8141fb": 1,
   "ze6b9526e": 1,
-  "z48b7d470": 2,
   "zc4b30360": 1,
   "z6f927fe6": 2,
   "zdea83649": 1,
