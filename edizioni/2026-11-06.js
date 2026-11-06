@@ -281,30 +281,6 @@ window.EDIZIONI["2026-11-06"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zf276eb76",
-   "sez": "economia",
-   "titolo": "Crollano i titoli tecnologici asiatici, il Nikkei sotto i 60.000 punti",
-   "orig": "Asian tech stocks sink",
-   "lead": "I mercati tecnologici asiatici hanno registrato forti perdite, descritte come un \"completo massacro\", con l'indice Nikkei 225 sceso sotto i 60.000 punti per la prima volta da maggio e il Kospi sudcoreano sceso sotto i 5.000 punti. Lo riferisce Financial Times.",
-   "more": [
-    "Il Nikkei 225 e il Kospi sono i principali indici azionari rispettivamente di Tokyo e Seul, fortemente influenzati dal peso dei titoli tecnologici. Le oscillazioni di questi mercati sono spesso legate a movimenti globali sui tassi d'interesse, sulle valutazioni dei semiconduttori e sulla fiducia degli investitori nel settore tech."
-   ],
-   "fonti": [
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-06T05:07+00:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "07:53",
-   "uscita": "mattino"
-  },
-  {
    "id": "zf308d2ef",
    "sez": "salute",
    "titolo": "La Cina candida Song Li alla guida dell'OMS",
@@ -2442,32 +2418,8 @@ window.EDIZIONI["2026-11-06"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z1946ea4b",
-   "sez": "mondo",
-   "titolo": "Avviata la procedura di impeachment in Paraguay dopo le proteste sul crack bancario",
-   "orig": "Verfahren gegen Präsident Pena eingeleitet",
-   "lead": "Il crac dell'istituto di credito digitale Ueno ha scatenato un'ondata di imponenti manifestazioni popolari in Paraguay, lasciando milioni di correntisti senza accesso ai propri conti bancari e nel timore di aver perso i propri risparmi. Le proteste si sono indirizzate contro il presidente Santiago Pena a causa dei suoi passati legami con la banca, portando l'opposizione a chiederne le dimissioni. Sebbene il presidente abbia annunciato in tv il proprio passo indietro, il Congresso ha avviato la procedura d'accusa. Lo riferisce ORF.",
-   "more": [
-    "I fallimenti degli istituti di credito digitali possono generare gravi crisi di liquidità e panico finanziario, specialmente in assenza di idonee garanzie statali sui depositi. Quando emergono connessioni tra i vertici politici e la gestione bancaria, il malcontento popolare si trasforma rapidamente in crisi di governo e procedimenti istituzionali."
-   ],
-   "fonti": [
-    {
-     "n": "ORF",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://orf.at/stories/3447309/",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-11-05T23:21+01:00"
-    }
-   ],
-   "data": "5 nov",
-   "ora": "07:37",
-   "uscita": "mattino"
-  },
-  {
    "id": "zec20eea6",
-   "sez": "mondo",
+   "sez": "ambiente",
    "titolo": "Le buone notizie della settimana: progressi su natura, salute e ambiente",
    "orig": "What went right this week: the good news that matters",
    "lead": "Nel corso dell'ultima settimana si sono registrati importanti successi a livello globale in ambito ambientale e sanitario. Tra i principali traguardi figurano interventi di ripristino naturale realizzati su una scala senza precedenti e l'azzeramento della trasmissione del virus HIV da madre a figlio sull'isola di Barbados. Inoltre, il settore della sostenibilità energetica ha registrato una forte accelerazione nello sviluppo di tecnologie per i carburanti a ridotto impatto ambientale, confermando una tendenza positiva nei progetti internazionali. Lo riferisce Positive News.",
@@ -2741,6 +2693,15 @@ window.EDIZIONI["2026-11-06"] = {
      "angolo": "",
      "atlas": "Japan",
      "t": "2026-11-06T13:00+09:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T05:07+00:00"
     }
    ],
    "data": "6 nov",
@@ -3672,6 +3633,15 @@ window.EDIZIONI["2026-11-06"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-06T06:16+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3447309/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-05T23:21+01:00"
     }
    ],
    "data": "6 nov",
@@ -4047,7 +4017,6 @@ window.EDIZIONI["2026-11-06"] = {
   "zd021b281": "L'agenzia spaziale mette in risalto il valore scientifico dell'immagine di Messier 30 per la ricostruzione galattica.",
   "ze0114f4b": "Le testate specializzate mettono in evidenza l'uscita del cortometraggio e lo staff creativo del progetto.",
   "z938a3cc6": "Il giornale segue gli aggiornamenti in tempo reale delle udienze del processo di impeachment al Senato.",
-  "z1946ea4b": "La testata sottolinea il collasso della banca digitale, le proteste di piazza e l'avvio dell'impeachment presidenziale.",
   "zec20eea6": "La pubblicazione mette in risalto i risultati positivi ottenuti nella conservazione della natura e nella salute pubblica.",
   "z7b90323e": "Il quotidiano evidenzia le riflessioni del gruppo su cinquant'anni di storia comune e sulle sfide del mondo attuale.",
   "zf344d148": "Il giornale sottolinea l'avvio formale dei lavori della coalizione di maggioranza in vista del voto del 2027.",
@@ -4103,7 +4072,6 @@ window.EDIZIONI["2026-11-06"] = {
   "z85c4060f": "La testata riporta la reazione dei mercati e le accuse di Trump ai democratici.",
   "z47f81b79": "La rivista evidenzia sia i progressi conoscitivi sia i ritardi nelle politiche climatiche.",
   "z8a72aaf8": "La testata riporta i dettagli tecnici dell'agevolazione decisa da Arera.",
-  "zf276eb76": "La testata descrive il calo come eccezionale per intensità.",
   "zf308d2ef": "The Lancet evidenzia l'ambizione cinese di assumere un ruolo guida nella sanità globale.",
   "zd4fec10e": "Libya Herald riferisce l'incontro tra GECOL e GIZ sulla transizione energetica libica.",
   "zcd3e0583": "The Japan Times segnala l'avanzamento della riforma fiscale voluta da Takaichi.",
@@ -4912,13 +4880,6 @@ window.EDIZIONI["2026-11-06"] = {
    ],
    "pt": []
   },
-  "z1946ea4b": {
-   "n": "Asunción",
-   "p": [
-    "Paraguay"
-   ],
-   "pt": []
-  },
   "zec20eea6": {
    "n": "Londra",
    "p": [
@@ -5304,13 +5265,6 @@ window.EDIZIONI["2026-11-06"] = {
    ],
    "pt": []
   },
-  "zf276eb76": {
-   "n": "Tokyo",
-   "p": [
-    "Japan"
-   ],
-   "pt": []
-  },
   "zf308d2ef": {
    "n": "Pechino",
    "p": [
@@ -5471,7 +5425,6 @@ window.EDIZIONI["2026-11-06"] = {
   "zd021b281": 1,
   "ze0114f4b": 1,
   "z938a3cc6": 1,
-  "z1946ea4b": 1,
   "zec20eea6": 1,
   "z7b90323e": 1,
   "zf344d148": 1,
@@ -5527,7 +5480,6 @@ window.EDIZIONI["2026-11-06"] = {
   "z85c4060f": 2,
   "z47f81b79": 1,
   "z8a72aaf8": 1,
-  "zf276eb76": 2,
   "zf308d2ef": 1,
   "zd4fec10e": 1,
   "zcd3e0583": 1,
