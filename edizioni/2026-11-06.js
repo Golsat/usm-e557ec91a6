@@ -82,41 +82,6 @@ window.EDIZIONI["2026-11-06"] = {
    "riempimento": true
   },
   {
-   "id": "z6c2d75ae",
-   "sez": "prima",
-   "titolo": "Crollo delle borse asiatiche per i timori sui tagli agli investimenti nell'IA negli USA",
-   "orig": "Le borse oggi, 6 novembre. Crolla il Nikkei, Seul sospende le contrattazioni",
-   "lead": "Giovedì 6 novembre le principali borse asiatiche hanno registrato pesanti perdite: l'indice Nikkei della Borsa di Tokyo è crollato superando un calo del 5%, mentre la Borsa di Seul si è vista costretta a sospendere temporaneamente le contrattazioni. Il forte scossone sui mercati orientali è avvenuto sulla scia dei ribassi registrati a Wall Street ed è stato innescato dai timori dei mercati legati all'esito delle elezioni Midterm negli Stati Uniti, che potrebbero portare a mutamenti normativi capaci di colpire negativamente i finanziamenti nel settore dell'intelligenza artificiale.",
-   "more": [
-    "Le borse valori asiatiche di Tokyo e Seul sono tra i principali centri finanziari globali e ospitano importanti aziende tecnologiche e produttrici di semiconductori. L'andamento dei mercati orientali è strettamente collegato alle dinamiche di Wall Street e ai mutamenti della politica economica americana, da cui dipendono in gran parte la domanda globale e le catene di fornitura ad alta tecnologia."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/economia/2026/11/06/diretta/le_borse_di_oggi_6_novembre-425703020/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-06T01:41+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/06/borsa-tokyo-crolla-in-apertura-nikkei-51_e7ff7704-62a6-4166-aa2f-f36a2acf4c5d.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-06T07:18+01:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "07:37",
-   "uscita": "mattino",
-   "sez_prima": "economia",
-   "riempimento": true
-  },
-  {
    "id": "zcd1cb29c",
    "sez": "prima",
    "titolo": "Trump prospetta uno storico accordo di pace tra Russia e Ucraina",
@@ -209,30 +174,6 @@ window.EDIZIONI["2026-11-06"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-06T06:00+00:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "07:37",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z10c34944",
-   "sez": "mondo",
-   "titolo": "Il presidente del Paraguay si dimette dopo il blocco dei risparmi bancari",
-   "orig": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-   "lead": "Il presidente del Paraguay, il conservatore Santiago Peña, si è dimesso a seguito di una drammatica crisi finanziaria e politica che ha provocato il congelamento dei risparmi di milioni di cittadini. Al centro del tracollo c'è il fallimento di Ueno Bank, istituto digitale cresciuto rapidamente sotto l'amministrazione Peña fino a raccogliere i depositi di circa il 60% della popolazione adulta del Paese sudamericano. Lo riferisce The Guardian.",
-   "more": [
-    "Il settore bancario in Paesi in via di sviluppo richiede controlli prudenziali rigorosi per prevenire rischi sistemici. Quando un grande istituto finanziario fallisce improvvisamente, l'effetto sul blocco della liquidità dei cittadini e delle imprese può paralizzare l'economia nazionale, innescando immediate crisi istituzionali e sociali."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-06T06:16+00:00"
     }
    ],
    "data": "6 nov",
@@ -2837,6 +2778,15 @@ window.EDIZIONI["2026-11-06"] = {
      "angolo": "",
      "atlas": "Madagascar",
      "t": "2026-11-06T00:20+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T06:16+00:00"
     }
    ],
    "data": "6 nov",
@@ -3073,7 +3023,7 @@ window.EDIZIONI["2026-11-06"] = {
   },
   {
    "id": "z8814a9f0",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Giochi Olimpici Giovanili 2026: Kashyap agli ottavi nel tennistavolo, l'Iran batte l'Italia nel futsal",
    "orig": "Kashyap reaches round of 16 while swimmers exit 50-metre events at Youth Olympic Games",
    "lead": "Ai Giochi Olimpici Giovanili 2026 di Dakar, in Senegal, l'atleta Stuti Kashyap di Antigua e Barbuda ha raggiunto gli ottavi di finale nel tennistavolo, venendo poi sconfitta dall'austriaca Nina Skerbinz. Parallelamente, nel torneo di futsal femminile, la nazionale iraniana ha superato l'Italia per 3-1 nella giornata di giovedì 5 novembre.",
@@ -3173,11 +3123,9 @@ window.EDIZIONI["2026-11-06"] = {
  "sguardi": {
   "z2515b308": "BBC News mette in risalto l'intenzione del presidente di blindare le modifiche apportate allo studio presidenziale per tutelarle dalle future amministrazioni.",
   "z0c7009cd": "BBC News sottolinea come le due metropoli più popolose degli Stati Uniti siano ora entrambe affidate a esponenti del socialismo democratico.",
-  "z6c2d75ae": "la Repubblica evidenzia le preoccupazioni degli investitori sulle ripercussioni delle politiche statunitensi negli investimenti strategici sull'IA.",
   "zcd1cb29c": "Deutsche Welle rileva la reiterazione delle promesse presidenziali sulla fine del conflitto senza che finora si sia giunti a una soluzione concreta.",
   "z6f7cf06a": "BBC News analizza se la protesta contro i centri dati abbia condizionato l'esito delle ultime elezioni statunitensi.",
   "z6a067af2": "BBC News dà voce alla richiesta di chiarimenti dei parenti dei cittadini britannici deceduti nel rogo in Spagna.",
-  "z10c34944": "The Guardian sottolinea le responsabilità dell'esecutivo nel rapido sviluppo dell'istituto bancario poi giunto al collasso.",
   "z78d04dc9": "Al Jazeera mette in evidenza le valutazioni degli analisti sui rischi politici delle esenzioni concesse da Teheran a quattro Paesi.",
   "zdc893d81": "Al Jazeera evidenzia gli sforzi della diplomazia irachena per evitare il coinvolgimento delle fazioni armate nel conflitto regionale.",
   "z13259914": "HotNews evidenzia la ferma presa di posizione della Casa Bianca per fermare le speculazioni sul futuro dei due segretari.",
@@ -3271,7 +3219,6 @@ window.EDIZIONI["2026-11-06"] = {
   "zea34044c": "Negli ultimi mesi i principali editori e piattaforme di contenuti giapponesi hanno svelato i palinsesti e i progetti in produzione per le prossime stagioni narrative. Gli annunci di adattamenti animati da parte delle etichette specializzate hanno suscitato grande interesse tra gli appassionati del settore.",
   "z2515b308": "Trump ha intrapreso ristrutturazioni alla Casa Bianca, inclusa la demolizione dell'ala est. Dopo risultati elettorali deludenti, il presidente ha concentrato la sua attività settimanale su progetti decorativi dello studio presidenziale. L'obiettivo dichiarato è preservare la sua impronta estetica contro modifiche future da parte dei successori, consolidando il suo lascito architettonico e simbolico all'interno della residenza, in un momento di particolare tensione politica per la sua amministrazione.",
   "z0c7009cd": "Il panorama politico statunitense ha visto una crescente ascesa della corrente socialista democratica all'interno delle grandi metropoli. Dopo la storica vittoria ottenuta a New York lo scorso anno, l'attenzione si è spostata su Los Angeles. La sfida tra la sindaca uscente Karen Bass e la sfidante Nithya Raman ha polarizzato l'elettorato californiano su temi di giustizia sociale, culminando in un risultato che segna un inedito allineamento politico tra le due principali città americane.",
-  "z6c2d75ae": "I mercati globali hanno mostrato segni di forte nervosismo in vista delle elezioni di metà mandato negli Stati Uniti. L'incertezza politica ha alimentato timori su possibili cambiamenti normativi e tagli ai finanziamenti nel settore dell'intelligenza artificiale, pilastro degli investimenti tecnologici. Dopo una seduta negativa a Wall Street, il pessimismo si è trasmesso ai listini asiatici, colpendo duramente i titoli tecnologici e portando alla sospensione delle contrattazioni in alcune borse chiave della regione.",
   "zcd1cb29c": "Nonostante i precedenti proclami sulla fine rapida del conflitto rimasti inattuati, l'amministrazione Trump ha intensificato la pressione diplomatica tra Russia e Ucraina. La diplomazia parallela della first lady ha portato a una tregua localizzata a Oleshky. Questi sforzi mirano a un accordo di vasta scala che ridefinisca gli equilibri di sicurezza, cercando una via d'uscita negoziale che possa coinvolgere l'intera comunità internazionale e porre fine alle ostilità permanenti in Europa.",
   "zc2a6168b": "Le elezioni di metà mandato hanno visto una significativa avanzata democratica a livello nazionale, definita dagli osservatori 'ondata blu'. Tuttavia, la strategia repubblicana di ridisegno dei distretti elettorali ha trovato una roccaforte in Texas. Attraverso una mappatura mirata dei collegi, il Grand Old Party è riuscito a mantenere un seggio chiave nonostante il trend generale sfavorevole, scatenando dibattiti sull'efficacia del gerrymandering e diventando oggetto di satira nei principali programmi televisivi statunitensi.",
   "z118417e8": "La North Carolina è diventata un terreno di scontro cruciale dopo che la mappatura elettorale del 2023 aveva tentato di blindare i seggi per i conservatori. Il clima politico è mutato drasticamente a causa delle recenti alluvioni che hanno colpito lo Stato. La gestione dell'emergenza ha influenzato profondamente l'opinione pubblica, spingendo molti elettori verso i candidati democratici, che sono riusciti a ribaltare collegi storicamente repubblicani nonostante le barriere create dalla nuova suddivisione territoriale.",
@@ -3444,20 +3391,6 @@ window.EDIZIONI["2026-11-06"] = {
    [
     "Oggi",
     "Proclamazione della vittoria di Raman a sindaca di Los Angeles"
-   ]
-  ],
-  "z6c2d75ae": [
-   [
-    "Inizio novembre",
-    "Aumento della volatilità a Wall Street per le elezioni Midterm"
-   ],
-   [
-    "5 novembre",
-    "Chiusura in netto calo dei listini tecnologici americani"
-   ],
-   [
-    "6 novembre",
-    "Crollo del Nikkei superiore al 5% e stop a Seul"
    ]
   ],
   "zcd1cb29c": [
@@ -3633,14 +3566,6 @@ window.EDIZIONI["2026-11-06"] = {
    ],
    "pt": []
   },
-  "z6c2d75ae": {
-   "n": "Tokyo e Seul",
-   "p": [
-    "Japan",
-    "South Korea"
-   ],
-   "pt": []
-  },
   "zcd1cb29c": {
    "n": "Washington",
    "p": [
@@ -3661,13 +3586,6 @@ window.EDIZIONI["2026-11-06"] = {
    "n": "Bédar",
    "p": [
     "Spain"
-   ],
-   "pt": []
-  },
-  "z10c34944": {
-   "n": "Paraguay",
-   "p": [
-    "Paraguay"
    ],
    "pt": []
   },
@@ -4239,11 +4157,9 @@ window.EDIZIONI["2026-11-06"] = {
  "rilievo": {
   "z2515b308": 2,
   "z0c7009cd": 2,
-  "z6c2d75ae": 2,
   "zcd1cb29c": 2,
   "z6f7cf06a": 1,
   "z6a067af2": 1,
-  "z10c34944": 1,
   "z78d04dc9": 1,
   "zdc893d81": 1,
   "z13259914": 2,
