@@ -3,6 +3,858 @@ window.EDIZIONI["2026-11-06-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z9e7ad07e",
+   "sez": "prima",
+   "titolo": "Usa, si dimette il procuratore Quiñones dopo le indagini sul caso Trump",
+   "orig": "US prosecutor who led Trump-backed election probe exits Justice Department",
+   "lead": "Il procuratore federale Jason Reding Quiñones, incaricato dal Dipartimento di Giustizia statunitense di esaminare le passate inchieste penali su Donald Trump, ha rassegnato le proprie dimissioni a Miami. La decisione giunge mentre l'amministrazione si prepara ad affrontare una serie di nuove indagini promosse dai deputati democratici al Congresso di Washington.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T17:02+00:00"
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/us-justice-dept-dhillon-9.7412238?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-06T13:13-05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z2a3c2262",
+   "sez": "prima",
+   "titolo": "Taiwan chiude l'ufficio in Papua Nuova Guinea e accusa Pechino",
+   "orig": "Taiwan to close representative office in Papua New Guinea, blames China",
+   "lead": "Il governo di Taiwan ha annunciato la chiusura del proprio ufficio di rappresentanza in Papua Nuova Guinea, attribuendo la responsabilità della rottura alle crescenti pressioni diplomatiche esercitate da Pechino. Le autorità di Taipei hanno inoltre confermato l'immediata interruzione degli acquisti di gas naturale liquefatto provenienti dalla nazione del Pacifico sud-occidentale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T16:40+00:00"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/11/07/2003867307",
+     "angolo": "",
+     "atlas": "Taiwan"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "zc59af379",
+   "sez": "prima",
+   "titolo": "Israele, i partiti arabi sostengono Eisenkot contro Netanyahu",
+   "orig": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
+   "lead": "I partiti a maggioranza araba in Israele, Joint List e Ra’am, hanno formalizzato il loro appoggio al leader centrista Gadi Eisenkot nel tentativo di consentirgli di formare un nuovo governo ed estromettere Benjamin Netanyahu. La convergenza politica punta a superare l'impasse parlamentare attraverso concessioni programmatiche tra opposizioni e rappresentanze arabe.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/jerusalem-daily-arab-parties-back-eisenkot-against-netanyahu",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T16:21+00:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/elections/2026-11-06/ty-article/.premium/eisenkot-has-no-choice-he-must-break-his-pledge-and-link-up-with-arab-parties/000001a1-ad9b-d041-a5f9-edbb60f30000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-06T15:31+02:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z8bda07bb",
+   "sez": "prima",
+   "titolo": "Ucraina, smentite le notizie su presunte camere di tortura per i renitenti",
+   "orig": "Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?",
+   "lead": "Le forze di sicurezza ucraine hanno arrestato nei pressi di Kiev una donna accusata di aver diffuso falsi video su presunte torture inflitte a uomini renitenti alla leva. Le indagini hanno smentito le voci virali, qualificando l'episodio come una sofisticata provocazione informativa orchestrata nell'ambito della guerra psicologica con la Russia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T15:14+00:00"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/kyiv-torture-chamber-debunked-rumors-russia-and-what-really-happened/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-06T18:07+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z3b641e61",
+   "sez": "mondo",
+   "titolo": "Minacce di bomba sui voli in Europa, caccia militari in allerta",
+   "orig": "Fighter jets scrambled as bomb threats target flights across Europe",
+   "lead": "Caccia militari sono decollati d'urgenza per scortare almeno sedici voli passeggeri civili nei cieli europei dopo una serie di minacce di bomba pervenute simultaneamente. L'emergenza ha imposto rotte deviate e massimi protocolli di sicurezza negli scali aeroportuali, riaccendendo i timori di azioni coordinate di guerra ibrida contro l'aviazione commerciale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/world/news/2026-11/europe-bomb-threats-flights-fighter-jets-hoax.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-05T17:03+01:00"
+    },
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/europe/after-dozens-of-flights-broadcasters-across-europe-get-bomb-threats-whats-going-on/articleshow/135613829.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-06T21:45+05:30"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/europe/20261106-vols-menac%C3%A9s-fausses-alertes-bombe-arme-redoutable-guerre-hybride",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-06T17:17+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/menaces-a-la-bombe-des-chaines-de-television-europeennes-evacuees/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-06T18:26+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1d10bdb2",
+   "sez": "mondo",
+   "titolo": "Francia, oltre mezzo milione di persone in piazza contro il governo",
+   "orig": "Biggest day of protests in France this year as workers join school pupils on the streets",
+   "lead": "Oltre cinquecentosettantamila persone sono scese in piazza in tutta la Francia nella più grande giornata di mobilitazione dell'anno, guidata da lavoratori in sciopero e studenti medi. I blocchi hanno interessato più di un liceo su quattro a livello nazionale per protestare contro le attuali politiche economiche e sociali governative.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/articles/cwdr883nmjg7o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T09:08+00:00"
+    },
+    {
+     "n": "Tehran Times",
+     "p": "XX",
+     "c": "Teheran",
+     "u": "https://www.tehrantimes.com/news/531885/France-sees-biggest-day-of-protests-in-years",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-06T16:51+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z672d23dc",
+   "sez": "mondo",
+   "titolo": "Tensioni tra Grecia e Turchia sul cavo sottomarino per Cipro",
+   "orig": "GSI cable sparks new crisis and tension between Greece and Turkey",
+   "lead": "Si riaccende la tensione diplomatica tra Grecia e Turchia a causa dei rilievi marittimi per il cavo elettrico sottomarino Great Sea Interconnector destinato a collegare Creta a Cipro. Ankara e Atene hanno emesso notifiche Navtex contrapposte, rivendicando ciascuna la giurisdizione sulle acque e sulla piattaforma continentale del Mediterraneo orientale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Keep Talking Greece",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.keeptalkinggreece.com/2026/11/06/gsi-cable-survey-vessels-navtex-greece-turkey/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-06T17:17+00:00"
+    },
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/11/06/turkey-issues-counter-navtex-challenging-cyprus-over-east-med-cable-surveys",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-11-06T19:49+02:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z143cf4d3",
+   "sez": "mondo",
+   "titolo": "Usa, il voto latino si sposta: repubblicani in calo di 14 punti",
+   "orig": "El voto latino mueve el tablero en Estados Unidos: 14 puntos menos para los republicanos",
+   "lead": "Uno spostamento significativo dell'elettorato latino negli Stati Uniti ha determinato un calo di quattordici punti percentuali per il Partito Repubblicano, modificando gli equilibri in circoscrizioni precedentemente dominate da Donald Trump durante la tornata presidenziale del 2024 e ridisegnando la geografia politica. Lo riferisce 14ymedio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/internacional/voto-latino-mueve-tablero-ee_1_1132897.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-11-06T17:14+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/venezuela/se-conocen-nuevos-detalles-del-bombardeo-en-venezuela-contra-un-campamento-del-eln-habria-participado-estados-unidos-segun-nyt-3598685",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-06T13:14-05:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/colombiana-de-23-anos-fue-detenida-por-ice-cuando-abordaba-un-vuelo-en-estados-unidos-estudiaba-en-berkeley-y-tenia-una-solicitud-de-asilo-pendiente-3599013",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-06T11:19-05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7193afb7",
+   "sez": "economia",
+   "titolo": "Gabon, piano del governo contro la carenza di carburante",
+   "orig": "Pénuries de carburant : le gouvernement mise sur une nouvelle raffinerie et le renforcement des stocks",
+   "lead": "Per contrastare le ricorrenti carenze di carburante che paralizzano il mercato nazionale, il governo del Gabon ha varato un piano d'emergenza che prevede la costruzione di una nuova raffineria, il finanziamento della compagnia Sogara e il potenziamento dei depositi strategici di stoccaggio. Lo riferisce Gabonreview.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/penuries-de-carburant-le-gouvernement-mise-sur-une-nouvelle-raffinerie-et-le-renforcement-des-stocks/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-06T10:03+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150597",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-06T18:43+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcf63e552",
+   "sez": "mondo",
+   "titolo": "Pakistan, Bhutto-Zardari sollecita il governo al dialogo politico",
+   "orig": "Bilawal urges federal govt to engage all political forces instead of ‘fighting everyone’",
+   "lead": "Il presidente del PPP, Bilawal Bhutto-Zardari, ha invitato il governo federale pakistano guidato dalla PML-N a coinvolgere tutte le forze politiche e sociali invece di scontrarsi con tutti. L'ex ministro degli Esteri ha inoltre sottolineato come le popolazioni globali stiano subendo il pesante impatto economico della guerra tra Stati Uniti, Israele e Iran.",
+   "more": [
+    "Il Pakistan affronta una grave crisi economica e una crescente tensione politica, esacerbata dall'inflazione e dalle instabilità geopolitiche in Medio Oriente che gravano sul costo della vita e sui conti pubblici del Paese asiatico."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2042622/bilawal-urges-federal-govt-to-engage-all-political-forces-instead-of-fighting-everyone",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-06T21:29+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2639000/bilawal-urges-political-parties-to-set-aside-differences-focus-on-economic-crisis",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-06T13:47+05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf47d6c3d",
+   "sez": "mondo",
+   "titolo": "Bolivia, scontro in parlamento tra ritardi e accuse di usurpazione",
+   "orig": "Lara fustiga tardanza en la ALP y anuncia que anulará sesión presidida por Ávila",
+   "lead": "Il vicepresidente della Bolivia, Edmand Lara, ha criticato l'impuntualità dei legislatori nell'Asamblea Legislativa e ha annunciato l'annullamento della sessione presieduta dal presidente del Senato, Ávila, denunciando una presunta usurpazione di funzioni. Lara ha inoltre preannunciato sanzioni per tutti i ritardatari, compresa la propria moglie, la deputata Diana Romero.",
+   "more": [
+    "La controversia riflette le forti tensioni politiche e istituzionali all'interno del parlamento boliviano a La Paz, dove i contrasti tra le fazioni di governo e le procedure legislative rallentano frequentemente i lavori dell'Assemblea."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/lara-fustiga-tardanza-en-la-alp-y-anuncia-que-anulara-sesion-presidida-por-avila",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-06T12:25-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/vice-anuncia-sancion-esposa-llegar-tarde-sesion/20261106135419998795.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-06T13:54-04:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zada8f771",
+   "sez": "mondo",
+   "titolo": "Berlino, Die Linke chiede le dimissioni della deputata Emde",
+   "orig": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
+   "lead": "A Berlino, il partito Die Linke ha chiesto alla propria deputata Vanessa Emde di rinunciare al mandato parlamentare a causa delle sue controverse posizioni sul conflitto in Medio Oriente. La frattura interna si inserisce in un momento delicato, complicando i colloqui per la formazione della coalizione di governo nella capitale tedesca.",
+   "more": [
+    "Le posizioni contrastanti all'interno della Sinistra tedesca riguardo alle dinamiche in Medio Oriente continuano a generare accesi dibattiti politici, influenzando le alleanze locali e la stabilità politica del partito sia a livello statale sia federale."
+   ],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T19:24+01:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/vanessa-emde-linke-berlin-li.3575552",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T18:33+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze1caf670",
+   "sez": "mondo",
+   "titolo": "Guinea, il governo difende la stretta sull'oro illegale a Siguiri",
+   "orig": "Orpaillage clandestin à Siguiri : Morissanda Kouyaté défend la fermeté de la Guinée et réaffirme son panafricanisme",
+   "lead": "Il ministro degli Esteri della Guinea, Morissanda Kouyaté, ha incontrato a Conakry i diplomatici accreditati per ribadire la fermezza del governo nella lotta contro l'estrazione clandestina dell'oro nella regione di Siguiri. Kouyaté ha riaffermato l'impegno panafricano del Paese, mentre infuria il dibattito sull'esportazione di energia elettrica verso gli Stati vicini.",
+   "more": [
+    "La regione di Siguiri, ricca di giacimenti auriferi, è da tempo teatro di intense attività minerarie illegali che pongono sfide ambientali e di sicurezza per la Guinea, mentre il Paese affronta complesse dinamiche di gestione delle risorse energetiche con le nazioni confinanti."
+   ],
+   "fonti": [
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/05/orpaillage-clandestin-a-siguiri-morissanda-kouyate-defend-la-fermete-de-la-guinee-et-reaffirme-son-panafricanisme/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-05T22:11+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/guinee-passe-darmes-entre-le-depute-ousmane-kaba-et-le-ministre-morissanda-kouyate/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-06T16:50+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0c253a9f",
+   "sez": "economia",
+   "titolo": "Leonardo Maria Del Vecchio acquista il 2% del Fatto Quotidiano",
+   "orig": "Leonardo Maria Del Vecchio ha comprato il 2 per cento del “Fatto Quotidiano”",
+   "lead": "Leonardo Maria Del Vecchio ha acquistato il due per cento della società editrice del Fatto Quotidiano, dopo un precedente tentativo di offerta pubblica di acquisto non riuscito. L'amministratrice delegata della società, Cinzia Monteverdi, ha ringraziato per la comunicazione formale, assicurando che l'indipendenza e la libertà del giornale non sono in discussione.",
+   "more": [
+    "La Società Editoriale Il Fatto (SEIF), quotata sul mercato azionario, gestisce le attività editoriali del quotidiano diretto da Marco Travaglio. L'ingresso di nuovi azionisti di minoranza riaccende i riflettori sull'assetto proprietario e sulla governance dell'azienda mediatica."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/06/leonardo-maria-del-vecchio-compra-2-per-cento-fatto-quotidiano/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T18:04+00:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/06/ha-comprato-il-2-la-nostra-liberta-non-e-in-discussione-la-risposta-di-cinzia-monteverdi-ad-seif-a-leonardo-maria-del-vecchio/8563583/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T17:40+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1d3620b9",
+   "sez": "mondo",
+   "titolo": "Stati Uniti, le lezioni del voto intermedio in vista del 2028",
+   "orig": "Four midterms takeaways for 2028 White House race",
+   "lead": "Le recenti elezioni di metà mandato negli Stati Uniti offrono già indicazioni fondamentali in vista della corsa alla Casa Bianca del 2028. Le prime analisi evidenziano le tendenze dell'elettorato, le dinamiche interne ai partiti e i principali temi politici destinati a plasmare la futura campagna presidenziale. Lo riferisce BBC News.",
+   "more": [
+    "Sebbene la scadenza presidenziale sia lontana, i risultati delle consultazioni intermedie americane fungono da importante banco di prova per misurare il consenso dei candidati emergenti e l'efficacia delle strategie di comunicazione politica nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T16:12+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1175cf7a",
+   "sez": "mondo",
+   "titolo": "USA, oltre venti democratici valutano la corsa alla Casa Bianca 2028",
+   "orig": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+   "lead": "Oltre venti esponenti del Partito Democratico stanno valutando la candidatura alle elezioni presidenziali statunitensi del 2028 dopo i successi ottenuti nelle elezioni di metà mandato. Secondo l'ex consigliere di Obama, Jim Messina, diverse campagne elettorali si stanno già attivando per assumere personale strategico. Lo riferisce BBC News.",
+   "more": [
+    "L'esito positivo delle elezioni di metà mandato ha riacceso il dinamismo interno ai Democratici, spingendo figure di rilievo e governatori statali a preparare con largo anticipo le strutture organizzative per le prossime primarie presidenziali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T16:51+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbf7adc54",
+   "sez": "mondo",
+   "titolo": "Germania, dubbi sui Mondiali di hockey dopo la sentenza sulla Russia",
+   "orig": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
+   "lead": "La Germania spera ancora di ospitare i prossimi Campionati mondiali di hockey su ghiaccio maschile, nonostante l'incertezza generata dalla recente decisione giudiziaria che impone la riammissione della Russia nelle competizioni internazionali. Le autorità sportive di Berlino stanno cercando una soluzione diplomatica e organizzativa. Lo riferisce Deutsche Welle.",
+   "more": [
+    "La riammissione delle federazioni russe nelle competizioni sportive internazionali solleva frequenti dibattiti politici ed etici in Europa, ponendo i Paesi ospitanti di fronte a complessi problemi logistici e di sicurezza circa la partecipazione di atleti sotto bandiera russa."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T16:28+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z08e2c19b",
+   "sez": "mondo",
+   "titolo": "Gerico, coloni occupano case palestinesi e sfollano decine di residenti",
+   "orig": "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
+   "lead": "Alcuni coloni israeliani hanno occupato otto proprietà a Gerico, costringendo decine di residenti palestinesi ad abbandonare le proprie abitazioni. L'azione ha provocato l'ennesimo sradicamento di famiglie palestinesi nell'area della West Bank occupata, alimentando ulteriormente le tensioni nella regione. Lo riferisce Al Jazeera.",
+   "more": [
+    "L'espansione degli insediamenti e le occupazioni di immobili in Cisgiordania da parte dei coloni rappresentano da anni uno dei principali punti di attrito nel conflitto israelo-palestinese, ostacolando le prospettive di pace e violando frequentemente il diritto internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-seize-palestinian-homes-in-jericho-displacing-dozens",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T18:17+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z769155ac",
+   "sez": "mondo",
+   "titolo": "Europa, mappa delle minacce ibride russe degli ultimi sei mesi",
+   "orig": "Diversijos, dronai ir oro erdvės pažeidimai: Rusijos hibridinės grėsmės Europoje",
+   "lead": "Un'indagine giornalistica ha mappato sei mesi di incidenti legati alle minacce ibride russe in Europa, documentando casi di sabotaggio, incursioni di droni e violazioni dello spazio aereo. Governi ed esperti concordano sul fatto che la guerra ibrida condotta da Mosca stia intensificando la propria frequenza. Lo riferisce LRT.",
+   "more": [
+    "Negli ultimi anni i Paesi membri della NATO e dell'Unione Europea hanno registrato un forte aumento di interferenze attribuite ai servizi d'intelligence russi, mirate a destabilizzare le infrastrutture critiche e la sicurezza dei confini europei."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3096334/diversijos-dronai-ir-oro-erdves-pazeidimai-rusijos-hibridines-gresmes-europoje",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-06T20:51+02:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc758d5f7",
+   "sez": "mondo",
+   "titolo": "Ucraina, chiesta la custodia cautelare per un generale del SBU",
+   "orig": "Korupcija Ukrainos teisėsaugos ir saugumo struktūrose: paprašytas suimti SBU generolas",
+   "lead": "Un procuratore dell'Anticorruzione in Ucraina ha chiesto l'arresto del maggior generale del servizio di sicurezza SBU, Serhij Duka, imputato in un'inchiesta su presunti illeciti. La procura ha proposto la possibilità di scarcerazione dietro il pagamento di una cauzione fissata a cento milioni di grivne. Lo riferisce LRT.",
+   "more": [
+    "La lotta alla corruzione nei ranghi militari e nei servizi segreti rappresenta un requisito fondamentale richiesto dall'Unione Europea all'Ucraina, impegnata in profonde riforme istituzionali mentre affronta il conflitto con la Russia."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3106465/korupcija-ukrainos-teisesaugos-ir-saugumo-strukturose-paprasytas-suimti-sbu-generolas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-06T20:15+02:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0925ce12",
+   "sez": "mondo",
+   "titolo": "Svezia, incriminato diciannovenne per piano d'attacco scolastico dell'IS",
+   "orig": "Švedijoje 19-metis apkaltintas „Islamo valstybės“ teroro išpuolio mokykloje planavimu",
+   "lead": "La procura svedese ha incriminato un ragazzo di diciannove anni con l'accusa di aver pianificato un attacco con coltello all'interno di una scuola superiore in nome dello Stato Islamico. Gli investigatori sono intervenuti bloccando il progetto terroristico prima che potesse essere attuato. Lo riferisce LRT.",
+   "more": [
+    "Negli ultimi anni i servizi di sicurezza svedesi hanno innalzato il livello di allerta di fronte alla minaccia del radicalismo islamista, intensificando i controlli sul monitoraggio di giovani a rischio di radicalizzazione online."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3106452/svedijoje-19-metis-apkaltintas-islamo-valstybes-teroro-ispuolio-mokykloje-planavimu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-06T19:55+02:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd271a2c2",
+   "sez": "mondo",
+   "titolo": "USA, chiude la rivista digitale Salon dopo trent'anni",
+   "orig": "Online magazine Salon announces it is shutting down",
+   "lead": "La celebre rivista digitale americana Salon ha annunciato la cessazione definitiva delle sue pubblicazioni dopo tre decenni di attività editoriale. L'editore ha precisato che al momento non è prevista la rimozione degli archivi online, contenenti articoli di approfondimento, politica e cultura. Lo riferisce PBS NewsHour.",
+   "more": [
+    "Fondata nel 1995, Salon è stata una delle prime testate native digitali del giornalismo americano. La sua chiusura riflette le profonde difficoltà finanziarie e i radicali cambiamenti nei modelli di business dell'editoria online contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/arts/online-magazine-salon-announces-it-is-shutting-down",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T13:46-05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze25c046d",
+   "sez": "mondo",
+   "titolo": "Zelensky chiede garanzie di sicurezza vincolanti per il dopoguerra",
+   "orig": "Zelenskyy pushes for 'clear' postwar security guarantees in Ukraine",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha sollecitato garanzie di sicurezza postbelliche chiare e formalizzate su carta per proteggere concretamente il Paese nel futuro. Nel frattempo, sul campo di battaglia proseguono i duri combattimenti contro le forze russe. Lo riferisce PBS NewsHour.",
+   "more": [
+    "L'ottenimento di garanzie di sicurezza giuridicamente vincolanti da parte dei partner occidentali costituisce un pilastro centrale della strategia diplomatica di Kyiv per assicurare la stabilità e la sovranità del Paese al termine delle ostilità."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/zelenskyy-pushes-for-clear-postwar-security-guarantees-in-ukraine",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T12:49-05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4a271469",
+   "sez": "mondo",
+   "titolo": "USA, dimissioni di Harmeet Dhillon dal Dipartimento di Giustizia",
+   "orig": "Harmeet Dhillon resigns after radical reshape of Justice Department's Civil Rights Division",
+   "lead": "Harmeet Dhillon si è dimessa dal ruolo di assistente del procuratore generale degli Stati Uniti dopo aver promosso una radicale riorganizzazione della divisione per i diritti civili del Dipartimento di Giustizia. La sua gestione ha impresso una svolta fortemente controversa all'organismo statale. Lo riferisce PBS NewsHour.",
+   "more": [
+    "Istituita durante l'epoca dei movimenti per i diritti civili per proteggere le minoranze, la divisione del Dipartimento di Giustizia ha subito profonde trasformazioni sotto la presidenza Trump, scatenando accesi dibattiti sulle tutele costituzionali."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/harmeet-dhillon-resigns-after-radical-reshape-of-justice-departments-civil-rights-division",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T12:32-05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1a0b5332",
+   "sez": "mondo",
+   "titolo": "Kallas: L'Ucraina deve entrare nell'architettura di sicurezza europea",
+   "orig": "Κάγια Κάλας: Η Ουκρανία πρέπει να ενταχθεί πλήρως στην ευρωπαϊκή αρχιτεκτονική ασφαλείας",
+   "lead": "L'alta rappresentante per la politica estera europea, Kaja Kallas, ha affermato che l'Ucraina deve essere pienamente integrata nell'architettura di sicurezza dell'Unione Europea. Kallas ha sottolineato che il presidente russo Vladimir Putin non possiede alcun diritto di veto sulle questioni di sicurezza del continente. Lo riferisce ERT News.",
+   "more": [
+    "Le dichiarazioni della diplomazia europea riaffermano la determinazione di Bruxelles nel sostenere l'integrazione di Kyiv, difendendo l'autonomia strategica delle istituzioni occidentali rispetto alle pressioni e alle rivendicazioni del Cremlino."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/kagia-kalas-i-oukrania-prepei-na-entaxthei-pliros-stin-eyropaiki-arxitektoniki-asfaleias/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-06T18:46+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf68ab1f3",
+   "sez": "mondo",
+   "titolo": "Un alto funzionario iraniano attacca Pashinyan per la rotta filo-occidentale",
+   "orig": "Senior Iranian Official Slams Pashinian Over ‘Trump Route’",
+   "lead": "Un consigliere senior della Guida Suprema iraniana Mojtaba Khamenei ha criticato duramente il primo ministro armeno Nikol Pashinyan, accusandolo di riorientare l'Armenia verso l'Occidente e di voler aprire un corridoio di transito gestito dagli Stati Uniti per l'Azerbaigian. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33892524.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-06T22:36+04:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z00739743",
+   "sez": "mondo",
+   "titolo": "Usa, Cina e Russia accelerano la corsa alle armi ipersoniche",
+   "orig": "ԱՄՆ-ի, Չինաստանի և Ռուսաստանի միջև գերձայնային զենքերի մրցավազքն արագանում է",
+   "lead": "L'aeronautica militare degli Stati Uniti ha siglato un contratto da 694 milioni di dollari con Lockheed Martin per la produzione di un nuovo missile ipersonico ad aria. L'accordo rappresenta l'ennesima dimostrazione dell'accelerazione della corsa agli armamenti tra Washington, Pechino e Mosca. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/us-china-russia-hypersonic-weapons-race-accelerates/33892412.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-06T21:24+04:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcc76886a",
+   "sez": "mondo",
+   "titolo": "Il miliardario Karapetyan respinge le nuove accuse dopo l'arresto",
+   "orig": "Karapetian Rejects ‘Disgraceful’ Charges After Fresh Arrest",
+   "lead": "Due giorni dopo essere stato nuovamente arrestato, Samvel Karapetyan, imprenditore miliardario alla guida del maggiore gruppo d'opposizione in Armenia, ha respinto con fermezza venerdì le nuove accuse penali formulate contro di lui, definendole del tutto prive di fondamento. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33892503.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-06T21:17+04:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd9b6e014",
+   "sez": "economia",
+   "titolo": "Malta condanna quattro fondi a risarcire 24,1 milioni allo IOR",
+   "orig": "Fondo Kappa, il Tribunale di Malta: risarcire allo IOR 24,1 milioni di euro",
+   "lead": "Il Tribunale civile di Malta ha condannato in primo grado quattro società di gestione e fondi d'investimento a risarcire 24,1 milioni di euro all'Istituto per le Opere di Religione per i danni subiti nella gestione del progetto immobiliare dell'Exchange Palace a Budapest. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/vaticano/news/2026-11/sentenza-trbunale-malta-fondo-kappa-ior-risarcire-24-milioni.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-06T19:45+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1ad4712c",
+   "sez": "mondo",
+   "titolo": "La Russia dichiara 'senza proprietario' centinaia di hotel a Zaporizhzhia",
+   "orig": "Russia has declared hundreds of hotels in occupied Ukraine ‘ownerless.’ Dozens have been taken over — but one Ukrainian hotelier is fighting back.",
+   "lead": "Nella regione occupata di Zaporizhzhia, le autorità russe hanno dichiarato privi di proprietario oltre 7.000 immobili privati e commerciali, inclusi 521 hotel e complessi turistici. Almeno 77 strutture alberghiere sono già passate di mano e 20 sono state assegnate a enti governativi. Lo riferisce Meduza.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/feature/2026/11/06/russia-has-declared-hundreds-of-hotels-in-occupied-ukraine-ownerless-dozens-have-been-taken-over-but-one-ukrainian-hotelier-is-fighting-back",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-06T19:50+03:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
    "id": "z2c16f865",
    "sez": "prima",
    "titolo": "Allarmi bomba contro redazioni e trasporti aerei in Europa",
@@ -29,13 +881,29 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-06T10:21-05:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/primetime/2026/1106/1598298-a-week-of-cyberattacks-and-bomb-threats-what-do-we-know/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-06T16:16+00:00"
+    },
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/world/bomb-threats-europe-airlines-flights-newsrooms-9.7412231?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-06T12:11-05:00"
     }
    ],
    "data": "6 nov",
    "ora": "20:15",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z34d829c6",
@@ -225,7 +1093,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   },
   {
    "id": "zae3bd9d9",
-   "sez": "prima",
+   "sez": "economia",
    "titolo": "Mercati finanziari, l'impatto dei ribassi di borsa sulla vita quotidiana",
    "orig": "How does it affect me if share prices fall?",
    "lead": "Le oscillazioni dei principali indici azionari come il FTSE 100 britannico non riguardano esclusivamente gli intermediari di borsa e i professionisti della finanza, ma hanno conseguenze dirette sull'economia reale e sulla vita dei cittadini. Le fluttuazioni di mercato incidono infatti sui rendimenti dei fondi pensione, sul valore dei risparmi privati e sul costo dei finanziamenti per imprese e famiglie. In parallelo, per contrastare il calo dei prezzi dovuto a sovrapproduzione, la Spagna ha ordinato ai produttori di stoccare il dodici percento dell'olio d'oliva fino al 2027.",
@@ -254,13 +1122,11 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "ora": "20:15",
-   "uscita": "sera",
-   "sez_prima": "economia",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z0f83a5e8",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Tensioni tra Azerbaigian e Iran, respinta lettera aperta delle ong",
    "orig": "Azerbaijani NGOs send open letter to Iranian embassy, prompting backlash",
    "lead": "L'ambasciata dell'Iran a Baku ha liquidato come priva di valore una lettera aperta inviata da alcune organizzazioni non governative dell'Azerbaigian, innescando nuove polemiche diplomatiche tra i due Paesi confinanti. Nel frattempo, sul piano dei rapporti bilaterali con l'Europa, l'amministratore delegato della Casa del Cinema iraniana ha incontrato a Teheran l'ambasciatore della Francia per discutere lo sviluppo della cooperazione culturale e la realizzazione di futuri programmi cinematografici congiunti a margine di una rassegna dedicata alla Nouvelle Vague.",
@@ -289,9 +1155,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "ora": "20:15",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z02cd2c46",
@@ -361,7 +1225,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   },
   {
    "id": "z29fa2895",
-   "sez": "prima",
+   "sez": "organizzazioni",
    "titolo": "Unione europea, dichiarazione dell'Eurogruppo sulle nomine alla presidenza della BCE",
    "orig": "Statement by the Eurogroup President on the nominations for the post of ECB President",
    "lead": "Il presidente dell'Eurogruppo, Kyriakos Pierrakakis, ha rilasciato una dichiarazione ufficiale riguardante le candidature presentate per la nomina alla presidenza della Banca Centrale Europea. La comunicazione interviene nel quadro delle procedure istituzionali dell'Unione europea per la selezione del successore alla guida dell'istituto di Francoforte, snodo cruciale per la gestione della politica monetaria dei Paesi dell'eurozona. La selezione del vertice bancario richiede il consenso dei ministri delle finanze europei e il passaggio attraverso i diversi organi decisionali comunitari. Lo riferisce Consiglio dell'Unione europea.",
@@ -390,9 +1254,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "ora": "20:15",
-   "uscita": "sera",
-   "sez_prima": "organizzazioni",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "zc47ff5de",
@@ -1375,7 +2237,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   },
   {
    "id": "zc86a2fde",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Nigeria: l'Apc accusa Atiku Abubakar di controllare il partito Adc",
    "orig": "APC accuses Atiku of hijacking ADC, tells party to resolve leadership crisis",
    "lead": "In Nigeria il partito di governo All Progressives Congress ha accusato il leader di opposizione Atiku Abubakar di aver preso il controllo dell'African Democratic Congress, invitando quest'ultimo a risolvere autonomamente le proprie dispute interne. L'Apc ha respinto ogni responsabilità politica in merito alla recente sentenza dell'Alta corte federale, che ha invalidato la dirigenza guidata dall'ex presidente del Senato David Mark e cancellato la candidatura presidenziale dello stesso Atiku. Secondo la formazione di maggioranza, l'opposizione dovrebbe affrontare la propria crisi di leadership senza accusare il governo. Lo riferisce Premium Times.",
@@ -1404,9 +2266,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "ora": "20:15",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "zda6ff162",
@@ -1735,7 +2595,37 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z94a962f5": "Lo stravolgimento propagandistico di un filmato giornalistico diffuso in rete per attaccare una cittadina.",
   "zd29d52b6": "Il traguardo finanziario raggiunto dalla spesa destinata al sistema scolastico e formativo tunisino.",
   "z2f0237cf": "La presenza di quattro battitori venezuelani tra i candidati al prestigioso riconoscimento della MLB.",
-  "zbce15ce4": "I dubbi sollevati dagli esperti sulle modalità scelte per cedere pacchetti azionari a favore di minori."
+  "zbce15ce4": "I dubbi sollevati dagli esperti sulle modalità scelte per cedere pacchetti azionari a favore di minori.",
+  "z9e7ad07e": "Al Jazeera sottolinea il contesto delle crescenti pressioni politiche sul Dipartimento di Giustizia.",
+  "z2a3c2262": "Al Jazeera mette in luce le ritorsioni commerciali di Taipei contro le interferenze di Pechino.",
+  "zc59af379": "Al Jazeera evidenzia la mossa strategica delle forze arabe per scalzare la leadership di Netanyahu.",
+  "z8bda07bb": "Al Jazeera analizza i meccanismi della disinformazione e delle provocazioni digitali durante il conflitto ucraino.",
+  "z3b641e61": "Vatican News pone l'accento sui crescenti timori per la sicurezza aerea di fronte alla guerra ibrida.",
+  "z1d10bdb2": "BBC Newsround osserva in particolare il massiccio coinvolgimento degli studenti liceali nelle manifestazioni.",
+  "z672d23dc": "Keep Talking Greece sottolinea il rischio di escalation causato dai rilievi della nave francese autorizzata da Atene.",
+  "z143cf4d3": "14ymedio analizza la dinamica elettorale ispanica e il suo impatto sulle prospettive dei repubblicani.",
+  "z7193afb7": "Gabonreview si concentra sui problemi di approvvigionamento energetico e sulle strategie industriali del governo.",
+  "zcf63e552": "Dawn evidenzia l'appello del leader del PPP al dialogo politico di fronte alle pressioni economiche della crisi geopolitica globale.",
+  "zf47d6c3d": "Brújula Digital mette in rilievo lo scontro istituzionale e le accuse di usurpazione di funzioni sollevate dal vicepresidente boliviano.",
+  "zada8f771": "Der Spiegel evidenzia le ripercussioni politiche interne e le difficoltà nei colloqui di coalizione causate dalla vicenda.",
+  "ze1caf670": "Guinée News sottolinea la fermezza diplomatica del ministro Kouyaté nel tutelare le risorse nazionali e la sua posizione panafricana.",
+  "z0c253a9f": "Il Post riporta la notizia dell'ingresso azionario di Del Vecchio mantenendo un tono descrittivo sull'operazione finanziaria.",
+  "z1d3620b9": "BBC News analizza in chiave prospettica le conseguenze delle elezioni di metà mandato sulla futura corsa alla presidenza degli Stati Uniti.",
+  "z1175cf7a": "BBC News evidenzia l'attivismo precoce nel Partito Democratico alla luce delle affermazioni di un influente strategist politico.",
+  "zbf7adc54": "Deutsche Welle mette in luce gli sforzi delle autorità sportive tedesche per salvare la candidatura ai Mondiali superando i vincoli legali sul caso russo.",
+  "z08e2c19b": "Al Jazeera focalizza l'attenzione sulle violazioni dei diritti civili e sullo sfollamento forzato dei residenti palestinesi a Gerico.",
+  "z769155ac": "LRT mette in rilievo la sistematizzazione dei dati sulle azioni di interferenza ibrida attribuite alla Russia nei Paesi europei.",
+  "zc758d5f7": "LRT evidenzia l'intensa attività degli organi anticorruzione ucraini nei confronti dei vertici degli apparati di sicurezza statali.",
+  "z0925ce12": "LRT riporta l'azione preventiva delle autorità giudiziarie svedesi nel sventare un potenziale attentato a matrice jihadista.",
+  "zd271a2c2": "PBS NewsHour mette in luce il valore storico dell'archivio di Salon di fronte alla dolorosa decisione di chiudere la testata.",
+  "ze25c046d": "PBS NewsHour sottolinea l'insistenza del presidente Zelensky su accordi scritti in netto contrasto con i drammatici sconti sul fronte.",
+  "z4a271469": "PBS NewsHour evidenzia l'impatto divisivo della figura di Dhillon sulla storica divisione ministeriale americana.",
+  "z1a0b5332": "ERT News risalta la posizione di fermezza espressa da Kaja Kallas a difesa dell'integrazione geopolitica ucraina.",
+  "zf68ab1f3": "La testata evidenzia il malcontento di Teheran per la nuova rotta diplomatica di Erevan.",
+  "z00739743": "La testata sottolinea l'escalation militare tra le principali potenze mondiali.",
+  "zcc76886a": "La testata segue gli sviluppi giudiziari del leader dell'opposizione armena.",
+  "zd9b6e014": "La testata vaticana riporta l'esito favorevole della vertenza legale a tutela del patrimonio dello IOR.",
+  "z1ad4712c": "La testata indipendente russa documenta l'espropriazione di beni immobili nei territori ucraini occupati."
  },
  "contesti": {
   "z2c16f865": "Nelle ultime settimane, diverse istituzioni europee, scali aeroportuali e organi d'informazione hanno affrontato una serie crescente di minacce anonime e attacchi ibridi. Le azioni intimidatorie, condotte tramite email e telefonate con falsi allarmi bomba, hanno provocato ripetute interruzioni del traffico aereo ed evacuazioni di sedi giornalistiche. Le agenzie di sicurezza di vari Paesi europei hanno intensificato il coordinamento per tracciare i responsabili di queste campagne di destabilizzazione coordinate.",
@@ -1743,7 +2633,11 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z0f83a5e8": "I rapporti diplomatici tra Azerbaigian e Iran sono stati caratterizzati negli ultimi anni da ricorrenti frizioni di natura geopolitica e di sicurezza lungo il confine caucasico. Nonostante la rigidità dei canali ufficiali tra Baku e Teheran e il rigetto delle iniziative della società civile azerbaigiana, l'Iran continua a mantenere attivi importanti canali di diplomazia culturale con le nazioni europee, come dimostrato dai recenti colloqui a Teheran con la diplomazia francese nel settore cinematografico.",
   "z29fa2895": "Il processo di successione ai vertici delle istituzioni finanziarie dell'Unione europea richiede complessi passaggi negoziali tra i governi degli Stati membri. In vista della scadenza dei mandati operativi presso la Banca Centrale Europea, l'Eurogruppo ha avviato formalmente la fase delle candidature per garantire continuità alla governance monetaria dell'eurozona. Le decisioni del vertice dei ministri finanziari rappresentano il primo tassello di un iter istituzionale che coinvolgerà successivamente il Parlamento europeo e il Consiglio europeo.",
   "z633addf0": "Il governo italiano ha recentemente definito i contorni della nuova manovra di bilancio, riaffermando una linea di prudenza finanziaria sostenuta dal Ministero dell'Economia. Al contempo, il quadro internazionale è dominato dalle consultazioni elettorali negli Stati Uniti e da crescenti allarmi relativi a minacce informatiche e sabotaggi ibridi contro infrastrutture civili europee. In questo contesto, la presidente del Consiglio ha ribadito la fermezza della politica economica nazionale e la solidità delle alleanze strategiche dell'Italia.",
-  "zc86a2fde": "La scena politica nigeriana è attraversata da forti tensioni in vista delle prossime scadenze elettorali e da profonde fratture all'interno dei principali schieramenti d'opposizione. Recentemente, un'ordinanza dell'Alta Corte Federale ha azzerato i vertici dell'African Democratic Congress, cancellando la candidatura del leader Atiku Abubakar. L'evento ha innescato uno scontro verbale diretto tra il partito al potere, l'All Progressives Congress, e l'opposizione, accusata dalla maggioranza di strumentalizzare le vicende giudiziarie per coprire le proprie dispute interne."
+  "zc86a2fde": "La scena politica nigeriana è attraversata da forti tensioni in vista delle prossime scadenze elettorali e da profonde fratture all'interno dei principali schieramenti d'opposizione. Recentemente, un'ordinanza dell'Alta Corte Federale ha azzerato i vertici dell'African Democratic Congress, cancellando la candidatura del leader Atiku Abubakar. L'evento ha innescato uno scontro verbale diretto tra il partito al potere, l'All Progressives Congress, e l'opposizione, accusata dalla maggioranza di strumentalizzare le vicende giudiziarie per coprire le proprie dispute interne.",
+  "z9e7ad07e": "Negli ultimi mesi, il Dipartimento di Giustizia degli Stati Uniti aveva incaricato il procuratore federale Jason Reding Quiñones di riesaminare le passate inchieste penali relative a Donald Trump. Nel frattempo, i deputati democratici al Congresso di Washington hanno intensificato le pressioni politiche, preannunciando l'avvio di nuove indagini sull'operato dell'amministrazione e sulle verifiche condotte. La crescita della tensione istituzionale ha infine portato all'uscita di scena del magistrato a Miami.",
+  "z2a3c2262": "La pressione diplomatica esercitata dalla Cina nei confronti delle nazioni del Pacifico si è intensificata costantemente nelle ultime settimane, mirando a isolare ulteriormente Taipei sul piano internazionale. In Papua Nuova Guinea, l'influenza di Pechino ha progressivamente compromesso le relazioni bilaterali con Taiwan. Parallelamente, le tensioni commerciali sono cresciute fino a spingere il governo taiwanese a riesaminare i propri contratti di fornitura energetica con il paese.",
+  "zc59af379": "La politica israeliana si trova da settimane in una situazione di profonda impasse parlamentare, caratterizzata dall'incapacità del governo di Benjamin Netanyahu di garantire la stabilità. Per sbloccare la crisi, l'opposizione centrista guidata da Gadi Eisenkot ha avviato negoziati con le forze arabe Joint List e Ra’am. Le trattative hanno individuato punti d'intesa programmatici per costruire una maggioranza alternativa alla Knesset.",
+  "z8bda07bb": "Nei giorni scorsi, sulle piattaforme social avevano iniziato a circolare video virali relativi a presunte torture inflitte ai renitenti alla leva in Ucraina. I contenuti avevano suscitato ampio allarme nell'opinione pubblica. Le forze di sicurezza ucraine hanno avviato un'indagine d'urgenza, scoprendo che il materiale era frutto di una sofisticata operazione di disinformazione e guerra psicologica."
  },
  "cronologie": {
   "z2c16f865": [
@@ -1829,9 +2723,99 @@ window.EDIZIONI["2026-11-06-sera"] = {
     "5 novembre",
     "Dichiarazione ufficiale dell'APC con accuse di ingerenza rivolte ad Atiku Abubakar"
    ]
+  ],
+  "z9e7ad07e": [
+   [
+    "Mesi scorsi",
+    "Il Dipartimento di Giustizia incarica Quiñones di riesaminare le inchieste penali su Trump"
+   ],
+   [
+    "Giorni scorsi",
+    "I deputati democratici al Congresso annunciano nuove indagini sull'amministrazione"
+   ],
+   [
+    "Oggi",
+    "Jason Reding Quiñones rassegna le proprie dimissioni a Miami"
+   ]
+  ],
+  "z2a3c2262": [
+   [
+    "Nelle scorse settimane",
+    "Pechino intensifica le pressioni diplomatiche sul governo della Papua Nuova Guinea"
+   ],
+   [
+    "Giorni scorsi",
+    "Taipei riesamina le relazioni bilaterali e gli accordi energetici di GNL"
+   ],
+   [
+    "Oggi",
+    "Taiwan annuncia la chiusura dell'ufficio di rappresentanza e lo stop all'importazione di gas"
+   ]
+  ],
+  "zc59af379": [
+   [
+    "Nelle scorse settimane",
+    "Si aggrava l'impasse parlamentare attorno al governo guidato da Benjamin Netanyahu"
+   ],
+   [
+    "Giorni scorsi",
+    "Trattative programmatiche tra il centrista Gadi Eisenkot e i leader di Joint List e Ra’am"
+   ],
+   [
+    "Oggi",
+    "I partiti arabi ufficializzano il sostegno ad Eisenkot per la formazione del nuovo esecutivo"
+   ]
+  ],
+  "z8bda07bb": [
+   [
+    "Giorni scorsi",
+    "Diffusione sui social di falsi filmati su violenze inflitte ai renitenti alla leva"
+   ],
+   [
+    "Nelle ultime ore",
+    "Le forze di sicurezza ucraine avviano le indagini e smentiscono le accuse"
+   ],
+   [
+    "Oggi",
+    "Arresto nei pressi di Kiev della donna accusata di aver diffuso il materiale propagandistico"
+   ]
   ]
  },
- "confronti": {},
+ "confronti": {
+  "z2c16f865": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Essendo il testo non disponibile, il giudizio è parziale. Al Jazeera si concentra sulle minacce bomba a redazioni in Irlanda e Bulgaria recanti il \"messaggio all'Occidente\". Il tono è informativo e riporta l'identità reclamata dal mittente come \"Mikhail Andropov\".",
+     "b": "t"
+    },
+    {
+     "n": "NPR",
+     "c": "Washington",
+     "p": "US",
+     "t": "NPR adotta un tono neutro e informativo, evidenziando i disagi aerei e riportando i dati di Eurocontrol. Riferisce di un'email attribuita a un presunto gruppo \"anti-femminista\" contro un \"regime femminista\" e menziona le preoccupazioni delle autorità per possibili minacce ibride della Russia, senza attribuire responsabilità dirette.",
+     "b": "a"
+    },
+    {
+     "n": "RTÉ News",
+     "c": "Dublino",
+     "p": "XX",
+     "t": "RTÉ News adotta un tono strettamente informativo focalizzato sull'Irlanda, analizzando l'origine dell'email \"messaggio all'Occidente\" e citando l'esperto Maciej Makowski. Riporta attacchi informatici ai supermercati e le smentite del Cremlino e del gruppo \"Stato Maschile\" circa un loro coinvolgimento.",
+     "b": "a"
+    },
+    {
+     "n": "CBC News",
+     "c": "Toronto",
+     "p": "XX",
+     "t": "CBC News adotta uno stile informativo e analitico, collegando le minacce firmate \"Mikhail Andropov\" ai voli aerei. Cita esperti di sicurezza, la smentita del fondatore del movimento \"Stato Maschile\" e le parole della commissaria europea Henna Virkkunen sulle \"operazioni ibride\" di destabilizzazione.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate divergono sul livello di approfondimento e sulle responsabilità citate. RTÉ News analizza gli aspetti tecnici dell'email ricevuta, rivelando la compromissione di un dominio scolastico lituano, e riporta la smentita ufficiale del Cremlino resa da Dmitry Peskov. CBC News e Al Jazeera mettono in risalto il mittente fittizio \"Mikhail Andropov\", assente in NPR. Inoltre, mentre NPR e CBC News menzionano la pista del gruppo estremista russo \"Stato Maschile\", RTÉ News evidenzia che tale movimento ha negato ogni coinvolgimento. CBC News include anche la posizione della commissaria UE Henna Virkkunen sulle minacce ibride russe."
+  }
+ },
  "luoghi": {
   "z2c16f865": {
    "n": "Europa",
@@ -2282,6 +3266,224 @@ window.EDIZIONI["2026-11-06-sera"] = {
     "United Kingdom"
    ],
    "pt": []
+  },
+  "z9e7ad07e": {
+   "n": "Miami",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2a3c2262": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea",
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "zc59af379": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z8bda07bb": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z3b641e61": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z1d10bdb2": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z672d23dc": {
+   "n": "Atene",
+   "p": [
+    "Greece",
+    "Turkey",
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z143cf4d3": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7193afb7": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "zcf63e552": {
+   "n": "Larkana",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zf47d6c3d": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "zada8f771": {
+   "n": "Berlin",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "ze1caf670": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z0c253a9f": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z1d3620b9": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1175cf7a": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbf7adc54": {
+   "n": "Berlin",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z08e2c19b": {
+   "n": "Jericho",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z769155ac": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zc758d5f7": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z0925ce12": {
+   "n": "Stockholm",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zd271a2c2": {
+   "n": "San Francisco",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze25c046d": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z4a271469": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1a0b5332": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zf68ab1f3": {
+   "n": "Erevan",
+   "p": [
+    "Armenia",
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z00739743": {
+   "n": "Erevan",
+   "p": [
+    "United States of America",
+    "China",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zcc76886a": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "zd9b6e014": {
+   "n": "La Valletta",
+   "p": [
+    "Malta",
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "z1ad4712c": {
+   "n": "Zaporizhzhia",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -2347,7 +3549,37 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z94a962f5": 1,
   "zd29d52b6": 1,
   "z2f0237cf": 1,
-  "zbce15ce4": 1
+  "zbce15ce4": 1,
+  "z9e7ad07e": 2,
+  "z2a3c2262": 2,
+  "zc59af379": 2,
+  "z8bda07bb": 2,
+  "z3b641e61": 2,
+  "z1d10bdb2": 1,
+  "z672d23dc": 1,
+  "z143cf4d3": 1,
+  "z7193afb7": 1,
+  "zcf63e552": 1,
+  "zf47d6c3d": 1,
+  "zada8f771": 1,
+  "ze1caf670": 1,
+  "z0c253a9f": 1,
+  "z1d3620b9": 1,
+  "z1175cf7a": 1,
+  "zbf7adc54": 1,
+  "z08e2c19b": 1,
+  "z769155ac": 1,
+  "zc758d5f7": 1,
+  "z0925ce12": 1,
+  "zd271a2c2": 1,
+  "ze25c046d": 1,
+  "z4a271469": 1,
+  "z1a0b5332": 1,
+  "zf68ab1f3": 1,
+  "z00739743": 1,
+  "zcc76886a": 1,
+  "zd9b6e014": 1,
+  "z1ad4712c": 1
  },
  "video": {},
  "pillole": []
