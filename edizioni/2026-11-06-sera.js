@@ -3,6 +3,2406 @@ window.EDIZIONI["2026-11-06-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zb2b7093a",
+   "sez": "mondo",
+   "titolo": "Sondaggio: gli europei vogliono agire sul clima ma senza sacrifici eccessivi",
+   "orig": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
+   "lead": "Un sondaggio YouGov condotto in sei paesi europei mostra che la maggioranza dei cittadini crede nel cambiamento climatico causato dall'uomo e ritiene necessario agire presto, ma non è disposta a sacrifici troppo onerosi per farlo. Tra il 69% in Germania e l'80% in Francia degli intervistati ha detto di credere che il clima stia cambiando, mentre solo l'1-4% lo nega. Gli intervistati si mostrano favorevoli a misure come la piantumazione di alberi e le tasse sulle emissioni, ma contrari a tasse sul carburante e sui viaggi aerei. Lo riferisce The Guardian.",
+   "more": [
+    "Le politiche climatiche europee, come il sistema di scambio delle emissioni e le tasse ambientali, incontrano spesso resistenze quando toccano direttamente le abitudini di consumo dei cittadini, come i viaggi aerei o il costo dei carburanti, creando una tensione tra consenso generale sulla necessità di agire e difficoltà nell'accettare misure concrete."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T12:27+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zb1b234fe",
+   "sez": "prima",
+   "titolo": "Opposizioni contro la nomina di Altieri all'Anac, Meloni: 'Era nelle nostre competenze'",
+   "orig": "Opposizioni all'attacco su Altieri all'Anac, Meloni: 'Era nelle nostre competenze'",
+   "lead": "Le opposizioni hanno attaccato la nomina di Altieri a presidente dell'Anac, l'autorità anticorruzione. Il Partito democratico ha definito la scelta \"un fatto gravissimo\", mentre il Movimento 5 Stelle ha accusato il governo di voler mettere \"il controllore sotto tutela politica\". La premier Giorgia Meloni ha replicato difendendo la decisione, sottolineando che la nomina era nelle competenze dell'esecutivo. Lo riferisce l'ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/06/opposizioni-allattacco-su-altieri-allanac-meloni-era-nelle-nostre-competenze_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T16:19+01:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/11/06/news/altieri_anac_incompatibile_nomina_lega-425704418/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T14:10+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17",
+   "sez_prima": "italia",
+   "riempimento": true
+  },
+  {
+   "id": "z6f9473e0",
+   "sez": "mondo",
+   "titolo": "Fact-check: tre post virali sulla guerra in Iran smentiti",
+   "orig": "Fact check: Three viral Iran war posts debunked",
+   "lead": "Dopo il nuovo attacco statunitense contro l'Iran, i social media sono stati invasi da immagini e affermazioni drammatiche sul conflitto. Un'analisi di Deutsche Welle ha individuato video generati con intelligenza artificiale, filmati riciclati da eventi precedenti e post ingannevoli diffusi da account di dubbia attendibilità, tutti presentati come prove dirette degli scontri in corso. Lo riferisce Deutsche Welle.",
+   "more": [
+    "La disinformazione durante i conflitti armati è un fenomeno ricorrente: immagini e video vengono spesso ricontestualizzati o generati artificialmente per amplificare la portata emotiva degli eventi, rendendo sempre più difficile per il pubblico distinguere le fonti verificate dalle notizie false durante le fasi più tese di una crisi internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T15:29+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "ze01c54ac",
+   "sez": "dibattito",
+   "titolo": "Francia, il debito pubblico in crescita mette a rischio la stabilità",
+   "orig": "Protests and reforms: France's rising debt costs threaten stability",
+   "lead": "In Francia il governo ha annunciato 4 miliardi di euro di spesa aggiuntiva per l'istruzione, mentre nel paese si susseguono proteste nazionali e il debito pubblico continua a salire insieme ai costi degli interessi. Il tema al centro del dibattito è quanto margine di bilancio resti davvero al governo per nuove spese, in un contesto di crescente pressione finanziaria e sociale. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Il debito pubblico francese è tra i più alti dell'Unione europea e l'aumento dei tassi di interesse rende più costoso finanziarlo, riducendo le risorse disponibili per nuove misure di spesa. Le proteste nazionali spesso nascono da richieste di maggiori investimenti sociali, in contrasto con le esigenze di contenimento della spesa pubblica imposte dai vincoli di bilancio."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T14:37+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z8388e00b",
+   "sez": "mondo",
+   "titolo": "In Iran la popolazione vive nella minaccia costante della guerra e nella scarsità di informazioni",
+   "orig": "For people in Iran, a constant threat of war and dearth of information",
+   "lead": "La maggior parte delle persone in Iran ha scarsa conoscenza dell'andamento della guerra con gli Stati Uniti e dei colloqui di pace in corso sulla scena internazionale. Con poche fonti di informazione disponibili, la popolazione deve orientarsi tra voci contrastanti e timori di un attacco nucleare. Lo riferisce Deutsche Welle.",
+   "more": [
+    "In Iran l'accesso a internet e ai media indipendenti è fortemente limitato dalla censura governativa, che controlla gran parte dei canali di informazione disponibili alla popolazione, rendendo difficile verificare notizie durante le crisi e alimentando voci incontrollate tra i cittadini."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T12:56+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z2a17dcc8",
+   "sez": "prima",
+   "titolo": "Minacce bomba colpiscono anche le emittenti televisive europee",
+   "orig": "New bomb threats target European broadcasters, air traffic",
+   "lead": "Una nuova ondata di falsi allarmi bomba, dopo giorni di minacce che hanno disturbato i voli in Europa, si è estesa alle emittenti televisive. Minacce che avvertivano \"l'orologio corre\" sono state inviate venerdì a canali tv come l'irlandese RTE, la britannica Sky e la bulgara Nova TV, provocando evacuazioni e interruzioni dei programmi. Negli aeroporti di Roma, Madrid e Varsavia i viaggiatori hanno espresso più frustrazione che paura per i ritardi causati dai controlli di sicurezza, che non hanno mai rivelato esplosivi.",
+   "more": [
+    "Gli allarmi bomba falsi contro aerei ed edifici pubblici restano un reato perseguibile in molti paesi europei, anche quando non comportano un pericolo reale, poiché comunque costringono le autorità ad attivare costose e complesse procedure di sicurezza che causano ritardi diffusi."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T15:24+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T11:18+00:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T13:11+00:00"
+    },
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/world/bomb-threats-cause-flight-disruptions-across-europe--5660812",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-06T10:33+00:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/europe/article/3373611/clock-ticking-european-tv-channels-targeted-wave-hoax-bomb-threats",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T15:31+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-06T23:03+08:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T15:25+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T13:34+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T10:21-05:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ireland/2026/1106/1598241-rte-evacuation/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-06T09:41+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/offices-of-irish-media-groups-evacuated-due-to-bomb-threats-one-deemed-a-hoax",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-06T18:43+08:00"
+    },
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/11/06/irish-media-offices-evacuated-amid-possible-link-to-airline-bomb-threats",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-11-06T12:51+02:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-06T13:48+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/internacional/2026/11/06/6aeccda4e9cf4a994c8b458f.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-06T15:41+01:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-mundo/nuevas-amenazas-de-bomba-afectan-vuelos-en-varios/CHAIGDSPYVG3PLKGFJD3FEJPLE/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-06T13:45+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z926951b3",
+   "sez": "prima",
+   "titolo": "Russia di nuovo nello sport mondiale, ma chi controlla il doping dei suoi atleti?",
+   "orig": "Russia is back in world sport, but who is drug testing its athletes?",
+   "lead": "Un'inchiesta di Deutsche Welle ha rilevato che tre quarti della squadra russa di pesistica non è stato sottoposto a controlli antidoping indipendenti fuori competizione prima dei campionati mondiali di quest'anno, nonostante la storia di doping del paese. La Russia è tornata a competere in diverse discipline sportive internazionali dopo anni di sospensioni legate a scandali di dopaggio di stato. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Dopo lo scandalo di doping di stato emerso nel 2015, la Russia è stata esclusa per anni da molte competizioni internazionali. Il progressivo rientro degli atleti russi ha riacceso le polemiche sull'affidabilità dei controlli antidoping, soprattutto quando le verifiche indipendenti fuori competizione risultano limitate o assenti."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/russia-is-back-in-world-sport-but-who-is-drug-testing-its-athletes/a-79862467",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-05T14:51+00:00"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/sports/2213961",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-06T18:38+03:00"
+    },
+    {
+     "n": "VnExpress",
+     "p": "XX",
+     "c": "Hanoi",
+     "u": "https://e.vnexpress.net/news/news/world-s-second-best-airport-wins-award-for-beautiful-restroom-5141147.html",
+     "angolo": "",
+     "atlas": "Vietnam",
+     "t": "2026-11-06T07:00+07:00"
+    },
+    {
+     "n": "Tehran Times",
+     "p": "XX",
+     "c": "Teheran",
+     "u": "https://www.tehrantimes.com/news/531870/Alireza-Nasiri-wins-silver-at-2026-World-Weightlifting-Championships",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-06T14:06+00:00"
+    },
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/design/lavazza-tabli-wins-designboom-special-prize-third-place-at-seoul-design-award/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-06T08:47+00:00"
+    },
+    {
+     "n": "iWitness News",
+     "p": "XX",
+     "c": "Kingstown",
+     "u": "https://www.iwnsvg.com/2026/11/04/vincentian-wins-silver-award-in-commonwealth-essay-competition/",
+     "angolo": "",
+     "atlas": "St. Vin. and Gren.",
+     "t": "2026-11-04T05:14+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z79399a8c",
+   "sez": "prima",
+   "titolo": "Musk conferma lo stop alla produzione del Cybertruck",
+   "orig": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "lead": "Elon Musk ha segnalato la fine della produzione del Cybertruck, spiegando che la decisione serve a liberare spazio produttivo per i Cybercab, i taxi autonomi senza conducente di Tesla. Secondo l'ingegnere capo dell'azienda, la produzione del veicolo in acciaio inossidabile cesserà entro il 2027 in Texas, dove si svilupperà il nuovo progetto autonomo. Il pick-up, lanciato nel 2023, è diventato per alcuni un simbolo di opposizione a Musk legato al suo coinvolgimento nella politica statunitense durante l'era Trump.",
+   "more": [
+    "Il Cybertruck era stato presentato come un prodotto rivoluzionario per il suo design e i materiali, ma ha generato vendite inferiori alle attese iniziali di Tesla. I Cybercab sono veicoli pensati senza volante né pedali per il trasporto completamente autonomo, parte della strategia dell'azienda di investire sulla guida senza conducente come futuro core business."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T09:57+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T15:02+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T15:35+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/tesla-reducira-gradualmente-la-fabricacion-de-la-cybertruck-anuncia-musk_0_Ob59R12Jl8.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-06T15:40+00:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2042626/elon-musks-futuristic-cybertruck-rolls-toward-exit",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-06T20:10+05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z85f402bc",
+   "sez": "mondo",
+   "titolo": "L'Ue accusa l'algoritmo di TikTok di violare le regole digitali",
+   "orig": "'Rabbit hole' TikTok feeds violate digital rules, says EU",
+   "lead": "L'Unione europea ha accusato TikTok di violare le norme digitali del blocco perché il suo algoritmo propone agli utenti un flusso ininterrotto di video personalizzati, inclusi contenuti che secondo il regolatore potrebbero danneggiare la salute mentale e l'immagine corporea, specialmente dei più giovani. I regolatori europei hanno intimato alla piattaforma di correggere il cosiddetto effetto \"tana del coniglio\" del sistema di raccomandazione \"Per te\". TikTok è già sotto osservazione per altre presunte violazioni legate alla tutela della salute mentale dei minori.",
+   "more": [
+    "La regola violata rientra nel Digital Services Act dell'Unione europea, che impone alle grandi piattaforme di valutare e attenuare i rischi sistemici per gli utenti, in particolare i minori. In caso di conferma delle accuse, TikTok rischia sanzioni fino al 6% del proprio fatturato globale annuo."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/europe/2026/1106/1598263-eu-tiktok-videos/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-06T12:24+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T15:17+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-mundo/union-europea-exige-a-tiktok-que-modifique-feeds/HYTGWODCWRAFFMAEH7O7BKQFIQ/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-06T14:33+00:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2042623/eu-charges-tiktok-over-harmful-algorithmic-rabbit-hole-effects-tells-it-to-change-for-you-feed",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-06T19:54+05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z3fb55e38",
+   "sez": "salute",
+   "titolo": "Un ospedale britannico smetterà di far nascere bambini da fine novembre",
+   "orig": "No babies to be born at hospital from end of November",
+   "lead": "Un ospedale nel Regno Unito interromperà i parti a partire dalla fine di novembre, secondo un piano annunciato dalla direzione sanitaria. Una donna incinta presenterà un ricorso per revisione giudiziaria nel tentativo di far ritardare l'applicazione della decisione. Lo riferisce BBC News.",
+   "more": [
+    "La chiusura dei reparti di maternità in singoli ospedali britannici avviene spesso nell'ambito di riorganizzazioni dei servizi sanitari regionali, decise per concentrare le nascite in strutture più grandi considerate più sicure, ma generalmente contestate dalle comunità locali per i disagi negli spostamenti e nell'assistenza alle donne incinte."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cq4g1ddw2k0po",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-03T16:58+00:00"
+    },
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/articles/-/56789",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-05T06:00+09:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/health/385131/heart-disease-burden-rises-as-16000-babies-are-born-with-defects-annually",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-11-06T18:10+03:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z3b9e2e09",
+   "sez": "sport",
+   "titolo": "Baleba fuori per qualche settimana per infortunio al bicipite femorale",
+   "orig": "Baleba out for few weeks due to hamstring injury, says Carrick",
+   "lead": "Il centrocampista Carrington Baleba resterà fuori per alcune settimane a causa di un infortunio al bicipite femorale, ha annunciato l'allenatore del Manchester United Michael Carrick. Lo riferisce CNA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/baleba-out-few-weeks-due-hamstring-injury-says-carrick-6531666",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-06T22:31+08:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/live/2026/nov/06/england-squad-announced-sunderland-face-jeers-and-fa-cup-first-round-football-news-live",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T15:59+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/nov/06/jobe-bellingham-england-squad-brother-jude-josh-king-ben-white",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T10:02+00:00"
+    },
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/sports/judes-brother-jobe-bellingham-gets-england-call-up/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-06T11:34+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z4666b03e",
+   "sez": "mondo",
+   "titolo": "Russia intensifica gli attacchi alle infrastrutture civili, dice funzionario della difesa estone",
+   "orig": "Defense official: Russia is stepping up attacks on civilian infrastructure",
+   "lead": "Con le linee del fronte rimaste largamente invariate, la Russia sta intensificando gli attacchi a lungo raggio contro le infrastrutture civili ucraine, ha dichiarato venerdì Gert Kaju, funzionario del ministero della Difesa estone. Nel frattempo l'Ucraina ha colpito con drone la raffineria petrolifera di Afipsky, nella regione russa di Krasnodar, provocando un incendio dopo la caduta di detriti. Le due parti continuano a scambiarsi attacchi contro le rispettive infrastrutture energetiche.",
+   "more": [
+    "Da anni Russia e Ucraina si colpiscono reciprocamente infrastrutture energetiche e civili con attacchi a lungo raggio, usando drone e missili, in una strategia che punta a logorare le capacità produttive ed energetiche dell'avversario mentre il fronte terrestre resta in gran parte stabile."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610188570/defense-official-russia-is-stepping-up-attacks-on-civilian-infrastructure",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-06T16:10+02:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/06/ukraine-attacks-afipsky-oil-refinery-in-southern-russia",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-06T12:30+03:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/06/ukraine-and-russia-trade-volley-of-strikes-against-each-others-energy-infrastructure-a94189",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-06T12:59+03:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zbb251eb2",
+   "sez": "ambiente",
+   "titolo": "L'aria tossica invernale torna a Delhi: la capitale indiana è pronta?",
+   "orig": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+   "lead": "Il governo di Delhi ha annunciato un piano d'azione invernale di quattro mesi contro l'inquinamento atmosferico, ma secondo gli esperti le misure non saranno sufficienti ad affrontare il problema. Nonostante anni di interventi governativi, restrizioni d'emergenza e proteste pubbliche, la capitale indiana continua a registrare livelli di inquinamento pericolosi ogni inverno, senza che sia stata trovata una soluzione duratura.",
+   "more": [
+    "L'inquinamento atmosferico di Delhi peggiora ogni inverno a causa di una combinazione di fattori: traffico veicolare, emissioni industriali, roghi di stoppie agricole nelle regioni vicine e condizioni meteorologiche che intrappolano lo smog vicino al suolo, rendendo l'aria tra le più tossiche al mondo nelle principali città."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-05T23:16+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T12:05+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z2fe84f25",
+   "sez": "sport",
+   "titolo": "Mondiale di Rugby League: tutto quello che c'è da sapere sulle semifinali",
+   "orig": "Rugby League World Cup semifinals: Everything you need to know",
+   "lead": "Le squadre neozelandesi Kiwis e Kiwi Ferns affronteranno le semifinali del Mondiale di Rugby League sabato a Newcastle. Lo riferisce RNZ Pacific.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/sport/2391900/rugby-league-world-cup-semifinals-everything-you-need-to-know",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-11-07T04:57+13:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/nov/06/the-weeks-best-new-tracks-and-the-act-you-need-to-know-crowd-pleasing-anticapitalist-rockers-sans-froid",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T12:20+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z187121f0",
+   "sez": "mondo",
+   "titolo": "Difficoltà di accesso alle cure dentistiche per le reclute estoni",
+   "orig": "Justice chancellor flags concern over conscripts' dental care access",
+   "lead": "Il cancelliere della giustizia estone ha segnalato preoccupazioni riguardo alle difficoltà incontrate dalle reclute delle Forze di difesa estoni (EDF) in servizio presso un'unità con sede a Tallinn nell'ottenere appuntamenti dal dentista. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610188501/justice-chancellor-flags-concern-over-conscripts-dental-care-access",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-06T15:41+02:00"
+    },
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/got-bad-breath-get-free-dental-care-at-this-store/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-05T19:30+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "good": true,
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z953bd558",
+   "sez": "manga",
+   "titolo": "Svelati cast e staff dell'anime 'Rainy Day Serenade', debutto nell'aprile 2027",
+   "orig": "Rainy Day Serenade Anime's Teaser Reveals Cast, Staff, April 2027 Debut",
+   "lead": "È stato rivelato il cast principale dell'adattamento anime del manga di Haruka Kawachi \"Namidaame to Serenade\" (Rainy Day Serenade), con Yume Miyamoto e Takeo Ōtsuka tra le voci protagoniste. L'anime debutterà nella primavera del 2027, come confermato dal sito ufficiale che ha diffuso anche un teaser promozionale e la prima illustrazione celebrativa disegnata dall'autrice del manga.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-11-06/rainy-day-serenade-anime-teaser-reveals-cast-staff-april-2027-debut/.243586",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T06:00-05:00"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/11/6/rainy-day-serenade-anime-premieres-in-april-2027",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T11:37+00:00"
+    },
+    {
+     "n": "MyAnimeList News",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://myanimelist.net/news/74910185?_location=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T03:34-08:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z2035f7e3",
+   "sez": "prima",
+   "titolo": "Sei italiani arrestati in Cisgiordania durante una manifestazione",
+   "orig": "Sei italiani arrestati in Cisgiordania",
+   "lead": "Sei cittadini italiani sono stati fermati in Cisgiordania insieme ad altri attivisti. La Farnesina segue il caso e il ministro degli Esteri Antonio Tajani ha chiesto il loro rilascio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/sei-italiani-arrestati-in-cisgiordania-a24fc986-ac09-479d-9281-b07a7f99c21f.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T14:53+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T15:24+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17",
+   "sez_prima": "italia",
+   "riempimento": true
+  },
+  {
+   "id": "z0805baff",
+   "sez": "dibattito",
+   "titolo": "Pensioni dei dirigenti, Cida chiede di eliminare l'articolo 55 della manovra",
+   "orig": "Pensioni, Cida: per pensionati dirigenza fino a 200mila euro persi in 14 anni",
+   "lead": "La Confederazione italiana dei dirigenti e delle alte professionalità (Cida) chiede al governo di sopprimere l'articolo 55 del disegno di legge di Bilancio, sostenendo che per i pensionati con ruoli dirigenziali la perdita accumulata in 14 anni potrebbe arrivare fino a 200mila euro. Secondo le stime diffuse dalla confederazione, nel 2027 si rischia un'ulteriore penalizzazione di circa 3mila euro. Cida invita il governo a valutare una diversa allocazione delle risorse già previste dalla manovra per evitare questo effetto sulle pensioni dirigenziali.",
+   "more": [
+    "Le regole di calcolo e rivalutazione delle pensioni possono prevedere meccanismi di perequazione che limitano l'adeguamento degli assegni più alti all'inflazione, riducendone nel tempo il potere d'acquisto. Le associazioni di categoria dei dirigenti contestano da anni queste penalizzazioni, chiedendo correzioni nelle leggi di bilancio annuali per attenuarne l'impatto sulle pensioni più elevate."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/pensioni-cida-pensionati-dirigenza-fino-200mila-euro-persi-14-anni-AJWTeL7B",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T14:38+00:00"
+    },
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/pensioni-dirigenti-fino-a-200mila-euro-persi-in-14-anni-cida-nel-2027-si-rischiano-altri-3mila-euro-chiesta-la-modifica-della-manovra/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T15:19+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z5a753dc4",
+   "sez": "cucina",
+   "titolo": "Limanda: cos'è il nuovo alimento di cui si parla nelle scuole di Milano",
+   "orig": "Limanda: cos'è la novità di cui si parla tanto tra le scuole di Milano?",
+   "lead": "Tra le novità della pianificazione dei menù scolastici invernali a Milano compare la limanda, un alimento poco conosciuto che sta destando curiosità tra genitori e insegnanti. Il pesce viene consigliato nei menù scolastici per i bambini. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "La limanda è un pesce piatto simile alla sogliola, diffuso nei mari del Nord Europa, apprezzato per le carni magre e delicate: viene talvolta inserito nei menù scolastici come fonte di proteine semplici da digerire e poco grasse, adatta all'alimentazione infantile."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/limanda-pesce-caratteristiche-nutrizionali/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T15:30+00:00"
+    },
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/torna-nelle-scuole-italiane-parole-per-lumanita-le-novita-del-progetto-educativo-per-il-2026-2027/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T13:30+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zd22cfd73",
+   "sez": "adolescenti",
+   "titolo": "Dote Scuola Lombardia, contributi fino a 2.000 euro per le rette: domande entro il 10 dicembre",
+   "orig": "Dote Scuola Lombardia 2026/2027, fino a 2.000 euro per le rette con ISEE fino a 40mila euro: domande online entro il 10 dicembre",
+   "lead": "La Regione Lombardia ha aperto il bando Dote Scuola - componente Buono Scuola per l'anno 2026/2027, un contributo a fondo perduto da 300 a 2.000 euro destinato alle famiglie con Isee fino a 40mila euro che pagano una retta per mandare i figli a scuola. Le domande si possono presentare online entro il 10 dicembre. Lo riferisce Orizzonte Scuola.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/dote-scuola-lombardia-2026-2027-fino-a-2-000-euro-per-le-rette-con-isee-fino-a-40mila-euro-domande-online-entro-il-10-dicembre/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T13:53+00:00"
+    },
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/schede/bonus_isee_basso_sotto_35_000_euro_quali_sono_come_fare_domanda-9872881.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T07:44+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17",
+   "sub": "musica"
+  },
+  {
+   "id": "z5e62325c",
+   "sez": "organizzazioni",
+   "titolo": "Il Sudan continua a soffrire per la guerra, denunciano le squadre di aiuto",
+   "orig": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+   "lead": "Le squadre di soccorso impegnate ad assistere i milioni di persone sfollate dalla guerra in corso in Sudan hanno lanciato venerdì un appello per maggiore assistenza internazionale, segnalando carenze di fondi, magazzini vuoti e bisogni che superano le capacità attuali. Lo riferisce UN News.",
+   "more": [
+    "Il conflitto in Sudan, scoppiato nel 2023 tra l'esercito regolare e le forze paramilitari Rsf, ha causato una delle maggiori crisi umanitarie al mondo, con milioni di sfollati interni e rifugiati, carestia diffusa in diverse regioni e un sistema sanitario in gran parte collassato, aggravato da difficoltà nell'accesso agli aiuti."
+   ],
+   "fonti": [
+    {
+     "n": "Nazioni Unite (UN News)",
+     "p": "XX",
+     "c": "New York",
+     "u": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-06T12:00+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z952527b6",
+   "sez": "musica",
+   "titolo": "Ryan Adams annuncia il nuovo album 'Animal' e il singolo 'Amethyst'",
+   "orig": "Ryan Adams, annunciato il nuovo album “Animal”: i dettagli e il primo singolo “Amethyst”",
+   "lead": "Il cantautore statunitense Ryan Adams ha annunciato l'uscita di un nuovo album in studio, intitolato \"Animal\", prevista per il 12 febbraio 2027 sulla sua etichetta indipendente PAX-AM. Ad anticipare il disco è il primo singolo \"Amethyst\". Lo riferisce OndaRock.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/ryan-adams-annunciato-il-nuovo-album-animal-i-dettagli-e-il-primo-singolo-amethyst/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T11:54+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zdaaf5d2e",
+   "sez": "spazio",
+   "titolo": "La sonda Voyager supera la soglia di un giorno-luce dalla Terra",
+   "orig": "'Big Bang' Fix Puts Voyager Across the 'One Light-Day' Mark",
+   "lead": "Le due sonde Voyager, lanciate nel 1977 durante la presidenza di Jimmy Carter, continuano il loro viaggio nello spazio interstellare oltre i confini del sistema solare. I team del Jet Propulsion Laboratory della Nasa lavorano per mantenere attive le missioni, che hanno ora raggiunto la distanza di un giorno-luce dalla Terra, un nuovo traguardo simbolico per gli ingegneri che le seguono da quasi mezzo secolo. Lo riferisce Universe Today.",
+   "more": [
+    "Le sonde Voyager 1 e 2 furono lanciate nel 1977 per esplorare i pianeti esterni del sistema solare. Entrambe hanno poi superato l'eliopausa, il confine dell'influenza del Sole, entrando nello spazio interstellare. Continuano a trasmettere dati con strumenti risalenti agli anni Settanta, nonostante l'energia decrescente generata dai loro generatori nucleari."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-06T11:49+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z755635d2",
+   "sez": "ambiente",
+   "titolo": "Qualità dell'aria in peggioramento a Delhi prima del Diwali, nonostante il divieto di fuochi",
+   "orig": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "lead": "A Delhi la qualità dell'aria è peggiorata nei giorni precedenti il Diwali, la festa indù delle luci che tradizionalmente prevede l'uso di fuochi d'artificio, nonostante le restrizioni entrate in vigore per limitarli. Mercoledì mattina l'indice di qualità dell'aria ha toccato 377, nella categoria \"molto scarsa\". Al Jazeera parla di livelli definiti pericolosi nella capitale indiana nei giorni che precedono le celebrazioni.",
+   "more": [
+    "Delhi è periodicamente tra le città più inquinate al mondo, soprattutto in autunno e inverno, quando si combinano fumo da combustione agricola nelle regioni vicine, traffico e condizioni atmosferiche che trattengono gli inquinanti vicino al suolo. Il Diwali, con l'uso tradizionale di fuochi d'artificio, aggrava ogni anno la situazione, spingendo le autorità a imporre divieti spesso disattesi."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-04T07:39+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/air-turns-hazardous-in-new-delhi-days-before-diwali",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-06T12:30+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z51a94c97",
+   "sez": "economia",
+   "titolo": "Negli Stati Uniti l'occupazione sorprende: 165.000 posti di lavoro in più il mese scorso",
+   "orig": "Hiring jumps: The economy added 165,000 jobs last month",
+   "lead": "Il mercato del lavoro statunitense ha mostrato segnali di ripresa: il Dipartimento del Lavoro ha reso noto venerdì che l'economia ha creato 165.000 nuovi posti di lavoro il mese scorso, un dato superiore alle previsioni degli analisti. Il tasso di disoccupazione è sceso al 4,1%. Secondo il Financial Times, la crescita è stata guidata dal settore dei servizi professionali, a conferma della solidità del mercato del lavoro americano nonostante le incertezze economiche globali.",
+   "more": [
+    "Il rapporto mensile sull'occupazione statunitense è uno degli indicatori più osservati dai mercati finanziari e dalla Federal Reserve per orientare le decisioni sui tassi d'interesse. Un dato superiore alle attese segnala solidità economica, ma può anche influenzare le aspettative sui futuri tagli dei tassi, con riflessi sui mercati azionari e obbligazionari."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T08:49-05:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T15:18+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z2de31470",
+   "sez": "spazio",
+   "titolo": "La gravità terrestre potrebbe aver mantenuto attivo il vulcanismo lunare per miliardi di anni",
+   "orig": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
+   "lead": "Nuovi studi suggeriscono che la gravità della Terra abbia contribuito a mantenere attivo il nucleo vulcanico della Luna molto più a lungo di quanto previsto dalla fisica classica. I campioni lunari raccolti dalla missione cinese Chang'e-5 hanno rivelato materiale vulcanico formatosi circa due miliardi di anni fa, nonostante la Luna avrebbe dovuto raffreddarsi rapidamente dopo la sua formazione, avvenuta circa 4,5 miliardi di anni fa in seguito all'impatto di un protopianeta con la Terra. Lo riferisce Universe Today.",
+   "more": [
+    "La Luna si formò probabilmente dai detriti di una collisione tra la Terra primordiale e un corpo celeste delle dimensioni di Marte. Da allora, gli scienziati ritenevano che il suo interno si fosse raffreddato rapidamente, interrompendo l'attività vulcanica. Le forze di marea generate dalla gravità terrestre, tuttavia, possono generare calore interno nei corpi celesti, come avviene su alcune lune di Giove e Saturno."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-06T14:42+00:00"
+    },
+    {
+     "n": "IEEE Spectrum",
+     "p": "US",
+     "c": "New York",
+     "u": "https://spectrum.ieee.org/mmx-mission-to-phobos",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T15:00+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "za4d2f3a2",
+   "sez": "italia",
+   "titolo": "Bambina esclusa dalla mensa scolastica a Taranto per un debito di 12 euro, il padre denuncia",
+   "orig": "Un genitore denuncia: 'Mia figlia esclusa dalla mensa per 12 euro'",
+   "lead": "A Taranto una bambina di 9 anni è stata esclusa dal servizio di mensa scolastica perché il padre non aveva saldato un debito di 12 euro verso il Comune. La scuola ha chiamato il genitore, informandolo della richiesta inevasa, costringendolo a recuperare la figlia mentre i compagni di classe continuavano a mangiare. Il padre ha presentato una diffida al Comune di Taranto, chiedendo il ripristino immediato del servizio, pena un ricorso urgente. Lo riferisce ANSA.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/genitore-denuncia-mia-figlia-esclusa-dalla-mensa-per-12-euro_2f58afa7-bf90-4b56-9ec8-289625faebd8.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T16:27+01:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://bari.repubblica.it/cronaca/2026/11/06/news/non_c_e_il_piatto_per_te_tuo_padre_non_ha_pagato_12_euro_bambina_di_9_anni_esclusa_dalla_mensa-425703567/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T09:31+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zd547a8f3",
+   "sez": "organizzazioni",
+   "titolo": "Per i rifugiati 'nessuna via di fuga' dalla crisi climatica, avverte l'Onu",
+   "orig": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+   "lead": "Le Nazioni Unite segnalano che la crisi climatica rappresenta un'emergenza immediata per i rifugiati nel mondo: secondo i dati diffusi dall'organizzazione, tre persone su quattro tra i rifugiati, quasi 90 milioni di persone, vivono in paesi esposti ad alto o severo rischio di fenomeni come siccità, inondazioni e caldo estremo. L'agenzia descrive questa popolazione come priva di via di fuga, poiché spesso i paesi che li ospitano sono tra i più vulnerabili ai disastri climatici globali. Lo riferisce UN News.",
+   "more": [
+    "I rifugiati sono spesso costretti a stabilirsi in paesi limitrofi a quelli di origine, frequentemente situati in regioni già fragili dal punto di vista climatico ed economico. La combinazione di spostamento forzato e crisi ambientale aggrava condizioni di vita precarie, limitando l'accesso a risorse come acqua e terreni coltivabili."
+   ],
+   "fonti": [
+    {
+     "n": "Nazioni Unite (UN News)",
+     "p": "XX",
+     "c": "New York",
+     "u": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-06T12:00+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z206e05ac",
+   "sez": "mondo",
+   "titolo": "Un primate velenoso creduto estinto da un secolo era ancora vivo in Indonesia",
+   "orig": "Venomous Primate Believed Extinct for 100 Years Was Hiding in Plain Sight All Along",
+   "lead": "Il lori lento di Bangka, un piccolo primate velenoso dagli occhi grandi, era stato considerato potenzialmente estinto nel 2015. Un'organizzazione locale per la tutela della fauna selvatica sull'isola indonesiana di Bangka ha invece documentato la sopravvivenza della specie, recuperando e reintroducendo esemplari in natura. Un video diffuso dall'organizzazione mostra l'animale ancora presente nel suo habitat originario. Lo riferisce Good News Network.",
+   "more": [
+    "Il lori lento di Bangka è uno dei pochi primati velenosi al mondo: produce una secrezione tossica dalle ghiandole brachiali che, mescolata alla saliva, può causare reazioni allergiche nell'uomo. La specie è minacciata dal commercio illegale di animali e dalla distruzione dell'habitat forestale nel sud-est asiatico."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/venomous-primate-believed-extinct-for-100-years-was-hiding-in-plain-sight-all-along/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T14:00+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "good": true,
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z30f520eb",
+   "sez": "mondo",
+   "titolo": "Kyiv: la Russia usa una propria rete satellitare simile a Starlink per le comunicazioni militari sull'Ucraina",
+   "orig": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
+   "lead": "Secondo l'intelligence militare ucraina, la Russia starebbe già utilizzando la nuova rete satellitare Rassvet, presentata come una versione russa di Starlink, per le comunicazioni militari sui cieli dell'Ucraina. L'obiettivo, secondo fonti citate da Reuters, sarebbe rendere più precisi e più difficili da disturbare i droni d'attacco russi. La notizia arriva mentre il conflitto tra i due paesi continua a intensificarsi sul fronte tecnologico e militare. Lo riferisce The Straits Times.",
+   "more": [
+    "Starlink, la rete satellitare di SpaceX, è stata ampiamente utilizzata dalle forze ucraine per garantire comunicazioni resistenti ai disturbi russi fin dall'inizio dell'invasione del 2022. Lo sviluppo di un sistema alternativo da parte di Mosca indicherebbe il tentativo di ridurre la dipendenza da tecnologie occidentali e migliorare l'efficacia delle proprie operazioni militari, inclusi i droni."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-06T22:32+08:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z3b23d045",
+   "sez": "tech",
+   "titolo": "L'Estonia autorizza le banche a bloccare pagamenti sospetti per contrastare le frodi online",
+   "orig": "Estonia allows banks to suspend suspicious payments to combat internet fraud",
+   "lead": "Le banche estoni hanno ottenuto il diritto di sospendere temporaneamente pagamenti ritenuti sospetti, uno strumento che intendono iniziare a usare attivamente per contrastare le frodi informatiche in aumento. Nel paese cresce in particolare il fenomeno delle frodi legate ai prelievi in contanti. La misura si inserisce in un contesto più ampio di digitalizzazione dei sistemi di pagamento, mentre in Pakistan il primo ministro Shehbaz Sharif ha chiesto una roadmap per arrivare a pagamenti digitali al 100%. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610188396/estonia-allows-banks-to-suspend-suspicious-payments-to-combat-internet-fraud",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-06T16:29+02:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2042606/pm-seeks-roadmap-for-100pc-digital-payments-system-stresses-countrywide-internet-access",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-06T17:41+05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zbb284f6e",
+   "sez": "italia",
+   "titolo": "Corruzione in Sicilia, arresti domiciliari per l'ex vicepresidente della Regione Armao",
+   "orig": "Corruzione, arresti domiciliari per Gaetano Armao e Pierluigi Matta",
+   "lead": "La gip di Palermo Giuseppa Zampino ha emesso un'ordinanza di custodia cautelare con arresti domiciliari per Gaetano Armao, ex vicepresidente della Regione Siciliana, accusato di corruzione. La stessa misura è stata applicata a Pierluigi Matta e Luigi Zancla, mentre altre richieste cautelari sono state respinte. Secondo quanto riporta Il Fatto Quotidiano, la Procura aveva chiesto il carcere per Armao, ma il gip ha optato per una misura meno restrittiva dopo l'interrogatorio preventivo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://palermo.repubblica.it/cronaca/2026/11/06/news/gaetano_armao_arrestato_domiciliari_corruzione_regione_sicilia_le_notizie-425704491/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T14:35+00:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/06/corruzione-armao-arresti-domiciliari-sicilia-notizie/8563399/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T15:55+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zb7bb18a5",
+   "sez": "salute",
+   "titolo": "La Tanzania investe nella formazione sanitaria per contrastare diabete e ipertensione",
+   "orig": "TZ invests in health workforce to tackle rising diabetes, hypertension",
+   "lead": "La Tanzania ha lanciato un programma triennale per rafforzare il personale sanitario nella lotta contro malattie croniche in aumento come diabete e ipertensione. L'iniziativa, realizzata da Amref Health Africa Tanzania in collaborazione con la Novo Nordisk Foundation, punta a formare 25.500 studenti di medicina e 1.600 professionisti sanitari già attivi, con il sostegno di 113 strutture coinvolte nel progetto. Lo riferisce Daily News.",
+   "more": [
+    "Le malattie croniche non trasmissibili, come diabete e ipertensione, sono in aumento in molti paesi africani a causa di cambiamenti negli stili di vita e nell'alimentazione. Programmi di formazione del personale sanitario mirano a migliorare diagnosi precoce e gestione a lungo termine di queste patologie, spesso trascurate rispetto alle malattie infettive nei sistemi sanitari con risorse limitate."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tz-invests-in-health-workforce-to-tackle-rising-diabetes-hypertension/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-06T15:07+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zbe209d1e",
+   "sez": "ambiente",
+   "titolo": "Un'azienda del Vermont lancia un progetto geotermico per ridurre le bollette energetiche",
+   "orig": "Geothermal Utilities Power Wave of US Affordable Housing with 40% Energy Savings",
+   "lead": "Vermont Gas, azienda statunitense del gas naturale, ha avviato quello che definisce il primo progetto geotermico comunitario del paese, puntando a far risparmiare fino al 40% sui costi energetici ai clienti coinvolti. Secondo l'amministratore delegato dell'azienda, la tecnologia rappresenta una delle soluzioni più efficaci per abbattere i costi dell'energia, un obiettivo condiviso da molti proprietari di case negli Stati Uniti. Lo riferisce Good News Network.",
+   "more": [
+    "I sistemi geotermici utilizzano la temperatura costante del sottosuolo per riscaldare e raffreddare edifici in modo più efficiente rispetto ai tradizionali impianti a gas o elettrici. Progetti su scala comunitaria permettono di condividere i costi dell'infrastruttura tra più abitazioni, riducendo l'investimento iniziale per ogni singolo utente e ampliando l'accesso a questa tecnologia."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/geothermal-utilities-power-wave-of-us-affordable-housing-with-40-energy-savings/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T12:30+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "good": true,
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z19e50a24",
+   "sez": "tech",
+   "titolo": "Google, Meta e TikTok fanno causa alla California contro la legge sulla protezione dei minori online",
+   "orig": "ΗΠΑ: Google, Meta και TikTok προσφεύγουν κατά νόμου που προστατεύει τους ανηλίκους",
+   "lead": "Google, Meta e TikTok hanno presentato ricorso contro una legge della California che limita la possibilità delle piattaforme social di offrire ai minori funzioni ritenute capaci di generare dipendenza. La legge, denominata AB 1709 e firmata a settembre dal governatore Gavin Newsom, entrerà in vigore dal primo gennaio e non vieta i social ai ragazzi, ma rimuove le funzioni considerate più coinvolgenti. Le aziende contestano il provvedimento, scegliendo una strada diversa dal divieto totale adottato dall'Australia e in parte dall'Europa.",
+   "more": [
+    "Diversi paesi stanno affrontando il tema dell'uso dei social media da parte dei minori con approcci differenti: l'Australia ha scelto il divieto totale sotto una certa età, mentre l'Unione Europea punta su regole di protezione parziale. La California, con l'AB 1709, intende colpire specificamente i meccanismi di design (come notifiche continue e autoplay) ritenuti responsabili di comportamenti compulsivi tra gli adolescenti."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/ipa-google-meta-kai-tiktok-prosfeygoun-kata-nomou-pou-prostateyei-tous-anilikous/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-06T14:56+00:00"
+    },
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/11/06/news/meta_google_e_tiktok_fanno_causa_alla_california_minori_social-425704578/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T16:11+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zbe0bb7e4",
+   "sez": "italia",
+   "titolo": "Meloni: 'Sull'Ucraina l'Unione Europea ci ha ascoltato'",
+   "orig": "Meloni: su Ucraina la Ue ci ha ascoltato",
+   "lead": "La presidente del Consiglio Giorgia Meloni ha dichiarato che l'Unione Europea ha tenuto conto delle posizioni italiane riguardo alla questione ucraina. Rispondendo ai giornalisti che le chiedevano della data delle prossime elezioni, Meloni ha replicato in modo ironico, affermando di essere concentrata sul lavoro di governo piuttosto che su scadenze elettorali. Lo riferisce Rai News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/meloni-su-ucraina-la-ue-ci-ha-ascoltato-422c06c7-cab8-4c78-b9bc-44b9915d404e.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T11:40+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z98e9fb55",
+   "sez": "mondo",
+   "titolo": "Pechino respinge le sanzioni statunitensi a due aziende cinesi per la cooperazione con Cuba",
+   "orig": "Pekín rechaza las sanciones de EE UU a dos empresas chinas por su cooperación con Cuba",
+   "lead": "Il governo cinese ha respinto le nuove sanzioni imposte dagli Stati Uniti contro due aziende cinesi accusate di cooperare con Cuba. Il portavoce del ministero degli Esteri cinese Guo Jiakun ha definito la cooperazione tra Pechino e L'Avana 'aperta e trasparente'. Le sanzioni, annunciate giovedì 5 novembre da Washington, colpiscono in totale otto aziende e due persone, ritenute collegate a élite cubane e a reti che movimentano petrolio e materiale militare verso l'isola.",
+   "more": [
+    "Gli Stati Uniti mantengono da decenni un embargo economico contro Cuba, inasprito in diverse fasi, e colpiscono periodicamente con sanzioni individui o aziende straniere accusate di facilitare scambi commerciali con il governo cubano, incluso il commercio di petrolio, spesso legato a forniture dal Venezuela."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/pekin-rechaza-sanciones-ee-uu_1_1132887.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-11-06T13:16+00:00"
+    },
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/mundo/ee-uu-sanciona-a-8-empresas-y-2-personas-por-proveer-petroleo-o-material-militar-a-cuba/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-11-05T21:28+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z0df57bd4",
+   "sez": "dibattito",
+   "titolo": "In Italia oltre 50mila studenti sono hikikomori, senza scuola né amici per mesi",
+   "orig": "Niente scuola né amici per più di sei mesi: è la condizione di oltre 50mila studenti italiani hikikomori. I dati",
+   "lead": "In Italia più di 50mila studenti vivono una condizione di isolamento sociale totale, senza frequentare la scuola né avere contatti con amici per periodi superiori a sei mesi. Si tratta del fenomeno degli hikikomori, giovani che scelgono di ritirarsi completamente dalla vita sociale, restando chiusi in casa e interrompendo ogni rapporto con il mondo esterno. I dati sono riportati da Orizzonte Scuola, che evidenzia la portata del fenomeno tra gli studenti italiani.",
+   "more": [
+    "Il termine hikikomori, di origine giapponese, descrive persone, spesso adolescenti, che si isolano volontariamente dalla società per periodi prolungati, evitando scuola, lavoro e rapporti sociali diretti. Le cause sono multiple e includono pressione scolastica, ansia sociale, bullismo e uso eccessivo di internet. Il fenomeno, osservato per primo in Giappone, è in crescita anche in Europa e in Italia."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/niente-scuola-ne-amici-per-piu-di-sei-mesi-e-la-condizione-di-oltre-50mila-studenti-italiani-hikikomori-i-dati/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T14:54+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z13df7d16",
+   "sez": "economia",
+   "titolo": "I titoli tecnologici legati all'IA risalgono dopo un crollo di migliaia di miliardi",
+   "orig": "AI stocks climb after trillions wiped from market values",
+   "lead": "Le azioni delle società legate all'intelligenza artificiale sono tornate a salire dopo giorni di forti vendite sui titoli tecnologici, che avevano cancellato migliaia di miliardi di dollari di valore dai mercati. Gli investitori avevano iniziato a vendere le azioni tech per il timore che la vittoria elettorale dei Democratici potesse tradursi in uno sviluppo più lento del settore dell'intelligenza artificiale. Lo riferisce BBC News.",
+   "more": [
+    "I mercati finanziari reagiscono spesso con forte volatilità alle prospettive politiche che possono incidere sulla regolamentazione di settori strategici come l'intelligenza artificiale. Cambiamenti di governo o di maggioranza politica possono alterare le aspettative su investimenti, incentivi fiscali e normative, influenzando rapidamente le valutazioni delle società tecnologiche quotate in borsa."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T15:04+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zaa1df4d7",
+   "sez": "italia",
+   "titolo": "Mattarella: 'I giovani sono esposti ai traumi dei conflitti, sappiamo ascoltarli?'",
+   "orig": "Mattarella: “Giovani esposti a traumi causati dai conflitti, sappiamo ascoltarli?”",
+   "lead": "Il presidente della Repubblica Sergio Mattarella ha richiamato l'attenzione pubblica sulla condizione delle nuove generazioni, esposte ai traumi causati dai conflitti nel mondo. Il capo dello Stato ha chiesto interventi mirati e maggiore capacità di ascolto verso i giovani, sollecitando istituzioni e società a non trascurare le conseguenze psicologiche che le guerre contemporanee producono su adolescenti e bambini. Lo riferisce la Repubblica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/11/06/news/mattarella_giovani_traumi_conflitti-425704599/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T15:13+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z54227f7f",
+   "sez": "economia",
+   "titolo": "Perché il prezzo dell'oro è sorprendentemente basso",
+   "orig": "Why gold prices are surprisingly low",
+   "lead": "Il prezzo dell'oro, che di solito sale quando cresce l'incertezza economica, è crollato questa settimana, scendendo sotto i 4.000 dollari l'oncia dopo aver toccato quasi 5.600 dollari lo scorso gennaio. Il metallo è tradizionalmente considerato un bene rifugio nei momenti di instabilità dei mercati, ma negli ultimi giorni ha invertito la tendenza nonostante le tensioni geopolitiche e finanziarie globali restino elevate. Gli analisti si interrogano sulle cause di questo calo inatteso. Lo riferisce NPR.",
+   "more": [
+    "L'oro viene comprato come riserva di valore quando investitori e banche centrali temono instabilità finanziaria o inflazione. Il suo prezzo dipende da domanda, tassi d'interesse, forza del dollaro e acquisti delle banche centrali: quando questi fattori cambiano rapidamente, anche un bene considerato sicuro può subire forti oscillazioni di breve periodo."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T07:00-05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zdc956c59",
+   "sez": "economia",
+   "titolo": "I presidenti ceco e ungherese discutono di energia e cooperazione V4 a Praga",
+   "orig": "Czech and Hungarian presidents to discuss energy and V4 cooperation in Prague",
+   "lead": "Il presidente ceco e quello ungherese si incontrano a Praga per discutere di questioni energetiche e di cooperazione nell'ambito del gruppo di Visegrád (V4), che riunisce Repubblica Ceca, Ungheria, Polonia e Slovacchia. L'incontro arriva in un momento di attenzione sulle forniture energetiche in Europa centrale. Non sono stati resi noti ulteriori dettagli sui temi specifici che saranno affrontati durante il colloquio. Lo riferisce Radio Prague International.",
+   "more": [
+    "Il Gruppo di Visegrád (V4) è un forum di cooperazione regionale tra Repubblica Ceca, Ungheria, Polonia e Slovacchia, nato nel 1991 per coordinare politiche su sicurezza, economia ed energia. I temi energetici restano centrali per questi paesi, storicamente dipendenti da forniture russe e impegnati nella diversificazione delle fonti."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/czech-and-hungarian-presidents-discuss-energy-and-v4-cooperation-prague-8901985",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-06T15:40+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zef9382af",
+   "sez": "economia",
+   "titolo": "Il ministero delle Finanze ceco prevede un deficit pubblico al 3,5% del PIL nel 2027",
+   "orig": "Finance Ministry expects public finance deficit to widen to 3.5 percent of GDP next year",
+   "lead": "Il ministero delle Finanze della Repubblica Ceca prevede che il deficit delle finanze pubbliche salirà al 3,5% del Prodotto interno lordo l'anno prossimo. La previsione indica un peggioramento rispetto ai livelli attuali e riflette le pressioni sulla spesa pubblica del paese. Non sono stati forniti ulteriori dettagli sulle cause specifiche dell'aumento previsto né sulle misure che il governo intende adottare per contenerlo. Lo riferisce Radio Prague International.",
+   "more": [
+    "Il deficit pubblico misura la differenza tra entrate e spese dello Stato in un anno. Un rapporto deficit/PIL in crescita può indicare maggiore indebitamento, spesso dovuto ad aumento della spesa sociale, investimenti o rallentamento della crescita economica, e viene monitorato dall'Unione europea nell'ambito delle regole di bilancio comuni."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/finance-ministry-expects-public-finance-deficit-widen-35-percent-gdp-next-year-8901955",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-06T13:46+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z69502e50",
+   "sez": "ambiente",
+   "titolo": "La Tanzania rilancia la campagna per l'energia pulita, obiettivo 80% entro il 2034",
+   "orig": "Tanzania intensifies clean energy campaign to ensure 80 percent of its citizens use it by 2034",
+   "lead": "Il governo della Tanzania ha annunciato di continuare ad attuare la Strategia nazionale per l'energia pulita da cucina, che punta a far sì che l'80% dei tanzaniani utilizzi fonti di energia pulita per cucinare entro il 2034. L'obiettivo della misura è ridurre il peso della raccolta di legna da ardere, che grava soprattutto sulle donne, e limitare gli effetti dannosi per la salute legati all'uso di combustibili inquinanti. L'annuncio è arrivato da Dodoma. Lo riferisce Daily News (Tanzania).",
+   "more": [
+    "L'uso di combustibili tradizionali come legna e carbone per cucinare è diffuso in molte aree rurali africane ed è associato a inquinamento domestico, malattie respiratorie e deforestazione. Le strategie di transizione verso energie pulite per la cucina, sostenute anche da organizzazioni internazionali, mirano a migliorare salute pubblica e condizioni di vita delle donne."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzania-intensifies-clean-energy-campaign-to-ensure-80-percent-of-its-citizens-use-it-by-2034/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-06T14:56+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z89069e7f",
+   "sez": "economia",
+   "titolo": "Jinhua, in Cina, punta a diventare polo di cooperazione con l'Africa",
+   "orig": "Across continents, toward a shared future: Zhejiang’s Jinhua steps up efforts to become a leading hub for cooperation with Africa",
+   "lead": "La città cinese di Jinhua, nella provincia dello Zhejiang, rafforza i legami commerciali, educativi e culturali con l'Africa. Secondo i dati riportati, il commercio della città con il continente africano ha raggiunto 161,41 miliardi nei primi nove mesi dell'anno. L'espansione degli scambi si inserisce nel quadro più ampio della cooperazione economica tra Cina e Africa, che comprende anche partenariati educativi e culturali di lungo periodo. Lo riferisce Daily News (Tanzania).",
+   "more": [
+    "La Cina è da anni uno dei principali partner commerciali e finanziatori di infrastrutture in Africa, attraverso accordi bilaterali e iniziative come la Belt and Road Initiative. Le città cinesi stringono spesso legami diretti con paesi o regioni africane per favorire scambi commerciali, formazione e investimenti."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/across-continents-toward-a-shared-future-zhejiangs-jinhua-steps-up-efforts-to-become-a-leading-hub-for-cooperation-with-africa/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-06T12:19+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zc4227de6",
+   "sez": "mondo",
+   "titolo": "Riavviato il reattore 1 della centrale nucleare di Cernavodă in Romania",
+   "orig": "Reactor 1 at the Cernavoda nuclear power plant has restarted after a three-month shutdown",
+   "lead": "Il reattore 1 della centrale nucleare rumena di Cernavodă è stato riavviato dopo tre mesi di fermo, secondo i dati in tempo reale pubblicati dall'operatore di rete Transelectrica. Due giorni prima, la società Nuclearelectrica aveva annunciato l'imminente ripresa delle operazioni. Non sono state specificate le cause del fermo prolungato né eventuali interventi di manutenzione effettuati durante lo stop. Lo riferisce IPN.",
+   "more": [
+    "Cernavodă è l'unica centrale nucleare della Romania e fornisce una quota significativa dell'elettricità del paese. I fermi programmati per manutenzione dei reattori nucleari sono pratica comune per garantire sicurezza ed efficienza, ma fermi prolungati possono incidere sulla produzione elettrica nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/reactor-1-at-the-cernavoda-nuclear-power-plant-has-restarted-after-a-three-month-shutdown/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-06T15:31+00:00"
+    },
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/newsbreak/inside-track/nuclear-energy-pax-silica/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-06T18:00+08:00"
+    },
+    {
+     "n": "The Slovak Spectator",
+     "p": "XX",
+     "c": "Bratislava",
+     "u": "https://spectator.sme.sk/business/c/slovak-scientist-took-an-unconventional-approach-to-training-ai-for-a-nuclear-power-plant-he-tested-a-pressure-cooker?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss",
+     "angolo": "",
+     "atlas": "Slovakia",
+     "t": "2026-11-06T13:18+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z1d10bdb2",
+   "sez": "dibattito",
+   "titolo": "In Francia lavoratori e studenti scendono in piazza nella giornata di proteste più grande dell'anno",
+   "orig": "Biggest day of protests in France this year as workers join school pupils on the streets",
+   "lead": "In Francia si è svolta giovedì la più grande giornata di proteste dell'anno, con lavoratori e studenti delle scuole superiori uniti nelle manifestazioni. Secondo la BBC, più di un liceo su quattro è stato toccato dalle proteste. I manifestanti chiedono salari più alti e un aumento del salario minimo, secondo quanto riportato da Breaking Belize News. Le manifestazioni sono state segnate anche da episodi di violenza, con 448 persone arrestate e 53 agenti di polizia coinvolti in incidenti.",
+   "more": [
+    "In Francia le proteste su salari e condizioni di lavoro sono frequenti e spesso coinvolgono sindacati, studenti e lavoratori del settore pubblico. Le mobilitazioni nelle scuole superiori (lycées) si aggiungono spesso a scioperi generali per amplificare la pressione sul governo riguardo a politiche economiche e sociali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/articles/cwdr883nmjg7o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T09:08+00:00"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/11/06/2003867249",
+     "angolo": "",
+     "atlas": "Taiwan",
+     "t": "2026-11-06T08:00+08:00"
+    },
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/11/06/international-news-violent-protests-across-france-leave-448-people-arrested/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-11-06T14:37+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zcde9b9e8",
+   "sez": "economia",
+   "titolo": "Il ministro dell'Economia tunisino incontra il nuovo direttore della BERS",
+   "orig": "Samir Abdelhafidh examine l’avancement des projets financiers avec le nouveau directeur de la BERD",
+   "lead": "Il ministro dell'Economia e della Pianificazione della Tunisia, Samir Abdelhafidh, ha incontrato venerdì 6 novembre 2026 il nuovo direttore dell'ufficio tunisino della Banca europea per la ricostruzione e lo sviluppo (BERS), George Akhalkatsi. Durante l'incontro le due parti hanno esaminato lo stato di avanzamento di diversi progetti di infrastrutture e sviluppo finanziati dalla banca. Non sono stati forniti ulteriori dettagli sui progetti specifici discussi. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "La Banca europea per la ricostruzione e lo sviluppo (BERS) finanzia progetti di infrastrutture e sviluppo economico in diversi paesi, inclusa la Tunisia, dove sostiene riforme e investimenti pubblici e privati volti a modernizzare settori come energia, trasporti e servizi."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/11/06/samir-abdelhafidh-examine-lavancement-des-projets-financiers-avec-le-nouveau-directeur-de-la-berd/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-11-06T15:36+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/education/formation-professionnelle-le-djolof-renforce-son-offre-avec-un-nouveau-centre/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-06T14:40+00:00"
+    },
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.icihaiti.com/article-48836-icihaiti-lhf-adrien-paul-emileau-nouveau-directeur-des-competitions.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-11-06T09:23-05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z0dc7a82b",
+   "sez": "mondo",
+   "titolo": "Un rapporto USA denuncia il presunto coinvolgimento di funzionari kenioti nella tratta di esseri umani",
+   "orig": "US report raises alarm over alleged involvement of Kenyan officials in human trafficking",
+   "lead": "Il rapporto 2026 sulla tratta di persone (TIP Report) del Dipartimento di Stato statunitense denuncia presunte collusioni di funzionari kenioti con reti criminali dedite alla tratta di esseri umani. Il rapporto solleva preoccupazioni sulla capacità delle autorità kenyote di contrastare efficacemente questo fenomeno. Lo riferisce Citizen Digital.",
+   "more": [
+    "Il Trafficking in Persons Report è un documento annuale pubblicato dal Dipartimento di Stato statunitense che valuta gli sforzi dei governi di tutto il mondo nel contrastare la tratta di esseri umani, classificando i paesi in base al livello di impegno e individuando criticità come corruzione o complicità di funzionari pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/us-report-raises-alarm-over-alleged-involvement-of-kenyan-officials-in-human-trafficking-n393455",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-06T13:49+00:00"
+    },
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/luxembourg-urged-to-update-human-trafficking-action-plan/164186868.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-11-06T12:15+00:00"
+    },
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/11/05/in-panama-former-ecuadorian-mayor-and-his-son-are-captured-for-alleged-drug-trafficking/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-11-06T02:33+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z07a01573",
+   "sez": "mondo",
+   "titolo": "Il CHOGM 2026 si apre con l'obiettivo di favorire la prosperità per i 2,7 miliardi di abitanti del Commonwealth",
+   "orig": "CHOGM 2026 opens with drive to unlock prosperity for Commonwealth’s 2.7 billion people",
+   "lead": "Il Vertice dei capi di governo del Commonwealth (CHOGM) 2026 si è aperto il 3 novembre ad Antigua e Barbuda con l'obiettivo di promuovere partenariati tra governi e imprese per favorire la prosperità dei 2,7 miliardi di persone che vivono nei paesi del Commonwealth. Tra i partecipanti figurava re Carlo III. Il vertice si è concluso con l'annuncio di impegni per oltre 500 milioni di dollari destinati a sostenere energie rinnovabili, sviluppo delle competenze giovanili e crescita economica tra i paesi membri.",
+   "more": [
+    "Il Commonwealth è un'associazione di 56 Stati, in gran parte ex colonie britanniche, che collaborano su commercio, sviluppo e diritti umani. I vertici dei capi di governo (CHOGM) si tengono ogni due anni e rappresentano l'occasione principale per definire priorità comuni e annunciare nuovi investimenti e programmi di cooperazione."
+   ],
+   "fonti": [
+    {
+     "n": "The Sierra Leone Telegraph",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://www.thesierraleonetelegraph.com/chogm-2026-opens-with-drive-to-unlock-prosperity-for-commonwealths-2-7-billion-people/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-11-05T20:04+00:00"
+    },
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/11/06/commonwealth-leaders-conclude-2026-summit-with-us500-million-in-new-commitments/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-11-06T15:41+00:00"
+    },
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/chogm-concludes-with-more-than-us500-million-in-commitments/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-11-06T02:49+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zc873a904",
+   "sez": "mondo",
+   "titolo": "Rubio collocherebbe le elezioni in Venezuela 'idealmente' nel 2027",
+   "orig": "Rubio sitúa las elecciones en Venezuela \"idealmente\" en 2027",
+   "lead": "Il segretario di Stato statunitense Marco Rubio ha indicato che le elezioni in Venezuela potrebbero svolgersi idealmente nel 2027, secondo quanto riportato dal New York Times, senza garantire che si tengano prima della fine del mandato del presidente Donald Trump. La leader dell'opposizione venezuelana María Corina Machado ha chiesto di ricostruire il Venezuela con innovazione una volta eletto un nuovo governo. Non sono stati forniti dettagli definitivi su tempi o modalità del processo elettorale. Lo riferisce 14ymedio.",
+   "more": [
+    "Il Venezuela vive da anni una crisi politica legata alla contestata permanenza al potere di Nicolás Maduro, con elezioni presidenziali spesso denunciate come irregolari dall'opposizione e da diversi governi internazionali, tra cui gli Stati Uniti, che sostengono un percorso verso nuove elezioni libere e trasparenti."
+   ],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/internacional/rubio-situa-elecciones-venezuela-idealmente_1_1132890.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-11-06T13:20+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/el-secretario-de-estado-de-estados-unidos-marco-rubio-situa-las-elecciones-en-venezuela-idealmente-en-2027-segun-el-nyt-3598989",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-06T10:33-05:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/megafraude-bancario-en-estados-unidos-casi-3-000-victimas-y-cuentas-comprometidas-por-us-373-millones-3598933",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-06T07:43-05:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/usa/actualidad/2026/11/06/tasa-de-desempleo-en-octubre-cae-en-estados-unidos/3713041",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-11-06T11:10+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "zd6af416f",
+   "sez": "economia",
+   "titolo": "Il Gabon annuncia un investimento di 116,7 miliardi di franchi CFA nel manganese",
+   "orig": "Manganèse : un investissement de 116,7 milliards de FCFA annoncé à M’Bembélé",
+   "lead": "Il Gabon ha firmato il 6 novembre in Cina un memorandum d'intesa con la società South Manganese Investment Limited per sviluppare un complesso metallurgico a M'Bembélé, nella regione di Ndjolé. L'investimento previsto è stimato in 116,7 miliardi di franchi CFA e rappresenta un ulteriore passo nell'ambizione del paese di trasformare localmente il manganese estratto, invece di esportarlo come materia prima. Non sono stati forniti ulteriori dettagli sui tempi di realizzazione del progetto. Lo riferisce Gabonreview.",
+   "more": [
+    "Il Gabon è tra i maggiori produttori mondiali di manganese, minerale usato soprattutto nella produzione di acciaio e batterie. Molti paesi africani ricchi di risorse minerarie puntano a sviluppare impianti di trasformazione locale per aumentare il valore aggiunto delle esportazioni, riducendo la dipendenza dalla sola vendita di materie prime grezze."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/manganese-un-investissement-de-1167-milliards-de-fcfa-annonce-a-mbembele/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-06T13:52+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150583",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-06T13:20+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/11/06/programme-dinclusion-economique-plus-de-55-milliards-mobilises-pour-accompagner-20-000-jeunes-camerounais/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-11-06T14:36+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z68844613",
+   "sez": "mondo",
+   "titolo": "Guinea: lavoratori della Topaz manifestano per due mesi di salari arretrati",
+   "orig": "Manéah : des travailleurs de Topaz manifestent pour réclamer deux mois de salaires impayés",
+   "lead": "A Manéah, in Guinea, oltre 2.500 lavoratori della società Topaz hanno manifestato venerdì all'interno dell'azienda per chiedere il pagamento di due mesi di salari arretrati. I lavoratori sono stati messi in congedo tecnico da due mesi, in seguito a una decisione dell'azienda. Non è chiaro dalle fonti quali siano le cause economiche che hanno portato Topaz a sospendere l'attività né se l'azienda abbia risposto alle richieste dei manifestanti. Lo riferisce Guinée News.",
+   "more": [
+    "Il congedo tecnico è una misura con cui un'azienda sospende temporaneamente l'attività dei dipendenti, spesso per difficoltà economiche o produttive, riducendo o sospendendo gli stipendi. In molti paesi africani la mancanza di tutele sociali rende queste situazioni particolarmente critiche per i lavoratori coinvolti."
+   ],
+   "fonti": [
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/06/maneah-des-travailleurs-de-topaz-manifestent-pour-reclamer-deux-mois-de-salaires-impayes/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-06T13:47+00:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/insalubrite-122-contraventions-dressees-en-deux-mois-dapplication-du-code-municipal-dhygiene-dans-la-capitale",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-11-06T00:36+00:00"
+    },
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "https://defimedia.info/ki-pri-une-application-pour-verifier-les-prix-des-produits-en-scannant-leur-code-barres",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-11-06T19:17+04:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z540b6dd0",
+   "sez": "economia",
+   "titolo": "Hong Kong, il governo cercherà altri fondi per le città universitarie",
+   "orig": "Choi to seek additional funding for university towns",
+   "lead": "La segretaria per l'Istruzione di Hong Kong, Christine Choi, ha dichiarato venerdì che il suo dipartimento chiederà ulteriori finanziamenti per lo sviluppo delle città universitarie nella Northern Metropolis. Le università, ha detto, avranno bisogno di molto più del prestito di 10 miliardi di dollari di Hong Kong già previsto per costruire i nuovi campus. Choi ha però sottolineato che il governo deve bilanciare questa richiesta con altre priorità nell'allocazione dei fondi pubblici. Lo riferisce RTHK.",
+   "more": [
+    "La Northern Metropolis è un ampio progetto di sviluppo urbano di Hong Kong vicino al confine con la Cina continentale, pensato per creare nuove aree residenziali, economiche e accademiche. Il finanziamento di nuovi campus universitari è parte della strategia per attrarre istituzioni educative internazionali nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1876809-20261106.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T14:47+08:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/education/article/3373600/more-funding-could-be-sought-if-hk10b-university-town-loan-scheme-falls-short",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T13:41+00:00"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/cities/Tiruchirapalli/short-freight-corridor-sought-to-decongest-tiruchi-junction/article71673960.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-06T21:25+05:30"
+    },
+    {
+     "n": "Global Construction Review",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.globalconstructionreview.com/international-team-to-build-zambia-freight-corridor/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-10-30T13:09+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z6353dfa0",
+   "sez": "mondo",
+   "titolo": "Ilse Aigner candidata CDU/CSU alla presidenza federale tedesca",
+   "orig": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+   "lead": "Secondo informazioni della ARD, l'Unione CDU/CSU proporrà Ilse Aigner, politica della CSU e presidente del Parlamento bavarese, come candidata alla presidenza federale tedesca. La nomina sarebbe annunciata lunedì, dopo che negli ultimi giorni sempre più politici di primo piano della CDU si sono espressi a favore della sua candidatura. Secondo Der Spiegel e la Süddeutsche Zeitung, la decisione sarebbe ormai definita e il cancelliere Friedrich Merz la annuncerebbe ufficialmente domenica. Lo riferisce Tagesschau.",
+   "more": [
+    "Il presidente federale tedesco ha un ruolo soprattutto rappresentativo e non esecutivo, ma è una figura simbolica importante nella vita istituzionale del paese. La scelta del candidato richiede generalmente un ampio consenso tra i partiti della maggioranza di governo, in questo caso CDU e CSU guidate dal cancelliere Friedrich Merz."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T16:54+01:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/politik/deutschland/llse-aigner-die-csu-politikerin-soll-bundespraesidentin-werden-so-cdu-kreise-a-7a25d55d-6e5b-4fa7-9daa-96be6f9916fe#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T15:59+01:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/bundespraesidentin-kandidatin-ilse-aigner-friedrich-merz-nominierung-bekanntgabe-li.3575265",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T13:48+00:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/meinung/ilse-aigner-bundespraesidentin-zustimmung-merz-kommentar-li.3574378",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T10:07+00:00"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000347777/auch-cdu-legt-sich-offenbar-auf-ilse-aigner-als-deutsche-bundespraesidentin-fest?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-06T15:28+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z31632e36",
+   "sez": "mondo",
+   "titolo": "Attacchi russi uccidono una persona e feriscono 21 in Ucraina, tagli di corrente in 7 regioni",
+   "orig": "Russian attacks kill 1, injure 21 across Ukraine over past day as emergency power cuts hit 7 regions",
+   "lead": "Secondo il ministero dell'Energia ucraino, la situazione più difficile si registra a Kyiv, dove restano in vigore limitazioni alla fornitura di elettricità a causa dei danni ingenti alle infrastrutture energetiche. Il presidente Volodymyr Zelensky ha definito la situazione la più grave crisi di elettricità e acqua della capitale dopo gli attacchi russi.",
+   "more": [
+    "Dall'inizio dell'invasione russa, le infrastrutture energetiche ucraine sono state ripetutamente colpite da attacchi missilistici e con drone, soprattutto in autunno e inverno, per cercare di indebolire la capacità del paese di riscaldare case e alimentare servizi essenziali durante la stagione fredda."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/russian-attacks-kill-1-injure-21-across-ukraine-over-past-day-as-emergency-power-cuts-hit-7-regions/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-06T12:09+00:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-ato/4182153-zelensky-kyiv-facing-most-severe-electricity-and-water-supply-disruptions-following-russian-attacks.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-06T16:27+02:00"
+    },
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/science/article/3373500/kill-switch-epilepsy-china-cuts-seizures-926-first-human-chemogenetic-trial",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T13:00+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/zelenskiy-kyiv-mayor-trade-blame-as-russian-strikes-plunge-city-into-darkness",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-06T23:38+08:00"
+    },
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/11/06/zelenskiy-kyiv-mayor-trade-blame-as-russian-strikes-plunge-city-into-darkness",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-11-06T17:49+02:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z157b4db3",
+   "sez": "mondo",
+   "titolo": "La Procura europea indaga su un presunto frode negli appalti dell'alta velocità spagnola dopo l'incidente di Urda",
+   "orig": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
+   "lead": "La Procura europea ha avviato un'indagine su un presunto frode nei lavori dell'alta velocità spagnola, in seguito all'incidente ferroviario di Urda. Venerdì gli investigatori dell'Unità centrale operativa (UCO) si sono recati presso Adif, il gestore delle infrastrutture ferroviarie, il Tribunale dei Conti e l'Agenzia statale per la sicurezza ferroviaria per richiedere documentazione. Non sono stati forniti ulteriori dettagli sulla natura specifica delle irregolarità sospettate né sui soggetti coinvolti. Lo riferisce El País.",
+   "more": [
+    "Adif è l'ente pubblico spagnolo che gestisce le infrastrutture ferroviarie, incluse le linee ad alta velocità. Le indagini della Procura europea riguardano generalmente il possibile uso improprio di fondi comunitari destinati a grandi opere infrastrutturali, un tema rilevante quando un incidente solleva dubbi sulla qualità o sicurezza dei lavori eseguiti."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/2026-11-06/la-fiscalia-europea-investiga-un-presunto-fraude-en-las-obras-de-la-alta-velocidad-tras-el-accidente-de-urda.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-06T09:12+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/11/06/6aed98e121efa0477c8b457d.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-06T14:45+01:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/expedientes/fiscalia-interviene-dependencias-del-municipio-de-guayaquil-para-recabar-indicios-por-presunto-peculado-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-06T15:41+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z60799fc0",
+   "sez": "mondo",
+   "titolo": "Il Montenegro chiude altri due capitoli nei negoziati di adesione all'UE",
+   "orig": "Gorčević: Crna Gora dva koraka bliže cilju da do kraja godine...",
+   "lead": "Il Montenegro ha chiuso temporaneamente altri due capitoli negoziali con l'Unione europea, quelli sulla libera circolazione delle merci e sulla sicurezza alimentare, durante una conferenza intergovernativa tenutasi a Bruxelles. Secondo la ministra Gorčević, questo risultato porterà prodotti e alimenti più sicuri per i cittadini montenegrini e segna un ulteriore passo verso l'obiettivo del governo di completare il percorso di adesione entro la fine dell'anno. Restano ora dieci capitoli ancora da chiudere nel processo negoziale. Lo riferisce Vijesti.",
+   "more": [
+    "Il processo di adesione all'Unione europea si articola in 35 capitoli negoziali che riguardano diversi ambiti, dalla giustizia all'economia. Ogni capitolo viene chiuso solo dopo che il paese candidato ha adeguato le proprie normative agli standard europei. Il Montenegro è tra i paesi balcanici più avanzati nel percorso di adesione."
+   ],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/vijesti/politika/835141/gorcevic-crna-gora-dva-koraka-blize-cilju-da-do-kraja-godine-zavrsi-pregovore-sa-eu",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-06T16:33+01:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/region/crna-gora-zatvorila-jos-dva-poglavlja-u-pregovorima-sa-eu-preostalo-deset/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-11-06T16:33+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z4789f1c7",
+   "sez": "mondo",
+   "titolo": "Padre e figlia fuggiti dalla Russia vincono il premio Magnitsky per i diritti umani",
+   "orig": "Father and Daughter Who Fled Russia Win Magnitsky Human Rights Award",
+   "lead": "Un padre e una figlia fuggiti dalla Russia, i Moskalyov, hanno ricevuto il premio Magnitsky per i diritti umani nella categoria Coraggio sotto il fuoco, assegnato dall'organizzazione che promuove l'onorificenza annuale. Il riconoscimento è stato motivato dal loro rifiuto di rimanere in silenzio davanti alle persecuzioni dello Stato russo. Non sono stati forniti ulteriori dettagli sulle circostanze specifiche del caso. Lo riferisce Moscow Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/06/father-and-daughter-who-fled-russia-win-magnitsky-human-rights-award-a94194",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-06T18:25+03:00"
+    },
+    {
+     "n": "Dabanga",
+     "p": "XX",
+     "c": "Amsterdam",
+     "u": "https://www.dabangasudan.org/en/all-news/article/australia-sanctions-el-burhan-and-hemedti-over-sudan-war-and-human-rights-abuses",
+     "angolo": "",
+     "atlas": "Sudan",
+     "t": "2026-11-06T15:41+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z3f1403a0",
+   "sez": "economia",
+   "titolo": "La Turchia estende l'indagine su un presunto cartello dei prezzi delle nocciole che coinvolge Ferrero",
+   "orig": "Turkey expands probe into alleged hazelnut price-fixing involving Ferrero",
+   "lead": "L'Autorità turca della concorrenza ha ampliato a sette aziende, tra cui l'italiana Ferrero, l'indagine su un presunto accordo per fissare i prezzi d'acquisto delle nocciole. Le altre società coinvolte sono Atalay, Balsu, Karaçuha, Ofi, Özyılmaz e Şenocak. Gli investigatori vogliono verificare se gli acquirenti abbiano coordinato prezzi e politiche d'acquisto per comprimere i prezzi pagati ai produttori e imporre condizioni sfavorevoli. Lo riferisce Turkish Minute.",
+   "more": [
+    "La Turchia è il principale produttore mondiale di nocciole, materia prima fondamentale per prodotti come la Nutella di Ferrero. Le indagini antitrust sui cartelli dei prezzi mirano a verificare se grandi acquirenti abbiano accordi illeciti per mantenere bassi i prezzi pagati ai coltivatori, a danno della concorrenza e dei produttori agricoli."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/06/turkey-expands-probe-into-alleged-hazelnut-price-fixing-involving-ferrero/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-06T15:47+00:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10928951",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z5be51e50",
+   "sez": "cultura",
+   "titolo": "Martine Rose nuova direttrice creativa di Balenciaga",
+   "orig": "Martine Rose nuova direttrice creativa di Balenciaga",
+   "lead": "La stilista britannica Martine Rose è stata nominata nuova direttrice creativa della maison francese Balenciaga, prendendo il posto di Pierpaolo Piccioli, che lascia la casa di moda parigina dopo un breve mandato. L'annuncio della sua successione è arrivato il giorno successivo a quello delle dimissioni di Piccioli. Martine Rose è conosciuta nell'ambiente della moda britannica per il suo stile di culto. Lo riferisce ANSA.",
+   "more": [
+    "Balenciaga è una delle maison di moda di lusso più note al mondo, parte del gruppo Kering. I cambi di direzione creativa nelle grandi case di moda sono frequenti e seguiti con attenzione dal settore, perché orientano lo stile e l'immagine del marchio per le stagioni successive."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/06/martine-rose-nuova-direttrice-creativa-di-balenciaga_bf26e208-1ab7-4b00-afd8-615686eae5d6.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T13:56+01:00"
+    },
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/fashion-beauty/martine-rose-balenciaga-creative-director",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T09:34+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z8abb1832",
+   "sez": "tech",
+   "titolo": "La società finanziaria XN punta a raddoppiare l'investimento in Anthropic nonostante il calo del settore tech",
+   "orig": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+   "lead": "La società finanziaria statunitense XN, poco conosciuta a Wall Street, ha accumulato una quota di 5,3 miliardi di dollari in Anthropic attraverso investimenti in round privati e punta a raddoppiare la propria esposizione nel laboratorio di intelligenza artificiale, nonostante il recente calo dei titoli tecnologici. Anthropic, fondata nel 2021 da un gruppo di ex dipendenti di OpenAI per sviluppare l'IA in modo sicuro, dovrebbe completare entro questo mese una nuova raccolta di capitali. Lo riferisce Financial Times.",
+   "more": [
+    "Anthropic è una delle principali aziende al mondo nello sviluppo di modelli di intelligenza artificiale, nota per il chatbot Claude, e si presenta con una missione dichiarata di sicurezza nello sviluppo dell'IA. Gli investimenti privati in round pre-IPO permettono a fondi come XN di scommettere su aziende tecnologiche prima di un eventuale ingresso in borsa."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T14:01+00:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/anthropic-was-founded-to-answer-to-humanity-soon-it-will-also-answer-to-wall-street/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-11-05T13:50+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z8bbf14ec",
+   "sez": "mondo",
+   "titolo": "Il Congresso Usa a guida democratica vigilerà sulla politica su Taiwan e farà pressione su Trump per le vendite di armi",
+   "orig": "Democratic Congress to guard US’ Taiwan policy and press Trump on arms sales",
+   "lead": "Dopo la vittoria alle elezioni di metà mandato, il Congresso statunitense a maggioranza democratica potrebbe spingere per accelerare le vendite di armi a Taiwan, secondo analisti citati dal South China Morning Post, anche se non sono previsti cambiamenti di fondo nella politica generale degli Stati Uniti verso l'isola. Gli analisti avvertono che se il probabile nuovo speaker della Camera, Hakeem Jeffries, sostenitore di lunga data di Taiwan, dovesse superare la linea rossa su questo tema, Pechino risponderebbe con forti contromisure.",
+   "more": [
+    "Taiwan è governata autonomamente dal 1949 ma la Cina la considera parte del proprio territorio. Gli Stati Uniti mantengono relazioni informali con l'isola e ne sostengono la capacità di autodifesa attraverso vendite di armamenti, un tema che genera regolarmente tensioni diplomatiche con Pechino."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/politics/article/3373517/democratic-congress-guard-us-taiwan-policy-and-press-trump-arms-sales",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T14:00+00:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/middle-east-news/2026-11-06/ty-article/.premium/erdogan-and-the-saudis-may-have-trumps-ear-but-the-new-congress-will-be-louder/000001a1-afae-dd7a-a3ed-efee14270000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-06T11:38+02:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z9439426b",
+   "sez": "economia",
+   "titolo": "Gli investimenti in capitale fisso dell'Uzbekistan salgono del 20,1%",
+   "orig": "Uzbekistan’s fixed-capital investment rises 20.1% to UZS 584 trillion",
+   "lead": "L'Uzbekistan ha attratto 584,2 trilioni di som uzbeki in investimenti di capitale fisso tra gennaio e settembre 2026, un aumento del 20,1% rispetto allo stesso periodo dell'anno precedente. Il dato segnala una crescita sostenuta degli investimenti nel paese nei primi nove mesi dell'anno. Non sono stati forniti ulteriori dettagli sui settori specifici che hanno beneficiato maggiormente di questo incremento. Lo riferisce Kun.uz.",
+   "more": [
+    "Gli investimenti in capitale fisso comprendono le spese per costruzioni, macchinari e infrastrutture durevoli, e sono considerati un indicatore importante della crescita economica di un paese. L'Uzbekistan ha intrapreso negli ultimi anni riforme economiche per attrarre maggiori investimenti esteri e diversificare la propria economia."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/11/06/uzbekistans-fixed-capital-investment-rises-201-to-uzs-584-trillion-59610",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-06T19:45+05:00"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/440879/indonesia-raises-dsis-authorized-capital-to-rp4-trillion",
+     "angolo": "",
+     "atlas": "Indonesia",
+     "t": "2026-11-06T20:14+07:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z06830145",
+   "sez": "mondo",
+   "titolo": "Eisenkot segnala disponibilità per governo di minoranza per sostituire Netanyahu",
+   "orig": "Eisenkot signals readiness for minority government to replace Netanyahu",
+   "lead": "Gadi Eisenkot, designato a formare il nuovo governo israeliano, segnala la sua disponibilità a un esecutivo di minoranza per sostituire Benjamin Netanyahu. Il politico ha avvertito che chiunque tenterà di sabotare gli sforzi di coalizione 'non sarà perdonato'. Lo riferisce Haaretz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-politics/2026-11-06/ty-article/.premium/eisenkot-signals-readiness-for-minority-government-to-replace-netanyahu/000001a1-b12a-defa-a7f7-bd7f4c110000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-06T17:17+02:00"
+    },
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/liberia-china-signals-readiness-to-expand-agricultural-imports-eyes-investment-in-processing-sector/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-11-06T14:15+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z961d2ec9",
+   "sez": "mondo",
+   "titolo": "Al-Sisi chiede trasformazione dell'AOI in piattaforma di integrazione industriale",
+   "orig": "Al-Sisi calls for transforming AOI into industrial integration platform",
+   "lead": "Il presidente egiziano Abdel Fattah Al-Sisi ha chiesto di trasformare l'Organizzazione araba per l'industrializzazione in piattaforma di integrazione industriale, capace di riunire competenze manifatturiere, expertise private e investimenti esteri, con focus su produzione locale, trasferimento tecnologico ed espansione delle esportazioni. Lo riferisce Daily News Egypt.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News Egypt",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://dailynewsegypt.com/2026/11/04/al-sisi-calls-for-transforming-aoi-into-industrial-integration-platform/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-11-04T19:25+00:00"
+    },
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-mozparks-ceo-calls-for-greater-integration-of-industrial-parks-and-transport-corridors/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-11-06T14:33+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
+   "id": "z2b33dc8e",
+   "sez": "mondo",
+   "titolo": "Marocco e Mauritania intensificano cooperazione militare",
+   "orig": "Morocco and Mauritania step up military cooperation through reciprocal visits",
+   "lead": "Delegazioni militari marocchine e mauritane hanno condotto una serie di visite reciproche presso le istituzioni difensive dei due Paesi al fine di rafforzare la cooperazione bilaterale e favorire l'interscambio reciproco di competenze tecniche nell'ambito dell'addestramento militare. Lo riferisce Hespress English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/148657-morocco-and-mauritania-step-up-military-cooperation-through-reciprocal-visits.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-06T15:17+00:00"
+    },
+    {
+     "n": "The Point",
+     "p": "XX",
+     "c": "Banjul",
+     "u": "https://thepoint.gm/africa/gambia/headlines/moroccos-charge-daffaires-visits-office-of-the-speaker",
+     "angolo": "",
+     "atlas": "Gambia",
+     "t": "2026-11-06T11:43+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "17:06",
+   "uscita": "17"
+  },
+  {
    "id": "zfe77b042",
    "sez": "prima",
    "titolo": "Il Papa parte per il viaggio in America Latina",
@@ -1652,48 +4052,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zb76ca035",
-   "sez": "mondo",
-   "titolo": "Minacce di bomba, evacuate le sedi di RTÉ e altri media in Irlanda",
-   "orig": "RTÉ and other media groups evacuated after bomb threat",
-   "lead": "Gli uffici della radiotelevisione pubblica irlandese RTÉ e di altre emittenti sono stati evacuati venerdì dopo minacce di bomba. Una delle minacce, legata ad altre rivolte contro compagnie aeree, è stata giudicata una bufala da un conduttore della radio Newstalk, che ha ripreso la programmazione alle 10 del mattino. Le autorità stanno verificando l'origine delle minacce, che hanno coinvolto diversi media del paese. Non sono stati segnalati feriti né danni. L'episodio arriva in un contesto di allerta per minacce simili rivolte a compagnie aeree.",
-   "more": [
-    "Le minacce di bomba contro media e infrastrutture, spesso telefoniche o via email, vengono di norma trattate con cautela dalle autorità anche quando risultano infondate, poiché comportano l'evacuazione precauzionale degli edifici coinvolti per garantire la sicurezza del personale, prima di eventuali verifiche tecniche sul posto."
-   ],
-   "fonti": [
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/ireland/2026/1106/1598241-rte-evacuation/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-11-06T09:41+00:00"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/offices-of-irish-media-groups-evacuated-due-to-bomb-threats-one-deemed-a-hoax",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-06T18:43+08:00"
-    },
-    {
-     "n": "Cyprus Mail",
-     "p": "XX",
-     "c": "Nicosia",
-     "u": "https://cyprus-mail.com/2026/11/06/irish-media-offices-evacuated-amid-possible-link-to-airline-bomb-threats",
-     "angolo": "",
-     "atlas": "Cyprus",
-     "t": "2026-11-06T12:51+02:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
    "id": "ze8e2791e",
    "sez": "ambiente",
    "titolo": "Il 2026 sarà probabilmente il secondo anno più caldo di sempre",
@@ -2396,7 +4754,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "zff614696": "Le testate riportano l'accordo come un risultato della trattativa tra azienda e sindacati sul numero di uscite.",
   "z2651a4d9": "Le testate indiane descrivono il rialzo come una delle performance più forti della borsa negli ultimi mesi.",
   "za1b5cfd5": "Evidenzia il cambio tecnico nello staff del numero uno del tennis mondiale.",
-  "zb76ca035": "Racconta l'evacuazione precauzionale di diverse sedi mediatiche irlandesi.",
   "ze8e2791e": "Sottolinea il legame tra El Niño ed emissioni umane nel riscaldamento record.",
   "z536c67b9": "Evidenzia la crescente presenza di imprese di Hong Kong nella fiera di Shanghai.",
   "z3fa19306": "Mette in evidenza le tensioni commerciali tra Washington e Kigali legate alla crisi congolese.",
@@ -2411,7 +4768,74 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z4f86de61": "Racconta la risoluzione extragiudiziale della disputa sull'eredità di Dolly Parton.",
   "z6dd45d31": "Riporta la critica russa sulla mancanza di coordinamento europeo nei negoziati sull'Ucraina.",
   "z9037eea4": "Mette in evidenza il primato turco tra le destinazioni dei rimpatri tedeschi.",
-  "z89e6a6b3": "Sottolinea l'invito europeo alla preparazione domestica alle emergenze."
+  "z89e6a6b3": "Sottolinea l'invito europeo alla preparazione domestica alle emergenze.",
+  "zb2b7093a": "The Guardian sottolinea il contrasto tra il sostegno generale all'azione climatica e l'opposizione a misure che comportano costi personali.",
+  "zb1b234fe": "l'ANSA riporta le reazioni contrapposte tra governo e opposizioni sulla nomina.",
+  "z6f9473e0": "Deutsche Welle evidenzia la diffusione di contenuti falsi o manipolati legati al conflitto.",
+  "ze01c54ac": "Deutsche Welle si interroga su quanto margine di bilancio resti al governo francese.",
+  "z8388e00b": "Deutsche Welle sottolinea la scarsità di fonti attendibili per la popolazione iraniana.",
+  "z2a17dcc8": "South China Morning Post e Straits Times riportano il testo delle minacce ricevute dalle emittenti.",
+  "z926951b3": "Deutsche Welle evidenzia la scarsità di controlli indipendenti sugli atleti russi.",
+  "z79399a8c": "Dawn descrive il Cybertruck come un simbolo controverso, amato dagli appassionati e criticato come emblema dell'era Trump.",
+  "z85f402bc": "Dawn specifica che il sistema di raccomandazione \"For You\" è al centro delle accuse europee.",
+  "z3fb55e38": "BBC riporta il tentativo legale di una donna incinta per bloccare la decisione.",
+  "z3b9e2e09": "CNA riporta l'annuncio dell'allenatore sui tempi di recupero del giocatore.",
+  "z4666b03e": "ERR News riferisce la valutazione di un funzionario della difesa estone sulla strategia russa.",
+  "zbb251eb2": "Deutsche Welle sottolinea che la crisi si ripete ogni anno nonostante gli interventi annunciati.",
+  "z2fe84f25": "RNZ Pacific presenta una guida alle semifinali in programma.",
+  "z187121f0": "ERR News riporta le conclusioni del cancelliere della giustizia sull'accesso alle cure.",
+  "z953bd558": "Crunchyroll News sottolinea che la serie è basata sul manga originale di Haruka Kawachi.",
+  "z2035f7e3": "ANSA specifica che tra gli attivisti fermati figurano anche sei italiani.",
+  "z0805baff": "Il Sole 24 Ore riporta la richiesta di Cida di modificare la manovra in discussione.",
+  "z5a753dc4": "La Cucina Italiana spiega perché l'alimento viene consigliato ai bambini.",
+  "zd22cfd73": "Orizzonte Scuola specifica le soglie Isee e gli importi del contributo regionale.",
+  "z5e62325c": "UN News riporta l'appello delle squadre di soccorso per fondi aggiuntivi.",
+  "z952527b6": "OndaRock descrive il nuovo singolo come coerente con lo stile consueto dell'artista.",
+  "zdaaf5d2e": "La testata celebra il traguardo tecnico e storico raggiunto dalla sonda lanciata quasi cinquant'anni fa.",
+  "z755635d2": "Entrambe le testate documentano il livello critico di inquinamento nei giorni prima della festività.",
+  "z51a94c97": "Entrambe le testate sottolineano la sorpresa positiva rispetto alle previsioni degli analisti.",
+  "z2de31470": "La testata presenta la scoperta come una sfida alle teorie consolidate sulla storia geologica lunare.",
+  "za4d2f3a2": "Le testate riportano il caso come esempio di rigidità burocratica nei confronti di una minore.",
+  "zd547a8f3": "L'organizzazione mette in evidenza la doppia vulnerabilità di chi fugge da conflitti e vive in zone a rischio climatico.",
+  "z206e05ac": "La testata presenta la notizia come un segnale positivo per la conservazione della biodiversità.",
+  "z30f520eb": "La fonte ucraina sottolinea la minaccia rappresentata dal nuovo sistema per la precisione degli attacchi russi.",
+  "z3b23d045": "La testata estone si concentra sul nuovo potere delle banche, mentre quella pachistana riporta un obiettivo politico distinto.",
+  "zbb284f6e": "Le testate riportano la vicenda giudiziaria sottolineando la differenza tra la richiesta della Procura e la decisione del gip.",
+  "zb7bb18a5": "La testata presenta l'iniziativa come risposta a un bisogno sanitario crescente nel paese.",
+  "zbe209d1e": "La testata presenta il progetto come un modello replicabile per l'edilizia a prezzi accessibili.",
+  "z19e50a24": "Le testate riportano la causa come scontro tra big tech e regolatori sulla tutela dei minori online.",
+  "zbe0bb7e4": "La testata riporta le dichiarazioni della premier sia sul tema europeo che sulla domanda relativa alle elezioni.",
+  "z98e9fb55": "Le due testate riportano le reazioni opposte di Cina e Stati Uniti sulle nuove sanzioni.",
+  "z0df57bd4": "La testata evidenzia l'ampiezza del fenomeno tra gli studenti italiani attraverso dati recenti.",
+  "z13df7d16": "La testata collega direttamente l'andamento dei mercati alle aspettative politiche legate al voto.",
+  "zaa1df4d7": "La testata riporta l'appello del presidente a un'attenzione pubblica più concreta verso i giovani.",
+  "z54227f7f": "NPR segnala il crollo sorprendente del prezzo dell'oro nonostante l'incertezza economica persistente.",
+  "zdc956c59": "Radio Prague International segnala l'incontro tra i due capi di Stato come occasione di cooperazione regionale sull'energia.",
+  "zef9382af": "Radio Prague International riporta la previsione del ministero sul peggioramento del deficit pubblico.",
+  "z69502e50": "Daily News sottolinea l'impegno del governo tanzaniano per ridurre il peso della raccolta di legna sulle donne.",
+  "z89069e7f": "Daily News evidenzia la crescita degli scambi commerciali ed educativi tra Jinhua e l'Africa.",
+  "zc4227de6": "IPN segnala il ritorno in funzione del reattore dopo un lungo periodo di fermo.",
+  "z1d10bdb2": "Le testate concordano sull'ampiezza della mobilitazione, con BBC che si concentra sulle scuole e Breaking Belize News sugli arresti.",
+  "zcde9b9e8": "La Presse de Tunisie riporta l'incontro come occasione per fare il punto sui progetti finanziari in corso.",
+  "z0dc7a82b": "Citizen Digital riprende le accuse contenute nel rapporto statunitense sul Kenya.",
+  "z07a01573": "Le testate caraibiche sottolineano i nuovi impegni finanziari annunciati alla chiusura del vertice.",
+  "zc873a904": "14ymedio e El Tiempo riportano la stessa dichiarazione di Rubio citata dal New York Times.",
+  "zd6af416f": "Gabonreview presenta l'accordo come una nuova tappa nella strategia di trasformazione locale delle risorse minerarie.",
+  "z68844613": "Guinée News documenta la protesta dei lavoratori per gli stipendi non pagati.",
+  "z540b6dd0": "RTHK e South China Morning Post riportano le stesse dichiarazioni della segretaria Choi sulla necessità di nuovi fondi.",
+  "z6353dfa0": "Tagesschau, Der Spiegel, Süddeutsche Zeitung e Der Standard convergono nel dare per certa la candidatura di Aigner.",
+  "z31632e36": "The Kyiv Independent e Ukrinform riportano la gravità della crisi energetica a Kyiv segnalata da Zelensky.",
+  "z157b4db3": "El País ed El Mundo concordano sulla richiesta di documentazione ad Adif da parte dell'UCO.",
+  "z60799fc0": "Vijesti e N1 Serbia riportano la chiusura dei due capitoli come un passo verso l'obiettivo di adesione entro fine anno.",
+  "z4789f1c7": "Moscow Times evidenzia il coraggio dei Moskalyov nel denunciare le persecuzioni dello Stato russo.",
+  "z3f1403a0": "Turkish Minute riporta l'estensione dell'indagine a sette aziende, inclusa Ferrero.",
+  "z5be51e50": "ANSA e Wallpaper* confermano la nomina di Martine Rose dopo l'uscita di Piccioli.",
+  "z8abb1832": "Financial Times mette in luce la scommessa di XN su Anthropic in un momento di calo generale del settore tech.",
+  "z8bbf14ec": "South China Morning Post analizza le possibili pressioni del nuovo Congresso su Trump riguardo a Taiwan.",
+  "z9439426b": "Kun.uz riporta la crescita degli investimenti come segnale positivo per l'economia uzbeka.",
+  "z06830145": "Haaretz enfatizza il quadro politico israeliano e la ricerca di alternative a Netanyahu",
+  "z961d2ec9": "Daily News Egypt sottolinea il ruolo strategico dell'industrializzazione nel progetto di sviluppo arabo",
+  "z2b33dc8e": "Hespress English evidenzia il consolidamento dei legami di cooperazione militare tra i due Paesi"
  },
  "contesti": {
   "zfe77b042": "Il Papa è stato operato circa tre settimane fa per un tumore al polmone, un intervento che aveva messo in dubbio la realizzazione del viaggio, poi confermato nei giorni successivi dal Vaticano.",
@@ -2422,7 +4846,14 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z34c91f75": "Circa un anno fa gli investigatori avevano sequestrato l'abitazione della famiglia Di Vita a Pietracatella, nel Campobasso, nell'ambito delle indagini sulla morte per avvelenamento da ricina. Da allora i rilievi tecnici e le analisi scientifiche sono proseguiti per ricostruire dinamica e responsabilità del decesso, mantenendo l'immobile sotto sequestro giudiziario fino al completamento degli accertamenti necessari.",
   "z7c291b12": "Nei giorni scorsi un'ondata di allarmi bomba ha colpito diversi voli internazionali, incluso un aereo Aer Lingus con passeggeri rientrati a Roma. Le autorità italiane e straniere hanno intensificato i controlli, mentre si ipotizza un'azione coordinata, forse riconducibile a un Paese ostile, per creare panico nel settore aereo, collegata anche a una recente ondata di attacchi informatici ai danni di infrastrutture europee.",
   "z8a9b8cdf": "Il 17 e 18 ottobre a Milano si sono svolte proteste del Movimento 17 ottobre, nel cui ambito è stato fermato Youssef Siher, amministratore dei canali social del movimento. Una giudice ha successivamente disposto la sua scarcerazione, decisione che ha scatenato una reazione ostile sui social e nell'opinione pubblica, con insulti e minacce indirizzate alla magistrata, fino alla richiesta di protezione da parte del tribunale.",
-  "zc3ae1ed2": "Le autorità filippine indagano da tempo su un caso di immagini di abuso sessuale su minori che coinvolge Thomas Markle Sr, padre della duchessa di Sussex Meghan Markle, residente a Manila. L'inchiesta, condotta dal governo locale filippino, ha progressivamente ampliato il proprio raggio d'azione, portando ora a identificare anche il fratellastro di Meghan, Thomas Markle Jr, come persona di interesse nelle verifiche in corso."
+  "zc3ae1ed2": "Le autorità filippine indagano da tempo su un caso di immagini di abuso sessuale su minori che coinvolge Thomas Markle Sr, padre della duchessa di Sussex Meghan Markle, residente a Manila. L'inchiesta, condotta dal governo locale filippino, ha progressivamente ampliato il proprio raggio d'azione, portando ora a identificare anche il fratellastro di Meghan, Thomas Markle Jr, come persona di interesse nelle verifiche in corso.",
+  "z2a17dcc8": "Da diversi giorni un'ondata di falsi allarmi bomba ha colpito voli in tutta Europa, causando dirottamenti e controlli senza mai rivelare esplosivi. Caccia militari hanno scortato alcuni aerei per precauzione. Le autorità non avevano individuato responsabili né un collegamento chiaro tra i diversi episodi, che si sono ripetuti su scali di vari paesi.",
+  "z79399a8c": "Il Cybertruck, lanciato da Tesla nel 2023, aveva generato grande attesa per il suo design innovativo in acciaio inossidabile, ma le vendite sono rimaste deboli rispetto alle previsioni iniziali dell'azienda, mentre il veicolo è diventato nel tempo un simbolo controverso legato alle posizioni politiche di Elon Musk negli Stati Uniti.",
+  "z85f402bc": "Negli ultimi mesi l'Unione europea ha intensificato i controlli sulle grandi piattaforme social in base al Digital Services Act, già aprendo altri procedimenti contro TikTok per il mancato rispetto degli obblighi di tutela della salute mentale dei minori e per la trasparenza degli algoritmi di raccomandazione dei contenuti.",
+  "z6353dfa0": "Nelle ultime settimane si è discusso a lungo in Germania sul successore alla presidenza federale, con diversi nomi circolati all'interno della coalizione di governo. Negli ultimi giorni il consenso si è progressivamente concentrato sulla figura di Ilse Aigner, presidente del parlamento bavarese, sostenuta da un numero crescente di politici di peso della CDU.",
+  "zb1b234fe": "L'Anac è rimasta a lungo senza una guida stabile dopo le dimissioni del precedente presidente. Il governo Meloni ha condotto una fase di consultazioni per individuare un nuovo vertice, scelta che spetta per legge all'esecutivo su proposta del ministro competente. Le opposizioni avevano già espresso preoccupazione per possibili nomine ritenute troppo vicine alla maggioranza, temendo un'erosione dell'indipendenza dell'authority anticorruzione.",
+  "z926951b3": "La Russia è stata esclusa per anni da gran parte delle competizioni internazionali dopo lo scandalo di doping di Stato emerso con il rapporto McLaren, che documentò manipolazioni sistematiche dei test negli anni 2010. Dopo sospensioni prolungate in atletica, pesistica e altre federazioni, negli ultimi mesi diverse discipline hanno gradualmente riammesso atleti russi, riaprendo il dibattito sull'efficacia dei controlli antidoping indipendenti applicati loro.",
+  "z2035f7e3": "Negli ultimi mesi la Cisgiordania ha visto un aumento delle tensioni legate agli insediamenti israeliani e alle proteste di attivisti internazionali solidali con la popolazione palestinese. Diversi gruppi pacifisti e organizzazioni non governative, inclusi cittadini italiani, hanno partecipato a manifestazioni e missioni di osservazione nell'area, spesso contestate dalle forze di sicurezza israeliane, portando in passato a fermi e arresti di attivisti stranieri."
  },
  "cronologie": {
   "zfe77b042": [
@@ -2528,6 +4959,96 @@ window.EDIZIONI["2026-11-06-sera"] = {
     "oggi",
     "Thomas Markle Jr indicato come 'persona di interesse'"
    ]
+  ],
+  "z2a17dcc8": [
+   [
+    "Inizio settimana",
+    "Ondata di falsi allarmi bomba colpisce decine di voli in Europa"
+   ],
+   [
+    "6 novembre 2026",
+    "Le minacce si estendono a emittenti televisive come RTE, Sky e Nova TV"
+   ]
+  ],
+  "z79399a8c": [
+   [
+    "2023",
+    "Tesla lancia il Cybertruck"
+   ],
+   [
+    "6 novembre 2026",
+    "Musk annuncia lo stop alla produzione per il 2027"
+   ]
+  ],
+  "z85f402bc": [
+   [
+    "Mesi scorsi",
+    "L'Ue apre indagini su TikTok per la tutela dei minori"
+   ],
+   [
+    "6 novembre 2026",
+    "La Commissione europea accusa formalmente TikTok di violare le regole digitali"
+   ]
+  ],
+  "z6353dfa0": [
+   [
+    "2026-11-05",
+    "Media tedeschi riportano crescente sostegno della CDU per Ilse Aigner"
+   ],
+   [
+    "2026-11-06",
+    "ARD riporta che CDU e CSU proporranno Aigner come candidata"
+   ]
+  ],
+  "zb1b234fe": [
+   [
+    "Settimane scorse",
+    "Vacanza della presidenza Anac dopo le dimissioni del predecessore"
+   ],
+   [
+    "Giorni scorsi",
+    "Consultazioni di governo per individuare il nuovo presidente"
+   ],
+   [
+    "Oggi",
+    "Nomina di Altieri e proteste di Pd e M5S"
+   ]
+  ],
+  "z926951b3": [
+   [
+    "2016",
+    "Rapporto McLaren rivela il doping di Stato russo"
+   ],
+   [
+    "2016-2023",
+    "Sospensioni prolungate di federazioni russe dalle competizioni internazionali"
+   ],
+   [
+    "Mesi recenti",
+    "Graduale riammissione di atleti russi in varie discipline"
+   ],
+   [
+    "Questa settimana",
+    "Inchiesta DW denuncia carenze nei controlli pre-mondiali di pesistica"
+   ]
+  ],
+  "z2035f7e3": [
+   [
+    "Mesi recenti",
+    "Crescita delle proteste internazionali in Cisgiordania"
+   ],
+   [
+    "Giorni scorsi",
+    "Arrivo di delegazioni di attivisti stranieri, inclusi italiani"
+   ],
+   [
+    "Oggi",
+    "Fermo di sei cittadini italiani durante una manifestazione"
+   ],
+   [
+    "Oggi",
+    "Intervento della Farnesina e richiesta di Tajani per il rilascio"
+   ]
   ]
  },
  "confronti": {
@@ -2622,6 +5143,126 @@ window.EDIZIONI["2026-11-06-sera"] = {
     }
    ],
    "divergono": "The Guardian fornisce il racconto più dettagliato, con cifre precise (oltre 7.000 foto, un video), la fonte ufficiale filippina Remulla e le reazioni di Markle Sr e Meghan. Sky News conferma solo l'elemento centrale della notizia tramite titolo e occhiello, senza dettagli aggiuntivi verificabili. Times of India, per quanto leggibile, appare dedicato a un argomento diverso (l'ong Thorn), rendendo impossibile un confronto diretto sui fatti della vicenda Markle."
+  },
+  "z2a17dcc8": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Ricostruisce la cronologia dei nuovi allarmi, citando Sky, Nova TV e RTE, oltre a disagi aerei in Ungheria, Danimarca, Repubblica Ceca e Francia. Riporta il coinvolgimento della NATO per una pattuglia aerea vicino al confine ungaro-romeno e cita la premessa delle email firmate 'Mikhail Andropov'.",
+     "b": "a"
+    },
+    {
+     "n": "The New York Times",
+     "c": "New York",
+     "p": "US",
+     "t": "Articolo non leggibile integralmente: dall'occhiello emerge il focus sulla frustrazione dei viaggiatori a Roma, Madrid e Varsavia più che sulla paura. Giudizio parziale per mancanza del testo completo.",
+     "b": "t"
+    },
+    {
+     "n": "Daily Nation",
+     "c": "Nairobi",
+     "p": "XX",
+     "t": "Articolo non leggibile integralmente: titolo e occhiello indicano solo che una serie di minacce ha causato disagi ai voli in Europa nei giorni recenti. Giudizio parziale per mancanza del testo completo.",
+     "b": "t"
+    },
+    {
+     "n": "South China Morning Post",
+     "c": "Hong Kong",
+     "p": "XX",
+     "t": "Si concentra sulle minacce alle tv, elencando RTE, Sky e Nova TV, con la frase citata 'clock is ticking'. Precisa che nessuna bomba è stata trovata e che i programmi RTE sono stati sostituiti da musica per ore.",
+     "b": "a"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "Riporta il testo dell'email con la firma 'Mikhail Andropov' e il riferimento storico a Yuri Andropov, ipotizzando un possibile collegamento russo non confermato. Cita il premier irlandese Micheal Martin che parla di facilità nel creare 'disruption' e 'fear and anxiety', e riporta dettagli sui tempi di evacuazione (oltre tre ore a RTE).",
+     "b": "a"
+    }
+   ],
+   "divergono": "The Straits Times approfondisce il contenuto dell'email e il possibile riferimento a Yuri Andropov, elemento assente in Al Jazeera e South China Morning Post. Al Jazeera è l'unica a menzionare il coinvolgimento della NATO con una pattuglia aerea al confine ungaro-romeno. South China Morning Post e The Straits Times si soffermano sulla durata dell'interruzione dei programmi RTE, mentre Al Jazeera si concentra più sui disagi aerei in più paesi europei. The New York Times e Daily Nation, con testo non accessibile, sembrano dare risalto alla frustrazione dei passeggeri più che alla minaccia stessa."
+  },
+  "z926951b3": {
+   "voci": [
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "Riporta dati secondo cui solo 4 dei 16 pesisti russi sono stati testati fuori competizione dall'ITA, confrontandoli con i 13 nordcoreani tutti testati. Cita Rob Koehler (Global Athlete) che definisce la situazione 'absurd', la portavoce ITA Marta Nawrocka che difende i controlli, e WADA che dice di restare 'vigilant' sulla Russia, menzionando anche un'inchiesta su presunti legami della capo RUSADA con l'FSB.",
+     "b": "a"
+    },
+    {
+     "n": "TASS",
+     "c": "Mosca",
+     "p": "XX",
+     "t": "La voce della Russia: comunica risultati sportivi, riportando l'argento russo nel double-mini team ai Mondiali di trampolino a Nanjing e sottolinea che gli atleti russi competono sotto bandiera e inno nazionale per la prima volta dal 2019, senza alcun riferimento al doping.",
+     "b": "a"
+    },
+    {
+     "n": "VnExpress",
+     "c": "Hanoi",
+     "p": "XX",
+     "t": "Articolo non collegato al tema del doping: descrive il premio vinto dal bagno dell'aeroporto di Incheon, con dettagli su design e giuria sudcoreana. Testo puramente informativo e irrilevante per la notizia sul controllo antidoping russo.",
+     "b": "a"
+    },
+    {
+     "n": "Tehran Times",
+     "c": "Teheran",
+     "p": "XX",
+     "t": "Riporta solo i risultati del torneo di pesistica a Ningbo, con la medaglia d'argento iraniana di Alireza Nasiri e i pesi sollevati da lui e dagli altri atleti, senza menzionare questioni di doping o controlli russi.",
+     "b": "a"
+    },
+    {
+     "n": "Designboom",
+     "c": "Internazionale",
+     "p": "XX",
+     "t": "Articolo estraneo al tema: descrive il premio di design vinto da Lavazza Tablì al Seoul Design Award, senza alcun riferimento a Russia, doping o sport.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Deutsche Welle è l'unica testata che tratta effettivamente il tema del controllo antidoping sugli atleti russi, con cifre specifiche e fonti come Global Athlete, ITA e WADA. TASS, pur riguardando la Russia nello sport, riporta solo risultati agonistici senza menzionare il doping, presentandosi come 'voce della Russia' su un argomento diverso. VnExpress, Tehran Times e Designboom non trattano affatto la notizia sul doping russo, risultando estranei al tema centrale indicato dal titolo."
+  },
+  "z79399a8c": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Riporta l'annuncio di Musk sulla riduzione della produzione a Gigafactory Texas l'anno prossimo, citando l'ingegnere Wes Morrill che parla di 'discontinued'. Ricorda il lancio travagliato del 2019 con il vetro frantumato, i 146.000 ordini iniziali, i recall e il prezzo attuale di 102.000 dollari per il modello 'Cyberbeast'.",
+     "b": "t"
+    },
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Mette al centro le vendite deludenti, con cifre precise: 38.965 unità nel 2024, scese a 20.237 nel 2025. Collega la notizia all'attività politica di Musk, citando le sue spese elettorali e il ruolo nel DOGE, definendolo 'trilionario'.",
+     "b": "a"
+    },
+    {
+     "n": "Clarín",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "Indica mezzi 2027 come data di stop alla fabbricazione in Texas, citando il post di Musk su X e l'ingegnere Wes Morrill. Riporta i 250.000 preordini del 2019 senza aggiungere valutazioni politiche.",
+     "b": "a"
+    },
+    {
+     "n": "Dawn",
+     "c": "Karachi",
+     "p": "XX",
+     "t": "Descrive il Cybertruck come simbolo ambivalente, 'amato' dagli appassionati e 'odiato' come ricordo dell'era Trump, collegandolo al ruolo di Musk nel DOGE e a episodi di 'vandalismo e molestie' contro proprietari. Cita vendite all'estero in Corea del Sud e Emirati Arabi Uniti e il lancio del Cybercab nell'ottica di riposizionare Tesla come azienda di AI e robotica.",
+     "b": "a"
+    },
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Solo titolo e occhiello disponibili, articolo non leggibile: il giudizio è quindi parziale. Si limita a indicare che la produzione si fermerà in Texas per concentrarsi sui Cybercab.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le testate divergono sulla data di fine produzione: BBC News e Al Jazeera parlano del 2026/'next year', mentre Clarín e Dawn indicano metà 2027. Al Jazeera e Dawn collegano esplicitamente il Cybertruck alla figura politica di Musk e al DOGE, aspetto assente in BBC News e Clarín. Dawn è l'unica a riportare le cifre di vendita all'estero (Corea del Sud, Emirati Arabi Uniti) e il contesto del Cybercab come robotaxi senza volante. Al Jazeera fornisce dati di vendita annuali precisi (38.965 e 20.237 unità), assenti nelle altre testate."
   }
  },
  "luoghi": {
@@ -2937,13 +5578,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "pt": []
   },
-  "zb76ca035": {
-   "n": "Dublino",
-   "p": [
-    "Ireland"
-   ],
-   "pt": []
-  },
   "z536c67b9": {
    "n": "Shanghai",
    "p": [
@@ -3034,6 +5668,447 @@ window.EDIZIONI["2026-11-06-sera"] = {
     "Belgium"
    ],
    "pt": []
+  },
+  "zb2b7093a": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "zb1b234fe": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z6f9473e0": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "ze01c54ac": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z8388e00b": {
+   "n": "Iran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z2a17dcc8": {
+   "n": "Europa",
+   "p": [],
+   "pt": []
+  },
+  "z926951b3": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z79399a8c": {
+   "n": "Austin",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z85f402bc": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z3fb55e38": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z3b9e2e09": {
+   "n": "Manchester",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z4666b03e": {
+   "n": "Krasnodar",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zbb251eb2": {
+   "n": "Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z2fe84f25": {
+   "n": "Newcastle",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z187121f0": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z953bd558": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z2035f7e3": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z0805baff": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5a753dc4": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zd22cfd73": {
+   "n": "Lombardia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5e62325c": {
+   "n": "Sudan",
+   "p": [
+    "Sudan"
+   ],
+   "pt": []
+  },
+  "z952527b6": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdaaf5d2e": {
+   "n": "Spazio interstellare",
+   "p": [],
+   "pt": []
+  },
+  "z755635d2": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z51a94c97": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2de31470": {
+   "n": "Luna",
+   "p": [],
+   "pt": []
+  },
+  "za4d2f3a2": {
+   "n": "Taranto",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z206e05ac": {
+   "n": "Isola di Bangka",
+   "p": [
+    "Indonesia"
+   ],
+   "pt": []
+  },
+  "z30f520eb": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z3b23d045": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zbb284f6e": {
+   "n": "Palermo",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb7bb18a5": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "zbe209d1e": {
+   "n": "Vermont",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z19e50a24": {
+   "n": "California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zbe0bb7e4": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z98e9fb55": {
+   "n": "L'Avana",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
+  },
+  "zaa1df4d7": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z54227f7f": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdc956c59": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zef9382af": {
+   "n": "Repubblica Ceca",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z69502e50": {
+   "n": "Dodoma",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z89069e7f": {
+   "n": "Jinhua",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zc4227de6": {
+   "n": "Cernavodă",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z1d10bdb2": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zcde9b9e8": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z0dc7a82b": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z07a01573": {
+   "n": "Antigua e Barbuda",
+   "p": [
+    "Antigua and Barb."
+   ],
+   "pt": []
+  },
+  "zc873a904": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "zd6af416f": {
+   "n": "Ndjolé",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z68844613": {
+   "n": "Manéah",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z540b6dd0": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "z6353dfa0": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z31632e36": {
+   "n": "Kyiv",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z157b4db3": {
+   "n": "Urda",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z60799fc0": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z4789f1c7": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z3f1403a0": {
+   "n": "Turchia",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z5be51e50": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z8abb1832": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8bbf14ec": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z9439426b": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z06830145": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z961d2ec9": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z2b33dc8e": {
+   "n": "Marocco e Mauritania",
+   "p": [
+    "Morocco",
+    "Mauritania"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3082,7 +6157,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "zff614696": 1,
   "z2651a4d9": 1,
   "za1b5cfd5": 2,
-  "zb76ca035": 2,
   "ze8e2791e": 2,
   "z536c67b9": 1,
   "z3fa19306": 1,
@@ -3097,7 +6171,74 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z4f86de61": 1,
   "z6dd45d31": 1,
   "z9037eea4": 1,
-  "z89e6a6b3": 1
+  "z89e6a6b3": 1,
+  "zb2b7093a": 1,
+  "zb1b234fe": 2,
+  "z6f9473e0": 1,
+  "ze01c54ac": 1,
+  "z8388e00b": 1,
+  "z2a17dcc8": 3,
+  "z926951b3": 2,
+  "z79399a8c": 2,
+  "z85f402bc": 2,
+  "z3fb55e38": 1,
+  "z3b9e2e09": 1,
+  "z4666b03e": 2,
+  "zbb251eb2": 2,
+  "z2fe84f25": 1,
+  "z187121f0": 1,
+  "z953bd558": 2,
+  "z2035f7e3": 2,
+  "z0805baff": 2,
+  "z5a753dc4": 1,
+  "zd22cfd73": 1,
+  "z5e62325c": 1,
+  "z952527b6": 1,
+  "zdaaf5d2e": 1,
+  "z755635d2": 1,
+  "z51a94c97": 2,
+  "z2de31470": 1,
+  "za4d2f3a2": 1,
+  "zd547a8f3": 1,
+  "z206e05ac": 1,
+  "z30f520eb": 2,
+  "z3b23d045": 1,
+  "zbb284f6e": 2,
+  "zb7bb18a5": 1,
+  "zbe209d1e": 1,
+  "z19e50a24": 2,
+  "zbe0bb7e4": 1,
+  "z98e9fb55": 1,
+  "z0df57bd4": 1,
+  "z13df7d16": 1,
+  "zaa1df4d7": 1,
+  "z54227f7f": 1,
+  "zdc956c59": 1,
+  "zef9382af": 1,
+  "z69502e50": 1,
+  "z89069e7f": 1,
+  "zc4227de6": 1,
+  "z1d10bdb2": 2,
+  "zcde9b9e8": 1,
+  "z0dc7a82b": 1,
+  "z07a01573": 2,
+  "zc873a904": 2,
+  "zd6af416f": 1,
+  "z68844613": 1,
+  "z540b6dd0": 1,
+  "z6353dfa0": 1,
+  "z31632e36": 2,
+  "z157b4db3": 2,
+  "z60799fc0": 2,
+  "z4789f1c7": 1,
+  "z3f1403a0": 1,
+  "z5be51e50": 1,
+  "z8abb1832": 1,
+  "z8bbf14ec": 1,
+  "z9439426b": 1,
+  "z06830145": 1,
+  "z961d2ec9": 1,
+  "z2b33dc8e": 1
  },
  "video": {},
  "pillole": []
