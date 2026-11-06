@@ -3,6 +3,824 @@ window.EDIZIONI["2026-11-06"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z2c6416ec",
+   "sez": "mondo",
+   "titolo": "Macao, ex deputato condannato a 12 anni e mezzo nel primo processo per sicurezza nazionale",
+   "orig": "Ex-lawmaker jailed in Macau's first national security trial",
+   "lead": "A Macao l'ex deputato pro-democrazia Au Kam San è stato condannato a 12 anni e mezzo di carcere per \"sovversione contro il potere politico dello Stato\". È il primo processo basato sulla legge sulla sicurezza nazionale applicata nel territorio. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Macao, come Hong Kong, è una regione amministrativa speciale cinese con un proprio sistema giuridico. Negli ultimi anni Pechino ha rafforzato il controllo politico su entrambi i territori introducendo leggi sulla sicurezza nazionale usate per perseguire voci critiche e oppositori politici, riducendo gli spazi per il dissenso pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T04:54+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf2393d5b",
+   "sez": "mondo",
+   "titolo": "Il voto Usa contro la guerra di Trump con l'Iran, i paesi del Golfo sperano nella fine del conflitto",
+   "orig": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
+   "lead": "I risultati delle elezioni di metà mandato negli Stati Uniti hanno mostrato quanto sia impopolare la guerra condotta da Donald Trump contro l'Iran. I paesi del Golfo, coinvolti per mesi nel conflitto tra Washington e Teheran, vedono in questo esito un motivo di ottimismo per una possibile fine delle ostilità. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Le tensioni tra Stati Uniti e Iran si sono inasprite negli ultimi anni, con scontri diretti e indiretti che hanno coinvolto anche i paesi del Golfo, geograficamente vicini e dipendenti dalla stabilità regionale per commerci ed energia. Le elezioni di metà mandato negli Usa misurano il consenso verso le politiche del presidente a metà del suo mandato."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-05T19:12+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z2114af89",
+   "sez": "mondo",
+   "titolo": "Serbia, arresti e indagini dopo la vittoria della Lista degli Studenti",
+   "orig": "Arrests and investigations as Serbia begins post-election clean-up",
+   "lead": "In Serbia la vittoria schiacciante della Lista degli Studenti alle elezioni generali sembra aver rimosso un blocco nel sistema giudiziario: casi rimasti fermi per lungo tempo stanno ora avanzando rapidamente, con nuovi arresti e indagini avviate nel paese. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Negli ultimi anni la Serbia è stata attraversata da proteste guidate da studenti e movimenti civici contro il governo, accusato di corruzione e di controllo sulle istituzioni giudiziarie. Il risultato elettorale della Lista degli Studenti segna un cambiamento politico significativo che potrebbe incidere sull'indipendenza della magistratura."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-05T17:00+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1d4e22c4",
+   "sez": "ambiente",
+   "titolo": "Turchia, il 90% dei cittadini non sa che il paese ospiterà la COP31",
+   "orig": "Survey: Ninety percent of the public unaware Turkey to host COP31",
+   "lead": "Un sondaggio rivela che il 90% dei turchi non è consapevole che la Turchia ospiterà la conferenza sulla clima COP31. Nonostante la scarsa informazione, il pubblico si dice favorevole alle energie rinnovabili e all'abbandono del carbone, e ritiene che il governo dovrebbe fare più per contrastare il cambiamento climatico. Lo riferisce Bianet English, mentre Euronews ricorda che la Turchia ospita uno dei maggiori impianti solari d'Europa ma non riesce ad abbandonare il carbone.",
+   "more": [
+    "La COP è la conferenza annuale delle Nazioni Unite sul clima che riunisce i governi mondiali per negoziare impegni sulla riduzione delle emissioni. Ospitare l'evento comporta visibilità internazionale ma anche pressioni sulle politiche energetiche del paese organizzatore, spesso messe a confronto con gli obiettivi dichiarati di decarbonizzazione."
+   ],
+   "fonti": [
+    {
+     "n": "Bianet English",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://bianet.org/haber/survey-ninety-percent-of-the-public-unaware-turkey-to-host-cop31-325116",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-05T12:29+03:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/11/06/cop31-host-turkiye-is-home-to-one-of-europes-largest-solar-farms-why-cant-it-kick-coal",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-06T07:02+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4cf14642",
+   "sez": "sport",
+   "titolo": "Ginnastica ritmica, San Marino decimo nella seconda tappa di Serie B",
+   "orig": "Ginnastica ritmica: San Marino decimo nella seconda tappa di Serie B",
+   "lead": "La squadra sammarinese di ginnastica ritmica si è classificata decima nella seconda tappa del campionato di Serie B, disputata a Biella, chiudendo con un punteggio di 89,150 punti. La prossima prova del campionato si svolgerà a Livorno. Lo riferisce San Marino RTV.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/sport-sammarinese-c16/ginnastica-ritmica-san-marino-decimo-nella-seconda-tappa-di-serie-b-a298140",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-11-06T07:00+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z76c26e65",
+   "sez": "salute",
+   "titolo": "Pakistan, il partito di Imran Khan chiede garanzie sulle cure in carcere",
+   "orig": "PTI expresses concern over Imran's health, urges CJP to ensure court orders on treatment are implemented",
+   "lead": "Il comitato centrale del partito PTI, fondato da Imran Khan, ha espresso preoccupazione per le condizioni di salute dell'ex premier pakistano, detenuto, e ha chiesto al presidente della Corte Suprema di garantire l'attuazione degli ordini giudiziari relativi alle sue cure mediche. La riunione, tenutasi giovedì, è arrivata dopo notizie secondo cui la pressione sanguigna di Khan sarebbe salita a 192. Lo riferisce Dawn.",
+   "more": [
+    "Imran Khan, ex primo ministro pakistano, è in carcere da tempo con diverse condanne legate a procedimenti giudiziari contestati dal suo partito, che denuncia persecuzione politica. Le sue condizioni di salute in detenzione sono da tempo oggetto di attenzione pubblica e di richieste di verifica da parte di familiari e sostenitori."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2042568/pti-expresses-concern-over-imrans-health-urges-cjp-to-ensure-court-orders-on-treatment-are-implemented",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-06T11:16+05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7587f503",
+   "sez": "mondo",
+   "titolo": "Congo guarda al modello tanzaniano per la nuova capitale amministrativa",
+   "orig": "Mtumba model inspires DRC development plans",
+   "lead": "La Repubblica Democratica del Congo intende usare l'esperienza della Tanzania nello sviluppo della Mtumba Government City come modello per migliorare le infrastrutture governative nella propria capitale, Kinshasa. Lo ha dichiarato il primo ministro congolese Judith Tuluka dopo una visita alla nuova città governativa di Mtumba, a Dodoma. Lo riferisce Daily News (Tanzania).",
+   "more": [
+    "Mtumba Government City è il progetto con cui la Tanzania ha trasferito le principali funzioni amministrative del governo da Dar es Salaam alla capitale designata Dodoma, con l'obiettivo di decongestionare la città costiera e centralizzare l'amministrazione pubblica in una sede pianificata."
+   ],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/mtumba-model-inspires-drc-development-plans/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-06T06:30+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z64bcee99",
+   "sez": "mondo",
+   "titolo": "Canada, militare rischia la corte marziale per aver passato informazioni sensibili all'Ucraina",
+   "orig": "Canadian service member faces court-martial for sharing sensitive information with Ukraine",
+   "lead": "Il maresciallo capo Matthew Robar, del comando dell'intelligence delle forze armate canadesi, è accusato di aver trasmesso informazioni operative sensibili all'Ucraina. L'udienza della corte marziale si terrà nel mese di dicembre. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "I casi di militari o funzionari occidentali accusati di condividere informazioni riservate con l'Ucraina, pur in un contesto di sostegno ufficiale di molti paesi Nato a Kyiv, riguardano la gestione del segreto militare e la distinzione tra cooperazione autorizzata e violazione delle procedure di sicurezza nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/canadian-service-member-to-face-court-martial-for-sharing-sensitive-information-with-ukraine/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-05T21:13+00:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z85c4060f",
+   "sez": "economia",
+   "titolo": "Voto Usa affonda i mercati, Trump accusa i democratici",
+   "orig": "Il voto Usa affossa i mercati, Trump dà la colpa ai democratici",
+   "lead": "I mercati finanziari hanno reagito negativamente ai risultati delle elezioni americane, con il presidente Donald Trump che ha attribuito la responsabilità ai democratici. Trump si prepara a una serie di iniziative, dalla difesa ai migranti, prima di diventare una \"anatra zoppa\" nella seconda parte del mandato. Lo riferisce ANSA.",
+   "more": [
+    "L'espressione \"anatra zoppa\" descrive un presidente statunitense che, dopo aver perso potere politico (ad esempio per una sconfitta elettorale del proprio partito), ha minore capacità di far approvare le proprie iniziative nella parte finale del mandato."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/05/-trump-non-si-arrende-le-elezioni-negli-usa-sono-truccate_f97bbbdf-4ed5-49b4-a42c-7e13e9cdfec8.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T07:17+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z47f81b79",
+   "sez": "salute",
+   "titolo": "Cambiamento climatico e salute, dieci anni dopo l'Accordo di Parigi",
+   "orig": "[Editorial] Climate change and health: 10 years on, what next?",
+   "lead": "Un editoriale della rivista The Lancet fa il punto a dieci anni dall'entrata in vigore dell'Accordo di Parigi, firmato nel 2016, e dalla nascita del Lancet Countdown, il progetto che monitora gli effetti del cambiamento climatico sulla salute e le azioni messe in campo per contrastarlo. Il decennio ha visto battute d'arresto nelle politiche climatiche ma anche progressi nella comprensione del fenomeno e nell'attenzione pubblica. Lo riferisce The Lancet.",
+   "more": [
+    "L'Accordo di Parigi del 2015 è il trattato internazionale con cui i paesi si sono impegnati a limitare il riscaldamento globale. Il Lancet Countdown è un progetto di ricerca che pubblica rapporti annuali sugli effetti sanitari del cambiamento climatico, diventato un riferimento per valutare l'impatto delle politiche ambientali sulla salute pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02241-5/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    },
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02201-4/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8a72aaf8",
+   "sez": "economia",
+   "titolo": "Teleriscaldamento, Arera approva il bonus sociale per le famiglie in difficoltà",
+   "orig": "Teleriscaldamento, via libera di Arera al bonus sociale per le famiglie in difficoltà economica",
+   "lead": "L'Autorità di Regolazione per Energia Reti e Ambiente (Arera) ha dato il via libera a un bonus sociale sul teleriscaldamento destinato alle famiglie in difficoltà economica. L'agevolazione garantirà una riduzione della spesa media di circa il 15% al netto delle imposte, ed è riservata ai nuclei con Isee non superiore a 9.796 euro, soglia che sale a 20mila euro per le famiglie con almeno quattro figli a carico. Lo riferisce Il Sole 24 Ore.",
+   "more": [
+    "I bonus sociali energetici sono agevolazioni automatiche riconosciute alle famiglie con reddito basso, calcolato tramite l'Isee, per ridurre il peso delle bollette di luce, gas e, ora, teleriscaldamento. Sono strumenti pensati per contrastare la povertà energetica senza richiedere domande individuali."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/teleriscaldamento-via-libera-arera-bonus-sociale-le-famiglie-difficolta-economica-AJ3QuV6B",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T06:28+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf276eb76",
+   "sez": "economia",
+   "titolo": "Crollano i titoli tecnologici asiatici, il Nikkei sotto i 60.000 punti",
+   "orig": "Asian tech stocks sink",
+   "lead": "I mercati tecnologici asiatici hanno registrato forti perdite, descritte come un \"completo massacro\", con l'indice Nikkei 225 sceso sotto i 60.000 punti per la prima volta da maggio e il Kospi sudcoreano sceso sotto i 5.000 punti. Lo riferisce Financial Times.",
+   "more": [
+    "Il Nikkei 225 e il Kospi sono i principali indici azionari rispettivamente di Tokyo e Seul, fortemente influenzati dal peso dei titoli tecnologici. Le oscillazioni di questi mercati sono spesso legate a movimenti globali sui tassi d'interesse, sulle valutazioni dei semiconduttori e sulla fiducia degli investitori nel settore tech."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T05:07+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf308d2ef",
+   "sez": "salute",
+   "titolo": "La Cina candida Song Li alla guida dell'OMS",
+   "orig": "[Comment] Offline: China bids to lead in global health",
+   "lead": "Il settimanale medico The Lancet racconta, in un commento del suo editorialista, la candidatura a sorpresa di Song Li alla guida dell'Organizzazione mondiale della sanità, presentata all'ultimo momento dal governo cinese. L'autore ha incontrato la candidata a Pechino, dove Song Li ha esposto un programma basato su quattro pilastri. Secondo il commento, la mossa di Pechino risponde alla volontà della Cina di assumere un ruolo guida nella sanità globale, approfittando del disimpegno multilaterale degli Stati Uniti. Lo riferisce The Lancet.",
+   "more": [
+    "L'elezione del Direttore generale dell'OMS avviene tramite voto degli Stati membri. Negli ultimi anni gli Stati Uniti hanno ridotto il proprio impegno nelle organizzazioni multilaterali, lasciando spazio ad altre potenze come la Cina per guadagnare influenza negli organismi sanitari internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02236-1/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd4fec10e",
+   "sez": "economia",
+   "titolo": "GECOL e GIZ discutono formazione e rinnovabili in Libia",
+   "orig": "GECOL and GIZ discuss training, sustainability and diversifying to renewables",
+   "lead": "Il presidente della General Electricity Company of Libya (GECOL), Bashir Al-Marash, e il suo vice Munir Aft hanno incontrato rappresentanti dell'agenzia tedesca di cooperazione GIZ per discutere di formazione del personale, sostenibilità e diversificazione verso le energie rinnovabili nel settore elettrico libico. Lo riferisce Libya Herald.",
+   "more": [
+    "GECOL è l'ente statale che gestisce la rete elettrica libica, da anni alle prese con blackout e carenze infrastrutturali. GIZ è l'agenzia tedesca per la cooperazione internazionale, spesso coinvolta in progetti di modernizzazione energetica nei paesi in via di sviluppo."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/11/gecol-and-giz-discuss-training-sustainability-and-diversifying-to-renewables/",
+     "angolo": "",
+     "atlas": "Libya",
+     "t": "2026-11-06T04:54+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcd3e0583",
+   "sez": "economia",
+   "titolo": "Giappone, la Camera bassa approva il taglio dell'imposta sul cibo",
+   "orig": "Bill to lower consumption tax on food clears Lower House",
+   "lead": "La Camera bassa del Giappone ha approvato un disegno di legge che riduce l'imposta sui consumi applicata ai prodotti alimentari, misura centrale nella strategia della premier Sanae Takaichi per alleggerire il costo della vita. Lo riferisce The Japan Times.",
+   "more": [
+    "In Giappone l'imposta sui consumi è generalmente al 10%, con un'aliquota ridotta per gli alimentari. Il taglio proposto si inserisce in un contesto di crescente pressione inflazionistica sui beni di prima necessità, che ha spinto il governo a cercare misure di sostegno al reddito delle famiglie."
+   ],
+   "fonti": [
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/news/2026/11/06/japan/politics/consumption-tax-bill-passed-lower-house/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-06T14:32+09:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z15408e06",
+   "sez": "economia",
+   "titolo": "California, respinta la tassa sui miliardari",
+   "orig": "California’s billionaire tax faces defeat, but tech execs may not be off the hook",
+   "lead": "Gli elettori della California hanno respinto la Proposition 40, che avrebbe introdotto una tassa sui patrimoni dei miliardari, mentre hanno approvato le Proposition 41 e 42. I sostenitori della misura intendono riproporla nel 2028, mentre Stati come Washington e Colorado valutano tasse simili sui grandi redditi; a livello federale si discute inoltre di nuovi aumenti fiscali per ricchi e imprese a sostegno della classe media. Lo riferisce Times of India.",
+   "more": [
+    "Le tasse sul patrimonio dei super-ricchi sono al centro del dibattito fiscale statunitense da anni, proposte da diversi Stati come strumento per finanziare servizi pubblici e ridurre le disuguaglianze, ma spesso osteggiate per il rischio di fuga di capitali e contribuenti verso Stati con fiscalità più favorevole."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/technology/tech-news/as-californias-billionaire-tax-faces-defeat-problems-for-wealthy-tech-execs-may-not-be-over/articleshow/135593210.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-06T09:36+05:30"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcff582b6",
+   "sez": "economia",
+   "titolo": "Pakistan, riserve valutarie a livelli record nonostante la guerra nel Golfo",
+   "orig": "Pakistan builds record reserves amid Gulf war",
+   "lead": "Le riserve valutarie del Pakistan hanno raggiunto un massimo record di oltre 26,8 miliardi di dollari, secondo la Banca statale del Pakistan (SBP), nonostante l'impatto della guerra nel Golfo, iniziata il 28 febbraio, sui prezzi del petrolio. Le riserve erano di 16,568 miliardi di dollari a febbraio e sono salite a 21,568 miliardi il 30 ottobre, per poi crescere ulteriormente negli ultimi giorni. Lo riferisce Dawn.",
+   "more": [
+    "Le riserve valutarie sono un indicatore cruciale della stabilità economica di un paese, poiché garantiscono la capacità di pagare importazioni e debito estero. Il Pakistan ha attraversato negli ultimi anni ripetute crisi di bilancia dei pagamenti legate anche all'aumento dei prezzi energetici."
+   ],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2042455/pakistan-builds-record-reserves-amid-gulf-war",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-06T06:59+05:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z026ad171",
+   "sez": "mondo",
+   "titolo": "Libération confronta il nuovo programma di Mélenchon con le versioni precedenti",
+   "orig": "«Libé» a cherché les 7 différences dans le nouveau programme de Mélenchon : écologie, IA, Europe…",
+   "lead": "Il quotidiano francese Libération ha confrontato il nuovo programma de La France insoumise, presentato venerdì 6 novembre, con le versioni precedenti, individuando sette differenze principali su temi come ecologia, intelligenza artificiale ed Europa in vista delle elezioni presidenziali francesi. Lo riferisce Libération.",
+   "more": [
+    "La France insoumise è un partito francese di sinistra guidato da Jean-Luc Mélenchon, che periodicamente aggiorna il proprio programma politico in vista delle scadenze elettorali, incluse le presidenziali."
+   ],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/elections/libe-a-cherche-les-7-differences-dans-le-nouveau-programme-de-melenchon-ecologie-ia-europe-20261106_4M26K43WZFGZRE2DRVIGDZT6ZQ/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-06T05:00+00:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/examens-officiels-un-sujet-unique-au-cepe-et-deux-sujets-differents-au-bepc-pour-les-candidats-de-lancien-et-du-nouveau-programme-en-2027",
+     "angolo": "",
+     "atlas": "Madagascar"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z3502e944",
+   "sez": "mondo",
+   "titolo": "Usa, ancora in corso lo spoglio dei voti in Mississippi",
+   "orig": "USA: Warum in Mississippi noch immer ausgezählt wird",
+   "lead": "Negli Stati Uniti si continua a contare i voti in Mississippi, Stato dove tradizionalmente i Democratici non hanno chance di conquistare un seggio al Senato, ma dove questa volta la gara appare insolitamente combattuta. La Süddeutsche Zeitung collega il fenomeno anche a una controversia locale legata ai panini hamburger. Un commento del quotidiano austriaco Der Standard osserva che le elezioni di midterm mostrano come le democrazie occidentali abbiano resistito bene alla pressione autoritaria, anche in Ungheria, Serbia e Brasile.",
+   "more": [
+    "Il Mississippi è storicamente uno Stato a forte dominanza repubblicana negli Stati Uniti. Una gara competitiva per un seggio al Senato rappresenterebbe un'eccezione significativa nel panorama politico locale, in un contesto di risultati favorevoli ai Democratici nelle midterm del 2026."
+   ],
+   "fonti": [
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/midterms-mississippi-auszaehlung-senat-li.3575195",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T06:06+00:00"
+    },
+    {
+     "n": "Der Standard",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://www.derstandard.at/story/3000000347363/die-us-wahl-zeigt-die-weltlage-wird-nicht-immer-nur-schlechter?ref=rss",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-06T05:00+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z27f6bab4",
+   "sez": "mondo",
+   "titolo": "Ecuador, aiuti coordinati per le zone colpite dalle piogge",
+   "orig": "COE Nacional coordina desde Galápagos la entrega de ayuda, agua y maquinaria en zonas afectadas por las lluvias en Ecuador",
+   "lead": "Il Comitato di operazioni di emergenza nazionale (COE) dell'Ecuador coordina dalle isole Galápagos la distribuzione di aiuti, acqua e macchinari nelle province colpite dalle forti piogge nel paese. Lo riferisce El Universo.",
+   "more": [
+    "L'Ecuador è periodicamente colpito da piogge intense che causano allagamenti e danni alle infrastrutture, soprattutto nelle province costiere e andine, rendendo necessario l'intervento coordinato delle autorità di protezione civile."
+   ],
+   "fonti": [
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/comunidad/ecuador/coe-nacional-coordina-desde-galapagos-la-entrega-de-ayuda-agua-y-maquinaria-en-zonas-afectadas-por-las-lluvias-en-ecuador-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-06T04:05+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cochabamba/alcalde-reyes-villa-anuncia-ayuda-aiquile-falta-agua/20261105172911998765.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-05T17:29-04:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z8a838980",
+   "sez": "mondo",
+   "titolo": "Il controllo democratico del Congresso tra opportunità e sfida per la Cina",
+   "orig": "Democrat control of Congress presents opportunity and challenge for China",
+   "lead": "Secondo un'analisi del Taipei Times, il passaggio del controllo del Congresso statunitense ai Democratici dopo le elezioni di midterm rappresenta sia un'opportunità sia una sfida per la Cina nei rapporti con Washington. Lo riferisce Taipei Times.",
+   "more": [
+    "Il Congresso statunitense ha un ruolo rilevante nella definizione delle politiche commerciali e di sicurezza verso la Cina, incluso il dossier Taiwan. Un cambio di maggioranza può modificare gli equilibri su dazi, sanzioni e sostegno a Taipei."
+   ],
+   "fonti": [
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/06/2003867257",
+     "angolo": "",
+     "atlas": "Taiwan",
+     "t": "2026-11-06T08:00+08:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/sport/racing/veteran-trainer-relishing-golden-opportunity-and-new-challenge-20261106-p61bx7.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-11-06T17:00+11:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze3475e8d",
+   "sez": "mondo",
+   "titolo": "Hong Kong stringe le regole sulla ricerca dei registri immobiliari",
+   "orig": "Privacy chief backs tighter land-search rules",
+   "lead": "La responsabile della privacy di Hong Kong, Ada Chung, ha espresso sostegno alle nuove norme governative che restringono l'accesso ai registri immobiliari, segnalando che l'uso improprio dei dati catastali potrebbe essere in aumento. Il governo ha presentato in Consiglio legislativo otto atti di legislazione sussidiaria che impongono che le ricerche sui terreni rispondano a uno dei nove scopi specificati. Lo riferiscono RTHK e South China Morning Post.",
+   "more": [
+    "Hong Kong dispone di un registro pubblico dei terreni storicamente accessibile per verifiche immobiliari. Le nuove restrizioni nascono dalla preoccupazione che i dati vengano usati per scopi diversi da quelli previsti, con possibili ripercussioni sull'accesso dei giornalisti alle informazioni."
+   ],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1876787-20261106.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T12:01+08:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373496/hong-kong-privacy-watchdog-backs-tighter-rules-access-land-records",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T05:19+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z430efb98",
+   "sez": "mondo",
+   "titolo": "Fulmini provocano incendi ad Auckland durante una violenta tempesta",
+   "orig": "Lightning strikes cause fires in Auckland during severe storm, rain passes over Far North",
+   "lead": "Una violenta tempesta ha colpito Auckland, in Nuova Zelanda, provocando incendi causati da fulmini, mentre piogge torrenziali hanno investito anche il Far North. Il servizio meteorologico MetService ha previsto temporali accompagnati da piogge intense in diverse regioni dell'Isola del Nord, con oltre 1.170 fulmini registrati finora secondo Stuff NZ. Lo riferisce RNZ.",
+   "more": [
+    "L'Isola del Nord della Nuova Zelanda è soggetta a episodi temporaleschi stagionali che possono causare allagamenti improvvisi e danni alle infrastrutture, rendendo necessarie misure preventive come la pulizia dei tombini da parte delle famiglie."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/weather/2384152/lightning-strikes-cause-fires-in-auckland-during-severe-storm-rain-passes-over-far-north",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-06T18:39+13:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/nz-news/361055758/torrential-rain-and-lightning-what-friday-thunderstorm-outlook-means-you",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-06T05:06+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za999bf1e",
+   "sez": "mondo",
+   "titolo": "Sudan e Sud Sudan si scontrano all'ONU sul voto ad Abyei",
+   "orig": "Sudan, South Sudan differ at UN over Abyei election plan",
+   "lead": "Sudan e Sud Sudan si sono confrontati al Consiglio di sicurezza delle Nazioni Unite sul piano del Sud Sudan di includere la regione contesa di Abyei nelle elezioni generali previste per dicembre 2026. Il rappresentante sudanese Al-Harith Idriss Al-Harith Mohamed ha contestato tale inclusione. Lo riferiscono Radio Tamazuj e Eye Radio.",
+   "more": [
+    "Abyei è una regione contesa tra Sudan e Sud Sudan, ricca di risorse petrolifere, il cui status è rimasto irrisolto dopo l'indipendenza sudsudanese del 2011. La disputa sulla sua appartenenza amministrativa alimenta tensioni periodiche tra i due paesi."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/sudan-south-sudan-differ-at-un-over-abyei-election-plans",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-05T21:08+00:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/south-sudan-and-sudan-clash-at-un-over-abyeis-inclusion-in-december-elections/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-and-sudan-clash-at-un-over-abyeis-inclusion-in-december-elections",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-06T04:44+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z65bc537c",
+   "sez": "economia",
+   "titolo": "Svezia, previsto un nuovo record per gli acquisti natalizi",
+   "orig": "Nya rekord väntas för årets julhandel",
+   "lead": "In Svezia si prevede un nuovo record per gli acquisti natalizi, con le famiglie che spenderanno oltre 100 miliardi di corone nel mese di dicembre, secondo l'istituto di analisi HUI. L'analista William Lindquist ha osservato che il dato riflette un miglioramento della situazione economica delle famiglie, favorito anche dalla riduzione dell'IVA sugli alimenti e dalla bassa inflazione, secondo Dagens Nyheter.",
+   "more": [
+    "I consumi natalizi sono spesso considerati un indicatore della fiducia economica delle famiglie. Una riduzione dell'inflazione e delle tasse sui beni di consumo può tradursi in maggiore potere d'acquisto disponibile per gli acquisti durante le festività."
+   ],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/ekonomi/nya-rekord-vantas-for-arets-julhandel",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-11-06T07:17+01:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/ekonomi/mer-i-planboken-rekordstor-julhandel-vantas/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-11-06T06:43+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zec1cfabd",
+   "sez": "prima",
+   "titolo": "Juve batte l'Az Alkmaar, cade il Milan contro il Ferencvaros",
+   "orig": "La Juve batte l'Az Alkmaar con brivido finale. Cade il Milan, a San Siro vince il Ferencvaros",
+   "lead": "La Juventus ha battuto l'AZ Alkmaar con un finale incerto, salendo a dieci punti in classifica di Europa League, mentre in Conference League l'Atalanta ha pareggiato 1-1 con il Kairat. Il Milan è invece caduto a San Siro per 0-2 contro il Ferencvaros, subendo la terza sconfitta in quattro partite europee. Lo riferisce ANSA, confermato dal Messaggero.",
+   "more": [
+    "Europa League e Conference League sono le competizioni calcistiche europee di secondo e terzo livello organizzate dalla UEFA, in cui le squadre italiane competono per l'accesso alle fasi finali della stagione."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/la-juve-batte-laz-alkmaar-con-brivido-finale.-cade-il-milan-a-san_696fefa0-f035-411d-b3dc-5d940994dce9.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T23:27+01:00"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/schede/milan_ferencvaros_pagelle_europa_league_joseph_moreira_classifica-9871587.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T20:48+01:00"
+    }
+   ],
+   "data": "5 nov",
+   "ora": "07:53",
+   "uscita": "mattino",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z2dc8c66b",
+   "sez": "mondo",
+   "titolo": "Fukuyama: Trump è debole ma resta un pericolo",
+   "orig": "Fukuyama: “Trump è debole, ma resta un pericolo per l’America e il mondo”",
+   "lead": "Il politologo Francis Fukuyama, della Stanford University, ha dichiarato a la Repubblica che Donald Trump, nonostante sia uscito debole dalle elezioni di midterm, resta un pericolo per gli Stati Uniti e per il mondo. Secondo Fukuyama il voto ha rappresentato uno stop alla deriva autoritaria del presidente, e i Repubblicani gli faranno pagare le accuse di corruzione. Lo riferisce la Repubblica.",
+   "more": [
+    "Francis Fukuyama è un politologo statunitense noto per i suoi studi sulla democrazia liberale. Le sue analisi sulla politica americana sono spesso riprese dalla stampa internazionale per interpretare l'evoluzione del sistema politico statunitense sotto Trump."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/06/news/fukuyama_elezioni_americane_usa_di_midterm_trump-425702331/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T00:00+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/06/news/fukuyama_elezioni_americane_usa_di_midterm_trump-425702331/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T01:00+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z791c964d",
+   "sez": "mondo",
+   "titolo": "Gli errori di Trump dall'Ice a Epstein all'Iran",
+   "orig": "Anatomia di una sconfitta: dall’Ice a Epstein all’Iran, tutti gli errori di Trump",
+   "lead": "Un'analisi di la Repubblica ricostruisce gli errori commessi da Donald Trump durante il secondo mandato, dalla gestione dell'immigrazione con l'ICE al caso Epstein fino alla crisi con l'Iran, che avrebbero eroso il consenso iniziale del presidente fino a renderlo percepito come antiamericano da parte di settori dell'opinione pubblica. Lo riferisce la Repubblica.",
+   "more": [
+    "Durante il secondo mandato, Trump ha intrapreso politiche migratorie dure attraverso l'agenzia ICE, è stato coinvolto in polemiche legate al caso Epstein e ha gestito tensioni internazionali con l'Iran, temi che hanno alimentato critiche trasversali alla sua presidenza."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/06/news/elezioni_midterm_perche_trump_ha_perso-425702785/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T00:00+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/06/news/elezioni_midterm_perche_trump_ha_perso-425702785/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T01:00+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0d78271f",
+   "sez": "italia",
+   "titolo": "Allarmi bomba in Italia, come funziona il decollo rapido dei caccia",
+   "orig": "Allarmi bomba, come funziona lo Scramble: quanto impiegano i jet ad arrivare, chi decide il decollo",
+   "lead": "In Italia i caccia militari sono in grado di decollare in meno di dieci minuti per rispondere a emergenze come allarmi bomba, intercettando o scortando aerei, come accaduto di recente con un volo in arrivo nel paese. Il Messaggero spiega il funzionamento della procedura di decollo rapido, nota come scramble, e chi decide l'ordine di intervento dei jet. Lo riferisce Il Messaggero.",
+   "more": [
+    "Lo scramble è la procedura di decollo immediato dei caccia militari in risposta a minacce o emergenze aeree, prevista dai protocolli di difesa aerea nazionale e NATO, usata per intercettare aerei sospetti o scortare velivoli in difficoltà."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/italia/scramble_come_funziona_quando_scatta-9871536.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T20:04+01:00"
+    },
+    {
+     "n": "Geopop",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.geopop.it/riscatto-laurea-2026-quanto-costa-come-funziona-quando-conviene/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T05:00+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "07:53",
+   "uscita": "mattino"
+  },
+  {
    "id": "z2515b308",
    "sez": "prima",
    "titolo": "Trump firma un ordine per impedire modifiche future all'Ufficio Ovale",
@@ -308,7 +1126,7 @@ window.EDIZIONI["2026-11-06"] = {
   },
   {
    "id": "ze2eeda13",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Bloccata l'importazione di merci sudcoreane alla dogana nordcoreana di Hyesan",
    "orig": "South Korean goods shut out of Hyesan customs trade",
    "lead": "Nel mese di novembre 2026 la dogana nordcoreana di Hyesan ha registrato un forte afflusso di merci cinesi, bloccando invece l'ingresso dei prodotti provenienti dalla Corea del Sud. Le severe ispezioni disposte dalle autorità di Pyongyang impediscono l'importazione ufficiale di beni sudcoreani, mettendo in grave difficoltà i commercianti locali che hanno fondato la propria attività su queste merci. I mercanti restano in attesa della riapertura delle rotte di contrabbando per soddisfare la forte domanda interna. Lo riferisce Daily NK.",
@@ -364,9 +1182,7 @@ window.EDIZIONI["2026-11-06"] = {
    ],
    "data": "6 nov",
    "ora": "07:37",
-   "uscita": "mattino",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "mattino"
   },
   {
    "id": "z7960bb40",
@@ -441,7 +1257,7 @@ window.EDIZIONI["2026-11-06"] = {
   },
   {
    "id": "z863d97a0",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "La Corte Suprema della Somalia annulla l'estensione del mandato presidenziale",
    "orig": "Somalia’s Supreme Court overrules presidential term extension",
    "lead": "La Corte Suprema della Somalia ha annullato le modifiche costituzionali promosse dal presidente Hassan Sheikh Mohamud, bocciando l'estensione di un anno del suo mandato presidenziale e ordinando lo svolgimento di nuove elezioni entro novanta giorni. I giudici dell'alta corte hanno inoltre respinto come incostituzionale il decreto presidenziale con cui Mohamud aveva rimosso il presidente della Corte Suprema Baashe Yusuf Ahmed. La decisione del tribunale giunge in un clima di forte tensione politica a Mogadiscio, con accuse al presidente di ingerenza nel potere giudiziario e arresto dei vertici della magistratura.",
@@ -506,9 +1322,7 @@ window.EDIZIONI["2026-11-06"] = {
    ],
    "data": "6 nov",
    "ora": "07:37",
-   "uscita": "mattino",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "mattino"
   },
   {
    "id": "za4842b01",
@@ -923,13 +1737,38 @@ window.EDIZIONI["2026-11-06"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-05T15:32+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/trump-blames-democrats-midterm-victories-for-stock-market-plunge/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-06T06:36+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261106-midterms-les-d%C3%A9mocrates-engrangent-les-si%C3%A8ges-donald-trump-fustige-des-%C3%A9lections-truqu%C3%A9es",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-06T06:04+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/11/06/midterms-2026-les-democrates-s-interrogent-sur-leur-strategie-et-leur-direction-dans-le-prochain-congres_6807648_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-06T05:30+01:00"
     }
    ],
    "data": "6 nov",
    "ora": "07:37",
-   "uscita": "mattino",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "mattino"
   },
   {
    "id": "za59396d3",
@@ -1893,6 +2732,15 @@ window.EDIZIONI["2026-11-06"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-06T00:00+00:00"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/11/06/markets/blue-tsunami-wipes-nasdaq/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-06T13:00+09:00"
     }
    ],
    "data": "6 nov",
@@ -2412,6 +3260,24 @@ window.EDIZIONI["2026-11-06"] = {
      "angolo": "",
      "atlas": "Madagascar",
      "t": "2026-11-06T05:45+03:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-05T17:51+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/economie/social/manifestations-du-5-novembre-on-voit-que-ce-nest-pas-fini-20261105_OZT5RGYRKVGDHFP24UPDPVIISY/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-05T20:30+00:00"
     }
    ],
    "data": "6 nov",
@@ -2546,7 +3412,7 @@ window.EDIZIONI["2026-11-06"] = {
   },
   {
    "id": "z5f37cf80",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Hegseth difende il conflitto con l'Iran e respinge l'impeachment chiesto dai Democratici",
    "orig": "Hegseth defends record as Pentagon chief, slams 'sham' push for his impeachment",
    "lead": "Il segretario alla Difesa degli Stati Uniti, Pete Hegseth, ha diffuso un videomessaggio per contestare l'iniziativa dei deputati democratici che intendono sottoporlo a una procedura di impeachment. Hegseth ha definito «falsa» la manovra politica e ha ribadito di non voler arretrare, descrivendo la guerra contro l'Iran come un'azione coraggiosa e storica, malgrado gli elettori abbiano sanzionato il Partito Repubblicano nelle elezioni di metà mandato proprio a causa del conflitto.",
@@ -2571,11 +3437,30 @@ window.EDIZIONI["2026-11-06"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-11-05T21:31+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/usatrump-da-hegseth-lavoro-fantastico-402e5487-a2cf-413d-ad8d-621a80c8c1b4.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T06:03+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/video/2026/11/06/trump-non-licenziero-hegseth-ha-fatto-un-buon-lavoro-1137810",
+     "angolo": "",
+     "atlas": "Italy"
     }
    ],
    "data": "6 nov",
    "ora": "07:37",
-   "uscita": "mattino"
+   "uscita": "mattino",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zf7926070",
@@ -2753,7 +3638,7 @@ window.EDIZIONI["2026-11-06"] = {
   },
   {
    "id": "z94a56115",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Paraguay: il presidente Santiago Peña annuncia le dimissioni mentre si apre il processo di destituzione",
    "orig": "Paraguay : le président Santiago Peña au bord de la destitution sur fond de scandale bancaire",
    "lead": "Travolto da uno scandalo bancario che ha scosso il Paese, il presidente del Paraguay Santiago Peña ha annunciato giovedì la propria intenzione di dimettersi, pur restando formalmente alla guida dello Stato poiché il Parlamento non ha approvato l'accettazione della rinuncia. Di fronte alle contestazioni di cattivo esercizio delle funzioni e conflitto d'interessi, la Camera dei deputati ha avviato la procedura per il processo di destituzione nei confronti del capo di Stato.",
@@ -2791,7 +3676,9 @@ window.EDIZIONI["2026-11-06"] = {
    ],
    "data": "6 nov",
    "ora": "07:37",
-   "uscita": "mattino"
+   "uscita": "mattino",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "ze7a2159e",
@@ -3204,7 +4091,36 @@ window.EDIZIONI["2026-11-06"] = {
   "z7025be4a": "Le fonti riportano due distinti casi di rifiuto a inviti istituzionali in contesti politici e ambientali in India e Ghana.",
   "z8814a9f0": "L'Antigua Observer si concentra sui risultati individuali, mentre il Tehran Times celebra il successo della propria nazionale femminile.",
   "zd1827c5e": "Entrambe le fonti sottolineano la crescente preoccupazione delle autorità nazionali per la gestione delle emergenze idrogeologiche imminenti.",
-  "zbde561ee": "Le testate forniscono aggiornamenti di pubblica utilità sulle condizioni meteorologiche avverse previste nelle rispettive aree geografiche."
+  "zbde561ee": "Le testate forniscono aggiornamenti di pubblica utilità sulle condizioni meteorologiche avverse previste nelle rispettive aree geografiche.",
+  "z2c6416ec": "La testata sottolinea che si tratta del primo processo per sicurezza nazionale a Macao.",
+  "zf2393d5b": "La testata evidenzia la lettura ottimistica dei paesi del Golfo dopo il voto americano.",
+  "z2114af89": "La testata collega la ripresa delle indagini giudiziarie all'esito elettorale.",
+  "z1d4e22c4": "Le testate evidenziano il contrasto tra la scarsa consapevolezza pubblica e le critiche alle politiche climatiche turche.",
+  "z4cf14642": "La testata riporta il risultato della squadra sammarinese e la prossima tappa in calendario.",
+  "z76c26e65": "La testata riporta la preoccupazione del partito e la richiesta di intervento alla giustizia.",
+  "z7587f503": "La testata riporta l'interesse della delegazione congolese per il modello tanzaniano.",
+  "z64bcee99": "La testata riporta i dettagli dell'accusa e la data dell'udienza.",
+  "z85c4060f": "La testata riporta la reazione dei mercati e le accuse di Trump ai democratici.",
+  "z47f81b79": "La rivista evidenzia sia i progressi conoscitivi sia i ritardi nelle politiche climatiche.",
+  "z8a72aaf8": "La testata riporta i dettagli tecnici dell'agevolazione decisa da Arera.",
+  "zf276eb76": "La testata descrive il calo come eccezionale per intensità.",
+  "zf308d2ef": "The Lancet evidenzia l'ambizione cinese di assumere un ruolo guida nella sanità globale.",
+  "zd4fec10e": "Libya Herald riferisce l'incontro tra GECOL e GIZ sulla transizione energetica libica.",
+  "zcd3e0583": "The Japan Times segnala l'avanzamento della riforma fiscale voluta da Takaichi.",
+  "z15408e06": "Times of India nota la sconfitta della tassa sui miliardari ma segnala nuovi tentativi futuri.",
+  "zcff582b6": "Dawn evidenzia il record delle riserve pakistane nonostante la crisi del Golfo.",
+  "z026ad171": "Libération analizza i cambiamenti nel programma presidenziale di Mélenchon.",
+  "z3502e944": "Süddeutsche Zeitung segnala la sorprendente competitività della corsa al Senato in Mississippi.",
+  "z27f6bab4": "El Universo segue il coordinamento degli aiuti alle zone alluvionate dell'Ecuador.",
+  "z8a838980": "Taipei Times valuta le implicazioni per Pechino del nuovo Congresso a guida democratica.",
+  "ze3475e8d": "RTHK riporta il sostegno della garante della privacy alle nuove restrizioni sui registri immobiliari.",
+  "z430efb98": "RNZ segnala i danni causati dai fulmini durante la tempesta su Auckland.",
+  "za999bf1e": "Radio Tamazuj riporta lo scontro diplomatico all'ONU sull'inclusione di Abyei nel voto.",
+  "z65bc537c": "SVT Nyheter e Dagens Nyheter segnalano il record previsto per gli acquisti natalizi in Svezia.",
+  "zec1cfabd": "ANSA riporta i risultati delle squadre italiane in Europa League e Conference League.",
+  "z2dc8c66b": "la Repubblica raccoglie l'analisi di Fukuyama sulla debolezza di Trump dopo le midterm.",
+  "z791c964d": "la Repubblica elenca gli episodi che avrebbero indebolito la presidenza Trump.",
+  "z0d78271f": "Il Messaggero spiega la procedura di decollo rapido dei caccia italiani in caso di allarme."
  },
  "contesti": {
   "z13259914": "Negli ultimi giorni la sconfitta elettorale dei Repubblicani alle Midterm ha innescato forti critiche interne contro l'amministrazione Trump. Diversi quotidiani internazionali hanno riportato indiscrezioni su un imminente rimpasto di governo e sullo scontro tra i leader conservatori in vista delle prossime elezioni presidenziali del 2028.",
@@ -3222,7 +4138,10 @@ window.EDIZIONI["2026-11-06"] = {
   "zcd1cb29c": "Nonostante i precedenti proclami sulla fine rapida del conflitto rimasti inattuati, l'amministrazione Trump ha intensificato la pressione diplomatica tra Russia e Ucraina. La diplomazia parallela della first lady ha portato a una tregua localizzata a Oleshky. Questi sforzi mirano a un accordo di vasta scala che ridefinisca gli equilibri di sicurezza, cercando una via d'uscita negoziale che possa coinvolgere l'intera comunità internazionale e porre fine alle ostilità permanenti in Europa.",
   "zc2a6168b": "Le elezioni di metà mandato hanno visto una significativa avanzata democratica a livello nazionale, definita dagli osservatori 'ondata blu'. Tuttavia, la strategia repubblicana di ridisegno dei distretti elettorali ha trovato una roccaforte in Texas. Attraverso una mappatura mirata dei collegi, il Grand Old Party è riuscito a mantenere un seggio chiave nonostante il trend generale sfavorevole, scatenando dibattiti sull'efficacia del gerrymandering e diventando oggetto di satira nei principali programmi televisivi statunitensi.",
   "z118417e8": "La North Carolina è diventata un terreno di scontro cruciale dopo che la mappatura elettorale del 2023 aveva tentato di blindare i seggi per i conservatori. Il clima politico è mutato drasticamente a causa delle recenti alluvioni che hanno colpito lo Stato. La gestione dell'emergenza ha influenzato profondamente l'opinione pubblica, spingendo molti elettori verso i candidati democratici, che sono riusciti a ribaltare collegi storicamente repubblicani nonostante le barriere create dalla nuova suddivisione territoriale.",
-  "z0831d087": "L'economia globale osserva con apprensione l'avvicinarsi delle elezioni americane, temendo instabilità nelle politiche tecnologiche. Il settore dell'intelligenza artificiale, motore della recente crescita borsistica, è entrato in una fase di forte volatilità. Il ribasso di Wall Street ha agito da catalizzatore per la Borsa di Tokyo, dove gli investitori hanno reagito alle incertezze politiche statunitensi, portando l'indice Nikkei a subire una delle peggiori flessioni percentuali degli ultimi tempi."
+  "z0831d087": "L'economia globale osserva con apprensione l'avvicinarsi delle elezioni americane, temendo instabilità nelle politiche tecnologiche. Il settore dell'intelligenza artificiale, motore della recente crescita borsistica, è entrato in una fase di forte volatilità. Il ribasso di Wall Street ha agito da catalizzatore per la Borsa di Tokyo, dove gli investitori hanno reagito alle incertezze politiche statunitensi, portando l'indice Nikkei a subire una delle peggiori flessioni percentuali degli ultimi tempi.",
+  "zec1cfabd": "Le squadre italiane affrontano la fase a campionato delle coppe europee 2025-26. La Juventus, dopo un avvio altalenante in Europa League, cercava continuità di risultati per risalire la classifica. Il Milan, tornato in Europa dopo anni di assenza dalle coppe minori, aveva già incassato due sconfitte nelle precedenti giornate di Europa League, mentre l'Atalanta proseguiva il suo percorso in Conference League tra alti e bassi.",
+  "z5f37cf80": "Dopo gli attacchi statunitensi contro siti nucleari iraniani decisi dall'amministrazione Trump, Hegseth è finito sotto accusa per la gestione dell'operazione militare. Le elezioni di metà mandato hanno visto una pesante sconfitta repubblicana, interpretata da molti osservatori come una sanzione popolare al conflitto con l'Iran. I deputati democratici hanno quindi avviato un'iniziativa per aprire un procedimento di impeachment nei confronti del segretario alla Difesa.",
+  "z94a56115": "Negli ultimi mesi il Paraguay è stato scosso da un grave scandalo bancario che ha coinvolto direttamente la presidenza di Santiago Peña, con accuse di cattivo esercizio delle funzioni e conflitto d'interessi legate a istituti finanziari. Le proteste popolari e le pressioni politiche si sono intensificate, spingendo l'opposizione parlamentare a raccogliere i voti necessari per avviare formalmente la procedura di destituzione del capo di Stato."
  },
  "cronologie": {
   "z13259914": [
@@ -3448,6 +4367,48 @@ window.EDIZIONI["2026-11-06"] = {
     "6 novembre",
     "Chiusura della Borsa di Tokyo con perdite oltre il 5%"
    ]
+  ],
+  "zec1cfabd": [
+   [
+    "Settembre 2025",
+    "Via alla nuova fase campionato delle coppe europee"
+   ],
+   [
+    "Ottobre 2025",
+    "Milan sconfitto in due delle prime tre gare europee"
+   ],
+   [
+    "Ottobre 2025",
+    "Juventus in rimonta dopo un avvio difficile in Europa League"
+   ]
+  ],
+  "z5f37cf80": [
+   [
+    "Giugno 2025",
+    "Attacchi USA contro siti nucleari iraniani ordinati da Trump"
+   ],
+   [
+    "Novembre 2025",
+    "Sconfitta repubblicana alle elezioni di metà mandato"
+   ],
+   [
+    "Novembre 2025",
+    "Deputati democratici lanciano l'iniziativa di impeachment contro Hegseth"
+   ]
+  ],
+  "z94a56115": [
+   [
+    "Settembre-Ottobre 2025",
+    "Emerge lo scandalo bancario legato alla presidenza"
+   ],
+   [
+    "Ottobre 2025",
+    "Crescono le proteste e le richieste di dimissioni"
+   ],
+   [
+    "6 novembre 2025",
+    "Peña annuncia l'intenzione di dimettersi, Camera avvia il processo di destituzione"
+   ]
   ]
  },
  "confronti": {
@@ -3549,6 +4510,119 @@ window.EDIZIONI["2026-11-06"] = {
     }
    ],
    "divergono": "Le testate offrono cornici narrative contrastanti. HotNews e Der Spiegel collegano le voci di dimissioni ai risultati elettorali negativi e alla «guerra con l'Iran», citando Vance come voce critica verso Trump. Al contrario, la Repubblica interpreta le smentite come una strategia per «smarcarsi» dal Presidente in vista del 2028. El Universo diverge totalmente dalle altre: ignora i conflitti interni all'amministrazione e la questione delle dimissioni, focalizzandosi solo sulla politica estera verso il Venezuela e indicando il 2027 come data per le elezioni. HotNews riporta inoltre il sostegno pubblico di Trump a Hegseth, mentre Der Spiegel mette in rilievo la distanza presa dal vice-presidente Vance."
+  },
+  "z7960bb40": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Riporta l'incontro a Mosca tra Putin e Rezaei, con lettera di Khamenei, e le \"sette condizioni\" iraniane prima di negoziare con gli USA. Cita Press TV e TASS, e menziona l'acquisto di jet Su-35 russi e un gasdotto in progetto.",
+     "b": "a"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "c": "Kyiv",
+     "p": "XX",
+     "t": "Si concentra su Trump che incontra l'inviato russo Dmitriev e promette un \"grande e bellissimo accordo\" su Ucraina ed Europa. Elenca eventi correlati (talks di Bruxelles, attacco drone a raffineria russa, dichiarazioni di Zelensky) in formato quasi di bollettino.",
+     "b": "a"
+    },
+    {
+     "n": "Cyprus Mail",
+     "c": "Nicosia",
+     "p": "XX",
+     "t": "Descrive l'incontro Trump-Dmitriev alla Casa Bianca durante l'evento di Melania Trump su Oleshky, con dettagli su regali simbolici scambiati tra delegazioni russa e ucraina. Cita Kushner su cinque obiettivi di sicurezza europea discussi a Bruxelles e un possibile summit Trump-Putin-Xi.",
+     "b": "a"
+    },
+    {
+     "n": "Iraqi News",
+     "c": "Baghdad",
+     "p": "XX",
+     "t": "Riferisce l'incontro a Baghdad tra l'inviato USA Tom Barrack e il premier iracheno al-Zaidi, incentrato su cooperazione economica e stabilità regionale dopo il ritiro della coalizione. Cita dichiarazioni di Barrack sulla costruzione della stabilità.",
+     "b": "a"
+    },
+    {
+     "n": "Kurdistan24",
+     "c": "Baghdad",
+     "p": "XX",
+     "t": "Racconta lo stesso incontro Barrack-al-Zaidi aggiungendo la telefonata preliminare con Trump, in cui al-Zaidi ribadisce la sovranità irachena e l'impegno a non far usare il territorio per attacchi a paesi vicini. Si basa su comunicati dell'ufficio del primo ministro.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate raccontano episodi diplomatici diversi collegati alla stessa cornice generale: Al Jazeera si concentra sull'asse Russia-Iran e le condizioni di Teheran, mentre Kyiv Independent e Cyprus Mail si focalizzano sull'incontro Trump-Dmitriev e sul negoziato Ucraina-Russia-USA. Cyprus Mail aggiunge dettagli simbolici (i regali) assenti in Kyiv Independent. Iraqi News e Kurdistan24 raccontano invece un terzo filone, l'incontro Barrack-al-Zaidi in Iraq, con Kurdistan24 che include la telefonata con Trump assente in Iraqi News."
+  },
+  "za4842b01": {
+   "voci": [
+    {
+     "n": "NPR",
+     "c": "Washington",
+     "p": "US",
+     "t": "Racconta in dettaglio la sequenza temporale: approvazione della commissione (8-4) seguita a poche ore dal blocco del giudice Chutkan, con ampio spazio alle testimonianze di veterani contrari. Cita critiche di Rep. Beyer e Huffman e definisce l'arco un possibile \"monumento al proprio ego\".",
+     "b": "a"
+    },
+    {
+     "n": "The Hindu",
+     "c": "Chennai",
+     "p": "XX",
+     "t": "Pubblicato con data 6 novembre, descrive l'approvazione della commissione come avvenuta prima del probabile blocco giudiziario, con enfasi su dettagli architettonici (statua della Libertà alata, piattaforma panoramica). Riporta ampie dichiarazioni del presidente della commissione Paoletta e di oppositori come Huffman e familiari di caduti sepolti ad Arlington.",
+     "b": "a"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "Riferisce sia il voto 8-4 della commissione sia il blocco di Chutkan per due settimane, inserendo il progetto in una lista di altre iniziative contestate di Trump a Washington (ballroom, Reflecting Pool, golf club). Cita Huffman sui rischi legali per i contraenti, articolo firmato AFP.",
+     "b": "a"
+    },
+    {
+     "n": "Gulf News",
+     "c": "Dubai",
+     "p": "XX",
+     "t": "Testo quasi identico a The Straits Times, con stessa struttura e stesse citazioni (Huffman, giudice Chutkan, confronto con altri progetti di Trump). Elenca in coda altri titoli correlati su Trump e la Casa Bianca.",
+     "b": "a"
+    }
+   ],
+   "divergono": "NPR descrive il blocco del giudice Chutkan come avvenuto \"appena due ore\" dopo il voto della commissione, nella notte, con un'ordinanza di 33 pagine, mentre The Hindu presenta il blocco come ancora atteso (\"a judge is expected to rule soon\"), segno di una pubblicazione basata su informazioni meno aggiornate. The Straits Times e Gulf News, con testo quasi identico firmato AFP, riportano entrambi i fatti già avvenuti (voto e blocco) senza la ricostruzione oraria minuziosa di NPR. The Hindu è la sola a riportare dettagli progettuali specifici come la statua della Libertà alata e il podio osservativo, assenti nelle altre fonti."
+  },
+  "zc2a6168b": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Spiega perché il repubblicano Jace Yarbrough ha vinto nel 32° distretto texano nonostante l'ondata democratica, citando il ridisegno dei confini elettorali e il voto che si è spostato sui temi economici. Riporta cifre precise (51,5% contro 48,5%) e cita analisti universitari e il caso di altri distretti persi dai repubblicani per il voto latino.",
+     "b": "a"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Si concentra sulle reazioni satiriche dei conduttori televisivi americani (Meyers, Kimmel, Kosta) alla 'blue tsunami' e alle reazioni di Trump, che attribuisce la sconfitta ad altri (Abbott, Fox News) negando responsabilità proprie. Riporta citazioni dirette ironiche più che dati elettorali.",
+     "b": "a"
+    },
+    {
+     "n": "The Punch",
+     "c": "Lagos",
+     "p": "XX",
+     "t": "L'articolo non è leggibile: il testo riportato è solo materiale promozionale del sito, senza contenuto informativo sulla notizia. Il titolo indica che Trump avrebbe collegato le vittorie democratiche a un calo di borsa, ma il giudizio resta parziale per mancanza di testo.",
+     "b": "a"
+    },
+    {
+     "n": "France 24",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Articolo non leggibile per paywall: si hanno solo titolo e occhiello, che parlano di una vittoria democratica con almeno 250 seggi alla Camera e 54 al Senato, e di accuse di Trump su elezioni 'truccate' senza prove. Giudizio parziale.",
+     "b": "t"
+    },
+    {
+     "n": "Le Monde",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Ritrae i leader democratici Jeffries e Schumer come protagonisti chiamati a gestire la vittoria, descritti con toni personali ('gérontocratie', 'chef d'orchestre sans musique'). Riporta cifre (253 seggi alla Camera, 54 al Senato) e sottolinea le incertezze interne al partito, ma il testo è in gran parte riservato agli abbonati.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Al Jazeera si concentra su un caso specifico e controcorrente, la vittoria repubblicana in un distretto texano, con dati elettorali precisi e analisi sui flussi di voto latino; nessun'altra testata tratta questo aspetto. The Guardian enfatizza le reazioni satiriche e le accuse reciproche tra Trump e i commentatori televisivi, un angolo assente altrove. Le Monde si sofferma sulle tensioni interne al partito democratico e sui suoi leader, aspetto non trattato dagli altri. France 24 e The Punch restano parziali per mancanza di testo completo, impedendo un confronto pieno."
   }
  },
  "luoghi": {
@@ -4152,6 +5226,209 @@ window.EDIZIONI["2026-11-06"] = {
     "Malaysia"
    ],
    "pt": []
+  },
+  "z2c6416ec": {
+   "n": "Macao",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zf2393d5b": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2114af89": {
+   "n": "Serbia",
+   "p": [
+    "Serbia"
+   ],
+   "pt": []
+  },
+  "z1d4e22c4": {
+   "n": "Turchia",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z4cf14642": {
+   "n": "Biella",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z76c26e65": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z7587f503": {
+   "n": "Dodoma",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z64bcee99": {
+   "n": "Canada",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "z85c4060f": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z47f81b79": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z8a72aaf8": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf276eb76": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zf308d2ef": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "zd4fec10e": {
+   "n": "Tripoli",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "zcd3e0583": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z15408e06": {
+   "n": "Sacramento",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zcff582b6": {
+   "n": "Karachi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z026ad171": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3502e944": {
+   "n": "Jackson",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z27f6bab4": {
+   "n": "Galápagos",
+   "p": [
+    "Ecuador"
+   ],
+   "pt": []
+  },
+  "z8a838980": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze3475e8d": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z430efb98": {
+   "n": "Auckland",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "za999bf1e": {
+   "n": "Abyei",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z65bc537c": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "zec1cfabd": {
+   "n": "Torino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2dc8c66b": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z791c964d": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z0d78271f": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -4218,11 +5495,11 @@ window.EDIZIONI["2026-11-06"] = {
   "z7d63ed58": 1,
   "zbb3f02c1": 1,
   "zb53243d2": 1,
-  "z34e98403": 1,
+  "z34e98403": 2,
   "z485a4f3f": 2,
   "zac5e0445": 2,
   "z702c2a9d": 1,
-  "z5f37cf80": 1,
+  "z5f37cf80": 2,
   "zf7926070": 1,
   "z07ec3ed0": 1,
   "zf8c3f845": 1,
@@ -4238,7 +5515,36 @@ window.EDIZIONI["2026-11-06"] = {
   "z7025be4a": 1,
   "z8814a9f0": 1,
   "zd1827c5e": 1,
-  "zbde561ee": 1
+  "zbde561ee": 1,
+  "z2c6416ec": 1,
+  "zf2393d5b": 1,
+  "z2114af89": 1,
+  "z1d4e22c4": 1,
+  "z4cf14642": 1,
+  "z76c26e65": 1,
+  "z7587f503": 1,
+  "z64bcee99": 1,
+  "z85c4060f": 2,
+  "z47f81b79": 1,
+  "z8a72aaf8": 1,
+  "zf276eb76": 2,
+  "zf308d2ef": 1,
+  "zd4fec10e": 1,
+  "zcd3e0583": 1,
+  "z15408e06": 1,
+  "zcff582b6": 1,
+  "z026ad171": 1,
+  "z3502e944": 2,
+  "z27f6bab4": 1,
+  "z8a838980": 1,
+  "ze3475e8d": 2,
+  "z430efb98": 2,
+  "za999bf1e": 2,
+  "z65bc537c": 2,
+  "zec1cfabd": 2,
+  "z2dc8c66b": 1,
+  "z791c964d": 1,
+  "z0d78271f": 1
  },
  "video": {},
  "pillole": []
