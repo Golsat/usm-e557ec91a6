@@ -1222,7 +1222,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   },
   {
    "id": "zbe209d1e",
-   "sez": "ambiente",
+   "sez": "economia",
    "titolo": "Un'azienda del Vermont lancia un progetto geotermico per ridurre le bollette energetiche",
    "orig": "Geothermal Utilities Power Wave of US Affordable Housing with 40% Energy Savings",
    "lead": "Vermont Gas, azienda statunitense del gas naturale, ha avviato quello che definisce il primo progetto geotermico comunitario del paese, puntando a far risparmiare fino al 40% sui costi energetici ai clienti coinvolti. Secondo l'amministratore delegato dell'azienda, la tecnologia rappresenta una delle soluzioni più efficaci per abbattere i costi dell'energia, un obiettivo condiviso da molti proprietari di case negli Stati Uniti. Lo riferisce Good News Network.",
@@ -1559,48 +1559,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "Slovakia",
      "t": "2026-11-06T13:18+01:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z1d10bdb2",
-   "sez": "dibattito",
-   "titolo": "In Francia lavoratori e studenti scendono in piazza nella giornata di proteste più grande dell'anno",
-   "orig": "Biggest day of protests in France this year as workers join school pupils on the streets",
-   "lead": "In Francia si è svolta giovedì la più grande giornata di proteste dell'anno, con lavoratori e studenti delle scuole superiori uniti nelle manifestazioni. Secondo la BBC, più di un liceo su quattro è stato toccato dalle proteste. I manifestanti chiedono salari più alti e un aumento del salario minimo, secondo quanto riportato da Breaking Belize News. Le manifestazioni sono state segnate anche da episodi di violenza, con 448 persone arrestate e 53 agenti di polizia coinvolti in incidenti.",
-   "more": [
-    "In Francia le proteste su salari e condizioni di lavoro sono frequenti e spesso coinvolgono sindacati, studenti e lavoratori del settore pubblico. Le mobilitazioni nelle scuole superiori (lycées) si aggiungono spesso a scioperi generali per amplificare la pressione sul governo riguardo a politiche economiche e sociali."
-   ],
-   "fonti": [
-    {
-     "n": "BBC Newsround",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/newsround/articles/cwdr883nmjg7o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-06T09:08+00:00"
-    },
-    {
-     "n": "Taipei Times",
-     "p": "XX",
-     "c": "Taipei",
-     "u": "https://www.taipeitimes.com/News/front/archives/2026/11/06/2003867249",
-     "angolo": "",
-     "atlas": "Taiwan",
-     "t": "2026-11-06T08:00+08:00"
-    },
-    {
-     "n": "Breaking Belize News",
-     "p": "XX",
-     "c": "Belmopan",
-     "u": "https://www.breakingbelizenews.com/2026/11/06/international-news-violent-protests-across-france-leave-448-people-arrested/",
-     "angolo": "",
-     "atlas": "Belize",
-     "t": "2026-11-06T14:37+00:00"
     }
    ],
    "data": "6 nov",
@@ -4815,7 +4773,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z69502e50": "Daily News sottolinea l'impegno del governo tanzaniano per ridurre il peso della raccolta di legna sulle donne.",
   "z89069e7f": "Daily News evidenzia la crescita degli scambi commerciali ed educativi tra Jinhua e l'Africa.",
   "zc4227de6": "IPN segnala il ritorno in funzione del reattore dopo un lungo periodo di fermo.",
-  "z1d10bdb2": "Le testate concordano sull'ampiezza della mobilitazione, con BBC che si concentra sulle scuole e Breaking Belize News sugli arresti.",
   "zcde9b9e8": "La Presse de Tunisie riporta l'incontro come occasione per fare il punto sui progetti finanziari in corso.",
   "z0dc7a82b": "Citizen Digital riprende le accuse contenute nel rapporto statunitense sul Kenya.",
   "z07a01573": "Le testate caraibiche sottolineano i nuovi impegni finanziari annunciati alla chiusura del vertice.",
@@ -5962,13 +5919,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "pt": []
   },
-  "z1d10bdb2": {
-   "n": "Francia",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "zcde9b9e8": {
    "n": "Tunisi",
    "p": [
@@ -6218,7 +6168,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z69502e50": 1,
   "z89069e7f": 1,
   "zc4227de6": 1,
-  "z1d10bdb2": 2,
   "zcde9b9e8": 1,
   "z0dc7a82b": 1,
   "z07a01573": 2,
