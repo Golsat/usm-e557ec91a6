@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"za1b5cfd5":[["2026-10-15-sera","z11a11f1b","15 ott","Sinner avrebbe informato Cahill del suo infortunio solo all'ultimo minuto"]]});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z5be51e50":[["2026-11-05-sera","z12a6086c","5 nov","Pierpaolo Piccioli lascia la direzione creativa della maison Balenciaga"]],"za1b5cfd5":[["2026-10-15-sera","z11a11f1b","15 ott","Sinner avrebbe informato Cahill del suo infortunio solo all'ultimo minuto"]]});
