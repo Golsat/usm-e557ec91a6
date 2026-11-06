@@ -3,8 +3,457 @@ window.EDIZIONI["2026-11-06-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z9e7ad07e",
+   "id": "zc371c767",
+   "sez": "mondo",
+   "titolo": "Aereo si schianta sull'autostrada A2 in Germania, due morti",
+   "orig": "Germany: Small plane crashes onto A2 highway, killing 2",
+   "lead": "Due persone sono morte dopo che un piccolo aereo è precipitato sull'autostrada A2 in Germania, vicino a Magdeburgo. L'incidente ha chiuso le corsie in direzione Hannover, una delle principali arterie di collegamento est-ovest del paese. Secondo le informazioni disponibili non risultano coinvolti veicoli stradali nello schianto. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T16:01+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "zad2314eb",
+   "sez": "ambiente",
+   "titolo": "Come il cambiamento climatico aggrava ondate di calore, siccità, incendi e inondazioni",
+   "orig": "How climate change worsens heatwaves, droughts, wildfires and floods",
+   "lead": "L'aumento delle temperature globali rende gli eventi meteorologici estremi più frequenti e più intensi, secondo un'analisi della BBC. Il riscaldamento globale amplifica ondate di calore, periodi di siccità, incendi boschivi e inondazioni in diverse parti del mondo. In Uganda, un altro studio citato dal Nile Post segnala che le inondazioni e la siccità stanno danneggiando l'accesso alle cure sanitarie per i bambini nel distretto di Katakwi, a causa di strade danneggiate, carenza di medicinali e insicurezza alimentare nelle famiglie.",
+   "more": [
+    "Gli scienziati del clima concordano che l'aumento delle temperature medie globali, causato principalmente dalle emissioni di gas serra, intensifica la frequenza e l'intensità di eventi estremi come ondate di calore, siccità e precipitazioni intense, con conseguenze dirette su agricoltura, salute pubblica e infrastrutture, soprattutto nei paesi più vulnerabili."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T16:43+00:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/385147/floods-droughts-disrupt-child-healthcare-in-katakwi-study-finds",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-11-06T18:21+03:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbd2dfbe6",
+   "sez": "mondo",
+   "titolo": "Per 12 giorni cerca il proprietario di una somma di denaro trovata per strada in Brasile",
+   "orig": "Man Spends 12 Days Returning Lost Cash a Laborer Needed for His Daughter",
+   "lead": "Un uomo nel sud del Brasile ha trascorso dodici giorni a cercare il proprietario di una somma di denaro trovata a terra in una piazza pubblica, senza che nessuno la reclamasse. Pedro Moro non sapeva, nel momento del ritrovamento, che quella somma corrispondeva all'intero stipendio mensile di un giovane operaio edile, appena prelevato dalla banca e destinato a sua figlia. Moro ha infine individuato e restituito il denaro al legittimo proprietario. Lo riferisce Good News Network.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/man-spends-12-days-returning-lost-cash-a-laborer-needed-for-his-daughter/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T16:30+00:00"
+    },
+    {
+     "n": "The Slovak Spectator",
+     "p": "XX",
+     "c": "Bratislava",
+     "u": "https://spectator.sme.sk/culture-and-lifestyle/c/the-family-in-northern-slovakia-that-spends-its-days-caring-for-wild-animals?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss",
+     "angolo": "",
+     "atlas": "Slovakia",
+     "t": "2026-11-06T08:00+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "good": true,
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "zad9c1323",
+   "sez": "sport",
+   "titolo": "Il torneo inter-hotel riunisce i lavoratori del turismo nelle Fiji",
+   "orig": "Inter-Hotel Tournament Brings Tourism Workers Together",
+   "lead": "Il torneo Inter-Hotel delle Fiji ha attirato quest'anno 29 strutture e 59 squadre, con gare di rugby a sette, pallavolo e netball. L'evento riunisce i lavoratori del settore turistico dell'arcipelago e, oltre alla componente sportiva, ha ampliato il proprio raggio d'azione: i fondi raccolti quest'anno saranno destinati alla Christian Leukemia Foundation per sostenere persone affette da leucemia. Lo riferisce FBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/sports/inter-hotel-tournament-brings-tourism-workers-together/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-11-06T04:00+00:00"
+    },
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/art/carsten-holler-people-together-four-giant-slides-mexico-city-arte-abierto-polanco-soma-sordo-madaleno-antara/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-06T16:30+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "z55acfa0a",
+   "sez": "italia",
+   "titolo": "Giorgia Meloni a cavallo alla fiera di Verona",
+   "orig": "Giorgia Meloni in sella ad un cavallo bianco alla fiera di Verona",
+   "lead": "La premier Giorgia Meloni ha fatto visita a Fieracavalli, lo storico evento equestre veneto, in occasione della 128esima edizione della manifestazione a Veronafiere. Dopo l'inaugurazione, Meloni si è concessa un breve giro a cavallo all'interno del circuito allestito per la fiera, su un cavallo bianco, e si è fermata per alcuni selfie con i presenti. La visita, non annunciata in precedenza, ha segnato l'apertura ufficiale dell'edizione di quest'anno dell'evento.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/videogallery/short_video/2026/11/06/giorgia-meloni-in-sella-ad-un-cavallo-bianco-alla-fiera-di-verona_ff2d38e9-c47e-4f21-88a4-30744026578c.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T17:41+01:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/politica/video/2026/11/06/verona-giorgia-meloni-cavallo-1138024",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T19:03+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "z36f4e588",
+   "sez": "tech",
+   "titolo": "I drone terrestri ucraini completano oltre 30mila missioni in un mese record",
+   "orig": "Ukraine's ground drones complete over 30,000 missions in record month for robot warfare",
+   "lead": "I drone terrestri ucraini hanno completato più di 30.000 missioni nel mese di ottobre, un numero record per la guerra robotica combattuta sul fronte ucraino. Il dato, che comprende anche missioni logistiche e di evacuazione, è oltre quattro volte superiore alle 7.511 missioni registrate a gennaio 2026. L'incremento segnala un uso sempre più intenso di sistemi senza pilota da parte delle forze armate ucraine nelle operazioni di guerra contro la Russia. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "I drone terrestri senza pilota vengono impiegati dall'esercito ucraino per ridurre il rischio per i soldati in compiti come trasporto di materiali, evacuazione di feriti e attacchi diretti, in un conflitto che ha visto una rapida evoluzione tecnologica sui sistemi robotici da entrambe le parti del fronte."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/ukraines-ground-drones-complete-over-30-000-missions-in-record-month-for-robot-warfare/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-06T17:32+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0b04e20d",
+   "sez": "tech",
+   "titolo": "Se tutto è connesso, tutto può essere hackerato",
+   "orig": "Se tutto è connesso, tutto può essere hackerato",
+   "lead": "Un numero crescente di dispositivi di ogni tipo viene collegato a Internet, ma non sempre chi li usa pensa ad aggiornarne i sistemi di sicurezza, e in certi casi anche gli aggiornamenti non bastano a proteggerli. Il fenomeno riguarda oggetti di uso quotidiano che, una volta connessi in rete, diventano potenziali punti di accesso per attacchi informatici. L'articolo analizza come questa diffusione di dispositivi \"intelligenti\" renda più ampia la superficie esposta a possibili violazioni della sicurezza digitale. Lo riferisce Il Post.",
+   "more": [
+    "L'Internet delle cose (IoT) comprende elettrodomestici, telecamere, auto e altri oggetti collegati alla rete: la loro diffusione ha reso più difficile garantire aggiornamenti costanti di sicurezza, lasciando spesso vulnerabilità sfruttabili da hacker per accedere a dati personali o infrastrutture connesse."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/06/tutto-connesso-tutto-hackerato/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-06T17:01+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb12e89db",
+   "sez": "mondo",
+   "titolo": "Uzbekistan e Giordania discutono di rafforzare scambi commerciali e investimenti",
+   "orig": "Uzbekistan, Jordan discuss expanding trade and investment ties",
+   "lead": "Il presidente dell'Uzbekistan Shavkat Mirziyoyev ha incontrato il re di Giordania Abdullah II il 6 novembre ad Astana, a margine dell'incontro dell'Aqaba Process. I due leader hanno discusso di come ampliare i legami commerciali e gli investimenti tra i due paesi. L'incontro si è svolto nel quadro di una serie di contatti diplomatici tra la Giordania e i paesi dell'Asia centrale avvenuti nei stessi giorni ad Astana, dove il re giordano ha incontrato anche il presidente del Kazakistan Kassym-Jomart Tokayev. Lo riferisce Kun.uz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/11/06/uzbekistan-jordan-discuss-expanding-trade-and-investment-ties-59607",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-06T19:07+05:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/mundo/haiti/2026/11/06/el-salvador-y-haiti-discutiran-sobre-el-futuro-de-las-tropas-salvadorenas/3713202",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-11-06T13:19+00:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/06/kazakhstan-and-jordan-strengthen-strategic-ties-as-leaders-exchange-top-state-awards/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-06T18:01+00:00"
+    },
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273628/haiti-and-el-salvador-strengthen-ties",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-11-05T21:51+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1b35a5b7",
    "sez": "prima",
+   "titolo": "Nigeria 2027, il candidato vicepresidente YPP pone condizioni per una coalizione dell'opposizione",
+   "orig": "2027: YPP vice-presidential candidate sets conditions for opposition coalition",
+   "lead": "Il candidato alla vicepresidenza del partito YPP ha posto condizioni per un'eventuale coalizione dell'opposizione nigeriana in vista delle elezioni del 2027. Secondo il candidato, sostituire il presidente Bola Tinubu senza affrontare i problemi strutturali di governance del paese rischierebbe di ripetere la delusione seguita al cambio di governo del 2015. La dichiarazione arriva mentre diversi partiti di opposizione discutono la possibilità di presentarsi uniti contro Tinubu alle prossime elezioni presidenziali. Lo riferisce Premium Times.",
+   "more": [
+    "Nel 2015 la Nigeria visse un cambio di governo storico, con la vittoria di Muhammadu Buhari su Goodluck Jonathan, accolta con grandi aspettative di riforma che in parte rimasero deluse. Il riferimento serve oggi come monito per chi propone una nuova coalizione di opposizione contro Bola Tinubu alle elezioni del 2027."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/more-news/923235-2027-ypp-vice-presidential-candidate-sets-conditions-for-opposition-coalition.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-06T17:48+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/stage/2026/nov/05/ms-blakk-for-president-play",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-05T15:07+00:00"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/world/2214065",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-06T21:46+03:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z645c0449",
+   "sez": "economia",
+   "titolo": "Due candidati per la guida della Banca centrale europea dopo le dimissioni di Lagarde",
+   "orig": "Doi candidați pentru șefia Băncii Centrale Europene, după demisia lui Christine Lagarde",
+   "lead": "I paesi dell'area euro hanno indicato venerdì due banchieri centrali veterani come possibili successori di Christine Lagarde alla presidenza della Banca centrale europea, dopo le sue dimissioni. La Spagna ha proposto Pablo Hernández de Cos, direttore della Banca dei regolamenti internazionali, mentre i Paesi Bassi hanno nominato Klaas Knot. Entrambi i candidati sono descritti come esperti in situazioni di crisi. La Germania, secondo Der Spiegel, resta esclusa dalla corsa e si trova in disaccordo con la Francia su altri incarichi di vertice alla BCE. Lo riferisce HotNews, citando Reuters.",
+   "more": [
+    "La Banca centrale europea gestisce la politica monetaria dei 20 paesi dell'area euro. Il mandato di Christine Lagarde, in carica dal 2019, scadrebbe normalmente nel 2027: le sue dimissioni anticipate aprono ora una corsa alla successione tra i governatori delle banche centrali nazionali dei principali paesi dell'eurozona."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/doi-candidati-pentru-sefia-bancii-centrale-europene-dupa-demisia-lui-christine-lagarde-2397216",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-06T18:01+00:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/wirtschaft/ezb-welche-chancen-deutschland-bei-der-nachfolge-von-christine-lagarde-hat-a-ddb505b8-589a-42ba-b36a-41a19ce63a68#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T18:27+01:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3447456/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-06T18:12+01:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcfeb0691",
+   "sez": "sport",
+   "titolo": "Hockey su ghiaccio ucraino: 'Nessuna intenzione di arrendersi' dopo la sentenza che apre al ritorno della Russia",
+   "orig": "Ukraine's ice hockey has 'no intention of giving up' after court ruling clears way for Russia's return",
+   "lead": "Una sentenza di un tribunale ha aperto la strada al possibile ritorno della Russia nelle competizioni internazionali di hockey su ghiaccio, ma l'Ucraina e altre nazioni leader di questo sport si rifiutano di accogliere di nuovo gli atleti russi nella comunità internazionale. La federazione ucraina ha dichiarato di non avere intenzione di arrendersi nella sua opposizione al rientro russo. La vicenda si inserisce nel più ampio dibattito sulla partecipazione di atleti russi alle competizioni sportive internazionali dopo l'invasione dell'Ucraina. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "Dall'inizio dell'invasione russa dell'Ucraina nel 2022, molte federazioni sportive internazionali hanno escluso atleti e squadre russe dalle competizioni. Diverse decisioni giudiziarie e sportive recenti hanno riaperto il dibattito sulla possibilità di un reintegro, incontrando l'opposizione di Ucraina e altri paesi che chiedono il mantenimento delle sanzioni sportive."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/ukraines-ice-hockey-has-no-intention-of-giving-up-after-court-ruling-clears-way-for-russian-teams/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-06T18:08+00:00"
+    },
+    {
+     "n": "South China Morning Post – Sport",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/sport/football/article/3373562/david-silva-hong-kong-ex-manchester-city-star-not-ruling-out-sha-tin-return",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T10:01+00:00"
+    },
+    {
+     "n": "iWitness News",
+     "p": "XX",
+     "c": "Kingstown",
+     "u": "https://www.iwnsvg.com/2026/11/05/11th-hour-high-court-ruling-clears-way-for-grenadas-general-election/",
+     "angolo": "",
+     "atlas": "St. Vin. and Gren.",
+     "t": "2026-11-05T04:37+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T16:28+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcc38c060",
+   "sez": "mondo",
+   "titolo": "Il principe Harry intende fare appello contro il rigetto della causa contro il Daily Mail",
+   "orig": "Ο πρίγκιπας Χάρι σκοπεύει να ασκήσει έφεση κατά της απόρριψης της αγωγής που κατέθεσε εναντίον της Daily Mail",
+   "lead": "Il principe Harry ha presentato richiesta di autorizzazione a fare appello contro la decisione di un tribunale di Londra che ha respinto la sua causa contro il quotidiano britannico Daily Mail. Lo ha dichiarato il suo avvocato. Il principe cerca così di far ripartire la sua battaglia legale contro la stampa britannica, insieme ad altre figure coinvolte in casi simili. Lo riferisce ERT News.",
+   "more": [
+    "Il principe Harry ha intrapreso negli ultimi anni diverse battaglie legali contro testate britanniche, accusandole di pratiche illecite come intercettazioni telefoniche e raccolta illegale di informazioni, in una serie di procedimenti che coinvolgono anche altre persone note della vita pubblica britannica."
+   ],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/o-prigkipas-xari-skopeyei-na-askisei-efesi-kata-tis-aporripsis-tis-agogis-pou-katethese-enantion-tis-daily-mail/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-06T18:28+00:00"
+    },
+    {
+     "n": "DR Nyheder",
+     "p": "XX",
+     "c": "Copenaghen",
+     "u": "https://www.dr.dk/nyheder/seneste/britiske-prins-harry-vil-anke-sag-mod-daily-mail",
+     "angolo": "",
+     "atlas": "Denmark",
+     "t": "2026-11-06T18:12+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1d10bdb2",
+   "sez": "dibattito",
+   "titolo": "Francia, la più grande giornata di proteste dell'anno con lavoratori e studenti in piazza",
+   "orig": "Biggest day of protests in France this year as workers join school pupils on the streets",
+   "lead": "In Francia si è registrata giovedì la più grande giornata di proteste dell'anno, con lavoratori e studenti scesi insieme in piazza. Più di un liceo su quattro, le scuole che accolgono studenti dai 15 ai 18 anni, è stato coinvolto nelle manifestazioni. Secondo le stime del governo, circa 575.000 persone hanno partecipato alle proteste in tutto il paese, il numero più alto da quando è iniziata un'ondata di contestazioni a settembre, legata a uno sciopero nazionale. Le fonti non specificano le richieste puntuali dei manifestanti in questa giornata.",
+   "more": [
+    "In Francia si susseguono da settembre proteste e scioperi che coinvolgono lavoratori e studenti, spesso legati a misure economiche e sociali del governo, come riforme su pensioni, tasse o bilancio pubblico. Le mobilitazioni studentesche nei licei, frequenti nella storia politica francese, si affiancano spesso a quelle sindacali, amplificando la portata delle proteste nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/articles/cwdr883nmjg7o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T09:08+00:00"
+    },
+    {
+     "n": "Tehran Times",
+     "p": "XX",
+     "c": "Teheran",
+     "u": "https://www.tehrantimes.com/news/531885/France-sees-biggest-day-of-protests-in-years",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-06T16:51+00:00"
+    }
+   ],
+   "data": "6 nov",
+   "ora": "20:40",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9e7ad07e",
+   "sez": "mondo",
    "titolo": "Usa, si dimette il procuratore Quiñones dopo le indagini sul caso Trump",
    "orig": "US prosecutor who led Trump-backed election probe exits Justice Department",
    "lead": "Il procuratore federale Jason Reding Quiñones, incaricato dal Dipartimento di Giustizia statunitense di esaminare le passate inchieste penali su Donald Trump, ha rassegnato le proprie dimissioni a Miami. La decisione giunge mentre l'amministrazione si prepara ad affrontare una serie di nuove indagini promosse dai deputati democratici al Congresso di Washington.",
@@ -31,13 +480,11 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "ora": "20:27",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z2a3c2262",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Taiwan chiude l'ufficio in Papua Nuova Guinea e accusa Pechino",
    "orig": "Taiwan to close representative office in Papua New Guinea, blames China",
    "lead": "Il governo di Taiwan ha annunciato la chiusura del proprio ufficio di rappresentanza in Papua Nuova Guinea, attribuendo la responsabilità della rottura alle crescenti pressioni diplomatiche esercitate da Pechino. Le autorità di Taipei hanno inoltre confermato l'immediata interruzione degli acquisti di gas naturale liquefatto provenienti dalla nazione del Pacifico sud-occidentale.",
@@ -63,9 +510,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "ora": "20:27",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "zc59af379",
@@ -92,6 +537,24 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "Israel",
      "t": "2026-11-06T15:31+02:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-politics/2026-11-06/ty-article/.premium/eisenkot-signals-readiness-for-minority-government-to-replace-netanyahu/000001a1-b12a-defa-a7f7-bd7f4c110000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-06T17:17+02:00"
+    },
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/liberia-china-signals-readiness-to-expand-agricultural-imports-eyes-investment-in-processing-sector/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-11-06T14:15+00:00"
     }
    ],
    "data": "6 nov",
@@ -102,7 +565,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   },
   {
    "id": "z8bda07bb",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Ucraina, smentite le notizie su presunte camere di tortura per i renitenti",
    "orig": "Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?",
    "lead": "Le forze di sicurezza ucraine hanno arrestato nei pressi di Kiev una donna accusata di aver diffuso falsi video su presunte torture inflitte a uomini renitenti alla leva. Le indagini hanno smentito le voci virali, qualificando l'episodio come una sofisticata provocazione informativa orchestrata nell'ambito della guerra psicologica con la Russia.",
@@ -129,9 +592,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "ora": "20:27",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z672d23dc",
@@ -442,30 +903,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-06T16:51+00:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "20:27",
-   "uscita": "sera"
-  },
-  {
-   "id": "zbf7adc54",
-   "sez": "mondo",
-   "titolo": "Germania, dubbi sui Mondiali di hockey dopo la sentenza sulla Russia",
-   "orig": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
-   "lead": "La Germania spera ancora di ospitare i prossimi Campionati mondiali di hockey su ghiaccio maschile, nonostante l'incertezza generata dalla recente decisione giudiziaria che impone la riammissione della Russia nelle competizioni internazionali. Le autorità sportive di Berlino stanno cercando una soluzione diplomatica e organizzativa. Lo riferisce Deutsche Welle.",
-   "more": [
-    "La riammissione delle federazioni russe nelle competizioni sportive internazionali solleva frequenti dibattiti politici ed etici in Europa, ponendo i Paesi ospitanti di fronte a complessi problemi logistici e di sicurezza circa la partecipazione di atleti sotto bandiera russa."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-06T16:28+00:00"
     }
    ],
    "data": "6 nov",
@@ -847,30 +1284,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z74d265db",
-   "sez": "dibattito",
-   "titolo": "Amsterdam, protesta contro i data center per l'intelligenza artificiale",
-   "orig": "Data center protesters break into Microsoft site in Amsterdam",
-   "lead": "Ad Amsterdam alcuni attivisti hanno fatto irruzione in un sito di Microsoft per chiedere un blocco immediato alla costruzione di nuovi data center in Europa. I promotori dell'iniziativa, che annunciano manifestazioni coordinate in sedici Paesi, sostengono che la rapida espansione delle infrastrutture per l'intelligenza artificiale metta in pericolo le riserve idriche, sovraccarichi le reti elettriche e impedisca il rispetto degli obiettivi sul clima. Le grandi aziende tecnologiche difendono invece gli investimenti come necessari per sostenere la transizione digitale e lo sviluppo dell'innovazione nel continente europeo.",
-   "more": [
-    "I centri di elaborazione dati richiedono enormi volumi di energia elettrica per alimentare i server e milioni di litri d'acqua per i sistemi di raffreddamento. Con la diffusione dei modelli di intelligenza artificiale, la richiesta energetica è cresciuta esponenzialmente, aprendo un confronto sulla compatibilità di questi complessi con le risorse locali."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-06T16:38+00:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "20:15",
-   "uscita": "sera"
-  },
-  {
    "id": "z6f9473e0",
    "sez": "mondo",
    "titolo": "Guerra tra Stati Uniti e Iran, smentiti tre filmati virali creati con l'IA",
@@ -1020,39 +1433,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "Iran",
      "t": "2026-11-06T16:41+00:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "20:15",
-   "uscita": "sera"
-  },
-  {
-   "id": "z02cd2c46",
-   "sez": "sport",
-   "titolo": "Portogallo, le convocazioni di Jorge Jesus per la Nations League senza Cristiano Ronaldo",
-   "orig": "Liga das Nações. Estreias e regressos na convocatória de Jorge Jesus",
-   "lead": "Il commissario tecnico della nazionale di calcio del Portogallo, Jorge Jesus, ha annunciato la lista di ventotto convocati per le ultime due sfide della fase a gironi di Nations League contro Danimarca e Galles. L'elenco include debutti assoluti e diversi ritorni significativi, ma spicca l'assenza del capitano e primatista di reti Cristiano Ronaldo. L'allenatore portoghese ha dichiarato di aver sperato in un ritorno dell'attaccante e di voler parlare direttamente con lui, mentre la squadra punta alla qualificazione alla fase successiva del torneo europeo.",
-   "more": [
-    "La Nations League dell'UEFA è una competizione biennale che assegna titoli e definisce i coefficienti continentali tra le selezioni nazionali. La gestione dell'avvicendamento generazionale rappresenta una fase cruciale per le grandi nazionali europee che devono conciliare la competitività sportiva immediata con l'inserimento graduale di nuovi talenti emergenti."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/desporto/liga-das-nacoes-estreias-e-regressos-na-convocatoria-de-jorge-jesus_v1777480",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-11-06T17:55+00:00"
-    },
-    {
-     "n": "El Nacional",
-     "p": "XX",
-     "c": "Caracas",
-     "u": "https://www.elnacional.com/2026/11/jorge-jesus-sobre-cristiano-pense-que-volveria-queria-llamarlo-y-hablar-con-el/",
-     "angolo": "",
-     "atlas": "Venezuela",
-     "t": "2026-11-06T17:09+00:00"
     }
    ],
    "data": "6 nov",
@@ -1601,30 +1981,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z60fb53e3",
-   "sez": "tech",
-   "titolo": "La Commissione europea contesta a TikTok la gestione dell'algoritmo nei feed",
-   "orig": "EU accuses TikTok of violating its digital rules",
-   "lead": "L'Unione Europea ha accusato formalmente la piattaforma TikTok di non rispettare le normative digitali comunitarie relative alla tutela e al controllo degli utenti. Secondo la Commissione europea, il social network di video brevi deve modificare l'architettura tecnica della sezione denominata «Per Te», fornendo alle persone opzioni efficaci e accessibili per rifiutare la visualizzazione di specifici contenuti proposti dal sistema di raccomandazione automatica. Bruxelles esige interventi correttivi mirati ad aumentare la trasparenza e la sovranità delle scelte dell'utente sulle piattaforme su vasta scala. Lo riferisce PBS NewsHour.",
-   "more": [
-    "Il Digital Services Act (Dsa) dell'Unione Europea impone alle grandi piattaforme online obblighi stringenti per mitigare i rischi sistemici, come la diffusione di disinformazione e la dipendenza digitale, richiedendo trasparenza sugli algoritmi di raccomandazione dei contenuti."
-   ],
-   "fonti": [
-    {
-     "n": "PBS NewsHour",
-     "p": "US",
-     "c": "Arlington",
-     "u": "https://www.pbs.org/newshour/world/eu-accuses-tiktok-of-violating-its-digital-rules",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-06T13:07-05:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "20:15",
-   "uscita": "sera"
-  },
-  {
    "id": "z57d11658",
    "sez": "dibattito",
    "titolo": "In Francia si discute della ricomparsa dei gilet gialli tra le nuove proteste giovanili",
@@ -1688,6 +2044,15 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "India",
      "t": "2026-11-06T23:18+05:30"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-06T22:32+08:00"
     }
    ],
    "data": "6 nov",
@@ -2824,7 +3189,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   },
   {
    "id": "z85f402bc",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "L'Ue accusa l'algoritmo di TikTok di violare le regole digitali",
    "orig": "'Rabbit hole' TikTok feeds violate digital rules, says EU",
    "lead": "L'Unione europea ha accusato TikTok di violare le norme digitali del blocco perché il suo algoritmo propone agli utenti un flusso ininterrotto di video personalizzati, inclusi contenuti che secondo il regolatore potrebbero danneggiare la salute mentale e l'immagine corporea, specialmente dei più giovani. I regolatori europei hanno intimato alla piattaforma di correggere il cosiddetto effetto \"tana del coniglio\" del sistema di raccomandazione \"Per te\". TikTok è già sotto osservazione per altre presunte violazioni legate alla tutela della salute mentale dei minori.",
@@ -2867,11 +3232,22 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "Pakistan",
      "t": "2026-11-06T19:54+05:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/eu-accuses-tiktok-of-violating-its-digital-rules",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T13:07-05:00"
     }
    ],
    "data": "6 nov",
    "ora": "17:06",
-   "uscita": "17"
+   "uscita": "17",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "z3fb55e38",
@@ -3444,7 +3820,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   },
   {
    "id": "za4d2f3a2",
-   "sez": "italia",
+   "sez": "prima",
    "titolo": "Bambina esclusa dalla mensa scolastica a Taranto per un debito di 12 euro, il padre denuncia",
    "orig": "Un genitore denuncia: 'Mia figlia esclusa dalla mensa per 12 euro'",
    "lead": "A Taranto una bambina di 9 anni è stata esclusa dal servizio di mensa scolastica perché il padre non aveva saldato un debito di 12 euro verso il Comune. La scuola ha chiamato il genitore, informandolo della richiesta inevasa, costringendolo a recuperare la figlia mentre i compagni di classe continuavano a mangiare. Il padre ha presentato una diffida al Comune di Taranto, chiedendo il ripristino immediato del servizio, pena un ricorso urgente. Lo riferisce ANSA.",
@@ -3471,7 +3847,9 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "ora": "17:06",
-   "uscita": "17"
+   "uscita": "17",
+   "sez_prima": "italia",
+   "riempimento": true
   },
   {
    "id": "zd547a8f3",
@@ -3519,30 +3897,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "data": "6 nov",
    "good": true,
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z30f520eb",
-   "sez": "mondo",
-   "titolo": "Kyiv: la Russia usa una propria rete satellitare simile a Starlink per le comunicazioni militari sull'Ucraina",
-   "orig": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
-   "lead": "Secondo l'intelligence militare ucraina, la Russia starebbe già utilizzando la nuova rete satellitare Rassvet, presentata come una versione russa di Starlink, per le comunicazioni militari sui cieli dell'Ucraina. L'obiettivo, secondo fonti citate da Reuters, sarebbe rendere più precisi e più difficili da disturbare i droni d'attacco russi. La notizia arriva mentre il conflitto tra i due paesi continua a intensificarsi sul fronte tecnologico e militare. Lo riferisce The Straits Times.",
-   "more": [
-    "Starlink, la rete satellitare di SpaceX, è stata ampiamente utilizzata dalle forze ucraine per garantire comunicazioni resistenti ai disturbi russi fin dall'inizio dell'invasione del 2022. Lo sviluppo di un sistema alternativo da parte di Mosca indicherebbe il tentativo di ridurre la dipendenza da tecnologie occidentali e migliorare l'efficacia delle proprie operazioni militari, inclusi i droni."
-   ],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-06T22:32+08:00"
-    }
-   ],
-   "data": "6 nov",
    "ora": "17:06",
    "uscita": "17"
   },
@@ -4680,37 +5034,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z06830145",
-   "sez": "mondo",
-   "titolo": "Eisenkot segnala disponibilità per governo di minoranza per sostituire Netanyahu",
-   "orig": "Eisenkot signals readiness for minority government to replace Netanyahu",
-   "lead": "Gadi Eisenkot, designato a formare il nuovo governo israeliano, segnala la sua disponibilità a un esecutivo di minoranza per sostituire Benjamin Netanyahu. Il politico ha avvertito che chiunque tenterà di sabotare gli sforzi di coalizione 'non sarà perdonato'. Lo riferisce Haaretz.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Haaretz",
-     "p": "XX",
-     "c": "Tel Aviv",
-     "u": "https://www.haaretz.com/israel-news/israel-politics/2026-11-06/ty-article/.premium/eisenkot-signals-readiness-for-minority-government-to-replace-netanyahu/000001a1-b12a-defa-a7f7-bd7f4c110000",
-     "angolo": "",
-     "atlas": "Israel",
-     "t": "2026-11-06T17:17+02:00"
-    },
-    {
-     "n": "FrontPage Africa",
-     "p": "XX",
-     "c": "Monrovia",
-     "u": "https://frontpageafricaonline.com/liberia-china-signals-readiness-to-expand-agricultural-imports-eyes-investment-in-processing-sector/",
-     "angolo": "",
-     "atlas": "Liberia",
-     "t": "2026-11-06T14:15+00:00"
-    }
-   ],
-   "data": "6 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
    "id": "z961d2ec9",
    "sez": "mondo",
    "titolo": "Al-Sisi chiede trasformazione dell'AOI in piattaforma di integrazione industriale",
@@ -5130,6 +5453,24 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "u": "https://www.dailymaverick.co.za/article/2026-11-06-cristiano-ronaldo-retires-from-international-soccer-one-of-sports-all-time-greats/",
      "angolo": "",
      "atlas": "South Africa"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/desporto/liga-das-nacoes-estreias-e-regressos-na-convocatoria-de-jorge-jesus_v1777480",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-06T17:55+00:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/11/jorge-jesus-sobre-cristiano-pense-que-volveria-queria-llamarlo-y-hablar-con-el/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-11-06T17:09+00:00"
     }
    ],
    "data": "6 nov",
@@ -5756,6 +6097,15 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "India",
      "t": "2026-11-06T16:50+05:30"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-06T16:38+00:00"
     }
    ],
    "data": "6 nov",
@@ -6770,6 +7120,24 @@ window.EDIZIONI["2026-11-06-sera"] = {
      "angolo": "",
      "atlas": "India",
      "t": "2026-11-06T16:08+05:30"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2638319",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-11-06T16:50+01:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/11/06/vader-meghan-markle-opgepakt.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-11-06T16:42+00:00"
     }
    ],
    "data": "6 nov",
@@ -7144,7 +7512,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "za4d2f3a2": "Le testate riportano il caso come esempio di rigidità burocratica nei confronti di una minore.",
   "zd547a8f3": "L'organizzazione mette in evidenza la doppia vulnerabilità di chi fugge da conflitti e vive in zone a rischio climatico.",
   "z206e05ac": "La testata presenta la notizia come un segnale positivo per la conservazione della biodiversità.",
-  "z30f520eb": "La fonte ucraina sottolinea la minaccia rappresentata dal nuovo sistema per la precisione degli attacchi russi.",
   "z3b23d045": "La testata estone si concentra sul nuovo potere delle banche, mentre quella pachistana riporta un obiettivo politico distinto.",
   "zbb284f6e": "Le testate riportano la vicenda giudiziaria sottolineando la differenza tra la richiesta della Procura e la decisione del gip.",
   "zb7bb18a5": "La testata presenta l'iniziativa come risposta a un bisogno sanitario crescente nel paese.",
@@ -7178,16 +7545,13 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z8abb1832": "Financial Times mette in luce la scommessa di XN su Anthropic in un momento di calo generale del settore tech.",
   "z8bbf14ec": "South China Morning Post analizza le possibili pressioni del nuovo Congresso su Trump riguardo a Taiwan.",
   "z9439426b": "Kun.uz riporta la crescita degli investimenti come segnale positivo per l'economia uzbeka.",
-  "z06830145": "Haaretz enfatizza il quadro politico israeliano e la ricerca di alternative a Netanyahu",
   "z961d2ec9": "Daily News Egypt sottolinea il ruolo strategico dell'industrializzazione nel progetto di sviluppo arabo",
   "z2b33dc8e": "Hespress English evidenzia il consolidamento dei legami di cooperazione militare tra i due Paesi",
   "z34d829c6": "Si sottolineano le conseguenze politiche del fallimento bancario e i presunti conflitti di interesse presidenziali.",
   "z61fb1957": "L'attenzione è focalizzata sull'impatto sociale della perdita di accesso al denaro per metà dei cittadini paraguaiani.",
-  "z74d265db": "La testata pone l'accento sulla mobilitazione ecologista internazionale contro l'impatto ambientale delle infrastrutture tecnologiche.",
   "z8d0c5e94": "I critici accolgono il disco elogiandone la sincerità espressiva e la raffinata produzione musicale.",
   "zae3bd9d9": "Si approfondiscono i meccanismi con cui la volatilità azionaria e i mercati delle materie prime toccano i bilanci familiari.",
   "z0f83a5e8": "Viene evidenziato il contrasto tra le tensioni diplomatiche con Baku e le aperture culturali verso la Francia.",
-  "z02cd2c46": "I media sportivi analizzano le scelte del nuovo commissario tecnico e la complessa gestione del futuro di Cristiano Ronaldo.",
   "z3a440fa6": "Viene evidenziata la richiesta del sindacato di reperire risorse per la scuola tassando i redditi più alti.",
   "z29fa2895": "Viene segnalato l'avvio formale del percorso di valutazione delle candidature per i vertici monetari europei.",
   "zc47ff5de": "L'attenzione è rivolta alle normative approvate per consentire il trasferimento rapido dei feriti più critici.",
@@ -7207,7 +7571,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z827da2d6": "Le testate sottolineano la conclusione della lunga carriera del lanciatore nella forma più tradizionale del cricket.",
   "z990b9dad": "La testata mette in evidenza la volontà comune di superare l'assenza storica di legami commerciali tra le regioni.",
   "z74b7e8b9": "La testata ripercorre le tappe spirituali dell'artista alla luce dei recenti avvenimenti pubblici.",
-  "z60fb53e3": "La testata evidenzia le richieste di Bruxelles per garantire una maggiore autonomia agli iscritti del social network.",
   "z57d11658": "La testata si concentra sulla perdita di centralità organizzativa del movimento a favore delle generazioni più giovani.",
   "z0eed8a0e": "La testata pone l'accento sulla chiusura della kermesse jazzistica e sul dialogo diretto tra musicisti e spettatori.",
   "za4b12283": "La testata analizza i limiti tecnici della costellazione russa a fronte delle preoccupazioni per la sicurezza militare.",
@@ -7254,7 +7617,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z0c253a9f": "Il Post riporta la notizia dell'ingresso azionario di Del Vecchio mantenendo un tono descrittivo sull'operazione finanziaria.",
   "z1d3620b9": "BBC News analizza in chiave prospettica le conseguenze delle elezioni di metà mandato sulla futura corsa alla presidenza degli Stati Uniti.",
   "z1175cf7a": "BBC News evidenzia l'attivismo precoce nel Partito Democratico alla luce delle affermazioni di un influente strategist politico.",
-  "zbf7adc54": "Deutsche Welle mette in luce gli sforzi delle autorità sportive tedesche per salvare la candidatura ai Mondiali superando i vincoli legali sul caso russo.",
   "z08e2c19b": "Al Jazeera focalizza l'attenzione sulle violazioni dei diritti civili e sullo sfollamento forzato dei residenti palestinesi a Gerico.",
   "z769155ac": "LRT mette in rilievo la sistematizzazione dei dati sulle azioni di interferenza ibrida attribuite alla Russia nei Paesi europei.",
   "zc758d5f7": "LRT evidenzia l'intensa attività degli organi anticorruzione ucraini nei confronti dei vertici degli apparati di sicurezza statali.",
@@ -7267,7 +7629,20 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z00739743": "La testata sottolinea l'escalation militare tra le principali potenze mondiali.",
   "zcc76886a": "La testata segue gli sviluppi giudiziari del leader dell'opposizione armena.",
   "zd9b6e014": "La testata vaticana riporta l'esito favorevole della vertenza legale a tutela del patrimonio dello IOR.",
-  "z1ad4712c": "La testata indipendente russa documenta l'espropriazione di beni immobili nei territori ucraini occupati."
+  "z1ad4712c": "La testata indipendente russa documenta l'espropriazione di beni immobili nei territori ucraini occupati.",
+  "zc371c767": "Deutsche Welle riporta la chiusura di una delle principali arterie autostradali tedesche dopo l'incidente aereo.",
+  "zad2314eb": "La BBC spiega il legame tra riscaldamento globale ed eventi meteo estremi, mentre il Nile Post ne documenta un effetto concreto in Uganda.",
+  "zbd2dfbe6": "Good News Network racconta la vicenda come esempio di onestà e perseveranza.",
+  "zad9c1323": "FBC News sottolinea la dimensione sociale del torneo, oltre a quella sportiva.",
+  "z55acfa0a": "ANSA e Sky TG24 documentano la visita della premier all'evento equestre con foto del momento a cavallo.",
+  "z36f4e588": "The Kyiv Independent evidenzia la crescita esponenziale dell'uso di robot militari da parte dell'Ucraina.",
+  "z0b04e20d": "Il Post analizza i rischi legati alla crescente diffusione di dispositivi connessi a Internet.",
+  "zb12e89db": "Kun.uz riporta l'incontro come parte di un rafforzamento dei rapporti tra Giordania e paesi dell'Asia centrale.",
+  "z1b35a5b7": "Premium Times riporta le condizioni poste dal candidato YPP in vista di una possibile coalizione.",
+  "z645c0449": "HotNews riporta le due candidature ufficiali, mentre Der Spiegel sottolinea l'esclusione della Germania dalla corsa.",
+  "zcfeb0691": "The Kyiv Independent riporta la posizione di rifiuto della comunità hockeistica ucraina verso il possibile ritorno russo.",
+  "zcc38c060": "ERT News riporta l'intenzione del principe di proseguire la causa legale contro il Daily Mail.",
+  "z1d10bdb2": "BBC Newsround e Tehran Times riportano l'ampiezza della mobilitazione come la più grande dell'anno in Francia."
  },
  "contesti": {
   "zfe77b042": "Il Papa è stato operato circa tre settimane fa per un tumore al polmone, un intervento che aveva messo in dubbio la realizzazione del viaggio, poi confermato nei giorni successivi dal Vaticano.",
@@ -7294,7 +7669,9 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z9e7ad07e": "Negli ultimi mesi, il Dipartimento di Giustizia degli Stati Uniti aveva incaricato il procuratore federale Jason Reding Quiñones di riesaminare le passate inchieste penali relative a Donald Trump. Nel frattempo, i deputati democratici al Congresso di Washington hanno intensificato le pressioni politiche, preannunciando l'avvio di nuove indagini sull'operato dell'amministrazione e sulle verifiche condotte. La crescita della tensione istituzionale ha infine portato all'uscita di scena del magistrato a Miami.",
   "z2a3c2262": "La pressione diplomatica esercitata dalla Cina nei confronti delle nazioni del Pacifico si è intensificata costantemente nelle ultime settimane, mirando a isolare ulteriormente Taipei sul piano internazionale. In Papua Nuova Guinea, l'influenza di Pechino ha progressivamente compromesso le relazioni bilaterali con Taiwan. Parallelamente, le tensioni commerciali sono cresciute fino a spingere il governo taiwanese a riesaminare i propri contratti di fornitura energetica con il paese.",
   "zc59af379": "La politica israeliana si trova da settimane in una situazione di profonda impasse parlamentare, caratterizzata dall'incapacità del governo di Benjamin Netanyahu di garantire la stabilità. Per sbloccare la crisi, l'opposizione centrista guidata da Gadi Eisenkot ha avviato negoziati con le forze arabe Joint List e Ra’am. Le trattative hanno individuato punti d'intesa programmatici per costruire una maggioranza alternativa alla Knesset.",
-  "z8bda07bb": "Nei giorni scorsi, sulle piattaforme social avevano iniziato a circolare video virali relativi a presunte torture inflitte ai renitenti alla leva in Ucraina. I contenuti avevano suscitato ampio allarme nell'opinione pubblica. Le forze di sicurezza ucraine hanno avviato un'indagine d'urgenza, scoprendo che il materiale era frutto di una sofisticata operazione di disinformazione e guerra psicologica."
+  "z8bda07bb": "Nei giorni scorsi, sulle piattaforme social avevano iniziato a circolare video virali relativi a presunte torture inflitte ai renitenti alla leva in Ucraina. I contenuti avevano suscitato ampio allarme nell'opinione pubblica. Le forze di sicurezza ucraine hanno avviato un'indagine d'urgenza, scoprendo che il materiale era frutto di una sofisticata operazione di disinformazione e guerra psicologica.",
+  "z1b35a5b7": "In Nigeria il dibattito politico in vista delle elezioni presidenziali del 2027 si è intensificato, con diversi partiti di opposizione che discutono una possibile coalizione contro il presidente Bola Tinubu, al potere dal 2023. I partiti cercano di superare le divisioni che avevano favorito la vittoria di Tinubu nel 2023, mentre crescono le critiche sulla gestione economica e sulla sicurezza nel paese, temi centrali per l'elettorato nigeriano.",
+  "za4d2f3a2": "Nei Comuni italiani la gestione dei servizi di mensa scolastica per morosità è da anni oggetto di polemiche, con casi analoghi segnalati in diverse città per presunti debiti non saldati dalle famiglie verso l'ente locale. Episodi di esclusione di minori dal servizio mensa hanno più volte suscitato indignazione pubblica e interventi di associazioni per i diritti dei minori, riportando l'attenzione sul tema del diritto allo studio e all'alimentazione scolastica."
  },
  "cronologie": {
   "zfe77b042": [
@@ -7616,6 +7993,38 @@ window.EDIZIONI["2026-11-06-sera"] = {
     "Oggi",
     "Arresto nei pressi di Kiev della donna accusata di aver diffuso il materiale propagandistico"
    ]
+  ],
+  "z1b35a5b7": [
+   [
+    "2023",
+    "Bola Tinubu vince le elezioni presidenziali in un contesto di opposizione frammentata"
+   ],
+   [
+    "2024-2025",
+    "Crescono le critiche sulla gestione economica e sulla sicurezza nel paese"
+   ],
+   [
+    "Ottobre 2026",
+    "Partiti di opposizione avviano colloqui per una possibile coalizione unitaria"
+   ],
+   [
+    "6 novembre 2026",
+    "Il candidato vicepresidente YPP pone condizioni per aderire a una coalizione"
+   ]
+  ],
+  "za4d2f3a2": [
+   [
+    "Giorni scorsi",
+    "La scuola comunica al padre un debito di 12 euro non saldato verso il Comune"
+   ],
+   [
+    "Giorno dell'episodio",
+    "La bambina viene esclusa dal servizio mensa e il padre la ritira da scuola"
+   ],
+   [
+    "Successivamente",
+    "Il padre presenta una diffida al Comune di Taranto chiedendo il ripristino del servizio"
+   ]
   ]
  },
  "confronti": {
@@ -7830,6 +8239,32 @@ window.EDIZIONI["2026-11-06-sera"] = {
     }
    ],
    "divergono": "Le testate divergono sulla data di fine produzione: BBC News e Al Jazeera parlano del 2026/'next year', mentre Clarín e Dawn indicano metà 2027. Al Jazeera e Dawn collegano esplicitamente il Cybertruck alla figura politica di Musk e al DOGE, aspetto assente in BBC News e Clarín. Dawn è l'unica a riportare le cifre di vendita all'estero (Corea del Sud, Emirati Arabi Uniti) e il contesto del Cybercab come robotaxi senza volante. Al Jazeera fornisce dati di vendita annuali precisi (38.965 e 20.237 unità), assenti nelle altre testate."
+  },
+  "z1b35a5b7": {
+   "voci": [
+    {
+     "n": "Premium Times",
+     "c": "Abuja",
+     "p": "XX",
+     "t": "Riporta le condizioni poste da Patience Key (YPP) per una coalizione d'opposizione: serve un 'accordo di governo scritto' su sicurezza, povertà e corruzione, non solo l'obiettivo di battere Tinubu. Cita nominalmente Atiku, Obi, Kwankwaso e altri come soggetti da sottoporre allo stesso standard di trasparenza.",
+     "b": "a"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "L'articolo non riguarda la notizia indicata: tratta dello spettacolo teatrale 'Ms Blakk for President' sulla storia della prima drag queen nera candidata alla presidenza USA nel 1992, senza alcun riferimento alla Nigeria.",
+     "b": "a"
+    },
+    {
+     "n": "TASS",
+     "c": "Mosca",
+     "p": "XX",
+     "t": "Anche questo articolo è estraneo alla notizia: riporta dichiarazioni del candidato presidenziale francese Dupont-Aignan su NATO e Ucraina, citato come la voce della Russia su un tema di politica estera europea, non nigeriana.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Solo Premium Times tratta effettivamente la notizia sulla coalizione d'opposizione nigeriana; gli altri due articoli forniti (The Guardian su una pièce teatrale statunitense, TASS su dichiarazioni francesi riguardo a NATO e Ucraina) non hanno alcuna relazione con l'argomento, rendendo impossibile un confronto reale sui fatti."
   }
  },
  "luoghi": {
@@ -8427,13 +8862,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "pt": []
   },
-  "z30f520eb": {
-   "n": "Kyiv",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "z3b23d045": {
    "n": "Tallinn",
    "p": [
@@ -8651,13 +9079,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "pt": []
   },
-  "z06830145": {
-   "n": "Israele",
-   "p": [
-    "Israel"
-   ],
-   "pt": []
-  },
   "z961d2ec9": {
    "n": "Il Cairo",
    "p": [
@@ -8687,13 +9108,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "pt": []
   },
-  "z74d265db": {
-   "n": "Amsterdam",
-   "p": [
-    "Netherlands"
-   ],
-   "pt": []
-  },
   "z8d0c5e94": {
    "n": "Londra",
    "p": [
@@ -8714,13 +9128,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    "p": [
     "Azerbaijan",
     "Iran"
-   ],
-   "pt": []
-  },
-  "z02cd2c46": {
-   "n": "Lisbona",
-   "p": [
-    "Portugal"
    ],
    "pt": []
   },
@@ -8854,13 +9261,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z60fb53e3": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
    ],
    "pt": []
   },
@@ -9192,13 +9592,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
    ],
    "pt": []
   },
-  "zbf7adc54": {
-   "n": "Berlin",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
   "z08e2c19b": {
    "n": "Jericho",
    "p": [
@@ -9294,6 +9687,97 @@ window.EDIZIONI["2026-11-06-sera"] = {
     "Russia"
    ],
    "pt": []
+  },
+  "zc371c767": {
+   "n": "Magdeburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zad2314eb": {
+   "n": "Katakwi",
+   "p": [
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zbd2dfbe6": {
+   "n": "Brasile",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zad9c1323": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z55acfa0a": {
+   "n": "Verona",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z36f4e588": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z0b04e20d": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zb12e89db": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z1b35a5b7": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z645c0449": {
+   "n": "Francoforte",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zcfeb0691": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zcc38c060": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z1d10bdb2": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -9305,7 +9789,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z730cfbc7": 1,
   "zb577d0c5": 1,
   "zd6bc5244": 1,
-  "zea79e8ce": 1,
+  "zea79e8ce": 2,
   "z6aaeeae7": 1,
   "z74e242ef": 2,
   "z43b04f45": 1,
@@ -9321,7 +9805,7 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z61f363eb": 1,
   "ze0ff4ccc": 2,
   "zce216af1": 1,
-  "zfcce602c": 1,
+  "zfcce602c": 2,
   "zb89cbe4d": 1,
   "z8a9b8cdf": 2,
   "z97b7a3c2": 1,
@@ -9383,10 +9867,9 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z755635d2": 1,
   "z51a94c97": 2,
   "z2de31470": 1,
-  "za4d2f3a2": 1,
+  "za4d2f3a2": 2,
   "zd547a8f3": 1,
   "z206e05ac": 1,
-  "z30f520eb": 2,
   "z3b23d045": 1,
   "zbb284f6e": 2,
   "zb7bb18a5": 1,
@@ -9420,16 +9903,13 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z8abb1832": 1,
   "z8bbf14ec": 1,
   "z9439426b": 1,
-  "z06830145": 1,
   "z961d2ec9": 1,
   "z2b33dc8e": 1,
   "z34d829c6": 1,
   "z61fb1957": 1,
-  "z74d265db": 1,
   "z8d0c5e94": 2,
   "zae3bd9d9": 2,
   "z0f83a5e8": 2,
-  "z02cd2c46": 2,
   "z3a440fa6": 2,
   "z29fa2895": 2,
   "zc47ff5de": 1,
@@ -9449,10 +9929,9 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z827da2d6": 2,
   "z990b9dad": 1,
   "z74b7e8b9": 1,
-  "z60fb53e3": 1,
   "z57d11658": 1,
   "z0eed8a0e": 1,
-  "za4b12283": 1,
+  "za4b12283": 2,
   "zd8bbf426": 1,
   "z6bcb0cd0": 1,
   "zfd2d6312": 1,
@@ -9496,7 +9975,6 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z0c253a9f": 1,
   "z1d3620b9": 1,
   "z1175cf7a": 1,
-  "zbf7adc54": 1,
   "z08e2c19b": 1,
   "z769155ac": 1,
   "zc758d5f7": 1,
@@ -9509,7 +9987,20 @@ window.EDIZIONI["2026-11-06-sera"] = {
   "z00739743": 1,
   "zcc76886a": 1,
   "zd9b6e014": 1,
-  "z1ad4712c": 1
+  "z1ad4712c": 1,
+  "zc371c767": 1,
+  "zad2314eb": 1,
+  "zbd2dfbe6": 1,
+  "zad9c1323": 1,
+  "z55acfa0a": 1,
+  "z36f4e588": 1,
+  "z0b04e20d": 1,
+  "zb12e89db": 1,
+  "z1b35a5b7": 2,
+  "z645c0449": 2,
+  "zcfeb0691": 2,
+  "zcc38c060": 1,
+  "z1d10bdb2": 2
  },
  "video": {},
  "pillole": []
