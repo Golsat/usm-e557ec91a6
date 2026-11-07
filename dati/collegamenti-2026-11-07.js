@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z318cbfc5":[["2026-10-16-sera","z77f7e090","16 ott","Tribunale tanzaniano accoglie ricorso degli avvocati di Tundu Lissu"]]});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z318cbfc5":[["2026-10-16-sera","z77f7e090","16 ott","Tribunale tanzaniano accoglie ricorso degli avvocati di Tundu Lissu"]],"zbf98a55e":[["2026-10-18-sera","z11d3db42","18 ott","Malavan-Tractor non disputata: la squadra ospite lascia il campo per i cori dei tifosi"]]});
