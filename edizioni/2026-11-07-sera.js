@@ -3,6 +3,499 @@ window.EDIZIONI["2026-11-07-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z44ba74f1",
+   "sez": "mondo",
+   "titolo": "Procedimenti selettivi in Armenia: la società civile avverte sui rischi per i rapporti con l'UE",
+   "orig": "Armenia's selective prosecution: A threat to EU relations?",
+   "lead": "Mentre Bruxelles mantiene un atteggiamento prudente ed evita critiche severe, la società civile armena denuncia l'utilizzo di giustizia selettiva contro le figure dell'opposizione. Questo approccio pragmatico dell'Unione Europea rischia di replicare errori commessi in passato. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-07T18:36+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc805f848",
+   "sez": "mondo",
+   "titolo": "Il discorso del leader del Fine Gael all'Ard Fheis",
+   "orig": "Watch: Fine Gael Ard Fheis leader's speech",
+   "lead": "Il Tánaiste Simon Harris ha tenuto il discorso ufficiale da leader del partito Fine Gael in occasione dell'Ard Fheis, l'annuale assemblea generale che si è svolta presso lo University College di Cork. L'evento ha delineato le linee politiche future del partito irlandese. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/politics/2026/1107/1598375-fg-ard-fheis/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-07T18:29+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf5b4b2b2",
+   "sez": "mondo",
+   "titolo": "Il Lietkabelis interrompe il contratto con il giocatore infortunato Ivan Fevrier",
+   "orig": "„Lietkabelis“ nutraukė sutartį su traumą patyrusiu prancūzu",
+   "lead": "La squadra di pallacanestro lituana del Panevėžio „Lietkabelis“ ha ufficialmente annunciato la rescissione consensuale del contratto con il cestista francese Ivan Fevrier, fermato da un infortunio. La decisione è maturata a seguito di accordi reciproci tra le parti. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3107118/lietkabelis-nutrauke-sutarti-su-trauma-patyrusiu-prancuzu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-07T20:20+02:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z36dd25a4",
+   "sez": "mondo",
+   "titolo": "L'allenatore del Rytas difende i suoi giocatori dopo la sconfitta in trasferta",
+   "orig": "Į „Ryto“ situaciją pažvelgęs Pacevičius po pralaimėjimo užstojo žaidėjus: nulis priekaištų",
+   "lead": "Nonostante la battuta d'arresto subita a Panevėžys, il tecnico del Vilnius „Rytas“ Nedas Pacevičius ha evitato di criticare i suoi atleti. L'allenatore ha evidenziato le criticità legate alle condizioni di salute e alle rotazioni ristrette, lodando tuttavia lo spirito combattivo mostrato fino all'ultimo. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3107113/i-ryto-situacija-pazvelges-pacevicius-po-pralaimejimo-uzstojo-zaidejus-nulis-priekaistu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-07T20:01+02:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z590f167c",
+   "sez": "mondo",
+   "titolo": "Iniziative ecologiche in Turchia per proteggere le praterie marine e assorbire carbonio",
+   "orig": "Anglį kaupia 35 kartus greičiau nei miškai: turkai sugalvojo, kaip išgelbėti jūrų pievas",
+   "lead": "Nella provincia turca sud-occidentale di Muğla sono state avviate misure mirate alla salvaguardia delle praterie di posidonia e piante marine, fondamentali per l'ecosistema e capaci di immagazzinare carbonio a ritmi elevatissimi. Si punta a sostituire l'ancoraggio delle imbarcazioni con appositi gavitelli. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/3097436/angli-kaupia-35-kartus-greiciau-nei-miskai-turkai-sugalvojo-kaip-isgelbeti-juru-pievas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-07T20:00+02:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "za9e981d4",
+   "sez": "mondo",
+   "titolo": "Per gli esperti è un'illusione attendere il ritorno degli Stati Uniti alle regole condivise",
+   "orig": "'Fantasy' to expect US to go back to playing by the rules - expert",
+   "lead": "Secondo l'analista Robert Patman, alla luce dei continui mutamenti della politica estera statunitense, la Nuova Zelanda dovrebbe smettere di sperare in un ritorno di Washington alle vecchie regole e rafforzare invece i legami diplomatici con altre medie potenze. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/world/2424024/fantasy-to-expect-us-to-go-back-to-playing-by-the-rules-expert",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-08T06:23+13:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z17b96864",
+   "sez": "mondo",
+   "titolo": "A Kozani prende il via il campionato internazionale di Taekwondo Greece Open G1-E1",
+   "orig": "Κοζάνη: Διεθνές πρωτάθλημα Ταεκβοντό Greece Open G1–E1 — 1.150 συμμετοχές από 60 χώρες",
+   "lead": "Con la partecipazione di 1.150 atleti provenienti da sessanta differenti nazioni, si è tenuta la cerimonia inaugurale del torneo internazionale di Taekwondo Greece Open G1-E1 ospitato a Kozani, ponendo la Macedonia occidentale al centro della scena sportiva globale. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/perifereiakoi-stathmoi/kozani/kozani-diethnes-protathlima-taekvonto-greece-open-g1-e1-1-150-symmetoxes-apo-60-xores/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-07T18:36+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb370e694",
+   "sez": "mondo",
+   "titolo": "Frode globale da 129 milioni con l'intelligenza artificiale: fondi tracciati anche in Grecia",
+   "orig": "Απάτη 129 εκατ. δολαρίων με AI: Στην Ελλάδα μέρος των χρημάτων",
+   "lead": "Tre individui sono accusati negli Stati Uniti di aver orchestrato una truffa internazionale da oltre 129 milioni di dollari utilizzando l'intelligenza artificiale per impersonare dirigenti e avvocati aziendali. Secondo l'indagine giudiziaria di New York, una parte del denaro illecito è transitata in conti bancari greci. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/diethni/apati-129-ekat-dolarion-me-ai-stin-ellada-meros-ton-xrimaton/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-07T18:13+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z766b4992",
+   "sez": "mondo",
+   "titolo": "La Germania non può fornire ulteriori sistemi Patriot all'Ucraina nell'immediato",
+   "orig": "Germany cannot provide Ukraine with more Patriot systems for now, defense minister says",
+   "lead": "Il ministro della Difesa tedesco Boris Pistorius ha dichiarato che Berlino non è attualmente in grado di inviare ulteriori batterie missilistiche Patriot a Kiev, sollecitando gli alleati a potenziare le difese aeree ucraine in vista del prossimo vertice di metà novembre. Lo riferisce The Kyiv Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/germany-cannot-provide-ukraine-with-more-patriot-systems-for-now-defense-minister-says/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-07T17:55+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z089353b5",
+   "sez": "mondo",
+   "titolo": "Il governo federale nigeriano cancella le affiliazioni universitarie dell'ente NTI",
+   "orig": "FG scraps NTI’s university affiliations nationwide",
+   "lead": "Il ministero dell'Istruzione nigeriano ha deciso lo stop definitivo alle immatricolazioni e ai programmi accademici per diplomi e lauree gestiti in affiliazione con il National Teachers' Institute in tutto il paese, ponendo fine ai corsi in presenza e a distanza. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/headlines/923524-fg-scraps-ntis-university-affiliations-nationwide.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-07T17:24+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5a30ac70",
+   "sez": "mondo",
+   "titolo": "Lo Stato di Imo contesta la direttiva del Consiglio giudiziario sui giudici facenti funzioni",
+   "orig": "Imo criticises NJC’s directive to shortlist acting chief judge for substantive appointment",
+   "lead": "Il governo dello Stato di Imo ha espresso forti perplessità sulla disposizione del Consiglio Nazionale della Giustizia relativa alla designazione definitiva del giudice capo facente funzione, un atto che rischia di riaprire una grave fase di stallo istituzionale. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/923520-imo-criticises-njcs-directive-to-shortlist-acting-chief-judge-for-substantive-appointment.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-07T16:56+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z498b13ba",
+   "sez": "mondo",
+   "titolo": "Mondiali Under-17 femminili: le Flamingos della Nigeria affrontano il Giappone in finale",
+   "orig": "Japan vs Nigeria LIVE UPDATES: Flamingos chase historic U-17 World Cup title",
+   "lead": "La nazionale femminile Under-17 della Nigeria, soprannominata Flamingos, scende in campo contro il Giappone nell'atto conclusivo della Coppa del Mondo FIFA di categoria, con l'obiettivo storico di conquistare il primo titolo iridato nella storia del torneo. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/headlines/923517-japan-vs-nigeria-live-updates-flamingos-chase-historic-u-17-world-cup-title.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-07T16:43+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbf98a55e",
+   "sez": "mondo",
+   "titolo": "Il Malavan sporge denuncia contro il Tractor per cori razziali in campionato",
+   "orig": "شکایت ملوان از تراکتور به دلیل شعارهای نژادپرستانه",
+   "lead": "Il club iraniano Malavan Bandar Anzali ha presentato un reclamo formale basato sulle norme disciplinari della FIFA contro la squadra del Tractor Sazi, accusandola dei cori razziali intonati dai tifosi durante la sfida disputata allo stadio Sahand di Tabriz. Lo riferisce Iran International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202611074011",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-07T18:43+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf5f97ef8",
+   "sez": "mondo",
+   "titolo": "Compagnia aerea rimuove il sedile 7C in omaggio a Cristiano Ronaldo",
+   "orig": "یک شرکت هواپیمایی به احترام رونالدو صندلی 7C را از پروازهای مادیرا حذف کرد",
+   "lead": "La compagnia aerea francese Transavia ha annunciato la rimozione permanente del sedile numero 7C da tutti i voli diretti a Funchal, nell'isola di Madera, per rendere omaggio a Cristiano Ronaldo in occasione del suo addio alla nazionale maggiore portoghese. Lo riferisce Iran International.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202611073773",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-07T16:30+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3173cd4f",
+   "sez": "mondo",
+   "titolo": "Attacco a Cracovia, il Ministero degli Esteri romeno contatta le autorità polacche",
+   "orig": "Precizările Ministerului de Externe după atacul de la Cracovia, în urma demersurilor făcute pe lângă autoritățile poloneze",
+   "lead": "Il ministero degli Affari Esteri a Bucarest ha confermato che finora non risultano connazionali coinvolti. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/precizarile-ministerului-de-externe-dupa-atacul-de-la-cracovia-in-urma-demersurilor-facute-pe-langa-autoritatile-poloneze-2397917",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-07T18:52+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z31209ee3",
+   "sez": "mondo",
+   "titolo": "Resti umani scoperti a bordo di una nave colpita da un drone nelle acque della Romania",
+   "orig": "Rămăşiţe umane descoperite pe o navă lovită de dronă în apele teritoriale ale României. Anunțul parchetului din Bulgaria",
+   "lead": "La procura della città bulgara di Varna ha annunciato il rinvenimento di resti umani fortemente deteriorati all'interno di un'imbarcazione commerciale colpita da un drone quindici giorni prima nelle acque territoriali romene e successivamente trasferita in un cantiere navale bulgaro. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/ramasite-umane-descoperite-pe-o-nava-lovita-de-drona-in-apele-teritoriale-ale-romaniei-anuntul-parchetului-din-bulgaria-2397878",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-07T18:16+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z96ca408f",
+   "sez": "mondo",
+   "titolo": "Valentin Suciu dopo il pari contro il Cluj: «Un lavoro titanico per la squadra»",
+   "orig": "Valentin Suciu, după remiza dintre Csikszereda și Universitatea Cluj: „Munca trebuie să fie titanică”",
+   "lead": "Al termine del pareggio per 0-0 contro l'Università Cluj nella quindicesima giornata di SuperLiga, l'allenatore del Csikszereda Valentin Suciu ha elogiato l'impegno dei suoi giocatori, sostenendo che la formazione avrebbe meritato l'intera posta in palio contro la vicecampione di Romania. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/valentin-suciu-dupa-remiza-dintre-csikszereda-si-universitatea-cluj-munca-trebuie-sa-fie-titanica-2397893",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-07T18:07+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf4af0645",
+   "sez": "tech",
+   "titolo": "Turchia: Baykar testa il drone Bayraktar TB2 come vettore per 16 velivoli kamikaze",
+   "orig": "Cum au transformat turcii dronele Bayraktar TB2 într-o „navă-mamă” și le testează pentru nou rol pe front. Ce înseamnă pentru dronele Armatei Române",
+   "lead": "Il produttore turco Baykar ha testato con successo il drone d’attacco Bayraktar TB2 in un nuovo ruolo operativo da nave madre, capace di lanciare in volo e controllare sedici droni kamikaze FPV tramite il proprio canale dati. Il test interessa direttamente anche la Romania, dotata di diciotto esemplari simili. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/turcii-au-reusit-sa-transforme-dronele-bayraktar-tb2-intr-o-nava-mama-si-sa-le-testeze-pentru-nou-rol-pe-front-ce-inseamna-pentru-dronele-armatei-romane-2395669",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-07T17:59+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6da99c7f",
+   "sez": "mondo",
+   "titolo": "Canarie: l'isola di El Hierro dichiara lo stato di emergenza per gli sbarchi di migranti",
+   "orig": "Noodtoestand op Canarisch eiland El Hierro: 3000 migranten in een week",
+   "lead": "L’amministrazione dell’isola spagnola di El Hierro ha proclamato lo stato di emergenza a causa dell’arrivo di tremila migranti in una sola settimana, che portano il bilancio a ottomila dalla fine dell’estate. Il governo locale, con i servizi pubblici al collasso, ha chiesto aiuti urgenti a Madrid. Lo riferisce NOS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2638481",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-11-07T19:29+01:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3107112/kanaru-sala-praso-pagalbos-del-isaugusio-migrantu-srauto",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-07T19:50+02:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbab5ecc0",
+   "sez": "spazio",
+   "titolo": "Il meteorite marziano scoperto nel Sahara ha oltre quattro miliardi di anni",
+   "orig": "Zeldzaam Marsgesteente dat in Sahara werd ontdekt, blijkt meer dan 4 miljard jaar oud",
+   "lead": "Il meteorite Teghaza 001, rinvenuto nel deserto del Sahara nel 2022, ha un’età stimata di 4,1 miliardi di anni ed è tra i reperti marziani più antichi mai trovati sulla Terra. Dalle analisi sul frammento roccioso gli scienziati hanno dedotto la presenza di acqua sulla superficie primordiale di Marte. Lo riferisce VRT NWS.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/11/07/meteoriet-teghaza-001-laat-zien-hoe-mars-er-4-1-miljard-jaar-gel.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-11-07T16:25+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3f246706",
+   "sez": "tech",
+   "titolo": "Cyberattacchi a frigoriferi in Europa: bocciate le presunte prove degli hacker filorussi",
+   "orig": "Hackergruppernas mystiska ”bevis” för frysattackerna sågas",
+   "lead": "Le presunte prove diffuse su Telegram da un gruppo hacker filorusso per rivendicare attacchi informatici contro impianti di refrigerazione commerciale in Europa sono prive di fondamento. Un’indagine condotta con esperti di settore ha rivelato che il materiale pubblicato non dimostra affatto la reale compromissione dei sistemi presi di mira. Lo riferisce SVT Nyheter.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/inrikes/hackergruppernas-mystiska-bevis-for-frysattackerna-sagas",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-11-07T18:13+01:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze83606d7",
+   "sez": "mondo",
+   "titolo": "Stati Uniti: Donald Trump offre a Dana White il ruolo di portavoce della Casa Bianca",
+   "orig": "Trump tilbyr Dana White jobben som pressetalsperson",
+   "lead": "Il presidente Donald Trump ha proposto la carica di portavoce della Casa Bianca a Dana White, presidente dell’organizzazione di arti marziali miste UFC. L’annuncio è avvenuto sulla piattaforma Truth Social per colmare il posto rimasto vacante dopo le dimissioni di Katie Zacharia, durata appena cinque giorni nel ruolo. Lo riferisce NRK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NRK",
+     "p": "XX",
+     "c": "Oslo",
+     "u": "https://www.nrk.no/nyheter/trump-tilbyr-dana-white-jobben-som-pressetalsperson-1.18076605",
+     "angolo": "",
+     "atlas": "Norway",
+     "t": "2026-11-07T18:46+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:13",
+   "uscita": "sera"
+  },
+  {
    "id": "z165fe10e",
    "sez": "prima",
    "titolo": "Dati personali di Tajani e Lo Voi sul dark web e attacco alla Galleria del Brennero",
@@ -141,13 +634,47 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-06T16:53-05:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-07T19:12+01:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-07T19:31+01:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/stin-antepithesi-o-tramp-kalei-to-ypourgeio-dikaiosynis-na-ereynisei-se-varos-ton-dimokratikon-gia-ekfovismo/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-07T18:33+00:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-07T11:50-05:00"
     }
    ],
    "data": "7 nov",
    "ora": "20:07",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z5bf2416e",
@@ -302,6 +829,15 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-07T17:00+00:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/athlitismos/svista-kseperase-to-empodio-tou-vikos-ioanninon-me-93-67-o-paok/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-07T18:17+00:00"
     }
    ],
    "data": "7 nov",
@@ -482,30 +1018,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-07T17:50+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "20:07",
-   "uscita": "sera"
-  },
-  {
-   "id": "zc9794325",
-   "sez": "dibattito",
-   "titolo": "Manifestazione a Parigi per la scuola e il potere d'acquisto, scontri sul finale",
-   "orig": "Noi ciocniri între poliție și protestatari la Paris. Momentul în care au izbucnit violențele",
-   "lead": "A Parigi circa 46.000 persone hanno sfilato in un corteo di protesta contro il peggioramento del livello di vita e le carenze del sistema educativo in Francia. La manifestazione di protesta si è svolta in modo pacifico fino al termine del percorso, quando un limitato gruppo di partecipanti è entrato in conflitto con le forze dell'ordine a seguito del fermo di un manifestante. I promotori chiedono interventi governativi a tutela del potere d'acquisto dei cittadini e maggiori investimenti per la scuola pubblica. Lo riferisce HotNews.",
-   "more": [
-    "In Francia il dibattito sui costi della vita e sul finanziamento dell'istruzione pubblica vede contrapposti i sindacati dei lavoratori e le organizzazioni studentesche rispetto alle politiche economiche del governo. I manifestanti chiedono un aumento dei salari e una maggiore disponibilità di risorse per le strutture scolastiche, mentre l'esecutivo difende la sostenibilità dei conti pubblici e le riforme introdotte."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/noi-ciocniri-intre-politie-si-protestatari-la-paris-momentul-in-care-au-izbucnit-violentele-2397857",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-11-07T18:18+00:00"
     }
    ],
    "data": "7 nov",
@@ -2183,48 +2695,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "riempimento": true
   },
   {
-   "id": "z24636179",
-   "sez": "mondo",
-   "titolo": "Francia, cala l'affluenza alle proteste contro il carovita",
-   "orig": "Koliko je ljudi bilo na protestima u Francuskoj: Ministarstvo kaže...",
-   "lead": "Sabato di proteste in tutta la Francia contro l’aumento del costo della vita. Secondo il Ministero dell'Interno, circa 146.000 persone sono scese in piazza, di cui 46.000 a Parigi. La partecipazione risulta in diminuzione rispetto alle ultime tre settimane di mobilitazione giovanile e sociale.",
-   "more": [
-    "Le manifestazioni, nate dal malcontento per il carovita, si inseriscono in un clima di tensione sociale pre-elettorale. La Francia affronta da mesi un'ondata di proteste alimentata dall'inflazione e dalle riforme economiche proposte dal governo centrale."
-   ],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/svijet/evropa/835294/koliko-je-ljudi-bilo-na-protestima-u-francuskoj-ministarstvo-kaze-146000-medjusindikalna-koalicija-mladih-250000",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-11-07T19:17+01:00"
-    },
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/svet/na-protestima-u-francuskoj-oko-146000-ljudi/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-11-07T19:05+01:00"
-    },
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/11/07/mundo/noticia/estudantes-professores-franceses-marcam-nova-greve-coletes-amarelos-protestam-parte-2194165",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-11-07T18:40+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "20:07",
-   "uscita": "sera"
-  },
-  {
    "id": "ze7431356",
    "sez": "mondo",
    "titolo": "Kenya, il leader del culto Mackenzie affronta sei nuovi processi",
@@ -2257,7 +2727,7 @@ window.EDIZIONI["2026-11-07-sera"] = {
   },
   {
    "id": "z9f7c2109",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Parigi, scontri tra polizia e manifestanti durante le proteste nazionali",
    "orig": "Clashes in Paris after new French protests",
    "lead": "Scontri violenti sono scoppiati a Parigi tra forze dell’ordine e manifestanti durante la quarta mobilitazione nazionale consecutiva contro il carovita. Nonostante un'affluenza totale di 146.000 persone, inferiore ai turni precedenti, la tensione resta alta a pochi mesi dalle imminenti elezioni presidenziali in Francia.",
@@ -2280,6 +2750,51 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Pakistan",
      "t": "2026-11-07T23:34+05:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/diadiloseis-sti-gallia-epeisodia-se-parisi-lyon-kai-mpornto-se-146-000-250-000-atoma-ektimatai-i-symmetoxi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-07T18:10+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/noi-ciocniri-intre-politie-si-protestatari-la-paris-momentul-in-care-au-izbucnit-violentele-2397857",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-07T18:18+00:00"
+    },
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/svijet/evropa/835294/koliko-je-ljudi-bilo-na-protestima-u-francuskoj-ministarstvo-kaze-146000-medjusindikalna-koalicija-mladih-250000",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-07T19:17+01:00"
+    },
+    {
+     "n": "N1 Serbia",
+     "p": "XX",
+     "c": "Belgrado",
+     "u": "https://n1info.rs/svet/na-protestima-u-francuskoj-oko-146000-ljudi/",
+     "angolo": "",
+     "atlas": "Serbia",
+     "t": "2026-11-07T19:05+01:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/11/07/mundo/noticia/estudantes-professores-franceses-marcam-nova-greve-coletes-amarelos-protestam-parte-2194165",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-07T18:40+00:00"
     }
    ],
    "data": "7 nov",
@@ -2508,41 +3023,8 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zd7ba1f2c",
-   "sez": "mondo",
-   "titolo": "USA, Trump ordina indagini contro i democratici per estorsione",
-   "orig": "Trump ordina indagini sui democratici 'che minacciano molte persone'",
-   "lead": "Il presidente degli Stati Uniti, Donald Trump, ha ordinato l'avvio di indagini sui membri del Partito Democratico accusati di minacciare esponenti repubblicani. Trump ha definito le prospettive di impeachment come una forma di estorsione che deve essere sanzionata legalmente. Lo riferisce l'ANSA.",
-   "more": [
-    "Il ricorso a indagini giudiziarie contro avversari politici è un tema ricorrente nel dibattito statunitense. Queste tensioni riflettono la profonda polarizzazione tra repubblicani e democratici in vista delle prossime scadenze istituzionali."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-07T19:12+01:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/07/news/trump_ordina_dipartimento_giustizia_indagini_sui_dem_minacce_a_repubblicani-425707327/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-07T19:31+01:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "20:07",
-   "uscita": "sera"
-  },
-  {
    "id": "zc783ed76",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "USA, vittoria dem apre alla riforma del sistema elettorale nazionale",
    "orig": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
    "lead": "L'esito dell'ultimo Election Day negli Stati Uniti ha rilanciato l'ipotesi di una riforma del sistema elettorale. Si valuta il passaggio dal meccanismo dei grandi elettori al conteggio del voto popolare nazionale per l'elezione del presidente, superando l'attuale divisione basata sui singoli Stati. Lo riferisce la Repubblica.",
@@ -2571,7 +3053,9 @@ window.EDIZIONI["2026-11-07-sera"] = {
    ],
    "data": "7 nov",
    "ora": "20:07",
-   "uscita": "sera"
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "z27b33fdf",
@@ -2753,7 +3237,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z846fb395": "Geopop mette in risalto i primati ingegneristici mondiali stabiliti dalla grandiosa opera cinese.",
   "zbcf87f9e": "RNZ sottolinea la trasformazione visibile del colore del mare dovuta alla presenza massiccia di microplastiche.",
   "za6686605": "Turisti per Caso mette in luce l'inestimabile valore culturale e storico del rum nell'arcipelago.",
-  "zc9794325": "HotNews evidenzia la numerosa partecipazione al corteo parigino e il momento in cui sono scoppiate le tensioni.",
   "z04dae1e2": "Good News Network valorizza l'eccezionale comportamento protettivo del cane nei confronti del bambino.",
   "z8432c954": "Dezeen evidenzia il design fluido e la scelta dei colori adottati nel progetto d'interni.",
   "z6999a745": "Orizzonte Scuola fa il punto sui chiarimenti normativi legati all'utilizzo del docente di sostegno.",
@@ -2814,7 +3297,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "za174bc9b": "I giornali francesi sottolineano la compostezza della folla e il messaggio di coesione civica contro l'odio razziale.",
   "ze73f61e4": "La stampa spagnola mette in risalto l'ottava vittoria di fila del murciano e il futuro legame tra Ferrero e Shelton.",
   "z015ed10e": "Le emittenti evidenziano le distruzioni nei villaggi e la creazione di collegamenti logistici stabili dell'esercito.",
-  "z24636179": "Focus sui dati ufficiali del governo francese.",
   "ze7431356": "Focus sulle ramificazioni legali di gravi crimini religiosi e politici.",
   "z9f7c2109": "Analisi dell'impatto degli scontri sull'ordine pubblico.",
   "zf968a0f8": "Attenzione agli sviluppi diplomatici in Nord Africa.",
@@ -2824,13 +3306,34 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "za3ed515b": "Rilevanza del supporto internazionale alla salute pubblica in Africa.",
   "z4dd6904a": "Dettaglio sui cambiamenti ai vertici della finanza tech.",
   "za2cd4ead": "Resoconto sulle dinamiche sindacali dell'industria pesante asiatica.",
-  "zd7ba1f2c": "Sintesi dei nuovi scontri verbali tra Trump e i Democratici.",
   "zc783ed76": "Analisi delle prospettive di riforma istituzionale americana.",
   "z27b33fdf": "Cronaca di un'emergenza di sicurezza nei cieli indiani.",
   "z3bd3b373": "Focus sulle politiche di sviluppo economico e sostenibile.",
   "z69f4fa0e": "Aggiornamento sulle riforme normative nel settore farmaceutico.",
   "zba36d0dd": "Dettagli sulle nomine tecniche e politiche del governo francese.",
-  "za4ddd679": "Focus sulle frizioni interne alla sinistra spagnola."
+  "za4ddd679": "Focus sulle frizioni interne alla sinistra spagnola.",
+  "z44ba74f1": "La testata tedesca analizza criticamente la coerenza della diplomazia europea di fronte alle tensioni democratiche nello spazio post-sovietico.",
+  "zc805f848": "L'emittente pubblica irlandese offre una copertura istituzionale e diretta degli eventi politici nazionali.",
+  "zf5b4b2b2": "La testata nazionale lituana segue con precisione gli aggiornamenti di mercato e la situazione delle squadre sportive locali.",
+  "z36dd25a4": "La testata lituana adotta un punto di vista sportivo e focalizzato sul commento tecnico post-partita del campionato di basket.",
+  "z590f167c": "La testata lituana valorizza buone pratiche ambientali internazionali per la tutela della biodiversità marina e la lotta climatica.",
+  "za9e981d4": "L'emittente neozelandese adotta un punto di vista geopolitico strategico incentrato sugli equilibri nell'area dell'Indo-Pacifico.",
+  "z17b96864": "La radiotelevisione pubblica greca sottolinea l'importanza e la risonanza internazionale dei grandi eventi sportivi ospitati nel paese.",
+  "zb370e694": "Il network greco riferisce di inchieste transnazionali sulla cybercriminalità con implicazioni finanziarie che coinvolgono il territorio ellenico.",
+  "z766b4992": "Il giornale di Kiev adotta un taglio informativo rigoroso incentrato sugli aiuti militari internazionali all'Ucraina.",
+  "z089353b5": "La testata nigeriana offre un'analisi puntuale delle riforme nel settore dell'istruzione superiore e della pubblica amministrazione.",
+  "z5a30ac70": "Il quotidiano nigeriano esamina con attenzione i conflitti legali e giurisdizionali tra autorità statali e federali.",
+  "z498b13ba": "La testata nigeriana segue con passione e spirito patriottico gli eventi sportivi internazionali di rilievo per la nazione.",
+  "zbf98a55e": "L'emittente di opposizione iraniana in esilio documenta le tensioni e gli episodi di discriminazione nel panorama calcistico nazionale.",
+  "zf5f97ef8": "L'emittente seleziona curiosità e notizie di costume legate ai grandi personaggi dello sport internazionale.",
+  "z3173cd4f": "Il portale d'informazione romeno monitora la situazione dei propri concittadini all'estero in occasione di eventi drammatici.",
+  "z31209ee3": "La testata rumena segue le conseguenze geopolitiche e giudiziarie degli incidenti legati al conflitto nel Mar Nero.",
+  "z96ca408f": "Il sito web romeno riporta con puntualità le dichiarazioni post-partita e gli sviluppi del campionato calcistico nazionale.",
+  "zf4af0645": "La testata romena analizza l'evoluzione bellica turca evidenziando le implicazioni dirette per la flotta di droni in dotazione a Bucarest.",
+  "z6da99c7f": "L'emittente olandese evidenzia la pressione insostenibile sui servizi dell'isola e le richieste di soccorso inviate alle autorità centrali e regionali.",
+  "zbab5ecc0": "L'emittente fiamminga pone l'accento sul valore scientifico del reperto che testimonia la presenza di acqua liquida nelle prime fasi geologiche di Marte.",
+  "z3f246706": "L'inchiesta svedese smonta la rivendicazione propagandistica dei pirati informatici, smascherando l'inconsistenza tecnica delle loro affermazioni.",
+  "ze83606d7": "L'emittente norvegese mette in rilievo la mossa insolita di Trump di reclutare il massimo dirigente degli sport da combattimento per la comunicazione presidenziale."
  },
  "contesti": {
   "z82802594": "Il campionato di Bundesliga si caratterizza per il serrato duello al vertice tra Bayern Monaco e Borussia Dortmund. Nello scontro diretto disputato nel turno precedente a Monaco di Baviera, le due squadre avevano pareggiato per 2-2, confermando l'equilibrio di punteggio e rendendo decisivi i risultati delle giornate successive per la leadership.",
@@ -2839,7 +3342,9 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z165fe10e": "Negli ultimi mesi si è registrata una crescente tensione legata alla sicurezza cibernetica in Italia, con ripetute segnalazioni di minacce informatiche rivolte contro infrastrutture critiche, enti istituzionali e personalità pubbliche. In questo contesto di elevata attenzione per la protezione dei dati sensibili e dei sistemi digitali nazionali, le autorità competenti hanno intensificato le contromisure di prevenzione e monitoraggio delle attività illecite sul web.",
   "z3e2fe9c9": "Nel corso degli ultimi mesi, il governo italiano ha dovuto gestire l'andamento dei prezzi energetici e dei carburanti attraverso interventi fiscali temporanei, tra cui la riduzione delle accise introdotta per calmierare l'impatto dell'inflazione sui consumatori. Con l'approssimarsi della scadenza del termine di validità del provvedimento, il dibattito politico ed economico si è concentrato sulla sostenibilità della proroga della misura agevolativa.",
   "zc94929ca": "La campagna elettorale per le elezioni di metà mandato negli Stati Uniti si è sviluppata in un clima di forte polarizzazione politica, focalizzandosi prevalentemente sui temi economici, sull'inflazione e sul costo della vita percepito dai cittadini. I sondaggi della vigilia avevano evidenziato una competizione molto incerta tra le forze politiche, con gli elettori chiamati a esprimersi sull'operato dell'amministrazione in carica e sulla direzione economica del Paese.",
-  "z015ed10e": "Nel quadro del conflitto in corso nella regione mediorientale, le operazioni militari israeliane nel sud del Libano si sono intensificate nel tempo, passando da raid mirati a interventi più strutturati sul terreno. La strategia delle forze armate si è progressivamente concentrata sulla neutralizzazione delle infrastrutture operative avversarie e sul consolidamento del controllo militare nelle aree di confine."
+  "z015ed10e": "Nel quadro del conflitto in corso nella regione mediorientale, le operazioni militari israeliane nel sud del Libano si sono intensificate nel tempo, passando da raid mirati a interventi più strutturati sul terreno. La strategia delle forze armate si è progressivamente concentrata sulla neutralizzazione delle infrastrutture operative avversarie e sul consolidamento del controllo militare nelle aree di confine.",
+  "z9f7c2109": "La Francia è scossa da settimane da un'ondata di mobilitazioni contro l'aumento del costo della vita e l'inflazione galoppante. Le sigle sindacali e i movimenti sociali hanno organizzato scioperi nei settori chiave, dai trasporti all'energia, chiedendo adeguamenti salariali. Nonostante i tentativi di mediazione del governo, la rabbia sociale è cresciuta costantemente, trasformando le piazze in un terreno di scontro politico acceso in vista delle imminenti consultazioni presidenziali.",
+  "zc783ed76": "Il dibattito sulla riforma del sistema elettorale statunitense è tornato centrale dopo l'ultimo Election Day. Per anni, il meccanismo del Collegio Elettorale è stato oggetto di critiche per la discrepanza tra voto popolare e assegnazione della presidenza. La recente affermazione dei democratici ha creato le condizioni politiche per discutere il superamento della divisione basata sui singoli Stati, puntando a una riforma che valorizzi il conteggio dei voti dei singoli cittadini su base nazionale."
  },
  "cronologie": {
   "z82802594": [
@@ -2917,9 +3422,111 @@ window.EDIZIONI["2026-11-07-sera"] = {
     "Vigilia",
     "Prosecuzione delle demolizioni di edifici e degli attacchi di artiglieria nelle zone periferiche"
    ]
+  ],
+  "z9f7c2109": [
+   [
+    "Ottobre",
+    "Inizio degli scioperi nei settori strategici dell'energia e dei trasporti"
+   ],
+   [
+    "Settimane scorse",
+    "Svolgimento delle prime tre giornate di mobilitazione nazionale"
+   ],
+   [
+    "Giorni scorsi",
+    "Appello unitario dei sindacati per il quarto sciopero generale"
+   ]
+  ],
+  "zc783ed76": [
+   [
+    "Election Day",
+    "Vittoria democratica che consolida il controllo su diverse istituzioni chiave"
+   ],
+   [
+    "Settimana scorsa",
+    "Presentazione di analisi sui limiti del meccanismo dei Grandi Elettori"
+   ],
+   [
+    "Oggi",
+    "Apertura ufficiale del dibattito legislativo per il passaggio al voto popolare"
+   ]
   ]
  },
- "confronti": {},
+ "confronti": {
+  "zc94929ca": {
+   "voci": [
+    {
+     "n": "NPR",
+     "c": "Washington",
+     "p": "US",
+     "t": "NPR pone al centro i temi economici che hanno spinto i Democratici alla vittoria, come l'accessibilità e i costi della vita. Cita leader come Hakeem Jeffries e Chuck Schumer, analizzando l'uso dei poteri congressuali e il ricorso al veto presidenziale.",
+     "b": "a"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "L'ANSA riferisce l'ordine di Donald Trump al Dipartimento di Giustizia di indagare sui Democratici per presunte estorsioni e minacce ai repubblicani. Riporta inoltre le dichiarazioni del tycoon sulla Russia e le tensioni nella sua amministrazione riguardo all'Iran.",
+     "b": "a"
+    },
+    {
+     "n": "ERT News",
+     "c": "Atene",
+     "p": "XX",
+     "t": "ERT News, come voce della Grecia, riprende la reazione di Trump e la nomina di Stephen Miller a capo di gabinetto della Casa Bianca. Cita le forti critiche dei leader democratici Schumer e Jeffries e le analisi della stampa estera sulle tensioni interne.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "c": "Roma",
+     "p": "IT",
+     "t": "la Repubblica riporta l'ordine di Trump di avviare indagini sui Democratici tramite il post su Truth. Il giudizio è parziale in quanto è disponibile solo il titolo con l'occhiello.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le testate offrono prospettive differenti sui post-midterm negli Stati Uniti: Deutsche Welle e NPR si concentrano sulle dinamiche legislative dei Democratici, sull'economia e sui rapporti di forza con Trump, mentre l'ANSA, ERT News e la Repubblica mettono in primo piano l'offensiva giudiziaria ordinata da Trump contro i rivali politici e i cambiamenti nei ranghi della Casa Bianca."
+  },
+  "z9f7c2109": {
+   "voci": [
+    {
+     "n": "South China Morning Post",
+     "c": "Hong Kong",
+     "p": "XX",
+     "t": "Articolo neutro e informativo. Mette al centro gli scontri a Parigi, citando le cifre dei sindacati e del ministero dell'Interno. Inserisce le proteste contro il «caro vita» nel quadro delle elezioni presidenziali previste tra cinque mesi.",
+     "b": "a"
+    },
+    {
+     "n": "Dawn",
+     "c": "Karachi",
+     "p": "XX",
+     "t": "Offre un resoconto dettagliato e informativo. Riporta le stime di affluenza, descrivendo l'uso di «gas lacrimogeni» da parte delle forze dell'ordine e gli arresti tra i «Gilet Gialli». Dà voce a studenti, commercianti e menziona le figure politiche di Le Pen e Mélenchon.",
+     "b": "a"
+    },
+    {
+     "n": "ERT News",
+     "c": "Atene",
+     "p": "XX",
+     "t": "Resoconto informativo che estende la cronaca a Parigi, Lione e Bordeaux. Cita le stime ufficiali e sindacali sull'affluenza, avvalendosi della corrispondente sul posto. Attribuisce le violenze al «blocco nero» e segnala l'arresto dei coordinatori dei Gilet Gialli.",
+     "b": "a"
+    },
+    {
+     "n": "HotNews",
+     "c": "Bucarest",
+     "p": "XX",
+     "t": "Cronaca neutra incentrata sulle dinamiche degli scontri a Parigi al termine del corteo. Cita la prefettura di polizia e riporta l'invito degli agenti a disperdersi «con calma». Riferisce i dati sulla partecipazione ed estende il resoconto ai disordini a Lione e Lilla.",
+     "b": "a"
+    },
+    {
+     "n": "Vijesti",
+     "c": "Podgorica",
+     "p": "XX",
+     "t": "Articolo sintetico e puramente informativo. Si concentra esclusivamente sui dati della partecipazione, mettendo a confronto le stime del Ministero dell'Interno con quelle della «coalizione sindacale giovanile». Evidenzia il calo di affluenza rispetto ai cortei precedenti.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate divergono per dettaglio geografico e approfondimento. Vijesti si limita esclusivamente ai dati di partecipazione, mentre South China Morning Post focalizza il racconto su Parigi. Dawn, HotNews ed ERT News estendono la cronaca ad altre città come Lione, Lilla e Bordeaux. Inoltre, sulle violenze a Parigi, ERT News le attribuisce a un «blocco nero» di incappucciati, laddove Dawn e HotNews riportano la ricostruzione della polizia su un gruppo di 200 individui violenti. Dawn è l'unica testata ad approfondire l'impatto economico sui commercianti e il contesto politico elettorale."
+  }
+ },
  "luoghi": {
   "z165fe10e": {
    "n": "Roma",
@@ -3013,13 +3620,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "za6686605": {
    "n": "Guadalupa",
    "p": [],
-   "pt": []
-  },
-  "zc9794325": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
    "pt": []
   },
   "z04dae1e2": {
@@ -3446,13 +4046,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    ],
    "pt": []
   },
-  "z24636179": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "ze7431356": {
    "n": "Nairobi",
    "p": [
@@ -3516,13 +4109,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    ],
    "pt": []
   },
-  "zd7ba1f2c": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zc783ed76": {
    "n": "Washington",
    "p": [
@@ -3564,13 +4150,174 @@ window.EDIZIONI["2026-11-07-sera"] = {
     "Spain"
    ],
    "pt": []
+  },
+  "z44ba74f1": {
+   "n": "Erevan",
+   "p": [
+    "Armenia",
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "zc805f848": {
+   "n": "Cork",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zf5b4b2b2": {
+   "n": "Panevėžys",
+   "p": [
+    "Lithuania",
+    "France"
+   ],
+   "pt": []
+  },
+  "z36dd25a4": {
+   "n": "Panevėžys",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z590f167c": {
+   "n": "Muğla",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "za9e981d4": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z17b96864": {
+   "n": "Kozani",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zb370e694": {
+   "n": "New York",
+   "p": [
+    "United States of America",
+    "Greece"
+   ],
+   "pt": []
+  },
+  "z766b4992": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z089353b5": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z5a30ac70": {
+   "n": "Owerri",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z498b13ba": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria",
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zbf98a55e": {
+   "n": "Tabriz",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zf5f97ef8": {
+   "n": "Funchal",
+   "p": [
+    "Portugal",
+    "France"
+   ],
+   "pt": []
+  },
+  "z3173cd4f": {
+   "n": "Bucarest",
+   "p": [
+    "Romania",
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z31209ee3": {
+   "n": "Varna",
+   "p": [
+    "Bulgaria",
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z96ca408f": {
+   "n": "Miercurea Ciuc",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zf4af0645": {
+   "n": "Turchia",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z6da99c7f": {
+   "n": "El Hierro",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zbab5ecc0": {
+   "n": "Deserto del Sahara",
+   "p": [],
+   "pt": []
+  },
+  "z3f246706": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "ze83606d7": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
   "z165fe10e": 2,
   "z16a3a210": 2,
   "z3e2fe9c9": 2,
-  "zc94929ca": 2,
+  "zc94929ca": 3,
   "z5bf2416e": 1,
   "zda8f534e": 1,
   "z5930d34f": 1,
@@ -3581,7 +4328,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z846fb395": 1,
   "zbcf87f9e": 1,
   "za6686605": 1,
-  "zc9794325": 1,
   "z04dae1e2": 1,
   "z8432c954": 1,
   "z6999a745": 1,
@@ -3642,9 +4388,8 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "za174bc9b": 2,
   "ze73f61e4": 1,
   "z015ed10e": 2,
-  "z24636179": 2,
   "ze7431356": 1,
-  "z9f7c2109": 1,
+  "z9f7c2109": 2,
   "zf968a0f8": 1,
   "z80e8a7f2": 1,
   "z22933d8e": 1,
@@ -3652,13 +4397,34 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "za3ed515b": 1,
   "z4dd6904a": 1,
   "za2cd4ead": 1,
-  "zd7ba1f2c": 1,
-  "zc783ed76": 1,
+  "zc783ed76": 2,
   "z27b33fdf": 1,
   "z3bd3b373": 1,
   "z69f4fa0e": 1,
   "zba36d0dd": 1,
-  "za4ddd679": 1
+  "za4ddd679": 1,
+  "z44ba74f1": 1,
+  "zc805f848": 1,
+  "zf5b4b2b2": 1,
+  "z36dd25a4": 1,
+  "z590f167c": 1,
+  "za9e981d4": 1,
+  "z17b96864": 1,
+  "zb370e694": 1,
+  "z766b4992": 1,
+  "z089353b5": 1,
+  "z5a30ac70": 1,
+  "z498b13ba": 1,
+  "zbf98a55e": 1,
+  "zf5f97ef8": 1,
+  "z3173cd4f": 1,
+  "z31209ee3": 1,
+  "z96ca408f": 1,
+  "zf4af0645": 1,
+  "z6da99c7f": 2,
+  "zbab5ecc0": 1,
+  "z3f246706": 1,
+  "ze83606d7": 1
  },
  "video": {},
  "pillole": []
