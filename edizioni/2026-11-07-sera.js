@@ -3,30 +3,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "zf5d45a4b",
-   "sez": "mondo",
-   "titolo": "Raid di miliziani uccide 33 persone nella Repubblica Democratica del Congo, pazienti Ebola in fuga",
-   "orig": "Militants kill 33 in DRC raid, force Ebola patients to flee",
-   "lead": "Gli assalitori hanno appiccato il fuoco a un centro sanitario durante il raid, costringendo alla fuga i pazienti affetti da Ebola in cura nella zona, che è uno dei focolai dell'epidemia in corso nel Paese. Lo riferisce Citizen Digital.",
-   "more": [
-    "Il Nord Kivu, nell'est della Repubblica Democratica del Congo, è teatro da anni di violenze di gruppi armati che sfruttano l'instabilità regionale. L'area è anche colpita da ricorrenti epidemie di Ebola, una febbre emorragica virale letale che richiede misure di contenimento rapide ed efficaci per evitarne la diffusione."
-   ],
-   "fonti": [
-    {
-     "n": "Citizen Digital",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/militants-kill-33-in-drc-raid-force-ebola-patients-to-flee-n393500",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-11-07T17:30+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "20:25",
-   "uscita": "sera"
-  },
-  {
    "id": "ze05c13fe",
    "sez": "dibattito",
    "titolo": "Francia, proteste nazionali per chiedere più risorse per le scuole",
@@ -149,39 +125,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-07T14:00+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "20:25",
-   "uscita": "sera"
-  },
-  {
-   "id": "z22933d8e",
-   "sez": "mondo",
-   "titolo": "Il Senato del Paraguay destituisce e fa arrestare l'ex presidente Santiago Peña",
-   "orig": "Destituyen y detienen al expresidente de Paraguay, Santiago Peña",
-   "lead": "Il Senato del Paraguay ha destituito venerdì 6 novembre l'ex presidente Santiago Peña, arrestato poco dopo nella propria residenza in seguito al crollo della banca Ueno, istituto a cui l'ex mandatario viene collegato e verso cui, durante il suo governo, sarebbero stati indirizzati fondi milionari. Successivamente Peña è stato formalmente accusato dei reati di «lesione di confidenza» e «amministrazione a proprio profitto». Nelle strade del paese sono scoppiate proteste in cui i manifestanti chiedono giustizia e l'invio dell'ex presidente in carcere.",
-   "more": [
-    "Il Paraguay è una repubblica presidenziale sudamericana in cui il Senato ha potere di destituzione dei funzionari pubblici in casi di gravi irregolarità. Il crollo di un istituto bancario legato a un capo di Stato solleva interrogativi sulla gestione di fondi pubblici e sul controllo istituzionale sulle attività finanziarie private connesse al potere politico."
-   ],
-   "fonti": [
-    {
-     "n": "Confidencial",
-     "p": "XX",
-     "c": "Managua",
-     "u": "https://confidencial.digital/mundo/justicia-de-paraguay-ordena-detener-a-santiago-pena-tras-su-destitucion/",
-     "angolo": "",
-     "atlas": "Nicaragua",
-     "t": "2026-11-06T23:02+00:00"
-    },
-    {
-     "n": "La Nación",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.lanacion.com.ar/el-mundo/el-expresidente-santiago-pena-declara-en-la-fiscalia-por-el-colapso-de-ueno-bank-nid07112026/",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-11-07T18:36+00:00"
     }
    ],
    "data": "7 nov",
@@ -1307,7 +1250,7 @@ window.EDIZIONI["2026-11-07-sera"] = {
   },
   {
    "id": "z04dae1e2",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Un Doberman avverte l'alterazione cardiaca di un neonato e gli salva la vita",
    "orig": "Baby Saved After Racing Heartbeat Detected by Family Doberman",
    "lead": "Un cane di razza Doberman ha salvato la vita a un neonato di sei mesi segnalando tempestivamente alla madre un battito cardiaco insolitamente accelerato del bambino. L'animale domestico manifestava un comportamento visibilmente agitato e continuava a piangere ogni volta che il piccolo veniva allontanato. La costante insistenza del cane ha spinto i familiari a verificare le condizioni di salute del figlio e a richiedere il necessario intervento dei medici per curare la patologia riscontrata. Lo riferisce Good News Network.",
@@ -4539,6 +4482,15 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Dem. Rep. Congo",
      "t": "2026-11-07T13:10+01:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/militants-kill-33-in-drc-raid-force-ebola-patients-to-flee-n393500",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-07T17:30+00:00"
     }
    ],
    "data": "7 nov",
@@ -8173,10 +8125,8 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "zbab5ecc0": "L'emittente fiamminga pone l'accento sul valore scientifico del reperto che testimonia la presenza di acqua liquida nelle prime fasi geologiche di Marte.",
   "z3f246706": "L'inchiesta svedese smonta la rivendicazione propagandistica dei pirati informatici, smascherando l'inconsistenza tecnica delle loro affermazioni.",
   "ze83606d7": "L'emittente norvegese mette in rilievo la mossa insolita di Trump di reclutare il massimo dirigente degli sport da combattimento per la comunicazione presidenziale.",
-  "zf5d45a4b": "La testata keniota mette in evidenza il doppio impatto dell'attacco: le vittime e la fuga dei malati di Ebola.",
   "ze05c13fe": "La testata svizzera descrive un movimento di protesta che si allarga e sfocia in scontri e violenza in diverse città francesi.",
   "z9c457292": "Le testate riportano numeri diversi di partecipanti, tra 30.000 e 40.000, e sottolineano la recente operazione chirurgica del Papa.",
-  "z22933d8e": "Le testate sudamericane riportano sia l'atto istituzionale della destituzione sia le proteste di piazza che chiedono il carcere per l'ex presidente.",
   "zba8413bc": "Le Monde dà spazio all'analisi dello storico sul possibile passaggio da una classe dirigente tecnica a leader populisti in Francia.",
   "z57a7b766": "La testata cilena si concentra sulle dichiarazioni del Papa riguardanti la propria salute e i temi ambientali.",
   "z9b8d3eab": "Le testate keniote indagano sulle responsabilità poco chiare dietro il crollo, incluso il ruolo di un ingegnere che afferma di essersi ritirato dal progetto.",
@@ -10545,13 +10495,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    ],
    "pt": []
   },
-  "zf5d45a4b": {
-   "n": "Nord Kivu",
-   "p": [
-    "Dem. Rep. Congo"
-   ],
-   "pt": []
-  },
   "ze05c13fe": {
    "n": "Francia",
    "p": [
@@ -10563,13 +10506,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "n": "Paysandú",
    "p": [
     "Uruguay"
-   ],
-   "pt": []
-  },
-  "z22933d8e": {
-   "n": "Asunción",
-   "p": [
-    "Paraguay"
    ],
    "pt": []
   },
@@ -10848,10 +10784,8 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "zbab5ecc0": 1,
   "z3f246706": 1,
   "ze83606d7": 1,
-  "zf5d45a4b": 1,
   "ze05c13fe": 1,
   "z9c457292": 3,
-  "z22933d8e": 1,
   "zba8413bc": 1,
   "z57a7b766": 2,
   "z9b8d3eab": 1,
