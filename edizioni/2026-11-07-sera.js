@@ -3,6 +3,315 @@ window.EDIZIONI["2026-11-07-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zf5d45a4b",
+   "sez": "mondo",
+   "titolo": "Raid di miliziani uccide 33 persone nella Repubblica Democratica del Congo, pazienti Ebola in fuga",
+   "orig": "Militants kill 33 in DRC raid, force Ebola patients to flee",
+   "lead": "Gli assalitori hanno appiccato il fuoco a un centro sanitario durante il raid, costringendo alla fuga i pazienti affetti da Ebola in cura nella zona, che è uno dei focolai dell'epidemia in corso nel Paese. Lo riferisce Citizen Digital.",
+   "more": [
+    "Il Nord Kivu, nell'est della Repubblica Democratica del Congo, è teatro da anni di violenze di gruppi armati che sfruttano l'instabilità regionale. L'area è anche colpita da ricorrenti epidemie di Ebola, una febbre emorragica virale letale che richiede misure di contenimento rapide ed efficaci per evitarne la diffusione."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/militants-kill-33-in-drc-raid-force-ebola-patients-to-flee-n393500",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-07T17:30+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:25",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze05c13fe",
+   "sez": "dibattito",
+   "titolo": "Francia, proteste nazionali per chiedere più risorse per le scuole",
+   "orig": "DIE NEUESTEN ENTWICKLUNGEN - Proteste in Frankreich: Erneut demonstrieren landesweit Tausende Menschen für eine bessere Ausstattung der Schulen",
+   "lead": "In Francia migliaia di persone sono tornate in piazza in tutto il paese per chiedere una migliore dotazione di risorse per le scuole. Da settimane studenti, insegnanti e sindacati manifestano, in un movimento che secondo la testata svizzera NZZ ha dato origine a disordini e episodi di violenza in diverse città. Le fonti non specificano quali misure concrete chiedano i manifestanti né quale sia la risposta del governo francese a queste richieste.",
+   "more": [
+    "In Francia il sistema scolastico pubblico è gestito a livello centrale dal ministero dell'Istruzione, che decide organici, finanziamenti e programmi. Le proteste di insegnanti e studenti per chiedere maggiori risorse sono ricorrenti e spesso riguardano il numero di docenti, le condizioni degli edifici scolastici e i fondi destinati all'istruzione pubblica."
+   ],
+   "fonti": [
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/neue-schuelerproteste-in-frankreich-droht-eine-ausweitung-der-ausschreitungen-ld.10026904",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-07T18:21+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:25",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9c457292",
+   "sez": "prima",
+   "titolo": "Papa Leone XIV celebra la messa in Uruguay invocando fratellanza e fede",
+   "orig": "With an ode to mate, Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
+   "lead": "Papa Leone XIV ha celebrato sabato la messa a Paysandú, in Uruguay, invitando i fedeli a costruire ponti di fratellanza e fede, con un riferimento al mate come simbolo di condivisione. Più di 30.000 persone, provenienti anche da Argentina e Brasile, si erano registrate in anticipo per partecipare alla funzione, mentre il Vaticano ha riferito che altre 10.000 si sono presentate nonostante la pioggia mattutina. La visita si inserisce nel sesto viaggio apostolico del pontefice, avvenuto meno di un mese dopo un intervento chirurgico per un adenocarcinoma polmonare all'ospedale Gemelli di Roma.",
+   "more": [
+    "Il mate è una bevanda tradizionale sudamericana condivisa socialmente, spesso usata come simbolo di comunità e ospitalità in Uruguay e Argentina. Il riferimento del Papa a questa usanza locale si inserisce nella tradizione dei pontefici di adattare i propri discorsi ai contesti culturali visitati durante i viaggi apostolici."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/with-an-ode-to-mate-pope-leo-urges-faithful-in-uruguay-to-build-bridges-of-fraternity-and-faith",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-07T13:14-05:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-07T19:15+01:00"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-prays-our-lady-rosary-paysandu-uruguay.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-07T16:27+01:00"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-uruguay-carry-forward-the-mission-of-evangelization.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-07T15:00+01:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-07T18:00+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-07T16:26+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/sociedad/banderas-reposeras-viaje-relampago-quedar-metros-leon-xiv-vivieron-argentinos-misa-papal-uruguay_0_DNEzOCGU48.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-07T18:24+00:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/paysandu-saco-relucir-su-orgullo-anfitrion-y-recibio-al-papa-leon-xiv-su-primera-y-multitudinaria-misa-latinoamerica-n6063093",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-07T15:53-03:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/el-intendente-paysandu-conto-que-sintio-al-dialogar-el-papa-leon-xiv-y-como-fue-el-encuentro-junto-sus-hijas-n6063090",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-07T15:01-03:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/papa-a-paysandu-siate-costruttori-ponti-03e102c2-7c84-4cae-8b5c-b3161cb8f01a.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-07T14:00+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:25",
+   "uscita": "sera"
+  },
+  {
+   "id": "z22933d8e",
+   "sez": "mondo",
+   "titolo": "Il Senato del Paraguay destituisce e fa arrestare l'ex presidente Santiago Peña",
+   "orig": "Destituyen y detienen al expresidente de Paraguay, Santiago Peña",
+   "lead": "Il Senato del Paraguay ha destituito venerdì 6 novembre l'ex presidente Santiago Peña, arrestato poco dopo nella propria residenza in seguito al crollo della banca Ueno, istituto a cui l'ex mandatario viene collegato e verso cui, durante il suo governo, sarebbero stati indirizzati fondi milionari. Successivamente Peña è stato formalmente accusato dei reati di «lesione di confidenza» e «amministrazione a proprio profitto». Nelle strade del paese sono scoppiate proteste in cui i manifestanti chiedono giustizia e l'invio dell'ex presidente in carcere.",
+   "more": [
+    "Il Paraguay è una repubblica presidenziale sudamericana in cui il Senato ha potere di destituzione dei funzionari pubblici in casi di gravi irregolarità. Il crollo di un istituto bancario legato a un capo di Stato solleva interrogativi sulla gestione di fondi pubblici e sul controllo istituzionale sulle attività finanziarie private connesse al potere politico."
+   ],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/mundo/justicia-de-paraguay-ordena-detener-a-santiago-pena-tras-su-destitucion/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-11-06T23:02+00:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/el-mundo/el-expresidente-santiago-pena-declara-en-la-fiscalia-por-el-colapso-de-ueno-bank-nid07112026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-07T18:36+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:25",
+   "uscita": "sera"
+  },
+  {
+   "id": "zba8413bc",
+   "sez": "dibattito",
+   "titolo": "Francia, lo storico Hervé Le Bras: una classe tecnocratica sostituita da leader populisti",
+   "orig": "Hervé Le Bras, historien : « Une France de technocrates est en train d’être remplacée par une France de tribuns »",
+   "lead": "Lo storico francese Hervé Le Bras, in un'intervista a Le Monde, spiega come una parte della popolazione francese, priva di punti di riferimento tradizionali e che si sente esclusa, potrebbe allontanare le attuali élite politiche a favore di un governo autoritario che restituisca al popolo un ruolo centrale. Secondo Le Bras, una Francia di tecnocrati sta per essere rimpiazzata da una Francia di tribuni, cioè di leader che parlano direttamente al popolo contro le istituzioni tradizionali. L'intervista non riporta posizioni di partiti o esponenti politici francesi su questa tesi.",
+   "more": [
+    "In molte democrazie occidentali si discute del crescente distacco tra cittadini ed élite politiche ed economiche tradizionali, un fenomeno spesso collegato all'ascesa di movimenti populisti. In Francia questo dibattito si lega a crisi di governo recenti e a un diffuso senso di insoddisfazione verso partiti e istituzioni percepiti come lontani dai problemi quotidiani delle persone."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-07T18:00+01:00"
+    },
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "https://defimedia.info/soupconne-detre-lexpediteur-des-15-tonne-de-cannabis-nishal-un-train-de-vie-fastueux-dans-le-viseur",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-11-07T19:30+04:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:25",
+   "uscita": "sera"
+  },
+  {
+   "id": "z57a7b766",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV parla del suo stato di salute e chiede un uso responsabile delle risorse naturali in Uruguay",
+   "orig": "Papa León XIV aborda su estado de salud y llama a un uso responsable de los recursos naturales en su visita a Uruguay",
+   "lead": "Durante la sua visita in Uruguay, Papa Leone XIV ha affrontato il tema del proprio stato di salute e ha richiamato all'uso responsabile delle risorse naturali, segnalando sfide importanti nei trasporti, nella produzione e nella gestione della terra. Il pontefice ha affermato che pensare a lungo termine significa amministrare questi beni senza comprometterne la disponibilità per le generazioni future. Il Papa è rientrato a Montevideo dopo le attività svolte a Paysandú, dove il quartiere di Casavalle si preparava ad accoglierlo.",
+   "more": [
+    "Leone XIV ha subito recentemente un intervento per un adenocarcinoma polmonare, circostanza che rende rilevanti i suoi riferimenti pubblici alla propria salute durante il viaggio in Sud America. I temi ambientali toccati, legati a trasporti e uso della terra, rientrano nella tradizione della dottrina sociale della Chiesa sulla cura del creato."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/mundo/noticia/papa-leon-xiv-aborda-su-estado-de-salud-y-llama-a-un-uso-responsable-de-los-recursos-naturales-en-su-visita-a-uruguay/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-11-07T17:31+00:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/en-vivo-el-papa-leon-xiv-llega-uruguay-que-hora-aterriza-el-recorrido-la-rambla-y-todos-los-cortes-montevideo-n6062971",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-07T15:37-03:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:25",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9b8d3eab",
+   "sez": "mondo",
+   "titolo": "Crollo di un edificio a Eastleigh, Nairobi: restano zone d'ombra sui responsabili",
+   "orig": "The missing links in Eastleigh’s deadly building collapse",
+   "lead": "A seguito del crollo mortale di un edificio nel quartiere di Eastleigh, a Nairobi, in Kenya, emergono resoconti contrastanti che lasciano irrisolta l'identificazione dei responsabili coinvolti nella costruzione. Un ingegnere ha dichiarato di aver abbandonato il progetto mesi prima del crollo, mentre la polizia indaga su come i suoi dati siano stati utilizzati per registrare il progetto presso la National Construction Authority nel 2025, dopo che l'ingegnere afferma di essersene già ritirato.",
+   "more": [
+    "I crolli di edifici in costruzione sono un problema ricorrente in diverse aree urbane dell'Africa orientale, spesso legati a irregolarità nei permessi edilizi, uso di materiali scadenti o supervisione insufficiente da parte delle autorità di controllo. I casi giudiziari su responsabilità professionali, come quello dell'ingegnere citato, sono centrali per stabilire chi debba risponderne."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/counties/nairobi/the-missing-links-in-eastleigh-s-deadly-building-collapse-5662316",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-07T14:06+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/the-structural-engineer-listed-as-being-in-charge-of-the-collapsed-18-storey-building-along-first-av-n393504",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-07T18:34+00:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:25",
+   "uscita": "sera"
+  },
+  {
+   "id": "z42fff4b8",
+   "sez": "mondo",
+   "titolo": "Francia indaga se le minacce di bomba contro aerei siano legate a «forze straniere»",
+   "orig": "Prancūzija tiria, ar grasinimai susprogdinti lėktuvus susiję su „užsienio jėgomis“",
+   "lead": "I procuratori francesi hanno aperto un'indagine su false minacce di bombe che nell'ultima settimana hanno preso di mira decine di voli passeggeri in tutta Europa. L'obiettivo principale dell'inchiesta è stabilire se dietro queste minacce possano esserci forze straniere. Lo riferisce LRT, l'emittente pubblica lituana.",
+   "more": [
+    "Negli ultimi anni in Europa si sono moltiplicati casi di false minacce di bomba o attacchi informatici contro infrastrutture di trasporto, spesso attribuiti a tentativi di destabilizzazione legati a tensioni geopolitiche. Le indagini su possibili interferenze straniere riguardano tipicamente la sicurezza aerea e la stabilità sociale dei paesi europei coinvolti."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3107117/prancuzija-tiria-ar-grasinimai-susprogdinti-lektuvus-susije-su-uzsienio-jegomis",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-07T20:14+02:00"
+    }
+   ],
+   "data": "7 nov",
+   "ora": "20:25",
+   "uscita": "sera"
+  },
+  {
    "id": "z44ba74f1",
    "sez": "mondo",
    "titolo": "Procedimenti selettivi in Armenia: la società civile avverte sui rischi per i rapporti con l'UE",
@@ -555,13 +864,29 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-07T19:07+01:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/07/sconto-accise-gasolio-terminato/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-07T15:23+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/gasolio-fine-taglio-accise-gazzetta-non-c-e-proroga-sconto-AJcvyI8B",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-07T12:48+00:00"
     }
    ],
    "data": "7 nov",
    "ora": "20:07",
-   "uscita": "sera",
-   "sez_prima": "economia",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "zc94929ca",
@@ -1198,6 +1523,15 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Russia",
      "t": "2026-11-07T21:14+03:00"
+    },
+    {
+     "n": "NPR – Musica",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/07/nx-s1-5986177/the-transatlantic-shift-british-bands-drive-a-new-wave-of-alt-country",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-07T07:40-05:00"
     }
    ],
    "data": "7 nov",
@@ -2736,6 +3070,42 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Portugal",
      "t": "2026-11-07T18:40+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/activistii-au-invadat-santierul-unui-centru-de-date-microsoft-din-amsterdam-politia-a-folosit-gaze-lacrimogene-2397539",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-07T10:11+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T18:51+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-07T10:35+00:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/it-would-facilitate-gaza-genocide-protesters-storm-microsoft-planned",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-07T06:43+00:00"
     }
    ],
    "data": "7 nov",
@@ -3192,30 +3562,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-07T15:21+01:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "z679ac87e",
-   "sez": "mondo",
-   "titolo": "Uruguay: Papa Francesco invita i fedeli di Paysandú a essere costruttori di ponti",
-   "orig": "Papa a Paysandù: siate costruttori ponti",
-   "lead": "Durante l'omelia pronunciata a Paysandú, Papa Francesco ha esortato i fedeli presenti a diventare «costruttori di ponti», definendo questo impegno come la vocazione a cui ogni persona è chiamata. Il Pontefice ha sottolineato il valore del dialogo, del perdono e della riconciliazione tra le comunità, invitando a superare le barriere ideologiche e le divisioni sociali. Lo riferisce Rai News.",
-   "more": [
-    "I viaggi di Papa Francesco rappresentano momenti centrali del suo pontificato, durante i quali affronta argomenti di interesse sociale ed etico. I messaggi diffusi durante le celebrazioni sottolineano la centralità della fraternità e della pace tra le nazioni."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/papa-a-paysandu-siate-costruttori-ponti-03e102c2-7c84-4cae-8b5c-b3161cb8f01a.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-07T14:00+00:00"
     }
    ],
    "data": "7 nov",
@@ -3958,30 +4304,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "sub": "cinema"
   },
   {
-   "id": "z4ac75069",
-   "sez": "musica",
-   "titolo": "Regno Unito: gruppi emergenti lanciano una nuova ondata di musica alt-country",
-   "orig": "The transatlantic shift: British bands ride a new wave of alt-country",
-   "lead": "Nel Regno Unito un numero sempre maggiore di gruppi musicali emergenti sta rielaborando le sonorità della tradizione Americana per dare origine a un filone di musica alt-country britannica. Questa tendenza testimonia uno scambio culturale transatlantico in cui gli artisti britannici reinterpretano la musica popolare degli Stati Uniti con nuove sensibilità autoriali. Lo riferisce NPR.",
-   "more": [
-    "L'alt-country è un sottogenere musicale che unisce le radici del country e del folk con l'attitudine del rock alternativo. La sua crescita oltre i confini nordamericani mostra la capacità dei generi tradizionali di influenzare i giovani musicisti internazionali."
-   ],
-   "fonti": [
-    {
-     "n": "NPR – Musica",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/11/07/nx-s1-5986177/the-transatlantic-shift-british-bands-drive-a-new-wave-of-alt-country",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-07T07:40-05:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
    "id": "z63a90701",
    "sez": "cucina",
    "titolo": "I migliori locali di fish and chips a Londra secondo un esperto",
@@ -4174,39 +4496,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "ora": "17:10",
    "uscita": "17",
    "sub": "scuola"
-  },
-  {
-   "id": "za9c70e6e",
-   "sez": "economia",
-   "titolo": "Carburanti: il governo non proroga il taglio delle accise e il gasolio aumenta",
-   "orig": "Il governo non ha rinnovato lo sconto sul gasolio: da domenica costerà un po’ di più",
-   "lead": "Il governo italiano ha deciso di non rinnovare il provvedimento di sconto fiscale sul gasolio, determinando un incremento del costo del carburante alla pompa a partire da domenica. Il taglio temporaneo delle aliquote era stato ripristinato a fine ottobre attraverso il meccanismo delle cosiddette accise mobili per attenuare i rincari. Nell'edizione della Gazzetta Ufficiale di sabato non è comparsa alcuna disposizione di proroga dell'agevolazione, sancendo il ritorno automatico all'applicazione delle aliquote ordinarie sulle vendite di carburante su tutto il territorio nazionale.",
-   "more": [
-    "Le accise sono imposte indirette sulla fabbricazione e sui consumi che compongono una frazione rilevante del prezzo finale dei carburanti. Il sistema delle accise mobili consente all'esecutivo di utilizzare l'eventuale extra-gettito dell'IVA, generato dall'aumento dei prezzi internazionali del petrolio, per ridurre temporaneamente il valore delle accise stesse e contenere i rincari per famiglie e imprese."
-   ],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/11/07/sconto-accise-gasolio-terminato/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-07T15:23+00:00"
-    },
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/gasolio-fine-taglio-accise-gazzetta-non-c-e-proroga-sconto-AJcvyI8B",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-07T12:48+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "17:10",
-   "uscita": "17"
   },
   {
    "id": "z03a28d4d",
@@ -5730,57 +6019,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Madagascar",
      "t": "2026-11-07T09:10+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "12:41",
-   "uscita": "13"
-  },
-  {
-   "id": "z6f49036a",
-   "sez": "tech",
-   "titolo": "Scontri con la polizia durante l'occupazione del cantiere Microsoft ad Amsterdam",
-   "orig": "Activiștii au invadat șantierul unui centru de date Microsoft din Amsterdam. „Poliția a folosit forța”",
-   "lead": "Centinaia di manifestanti appartenenti al gruppo ambientalista olandese Geef Tegengas hanno occupato il cantiere per la costruzione di un grande centro dati di Microsoft nel quartiere di Westpoort ad Amsterdam. Gli attivisti contestano l'impatto ambientale e sociale legato allo sviluppo dei centri di calcolo dedicati all'intelligenza artificiale e denunciano il presunto impiego di tali infrastrutture in scenari di conflitto internazionale. Durante l'occupazione si sono verificati scontri con le forze di polizia, che sono intervenute impiegando la forza per sgomberare l'area.",
-   "more": [
-    "La rapida diffusione dell'intelligenza artificiale richiede la realizzazione di imponenti data center con un elevato consumo di energia elettrica e di risorse idriche per il raffreddamento dei server. In diversi paesi europei si stanno moltiplicando i movimenti di protesta di cittadini e ambientalisti critici verso l'impronta ecologica di queste strutture e verso il ruolo delle grandi aziende tecnologiche."
-   ],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/activistii-au-invadat-santierul-unui-centru-de-date-microsoft-din-amsterdam-politia-a-folosit-gaze-lacrimogene-2397539",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-11-07T10:11+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-06T18:51+00:00"
-    },
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/vid%C3%A9o/20261107-des-militants-occupent-le-chantier-d-un-centre-de-donn%C3%A9es-microsoft-%C3%A0-amsterdam",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-07T10:35+00:00"
-    },
-    {
-     "n": "Middle East Eye",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/it-would-facilitate-gaza-genocide-protesters-storm-microsoft-planned",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-11-07T06:43+00:00"
     }
    ],
    "data": "7 nov",
@@ -7498,39 +7736,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z3a219498",
-   "sez": "sport",
-   "titolo": "Lotta di sabbia: prima vittoria per il Senegal ai Giochi Olimpici della Gioventù Dakar 2026",
-   "orig": "Lutte de plage : Babacar Mbaye et Elisabeth Diatta offrent la première victoire au Sénégal",
-   "lead": "Esordio positivo per la rappresentativa del Senegal nelle gare di lotta di sabbia valide per i Giochi Olimpici della Gioventù Dakar 2026. Gli lottatori senegalesi Babacar Mbaye ed Elisabeth Diatta hanno entrambi superato con successo i propri avversari durante le fasi eliminatorie della competizione. Mbaye si è distinto vincendo il suo primo combattimento nella rispettiva categoria di peso, regalando al Paese ospitante il primo successo della manifestazione.",
-   "more": [
-    "La lotta di sabbia (beach wrestling) è una variante popolare e tradizionale degli sport di combattimento che si svolge su un campo di sabbia circolare. L'inclusione di questo sport nel programma dei Giochi Olimpici della Gioventù valorizza le discipline tradizionali africane promuovendo la partecipazione atletica giovanile su scala internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/joj-dakar-2026/lutte-de-plage-babacar-mbaye-et-elisabeth-diatta-offrent-la-premiere-victoire-au-senegal/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-11-07T11:28+00:00"
-    },
-    {
-     "n": "Actu Cameroun",
-     "p": "XX",
-     "c": "Yaoundé",
-     "u": "https://actucameroun.com/2026/11/07/achille-webo-reussit-ses-debuts-a-dunkerque-une-premiere-victoire-convaincante-face-a-guingamp/",
-     "angolo": "",
-     "atlas": "Cameroon",
-     "t": "2026-11-07T11:13+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "12:41",
-   "uscita": "13"
-  },
-  {
    "id": "z54385039",
    "sez": "economia",
    "titolo": "Senegal: revocato il blocco sulle importazioni di patate",
@@ -7730,7 +7935,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z1360ab2b": "La testata pone l'accento sul contrasto tra i nuovi fondi alla scuola e la stretta sui margini di bilancio dovuta al debito.",
   "z362ac8cc": "La testata evidenzia l'appello della Corte a celebrare i festeggiamenti di Diwali limitando le sostanze inquinanti.",
   "z124eb4df": "Le testate mettono in risalto gli annunci ufficiali delle convocazioni in vista delle imminenti sfide di qualificazione continentali.",
-  "z6f49036a": "Le testate sottolineano l'uso della forza da parte della polizia durante lo sgombero del cantiere del centro dati.",
   "z228fbd93": "Le testate mettono a fuoco i diversi programmi istituzionali destinati a elevare il livello di qualificazione di lavoratori e giovani atleti.",
   "zb250cce4": "Le testate evidenziano l'immediata presa di posizione societaria a tutela dell'immagine pubblica della popstar.",
   "z0f0157c5": "Le testate evidenziano la protesta degli utenti online per la perdita dello storico suono dei cereali.",
@@ -7787,7 +7991,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z50150e43": "Le emittenti sottolineano i gravi disservizi sanitari causati dai blackout e dagli attacchi alle infrastrutture in Sudan.",
   "z05e5212d": "La testata pone l'accento sulla decisione del giudice di punire severamente l'inosservanza dei regolamenti funebri.",
   "z42200abd": "La stampa locale sottolinea il valore storico della Costituzione per la sovranità e la laicità dello Stato.",
-  "z3a219498": "Il quotidiano senegalese celebra i successi iniziali degli atleti di casa nelle eliminatorie dei Giochi della Gioventù.",
   "z54385039": "La stampa senegalese rileva il ripristino delle importazioni alimentari deciso dalle autorità di governo.",
   "z36f800b3": "La testata keniana evidenzia l'identificazione di agenti delle forze di sicurezza da parte dei parenti del legale rapito.",
   "z491a66b3": "La testata pakistana evidenzia la nota ufficiale della coalizione araba sulla neutralizzazione della minaccia aerea sopra la capitale.",
@@ -7798,7 +8001,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "ze8e02126": "The Guardian evidenzia l'impatto della decisione giudiziaria sulle pratiche d'asilo del Ministero dell'Interno britannico.",
   "za5ef4c22": "Al Jazeera mette in risalto le dichiarazioni del ministro degli Esteri iracheno sulle indagini relative ai lanci verso il Golfo.",
   "z7e690c87": "ANSA sottolinea l'adesione del Movimento 5 Stelle e di Azione al progetto politico guidato dal sindaco uscente Gualtieri.",
-  "z679ac87e": "Rai News evidenzia l'appello del Papa a perseguire la vocazione della pace e dell'unione tra i popoli.",
   "ze4d7ec55": "The Globe and Mail evidenzia l'avvio della task force statunitense in Florida per fermare la fornitura di armamenti iraniani.",
   "z2076df9b": "14ymedio mette in luce la richiesta di aiuto di Zelensky alle istituzioni statunitensi di fronte all'elevato numero di vittime a Zaporizhzhia.",
   "zf1154037": "CNA sottolinea la posizione prudente del tecnico Roberto De Zerbi, che ha rinunciato a fare polemiche sull'operato del VAR.",
@@ -7818,7 +8020,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z48a6d1f7": "ANSA mette in evidenza l'autorete decisiva di Gaspar che ha consentito al Torino di conquistare i tre punti.",
   "z275ffdc9": "RTÉ News sottolinea l'affluenza di duemila manifestanti alla mobilitazione svoltasi nelle vie della capitale irlandese.",
   "z7fba967a": "NPR mette in risalto il ruolo della fattoria universitaria come spazio didattico ancora attivo per gli studenti di oggi.",
-  "z4ac75069": "NPR evidenzia la crescita del movimento alt-country tra i complessi musicali del Regno Unito.",
   "z63a90701": "L'emittente britannica raccoglie i consigli di un valutatore anonimo sulle migliori friggitorie tradizionali della capitale.",
   "zf7f68436": "La testata evidenzia l'effetto dell'inquinamento luminoso britannico e il valore divulgativo del festival astronomico.",
   "z30cd8905": "Il quotidiano mette in risalto il momento commovente dell'incontro familiare dopo l'estenuante impresa globale.",
@@ -7827,7 +8028,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z5236ddbe": "L'emittente ceca segnala l'apertura del festival internazionale e la presenza dello spettacolo multimediale elvetico.",
   "z700b2624": "L'emittente pubblica estone descrive le insolite prove sportive e ricreative affrontate dal capo di Stato per la festa.",
   "z9491a9ed": "La testata didattica illustra i profili normativi e giurisprudenziali del contenzioso sul rapporto di lavoro scolastico.",
-  "za9c70e6e": "I quotidiani italiani evidenziano il ripristino dei costi ordinari per il gasolio per effetto della mancata estensione del beneficio.",
   "z03a28d4d": "L'emittente estone documenta l'avvio della trentesima edizione della manifestazione e i premi speciali assegnati durante la serata.",
   "z2735b39c": "L'emittente congolese mette in rilievo le gravi preoccupazioni del personale sanitario per la possibile diffusione dell'infezione.",
   "z23602023": "Il quotidiano di Hong Kong osserva come le autorità cinesi contrappongano i rapporti sereni con la Svizzera ai contrasti con l'UE.",
@@ -7972,11 +8172,18 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z6da99c7f": "L'emittente olandese evidenzia la pressione insostenibile sui servizi dell'isola e le richieste di soccorso inviate alle autorità centrali e regionali.",
   "zbab5ecc0": "L'emittente fiamminga pone l'accento sul valore scientifico del reperto che testimonia la presenza di acqua liquida nelle prime fasi geologiche di Marte.",
   "z3f246706": "L'inchiesta svedese smonta la rivendicazione propagandistica dei pirati informatici, smascherando l'inconsistenza tecnica delle loro affermazioni.",
-  "ze83606d7": "L'emittente norvegese mette in rilievo la mossa insolita di Trump di reclutare il massimo dirigente degli sport da combattimento per la comunicazione presidenziale."
+  "ze83606d7": "L'emittente norvegese mette in rilievo la mossa insolita di Trump di reclutare il massimo dirigente degli sport da combattimento per la comunicazione presidenziale.",
+  "zf5d45a4b": "La testata keniota mette in evidenza il doppio impatto dell'attacco: le vittime e la fuga dei malati di Ebola.",
+  "ze05c13fe": "La testata svizzera descrive un movimento di protesta che si allarga e sfocia in scontri e violenza in diverse città francesi.",
+  "z9c457292": "Le testate riportano numeri diversi di partecipanti, tra 30.000 e 40.000, e sottolineano la recente operazione chirurgica del Papa.",
+  "z22933d8e": "Le testate sudamericane riportano sia l'atto istituzionale della destituzione sia le proteste di piazza che chiedono il carcere per l'ex presidente.",
+  "zba8413bc": "Le Monde dà spazio all'analisi dello storico sul possibile passaggio da una classe dirigente tecnica a leader populisti in Francia.",
+  "z57a7b766": "La testata cilena si concentra sulle dichiarazioni del Papa riguardanti la propria salute e i temi ambientali.",
+  "z9b8d3eab": "Le testate keniote indagano sulle responsabilità poco chiare dietro il crollo, incluso il ruolo di un ingegnere che afferma di essersi ritirato dal progetto.",
+  "z42fff4b8": "La testata lituana sottolinea il sospetto di un coinvolgimento di forze straniere dietro le minacce diffuse in tutta Europa."
  },
  "contesti": {
   "zc8d345b4": "Nelle ultime settimane la sicurezza delle infrastrutture di trasporto e delle istituzioni europee è finita al centro di crescenti preoccupazioni per attacchi cibernetici e minacce anonime. Diversi paesi dell'Unione Europea hanno intensificato le attività di intelligence per verificare eventuali strategie di guerra ibrida orchestrate da gruppi filo-russi contro centri nevralgici e rappresentanti di governo del continente.",
-  "z6f49036a": "Negli ultimi mesi l'espansione dei centri di calcolo dedicati alle tecnologie digitali ha suscitato crescenti dibattiti in Europa riguardo alla sostenibilità energetica. Diverse organizzazioni ambientaliste hanno promosso giornate di mobilitazione e azioni dirette per chiedere regole più severe sui consumi energetici e maggiori tutele del territorio da parte delle autorità locali.",
   "z228fbd93": "Negli ultimi tempi, diversi Paesi hanno rafforzato le strategie di sviluppo professionale e sportivo per incrementare la competitività dei lavoratori e dei giovani talenti. Nel contesto europeo, l'impiego dei fondi comunitari ha favorito programmi d'inclusione lavorativa e formazione linguistica per i dipendenti. Parallelamente, a livello internazionale, le federazioni sportive asiatiche hanno avviato collaborazioni con strutture europee per offrire ai propri atleti emergenti percorsi d'allenamento di alto livello.",
   "zb250cce4": "La cantante Taylor Swift è apparsa frequentemente agli eventi sportivi statunitensi negli ultimi anni, catturando l'attenzione dei media internazionali. La sua partecipazione a gare di pallacanestro e football americano ha spesso suscitato accesi dibattiti tra appassionati e commentatori sull'impatto della presenza di figure celebri negli stadi.",
   "z0f0157c5": "La multinazionale agroalimentare Kellogg's ha recentemente rivisto le formule di produzione di alcuni dei suoi prodotti più famosi dedicati alla prima colazione sul mercato europeo. Negli ultimi giorni, sui social media si sono moltiplicate le proteste dei consumatori, i quali hanno notato un'evidente riduzione dello storico rumore croccante di Rice Krispies e Coco Pops, unitamente a un’alterazione del gusto originale, a causa dell'eliminazione di specifici chicchi di riso integrali.",
@@ -7993,7 +8200,8 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z3e2fe9c9": "Nel corso degli ultimi mesi, il governo italiano ha dovuto gestire l'andamento dei prezzi energetici e dei carburanti attraverso interventi fiscali temporanei, tra cui la riduzione delle accise introdotta per calmierare l'impatto dell'inflazione sui consumatori. Con l'approssimarsi della scadenza del termine di validità del provvedimento, il dibattito politico ed economico si è concentrato sulla sostenibilità della proroga della misura agevolativa.",
   "z015ed10e": "Nel quadro del conflitto in corso nella regione mediorientale, le operazioni militari israeliane nel sud del Libano si sono intensificate nel tempo, passando da raid mirati a interventi più strutturati sul terreno. La strategia delle forze armate si è progressivamente concentrata sulla neutralizzazione delle infrastrutture operative avversarie e sul consolidamento del controllo militare nelle aree di confine.",
   "z9f7c2109": "La Francia è scossa da settimane da un'ondata di mobilitazioni contro l'aumento del costo della vita e l'inflazione galoppante. Le sigle sindacali e i movimenti sociali hanno organizzato scioperi nei settori chiave, dai trasporti all'energia, chiedendo adeguamenti salariali. Nonostante i tentativi di mediazione del governo, la rabbia sociale è cresciuta costantemente, trasformando le piazze in un terreno di scontro politico acceso in vista delle imminenti consultazioni presidenziali.",
-  "zc783ed76": "Il dibattito sulla riforma del sistema elettorale statunitense è tornato centrale dopo l'ultimo Election Day. Per anni, il meccanismo del Collegio Elettorale è stato oggetto di critiche per la discrepanza tra voto popolare e assegnazione della presidenza. La recente affermazione dei democratici ha creato le condizioni politiche per discutere il superamento della divisione basata sui singoli Stati, puntando a una riforma che valorizzi il conteggio dei voti dei singoli cittadini su base nazionale."
+  "zc783ed76": "Il dibattito sulla riforma del sistema elettorale statunitense è tornato centrale dopo l'ultimo Election Day. Per anni, il meccanismo del Collegio Elettorale è stato oggetto di critiche per la discrepanza tra voto popolare e assegnazione della presidenza. La recente affermazione dei democratici ha creato le condizioni politiche per discutere il superamento della divisione basata sui singoli Stati, puntando a una riforma che valorizzi il conteggio dei voti dei singoli cittadini su base nazionale.",
+  "z9c457292": "Papa Leone XIV, eletto nel maggio 2025, ha subito a metà ottobre un intervento chirurgico al Gemelli di Roma per un adenocarcinoma polmonare, seguito da un periodo di convalescenza. Nonostante la recente operazione, il pontefice ha confermato il suo sesto viaggio apostolico internazionale, con tappe in Sud America, dimostrando la volontà di proseguire gli impegni pastorali e diplomatici nonostante le condizioni di salute delicate."
  },
  "cronologie": {
   "zc8d345b4": [
@@ -8004,16 +8212,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    [
     "Novembre 2026",
     "Gli investigatori individuano la pista del gruppo russo Everest e rilevano minacce al ministro Tajani."
-   ]
-  ],
-  "z6f49036a": [
-   [
-    "Novembre 2026",
-    "Attivisti di Geef Tegengas occupano il cantiere Microsoft ad Amsterdam."
-   ],
-   [
-    "Novembre 2026",
-    "L'intervento della polizia porta allo sgombero dell'area tra le proteste degli ambientalisti."
    ]
   ],
   "zb250cce4": [
@@ -8226,6 +8424,24 @@ window.EDIZIONI["2026-11-07-sera"] = {
    [
     "Oggi",
     "Apertura ufficiale del dibattito legislativo per il passaggio al voto popolare"
+   ]
+  ],
+  "z9c457292": [
+   [
+    "metà ottobre 2025",
+    "Intervento chirurgico al Gemelli per adenocarcinoma polmonare"
+   ],
+   [
+    "ottobre-novembre 2025",
+    "Periodo di convalescenza e ripresa delle attività pontificie"
+   ],
+   [
+    "inizio novembre 2026",
+    "Avvio del sesto viaggio apostolico in Sud America"
+   ],
+   [
+    "7 novembre 2026",
+    "Messa a Paysandú, Uruguay, con oltre 40.000 fedeli presenti"
    ]
   ]
  },
@@ -8500,6 +8716,105 @@ window.EDIZIONI["2026-11-07-sera"] = {
     }
    ],
    "divergono": "Le testate divergono per dettaglio geografico e approfondimento. Vijesti si limita esclusivamente ai dati di partecipazione, mentre South China Morning Post focalizza il racconto su Parigi. Dawn, HotNews ed ERT News estendono la cronaca ad altre città come Lione, Lilla e Bordeaux. Inoltre, sulle violenze a Parigi, ERT News le attribuisce a un «blocco nero» di incappucciati, laddove Dawn e HotNews riportano la ricostruzione della polizia su un gruppo di 200 individui violenti. Dawn è l'unica testata ad approfondire l'impatto economico sui commercianti e il contesto politico elettorale."
+  },
+  "z9c457292": {
+   "voci": [
+    {
+     "n": "PBS NewsHour",
+     "c": "Arlington",
+     "p": "US",
+     "t": "Racconta la messa a Paysandú con cifre (40.000 presenti, 30.000 registrati, 10.000 in più), citando testimonianze di fedeli e non credenti. Mette al centro il simbolo del mate e la frase \"creative courage\", contestualizzando il tour dopo l'intervento al polmone del Papa.",
+     "b": "a"
+    },
+    {
+     "n": "Euronews",
+     "c": "Lione",
+     "p": "XX",
+     "t": "Descrive l'omelia incentrata su \"unità\" e \"comunità\", elencando i tre simboli (ponte, palme, mate) e la frase \"peace is possible\". Riporta il programma dettagliato della giornata a Montevideo e l'agenda successiva a Florida, in tono informativo e cronachistico.",
+     "b": "a"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "c": "Città del Vaticano",
+     "p": "XX",
+     "t": "Voce della Santa Sede: riporta le parole del Papa dopo la visita alla Basilica di Paysandú, citando \"these bridges unite us in faith\" e il gesto di scoprire una targa commemorativa. Aggiunge dettagli storici sulla cattedrale, senza cifre sulla partecipazione.",
+     "b": "a"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "c": "Città del Vaticano",
+     "p": "XX",
+     "t": "Seconda voce della Santa Sede, dedicata al testo dell'omelia: cita il vescovo Jacinto Vera e i tre simboli (ponte, palme, mate) come immagini della missione evangelizzatrice. Riporta ampi passaggi diretti del discorso, con enfasi su \"carry forward... with enthusiasm\".",
+     "b": "a"
+    },
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Inquadra la visita nel contesto politico regionale, menzionando Trump, Milei e la recente rielezione di Lula, oltre alle cifre sui partecipanti (30.000+10.000). Cita la frase \"bridge builders\" e ricorda che è la prima visita papale in Uruguay in quasi 40 anni.",
+     "b": "a"
+    }
+   ],
+   "divergono": "PBS NewsHour e Al Jazeera forniscono le cifre più precise sui partecipanti (30.000 registrati più 10.000 arrivati), mentre Euronews parla genericamente di \"più di 40.000\" fedeli. Al Jazeera è la sola a collocare la visita nel quadro delle tensioni politiche latinoamericane, citando Trump e Milei, aspetto assente nelle altre fonti. Le due Vatican News, in quanto voce della Santa Sede, si concentrano sui contenuti dell'omelia e su un evento separato (la visita alla Basilica) senza fornire dati sull'affluenza."
+  },
+  "z3e2fe9c9": {
+   "voci": [
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale: solo titolo e occhiello disponibili. Riporta che lo sconto di \"4,88 centesimi al litro\" scade a mezzanotte e che in Gazzetta Ufficiale non compare il rinnovo del provvedimento in vigore dal 28 ottobre.",
+     "b": "t"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Riporta cifre precise (sconto di 4,9 centesimi al litro, 632,90 euro per mille litri) e cita Adusbef sul possibile calo dei prezzi legato al Brent (-16,2%). Collega la notizia anche al Decreto Bollette bis in discussione al Cdm di lunedì.",
+     "b": "a"
+    },
+    {
+     "n": "Il Post",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Spiega in modo didattico il meccanismo delle \"accise mobili\" e il costo dello sconto (38,7 milioni di euro in 11 giorni), confrontando i prezzi attuali con quelli di fine settembre. Nota che sulla benzina non ci sono sconti da mesi.",
+     "b": "a"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Riporta i prezzi medi (gasolio 2,24 euro, benzina 2 euro al litro) e spiega la scelta del governo come risparmio di \"circa 3,5 milioni di euro\" al giorno, legandola anche alla strategia del price cap di Eni.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate concordano sui fatti principali ma differiscono nei dettagli numerici: ANSA e Il Post citano uno sconto di circa 4,9 centesimi al litro, mentre la Repubblica (nell'occhiello) indica 4,88 centesimi. Sui prezzi del gasolio ci sono piccole discrepanze: ANSA cita 2,224 euro, Il Post 2,23 euro e Il Sole 24 Ore 2,24 euro al litro. ANSA è la sola a collegare la notizia al parallelo Decreto Bollette bis sull'energia elettrica, aspetto assente nelle altre fonti. Il Sole 24 Ore sottolinea la scelta del governo come risparmio di spesa pubblica, mentre Il Post si concentra sulla spiegazione tecnica del meccanismo delle accise mobili."
+  },
+  "zb049239e": {
+   "voci": [
+    {
+     "n": "Radio Prague International",
+     "c": "Praga",
+     "p": "XX",
+     "t": "La voce di Cechia descrive la cancellazione dell'investimento di 2 miliardi di dollari di onsemi a Rožnov, citando le \"condizioni di mercato\" come causa. Riporta la posizione del ministro Havlíček, rassicurante su nuovi investimenti, e quella critica del sindaco di Rožnov, che parla di \"brutta notizia\". Menziona anche 370 licenziamenti già avvenuti.",
+     "b": "a"
+    },
+    {
+     "n": "Yonhap",
+     "c": "Seul",
+     "p": "XX",
+     "t": "L'articolo, di una testata pubblica sudcoreana, tratta tutt'altra notizia: la cancellazione improvvisa della visita in Corea del Sud di Madison Huang, dirigente Nvidia e figlia del CEO Jensen Huang. Cita fonti anonime che parlano di \"problemi familiari\" e riferisce speculazioni su possibili legami con notizie su una presunta spia cinese vicina a Jensen Huang.",
+     "b": "a"
+    },
+    {
+     "n": "The Korea Herald",
+     "c": "Seul",
+     "p": "XX",
+     "t": "Anche questo articolo, di una testata privata sudcoreana, riguarda la cancellazione della visita di Madison Huang in Corea, non la vicenda onsemi. Riprende quasi testualmente il resoconto di Yonhap, citata come fonte, con le stesse \"problemi familiari\" e le stesse speculazioni sulla presunta spia cinese.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le tre testate non raccontano la stessa notizia: Radio Prague International tratta la cancellazione dell'ampliamento dello stabilimento onsemi in Cechia, mentre Yonhap e The Korea Herald riferiscono della cancellazione della visita in Corea del Sud di Madison Huang, figlia del CEO di Nvidia. Yonhap e The Korea Herald convergono quasi integralmente nei contenuti, con The Korea Herald che cita esplicitamente Yonhap come fonte. Non è quindi possibile confrontare in modo omogeneo il trattamento della notizia onsemi, poiché solo una testata la copre."
   }
  },
  "luoghi": {
@@ -8550,13 +8865,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "n": "Tunisia",
    "p": [
     "Tunisia"
-   ],
-   "pt": []
-  },
-  "z6f49036a": {
-   "n": "Amsterdam",
-   "p": [
-    "Netherlands"
    ],
    "pt": []
   },
@@ -8947,13 +9255,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    ],
    "pt": []
   },
-  "z3a219498": {
-   "n": "Dakar",
-   "p": [
-    "Senegal"
-   ],
-   "pt": []
-  },
   "z54385039": {
    "n": "Dakar",
    "p": [
@@ -9021,13 +9322,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z679ac87e": {
-   "n": "Paysandú",
-   "p": [
-    "Uruguay"
    ],
    "pt": []
   },
@@ -9164,13 +9458,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    ],
    "pt": []
   },
-  "z4ac75069": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "z63a90701": {
    "n": "Londra",
    "p": [
@@ -9222,13 +9509,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   },
   "z9491a9ed": {
    "n": "Italia",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
-  "za9c70e6e": {
-   "n": "Roma",
    "p": [
     "Italy"
    ],
@@ -10264,6 +10544,62 @@ window.EDIZIONI["2026-11-07-sera"] = {
     "United States of America"
    ],
    "pt": []
+  },
+  "zf5d45a4b": {
+   "n": "Nord Kivu",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "ze05c13fe": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9c457292": {
+   "n": "Paysandú",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z22933d8e": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "zba8413bc": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z57a7b766": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z9b8d3eab": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z42fff4b8": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -10274,7 +10610,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z1360ab2b": 1,
   "z362ac8cc": 1,
   "z124eb4df": 1,
-  "z6f49036a": 2,
   "z228fbd93": 2,
   "zb250cce4": 1,
   "z0f0157c5": 2,
@@ -10331,7 +10666,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z50150e43": 2,
   "z05e5212d": 1,
   "z42200abd": 1,
-  "z3a219498": 2,
   "z54385039": 2,
   "z36f800b3": 2,
   "z491a66b3": 1,
@@ -10342,7 +10676,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "ze8e02126": 1,
   "za5ef4c22": 1,
   "z7e690c87": 1,
-  "z679ac87e": 1,
   "ze4d7ec55": 2,
   "z2076df9b": 3,
   "zf1154037": 2,
@@ -10362,7 +10695,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z48a6d1f7": 1,
   "z275ffdc9": 1,
   "z7fba967a": 1,
-  "z4ac75069": 1,
   "z63a90701": 1,
   "zf7f68436": 1,
   "z30cd8905": 1,
@@ -10371,7 +10703,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z5236ddbe": 1,
   "z700b2624": 1,
   "z9491a9ed": 1,
-  "za9c70e6e": 1,
   "z03a28d4d": 1,
   "z2735b39c": 1,
   "z23602023": 1,
@@ -10516,7 +10847,15 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z6da99c7f": 2,
   "zbab5ecc0": 1,
   "z3f246706": 1,
-  "ze83606d7": 1
+  "ze83606d7": 1,
+  "zf5d45a4b": 1,
+  "ze05c13fe": 1,
+  "z9c457292": 3,
+  "z22933d8e": 1,
+  "zba8413bc": 1,
+  "z57a7b766": 2,
+  "z9b8d3eab": 1,
+  "z42fff4b8": 1
  },
  "video": {},
  "pillole": []
