@@ -616,7 +616,7 @@ window.EDIZIONI["2026-11-07-sera"] = {
   },
   {
    "id": "z5b8e0c06",
-   "sez": "cultura",
+   "sez": "mondo",
    "titolo": "Corea del Sud: la pattuglia acrobatica Black Eagles sorvola Busan per il Festival dei Fuochi d'Artificio",
    "orig": "[Photo News] Black Eagles soar over Busan",
    "lead": "A Busan, la pattuglia acrobatica dell'Aeronautica militare sudcoreana, i Black Eagles, ha eseguito un volo di dieci minuti sopra la spiaggia di Gwangalli per inaugurare la ventunesima edizione del Busan Fireworks Festival. Lo spettacolo aereo ha aperto le manifestazioni anticipate che precedono il programma serale dei fuochi d'artificio, nel quale è prevista anche un'esibizione pirotecnica internazionale gestita da un team cinese. Lo riferisce The Korea Herald.",
@@ -736,6 +736,15 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-07T09:40-05:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-07T09:50-05:00"
     }
    ],
    "data": "7 nov",
@@ -996,30 +1005,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-07T15:15+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "zf3a2b26a",
-   "sez": "salute",
-   "titolo": "Sperimentazione clinica: farmaco contro le malattie cardiache non produce benefici",
-   "orig": "A promising new medicine against heart disease fails unexpectedly",
-   "lead": "Un nuovo farmaco sperimentale concepito per combattere le malattie cardiovascolari non ha dato i risultati sperati nei test clinici. I medici e i ricercatori si attendevano che il principio attivo, capace di ridurre un comune fattore di rischio per l'infarto miocardico, potesse salvare vite umane nei pazienti trattati. Tuttavia, i dati raccolti durante la sperimentazione hanno mostrato che la terapia non ha apportato alcuna differenza sostanziale sull'esito clinico dei soggetti coinvolti. Lo riferisce NPR.",
-   "more": [
-    "Le malattie cardiovascolari costituiscono una delle principali cause di mortalità nel mondo. Lo sviluppo di nuove molecole farmacologiche richiede lunghe fasi di sperimentazione clinica per accertare se la variazione positiva di un biomarcatore di rischio, come il colesterolo o specifici enzimi, si traduca effettivamente in una riduzione degli eventi cardiaci acuti e della mortalità."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-07T09:50-05:00"
     }
    ],
    "data": "7 nov",
@@ -1505,30 +1490,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-07T12:29+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "z7706758f",
-   "sez": "economia",
-   "titolo": "Wall Street: rimbalzano i titoli dell’intelligenza artificiale dopo perdite record",
-   "orig": "AI stocks bounce back after $2.5 trillion wipeout, but questions remain",
-   "lead": "I titoli azionari legati al comparto dell'intelligenza artificiale hanno registrato un parziale rimbalzo a Wall Street, frenando la massiccia ondata di vendite che aveva bruciato circa 2.500 miliardi di dollari di capitalizzazione complessiva. Le tensioni avevano in precedenza colpito pesantemente le borse asiatiche ed europee. Alla ripresa, l'indice Nasdaq è salito dell'1,1 per cento e l'S&P 500 ha guadagnato lo 0,3 per cento, mentre il Dow Jones ha chiuso in calo dello 0,5 per cento tra i dubbi persistenti degli analisti. Lo riferisce Egypt Independent.",
-   "more": [
-    "Negli ultimi mesi l'enorme afflusso di capitali verso le società tecnologiche collegate all'intelligenza artificiale ha sollevato timori di bolla speculativa. Le fluttuazioni di mercato riflettono le incertezze degli investitori circa i tempi reali necessari alle imprese per convertire i massicci investimenti infrastrutturali in profitti operativi concreti."
-   ],
-   "fonti": [
-    {
-     "n": "Egypt Independent",
-     "p": "XX",
-     "c": "Il Cairo",
-     "u": "https://www.egyptindependent.com/ai-stocks-bounce-back-after-2-5-trillion-wipeout-but-questions-remain/",
-     "angolo": "",
-     "atlas": "Egypt",
-     "t": "2026-11-07T13:04+00:00"
     }
    ],
    "data": "7 nov",
@@ -2057,6 +2018,15 @@ window.EDIZIONI["2026-11-07-sera"] = {
      "angolo": "",
      "atlas": "Brazil",
      "t": "2026-11-07T12:00-03:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/ai-stocks-bounce-back-after-2-5-trillion-wipeout-but-questions-remain/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-11-07T13:04+00:00"
     }
    ],
    "data": "7 nov",
@@ -4754,7 +4724,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z30cd8905": "Il quotidiano mette in risalto il momento commovente dell'incontro familiare dopo l'estenuante impresa globale.",
   "zec6291ed": "La testata torinese sottolinea la tendenza dei grandi architetti europei a valorizzare il riuso e il recupero dell'esistente.",
   "z7cd54b6e": "La testata elenca e ordina per forza combattiva i guerrieri esterni alla trama principale ideata per il manga.",
-  "zf3a2b26a": "L'emittente statunitense illustra la delusione della comunità scientifica di fronte all'esito nullo della cura sperimentale.",
   "z5236ddbe": "L'emittente ceca segnala l'apertura del festival internazionale e la presenza dello spettacolo multimediale elvetico.",
   "z700b2624": "L'emittente pubblica estone descrive le insolite prove sportive e ricreative affrontate dal capo di Stato per la festa.",
   "z9491a9ed": "La testata didattica illustra i profili normativi e giurisprudenziali del contenzioso sul rapporto di lavoro scolastico.",
@@ -4774,7 +4743,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z27b93019": "Il portale caraibico riporta l'appello degli operatori culturali a integrare l'arte nativa nella promozione turistica.",
   "z871f73e6": "Il quotidiano economico racconta il ritorno alle origini per rilanciare la vitalità e i servizi del paese d'origine.",
   "z4c221ac1": "Il Sole 24 Ore mette in risalto il valore dell'iniziativa che unisce la visita monumentale alla realtà rurale.",
-  "z7706758f": "Il giornale cairota evidenzia la ripresa dei corsi azionari statunitensi pur segnalando le incertezze sui fondamentali.",
   "z3417c357": "Il quotidiano libico mette a fuoco le criticità degli esportatori locali e le future richieste all'esecutivo nazionale.",
   "z0f08c69d": "La testata sottolinea il completamento dell'intervento tecnico per l'aumento della produzione petrolifera.",
   "za1b46872": "La testata evidenzia l'impegno della compagnia nazionale nel recuperare gas attualmente disperso.",
@@ -5875,13 +5843,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    ],
    "pt": []
   },
-  "zf3a2b26a": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z5236ddbe": {
    "n": "Praga",
    "p": [
@@ -6014,13 +5975,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
    "n": "Italia",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z7706758f": {
-   "n": "New York",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -6295,7 +6249,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z30cd8905": 1,
   "zec6291ed": 1,
   "z7cd54b6e": 1,
-  "zf3a2b26a": 1,
   "z5236ddbe": 1,
   "z700b2624": 1,
   "z9491a9ed": 1,
@@ -6315,7 +6268,6 @@ window.EDIZIONI["2026-11-07-sera"] = {
   "z27b93019": 1,
   "z871f73e6": 1,
   "z4c221ac1": 1,
-  "z7706758f": 1,
   "z3417c357": 1,
   "z0f08c69d": 1,
   "za1b46872": 1,
