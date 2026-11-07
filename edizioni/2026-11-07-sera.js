@@ -386,7 +386,7 @@ window.EDIZIONI["2026-11-07-sera"] = {
   },
   {
    "id": "zb250cce4",
-   "sez": "cultura",
+   "sez": "sport",
    "titolo": "I New York Knicks difendono Taylor Swift dopo le critiche di due giocatori",
    "orig": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
    "lead": "La dirigenza della squadra di pallacanestro dei New York Knicks ha diffuso una nota ufficiale in difesa di Taylor Swift dopo che due cestisti della squadra, Tyler Kolek e Miles McBride, hanno espresso dubbi sull'autenticità del tifo della popstar. I giocatori avevano definito \"teatrale\" la presenza della cantante a bordocampo durante le sfide del campionato NBA. La franchigia newyorchese ha ribadito che la celebre artista è una sostenitrice di lunga data della squadra, smentendo le polemiche sollevate dai propri atleti sui media.",
@@ -1186,7 +1186,7 @@ window.EDIZIONI["2026-11-07-sera"] = {
   },
   {
    "id": "zc0fa3299",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Nuovi edifici scolastici in Estonia: migliore qualità dell'aria ma costi energetici elevati",
    "orig": "New buildings may improve air quality but not always lower energy costs",
    "lead": "Una scuola di nuova costruzione nell'Estonia occidentale ha garantito ambienti interni di qualità nettamente superiore per studenti ed educatori, senza tuttavia produrre il previsto risparmio sulle spese energetiche. L'edificio ha infatti registrato bollette per l'energia elettrica e il riscaldamento notevolmente più elevate rispetto al passato, dimostrando che l'installazione di moderni impianti di aerazione non coincide sempre con un calo dei costi di gestione. Lo riferisce ERR News.",
