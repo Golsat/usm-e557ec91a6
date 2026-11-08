@@ -3,6 +3,533 @@ window.EDIZIONI["2026-11-08-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z63b49690",
+   "sez": "mondo",
+   "titolo": "Zaporizhzhia, la centrale nucleare torna a usare i generatori di emergenza",
+   "orig": "Zaporizhzhia Nuclear Plant Relying on Generators Again After Losing Internal Power Supply",
+   "lead": "La centrale nucleare ucraina di Zaporizhzhia è tornata a fare affidamento sui generatori di emergenza a diesel dopo aver perso la sua fonte principale di alimentazione elettrica interna. L'episodio rinnova le preoccupazioni per la sicurezza dell'impianto, situato in una zona interessata dal conflitto russo-ucraino.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/08/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-internal-power-supply-a94202",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-08T11:50+03:00"
+    },
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-again-relies-on-backup-power",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z13c476dd",
+   "sez": "economia",
+   "titolo": "Guinea, il governo stanzia 5.500 miliardi per congelare il prezzo del carburante",
+   "orig": "Guinée: près de 5 500 milliards GNF mobilisés pour maintenir le prix du litre de Carburant à 12 000 GNF",
+   "lead": "Il governo della Guinea ha destinato quasi 5.500 miliardi di franchi guineani nel Progetto di Legge di Bilancio Rettificativo 2026 per mantenere il prezzo del carburante a 12.000 GNF al litro. La misura mira a tutelare il potere d'acquisto delle famiglie di fronte alle tensioni sui mercati energetici mondiali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/guinee-pres-de-5-500-milliards-gnf-mobilises-pour-maintenir-le-prix-du-litre-de-carburant-a-12-000-gnf/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-08T13:20+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/plfr-2026-mariama-cire-sylla-promet-plus-de-rigueur-plus-de-transparence-et-plus-dimpact/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-08T12:17+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/plfr-2026-le-volet-depenses-porte-a-67-92587-milliards-gnf-contre-64-18137-milliards-gnf-dans-la-lfi/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-08T11:50+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/08/budget-2026-recettes-depenses-simandou-mariama-cire-repond-cash-aux-deputes-et-defend-sa-strategie/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-08T15:30+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/volet-depenses-de-la-lfr-2026-il-y-a-assez-de-contradictions-que-nous-avons-decelees-selon-faya-millimouno/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-08T15:39+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/guinee-mariama-cire-sylla-detaille-les-grands-reajustements-du-budget-de-letat-entretien/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-08T11:01+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zf81e3d44",
+   "sez": "prima",
+   "titolo": "L'Egitto riapre l'ambasciata a Tripoli dopo dodici anni",
+   "orig": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+   "lead": "L'Egitto ha riaperto ufficialmente la propria ambasciata a Tripoli dopo dodici anni di chiusura, segnalando un riavvicinamento al governo dell'ovest della Libia. Il Cairo intende rafforzare le relazioni bilaterali e la cooperazione energetica, pur ribadendo le proprie perplessità sull'accordo marittimo siglato tra Libia e Turchia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-08T13:27+00:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-08T13:50+01:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "za0878a40",
+   "sez": "economia",
+   "titolo": "Tanzania, l'imprenditore Rostam Azizi chiede più spazio per gli investitori locali",
+   "orig": "Rostam cherishes domestic investors to advance Tanzania’s mega projects",
+   "lead": "Durante i premi ACAMEA 2026 a Dar es Salaam, il presidente di Taifa Gas Rostam Azizi ha elogiato il governo della Tanzania per il sostegno agli investimenti nazionali nel settore minerario. Azizi ha sollecitato tutele analoghe in altri ambiti, criticando il predominio dei costruttori esteri.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/rostam-cherishes-domestic-investors-to-advance-tanzanias-mega-projects/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-08T15:54+00:00"
+    },
+    {
+     "n": "The Citizen",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/national/rostam-azizi-challenges-dominance-of-foreign-contractors-in-tanzania-5662904",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-08T10:31+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zc17ba294",
+   "sez": "mondo",
+   "titolo": "Alti ufficiali della Marina statunitense visitano i cantieri navali di HD Hyundai",
+   "orig": "U.S. military officials visit HD Hyundai shipyard to assess shipbuilding capabilities",
+   "lead": "Una delegazione della Marina e del Corpo dei Marines degli Stati Uniti ha visitato i cantieri navali del gruppo sudcoreano HD Hyundai Heavy Industries. L'ispezione è servita a valutare direttamente le capacità di cantieristica navale militare dell'azienda in vista di possibili cooperazioni congiunte.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261108003800315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-08T20:41+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10929802",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zb9bac987",
+   "sez": "mondo",
+   "titolo": "Corea del Sud, il governo valuta 2.000 miliardi di won per i servizi antincendio",
+   "orig": "(LEAD) Gov't to review 2 tln-won funding support for firefighting efforts",
+   "lead": "Il governo centrale e il partito di maggioranza della Corea del Sud hanno concordato di esaminare un piano di aiuti da circa 2.000 miliardi di won per finanziare gli interventi antincendio. L'iniziativa punta ad alleviare la forte pressione finanziaria sostenuta dagli enti locali nei soccorsi urgenti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261108003251315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-08T20:05+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10929789",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z17ec0f99",
+   "sez": "mondo",
+   "titolo": "Brasile, oltre cinque milioni di studenti impegnati nelle prove dell'Enem",
+   "orig": "Enem 2026: candidatos precisam chegar antes das 13h ao local da prova",
+   "lead": "Oltre cinque milioni di candidati partecipano in Brasile alla prima giornata dell'Exame Nacional do Ensino Médio. Gli studenti devono presentarsi nella sede d'esame entro le 13:00, prima della chiusura dei cancelli, per sostenere la prova fondamentale per l'accesso all'istruzione universitaria.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-precisam-chegar-antes-das-13h-ao-local-da-prova",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-08T07:02-03:00"
+    },
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/pe/pernambuco/educacao/noticia/2026/11/08/estudante-leva-bolsa-com-remedio-lanches-e-oito-canetas-para-prova-do-enem-sou-paranoica.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-08T15:49+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z998f77e5",
+   "sez": "mondo",
+   "titolo": "Pakistan, vertice tra il premier Shehbaz Sharif e il leader di partito Nawaz Sharif",
+   "orig": "PM Shehbaz, Nawaz discuss ‘matters of national importance’ as Sharifs gather at Lahore's Jati Umra",
+   "lead": "Il primo ministro pakistano Shehbaz Sharif ha incontrato il presidente del partito PML-N, Nawaz Sharif, presso la residenza di famiglia a Lahore. Durante la riunione si è discusso delle sfide economiche del paese, della sicurezza nella provincia di Khyber Pakhtunkhwa e della situazione politica nazionale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2043062/pm-shehbaz-nawaz-discuss-matters-of-national-importance-as-sharifs-gather-at-lahores-jati-umra",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-08T18:48+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2639290/pm-shehbaz-briefs-nawaz-sharif-on-k-p-security-economic-challenges",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-08T11:44+05:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z1b361681",
+   "sez": "mondo",
+   "titolo": "Cisgiordania, blitz israeliano in una scuola a Masafer Yatta e arresto di un docente",
+   "orig": "Israeli forces detain teacher following school raid in Masafer Yatta, install gate east of Tammun",
+   "lead": "Le forze di sicurezza israeliane hanno fatto irruzione in un istituto scolastico a Masafer Yatta, nel sud della Cisgiordania occupata, arrestando un docente. Contestualmente, i militari hanno posizionato un nuovo varco in ferro a Tammun, sollevando forte preoccupazione tra la popolazione residente.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-teacher-following-school-raid-masafer-yatta",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-08T15:56+00:00"
+    },
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/11/08/police-raid-unlicensed-kl-entertainment-outlet-detain-195-underage-patrons/242496",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-11-08T19:01+08:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zff6dc3ea",
+   "sez": "mondo",
+   "titolo": "La Cina punta sulla lotta alla corruzione e sull'autoriforma del Partito Comunista",
+   "orig": "China’s focus on getting its house in order offers lessons in governance",
+   "lead": "La campagna di autoriforma promossa dal Partito Comunista Cinese punta a rafforzare la disciplina interna e a contrastare la corruzione sistemica. Secondo gli analisti, la stabilizzazione e il rinnovamento politico interno rappresentano precondizioni fondamentali con cui Pechino intende proiettare stabilità anche sull'ordine globale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cina",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/opinion/china-opinion/article/3373416/chinas-focus-getting-its-house-order-offers-lessons-governance",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-08T12:30+00:00"
+    },
+    {
+     "n": "CGTN – Cina",
+     "p": "XX",
+     "c": "Pechino",
+     "u": "https://news.cgtn.com/news/2026-11-07/Experts-Why-CPC-s-self-reform-matters-for-China-s-governance-1RRUotgdh3a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-07T08:54+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z1ef03f27",
+   "sez": "mondo",
+   "titolo": "Bosnia, Dodik condiziona la partecipazione al governo alle riforme giudiziarie",
+   "orig": "Dodik Conditions Participation in State-Level Government: Annulment of HR and Reform of the BiH Constitutional Court",
+   "lead": "Il leader dei socialdemocratici indipendenti Milorad Dodik ha dichiarato che il suo partito parteciperà al governo statale della Bosnia ed Erzegovina solo se verranno annullate le decisioni dell'Alto Rappresentante. Dodik esige inoltre la riforma della Corte Costituzionale e l'esclusione dei giudici internazionali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/dodik-conditions-participation-in-state-level-government-annulment-of-hr-and-reform-of-the-bih-constitutional-court/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-11-08T15:00+00:00"
+    },
+    {
+     "n": "Sarajevo Times",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://sarajevotimes.com/dodik-attacks-the-constitutional-court-once-again-is-he-using-maximalist-demands-to-mask-his-true-goals-2/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-11-08T12:00+00:00"
+    },
+    {
+     "n": "N1 Bosnia",
+     "p": "XX",
+     "c": "Sarajevo",
+     "u": "https://n1info.ba/english/news/dodik-returns-from-us-claims-popularity-among-trump-supporters-and-plans-constitutional-changes-in-republika-srpska/",
+     "angolo": "",
+     "atlas": "Bosnia and Herz.",
+     "t": "2026-11-08T16:20+01:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z725f216f",
+   "sez": "mondo",
+   "titolo": "Praga, denunce di turisti per corse in taxi a prezzi gonfiati dopo lo stop al tetto tariffario",
+   "orig": "No Price Cap, No Limits: Tourist Charged CZK 8,000 for a 3 km Taxi Ride",
+   "lead": "La sospensione temporanea del tetto massimo alle tariffe dei taxi a Praga ha provocato oltre settanta denunce in tre settimane. Molti visitatori stranieri hanno segnalato addebiti sproporzionati, tra cui una corsa di soli tre chilometri pagata oltre ottomila corone ceche.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Prague Morning",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://praguemorning.cz/prague-taxi-overcharging-price-cap/",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-07T09:34+00:00"
+    },
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/thousands-for-a-short-ride-prague-taxi-complaints-reveal-the-cost-of-no-caps",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-08T12:35+01:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zd8545b19",
+   "sez": "economia",
+   "titolo": "Uzbekistan, inaugurata la nuova sottostazione elettrica Khalqa da 171 milioni di dollari",
+   "orig": "Uzbekistan Commissions 1,602 MVA Khalqa Substation",
+   "lead": "L'Uzbekistan ha messo in funzione la sottostazione da 500 kV Khalqa, realizzata con un investimento di 171,4 milioni di dollari e il sostegno della Banca Mondiale. L'infrastruttura stabilizzerà la rete elettrica della capitale Tashkent e ridurrà la necessità di bruciare olio combustibile nella centrale termica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-commissions-1602-mva-khalqa-substation/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-07T20:50+05:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/08/uzbekistans-new-substation-may-eliminate-need-for-fuel-oil-at-tashkent-tpp/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-08T15:00+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zb70ebe8b",
+   "sez": "mondo",
+   "titolo": "Bolivia, scontro politico sull'inaugurazione della nuova legislatura parlamentare",
+   "orig": "Lara convoca a sesión inaugural de la nueva legislatura, pero aclara que no reconoce la clausura de la anterior",
+   "lead": "Il vicepresidente boliviano Edmand Lara ha convocato l'avvio della legislatura 2026-2027 per l'11 novembre, precisando tuttavia di non riconoscere la formale chiusura della sessione precedente. All'ordine del giorno sono previste le relazioni ufficiali del vicepresidente e del presidente Rodrigo Paz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/lara-convoca-a-sesion-inaugural-de-la-nueva-legislatura-pero-aclara-que-no-reconoce-la-clausura-de-la-anterior",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-08T09:44-04:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/lara-convoca-inaugurar-legislatura-2026-2027-desconoce-sesion-6-noviembre_1794149390",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-08T14:49+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z35e8cc0f",
+   "sez": "mondo",
+   "titolo": "Il presidente del Gabon Oligui Nguema sigla sei accordi di cooperazione in Cina",
+   "orig": "Tarif douanier zéro, industrialisation, retour des compétences : le bilan chinois d’Oligui Nguema",
+   "lead": "Il presidente del Gabon Brice Clotaire Oligui Nguema ha terminato una visita di Stato di cinque giorni a Pechino, dove ha firmato sei accordi di cooperazione con Xi Jinping. Le intese prevedono tariffe doganali azzerate, nuovi investimenti industriali per la raffinazione e scambi culturali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/tarif-douanier-zero-industrialisation-retour-des-competences-le-bilan-chinois-doligui-nguema/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-08T14:24+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/11/07/china-international-import-expo-2026-le-gabon-fait-une-entree-remarquee-a-shanghai-sous-le-regard-doligui-nguema/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-07T18:46+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/11/07/sogara-la-nouvelle-raffinerie-au-coeur-des-echanges-entre-oligui-nguema-et-les-industriels-chinois/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-07T10:24+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/11/06/gabon-chine-oligui-nguema-et-xi-jinping-scellent-six-accords-de-cooperation/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-06T20:41+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
    "id": "z0fe12527",
    "sez": "mondo",
    "titolo": "Nuova Zelanda, sfiducia e disincanto segnano le elezioni più incerte degli ultimi anni",
@@ -2944,13 +3471,29 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z883b41ac": "El Tiempo riporta i danni materiali subiti dagli uffici della compagnia Aramco e la rivendicazione dell'attacco.",
   "z4d3279c6": "El Tiempo narra il drammatico incidente aereo costato la vita ai due paracadutisti in territorio californiano.",
   "z0ef6cc36": "CNA riporta lo stop del capitano del Bayern Monaco in seguito alla diagnosi del trauma al piede.",
-  "ze8086928": "Rai News mette in primo piano la convocazione urgente del Comitato al Viminale per affrontare l'emergenza cyber."
+  "ze8086928": "Rai News mette in primo piano la convocazione urgente del Comitato al Viminale per affrontare l'emergenza cyber.",
+  "z63b49690": "Moscow Times evidenzia i rischi di sicurezza legati all'interruzione della corrente elettrica nell'impianto.",
+  "z13c476dd": "Mosaïque Guinée mette in risalto lo sforzo finanziario dell'esecutivo guineano per contenere i costi dell'energia.",
+  "zf81e3d44": "Al Jazeera sottolinea il cambio di dinamiche regionali e i tentativi libici di formazione di un governo unitario.",
+  "za0878a40": "Daily News evidenzia il plauso di Azizi per le politiche governative tanzaniane a favore del capitale interno.",
+  "zc17ba294": "Yonhap riporta con attenzione la valutazione delle capacità industriali navali coreane da parte di Washington.",
+  "zb9bac987": "Yonhap mette in luce la risposta delle istituzioni centrali alle difficoltà di bilancio degli enti locali.",
+  "z17ec0f99": "Agência Brasil offre indicazioni pratiche per i candidati ponendo accento sul rispetto dei vincoli orari.",
+  "z998f77e5": "Dawn mette in rilievo le consultazioni interne alla famiglia Sharif e alla leadership del partito di governo.",
+  "z1b361681": "Middle East Eye focalizza l'attenzione sulle azioni militari israeliane nei territori occupati in Cisgiordania.",
+  "zff6dc3ea": "South China Morning Post analizza l'impatto della disciplina di partito cinese sulla governance e sulla stabilità internazionale.",
+  "z1ef03f27": "Sarajevo Times evidenzia la tattica negoziale di Dodik e le sue richieste massimaliste sulle istituzioni bosniache.",
+  "z725f216f": "Prague Morning mette in evidenza i disagi dei turisti stranieri causati dall'assenza di tetti tariffari.",
+  "zd8545b19": "UzDaily sottolinea l'importanza dell'infrastruttura per il rafforzamento della rete elettrica e il contrasto all'inquinamento.",
+  "zb70ebe8b": "Brújula Digital evidenzia le tensioni procedurali tra la presidenza e la vicepresidenza dell'Assemblea legislativa.",
+  "z35e8cc0f": "Gabonreview si concentra sui benefici economici e gli accordi bilaterali ottenuti dalla delegazione gabonese in Cina."
  },
  "contesti": {
   "z64cc7008": "Nei giorni scorsi il pontefice ha completato la prima parte del suo viaggio pastorale in Uruguay, prima di raggiungere Buenos Aires. Nel frattempo, in Argentina le autorità locali hanno predisposto misure di sicurezza straordinarie e proclamato festività pubbliche per consentire ai fedeli la partecipazione alle celebrazioni di massa.",
   "ze8086928": "Negli ultimi giorni diversi attacchi informatici hanno interessato siti web di istituzioni e infrastrutture critiche in Italia, sollevando preoccupazioni sulla vulnerabilità dei sistemi digitali del Paese. Gli episodi hanno spinto il governo a intensificare il coordinamento tra ministeri, intelligence e forze dell'ordine per rafforzare la protezione della sicurezza nazionale di fronte ai cyber-rischi in aumento.",
   "zdb273a60": "Dopo le elezioni presidenziali brasiliane vinte da Luiz Inácio Lula da Silva, l'ala radicale della destra guidata dalla famiglia Bolsonaro ha continuato a contestare l'esito del voto. Di recente, il politico Flávio Bolsonaro si è trasferito negli Stati Uniti. Da qui ha mantenuto stretti legami con la destra conservatrice americana, con l'obiettivo di continuare a influenzare la politica brasiliana e mobilitare l'opposizione a distanza.",
-  "za2075801": "Negli ultimi mesi la rotta migratoria dell'Africa occidentale ha visto un forte incremento di partenze dalle coste del Senegal dirette verso l'Europa. Molte imbarcazioni di fortuna affrontano il viaggio in condizioni di grave sovraffollamento e con scarso equipaggiamento di sicurezza. Nonostante le operazioni di pattugliamento delle autorità locali per frenare i viaggi clandestini, le tragedie in mare al largo del Senegal si sono ripetute con drammatica frequenza."
+  "za2075801": "Negli ultimi mesi la rotta migratoria dell'Africa occidentale ha visto un forte incremento di partenze dalle coste del Senegal dirette verso l'Europa. Molte imbarcazioni di fortuna affrontano il viaggio in condizioni di grave sovraffollamento e con scarso equipaggiamento di sicurezza. Nonostante le operazioni di pattugliamento delle autorità locali per frenare i viaggi clandestini, le tragedie in mare al largo del Senegal si sono ripetute con drammatica frequenza.",
+  "zf81e3d44": "Negli ultimi anni, le relazioni tra Egitto e Libia sono state caratterizzate da profonde divisioni a seguito della chiusura dell'ambasciata egiziana nel 2014 per motivi di sicurezza. Il Cairo ha a lungo sostenuto le autorità dell'Est libico. Tuttavia, recenti sforzi diplomatici e colloqui bilaterali focalizzati su sicurezza, dossier energetici e cooperazione economica hanno favorito un graduale riavvicinamento tra l'Egitto e il Governo di Unità Nazionale di Tripoli."
  },
  "cronologie": {
   "z64cc7008": [
@@ -3007,6 +3550,24 @@ window.EDIZIONI["2026-11-08-sera"] = {
    [
     "Giorni scorsi",
     "Partenza della piroga con decine di migranti a bordo dalla costa del Senegal nord-occidentale prima del naufragio."
+   ]
+  ],
+  "zf81e3d44": [
+   [
+    "2014",
+    "Evacuazione della sede diplomatica egiziana a Tripoli a causa delle ostilità"
+   ],
+   [
+    "Settembre 2021",
+    "Firma di prime intese di cooperazione economica tra Il Cairo e Tripoli"
+   ],
+   [
+    "Maggio 2023",
+    "Missione diplomatica egiziana in Libia per coordinare la ripresa dei servizi"
+   ],
+   [
+    "Ultimi mesi",
+    "Colloqui bilaterali sulla sicurezza transfrontaliera e sui dossier energetici"
    ]
   ]
  },
@@ -3102,6 +3663,39 @@ window.EDIZIONI["2026-11-08-sera"] = {
     }
    ],
    "divergono": "Le testate divergono per raggio d'analisi e dettagli operativi. Deutsche Welle allarga il quadro alla sponda europea, descrivendo l'emergenza proclamata nell'isola spagnola di El Hierro e la saturazione dei servizi sanitari, elementi assenti altrove. Tchadinfos si concentra invece sui dettagli territoriali senegalesi, menzionando i paesi di provenienza dei migranti e l'evoluzione del bilancio dal venerdì al sabato. Infine, sull'intercettazione di una seconda imbarcazione con 142 persone, Deutsche Welle data l'evento al venerdì, mentre Tchadinfos ne riporta la comunicazione ufficiale al sabato."
+  },
+  "ze8086928": {
+   "voci": [
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La voce d'Italia Rai News riporta soltanto titolo e occhiello sulla convocazione del Comitato da parte di Piantedosi per martedì al Viminale. Poiché l'articolo non è leggibile, il giudizio è parziale.",
+     "b": "t"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Con stile puramente informativo, mette al centro la convocazione del Comitato per il 10 novembre sui rischi cyber. Citando una nota del Maeci, riporta le attività di Tajani relative alla \"guerra ibrida\" in vista del G7.",
+     "b": "a"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Inquadra la convocazione nel contesto politico italiano e nell'escalation di attacchi. Riporta le citazioni di Urso, Craxi e Bonelli, evidenziando le cifre dell'opposizione sui tagli di \"15 milioni\" all'anno alla cybersicurezza.",
+     "b": "a"
+    },
+    {
+     "n": "Il Post",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Contestualizza la riunione del Comitato descrivendo episodi specifici, come l'attacco alla Galleria del Brennero. Richiama le parole di Tajani su \"hacker filorussi\" e analizza la cornice della \"guerra ibrida\".",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate evidenziano aspetti differenti della vicenda. ANSA privilegia la dimensione diplomatica e il ruolo di Tajani verso il G7. Il Sole 24 Ore mette al centro lo scontro politico interno, dettagliando le posizioni dei partiti e le cifre sui presunti tagli alla sicurezza informatica. Il Post elenca i singoli casi di attacco cyber e riflette sulla cornice della guerra ibrida, mentre Rai News offre solo la notizia sintetica senza approfondimenti."
   }
  },
  "luoghi": {
@@ -3750,6 +4344,111 @@ window.EDIZIONI["2026-11-08-sera"] = {
     "Italy"
    ],
    "pt": []
+  },
+  "z63b49690": {
+   "n": "Zaporizhzhia",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z13c476dd": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zf81e3d44": {
+   "n": "Tripoli",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "za0878a40": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "zc17ba294": {
+   "n": "Ulsan",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zb9bac987": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z17ec0f99": {
+   "n": "Brasilia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z998f77e5": {
+   "n": "Lahore",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z1b361681": {
+   "n": "Cisgiordania",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zff6dc3ea": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z1ef03f27": {
+   "n": "Banja Luka",
+   "p": [
+    "Bosnia and Herz."
+   ],
+   "pt": []
+  },
+  "z725f216f": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "zd8545b19": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zb70ebe8b": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z35e8cc0f": {
+   "n": "Pechino",
+   "p": [
+    "China"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3844,7 +4543,22 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z883b41ac": 2,
   "z4d3279c6": 1,
   "z0ef6cc36": 1,
-  "ze8086928": 2
+  "ze8086928": 2,
+  "z63b49690": 1,
+  "z13c476dd": 1,
+  "zf81e3d44": 2,
+  "za0878a40": 1,
+  "zc17ba294": 1,
+  "zb9bac987": 1,
+  "z17ec0f99": 1,
+  "z998f77e5": 1,
+  "z1b361681": 1,
+  "zff6dc3ea": 1,
+  "z1ef03f27": 1,
+  "z725f216f": 1,
+  "zd8545b19": 1,
+  "zb70ebe8b": 1,
+  "z35e8cc0f": 1
  },
  "video": {},
  "pillole": []
