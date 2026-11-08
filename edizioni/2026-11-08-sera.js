@@ -530,30 +530,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z0fe12527",
-   "sez": "mondo",
-   "titolo": "Nuova Zelanda, sfiducia e disincanto segnano le elezioni più incerte degli ultimi anni",
-   "orig": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-   "lead": "L'elettorato della Nuova Zelanda ha affrontato una delle consultazioni politiche più contese e incerte degli ultimi decenni, in un contesto generale caratterizzato da pessimismo, stanchezza e disincanto verso la classe dirigente. Il morale dei cittadini si è rivelato insolitamente basso, accompagnato da un netto calo della fiducia verso le istituzioni democratiche tradizionali. Secondo i primi riscontri del voto, molti elettori hanno scelto di non sostenere i due partiti principali, disperdendo le proprie preferenze verso formazioni minori o disertando parzialmente gli schieramenti consolidati. Lo riferisce BBC News.",
-   "more": [
-    "Il sistema elettorale neozelandese, adottato a metà degli anni Novanta, prevede una rappresentanza proporzionale mista che favorisce la presenza di governi di coalizione. Le difficoltà economiche globali, l'aumento del costo della vita e la polarizzazione del dibattito pubblico hanno progressivamente eroso il consenso verso i partiti storici, il Partito Laburista e il Partito Nazionale, complicando la formazione di maggioranze stabili."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-07T21:36+00:00"
-    }
-   ],
-   "data": "7 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
    "id": "ze65d1e57",
    "sez": "ambiente",
    "titolo": "America Latina, i coltivatori di banane chiedono compensi più equi per la crisi climatica",
@@ -1380,30 +1356,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-08T14:00+00:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
-   "id": "z28fe5f45",
-   "sez": "ambiente",
-   "titolo": "Cop31 ad Antalya: gli impegni sul clima per il 2026",
-   "orig": "Cop31, la sfida del clima ridisegna gli equilibri e il futuro del pianeta",
-   "lead": "La Conferenza delle Nazioni Unite sui cambiamenti climatici del 2026, denominata Cop31, si svolgerà dal 9 al 20 novembre ad Antalya, in Turchia. Il vertice intende ripartire dalle conclusioni dell'accordo di Parigi e affrontare le contraddizioni emerse nelle precedenti riunioni internazionali. Per incidere sul futuro del pianeta e ridefinire gli equilibri globali, non saranno più sufficienti semplici intese di principio, bensì serviranno strategie condivise tra i Paesi, lo stanziamento di risorse adeguate e il puntuale rispetto degli impegni già assunti in sede multilaterale. Lo riferisce Vatican News (italiano).",
-   "more": [
-    "Le conferenze delle parti (Cop) rappresentano il principale foro negoziale globale delle Nazioni Unite sul clima. Nel 2015 l'Accordo di Parigi ha fissato l'obiettivo di contenere l'innalzamento della temperatura media globale al di sotto dei due gradi rispetto all'era preindustriale. L'efficacia di questi vertici dipende dalla disponibilità dei governi a erogare finanziamenti e ad attuare piani concreti per ridurre le emissioni."
-   ],
-   "fonti": [
-    {
-     "n": "Vatican News (italiano)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/it/mondo/news/2026-11/cop31-antalya-turkiye-cambiamento-climato-nazioni-unite.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-11-08T12:51+01:00"
     }
    ],
    "data": "8 nov",
@@ -3380,7 +3332,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
  ],
  "quiz": [],
  "sguardi": {
-  "z0fe12527": "La testata britannica mette a fuoco l'umore disilluso dell'elettorato neozelandese e la fuga dai partiti tradizionali.",
   "ze65d1e57": "Il quotidiano londinese dà risalto all'appello economico dei coltivatori sudamericani di fronte ai disastri meteorologici di El Niño.",
   "z0106da7e": "L'emittente qatariota evidenzia la forte partecipazione emotiva di calciatori e pubblico durante il rito commemorativo.",
   "zf0628828": "La testata pone l'accento sulla netta affermazione della tennista statunitense e sulla commozione dell'avversaria filippina.",
@@ -3403,7 +3354,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z9cd6b238": "L'emittente estone dà voce ai dubbi organizzativi sollevati da dirigenti e docenti sulla riforma linguistica.",
   "z7a99c3d1": "La testata per giovani racconta con testimonianze fotografiche il significato civile della commemorazione dei soldati caduti.",
   "z2347f0a4": "BBC Travel pone l'accento sulla straordinarietà visiva di un territorio artificiale del Regno Unito, descritto come unico rispetto al resto del Paese.",
-  "z28fe5f45": "Vatican News (italiano) evidenzia la necessità di passare da dichiarazioni di principio a impegni concreti e finanziamenti adeguati in vista della Cop31.",
   "z097fb348": "Good News Network pone in risalto il fortuito recupero dell'animale domestico a seguito degli effetti provocati dal maltempo.",
   "zed816a7b": "Gambero Rosso sottolinea le dure tappe dell'infanzia e i sacrifici personali affrontati dallo chef stellato prima di raggiungere la notorietà.",
   "zc99eabaf": "Le testate mettono in risalto la grande intensità agonistica a Twickenham e l'iniziale vantaggio tattico guadagnato dall'Inghilterra.",
@@ -3699,13 +3649,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   }
  },
  "luoghi": {
-  "z0fe12527": {
-   "n": "Wellington",
-   "p": [
-    "New Zealand"
-   ],
-   "pt": []
-  },
   "ze65d1e57": {
    "n": "Bogotà",
    "p": [
@@ -3859,13 +3802,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "n": "Regno Unito",
    "p": [
     "United Kingdom"
-   ],
-   "pt": []
-  },
-  "z28fe5f45": {
-   "n": "Antalya",
-   "p": [
-    "Turkey"
    ],
    "pt": []
   },
@@ -4452,7 +4388,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   }
  },
  "rilievo": {
-  "z0fe12527": 1,
   "ze65d1e57": 1,
   "z0106da7e": 1,
   "zf0628828": 1,
@@ -4475,7 +4410,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z9cd6b238": 1,
   "z7a99c3d1": 1,
   "z2347f0a4": 1,
-  "z28fe5f45": 1,
   "z097fb348": 1,
   "zed816a7b": 1,
   "zc99eabaf": 1,
