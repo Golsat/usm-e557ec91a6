@@ -604,7 +604,7 @@ window.EDIZIONI["2026-11-08"] = {
   },
   {
    "id": "z5afea01f",
-   "sez": "cultura",
+   "sez": "tech",
    "titolo": "Le auto di Vice City diventano reali grazie a West Coast Customs",
    "orig": "The vehicles of Vice City join the real world courtesy of LA-based West Coast Customs",
    "lead": "In vista dell'uscita di Grand Theft Auto VI, Rockstar Games ha commissionato all'azienda di Los Angeles West Coast Customs la realizzazione di sei veicoli funzionanti ispirati alle auto del videogioco, che circoleranno per le strade di Miami. Lo riferisce Wallpaper*.",
@@ -667,41 +667,6 @@ window.EDIZIONI["2026-11-08"] = {
    "data": "8 nov",
    "ora": "07:45",
    "uscita": "mattino"
-  },
-  {
-   "id": "z18af7d0c",
-   "sez": "prima",
-   "titolo": "Israele, il generale alla prova del governo dopo Netanyahu",
-   "orig": "Alleati, veti e incognite. Il generale alla prova del governo post-Bibi",
-   "lead": "In Israele si discute della possibile formazione di un governo guidato da un generale dopo la fine dell'era di Netanyahu, tra alleanze, veti e incertezze politiche. Per superare lo stallo e ampliare la coalizione, si valuta l'introduzione di un servizio civile obbligatorio che eviti il servizio militare agli studenti religiosi, applicabile anche alla popolazione araba. Lo riferisce la Repubblica.",
-   "more": [
-    "In Israele il servizio militare è obbligatorio per la maggior parte dei cittadini, ma gli studenti delle scuole religiose ultraortodosse ne sono tradizionalmente esentati, una questione che da anni genera tensioni politiche. L'estensione di un servizio civile obbligatorio a questi gruppi, e alla minoranza araba, è uno dei temi più controversi nei negoziati di coalizione."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/08/news/israele_alleati_veti_incognite_generale_eisenkot_alla_prova_governo_post-bibi-425707860/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-08T00:00+00:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/08/news/israele_alleati_veti_incognite_generale_eisenkot_alla_prova_governo_post-bibi-425707860/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-08T01:00+01:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "07:45",
-   "uscita": "mattino",
-   "sez_prima": "mondo",
-   "riempimento": true
   },
   {
    "id": "z425c4cc3",
@@ -2240,6 +2205,24 @@ window.EDIZIONI["2026-11-08"] = {
      "angolo": "",
      "atlas": "Mauritius",
      "t": "2026-11-08T09:26+04:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/08/news/israele_alleati_veti_incognite_generale_eisenkot_alla_prova_governo_post-bibi-425707860/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T00:00+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/08/news/israele_alleati_veti_incognite_generale_eisenkot_alla_prova_governo_post-bibi-425707860/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T01:00+01:00"
     }
    ],
    "data": "8 nov",
@@ -2554,7 +2537,6 @@ window.EDIZIONI["2026-11-08"] = {
   "z7dcd0f7c": "South China Morning Post racconta l'impatto positivo dell'energia solare ponendo la questione dei costi futuri.",
   "z5afea01f": "Wallpaper* presenta l'iniziativa promozionale legata al lancio del videogioco.",
   "z1c61ba8a": "South China Morning Post evidenzia il rischio per le modelle derivante dalla scarsa regolamentazione sull'uso dell'AI.",
-  "z18af7d0c": "La Repubblica analizza gli scenari possibili per la formazione del nuovo governo israeliano.",
   "z425c4cc3": "STAT descrive le difficoltà cliniche nel trattamento dell'ipertensione in pazienti complessi.",
   "zbf34573f": "NPR racconta il progetto artistico-scientifico nato dalla collaborazione tra musicista e ricercatori.",
   "zdb113654": "Euronews riporta la posizione di un fisico sulla direzione possibile del viaggio nel tempo.",
@@ -2612,7 +2594,6 @@ window.EDIZIONI["2026-11-08"] = {
   "z269c342b": "Nelle ultime settimane si sono susseguiti episodi anomali legati a sistemi informatici compromessi, dal guasto ai frigoriferi industriali londinesi a un allarme nucleare falso, fino a un ingente furto di criptovalute o fondi digitali, alimentando il dibattito sulla vulnerabilità crescente delle infrastrutture connesse.",
   "z2235c1fb": "Trump ha spesso scelto per incarichi istituzionali figure note nello spettacolo e nello sport piuttosto che professionisti della comunicazione politica, seguendo uno stile già visto nel suo primo mandato. Dana White, amico personale del presidente e volto della UFC, è stato più volte coinvolto in eventi della campagna e dell'amministrazione Trump, rendendo la sua candidatura a portavoce una naturale evoluzione di questo rapporto.",
   "z96ceeba5": "Il Gabon affronta da tempo difficoltà di finanza pubblica, aggravate dalla transizione politica seguita al golpe del 2023 e dalle successive elezioni. Le istituzioni di controllo finanziario hanno progressivamente intensificato la vigilanza sui conti statali, in un contesto di spesa pubblica elevata e debito crescente, richiedendo maggiore trasparenza nella gestione delle leggi di finanza annuali.",
-  "z18af7d0c": "Dopo decenni di dominio politico, Benjamin Netanyahu ha visto la sua leadership logorarsi tra processi giudiziari, tensioni sulla guerra a Gaza e crisi di coalizione legate all'esenzione militare degli ultraortodossi. Il dibattito sul servizio militare obbligatorio per gli studenti religiosi, da tempo fonte di divisione nella società israeliana, è tornato centrale nella ricerca di nuovi equilibri di governo.",
   "z58ce5d98": "L'amministrazione Trump ha avviato un progetto per trasformare lo storico campo da golf pubblico East Potomac a Washington in una struttura di livello mondiale per grandi eventi sportivi, suscitando opposizione legale di associazioni e cittadini preoccupati per l'accesso pubblico al parco. La causa ha portato a verificare la veridicità delle informazioni fornite dai dipartimenti federali coinvolti nel progetto.",
   "z70c5d6f4": "Stephen Miller, figura di spicco dell'ala più dura dell'entourage trumpiano fin dal primo mandato, ha ricoperto ruoli chiave su immigrazione e politiche interne, consolidando il suo peso politico accanto a Trump. La sua nomina a capo di gabinetto conferma la linea di continuità ideologica della nuova amministrazione, già segnata da scontri frequenti con il Congresso su diverse questioni legislative.",
   "z7f906012": "Dopo le elezioni di metà mandato che hanno riportato il Congresso sotto controllo democratico, Trump ha intensificato accuse pubbliche contro i suoi oppositori politici, accostando l'opposizione a comportamenti criminali senza fornire riscontri concreti. L'ordine al Dipartimento di Giustizia si inserisce in una serie di iniziative dell'amministrazione volte a utilizzare strumenti istituzionali contro i rivali democratici."
@@ -2736,20 +2717,6 @@ window.EDIZIONI["2026-11-08"] = {
    [
     "novembre 2026",
     "Corte dei conti trasmette rapporti su deficit e debito"
-   ]
-  ],
-  "z18af7d0c": [
-   [
-    "2023-2024",
-    "Tensioni nella coalizione Netanyahu su esenzioni militari"
-   ],
-   [
-    "2025",
-    "Crisi politica e logoramento della leadership"
-   ],
-   [
-    "novembre 2026",
-    "Si discute un governo guidato da un generale con servizio civile obbligatorio"
    ]
   ],
   "z58ce5d98": [
@@ -3072,13 +3039,6 @@ window.EDIZIONI["2026-11-08"] = {
    ],
    "pt": []
   },
-  "z18af7d0c": {
-   "n": "Gerusalemme",
-   "p": [
-    "Israel"
-   ],
-   "pt": []
-  },
   "z425c4cc3": {
    "n": "Stati Uniti",
    "p": [
@@ -3343,7 +3303,6 @@ window.EDIZIONI["2026-11-08"] = {
   "z7dcd0f7c": 1,
   "z5afea01f": 1,
   "z1c61ba8a": 1,
-  "z18af7d0c": 2,
   "z425c4cc3": 1,
   "zbf34573f": 1,
   "zdb113654": 1,
