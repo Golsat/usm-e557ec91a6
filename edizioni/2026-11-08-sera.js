@@ -3,6 +3,391 @@ window.EDIZIONI["2026-11-08-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z9d1c71de",
+   "sez": "mondo",
+   "titolo": "Le elezioni di medio termine negli Stati Uniti mobilitano i sopravvissuti agli abusi",
+   "orig": "The midterms energized a powerful political constituency: abuse survivors",
+   "lead": "I sopravvissuti a forme di abuso rappresentano una forte componente politica mobilitata dalle recenti elezioni di medio termine negli Stati Uniti. I sostenitori definiscono l'esito elettorale un successo per chi ha subito violenze, evidenziando sia il successo della governatrice eletta dell'Ohio Amy Acton sia il ritiro di alcuni candidati accusati di abusi. Lo riferisce PBS NewsHour.",
+   "more": [
+    "Le elezioni di medio termine negli Stati Uniti si tengono a metà del mandato presidenziale e rinnovano l'intero Congresso federale insieme a numerosi incarichi statali e locali. Queste consultazioni funzionano spesso come un test di gradimento per l'amministrazione in carica e mobilitano l'elettorato su temi sociali e diritti civili."
+   ],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/the-midterms-energized-a-powerful-political-constituency-abuse-survivors",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-08T13:41-05:00"
+    },
+    {
+     "n": "Positive News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-02T09:26+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "good": true,
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4e7fc109",
+   "sez": "tech",
+   "titolo": "Il Guardian celebra il 225° anniversario delle mappe dell'Ordnance Survey",
+   "orig": "The Guardian view on Ordnance Survey maps: still a superior way to navigate the landscape | Editorial",
+   "lead": "L'Ordnance Survey celebra il suo 225° anniversario dalla prima pubblicazione, offrendo l'occasione per riflettere sul contributo unico dell'organizzazione alla mappatura e al senso dei luoghi. Un editoriale del quotidiano britannico ricorda anche il celebre racconto di Jorge Luis Borges sull'eccesso di ambizione cartografica. Lo riferisce The Guardian.",
+   "more": [
+    "L'Ordnance Survey è l'agenzia nazionale di mappatura della Gran Bretagna, fondata alla fine del Settecento per scopi militari e di difesa strategica. Nel corso dei secoli i suoi rilievi topografici sono diventati uno standard di precisione e uno strumento fondamentale per la navigazione e la conoscenza del territorio."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-ordnance-survey-maps-still-a-superior-way-to-navigate-the-landscape",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-08T17:25+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z103072ff",
+   "sez": "musica",
+   "titolo": "Celine Dion condivide le foto dal backstage dei Metallica dopo aver assistito al concerto allo Sphere",
+   "orig": "Celine Dion Shares Metallica Backstage Photos After Rocking Out at Sphere: ‘Loved the Show’",
+   "lead": "La cantante vincitrice di un Grammy Celine Dion ha assistito a un concerto dei Metallica presso la struttura Sphere, condividendo successivamente le foto scattate nel backstage e dichiarando di aver apprezzato molto lo spettacolo. L'artista è stata vista godersi l'evento in compagnia di Jack Black. Lo riferisce Billboard.",
+   "more": [
+    "Lo Sphere è una grande arena sferica per intrattenimento e concerti situata aParadise, nel Nevada, nota per i suoi impianti visivi e acustici all'avanguardia. La struttura ospita regolarmente esibizioni di artisti di fama internazionale e produzioni multimediali innovative."
+   ],
+   "fonti": [
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/music-news/celine-dion-metallica-backstage-photos-sphere-1236377038/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-08T18:58+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc6f89234",
+   "sez": "mondo",
+   "titolo": "Golfinhos saltam entre surfistas na Praia do Francês, em Alagoas",
+   "orig": "VÍDEO mostra golfinhos saltando entre surfistas na Praia do Francês, em AL",
+   "lead": "Um grupo de golfinhos foi filmado nadando e saltando próximo a surfistas na Praia do Francês, localizada no município de Marechal Deodoro, em Alagoas. O registro em vídeo foi feito e compartilhado nas redes sociais pelo fotógrafo David Gomes no sábado, chamando a atenção para a proximidade dos animais marinhos. Lo riferisce G1.",
+   "more": [
+    "A costa brasileira abriga diversas espécies de mamíferos marinhos, incluindo botos e golfinhos, que ocasionalmente se aproximam de áreas frequentadas por banhistas e surfistas. A presença desses animais em zonas costeiras reflete a riqueza da biodiversidade marinha local."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/al/alagoas/noticia/2026/11/08/video-mostra-golfinhos-saltando-entre-surfistas-na-praia-do-frances-em-al.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-08T18:37+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb80c1254",
+   "sez": "mondo",
+   "titolo": "Il boulevard Wazabanga a Kikwit sarà presto riaperto dopo l'interruzione causata da un ravina",
+   "orig": "Kikwit : coupé par un ravin depuis mars, le boulevard Wazabanga bientôt rouvert au trafic",
+   "lead": "Il boulevard Wazabanga a Kikwit, una delle arterie principali della città nella provincia del Kwilu, sarà presto riaperto al traffico dopo essere stato tagliato per sette mesi da un'erosione. Lo riferisce Actualite.cd.",
+   "more": [
+    "L'erosione del suolo e la formazione di grandi voragini rappresentano un problema infrastrutturale critico in diverse aree urbane della Repubblica Democratica del Congo, spesso aggravate da forti precipitazioni e da un drenaggio urbano insufficiente."
+   ],
+   "fonti": [
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/11/08/kikwit-coupe-par-un-ravin-depuis-mars-le-boulevard-wazabanga-bientot-rouvert-au-trafic",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-11-08T18:53+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z831eef9b",
+   "sez": "mondo",
+   "titolo": "Donna ritrova dopo 30 anni il ragazzo che le aveva regalato il cappotto dopo un attacco razziale",
+   "orig": "She Kept His Coat for 30 Years, Then Finally Found the Boy Who Gave It to Her After Racial Attack",
+   "lead": "Un cappotto che fu offerto a una giovane ragazza coreana la cui divisa tradizionale era stata tagliata durante un episodio di razzismo avvenuto trent'anni fa è stato restituito al buon samaritano. All'epoca dei fatti, noti come gli incidenti legati al taglio dell'hanbok, il soccorritore era uno studente liceale giapponese di nome Norihisa Koyama. Lo riferisce Good News Network.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/she-kept-his-coat-for-30-years-then-finally-found-the-boy-who-gave-it-to-her-after-racial-attack/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-08T16:55+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "good": true,
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z96045a5c",
+   "sez": "economia",
+   "titolo": "L'importanza crescente dell'ASEAN nel contesto geopolitico ed economico globale",
+   "orig": "Beyond borders: Why Asean matters more than ever",
+   "lead": "Mentre il Sud-est asiatico continua a crescere in termini di importanza economica e strategica, cresce la riflessione sul reale livello di comprensione dell'ASEAN da parte dei cittadini della regione, per i quali l'organizzazione rappresenta spesso solo un acronimo associato a summit diplomatici. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "L'ASEAN, l'Associazione delle Nazioni del Sud-est asiatico, è un'organizzazione geopolitica ed economica fondata nel 1967 per promuovere la cooperazione regionale, la crescita economica e la stabilità politica tra i Paesi membri dell'area."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://business.inquirer.net/620070/beyond-borders-why-asean-matters-more-than-ever",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-09T02:01+08:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z306438fc",
+   "sez": "prima",
+   "titolo": "L'Iran giustizia tre uomini accusati di disordini armati legati alle proteste",
+   "orig": "Iran executes three men for 'armed unrest' after January protests",
+   "lead": "Le autorità giudiziarie dell'Iran hanno eseguito la condanna a morte di tre uomini, identificati come Hassan Dioband, Hamid Kazemi e Reza Zanganeh, accusati di aver preso parte a disordini armati nel corso delle proteste antigovernative scoppiate all'inizio dell'anno. Organizzazioni per i diritti umani hanno definito i processi ingiusti. Lo riferisce BBC News.",
+   "more": [
+    "Le proteste in Iran sono nate originariamente a causa del carovita e delle difficoltà economiche, evolvendosi rapidamente in contestazioni contro la leadership politica del Paese e affrontate dalle autorità con rigide misure di sicurezza e sanzioni giudiziarie."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-08T13:37+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/iran-executes-three-men-linked-to-anti-government-protests-1-n393541",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-08T14:49+00:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-08T17:06+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "zd9974dbf",
+   "sez": "mondo",
+   "titolo": "La conferenza sul clima COP31 si apre in Turchia per rimettere l'ambiente al centro dell'agenda globale",
+   "orig": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
+   "lead": "La 31ª conferenza mondiale delle Nazioni Unite sul clima si apre ad Antalya, in Turchia, con l'obiettivo di riportare la questione climatica in cima all'agenda internazionale in un contesto segnato da crisi energetiche e tensioni geopolitiche. I negoziati mirano ad affrontare gli ostacoli che frenano la decarbonizzazione delle attività umane. Lo riferisce Le Monde.",
+   "more": [
+    "Le conferenze sul clima della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici riuniscono annualmente i governi di tutto il mondo per negoziare impegni congiunti volti a ridurre le emissioni di gas serra e limitare l'aumento della temperatura globale."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-08T18:00+01:00"
+    },
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/sports/moto/c-est-magnifique-ce-qu-il-fait-mais-il-y-a-encore-beaucoup-a-parcourir-a-11-ans-ce-jeune-pilote-de-moto-de-monaco-vise-encore-plus-haut-en-2o27-10754655",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-11-08T13:59+01:00"
+    },
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/11/08/climat-la-chaleur-a-cause-un-record-de-710-000-deces-dans-le-monde-en-2023/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-11-08T13:30+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4849b768",
+   "sez": "mondo",
+   "titolo": "Speleologa infortunata bloccata nella Grotta Rotolo a Monopoli",
+   "orig": "Speleologa bloccata nella grotta Rotolo a Monopoli, la più profonda della Puglia",
+   "lead": "Una speleologa è rimasta bloccata a grande profondità nella Grotta Rotolo a Monopoli, la cavità più profonda della Puglia, dopo essersi infortunata a un piede ed essere impossibilitata a risalire autonomamente. Le squadre di soccorso sono intervenute per completare le complesse operazioni di recupero. Lo riferisce la Repubblica.",
+   "more": [
+    "Il Soccorso Alpino e Speleologico è specializzato in interventi di soccorso tecnico in ambienti ostili e sotterranei, dove la complessità della conformazione carsica e la profondità richiedono attrezzature e competenze altamente specializzate."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://bari.repubblica.it/cronaca/2026/11/08/news/speleologa_bloccata_nella_grotta_rotolo_a_monopoli_la_piu_profonda_della_puglia-425708786/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T16:58+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/cronaca/2026/11/08/monopoli-salvata-speleologa-bloccata-grotta-rotolo",
+     "angolo": "",
+     "atlas": "Italy"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0900a338",
+   "sez": "mondo",
+   "titolo": "Otto feriti a Dublino dopo che un'auto è finita sul marciapiede",
+   "orig": "Eight injured as car mounts footpath in south Dublin",
+   "lead": "Sette adolescenti pedoni e una donna alla guida di circa quarant'anni sono rimasti feriti dopo che un'automobile ha invaso il marciapiede all'esterno di una fila di negozi nella zona sud di Dublino. Lo riferisce RTÉ News.",
+   "more": [
+    "Gli incidenti stradali urbani causati da veicoli che perdono il controllo e finiscono sulle aree pedonali richiedono l'intervento immediato dei servizi di emergenza sanitaria e delle forze dell'ordine per i rilievi e il soccorso dei feriti."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ireland/2026/1108/1598442-dublin-crash/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-08T16:29+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd094c4e5",
+   "sez": "mondo",
+   "titolo": "Lituania: ritardi e falle di sicurezza negli impianti solari domestici",
+   "orig": "Saulės elektrinių savininkai pasigenda pagalbos: „Rangovas atsakė po 8 mėnesių“",
+   "lead": "In Lituania, i proprietari di impianti solari lamentano gravi ritardi nell'assistenza post-vendita da parte delle aziende installatrici. Un cittadino ha segnalato a LRT di aver atteso otto mesi per una risposta, sollevando preoccupazioni sulla sicurezza dei sistemi di gestione remota e sulla vulnerabilità agli attacchi informatici. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3105403/saules-elektriniu-savininkai-pasigenda-pagalbos-rangovas-atsake-po-8-menesiu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-08T20:16+02:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z24d88535",
+   "sez": "mondo",
+   "titolo": "Ungheria: amianto vicino a una scuola, scattano le proteste",
+   "orig": "Azbesztet találtak a gyömrői iskola mellett, a szülők petíciót indítottak",
+   "lead": "A Gyömrő, in Ungheria, il ritrovamento di amianto nei pressi di una scuola elementare in fase di ampliamento ha spinto i genitori a lanciare una petizione per la sicurezza degli studenti. La scoperta del materiale pericoloso durante i lavori per il nuovo edificio scolastico ha scatenato forti proteste nella comunità locale. Lo riferisce Telex English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/belfold/2026/11/08/azbesztet-talaltak-a-gyomroi-iskola-mellett",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-11-08T19:37+01:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9c68e37c",
+   "sez": "mondo",
+   "titolo": "Hockey: la Russia torna ai Mondiali junior, scoppiano le proteste",
+   "orig": "Oroszország került Norvégia helyére a kanadai junior jégkorong-vb-n, több ország tiltakozik",
+   "lead": "Una decisione del Tribunale Arbitrale dello Sport ha reintegrato la Russia al posto della Norvegia per il campionato mondiale di hockey su ghiaccio juniores in Canada. Il provvedimento ha scatenato proteste da parte di diverse nazioni partecipanti, creando una situazione di caos organizzativo alla vigilia della competizione internazionale. Lo riferisce Telex English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/sport/2026/11/08/oroszorszag-norvegia-kanada-junior-jegkorong-vilagbajnoksag",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-11-08T19:16+01:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:20",
+   "uscita": "sera"
+  },
+  {
    "id": "z418e0e2e",
    "sez": "mondo",
    "titolo": "Sciopero degli insegnanti in Bolivia, il governo minaccia tagli ai salari",
@@ -300,20 +685,7 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "South Africa",
      "t": "2026-11-08T18:02+00:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "20:14",
-   "uscita": "sera"
-  },
-  {
-   "id": "z9d706d40",
-   "sez": "mondo",
-   "titolo": "Sudafrica, appello per l'approvazione della legge sulle coalizioni municipali",
-   "orig": "Municipal Coalitions Bill - Why it is important",
-   "lead": "I partiti del Governo di unità nazionale del Sudafrica sono chiamati ad approvare la legge di modifica delle strutture municipali. Il provvedimento mira a stabilire norme quadro chiare per assicurare la stabilità delle coalizioni locali ed evitare frequenti crisi amministrative nei comuni. Lo riferisce Mail & Guardian.",
-   "more": [],
-   "fonti": [
+    },
     {
      "n": "Mail & Guardian",
      "p": "XX",
@@ -602,50 +974,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "riempimento": true
   },
   {
-   "id": "z1723a5cc",
-   "sez": "prima",
-   "titolo": "Allarme cyber-attacchi filorussi: Tajani porta il tema al G7, vertice al Viminale",
-   "orig": "Cyber-attacchi,Tajani: “Domani l’emergenza al G7”. Martedì vertice al Viminale",
-   "lead": "L'Italia porta la questione della sicurezza informatica al centro dell'agenda internazionale. Il ministro degli Esteri Antonio Tajani ha annunciato che solleverà formalmente l'emergenza legata agli attacchi cibernetici al vertice del G7, sottolineando come la guerra ibrida minacci direttamente la stabilità delle democrazie occidentali, pur ribadendo che le difese nazionali sono pronte a respingere le incursioni dei pirati informatici filorussi. Parallelamente, al Viminale il ministro dell'Interno Matteo Piantedosi ha convocato una riunione per martedì, richiedendo un'analisi dettagliata dei rischi connessi alle infrastrutture sensibili e alle recenti minacce telematiche.",
-   "more": [
-    "Gli attacchi informatici costituiscono una componente primaria dei conflitti ibridi, impiegati da gruppi filogovernativi o criminali per sabotare siti istituzionali, sottrarre dati sensibili e disorientare l'opinione pubblica. La cooperazione multilaterale e il rafforzamento dei protocolli di resilienza digitale sono considerati essenziali dai Paesi del G7 per tutelare i servizi strategici e le istituzioni pubbliche."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/cronaca/2026/11/08/news/emergenza_cybersicurezza_piantedosi_convoca_per_martedi_il_comitato_nazionale_per_la_sicurezza-425708322/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-08T10:47+00:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/attacchi-hacker-tajani-serve-segnale-g7-5fddbdab-4967-4d8f-9595-bb01f149faa7.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-08T17:37+00:00"
-    },
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/politica/attacci_hacker_cosa_succede_italia_tajani_cosa_ha_detto_g7-9877341.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-08T17:26+01:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "20:07",
-   "uscita": "sera",
-   "sez_prima": "italia",
-   "riempimento": true
-  },
-  {
    "id": "z22f9eccf",
    "sez": "sport",
    "titolo": "Carlos Alcaraz supera Ben Shelton e conquista il titolo del Masters di Parigi",
@@ -719,7 +1047,7 @@ window.EDIZIONI["2026-11-08-sera"] = {
   },
   {
    "id": "zeabfb104",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Elezioni municipali in Sudafrica: l'African National Congress registra il suo peggior risultato",
    "orig": "South Africa elections: ANC marks its worst-ever performance",
    "lead": "L'African National Congress, lo storico partito guidato in passato dal premio Nobel per la pace Nelson Mandela, ha subito la più pesante battuta d'arresto elettorale della sua storia in occasione delle consultazioni municipali in Sudafrica. L'elettorato ha punito duramente la forza di governo, esprimendo un diffuso malcontento per le croniche interruzioni nella fornitura di energia elettrica e le persistenti carenze idriche che colpiscono i centri urbani. L'esito certifica una crisi di fiducia verso il movimento che governa ininterrottamente il Paese dalla fine dell'apartheid. Lo riferisce Deutsche Welle.",
@@ -775,9 +1103,7 @@ window.EDIZIONI["2026-11-08-sera"] = {
    ],
    "data": "8 nov",
    "ora": "20:07",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "zca39e92b",
@@ -859,6 +1185,24 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "Cabo Verde",
      "t": "2026-11-08T16:25+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/medio-oriente/ataque-contra-arabia-saudita-un-proyectil-cayo-sobre-un-edificio-de-aramco-la-mayor-petrolera-del-mundo-3599359",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-08T06:33-05:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/internacional/asia/los-huties-reivindican-ataque-a-rascacielos-de-la-petrolera-aramco-en-riad-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-08T15:20+00:00"
     }
    ],
    "data": "8 nov",
@@ -977,7 +1321,7 @@ window.EDIZIONI["2026-11-08-sera"] = {
   },
   {
    "id": "zc62a712c",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Milioni di luci e celebrazioni per Diwali: l'India e le comunità nel mondo festeggiano",
    "orig": "Homes and temples glow across India to mark Diwali",
    "lead": "L'India e le numerose comunità indiane sparse nel mondo celebrano il Diwali, la tradizionale e suggestiva festa delle luci. Case, templi ed edifici pubblici sono stati illuminati da milioni di lampade a olio, lanterne e decorazioni floreali colorate, accompagnate da scambi di dolci tipici e spettacoli pirotecnici. Anche all'estero, come a Dubai, i festeggiamenti hanno visto una vasta partecipazione con l'allestimento di elaborati rangoli dorati, confermando la portata universale di una ricorrenza spirituale che simboleggia la vittoria della luce sulle tenebre e del bene sul male.",
@@ -1015,7 +1359,9 @@ window.EDIZIONI["2026-11-08-sera"] = {
    ],
    "data": "8 nov",
    "ora": "20:07",
-   "uscita": "sera"
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "z9bd2e516",
@@ -1110,6 +1456,15 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-08T00:35+01:00"
+    },
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-08T09:30+00:00"
     }
    ],
    "data": "8 nov",
@@ -1578,6 +1933,15 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-08T19:32+01:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/serie-a-11-turno-napoli-lazio-1-1-6989b7ad-7bde-477a-8609-37161057b3b2.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T13:24+00:00"
     }
    ],
    "data": "8 nov",
@@ -3442,30 +3806,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z0a037199",
-   "sez": "sport",
-   "titolo": "Serie A, pareggio per 1-1 tra Napoli e Lazio: i biancocelesti restano in vetta",
-   "orig": "Serie A, 11° turno: Napoli-Lazio 1-1",
-   "lead": "La sfida tra Napoli e Lazio, valida per l'undicesima giornata del campionato di calcio di Serie A, si è conclusa con il risultato di 1-1. Il pareggio maturato sul terreno di gioco consente alla formazione biancoceleste di difendere il comando della classifica generale del torneo. Entrambe le squadre hanno lottato per l'intera partita alla ricerca dei tre punti, ma la divisione della posta in palio mantiene invariate le posizioni di vertice nel massimo campionato italiano. Lo riferisce Rai News.",
-   "more": [
-    "Il campionato di Serie A rappresenta il massimo livello del calcio professionistico italiano, con venti formazioni che si contendono il titolo e le qualificazioni alle coppe continentali. Mantenere la testa della graduatoria nei primi mesi della stagione richiede continuità di rendimento sia negli scontri diretti sia nelle trasferte più impegnative."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/serie-a-11-turno-napoli-lazio-1-1-6989b7ad-7bde-477a-8609-37161057b3b2.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-08T13:24+00:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
    "id": "z64cc7008",
    "sez": "prima",
    "titolo": "Papa Leone XIV in Argentina: atteso il confronto istituzionale con il presidente Milei",
@@ -4798,30 +5138,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "sub": "sport"
   },
   {
-   "id": "z0ba10f18",
-   "sez": "salute",
-   "titolo": "Farmaci cardiaci e intelligenza artificiale: cresce lo scetticismo clinico",
-   "orig": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
-   "lead": "I recenti insuccessi registrati nella sperimentazione clinica di nuovi farmaci per le patologie cardiache stanno alimentando dubbi sull'entusiasmo generato dall'intelligenza artificiale applicata alla medicina. Molteplici investimenti avevano promosso i modelli informatici avanzati come una svolta capace di accorciare drasticamente i tempi e incrementare l'efficacia nello sviluppo di molecole terapeutiche. Tuttavia, i risultati negativi nei test hanno dimostrato che la biologia umana presenta variabili complesse che gli algoritmi non riescono ancora a prevedere con sicurezza, sollevando inviti alla cautela nel settore farmaceutico. Lo riferisce STAT.",
-   "more": [
-    "Lo sviluppo di un nuovo farmaco prevede varie fasi di ricerca preclinica in laboratorio e tre fasi di sperimentazione sull'uomo prima dell'approvazione regolatoria. Sebbene l'intelligenza artificiale possa analizzare grandi banche dati per identificare composti promettenti, la reale risposta degli organismi biologici può riservare imprevisti di tossicità o inefficacia che soltanto la clinica può verificare."
-   ],
-   "fonti": [
-    {
-     "n": "STAT",
-     "p": "US",
-     "c": "Boston",
-     "u": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-08T09:30+00:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
    "id": "z0ded1e97",
    "sez": "manga",
    "titolo": "Spy×Family proseguirà con la quarta stagione e un film nel 2027",
@@ -6044,39 +6360,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z883b41ac",
-   "sez": "mondo",
-   "titolo": "Un proiettile colpisce la sede della petroliera Aramco a Riad",
-   "orig": "Ataque contra Arabia Saudita: un proyectil cayó sobre un edificio de Aramco, la mayor petrolera del mundo",
-   "lead": "Un proiettile scagliato dai combattenti Houthi ha colpito un edificio amministrativo della compagnia petrolifera Aramco a Riad, la capitale dell'Arabia Saudita. L'attacco ha causato danni materiali alla struttura della più grande azienda petrolifera del mondo, ma non ha provocato feriti o vittime tra il personale presente nell'area. L'azione è stata rivendicata dai miliziani filo-iraniani, che negli ultimi mesi hanno intensificato i lanci di droni e missili contro le infrastrutture strategiche saudite.",
-   "more": [
-    "Saudi Aramco è la compagnia petrolifera statale dell'Arabia Saudita e la maggiore società di estrazione e raffinazione di idrocarburi a livello globale. Essendo un elemento cardine dell'economia saudita e dell'approvvigionamento energetico mondiale, le sue strutture sono frequentemente prese di mira nei conflitti geopolitici della regione mediorientale."
-   ],
-   "fonti": [
-    {
-     "n": "El Tiempo",
-     "p": "XX",
-     "c": "Bogotá",
-     "u": "https://www.eltiempo.com/mundo/medio-oriente/ataque-contra-arabia-saudita-un-proyectil-cayo-sobre-un-edificio-de-aramco-la-mayor-petrolera-del-mundo-3599359",
-     "angolo": "",
-     "atlas": "Colombia",
-     "t": "2026-11-08T06:33-05:00"
-    },
-    {
-     "n": "El Universo",
-     "p": "XX",
-     "c": "Guayaquil",
-     "u": "https://eluniverso.com/internacional/asia/los-huties-reivindican-ataque-a-rascacielos-de-la-petrolera-aramco-en-riad-nota/",
-     "angolo": "",
-     "atlas": "Ecuador",
-     "t": "2026-11-08T15:20+00:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "17:10",
-   "uscita": "17"
-  },
-  {
    "id": "z4d3279c6",
    "sez": "mondo",
    "titolo": "Scontro tragico in volo tra due paracadutisti durante un tentativo di record in California",
@@ -6205,6 +6488,33 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-08T11:37+00:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/cronaca/2026/11/08/news/emergenza_cybersicurezza_piantedosi_convoca_per_martedi_il_comitato_nazionale_per_la_sicurezza-425708322/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T10:47+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/attacchi-hacker-tajani-serve-segnale-g7-5fddbdab-4967-4d8f-9595-bb01f149faa7.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T17:37+00:00"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/politica/attacci_hacker_cosa_succede_italia_tajani_cosa_ha_detto_g7-9877341.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T17:26+01:00"
     }
    ],
    "data": "8 nov",
@@ -6219,7 +6529,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zf0628828": "La testata pone l'accento sulla netta affermazione della tennista statunitense e sulla commozione dell'avversaria filippina.",
   "zcf0d23cd": "L'emittente si sofferma sull'istituzione della task force americana in risposta ai timori di escalation bellica.",
   "ze158c22d": "La testata evidenzia come lo scontro partitico interno minacci l'unità amministrativa del Kurdistan iracheno.",
-  "z0a037199": "La testata statale evidenzia la permanenza della Lazio al vertice della classifica dopo il pareggio esterno.",
   "z64cc7008": "I quotidiani internazionali sottolineano le forti divergenze dottrinali ed economiche tra il Vaticano e la presidenza Milei.",
   "z705c5133": "La testata specializzata evidenzia la crisi alimentare dei contadini nordcoreani causata dai massicci prelievi statali.",
   "z3b353b6a": "Le emittenti congolesi mettono in rilievo le motivazioni storiche della proposta parlamentare per tributare il massimo riconoscimento.",
@@ -6257,7 +6566,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z850816a7": "Bangkok Post evidenzia l'avvistamento del raro predatore come segno del perfetto stato di conservazione del parco naturale thailandese.",
   "z050d8fd2": "ArchDaily illustra le scelte architettoniche e le dotazioni tecnologiche sostenibili del nuovo complesso residenziale nella capitale slovacca.",
   "z1eb1e341": "Orizzonte Scuola informa gli istituti scolastici sull'apertura delle iscrizioni per la tradizionale gara di matematica a squadre.",
-  "z0ba10f18": "STAT mette in luce il contrasto tra le promesse dell'intelligenza artificiale farmacologica e i recenti fallimenti nei test cardiologici.",
   "z0ded1e97": "La testata evidenzia l'annuncio dei nuovi contenuti in arrivo per il celebre franchise d'animazione giapponese.",
   "z77cb0e4a": "Le cronache sportive pongono l'accento sulla vittoria amichevole dell'Espérance e sul programma di gara delle compagini monegasche.",
   "ze7ab51a3": "BBC News evidenzia le misure adottate dai gestori del paesaggio per prevenire incendi e ripristinare le torbiere.",
@@ -6300,7 +6608,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z39fed53a": "Brújula Digital propone l'analisi dei tre esperti sugli aspetti positivi, negativi e in sospeso del primo anno di mandato esecutivo.",
   "z2345b35b": "Radio Ndeke Luka ripercorre le cause e i disordini che hanno segnato la protesta scolastica sfociata in violenza.",
   "z71058ccd": "Le Monde mette in evidenza il fermo discorso del Papa in difesa delle donne di fronte all'alto numero di femminicidi nella regione.",
-  "z883b41ac": "El Tiempo riporta i danni materiali subiti dagli uffici della compagnia Aramco e la rivendicazione dell'attacco.",
   "z4d3279c6": "El Tiempo narra il drammatico incidente aereo costato la vita ai due paracadutisti in territorio californiano.",
   "z0ef6cc36": "CNA riporta lo stop del capitano del Bayern Monaco in seguito alla diagnosi del trauma al piede.",
   "ze8086928": "Rai News mette in primo piano la convocazione urgente del Comitato al Viminale per affrontare l'emergenza cyber.",
@@ -6320,7 +6627,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zb70ebe8b": "Brújula Digital evidenzia le tensioni procedurali tra la presidenza e la vicepresidenza dell'Assemblea legislativa.",
   "z35e8cc0f": "Gabonreview si concentra sui benefici economici e gli accordi bilaterali ottenuti dalla delegazione gabonese in Cina.",
   "zf296b40b": "L'attenzione dei media si concentra sull'inchiesta aperta dal presidente egiziano per accertare le responsabilità e sulla mobilitazione dei soccorsi.",
-  "z1723a5cc": "I quotidiani evidenziano il doppio fronte istituzionale italiano, tra la discussione al G7 e il monitoraggio preventivo convocato al Viminale.",
   "z22f9eccf": "L'emittente sottolinea il successo dello spagnolo contro Shelton, che gli consente di centrare un trionfo inedito prima delle finali di fine anno.",
   "z542315a0": "La fonte pone l'accento sulla grande affluenza alla protesta e sulle richieste esplicite di fermare le forniture belliche a Israele.",
   "zc35e786a": "L'agenzia dà risalto al successo del pilota britannico della McLaren e alle posizioni ottenute da Red Bull, Ferrari e Mercedes.",
@@ -6403,7 +6709,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zca0902e6": "Il media greco mette in luce le difficoltà finanziarie dei Paesi alleati nel mantenere gli impegni di supporto militare presi con Kiev.",
   "zd18807e1": "Il quotidiano tanzaniano sottolinea la fermezza del proprio governo nel presentare alle Nazioni Unite le posizioni ufficiali sui diritti territoriali.",
   "z548f2f1f": "Il quotidiano sudafricano mette in risalto il monito del presidente per evitare che i contrasti di partito blocchino i servizi ai cittadini.",
-  "z9d706d40": "Il giornale di Johannesburg sottolinea la rilevanza legislativa della riforma per garantire la tenuta dei governi cittadini.",
   "zb6947af8": "Analisi socio-politica sulla trasformazione urbana e il superamento del radicalismo religioso.",
   "z2645bf9f": "Inchiesta finanziaria su possibili casi di corruzione e mala gestione pubblica in Ungheria.",
   "z4abf4525": "La testata riporta le posizioni nazionaliste di un ex capo di Stato sulla politica di difesa.",
@@ -6413,7 +6718,21 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z03044c05": "Cronaca delle tensioni politiche interne al partito di governo sud sudanese.",
   "z207db9e2": "Cronaca di un movimento di protesta sociale focalizzato sui diritti abitativi in Portogallo.",
   "z7039a094": "Cronaca di un'azione di protesta simbolica e delle relative conseguenze legali in Germania.",
-  "zf99a6b76": "Resoconto delle dichiarazioni del rappresentante dei comuni durante il programma televisivo nazionale dell'emittente pubblica."
+  "zf99a6b76": "Resoconto delle dichiarazioni del rappresentante dei comuni durante il programma televisivo nazionale dell'emittente pubblica.",
+  "z9d1c71de": "La testata evidenzia l'attivismo e i risultati positivi ottenuti dai sopravvissuti agli abusi nelle recenti consultazioni elettorali.",
+  "z4e7fc109": "La testata celebra l'importanza storica e culturale delle mappe prodotte dall'ente cartografico britannico in occasione del suo anniversario.",
+  "z103072ff": "La testata evidenzia la presenza e l'entusiasmo della cantante al concerto della band metal e le immagini condivise sui social.",
+  "zc6f89234": "O portal destaca o registro em vídeo dos golfinhos interagindo visualmente com os surfistas no litoral alagoano.",
+  "zb80c1254": "La testata evidenzia la imminente risoluzione del problema infrastrutturale e la riapertura di un'importante arteria stradale cittadina.",
+  "z831eef9b": "La testata evidenzia una storia a lieto fine basata sulla restituzione di un indumento e sul ricongiungimento tra la vittima e il soccorritore dopo decenni.",
+  "z96045a5c": "La testata evidenzia il ruolo strategico dell'ASEAN e la necessità di una maggiore consapevolezza pubblica riguardo alle sue dinamiche.",
+  "z306438fc": "La testata evidenzia l'esecuzione delle condanne a morte e le accuse formali mosse nei confronti dei manifestanti.",
+  "zd9974dbf": "La testata evidenzia l'avvio del vertice climatico internazionale e le difficoltà geopolitiche ed energetiche che accompagnano i negoziati.",
+  "z4849b768": "La testata evidenzia l'incidente occorso alla speleologa e l'intervento in corso dei soccorritori in ambiente sotterraneo.",
+  "z0900a338": "La testata evidenzia il bilancio dei feriti e le circostanze dell'incidente stradale avvenuto nella capitale irlandese.",
+  "zd094c4e5": "L'emittente lituana analizza i disservizi nel settore delle energie rinnovabili dal punto di vista dei consumatori.",
+  "z24d88535": "La testata ungherese riporta le preoccupazioni per la salute pubblica legate ai cantieri delle infrastrutture scolastiche.",
+  "z9c68e37c": "L'articolo evidenzia le tensioni diplomatiche e organizzative generate dalle sentenze degli organi sportivi internazionali."
  },
  "contesti": {
   "z64cc7008": "Nei giorni scorsi il pontefice ha completato la prima parte del suo viaggio pastorale in Uruguay, prima di raggiungere Buenos Aires. Nel frattempo, in Argentina le autorità locali hanno predisposto misure di sicurezza straordinarie e proclamato festività pubbliche per consentire ai fedeli la partecipazione alle celebrazioni di massa.",
@@ -6423,9 +6742,10 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zf81e3d44": "Negli ultimi anni, le relazioni tra Egitto e Libia sono state caratterizzate da profonde divisioni a seguito della chiusura dell'ambasciata egiziana nel 2014 per motivi di sicurezza. Il Cairo ha a lungo sostenuto le autorità dell'Est libico. Tuttavia, recenti sforzi diplomatici e colloqui bilaterali focalizzati su sicurezza, dossier energetici e cooperazione economica hanno favorito un graduale riavvicinamento tra l'Egitto e il Governo di Unità Nazionale di Tripoli.",
   "zca39e92b": "Nelle scorse settimane le tensioni nello scacchiere mediorientale sono aumentate a causa di ripetuti lanci di droni e missili da parte delle milizie yemenite verso installazioni nemiche. La coalizione guidata da Riad ha intensificato la sorveglianza radar e i pattugliamenti di difesa aerea per proteggere i principali nodi economici della penisola araba da incursioni a lungo raggio.",
   "zf296b40b": "Negli ultimi anni la rete ferroviaria egiziana è stata teatro di ricorrenti incidenti mortali causati dall'obsolescenza delle infrastrutture, da carenze nei sistemi automatici di segnalamento e da frequenti errori umani. Nonostante gli annunci governativi di investimenti miliardari e di ammodernamento tecnologico promossi dal presidente Abdel Fattah al-Sisi, i disservizi e le lacune nella manutenzione hanno continuato a generare allarmi sulla sicurezza dei trasporti pubblici in tutto il Paese nordafricano.",
-  "z1723a5cc": "Nelle ultime settimane le agenzie di sicurezza europee e l'Agenzia per la Cybersicurezza Nazionale italiana hanno rilevato una recrudescenza di offensive informatiche di matrice filorussa, in particolare attacchi DDoS sferrati dal collettivo NoName057(16). I pirati hanno preso di mira portali istituzionali, infrastrutture strategiche, banche e aziende di trasporto, intensificando le azioni di disturbo della guerra ibrida in concomitanza con le decisioni occidentali sul sostegno politico e militare a Kiev.",
   "z521dd0c3": "Negli ultimi mesi gli sforzi diplomatici internazionali per definire una piattaforma negoziale sul conflitto ucraino si sono intensificati, coinvolgendo mediatori mediorientali e gli Stati Uniti. Mentre Mosca manifestava scetticismo su un coinvolgimento diretto dei partner europei accusati di parzialità, Parigi e Bruxelles hanno insistito sulla necessità di una loro presenza a tutela della sicurezza continentale, riuscendo infine a concordare la partecipazione ai colloqui di pace negli Emirati Arabi Uniti.",
-  "zeabfb104": "Dalla fine dell'apartheid nel 1994, l'African National Congress ha guidato ininterrottamente il Sudafrica. Negli ultimi anni, tuttavia, il Paese ha dovuto affrontare una crescente crisi dei servizi pubblici, caratterizzata da croniche interruzioni dell'energia elettrica e gravi carenze idriche nei centri urbani. Il progressivo deterioramento delle infrastrutture ha generato un forte malcontento nella popolazione, erodendo la fiducia dei cittadini nello storico movimento politico e portando al peggior risultato elettorale di sempre."
+  "zeabfb104": "Dalla fine dell'apartheid nel 1994, l'African National Congress ha guidato ininterrottamente il Sudafrica. Negli ultimi anni, tuttavia, il Paese ha dovuto affrontare una crescente crisi dei servizi pubblici, caratterizzata da croniche interruzioni dell'energia elettrica e gravi carenze idriche nei centri urbani. Il progressivo deterioramento delle infrastrutture ha generato un forte malcontento nella popolazione, erodendo la fiducia dei cittadini nello storico movimento politico e portando al peggior risultato elettorale di sempre.",
+  "z306438fc": "Nelle ultime settimane, l'Iran è stato teatro di diffuse proteste antigovernative nate in seguito alla crisi economica e al malcontento sociale. Le autorità giudiziarie hanno risposto con una dura repressione, arrestando migliaia di manifestanti e avviando processi sommari nei confronti di coloro che sono accusati di violenze contro le forze di sicurezza e di possesso di armi durante i disordini.",
+  "zc62a712c": "Nei giorni precedenti al Diwali, l'India e le comunità della diaspora globale hanno avviato i tradizionali preparativi per la principale festività induista. Mercati affollati, pulizie rituali e la creazione di decorazioni artistiche hanno preceduto la notte dei festeggiamenti, che simboleggia la vittoria spirituale della luce sull'oscurità e del bene sul male, coinvolgendo milioni di persone in tutto il mondo."
  },
  "cronologie": {
   "z64cc7008": [
@@ -6530,20 +6850,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
     "Nuove segnalazioni di malfunzionamenti lungo le tratte ferroviarie meridionali"
    ]
   ],
-  "z1723a5cc": [
-   [
-    "Ultime settimane",
-    "Raffica di attacchi hacker DDoS contro siti di ministeri e istituti di credito italiani"
-   ],
-   [
-    "Giorni scorsi",
-    "Allerta dell'Agenzia per la Cybersicurezza su potenziali rischi a reti energetiche e trasporti"
-   ],
-   [
-    "Vigilia del vertice",
-    "Concertazione tra Farnesina e alleati internazionali sul contrasto alle minacce ibride"
-   ]
-  ],
   "z521dd0c3": [
    [
     "Mesi scorsi",
@@ -6574,6 +6880,34 @@ window.EDIZIONI["2026-11-08-sera"] = {
    [
     "Oggi",
     "Lo spoglio conferma l'ANC al suo minimo storico nei consensi elettorali"
+   ]
+  ],
+  "z306438fc": [
+   [
+    "Inizio dell'anno",
+    "Scoppio delle proteste antigovernative e dei disordini armati in varie città dell'Iran"
+   ],
+   [
+    "Settimane scorse",
+    "Arresto e celebrazione dei processi a carico dei manifestanti accusati di reati contro la sicurezza"
+   ],
+   [
+    "Giorni recenti",
+    "Conferma delle condanne a morte e pressioni internazionali delle organizzazioni per i diritti umani"
+   ]
+  ],
+  "zc62a712c": [
+   [
+    "Settimana precedente",
+    "Intensi preparativi nei mercati e nelle case con l'acquisto di lampade a olio e dolci tipici"
+   ],
+   [
+    "Vigilia",
+    "Allestimento di decorazioni floreali e rangoli colorati in India e nelle principali comunità estere, come a Dubai"
+   ],
+   [
+    "Giorno della festa",
+    "Accensione di milioni di luci e celebrazioni pubbliche e private in tutto il mondo"
    ]
   ]
  },
@@ -6703,32 +7037,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    ],
    "divergono": "Le testate evidenziano aspetti differenti della vicenda. ANSA privilegia la dimensione diplomatica e il ruolo di Tajani verso il G7. Il Sole 24 Ore mette al centro lo scontro politico interno, dettagliando le posizioni dei partiti e le cifre sui presunti tagli alla sicurezza informatica. Il Post elenca i singoli casi di attacco cyber e riflette sulla cornice della guerra ibrida, mentre Rai News offre solo la notizia sintetica senza approfondimenti."
   },
-  "z1723a5cc": {
-   "voci": [
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Limitandosi a titolo e occhiello, il giudizio è parziale. La testata mette al centro le dichiarazioni di Tajani sulla capacità di respingere gli \"hacker filorussi\" e l'iniziativa di Piantedosi per un'analisi dei rischi informatici al Viminale e al G7.",
-     "b": "t"
-    },
-    {
-     "n": "Rai News",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Basandosi solo su titolo e occhiello, il giudizio è parziale. La testata riporta in modo neutro l'appello di Tajani per un segnale dal G7 contro la \"guerra ibrida\" che minaccia il sistema democratico.",
-     "b": "t"
-    },
-    {
-     "n": "Il Messaggero",
-     "c": "Roma",
-     "p": "IT",
-     "t": "L'articolo, puramente informativo, evidenzia il punto stampa alla Farnesina di Tajani. Il ministro rivendica la capacità di difendere i dati sensibili dagli \"hacker filorussi\", invocando una \"risposta coordinata\" e \"unità di intenti\" tra Paesi democratici al G7 di Parigi insieme al ministro ucraino.",
-     "b": "a"
-    }
-   ],
-   "divergono": "Mentre tutte le testate focalizzano l'attenzione sull'intervento del ministro Tajani contro gli attacchi informatici, emergono dettagli complementari. la Repubblica cita in prima battuta il vertice al Viminale e l'iniziativa del ministro Piantedosi. Il Messaggero fornisce maggiori dettagli sulla cornice del G7 di Parigi, precisando la presenza del ministro degli Esteri ucraino e la necessità di una risposta tecnologica coordinata, aspetto non menzionato nella sintesi di Rai News."
-  },
   "zca39e92b": {
    "voci": [
     {
@@ -6834,6 +7142,58 @@ window.EDIZIONI["2026-11-08-sera"] = {
     }
    ],
    "divergono": "Mentre Deutsche Welle e VRT NWS si concentrano sulla portata storica della sconfitta politica dell'ANC, descrivendola come un fallimento interno legato ai disservizi, Mail & Guardian sposta l'attenzione sulla regolarità tecnica del voto e sulle prospettive per gli investitori. La testata sudafricana è l'unica a citare l'influenza di istituzioni internazionali come il Fondo Monetario Internazionale e l'impatto dei tagli ai sussidi locali sulla stabilità delle coalizioni."
+  },
+  "z306438fc": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "La voce del Regno Unito riporta l'esecuzione di tre uomini per \"disordini armati\", citando l'agenzia statale Tasnim. Menziona l'allarme dell'ONU e i dati di Amnesty International, definendo l'Iran il secondo \"boia più prolifico\" al mondo. L'articolo è informativo e focalizzato sui diritti umani.",
+     "b": "a"
+    },
+    {
+     "n": "Citizen Digital",
+     "c": "Nairobi",
+     "p": "XX",
+     "t": "L'articolo riporta le esecuzioni confermate dalla Corte Suprema per attività a favore del \"regime sionista israeliano\". Cita il sito \"Mizan Online\" e descrive l'uso di \"armi da taglio\" durante i disordini. È un resoconto neutro che riporta sia i bilanci ufficiali sia quelli delle ONG.",
+     "b": "a"
+    },
+    {
+     "n": "South China Morning Post",
+     "c": "Hong Kong",
+     "p": "XX",
+     "t": "Mette in evidenza la denuncia di un \"processo ingiusto\" sollevata da gruppi per i diritti umani. Indica in almeno 39 le persone \"impiccate\" per le proteste di gennaio. Riporta le accuse della magistratura riguardanti il lancio di \"molotov e granate\" contro strutture pubbliche.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate riportano cifre diverse sulle esecuzioni legate alle proteste di gennaio: South China Morning Post ne conta \"almeno 39\", mentre la voce del Regno Unito ne indica 27. South China Morning Post è l'unica a citare esplicitamente un \"processo ingiusto\", mentre Citizen Digital e BBC News riportano le accuse di spionaggio per il \"regime sionista israeliano\" citando fonti governative. BBC News aggiunge un contesto globale sulla pena di morte omesso dalle altre testate."
+  },
+  "zc62a712c": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "La voce del Regno Unito descrive il \"trionfo della luce\", ma evidenzia l'allarme per l'\"inquinamento atmosferico\" record a Delhi. Cita la Corte Suprema sull'uso di \"fuochi d'artificio verdi\". L'articolo è informativo e bilancia celebrazioni religiose e criticità ambientali.",
+     "b": "a"
+    },
+    {
+     "n": "Gulf News",
+     "c": "Dubai",
+     "p": "XX",
+     "t": "Celebra l'evento come simbolo di \"armonia e tolleranza\" a Dubai. Si focalizza su attrazioni come il \"rangoli d'oro\", spettacoli di droni e \"sconti per Diwali\". Il tono è entusiasta e mette al centro l'esperienza multiculturale e l'impatto economico locale.",
+     "b": "a"
+    },
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "La voce del Qatar offre una panoramica sulla \"vittoria del bene\" celebrata dalla \"diaspora globale\". Fornisce dettagli didascalici sulle tradizioni di sikh e giainisti e sui rituali domestici. Il testo è puramente informativo, neutrale e privo di riferimenti a polemiche ambientali.",
+     "b": "a"
+    }
+   ],
+   "divergono": "BBC News pone un forte accento sulla crisi ambientale in India, definendo questo Diwali il più inquinato del decennio, tema totalmente assente nelle altre testate. Gulf News si concentra sulla natura commerciale e turistica dei festeggiamenti negli Emirati Arabi, mentre Al Jazeera e BBC News mantengono un'attenzione maggiore sul significato religioso e sulle tradizioni storiche della festività."
   }
  },
  "luoghi": {
@@ -6871,13 +7231,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "n": "Erbil",
    "p": [
     "Iraq"
-   ],
-   "pt": []
-  },
-  "z0a037199": {
-   "n": "Napoli",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -7137,13 +7490,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "n": "Lombardia",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z0ba10f18": {
-   "n": "Boston",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -7441,13 +7787,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    ],
    "pt": []
   },
-  "z883b41ac": {
-   "n": "Riad",
-   "p": [
-    "Saudi Arabia"
-   ],
-   "pt": []
-  },
   "z4d3279c6": {
    "n": "California",
    "p": [
@@ -7578,13 +7917,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "n": "Il Cairo",
    "p": [
     "Egypt"
-   ],
-   "pt": []
-  },
-  "z1723a5cc": {
-   "n": "Roma",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -8164,13 +8496,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    ],
    "pt": []
   },
-  "z9d706d40": {
-   "n": "Pretoria",
-   "p": [
-    "South Africa"
-   ],
-   "pt": []
-  },
   "zb6947af8": {
    "n": "Molenbeek",
    "p": [
@@ -8240,6 +8565,104 @@ window.EDIZIONI["2026-11-08-sera"] = {
     "Austria"
    ],
    "pt": []
+  },
+  "z9d1c71de": {
+   "n": "Arlington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4e7fc109": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z103072ff": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc6f89234": {
+   "n": "Marechal Deodoro",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zb80c1254": {
+   "n": "Kikwit",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z831eef9b": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z96045a5c": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z306438fc": {
+   "n": "Teheran",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zd9974dbf": {
+   "n": "Antalya",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z4849b768": {
+   "n": "Monopoli",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z0900a338": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zd094c4e5": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z24d88535": {
+   "n": "Gyömrő",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "z9c68e37c": {
+   "n": "Canada",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -8248,7 +8671,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zf0628828": 1,
   "zcf0d23cd": 1,
   "ze158c22d": 1,
-  "z0a037199": 1,
   "z64cc7008": 2,
   "z705c5133": 1,
   "z3b353b6a": 2,
@@ -8286,7 +8708,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z850816a7": 1,
   "z050d8fd2": 1,
   "z1eb1e341": 1,
-  "z0ba10f18": 1,
   "z0ded1e97": 1,
   "z77cb0e4a": 1,
   "ze7ab51a3": 1,
@@ -8329,7 +8750,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z39fed53a": 1,
   "z2345b35b": 1,
   "z71058ccd": 1,
-  "z883b41ac": 2,
   "z4d3279c6": 1,
   "z0ef6cc36": 1,
   "ze8086928": 2,
@@ -8349,7 +8769,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zb70ebe8b": 1,
   "z35e8cc0f": 1,
   "zf296b40b": 2,
-  "z1723a5cc": 2,
   "z22f9eccf": 1,
   "z542315a0": 1,
   "zc35e786a": 1,
@@ -8378,7 +8797,7 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z975954a2": 1,
   "z834704f3": 1,
   "zc790ee37": 1,
-  "za6696968": 1,
+  "za6696968": 2,
   "z7abc5027": 1,
   "z7dcc6beb": 1,
   "zbbecf1dc": 1,
@@ -8432,7 +8851,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zca0902e6": 1,
   "zd18807e1": 2,
   "z548f2f1f": 2,
-  "z9d706d40": 2,
   "zb6947af8": 1,
   "z2645bf9f": 1,
   "z4abf4525": 1,
@@ -8442,7 +8860,21 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z03044c05": 1,
   "z207db9e2": 1,
   "z7039a094": 1,
-  "zf99a6b76": 1
+  "zf99a6b76": 1,
+  "z9d1c71de": 1,
+  "z4e7fc109": 1,
+  "z103072ff": 1,
+  "zc6f89234": 1,
+  "zb80c1254": 1,
+  "z831eef9b": 1,
+  "z96045a5c": 1,
+  "z306438fc": 2,
+  "zd9974dbf": 1,
+  "z4849b768": 1,
+  "z0900a338": 1,
+  "zd094c4e5": 1,
+  "z24d88535": 1,
+  "z9c68e37c": 1
  },
  "video": {},
  "pillole": []
