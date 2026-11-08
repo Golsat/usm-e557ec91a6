@@ -180,92 +180,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z306438fc",
-   "sez": "prima",
-   "titolo": "L'Iran giustizia tre uomini accusati di disordini armati legati alle proteste",
-   "orig": "Iran executes three men for 'armed unrest' after January protests",
-   "lead": "Le autorità giudiziarie dell'Iran hanno eseguito la condanna a morte di tre uomini, identificati come Hassan Dioband, Hamid Kazemi e Reza Zanganeh, accusati di aver preso parte a disordini armati nel corso delle proteste antigovernative scoppiate all'inizio dell'anno. Organizzazioni per i diritti umani hanno definito i processi ingiusti. Lo riferisce BBC News.",
-   "more": [
-    "Le proteste in Iran sono nate originariamente a causa del carovita e delle difficoltà economiche, evolvendosi rapidamente in contestazioni contro la leadership politica del Paese e affrontate dalle autorità con rigide misure di sicurezza e sanzioni giudiziarie."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-08T13:37+00:00"
-    },
-    {
-     "n": "Citizen Digital",
-     "p": "XX",
-     "c": "Nairobi",
-     "u": "https://citizen.digital/article/iran-executes-three-men-linked-to-anti-government-protests-1-n393541",
-     "angolo": "",
-     "atlas": "Kenya",
-     "t": "2026-11-08T14:49+00:00"
-    },
-    {
-     "n": "South China Morning Post",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/news/world/middle-east/article/3373716/iran-executes-3-more-men-over-january-protests-judiciary-says",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-11-08T17:06+00:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "20:20",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
-  },
-  {
-   "id": "zd9974dbf",
-   "sez": "mondo",
-   "titolo": "La conferenza sul clima COP31 si apre in Turchia per rimettere l'ambiente al centro dell'agenda globale",
-   "orig": "En Turquie, la COP31 vise à remettre le climat en haut de l’agenda, dans un monde percuté par les crises",
-   "lead": "La 31ª conferenza mondiale delle Nazioni Unite sul clima si apre ad Antalya, in Turchia, con l'obiettivo di riportare la questione climatica in cima all'agenda internazionale in un contesto segnato da crisi energetiche e tensioni geopolitiche. I negoziati mirano ad affrontare gli ostacoli che frenano la decarbonizzazione delle attività umane. Lo riferisce Le Monde.",
-   "more": [
-    "Le conferenze sul clima della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici riuniscono annualmente i governi di tutto il mondo per negoziare impegni congiunti volti a ridurre le emissioni di gas serra e limitare l'aumento della temperatura globale."
-   ],
-   "fonti": [
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/planete/article/2026/11/08/en-turquie-la-cop31-vise-a-remettre-le-climat-en-haut-de-l-agenda-dans-un-monde-percute-par-les-crises_6808456_3244.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-08T18:00+01:00"
-    },
-    {
-     "n": "Monaco Matin",
-     "p": "XX",
-     "c": "Monaco",
-     "u": "https://www.nicematin.com/sports/moto/c-est-magnifique-ce-qu-il-fait-mais-il-y-a-encore-beaucoup-a-parcourir-a-11-ans-ce-jeune-pilote-de-moto-de-monaco-vise-encore-plus-haut-en-2o27-10754655",
-     "angolo": "",
-     "atlas": "Monaco",
-     "t": "2026-11-08T13:59+01:00"
-    },
-    {
-     "n": "Tchadinfos",
-     "p": "XX",
-     "c": "N'Djamena",
-     "u": "https://tchadinfos.com/2026/11/08/climat-la-chaleur-a-cause-un-record-de-710-000-deces-dans-le-monde-en-2023/",
-     "angolo": "",
-     "atlas": "Chad",
-     "t": "2026-11-08T13:30+00:00"
-    }
-   ],
-   "data": "8 nov",
-   "ora": "20:20",
-   "uscita": "sera"
-  },
-  {
    "id": "z4849b768",
    "sez": "mondo",
    "titolo": "Speleologa infortunata bloccata nella Grotta Rotolo a Monopoli",
@@ -6726,8 +6640,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zb80c1254": "La testata evidenzia la imminente risoluzione del problema infrastrutturale e la riapertura di un'importante arteria stradale cittadina.",
   "z831eef9b": "La testata evidenzia una storia a lieto fine basata sulla restituzione di un indumento e sul ricongiungimento tra la vittima e il soccorritore dopo decenni.",
   "z96045a5c": "La testata evidenzia il ruolo strategico dell'ASEAN e la necessità di una maggiore consapevolezza pubblica riguardo alle sue dinamiche.",
-  "z306438fc": "La testata evidenzia l'esecuzione delle condanne a morte e le accuse formali mosse nei confronti dei manifestanti.",
-  "zd9974dbf": "La testata evidenzia l'avvio del vertice climatico internazionale e le difficoltà geopolitiche ed energetiche che accompagnano i negoziati.",
   "z4849b768": "La testata evidenzia l'incidente occorso alla speleologa e l'intervento in corso dei soccorritori in ambiente sotterraneo.",
   "z0900a338": "La testata evidenzia il bilancio dei feriti e le circostanze dell'incidente stradale avvenuto nella capitale irlandese.",
   "zd094c4e5": "L'emittente lituana analizza i disservizi nel settore delle energie rinnovabili dal punto di vista dei consumatori.",
@@ -6744,7 +6656,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zf296b40b": "Negli ultimi anni la rete ferroviaria egiziana è stata teatro di ricorrenti incidenti mortali causati dall'obsolescenza delle infrastrutture, da carenze nei sistemi automatici di segnalamento e da frequenti errori umani. Nonostante gli annunci governativi di investimenti miliardari e di ammodernamento tecnologico promossi dal presidente Abdel Fattah al-Sisi, i disservizi e le lacune nella manutenzione hanno continuato a generare allarmi sulla sicurezza dei trasporti pubblici in tutto il Paese nordafricano.",
   "z521dd0c3": "Negli ultimi mesi gli sforzi diplomatici internazionali per definire una piattaforma negoziale sul conflitto ucraino si sono intensificati, coinvolgendo mediatori mediorientali e gli Stati Uniti. Mentre Mosca manifestava scetticismo su un coinvolgimento diretto dei partner europei accusati di parzialità, Parigi e Bruxelles hanno insistito sulla necessità di una loro presenza a tutela della sicurezza continentale, riuscendo infine a concordare la partecipazione ai colloqui di pace negli Emirati Arabi Uniti.",
   "zeabfb104": "Dalla fine dell'apartheid nel 1994, l'African National Congress ha guidato ininterrottamente il Sudafrica. Negli ultimi anni, tuttavia, il Paese ha dovuto affrontare una crescente crisi dei servizi pubblici, caratterizzata da croniche interruzioni dell'energia elettrica e gravi carenze idriche nei centri urbani. Il progressivo deterioramento delle infrastrutture ha generato un forte malcontento nella popolazione, erodendo la fiducia dei cittadini nello storico movimento politico e portando al peggior risultato elettorale di sempre.",
-  "z306438fc": "Nelle ultime settimane, l'Iran è stato teatro di diffuse proteste antigovernative nate in seguito alla crisi economica e al malcontento sociale. Le autorità giudiziarie hanno risposto con una dura repressione, arrestando migliaia di manifestanti e avviando processi sommari nei confronti di coloro che sono accusati di violenze contro le forze di sicurezza e di possesso di armi durante i disordini.",
   "zc62a712c": "Nei giorni precedenti al Diwali, l'India e le comunità della diaspora globale hanno avviato i tradizionali preparativi per la principale festività induista. Mercati affollati, pulizie rituali e la creazione di decorazioni artistiche hanno preceduto la notte dei festeggiamenti, che simboleggia la vittoria spirituale della luce sull'oscurità e del bene sul male, coinvolgendo milioni di persone in tutto il mondo."
  },
  "cronologie": {
@@ -6880,20 +6791,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    [
     "Oggi",
     "Lo spoglio conferma l'ANC al suo minimo storico nei consensi elettorali"
-   ]
-  ],
-  "z306438fc": [
-   [
-    "Inizio dell'anno",
-    "Scoppio delle proteste antigovernative e dei disordini armati in varie città dell'Iran"
-   ],
-   [
-    "Settimane scorse",
-    "Arresto e celebrazione dei processi a carico dei manifestanti accusati di reati contro la sicurezza"
-   ],
-   [
-    "Giorni recenti",
-    "Conferma delle condanne a morte e pressioni internazionali delle organizzazioni per i diritti umani"
    ]
   ],
   "zc62a712c": [
@@ -7142,32 +7039,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
     }
    ],
    "divergono": "Mentre Deutsche Welle e VRT NWS si concentrano sulla portata storica della sconfitta politica dell'ANC, descrivendola come un fallimento interno legato ai disservizi, Mail & Guardian sposta l'attenzione sulla regolarità tecnica del voto e sulle prospettive per gli investitori. La testata sudafricana è l'unica a citare l'influenza di istituzioni internazionali come il Fondo Monetario Internazionale e l'impatto dei tagli ai sussidi locali sulla stabilità delle coalizioni."
-  },
-  "z306438fc": {
-   "voci": [
-    {
-     "n": "BBC News",
-     "c": "Londra",
-     "p": "UK",
-     "t": "La voce del Regno Unito riporta l'esecuzione di tre uomini per \"disordini armati\", citando l'agenzia statale Tasnim. Menziona l'allarme dell'ONU e i dati di Amnesty International, definendo l'Iran il secondo \"boia più prolifico\" al mondo. L'articolo è informativo e focalizzato sui diritti umani.",
-     "b": "a"
-    },
-    {
-     "n": "Citizen Digital",
-     "c": "Nairobi",
-     "p": "XX",
-     "t": "L'articolo riporta le esecuzioni confermate dalla Corte Suprema per attività a favore del \"regime sionista israeliano\". Cita il sito \"Mizan Online\" e descrive l'uso di \"armi da taglio\" durante i disordini. È un resoconto neutro che riporta sia i bilanci ufficiali sia quelli delle ONG.",
-     "b": "a"
-    },
-    {
-     "n": "South China Morning Post",
-     "c": "Hong Kong",
-     "p": "XX",
-     "t": "Mette in evidenza la denuncia di un \"processo ingiusto\" sollevata da gruppi per i diritti umani. Indica in almeno 39 le persone \"impiccate\" per le proteste di gennaio. Riporta le accuse della magistratura riguardanti il lancio di \"molotov e granate\" contro strutture pubbliche.",
-     "b": "a"
-    }
-   ],
-   "divergono": "Le testate riportano cifre diverse sulle esecuzioni legate alle proteste di gennaio: South China Morning Post ne conta \"almeno 39\", mentre la voce del Regno Unito ne indica 27. South China Morning Post è l'unica a citare esplicitamente un \"processo ingiusto\", mentre Citizen Digital e BBC News riportano le accuse di spionaggio per il \"regime sionista israeliano\" citando fonti governative. BBC News aggiunge un contesto globale sulla pena di morte omesso dalle altre testate."
   },
   "zc62a712c": {
    "voci": [
@@ -8615,20 +8486,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
    ],
    "pt": []
   },
-  "z306438fc": {
-   "n": "Teheran",
-   "p": [
-    "Iran"
-   ],
-   "pt": []
-  },
-  "zd9974dbf": {
-   "n": "Antalya",
-   "p": [
-    "Turkey"
-   ],
-   "pt": []
-  },
   "z4849b768": {
    "n": "Monopoli",
    "p": [
@@ -8868,8 +8725,6 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "zb80c1254": 1,
   "z831eef9b": 1,
   "z96045a5c": 1,
-  "z306438fc": 2,
-  "zd9974dbf": 1,
   "z4849b768": 1,
   "z0900a338": 1,
   "zd094c4e5": 1,
