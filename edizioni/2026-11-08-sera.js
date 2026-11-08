@@ -3,6 +3,570 @@ window.EDIZIONI["2026-11-08-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z418e0e2e",
+   "sez": "mondo",
+   "titolo": "Sciopero degli insegnanti in Bolivia, il governo minaccia tagli ai salari",
+   "orig": "Ministro de Trabajo advierte que descontarán el salario de maestros que acaten el paro de 48 horas",
+   "lead": "Il Ministero del Lavoro della Bolivia ha avvertito che decurterà lo stipendio ai docenti che aderiranno allo sciopero di 48 ore indetto per lunedì e martedì. Gli insegnanti protestano contro quella che definiscono una privatizzazione dell'istruzione, con sospensione delle attività e mobilitazioni in vari dipartimenti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/ministro-de-trabajo-advierte-que-descontaran-el-salario-de-maestros-que-acaten-el-paro-de-48-horas",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-08T13:29-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/cochabamba/magisterio-urbano-cochabamba-acatara-paro-48-horas-lunes-martes/20261108110415998845.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-08T11:04-04:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z717d3827",
+   "sez": "mondo",
+   "titolo": "Francia, al via a Parigi il processo ai tre poliziotti per l'aggressione a Michel Zecler",
+   "orig": "L’affaire Michel Zecler, emblématique des violences policières, devant la justice",
+   "lead": "Tre poliziotti compaiono da lunedì 9 novembre davanti alla corte criminale di Parigi con l'accusa di aver aggredito nel 2020 il produttore musicale Michel Zecler. L'episodio, documentato da video che avevano suscitato forte indignazione in Francia, è diventato uno dei casi simbolo sulle violenze delle forze dell'ordine.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/societe/article/2026/11/08/l-affaire-michel-zecler-emblematique-des-violences-policieres-devant-la-justice_6808454_3224.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-08T18:00+01:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/police-justice/michel-zecler-avant-le-proces-des-policiers-qui-lont-agresse-assumer-le-statut-de-victime-a-ete-un-vrai-chemin-de-croix-20261108_DOBWFDAYSNA3BH3OBQIFMRI4IY/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-08T09:00+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc966574e",
+   "sez": "mondo",
+   "titolo": "Presidenza FIFA, il candidato giapponese Tashima sfida Infantino",
+   "orig": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+   "lead": "Il dirigente giapponese Kozo Tashima ha dichiarato di ritenere di avere tra il 20 e il 30 percento di probabilità di vittoria nella sfida elettorale per la presidenza della FIFA contro il presidente uscente Gianni Infantino, lanciando ufficialmente la sua candidatura ai vertici del calcio mondiale. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-08T18:01+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1c0b5662",
+   "sez": "mondo",
+   "titolo": "In India nasce il movimento giovanile che chiede trasparenza ed elezioni eque",
+   "orig": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+   "lead": "In India il movimento giovanile denominato Cockroach Janta Party sta promuovendo una campagna nazionale per chiedere una maggiore responsabilità alla classe politica, l'aumento dei posti di lavoro per i giovani e la garanzia di elezioni libere ed eque nel Paese. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-08T16:59+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z141ed38b",
+   "sez": "mondo",
+   "titolo": "Calcio, il Derry City vince la FAI Cup superando il Waterford per 1-0",
+   "orig": "Magnificent seven for Derry as Burns sinks Waterford",
+   "lead": "Il Derry City ha conquistato la vittoria nella finale della Club Orange Men's FAI Cup battendo per 1-0 il Waterford all'Aviva Stadium di Dublino. La squadra conferma la propria tradizione di specialista nelle competizioni a eliminazione diretta. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/sport/soccer/2026/1108/1598423-magnificent-seven-for-derry-as-burns-sinks-waterford/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-08T17:00+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9a6e1049",
+   "sez": "ambiente",
+   "titolo": "Usa, le piogge nel sud-ovest inondano le comunità ma innalzano il livello del lago Powell",
+   "orig": "Floods bring rare relief to U.S. Southwest reservoirs as Lake Powell rises 20 feet",
+   "lead": "Le intense tempeste registrate tra la fine di ottobre e l'inizio di novembre nel sud-ovest degli Stati Uniti hanno provocato esondazioni e allagamenti nei centri abitati, ma hanno anche apportato un significativo incremento di oltre sei metri alle riserve idriche del lago Powell. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/nation/floods-bring-rare-relief-to-u-s-southwest-reservoirs-as-lake-powell-rises-20-feet",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-08T12:31-05:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7d691648",
+   "sez": "mondo",
+   "titolo": "Territori Usa nel Pacifico, l'allarme dei diritti civili sulle modifiche al censimento",
+   "orig": "Advocacy group warns proposed US Census changes could deepen inequalities in Pacific territories",
+   "lead": "L'organizzazione Right to Democracy ha chiesto al Census Bureau degli Stati Uniti di ritirare una proposta di riforma delle rilevazioni censuarie. Secondo l'associazione, le modifiche rischierebbero di accentuare le disuguaglianze e di emarginare ulteriormente le comunità residenti nei territori americani dell'Oceano Pacifico. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2451523/advocacy-group-warns-proposed-us-census-changes-could-deepen-inequalities-in-pacific-territories",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-09T07:25+13:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z365f7f6a",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda, un rapporto della difesa analizza le nuove tecnologie militari e l'uso dei droni",
+   "orig": "From 15-minute drones to instant kill chains: What does NZ's future army look like?",
+   "lead": "Un nuovo rapporto stilato dalle forze di difesa neozelandesi analizza la rapida trasformazione delle strategie belliche e della struttura dell'esercito. Lo studio evidenzia l'impiego crescente di droni ad alta velocità e l'automazione dei sistemi di attacco per i conflitti del futuro. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/political/2449141/from-15-minute-drones-to-instant-kill-chains-what-does-nz-s-future-army-look-like",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-09T07:04+13:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z66e9e62b",
+   "sez": "mondo",
+   "titolo": "Fiji, ministra dichiara che perderà il posto a prescindere dal voto sulla costituzione",
+   "orig": "Fiji MP says 'either way' constitution vote will see her lose her job",
+   "lead": "Una ministra del governo delle Fiji ha dichiarato che perderà quasi certamente la propria carica istituzionale a prescindere dall'orientamento di voto che esprimerà in Parlamento sugli emendamenti costituzionali promossi dalla maggioranza, evidenziando forti tensioni politiche nell'esecutivo. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2380081/fiji-mp-says-either-way-constitution-vote-will-see-her-lose-her-job",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-09T06:46+13:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z65137a2f",
+   "sez": "mondo",
+   "titolo": "Grecia, l'Aeronautica Militare celebra il patrono con esibizioni aeree e cerimonie",
+   "orig": "Γιορτή Πολεμικής Αεροπορίας: Εντυπωσιακή επίδειξη F-16 στη Λάρισα και εικονικές πτήσεις στο Τατόι",
+   "lead": "La Grecia ha celebrato la festa dell'Aeronautica Militare, dedicata al patrono arcangelo Michele, con manifestazioni istituzionali e voli dimostrativi di caccia F-16 a Larissa e Tatoi. La giornata ha reso omaggio ai piloti caduti e al personale in servizio attivo nelle forze armate. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/ellada/giorti-polemikis-aeroporias-entyposiaki-epideiksi-f-16-sti-larisa-kai-eikonikes-ptiseis-sto-tatoi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-08T18:18+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zca0902e6",
+   "sez": "mondo",
+   "titolo": "Nato, ammanco di 7 miliardi di euro negli aiuti militari promessi all'Ucraina",
+   "orig": "Το ΝΑΤΟ αντιμέτωπο με έλλειμμα 7 δισ. ευρώ στη στρατιωτική βοήθεια που υποσχέθηκε στην Ουκρανία",
+   "lead": "I trentadue Paesi membri della Nato registrano un deficit di circa sette miliardi di euro rispetto alla quota di aiuti militari destinati all'Ucraina, stabilita a luglio per il totale di settanta miliardi annuali. Il buco finanziario emerge a meno di due mesi dalla fine dell'anno. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/to-nato-antimetopo-me-elleimma-7-dis-eyro-sti-stratiotiki-voitheia-pou-yposxethike-stin-oukrania/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-08T17:53+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd18807e1",
+   "sez": "mondo",
+   "titolo": "La Tanzania difende i diritti fondiari ed etnici davanti all'Onu a Ginevra",
+   "orig": "Tanzania reiterates on land and ethnic rights at UN",
+   "lead": "Durante la cinquantatreesima sessione della Revisione periodica universale delle Nazioni Unite a Ginevra, la delegazione della Tanzania ha ribadito la posizione ufficiale del governo in materia di diritti fondiari e di classificazione etnica, difendendo le politiche nazionali di gestione del territorio. Lo riferisce Daily News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/tanzania-reiterates-on-land-and-ethnic-rights-at-un/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-08T18:35+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z548f2f1f",
+   "sez": "mondo",
+   "titolo": "Sudafrica, Ramaphosa chiede responsabilità ai partiti per le coalizioni nei comuni",
+   "orig": "‘No time for petty squabbles’, says Ramaphosa as coalition tensions brew",
+   "lead": "Il presidente sudafricano Cyril Ramaphosa ha sollecitato i partiti politici a condurre le trattative per le coalizioni comunali in buona fede. Il capo dello Stato ha avvertito che le controversie di partito non devono compromettere l'erogazione dei servizi pubblici essenziali alla popolazione. Lo riferisce Mail & Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-11-08-no-time-for-petty-squabbles-says-ramaphosa-as-coalition-tensions-brew/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-08T18:02+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9d706d40",
+   "sez": "mondo",
+   "titolo": "Sudafrica, appello per l'approvazione della legge sulle coalizioni municipali",
+   "orig": "Municipal Coalitions Bill - Why it is important",
+   "lead": "I partiti del Governo di unità nazionale del Sudafrica sono chiamati ad approvare la legge di modifica delle strutture municipali. Il provvedimento mira a stabilire norme quadro chiare per assicurare la stabilità delle coalizioni locali ed evitare frequenti crisi amministrative nei comuni. Lo riferisce Mail & Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/thought-leader/2026-11-08-municipal-coalitions-bill-why-it-is-important/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-08T17:11+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb6947af8",
+   "sez": "mondo",
+   "titolo": "Molenbeek tenta di cambiare immagine a dieci anni dagli attentati",
+   "orig": "Com’è cambiato in dieci anni il quartiere del jihadismo europeo",
+   "lead": "A dieci anni dagli attentati dell'ISIS a Parigi pianificati a Molenbeek, il quartiere di Bruxelles sta tentando di trasformare la propria immagine. Il distretto, storicamente associato al jihadismo europeo, è oggi al centro di un processo di riqualificazione per superare la reputazione negativa del passato. Lo riferisce Il Post.",
+   "more": [
+    "Molenbeek-Saint-Jean divenne noto a livello globale nel 2015 come presunta base logistica per diverse cellule terroristiche. Negli anni successivi, le autorità belghe hanno intensificato gli sforzi di integrazione sociale e sorveglianza per contrastare la radicalizzazione e promuovere lo sviluppo economico dell'area."
+   ],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/08/molenbeek-bruxelles-attentati-isis-2015-oggi/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T16:25+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2645bf9f",
+   "sez": "economia",
+   "titolo": "Ungheria: crisi finanziaria per la casa editrice della Banca Centrale",
+   "orig": "790 milliót öntött a jegybank alapítványa a Matolcsy könyveit is kiadó cégbe, végül jókora készlet maradt a nyakukon",
+   "lead": "Tra il 2020 e il 2024 la fondazione della Banca Centrale ungherese ha versato 790 milioni alla casa editrice Pallas Athéné, ora vicina alla insolvenza. La società, che pubblicava i libri di György Matolcsy, ha impiegato come dirigente il ricercato Stofa György prima del recente cambio di vertice. Lo riferisce Telex English.",
+   "more": [
+    "La gestione delle fondazioni legate alla Banca Centrale d'Ungheria è stata spesso oggetto di critiche per la mancanza di trasparenza. Questo caso solleva ulteriori dubbi sull'uso dei fondi pubblici e sui legami tra istituzioni finanziarie nazionali e figure sotto inchiesta giudiziaria."
+   ],
+   "fonti": [
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/gazdasag/2026/11/08/mnb-ugy-pallas-athene-konyvkiado-padme-gazdalkodas-veszteseg-tamogatas-matolcsy-gyorgy",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-11-08T19:59+01:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4abf4525",
+   "sez": "mondo",
+   "titolo": "Băsescu: la Romania non deve pagare per i militari USA",
+   "orig": "„Americanii ne vor căuta, au nevoie de noi”. Traian Băsescu nu vrea ca România să plătească pentru militarii SUA staționați la în țara noastră",
+   "lead": "L'ex presidente rumeno Traian Băsescu ha dichiarato che la Romania non dovrebbe finanziare il mantenimento dei soldati statunitensi nel Paese. Secondo Băsescu, i fondi previsti potrebbero essere meglio impiegati per l'addestramento dei militari nazionali, sostenendo che gli Stati Uniti hanno comunque bisogno della posizione strategica rumena. Lo riferisce HotNews.",
+   "more": [
+    "La presenza militare statunitense in Romania è aumentata significativamente in risposta all'invasione russa dell'Ucraina. Il dibattito sulla ripartizione dei costi della difesa è diventato centrale nelle relazioni tra i paesi membri della NATO e la nuova amministrazione degli Stati Uniti."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/americanii-ne-vor-cauta-au-nevoie-de-noi-traian-basescu-nu-vrea-ca-romania-sa-plateasca-pentru-militarii-sua-stationati-la-in-tara-noastra-2398494",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-08T18:55+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze1855606",
+   "sez": "mondo",
+   "titolo": "USA 2028: Jon Ossoff favorito tra i democratici nei sondaggi",
+   "orig": "Jon Ossoff, favoritul democraţilor americani pentru candidatura la preşedinţie. Datele unui sondaj intern",
+   "lead": "Il senatore della Georgia Jon Ossoff è emerso come il favorito per la candidatura presidenziale del Partito Democratico nel 2028. Secondo un sondaggio interno condotto durante la convenzione progressista Crooked Con a Washington, Ossoff ha ottenuto il 38,4% delle preferenze, staccando nettamente gli altri potenziali sfidanti. Lo riferisce HotNews.",
+   "more": [
+    "Jon Ossoff è diventato una figura di rilievo nazionale nel 2021, quando la sua vittoria al ballottaggio in Georgia ha garantito ai Democratici il controllo del Senato. Il suo profilo giovane e moderato è visto da molti come una possibile soluzione per il futuro del partito."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/cine-e-favoritul-democratilor-american-pentru-candidatura-la-presedintie-datele-unui-sondaj-intern-2398479",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-08T18:03+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "za4548cb1",
+   "sez": "mondo",
+   "titolo": "Ucraina: lo spazio diventa il nuovo fronte nel conflitto con la Russia",
+   "orig": "Noua frontieră a Ucrainei: cum a devenit esențial spațiul cosmic pentru războiul cu Rusia. „Totul face parte din competiția strategică”",
+   "lead": "Il conflitto tra Russia e Ucraina si estende allo spazio strategico, con Kiev che ha recentemente attaccato impianti industriali a Samara. La capacità di utilizzare e proteggere le reti satellitari è diventata essenziale per le comunicazioni militari, trasformando l'orbita terrestre in un nuovo fronte bellico. Lo riferisce HotNews.",
+   "more": [
+    "La dipendenza dai satelliti, come la rete Starlink, ha rivoluzionato la guerra moderna. Entrambi i contendenti stanno sviluppando tecnologie per interferire con i segnali nemici o distruggere le infrastrutture spaziali, spostando gli equilibri tattici ben oltre i confini terrestri tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/noua-frontiera-a-ucrainei-cum-a-devenit-esential-spatiul-cosmic-pentru-razboiul-cu-rusia-totul-face-parte-din-competitia-strategica-2398398",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-08T17:14+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6d3b5eab",
+   "sez": "mondo",
+   "titolo": "Sud Sudan: formazione per i funzionari elettorali nello Stato dei Laghi",
+   "orig": "Lakes State trains election officials",
+   "lead": "La commissione elettorale dello Stato dei Laghi, in collaborazione con la Commissione Elettorale Nazionale, ha avviato programmi di formazione per i funzionari incaricati di gestire le prossime consultazioni nel Sud Sudan. L'iniziativa mira a garantire la preparazione tecnica necessaria per lo svolgimento del processo democratico. Lo riferisce Radio Tamazuj.",
+   "more": [
+    "Il Sud Sudan cerca faticosamente di organizzare le sue prime elezioni nazionali dall'indipendenza del 2011. Il processo è segnato da continui ritardi dovuti all'instabilità politica, ai conflitti interetnici e alla necessità di definire un quadro normativo e logistico condiviso."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/lakes-state-trains-election-officials",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-08T18:17+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z03044c05",
+   "sez": "mondo",
+   "titolo": "Sud Sudan: divisioni nelle primarie dell'SPLM nel Greater Pibor",
+   "orig": "Disputed SPLM primaries deepen divisions in Greater Pibor",
+   "lead": "Le elezioni primarie organizzate dal partito di governo SPLM nel Greater Pibor hanno causato profonde divisioni e tensioni politiche nella regione del Sud Sudan. Le dispute interne minacciano la stabilità locale, riflettendo le fragilità dei processi decisionali all'interno della principale formazione politica del Paese. Lo riferisce Radio Tamazuj.",
+   "more": [
+    "L'SPLM è la forza politica dominante in Sud Sudan dalla fine della guerra civile. Tuttavia, le lotte di potere locali e le accuse di irregolarità nelle selezioni interne spesso sfociano in instabilità che complica la transizione democratica a livello nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/disputed-splm-primaries-deepen-divisions-in-greater-pibor",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-08T17:17+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z207db9e2",
+   "sez": "mondo",
+   "titolo": "Portogallo: continua la protesta per la casa a Lisbona",
+   "orig": "Desmobilização da Acampada de Lisboa no Rossio é cenário em aberto",
+   "lead": "Il movimento \"Acampada de Lisboa\" ha deciso di mantenere il presidio in piazza Rossio per protestare contro l'emergenza abitativa in Portogallo. Nonostante l'allerta per un possibile intervento delle forze di sicurezza per rimuovere le tende, gli attivisti continuano a rivendicare il diritto alla casa. Lo riferisce RTP.",
+   "more": [
+    "Lisbona affronta una grave crisi immobiliare alimentata dal turismo e dalla gentrificazione, che ha reso gli affitti inaccessibili per molti residenti. Le proteste riflettono un malcontento sociale crescente che chiede interventi legislativi urgenti per calmierare i prezzi degli alloggi."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/pais/desmobilizacao-da-acampada-de-lisboa-no-rossio-e-cenario-em-aberto_e1777690",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-08T18:30+00:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7039a094",
+   "sez": "mondo",
+   "titolo": "Berlino: bandiera palestinese issata sul pennone del Reichstag",
+   "orig": "Actiegroep hijst Palestijnse vlag voor Rijksdaggebouw, Vlag van Duitse Eenheid op grond gegooid",
+   "lead": "Un attivista di ventidue anni è stato arrestato a Berlino dopo essersi arrampicato su un pennone del Reichstag per sostituire la bandiera tedesca con quella palestinese. La polizia ha fermato altri due uomini coinvolti nell'azione dimostrativa avvenuta davanti alla sede del parlamento federale tedesco. Lo riferisce NOS.",
+   "more": [
+    "Il Reichstag è un simbolo fondamentale della democrazia tedesca e le manifestazioni non autorizzate nelle sue pertinenze sono vietate. L'episodio si inserisce nel contesto delle forti tensioni sociali in Germania legate al conflitto in Medio Oriente e alle politiche estere nazionali."
+   ],
+   "fonti": [
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2638616",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-11-08T18:50+01:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf99a6b76",
+   "sez": "mondo",
+   "titolo": "Austria, Johannes Pressl chiede realismo sulle riforme istituzionali",
+   "orig": "Pressl mahnt zu „Realismus“",
+   "lead": "Domenica a Vienna, il presidente della Federazione dei comuni austriaci, Johannes Pressl, ha esortato alla cooperazione e al realismo nelle riforme di sanità e istruzione. Pressl si è detto fiducioso sul raggiungimento di un accordo tra Stato, regioni e comuni per una migliore distribuzione dei compiti istituzionali. Lo riferisce ORF.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3447597/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-08T17:28+01:00"
+    }
+   ],
+   "data": "8 nov",
+   "ora": "20:14",
+   "uscita": "sera"
+  },
+  {
    "id": "zf296b40b",
    "sez": "prima",
    "titolo": "Scontro tra treni a sud del Cairo: decine di vittime e oltre cento feriti",
@@ -155,7 +719,7 @@ window.EDIZIONI["2026-11-08-sera"] = {
   },
   {
    "id": "zeabfb104",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Elezioni municipali in Sudafrica: l'African National Congress registra il suo peggior risultato",
    "orig": "South Africa elections: ANC marks its worst-ever performance",
    "lead": "L'African National Congress, lo storico partito guidato in passato dal premio Nobel per la pace Nelson Mandela, ha subito la più pesante battuta d'arresto elettorale della sua storia in occasione delle consultazioni municipali in Sudafrica. L'elettorato ha punito duramente la forza di governo, esprimendo un diffuso malcontento per le croniche interruzioni nella fornitura di energia elettrica e le persistenti carenze idriche che colpiscono i centri urbani. L'esito certifica una crisi di fiducia verso il movimento che governa ininterrottamente il Paese dalla fine dell'apartheid. Lo riferisce Deutsche Welle.",
@@ -171,11 +735,49 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-08T17:35+00:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/11/08/anc-behaalt-slechtste-score-ooit-bij-lokale-verkiezingen-in-zuid.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-11-08T18:37+00:00"
+    },
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-11-08-anc-barely-hangs-on-as-da-and-actionsa-make-gains-in-final-iec-results/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-08T17:44+00:00"
+    },
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-11-08-trust-in-the-iec-remains-high-at-81/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-08T16:56+00:00"
+    },
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/news/south-africa/2026-11-08-iec-declares-2026-local-elections-free-and-fair-as-sa-enters-coalition-era/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-08T18:46+00:00"
     }
    ],
    "data": "8 nov",
    "ora": "20:07",
-   "uscita": "sera"
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zda356710",
@@ -448,6 +1050,15 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "United Arab Emirates",
      "t": "2026-11-08T20:41+04:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-08T17:03+00:00"
     }
    ],
    "data": "8 nov",
@@ -1941,6 +2552,24 @@ window.EDIZIONI["2026-11-08-sera"] = {
      "angolo": "",
      "atlas": "Uruguay",
      "t": "2026-11-08T15:40-03:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-08T11:30-05:00"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-leaves-uruguay-with-a-call-to-keep-sowing-faith.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-08T19:53+01:00"
     }
    ],
    "data": "8 nov",
@@ -2533,14 +3162,39 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z79ac4989": "La stampa latinoamericana evidenzia la visita della dirigente dell'opposizione tra i residenti danneggiati dalle scosse sismiche a Caracas.",
   "zbb6b151e": "El Deber mette in evidenza la dichiarazione di emergenza del governo e la mobilitazione preventiva delle unità militari boliviane.",
   "zde786232": "I media internazionali pongono in evidenza la cooperazione bilaterale rafforzata dalla presenza di Erdoğan alle cerimonie celebrative.",
-  "z177e4642": "I quotidiani boliviani mettono in luce i giudizi espressi dai vertici dell'opposizione sul bilancio del primo anno di governo."
+  "z177e4642": "I quotidiani boliviani mettono in luce i giudizi espressi dai vertici dell'opposizione sul bilancio del primo anno di governo.",
+  "z418e0e2e": "La testata boliviana mette in evidenza la risposta rigorosa dell'esecutivo al fermo proclamato dai sindacati dei docenti.",
+  "z717d3827": "Il quotidiano francese evidenzia l'impatto simbolico dell'udienza giudiziaria sul dibattito pubblico inerente alla condotta delle forze dell'ordine.",
+  "zc966574e": "L'emittente qatariota sottolinea la determinazione dello sfidante nipponico nel contendere la leadership dell'organismo calcistico mondiale.",
+  "z1c0b5662": "L'emittente focalizza l'attenzione sulle mobilitazioni delle nuove generazioni indiane per la riforma delle istituzioni democratiche.",
+  "z141ed38b": "La testata irlandese mette in risalto il successo sportivo ottenuto dal Derry City nella finale di coppa nazionale.",
+  "z9a6e1049": "L'emittente pubblica statunitense analizza il duplice impatto delle precipitazioni eccezionali tra danni alle comunità e benefici per le risorse idriche della regione.",
+  "z7d691648": "La testata neozelandese mette in luce le preoccupazioni per i diritti di rappresentanza e l'equità sociale delle popolazioni insulari del Pacifico amministrate da Washington.",
+  "z365f7f6a": "Il media neozelandese esamina le prospettive di ammodernamento tecnologico delle forze armate nazionali a fronte dell'evoluzione dei conflitti globali.",
+  "z66e9e62b": "La testata neozelandese mette in evidenza la profonda spaccatura politica e i dilemmi personali all'interno della compagine di governo delle Fiji.",
+  "z65137a2f": "Il servizio pubblico greco evidenzia il valore simbolico e militare delle celebrazioni organizzate per le forze armate del Paese.",
+  "zca0902e6": "Il media greco mette in luce le difficoltà finanziarie dei Paesi alleati nel mantenere gli impegni di supporto militare presi con Kiev.",
+  "zd18807e1": "Il quotidiano tanzaniano sottolinea la fermezza del proprio governo nel presentare alle Nazioni Unite le posizioni ufficiali sui diritti territoriali.",
+  "z548f2f1f": "Il quotidiano sudafricano mette in risalto il monito del presidente per evitare che i contrasti di partito blocchino i servizi ai cittadini.",
+  "z9d706d40": "Il giornale di Johannesburg sottolinea la rilevanza legislativa della riforma per garantire la tenuta dei governi cittadini.",
+  "zb6947af8": "Analisi socio-politica sulla trasformazione urbana e il superamento del radicalismo religioso.",
+  "z2645bf9f": "Inchiesta finanziaria su possibili casi di corruzione e mala gestione pubblica in Ungheria.",
+  "z4abf4525": "La testata riporta le posizioni nazionaliste di un ex capo di Stato sulla politica di difesa.",
+  "ze1855606": "Analisi delle tendenze politiche interne al Partito Democratico statunitense in vista delle prossime scadenze.",
+  "za4548cb1": "Analisi strategica sull'evoluzione tecnologica e spaziale dello scontro tra Russia e Ucraina.",
+  "z6d3b5eab": "Informazione focalizzata sullo sviluppo istituzionale e la preparazione democratica del Sud Sudan.",
+  "z03044c05": "Cronaca delle tensioni politiche interne al partito di governo sud sudanese.",
+  "z207db9e2": "Cronaca di un movimento di protesta sociale focalizzato sui diritti abitativi in Portogallo.",
+  "z7039a094": "Cronaca di un'azione di protesta simbolica e delle relative conseguenze legali in Germania.",
+  "zf99a6b76": "Resoconto delle dichiarazioni del rappresentante dei comuni durante il programma televisivo nazionale dell'emittente pubblica."
  },
  "contesti": {
   "zca39e92b": "Nelle scorse settimane le tensioni nello scacchiere mediorientale sono aumentate a causa di ripetuti lanci di droni e missili da parte delle milizie yemenite verso installazioni nemiche. La coalizione guidata da Riad ha intensificato la sorveglianza radar e i pattugliamenti di difesa aerea per proteggere i principali nodi economici della penisola araba da incursioni a lungo raggio.",
   "zf296b40b": "Negli ultimi anni la rete ferroviaria egiziana è stata teatro di ricorrenti incidenti mortali causati dall'obsolescenza delle infrastrutture, da carenze nei sistemi automatici di segnalamento e da frequenti errori umani. Nonostante gli annunci governativi di investimenti miliardari e di ammodernamento tecnologico promossi dal presidente Abdel Fattah al-Sisi, i disservizi e le lacune nella manutenzione hanno continuato a generare allarmi sulla sicurezza dei trasporti pubblici in tutto il Paese nordafricano.",
   "z1723a5cc": "Nelle ultime settimane le agenzie di sicurezza europee e l'Agenzia per la Cybersicurezza Nazionale italiana hanno rilevato una recrudescenza di offensive informatiche di matrice filorussa, in particolare attacchi DDoS sferrati dal collettivo NoName057(16). I pirati hanno preso di mira portali istituzionali, infrastrutture strategiche, banche e aziende di trasporto, intensificando le azioni di disturbo della guerra ibrida in concomitanza con le decisioni occidentali sul sostegno politico e militare a Kiev.",
   "z521dd0c3": "Negli ultimi mesi gli sforzi diplomatici internazionali per definire una piattaforma negoziale sul conflitto ucraino si sono intensificati, coinvolgendo mediatori mediorientali e gli Stati Uniti. Mentre Mosca manifestava scetticismo su un coinvolgimento diretto dei partner europei accusati di parzialità, Parigi e Bruxelles hanno insistito sulla necessità di una loro presenza a tutela della sicurezza continentale, riuscendo infine a concordare la partecipazione ai colloqui di pace negli Emirati Arabi Uniti.",
-  "zb1ab1235": "Nei giorni precedenti il viaggio apostolico ha visto il pontefice impegnato nella vicina Repubblica Orientale dell'Uruguay, dove si sono svolti incontri ecumenici, celebrazioni con i fedeli e colloqui bilaterali con i rappresentanti dello Stato. La preparazione della successiva tappa argentina ha richiesto settimane di concertazione tra la Santa Sede e il governo di Buenos Aires per definire i protocolli di sicurezza, il calendario liturgico e i vertici istituzionali previsti nella capitale."
+  "zb1ab1235": "Nei giorni precedenti il viaggio apostolico ha visto il pontefice impegnato nella vicina Repubblica Orientale dell'Uruguay, dove si sono svolti incontri ecumenici, celebrazioni con i fedeli e colloqui bilaterali con i rappresentanti dello Stato. La preparazione della successiva tappa argentina ha richiesto settimane di concertazione tra la Santa Sede e il governo di Buenos Aires per definire i protocolli di sicurezza, il calendario liturgico e i vertici istituzionali previsti nella capitale.",
+  "zeabfb104": "Dalla fine dell'apartheid nel 1994, l'African National Congress ha guidato ininterrottamente il Sudafrica. Negli ultimi anni, tuttavia, il Paese ha dovuto affrontare una crescente crisi dei servizi pubblici, caratterizzata da croniche interruzioni dell'energia elettrica e gravi carenze idriche nei centri urbani. Il progressivo deterioramento delle infrastrutture ha generato un forte malcontento nella popolazione, erodendo la fiducia dei cittadini nello storico movimento politico e portando al peggior risultato elettorale di sempre."
  },
  "cronologie": {
   "zca39e92b": [
@@ -2611,6 +3265,24 @@ window.EDIZIONI["2026-11-08-sera"] = {
    [
     "Vigilia dell'arrivo",
     "Completamento delle celebrazioni a Montevideo e partenza per l'Argentina"
+   ]
+  ],
+  "zeabfb104": [
+   [
+    "1994",
+    "L'ANC sale al potere guidato da Nelson Mandela dopo la caduta dell'apartheid"
+   ],
+   [
+    "Anni recenti",
+    "Si intensificano i blackout elettrici programmati e i problemi di approvvigionamento idrico"
+   ],
+   [
+    "Giorni scorsi",
+    "Si svolgono le consultazioni municipali in tutto il Paese"
+   ],
+   [
+    "Oggi",
+    "Lo spoglio conferma l'ANC al suo minimo storico nei consensi elettorali"
    ]
   ]
  },
@@ -2720,6 +3392,65 @@ window.EDIZIONI["2026-11-08-sera"] = {
     }
    ],
    "divergono": "Le testate evidenziano aspetti diversi dei colloqui. ANSA è l'unica a collegare le trattative diplomatiche con l'avvio delle esercitazioni militari dei \"Volenterosi\" in Polonia e menziona l'ipotesi di un modello tipo Consiglio Nato-Russia. Kurdistan24 pone in risalto il rifiuto di Mosca ad ammettere direttamente gli europei al tavolo negoziale, dettaglio meno enfatizzato da NZ Herald. The Kyiv Independent arricchisce la notizia con vari fatti di cronaca bellica locale e dibattiti interni ucraini non citati da NZ Herald né da Kurdistan24. Si nota infine che ANSA specifica la cifra di 392.700 certificati di morte russi stimati, dettaglio non specificato nel testo di The Kyiv Independent."
+  },
+  "zeabfb104": {
+   "voci": [
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "La voce di Germania definisce il risultato \"catastrofico\" e storicamente povero, con il partito fermo sotto il 31%. Attribuisce il calo alla rabbia dei cittadini per le carenze di \"acqua ed elettricità\" e l'alta corruzione. Riporta l'analisi di Daniel Silke sulla perdita di autorità nazionale.",
+     "b": "a"
+    },
+    {
+     "n": "VRT NWS",
+     "c": "Bruxelles",
+     "p": "XX",
+     "t": "La voce di Belgio riporta sinteticamente il dato del 30,76% dei voti, descrivendolo come il \"peggiore risultato elettorale\" nella storia del partito. Il giudizio è parziale poiché il testo integrale dell'articolo non è stato leggibile.",
+     "b": "t"
+    },
+    {
+     "n": "Mail & Guardian",
+     "c": "Johannesburg",
+     "p": "XX",
+     "t": "La testata fornisce dati dettagliati sulla distribuzione dei seggi e loda l'efficienza della \"tecnologia\" elettorale. Mette in risalto le implicazioni economiche per la fiducia degli affari, citando la necessità di governi locali stabili per favorire una crescita ricca di posti di lavoro.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Mentre Deutsche Welle e VRT NWS si concentrano sulla portata storica della sconfitta politica dell'ANC, descrivendola come un fallimento interno legato ai disservizi, Mail & Guardian sposta l'attenzione sulla regolarità tecnica del voto e sulle prospettive per gli investitori. La testata sudafricana è l'unica a citare l'influenza di istituzioni internazionali come il Fondo Monetario Internazionale e l'impatto dei tagli ai sussidi locali sulla stabilità delle coalizioni."
+  },
+  "zb1ab1235": {
+   "voci": [
+    {
+     "n": "La Nación",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "La testata presenta un dettagliato cronoprogramma della visita, indicando l'arrivo alle 16:30 e citando numerosi \"artisti\" musicali partecipanti. Focus sugli aspetti logistici, i \"fermi\" lavorativi stabiliti dal governo e i luoghi simbolici degli incontri, dalla Casa Rosada a Luján.",
+     "b": "a"
+    },
+    {
+     "n": "El Tiempo",
+     "c": "Bogotá",
+     "p": "XX",
+     "t": "La testata colombiana ignora la notizia della visita papale, concentrandosi esclusivamente sul terremoto in Giappone che ha causato oltre \"20 heridos\" (venti feriti). L'articolo fornisce raccomandazioni di sicurezza e promuove l'utilizzo di app per il monitoraggio sismico in tempo reale.",
+     "b": "a"
+    },
+    {
+     "n": "El Comercio",
+     "c": "Lima",
+     "p": "XX",
+     "t": "La testata peruviana omette il viaggio del Pontefice, limitandosi a segnalare eventi sismici in Cile e Perù. Il giudizio è parziale in quanto, a causa dell'assenza del testo integrale, è possibile rilevare solo titoli e occhielli relativi alla magnitudo dei terremoti.",
+     "b": "t"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Descrive la tappa argentina come la più \"politica\", evidenziando il contrasto tra il Papa e il leader \"ultraliberista\" Milei. Riporta inoltre la notizia di un uomo arrestato per \"minacce di morte\" contro il Pontefice e il messaggio di cordoglio per una sparatoria in Polonia.",
+     "b": "a"
+    }
+   ],
+   "divergono": "La Nación inquadra l'evento in una cornice puramente istituzionale e celebrativa, con orari e liste di artisti. Al contrario, ANSA adotta una cornice politica, sottolineando la tensione ideologica tra il Papa e Milei riguardo al welfare. Le testate El Tiempo ed El Comercio divergono totalmente dalle altre ignorando il fatto principale per dare priorità assoluta alla cronaca dei terremoti in Giappone e Sudamerica."
   }
  },
  "luoghi": {
@@ -3253,6 +3984,177 @@ window.EDIZIONI["2026-11-08-sera"] = {
     "Bolivia"
    ],
    "pt": []
+  },
+  "z418e0e2e": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z717d3827": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc966574e": {
+   "n": "Doha",
+   "p": [
+    "Qatar"
+   ],
+   "pt": []
+  },
+  "z1c0b5662": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "z141ed38b": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z9a6e1049": {
+   "n": "Lago Powell",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7d691648": {
+   "n": "Wellington",
+   "p": [
+    "United States of America",
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z365f7f6a": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z66e9e62b": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z65137a2f": {
+   "n": "Atene",
+   "p": [
+    "Greece"
+   ],
+   "pt": []
+  },
+  "zca0902e6": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "zd18807e1": {
+   "n": "Ginevra",
+   "p": [
+    "Switzerland",
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z548f2f1f": {
+   "n": "Pretoria",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z9d706d40": {
+   "n": "Pretoria",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zb6947af8": {
+   "n": "Molenbeek",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z2645bf9f": {
+   "n": "Budapest",
+   "p": [
+    "Hungary"
+   ],
+   "pt": []
+  },
+  "z4abf4525": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "ze1855606": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za4548cb1": {
+   "n": "Samara",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z6d3b5eab": {
+   "n": "Rumbek",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z03044c05": {
+   "n": "Pibor",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z207db9e2": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z7039a094": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zf99a6b76": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3261,7 +4163,7 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z22f9eccf": 1,
   "z542315a0": 1,
   "zc35e786a": 1,
-  "zeabfb104": 1,
+  "zeabfb104": 2,
   "zda356710": 1,
   "z602ba29c": 1,
   "zca39e92b": 3,
@@ -3331,7 +4233,31 @@ window.EDIZIONI["2026-11-08-sera"] = {
   "z79ac4989": 1,
   "zbb6b151e": 1,
   "zde786232": 1,
-  "z177e4642": 2
+  "z177e4642": 2,
+  "z418e0e2e": 2,
+  "z717d3827": 1,
+  "zc966574e": 2,
+  "z1c0b5662": 2,
+  "z141ed38b": 1,
+  "z9a6e1049": 2,
+  "z7d691648": 2,
+  "z365f7f6a": 2,
+  "z66e9e62b": 2,
+  "z65137a2f": 2,
+  "zca0902e6": 1,
+  "zd18807e1": 2,
+  "z548f2f1f": 2,
+  "z9d706d40": 2,
+  "zb6947af8": 1,
+  "z2645bf9f": 1,
+  "z4abf4525": 1,
+  "ze1855606": 1,
+  "za4548cb1": 1,
+  "z6d3b5eab": 1,
+  "z03044c05": 1,
+  "z207db9e2": 1,
+  "z7039a094": 1,
+  "zf99a6b76": 1
  },
  "video": {},
  "pillole": []
