@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z6454d247":[["2026-11-07-sera","z16a3a210","7 nov","Infortunio per Bagnaia nella Sprint in Qatar, Marc Marquez si aggiudica la gara"]]});
