@@ -327,7 +327,7 @@ window.EDIZIONI["2026-11-09"] = {
   },
   {
    "id": "zb5189e9e",
-   "sez": "cultura",
+   "sez": "ambiente",
    "titolo": "Un'attivista climatica di Hong Kong spiega l'impegno per cambiare il sistema alimentare insostenibile",
    "orig": "Hong Kong climate activist on changing city’s ‘anti-sustainable’ food system",
    "lead": "L'attivista climatica Eugenia Chow Cheuk-yin, attiva a Hong Kong, promuove un'agricoltura comunitaria e sostenibile per contrastare l'ansia climatica. Invece di cedere allo sconforto di fronte ai disastri ambientali diffusi dai social media, l'attivista invita i cittadini a fare volontariato nelle fattorie locali per riavvicinarsi alla terra. Lo riferisce South China Morning Post – Cultura.",
@@ -2728,7 +2728,7 @@ window.EDIZIONI["2026-11-09"] = {
   },
   {
    "id": "z1544a726",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Joe Biden riduce la promozione del suo libro per proseguire le cure oncologiche",
    "orig": "Ex-US president Biden limits his memoir promotion with hint at health struggles",
    "lead": "L'ex presidente degli Stati Uniti Joe Biden ha annunciato sui propri canali social che ridurrà gli impegni pubblici legati alla promozione del suo nuovo libro di memorie, intitolato «Promise Me, America». Il politico ottantatreenne ha spiegato che la decisione è dovuta alle terapie che sta affrontando per contrastare un tumore alla prostata esteso al tessuto osseo. Biden ha comunque rassicurato l'opinione pubblica dichiarando che i medici si dicono incoraggiati dalla risposta positiva ai trattamenti radioterapici e ormonali a cui viene sottoposto.",
