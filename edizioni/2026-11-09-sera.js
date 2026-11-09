@@ -1978,39 +1978,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zae2e5b36",
-   "sez": "ambiente",
-   "titolo": "Clima, l'Onu stima che il 2026 sarà tra i quattro anni più caldi mai registrati",
-   "orig": "ONU diz que 2026 será um dos anos mais quentes já registrados",
-   "lead": "Secondo il rapporto State of the Climate diffuso dall'Organizzazione meteorologica mondiale delle Nazioni Unite, il 2026 si collocherà tra i quattro anni più caldi di sempre a livello globale. Con temperature di 1,47 gradi sopra i livelli preindustriali, il riscaldamento è alimentato anche dagli effetti del fenomeno El Niño, confermando una tendenza termica in costante crescita da oltre un decennio. I dati sono stati presentati ai rappresentanti internazionali riuniti in Turchia per la nuova conferenza climatica COP31.",
-   "more": [
-    "L'Organizzazione meteorologica mondiale monitora costantemente i dati climatici del pianeta. Il fenomeno naturale di El Niño consiste nel riscaldamento anomalo delle acque superficiali dell'Oceano Pacifico equatoriale, che influenza le correnti atmosferiche e contribuisce ad amplificare le temperature globali già incrementate dai gas serra."
-   ],
-   "fonti": [
-    {
-     "n": "Agência Brasil",
-     "p": "XX",
-     "c": "Brasília",
-     "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-diz-que-2026-sera-um-dos-anos-mais-quentes-ja-registrados",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-11-09T10:49-03:00"
-    },
-    {
-     "n": "Expresso das Ilhas",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://expressodasilhas.cv/mundo/2026/11/09/relatorio-da-cop31-aponta-2026-como-um-dos-quatro-anos-mais-quentes/105456",
-     "angolo": "",
-     "atlas": "Cabo Verde",
-     "t": "2026-11-09T09:24+00:00"
-    }
-   ],
-   "data": "9 nov",
-   "ora": "17:12",
-   "uscita": "17"
-  },
-  {
    "id": "z75d60709",
    "sez": "ambiente",
    "titolo": "Repubblica Democratica del Congo, allarme deforestazione durante le piogge nel Kongo Centrale",
@@ -2677,6 +2644,24 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Ghana",
      "t": "2026-11-09T11:24+00:00"
+    },
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-diz-que-2026-sera-um-dos-anos-mais-quentes-ja-registrados",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-09T10:49-03:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/11/09/relatorio-da-cop31-aponta-2026-como-um-dos-quatro-anos-mais-quentes/105456",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-09T09:24+00:00"
     }
    ],
    "data": "9 nov",
@@ -4767,7 +4752,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zd84bf519": "RNZ pone in luce i persistenti allarmi dei meteorologi neozelandesi per l'ondata di maltempo che interessa l'Isola del Nord.",
   "z60f00fc4": "The Times of Central Asia si sofferma sul nodo cruciale della disponibilità di energia elettrica per il nuovo polo industriale kirghiso.",
   "z648ee8a7": "OC Media rimarca il significato distensivo della visita di Erdoğan dopo le recenti divergenze bilaterali tra i due governi.",
-  "zae2e5b36": "Agência Brasil richiama l'attenzione sulle evidenze scientifiche del rapporto dell'Onu per indirizzare i negoziati della conferenza sul clima.",
   "z75d60709": "Radio Okapi pone l'accento sulla correlazione diretta tra disboscamento abusivo e l'aggravarsi del rischio idrogeologico durante la stagione delle piogge.",
   "zcc5e75f8": "Radio Okapi evidenzia l'allarme per la chiusura dei centri medici a fronte della proliferazione di casi sospetti di colera nella provincia.",
   "ze56cea2d": "Daily Nation concentra l'attenzione sul pronto intervento dei militari kenioti nel bonificare l'ordigno in una zona a rischio terrorismo.",
@@ -6031,13 +6015,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    ],
    "pt": []
   },
-  "zae2e5b36": {
-   "n": "Antalya",
-   "p": [
-    "Turkey"
-   ],
-   "pt": []
-  },
   "z75d60709": {
    "n": "Muanda",
    "p": [
@@ -6240,7 +6217,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zd84bf519": 1,
   "z60f00fc4": 1,
   "z648ee8a7": 1,
-  "zae2e5b36": 2,
   "z75d60709": 1,
   "zcc5e75f8": 1,
   "ze56cea2d": 1,
