@@ -3,6 +3,86 @@ window.EDIZIONI["2026-11-09-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zbbfb1009",
+   "sez": "tech",
+   "titolo": "Scandalo Nvidia: il CEO ammette una relazione con una spia cinese e il titolo crolla",
+   "orig": "L'ad di Nvidia ammette la relazione con una spia cinese, il titolo crolla a Wall Street",
+   "lead": "Jensen Huang, amministratore delegato di Nvidia, ha ammesso una relazione extraconiugale con Alice Huang, sospettata di essere una spia al servizio di Pechino. La rivelazione ha scosso i mercati, provocando un brusco crollo del titolo della società a Wall Street. Mentre il consiglio di amministrazione ha avviato un'indagine interna, Donald Trump è intervenuto definendo Huang una brava persona che ha svolto un eccellente lavoro per gli Stati Uniti. Pechino ha respinto ogni accusa di spionaggio, definendo le notizie diffuse dai media internazionali come pure invenzioni e calunnie infondate.",
+   "more": [
+    "Nvidia è l'azienda leader mondiale nella produzione di chip per l'intelligenza artificiale, un settore strategico per la sicurezza nazionale degli Stati Uniti. Le tensioni tecnologiche tra Washington e Pechino rendono ogni sospetto di spionaggio industriale un caso diplomatico e finanziario di estrema gravità. Una crisi di leadership in un'azienda di tale peso può influenzare l'intero settore tecnologico globale e i rapporti commerciali tra le due superpotenze."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/lad-di-nvidia-ammette-la-relazione-con-una-spia-cinese-il-titolo-crolla_b836320f-e2c1-45f4-afe6-4a8f097fa5b6.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T19:06+01:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze3721b37",
+   "sez": "organizzazioni",
+   "titolo": "Aiea: la sicurezza nucleare è una responsabilità condivisa dagli Stati",
+   "orig": "Safeguards: Our Shared Responsibility",
+   "lead": "L'Agenzia internazionale per l'energia atomica (Aiea) ha lanciato un appello affinché i protocolli di salvaguardia nucleare siano considerati una responsabilità comune a livello globale. Da Vienna, l'organizzazione ha sottolineato che il monitoraggio rigoroso e la trasparenza sull'uso dei materiali nucleari sono fondamentali per mantenere la pace e la sicurezza internazionale. L'obiettivo è rafforzare l'impegno degli Stati membri nel prevenire la proliferazione delle armi nucleari e promuovere esclusivamente l'uso civile e pacifico dell'energia atomica nel mondo. Lo riferisce Agenzia internazionale per l'energia atomica (Aiea).",
+   "more": [
+    "L'Aiea svolge un ruolo di vigilanza cruciale, effettuando ispezioni tecniche per verificare che i paesi non devino i programmi nucleari civili verso scopi bellici. Il sistema delle salvaguardie si basa su accordi legali tra l'Agenzia e gli Stati, che permettono agli ispettori di accedere ai siti sensibili. La cooperazione internazionale è indispensabile, poiché l'assenza di controlli certi aumenterebbe il rischio di corse agli armamenti e incidenti nucleari."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/multimedia/videos/safeguards-our-shared-responsibility",
+     "angolo": "",
+     "atlas": ""
+    }
+   ],
+   "data": "",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6b002538",
+   "sez": "cultura",
+   "titolo": "Cambiamento ai vertici dei DC Studios: Gunn e Safran sostituiti da un ex Marvel",
+   "orig": "James Gunn e Peter Safran lasciano i DC Studios",
+   "lead": "James Gunn e Peter Safran lasceranno la guida dei DC Studios dopo un mandato di quattro anni. A partire dal prossimo dicembre, il comando della divisione sarà assunto da Jeremy Latcham, ex dirigente della Marvel, che ricoprirà i ruoli di presidente e direttore creativo. Latcham avrà il compito di guidare la nuova strategia narrativa e produttiva dei supereroi DC Comics sul grande schermo. Questo avvicendamento ai vertici segna la fine dell'era Gunn e l'inizio di una nuova fase per la concorrente storica della Marvel nel mercato cinematografico globale.",
+   "more": [
+    "I DC Studios sono la branca di Warner Bros. Discovery che si occupa di gestire gli adattamenti cinematografici di icone come Batman e Wonder Woman. Il settore dei cinecomic sta affrontando una fase di saturazione, portando i grandi studi a riconsiderare i modelli produttivi e i toni delle proprie storie. L'innesto di un profilo esperto proveniente dal successo del Marvel Cinematic Universe suggerisce un cambio di direzione verso una maggiore coesione dei franchise."
+   ],
+   "fonti": [
+    {
+     "n": "Fumettologica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://fumettologica.it/2026/11/james-gunn-peter-safran-lasciano-dc-studios/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T17:57+00:00"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/james-gunn-e-peter-safran-deixam-o-comando-da-dc-studios-apos-quatro-anos.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-09T15:37-03:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "20:27",
+   "uscita": "sera"
+  },
+  {
    "id": "z4d7bfa25",
    "sez": "ambiente",
    "titolo": "Libia: la National Oil Corporation lancia una campagna di riforestazione nei siti petroliferi",
@@ -1453,30 +1533,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zb7ab73e7",
-   "sez": "mondo",
-   "titolo": "Europa: ondata di falsi allarmi bomba su oltre 27 voli di linea",
-   "orig": "Grasinimų bomba sulaukusiu lėktuvu skridęs Bajarūnas: „Jausmas nekoks, bet panikos nebuvo“",
-   "lead": "Un'ondata di minacce di bomba ha colpito almeno 27 voli in tutta Europa lo scorso giovedì, costringendo alcuni velivoli all'atterraggio di emergenza e all'intervento dei caccia militari. Sebbene non siano stati trovati ordigni, l'incidente rappresenta la seconda ondata di falsi allarmi su vasta scala registrata nell'ultima settimana nel continente. Lo riferisce LRT.",
-   "more": [
-    "I falsi allarmi bomba causano ingenti danni economici alle compagnie e gravi rischi per la navigazione aerea. La frequenza di questi episodi solleva preoccupazioni sulla sicurezza informatica e sulla possibile natura coordinata di tali minacce volte a destabilizzare il traffico aereo europeo."
-   ],
-   "fonti": [
-    {
-     "n": "LRT",
-     "p": "XX",
-     "c": "Vilnius",
-     "u": "https://www.lrt.lt/naujienos/verslas/4/3106137/grasinimu-bomba-sulaukusiu-lektuvu-skrides-bajarunas-jausmas-nekoks-bet-panikos-nebuvo",
-     "angolo": "",
-     "atlas": "Lithuania",
-     "t": "2026-11-09T18:20+02:00"
-    }
-   ],
-   "data": "9 nov",
-   "ora": "20:22",
-   "uscita": "sera"
-  },
-  {
    "id": "z75166758",
    "sez": "mondo",
    "titolo": "ONU: la Lettonia convoca una riunione d'urgenza sull'Ucraina",
@@ -1937,30 +1993,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zfc631853",
-   "sez": "mondo",
-   "titolo": "Il campione di judo Teddy Riner annuncia la candidatura all'Eliseo",
-   "orig": "Il judoka Teddy Riner in corsa per l'Eliseo: 'La Francia può rialzarsi'",
-   "lead": "Il judoka francese Teddy Riner, cinque volte campione olimpico di trentasette anni, ha annunciato la propria intenzione di candidarsi alla presidenza della Repubblica francese. Nel presentare la sua decisione, l'atleta ha dichiarato di voler unire il paese e ha espresso la convinzione che la Francia abbia la forza per rialzarsi dalle difficoltà attuali. La mossa segna l'ingresso diretto di una delle personalità sportive più celebri della nazione nel panorama politico in vista della corsa all'Eliseo. Lo riferisce ANSA.",
-   "more": [
-    "Teddy Riner è considerato uno dei più grandi pesi massimi nella storia del judo mondiale, con una lunghissima serie di titoli olimpici e mondiali che lo hanno reso una figura di enorme popolarità in Francia. La discesa nell'arena politica di figure dell'eccellenza sportiva rappresenta un fenomeno di grande visibilità pubblica."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/il-judoka-teddy-riner-in-corsa-per-leliseo-la-francia-puo-rialzarsi_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-09T19:08+01:00"
-    }
-   ],
-   "data": "9 nov",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
    "id": "z6e7607bf",
    "sez": "prima",
    "titolo": "Parigi attribuisce all'Iran i sabotaggi informatici ai banchi frigo dei supermercati",
@@ -2172,7 +2204,7 @@ window.EDIZIONI["2026-11-09-sera"] = {
   },
   {
    "id": "zc8456f6f",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Inchiesta sull'arruolamento di minori nelle reti del narcotraffico a Marsiglia",
    "orig": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
    "lead": "Un'inchiesta condotta a Marsiglia ha raccolto testimonianze dirette di esponenti delle bande di narcotrafficanti che mostrano come i gruppi criminali reclutino regolarmente minorenni per compiere atti di violenza e presidiare le piazze di spaccio della città francese. Gli intervistati hanno descritto le dinamiche di ingaggio e la consapevolezza del danno umano provocato, offrendo un quadro dettagliato sul coinvolgimento di giovanissimi nelle guerre tra bande armate che insanguinano i quartieri periferici. Lo riferisce BBC News.",
@@ -2237,9 +2269,7 @@ window.EDIZIONI["2026-11-09-sera"] = {
    ],
    "data": "9 nov",
    "ora": "20:16",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "zbaae664b",
@@ -2433,11 +2463,39 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-09T19:37+01:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-09T07:56+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/motogp-qatar-trionfo-di-bezzecchi--63b671c6-fc9f-41eb-8154-fcf401b75e44.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-08T16:50+00:00"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/moto/motogp_marquez_campione_portimao_se_ecco_le_combinazioni-9878732.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T09:58+01:00"
     }
    ],
    "data": "9 nov",
    "ora": "20:16",
-   "uscita": "sera"
+   "uscita": "sera",
+   "top": true
   },
   {
    "id": "zc60f752a",
@@ -4574,30 +4632,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "zbc002660",
-   "sez": "sport",
-   "titolo": "Dakar 2026: oro alla Polonia nel basket 3x3 femminile",
-   "orig": "Basket 3×3 féminin : la Pologne décroche l’or face à la Chine",
-   "lead": "Ai Giochi olimpici della gioventù di Dakar 2026, la Polonia ha vinto la medaglia d'oro nel torneo femminile di basket 3x3. Le atlete polacche hanno superato la Cina in una finale molto combattuta, conclusasi con il punteggio di 12-11. Il successo sul filo di lana ha permesso alla nazionale polacca di salire sul gradino più alto del podio, confermando il valore delle giovani cestiste in questa disciplina dinamica. La vittoria rappresenta un traguardo importante per il movimento sportivo polacco nel panorama olimpico giovanile. Lo riferisce Le Soleil.",
-   "more": [
-    "Il basket 3x3 è una disciplina derivata dal basket di strada che si gioca su un unico canestro e con tempi ridotti. È stato introdotto stabilmente nei programmi olimpici per la sua capacità di attrarre il pubblico giovane e per il ritmo di gioco elevato, che richiede grande intensità fisica e precisione."
-   ],
-   "fonti": [
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/actualites/sports/dakar2026/basket-3x3-feminin-la-pologne-decroche-lor-face-a-la-chine/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-11-09T17:20+00:00"
-    }
-   ],
-   "data": "9 nov",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
    "id": "z71f36736",
    "sez": "salute",
    "titolo": "caregiver di persone con demenza: piccoli gesti quotidiani riducono lo stress",
@@ -4695,6 +4729,15 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-09T15:32+01:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3106137/grasinimu-bomba-sulaukusiu-lektuvu-skrides-bajarunas-jausmas-nekoks-bet-panikos-nebuvo",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-09T18:20+02:00"
     }
    ],
    "data": "9 nov",
@@ -5481,6 +5524,15 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Central African Rep.",
      "t": "2026-11-09T11:04+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/dakar2026/basket-3x3-feminin-la-pologne-decroche-lor-face-a-la-chine/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-09T17:20+00:00"
     }
    ],
    "data": "9 nov",
@@ -6437,6 +6489,51 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-09T16:25+01:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-buenos-aires-la-agenda-del-dia-y-las-ultimas-nid09112026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-09T18:51+00:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/sociedad/valentina-alonso-la-joven-de-17-anos-con-discapacidad-visual-que-canto-para-el-papa-leon-xiv-si-no-nid09112026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-09T18:44+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/latinoamerica/papa-leon-xiv-en-sudamerica-el-pontifice-inicia-su-visita-a-argentina-con-un-contundente-mensaje-contra-la-exclusion-3599575",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-09T11:37-05:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/mision-cumplida-acabamos-pasar-la-historia-el-piloto-que-llevo-al-papa-leon-xiv-paysandu-y-el-gesto-del-pontifice-que-nunca-olvidara-n6063244",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-09T14:54-03:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/11/feligreses-venezolanos-asistieron-a-la-misa-del-papa-leon-xiv-en-buenos-aires/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-11-09T18:33+00:00"
     }
    ],
    "data": "9 nov",
@@ -7187,48 +7284,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-09T12:25+01:00"
-    }
-   ],
-   "data": "9 nov",
-   "ora": "12:44",
-   "uscita": "13"
-  },
-  {
-   "id": "z63132131",
-   "sez": "sport",
-   "titolo": "MotoGP in Qatar, trionfo di Bezzecchi che nega a Marquez la vittoria del titolo",
-   "orig": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
-   "lead": "Il pilota italiano Marco Bezzecchi ha conquistato la vittoria nel Gran Premio del Qatar in sella all'Aprilia, precedendo sul traguardo di Losail lo spagnolo Marc Marquez su Ducati. Con il secondo posto conquistato in gara, Marquez ha visto sfumare il primo match point matematico per la conquista del campionato del mondo, rinviando la festa iridata ai prossimi appuntamenti in calendario. Per il pilota iberico l'opportunità di centrare il decimo titolo mondiale in carriera resta a portata di mano già a partire dal circuito di Portimao.",
-   "more": [
-    "La classe MotoGP è la massima categoria motociclistica su pista a livello mondiale, gestita dalla Federazione Internazionale di Motociclismo. Le gare del campionato assegnano punti ai primi quindici classificati, e il distacco accumulato in classifica permette ai piloti di vertice di calcolare le combinazioni matematiche per aggiudicarsi il titolo iridato."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-09T07:56+00:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/motogp-qatar-trionfo-di-bezzecchi--63b671c6-fc9f-41eb-8154-fcf401b75e44.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-08T16:50+00:00"
-    },
-    {
-     "n": "Il Messaggero – Sport",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/sport/moto/motogp_marquez_campione_portimao_se_ecco_le_combinazioni-9878732.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-09T09:58+01:00"
     }
    ],
    "data": "9 nov",
@@ -8575,6 +8630,15 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "France",
      "t": "2026-11-09T11:58+01:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/il-judoka-teddy-riner-in-corsa-per-leliseo-la-francia-puo-rialzarsi_f9fb683a-83b8-45e0-b006-100cce631e6a.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T19:08+01:00"
     }
    ],
    "data": "9 nov",
@@ -9255,7 +9319,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "za992552f": "Al Jazeera evidenzia il legame diretto tra l'ordine di espulsione firmato da Marco Rubio e gli elogi attribuiti a Hezbollah.",
   "z6ebd2def": "Al Jazeera evidenzia la repressione mirata sia contro presunti infiltrati sia contro i raduni giovanili.",
   "zc228f954": "Rai News evidenzia la nascita del terzo polo bancario nazionale attraverso l'integrazione proposta dai francesi.",
-  "z63132131": "Al Jazeera evidenzia la vittoria di Bezzecchi che ha impedito a Marquez di chiudere subito i conti per il titolo.",
   "ze03e8c0a": "BBC News evidenzia la coincidenza dell'allarme climatico degli scienziati con l'avvio ufficiale dei negoziati della COP31.",
   "z85e5ce7e": "Radio Prague International evidenzia la crescita percentuale costante delle presenze nel trimestre estivo.",
   "zbf04cb6c": "OndaRock evidenzia la sorpresa dell'inedito e l'abbigliamento coordinato del nuovo componente al concerto di Toronto.",
@@ -9385,7 +9448,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zb9d0f1ad": "Al Jazeera mette in risalto sia i guadagni territoriali governativi sia l'aumento degli attacchi al confine.",
   "ze9578c77": "ANSA valorizza le dichiarazioni del ministro Pichetto sui tagli in bolletta previsti dal decreto.",
   "z8b188ebd": "ANSA mette in primo piano la critica delle organizzazioni studentesche sulle risorse per i giovani.",
-  "zfc631853": "ANSA dà rilievo alle parole dell'atleta sul voler unire la Francia nella corsa presidenziale.",
   "z6e7607bf": "Tagesschau sottolinea che i primi sospetti si erano indirizzati verso la Russia prima dell'accusa all'Iran.",
   "z7a2f7d52": "Radio Ndeke Luka segnala l'effetto diretto della crisi dei combustibili sui prezzi degli alimenti di base.",
   "zc8456f6f": "BBC News evidenzia le testimonianze dirette dall'interno delle bande criminali marsigliesi.",
@@ -9471,7 +9533,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zc646230c": "Il quotidiano mette in risalto l'approfondimento normativo e strategico contenuto nello speciale editoriale.",
   "z5fa1d1a0": "Medical Xpress evidenzia le sfide diagnostiche e la necessità di tracciare la diffusione del batterio in aree non endemiche.",
   "zcdac2a26": "La testata pone l'accento sulla competizione diretta con Nvidia per la leadership nel settore dei semiconduttori.",
-  "zbc002660": "Viene dato risalto alla vittoria della Polonia ottenuta di misura dopo una finale sofferta.",
   "z71f36736": "L'articolo mette in luce l'impatto psicologico dell'assistenza continuativa e suggerisce soluzioni pratiche basate sulla routine.",
   "z87349ac6": "La testata evidenzia il primato regionale della piattaforma nel conseguimento dello standard di sicurezza internazionale.",
   "z8ad71c30": "La testata pone l'accento sulla cifra imponente stanziata per lo sviluppo infrastrutturale.",
@@ -9522,7 +9583,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "za9c6dacd": "RTP riporta l'appello alla stabilità istituzionale lanciato dal presidente dell'Assemblea della Repubblica.",
   "z3d8ce730": "Al Jazeera segue l'evoluzione delle indagini dopo i due incidenti consecutivi a Washington.",
   "z87624687": "Radio Prague International riporta i dettagli dell'iniziativa governativa per la regolamentazione tecnologica.",
-  "zb7ab73e7": "LRT documenta i gravi disagi al traffico aereo continentale causati dalle recenti minacce.",
   "z75166758": "LSM segue l'intervento istituzionale del governo lettone alle Nazioni Unite.",
   "zba223666": "PBS NewsHour analizza il ruolo di mediazione degli Stati Uniti nei nuovi tentativi di pace.",
   "zbe79d3e8": "PBS NewsHour illustra le prime mosse legislative della nuova maggioranza democratica al Congresso.",
@@ -9534,7 +9594,10 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zcad5641c": "La testata nazionale delle Fiji focalizza l'attenzione sulle vulnerabilità della sicurezza logistica nell'arcipelago del Pacifico.",
   "z43dd07ef": "FBC News riporta gli sforzi tecnologici del governo locale nella gestione dei rischi geologici e naturali.",
   "z6bc36536": "Il quotidiano tanzaniano evidenzia i legami storici e diplomatici tra i due Paesi affacciati sull'Oceano Indiano.",
-  "z3fc7344f": "L'indipendente ucraino affronta il tema etico e pratico del reclutamento carcerario durante il conflitto contro la Russia."
+  "z3fc7344f": "L'indipendente ucraino affronta il tema etico e pratico del reclutamento carcerario durante il conflitto contro la Russia.",
+  "zbbfb1009": "Le testate internazionali evidenziano il mix esplosivo tra vita privata, spionaggio industriale e instabilità dei mercati finanziari.",
+  "ze3721b37": "L'agenzia focalizza l'attenzione sulla necessità di un impegno collettivo per garantire l'efficacia dei controlli internazionali.",
+  "z6b002538": "Fumettologica e Folha de S.Paulo riportano la notizia del passaggio di consegne evidenziando la provenienza del nuovo leader dalla concorrenza."
  },
  "contesti": {
   "zc228f954": "Crédit Agricole e Banco BPM condividono da anni accordi strategici e commerciali nel credito al consumo e nelle assicurazioni, con i francesi già azionisti rilevanti dell'istituto milanese. Nelle ultime settimane il risiko bancario italiano si era riacceso con ipotesi di riassetto tra i principali istituti del Paese.",
@@ -9558,7 +9621,9 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "ze379dc0b": "Le recenti elezioni di metà mandato negli Stati Uniti hanno visto i Democratici mantenere e consolidare la loro influenza al Congresso, smentendo le previsioni di una netta affermazione repubblicana. Donald Trump, protagonista della campagna elettorale a sostegno di molti candidati del suo partito, ha reagito ai risultati negativi riproponendo la narrativa delle irregolarità elettorali. La contestazione dei voti anticipati e del funzionamento delle macchine di conteggio rappresenta il ritorno a una strategia di delegittimazione già utilizzata durante le consultazioni presidenziali del 2020.",
   "z5b99735a": "Raúl ha trascorso le ultime stagioni guidando il Castilla, dove è stato elogiato per la crescita dei giovani talenti. Nonostante diverse offerte ricevute da club di prima divisione, l'ex capitano madridista ha preferito attendere un progetto solido per fare il salto definitivo nel calcio professionistico senior.",
   "z91164f45": "I campionati OECS rappresentano la massima competizione natatoria per i piccoli Stati dei Caraibi orientali. Nelle edizioni precedenti, Antigua e Barbuda ha mantenuto un forte predominio, spesso conteso da Santa Lucia, consolidando l'evento come una vetrina per i talenti emergenti dell'area.",
-  "zdfd489c1": "Dall'inizio del conflitto in Ucraina, la Russia è stata sospesa dalla maggior parte dei tornei di hockey su ghiaccio. Recentemente, il Tribunale Arbitrale dello Sport ha iniziato a emettere sentenze a favore del reintegro di alcune squadre rassegnando alle federazioni internazionali il difficile compito di gestire la partecipazione effettiva."
+  "zdfd489c1": "Dall'inizio del conflitto in Ucraina, la Russia è stata sospesa dalla maggior parte dei tornei di hockey su ghiaccio. Recentemente, il Tribunale Arbitrale dello Sport ha iniziato a emettere sentenze a favore del reintegro di alcune squadre rassegnando alle federazioni internazionali il difficile compito di gestire la partecipazione effettiva.",
+  "zbbfb1009": "Negli ultimi mesi, Nvidia ha consolidato la sua posizione dominante nel mercato dell'intelligenza artificiale grazie a una crescita azionaria senza precedenti. Contemporaneamente, le autorità statunitensi hanno intensificato i controlli sulla sicurezza nazionale per timore di spionaggio industriale cinese. Nonostante le sfide geopolitiche, l'azienda non aveva mai affrontato uno scandalo legato alla vita privata del suo amministratore delegato con simili ripercussioni sulla fiducia degli investitori.",
+  "z7e6b6e4e": "Nei giorni scorsi il giovane pilota italiano Kimi Antonelli ha conquistato il titolo mondiale di Formula 1, un trionfo straordinario che ha catturato l'attenzione dei media internazionali e del mondo dello sport. Dopo la vittoria, il neocampione ha espresso la sua emozione e incredulità per l'obiettivo raggiunto, programmando le prime celebrazioni pubbliche e ricevendo al contempo i complimenti ma anche gli inviti alla prudenza da parte della scuderia Mercedes."
  },
  "cronologie": {
   "zc228f954": [
@@ -9817,6 +9882,34 @@ window.EDIZIONI["2026-11-09-sera"] = {
    [
     "2024/11/04",
     "La Norvegia annuncia l'esclusione forzata e la Svizzera dichiara il boicottaggio"
+   ]
+  ],
+  "zbbfb1009": [
+   [
+    "9 novembre 2024",
+    "Emergono le prime indiscrezioni sulla relazione tra Jensen Huang e una presunta spia cinese."
+   ],
+   [
+    "10 novembre 2024",
+    "Pechino smentisce ufficialmente le accuse di spionaggio definendole calunnie."
+   ],
+   [
+    "11 novembre 2024",
+    "Nvidia avvia un'indagine interna e il valore delle azioni crolla alla borsa di New York."
+   ]
+  ],
+  "z7e6b6e4e": [
+   [
+    "Giorni scorsi",
+    "Kimi Antonelli vince il campionato mondiale di Formula 1."
+   ],
+   [
+    "Vigilia",
+    "Il team principal Mercedes Toto Wolff frena sui paragoni con Ayrton Senna."
+   ],
+   [
+    "Oggi",
+    "Antonelli annuncia i festeggiamenti previsti a San Marino insieme ad amici e sostenitori."
    ]
   ]
  },
@@ -10211,6 +10304,39 @@ window.EDIZIONI["2026-11-09-sera"] = {
     }
    ],
    "divergono": "Mentre le testate internazionali si concentrano su Trump, The Slovak Spectator tratta un caso locale slovacco riguardante il politico Fico. BBC News è l'unica ad approfondire le cause politiche della sconfitta, come la crisi energetica legata all'Iran, citando pareri tecnici di esperti del MIT e di Harvard per smentire le irregolarità. Dawn utilizza un tono più critico, parlando esplicitamente di \"umiliazione\" per Trump, mentre The Straits Times e Gulf News mantengono un profilo puramente informativo."
+  },
+  "z7e6b6e4e": {
+   "voci": [
+    {
+     "n": "San Marino RTV",
+     "c": "San Marino",
+     "p": "XX",
+     "t": "La voce di San Marino (giudizio parziale per articolo non leggibile) si concentra sulle dichiarazioni di Kimi Antonelli, che afferma di \"dover ancora realizzare\". L'occhiello riporta il suo arrivo a San Marino per festeggiare con gli amici.",
+     "b": "t"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Il quotidiano britannico mette al centro le parole di Toto Wolff sulla cautela nel paragonare Antonelli ad Ayrton Senna. Riporta la vittoria del titolo in Messico e il sostegno della famiglia Senna, che lo chiama \"Senninha\".",
+     "b": "a"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La testata italiana si focalizza su un'intervista a Lorenzo Musetti riguardo al ranking di tennis. L'articolo è puramente informativo e riporta l'analisi del toscano su Zverev, Sinner e Alcaraz.",
+     "b": "a"
+    },
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La voce dell'Italia (giudizio parziale per articolo non leggibile) si concentra sul trionfo in MotoGp di Marco Bezzecchi in Qatar. L'occhiello specifica la vittoria a Losail davanti a Marquez.",
+     "b": "t"
+    }
+   ],
+   "divergono": ""
   }
  },
  "luoghi": {
@@ -10269,13 +10395,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    "n": "Milano",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z63132131": {
-   "n": "Lusail",
-   "p": [
-    "Qatar"
    ],
    "pt": []
   },
@@ -11191,13 +11310,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    ],
    "pt": []
   },
-  "zfc631853": {
-   "n": "Parigi",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z6e7607bf": {
    "n": "Parigi",
    "p": [
@@ -11793,13 +11905,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    ],
    "pt": []
   },
-  "zbc002660": {
-   "n": "Dakar",
-   "p": [
-    "Senegal"
-   ],
-   "pt": []
-  },
   "z71f36736": {
    "n": "Douglas",
    "p": [
@@ -12161,13 +12266,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    ],
    "pt": []
   },
-  "zb7ab73e7": {
-   "n": "Vilnius",
-   "p": [
-    "Lithuania"
-   ],
-   "pt": []
-  },
   "z75166758": {
    "n": "New York",
    "p": [
@@ -12249,6 +12347,27 @@ window.EDIZIONI["2026-11-09-sera"] = {
     "Ukraine"
    ],
    "pt": []
+  },
+  "zbbfb1009": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "ze3721b37": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z6b002538": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -12260,7 +12379,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "za992552f": 1,
   "z6ebd2def": 1,
   "zc228f954": 3,
-  "z63132131": 2,
   "ze03e8c0a": 2,
   "z85e5ce7e": 1,
   "zbf04cb6c": 2,
@@ -12298,7 +12416,7 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "z5fc9299f": 1,
   "z280dfc60": 1,
   "z9c09f668": 2,
-  "zeb3f4e61": 1,
+  "zeb3f4e61": 2,
   "z7f1baa05": 1,
   "z620b9c70": 2,
   "z7008ada0": 2,
@@ -12338,7 +12456,7 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "z3d21dc78": 1,
   "z74b47f96": 2,
   "z5e1a52f0": 2,
-  "z5d7ecc1e": 1,
+  "z5d7ecc1e": 2,
   "z90bd8ee1": 1,
   "zb312ff19": 1,
   "z469861a8": 1,
@@ -12390,13 +12508,12 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zb9d0f1ad": 1,
   "ze9578c77": 2,
   "z8b188ebd": 1,
-  "zfc631853": 1,
   "z6e7607bf": 3,
   "z7a2f7d52": 2,
   "zc8456f6f": 2,
   "zbaae664b": 2,
   "ze379dc0b": 3,
-  "z7e6b6e4e": 1,
+  "z7e6b6e4e": 3,
   "zc60f752a": 1,
   "z3159a32d": 2,
   "ze87491fd": 1,
@@ -12476,7 +12593,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zc646230c": 1,
   "z5fa1d1a0": 1,
   "zcdac2a26": 1,
-  "zbc002660": 1,
   "z71f36736": 1,
   "z87349ac6": 1,
   "z8ad71c30": 1,
@@ -12527,7 +12643,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "za9c6dacd": 1,
   "z3d8ce730": 1,
   "z87624687": 1,
-  "zb7ab73e7": 1,
   "z75166758": 1,
   "zba223666": 1,
   "zbe79d3e8": 1,
@@ -12539,7 +12654,10 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zcad5641c": 1,
   "z43dd07ef": 1,
   "z6bc36536": 1,
-  "z3fc7344f": 1
+  "z3fc7344f": 1,
+  "zbbfb1009": 1,
+  "ze3721b37": 1,
+  "z6b002538": 2
  },
  "video": {},
  "pillole": []
