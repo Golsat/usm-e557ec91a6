@@ -2541,7 +2541,7 @@ window.EDIZIONI["2026-11-09-sera"] = {
   },
   {
    "id": "z3159a32d",
-   "sez": "tech",
+   "sez": "mondo",
    "titolo": "Il Senato USA vota una legge per accelerare le grandi opere energetiche",
    "orig": "Senate votes on bill to speed up projects from gas pipelines to clean energy",
    "lead": "Il Senato degli Stati Uniti ha avviato l'esame del Bipartisan American Affordability and Jobs Act, un disegno di legge elaborato per velocizzare l'approvazione e la costruzione di grandi opere energetiche, spaziando dai gasdotti di combustibili fossili alle linee di trasmissione destinate alla rete elettrica pulita. Il provvedimento divide il fronte ambientalista: se da un lato consente di sviluppare più rapidamente le reti verdi, dall'altro prevede la semplificazione burocratica e la riduzione di vincoli di protezione ambientale per avviare i cantieri. Lo riferisce The Guardian.",
@@ -2575,39 +2575,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-09T13:45-05:00"
-    }
-   ],
-   "data": "9 nov",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "ze87491fd",
-   "sez": "economia",
-   "titolo": "Il petrolio scende ai minimi dopo che Trump esclude attacchi contro l'Iran",
-   "orig": "Oil prices hit 10-week low after Trump says strikes on Iran ‘highly unlikely’",
-   "lead": "Il prezzo del greggio sui mercati internazionali è sceso ai livelli più bassi delle ultime dieci settimane in seguito alle dichiarazioni di Donald Trump, che ha definito estremamente improbabile una ripresa degli attacchi militari contro l'Iran. Le quotazioni del Brent hanno accentuato la tendenza ribassista manifestatasi dopo i recenti sviluppi elettorali statunitensi, mentre l'allentamento delle tensioni belliche nel Medio Oriente ha ridotto le preoccupazioni degli operatori su possibili interruzioni dei rifornimenti nelle rotte marittime del Golfo. Lo riferisce Financial Times.",
-   "more": [
-    "Le oscillazioni del prezzo del petrolio sui mercati internazionali sono fortemente legate alla geopolitica mediorientale. Eventuali minacce o tregue che coinvolgono i paesi affacciati sullo stretto di Hormuz, snodo cruciale per il commercio petrolifero marittimo, incidono immediatamente sulle quotazioni dei barili di greggio."
-   ],
-   "fonti": [
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-09T16:35+00:00"
-    },
-    {
-     "n": "Iraqi News",
-     "p": "XX",
-     "c": "Baghdad",
-     "u": "https://www.iraqinews.com/arab-world-news/trump-says-iran-war-highly-unlikely-to-resume/",
-     "angolo": "",
-     "atlas": "Iraq",
-     "t": "2026-11-09T11:48+00:00"
     }
    ],
    "data": "9 nov",
@@ -9456,7 +9423,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "z7e6b6e4e": "San Marino RTV si concentra sui festeggiamenti annunciati dal pilota sul territorio sammarinese.",
   "zc60f752a": "Daily News Egypt valorizza l'importanza della scoperta per la conservazione del materiale biologico fossile.",
   "z3159a32d": "The Guardian mette in luce il dilemma degli ambientalisti divisi tra transizione e salvaguardia delle leggi ecologiche.",
-  "ze87491fd": "Financial Times evidenzia la correlazione tra le dichiarazioni di Trump e il minimo decennale toccato dal greggio.",
   "zb99ff9c0": "The Guardian analizza le sfide produttive nell'evitare le consuete delusioni dei kolossal fantasy a Hollywood.",
   "zda90e375": "Euronews pone l'accento sulla fermezza della Germania nel legare le sorti del bilancio agli aiuti per Kiev.",
   "z7bbf29b8": "Il Consiglio dell'Unione europea ufficializza l'estensione biennale del supporto formativo militare.",
@@ -11366,13 +11332,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
    ],
    "pt": []
   },
-  "ze87491fd": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "zb99ff9c0": {
    "n": "Londra",
    "p": [
@@ -12516,7 +12475,6 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "z7e6b6e4e": 3,
   "zc60f752a": 1,
   "z3159a32d": 2,
-  "ze87491fd": 1,
   "zb99ff9c0": 1,
   "zda90e375": 1,
   "z7bbf29b8": 1,
