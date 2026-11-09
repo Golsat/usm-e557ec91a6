@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"za55d7e12":[["2026-11-02-sera","z1e171ce6","2 nov","Tomoo canterà il tema di chiusura dell'anime \"Hirayasumi\""],["2026-10-13-sera","zd3b9e823","13 ott","Hirayasumi, annunciati cinque nuovi doppiatori per l'adattamento anime del manga di Keigo Shinzo"]],"zb7277b10":[["2026-11-06-sera","zc3ae1ed2","6 nov","Fratello di Meghan Markle, 'persona di interesse' in un'inchiesta sulle Filippine"]]});
