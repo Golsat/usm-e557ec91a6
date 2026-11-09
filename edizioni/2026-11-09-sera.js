@@ -3,6 +3,2364 @@ window.EDIZIONI["2026-11-09-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z66b2c64e",
+   "sez": "prima",
+   "titolo": "Falsi allarmi bomba negli aeroporti: la Procura di Milano indaga per pubblica intimidazione",
+   "orig": "Allarmi bomba negli aeroporti, la procura di Milano indaga per “pubblica intimidazione”",
+   "lead": "La Procura di Milano ha aperto un'indagine con l'ipotesi di reato di pubblica intimidazione in seguito alle minacce inviate via e-mail riguardanti falsi allarmi bomba a bordo di voli commerciali e negli aeroporti. Oltre all'accusa di procurato allarme, i magistrati milanesi hanno allargato il raggio d'azione per identificare i responsabili dei messaggi intimidatori. Contestualmente, le autorità indagano sulla diffusione nel dark web di dati personali relativi al ministro Antonio Tajani e ad altri esponenti istituzionali, un attacco attribuito dagli inquirenti al gruppo hacker filorusso NoName057(16).",
+   "more": [
+    "Il reato di pubblica intimidazione punisce chiunque diffonda minacce o notizie false atte a suscitare terrore o grave perturbamento dell'ordine pubblico. Negli ultimi anni, le minacce informatiche e i falsi allarmi bomba aerei sono diventati uno strumento di guerra ibrida impiegato da gruppi criminali o collettivi di hacker per destabilizzare le infrastrutture critiche dei Paesi occidentali."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://milano.repubblica.it/cronaca/2026/11/09/news/allarmi_bomba_aeroporti_procura_milano_pubblica_intimidazione-425710606/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T13:54+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/al-via-unindagine-sui-dati-di-tajani-nel-dark-web.-allarmi-bomba_217a25ea-2d5f-432d-98ba-51fd3560f4ca.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T15:32+01:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17",
+   "sez_prima": "italia",
+   "riempimento": true
+  },
+  {
+   "id": "zaec1c981",
+   "sez": "mondo",
+   "titolo": "L'Iran colpisce tre petroliere nello Stretto di Hormuz per presunti legami con gli Stati Uniti",
+   "orig": "IRGC strikes three tankers near Hormuz over ‘US links’",
+   "lead": "I Pasdaran iraniani hanno attaccato tre navi petroliere nei pressi dello Stretto di Hormuz, sostenendo che le imbarcazioni avessero legami con gli Stati Uniti. In seguito all'attacco condotto dal Corpo delle guardie della rivoluzione islamica, un'imbarcazione ha preso fuoco nelle acque dello stretto. L'azione militare si inserisce nel quadro delle crescenti tensioni geopolitiche e navali lungo le rotte strategiche del Golfo Persico per il trasporto del greggio. Lo riferisce Al Jazeera.",
+   "more": [
+    "Lo Stretto di Hormuz è uno dei punti di transito marittimo più strategici al mondo per il commercio di idrocarburi, attraverso cui passa circa un quinto del fabbisogno globale di petrolio. Tensioni o attacchi contro le navi commerciali in questo braccio di mare causano immediate ripercussioni sui mercati energetici internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-09T15:10+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zfde1278e",
+   "sez": "mondo",
+   "titolo": "L'Iran conferma le sue richieste mentre gli Stati Uniti aumentano la pressione militare",
+   "orig": "Iran stands by demands to end the war as US ramps up military pressure",
+   "lead": "Il governo dell'Iran ha ribadito la propria fermezza sulle condizioni per porre fine alle ostilità, mentre gli Stati Uniti intensificano la pressione militare nella regione. Nonostante l'escalation delle manovre e della presenza militare statunitense, rimangono in corso colloqui diplomatici mirati a scongiurare un nuovo conflitto su larga scala tra Washington e Teheran. Lo riferisce Al Jazeera.",
+   "more": [
+    "Il confronto tra Stati Uniti e Iran verte da anni sul programma nucleare di Teheran, sulle sanzioni economiche americane e sul sostegno iraniano a gruppi armati regionali nel Medio Oriente. I tentativi di mediazione diplomatica cercano di evitare un'escalation militare diretta che destabilizzerebbe l'intera area strategica del Golfo."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-09T14:39+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z46129772",
+   "sez": "mondo",
+   "titolo": "Sudafrica: i risultati disastrosi delle elezioni locali segnano il declino dell'ANC",
+   "orig": "What ‘catastrophic’ South Africa local election results mean for ANC",
+   "lead": "I risultati delle recenti elezioni locali in Sudafrica hanno registrato una pesante sconfitta per l'African National Congress (ANC), confermando una netta battuta d'arresto per il partito al potere. L'esito elettorale evidenzia la transizione del Paese dall'era di dominanza storica dell'ANC verso un sistema politico maggiormente frammentato e competitivo a livello municipale e nazionale. Lo riferisce Al Jazeera.",
+   "more": [
+    "L'African National Congress, storico partito di Nelson Mandela, ha guidato il Sudafrica ininterrottamente dalla fine dell'apartheid nel 1994. Negli ultimi anni, la crescente insoddisfazione popolare legata a disoccupazione, corruzione e malfunzionamento dei servizi pubblici ha progressivamente eroso il consenso elettorale della formazione di governo."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-09T14:14+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z79cc335e",
+   "sez": "italia",
+   "titolo": "Massimo Galli assolto dalle accuse: l'infettivologo parla dopo cinque anni di giudizio",
+   "orig": "Massimo Galli assolto: “Io attaccato sull’onore, 5 anni di ordinaria follia e sofferenze evitabili”",
+   "lead": "L'infettivologo ed ex primario dell'ospedale Sacco di Milano, Massimo Galli, è stato completamente assolto al termine di una vicenda giudiziaria durata cinque anni. Galli, figura centrale nella gestione della pandemia da Covid-19, ha commentato la sentenza denunciando di essere stato attaccato sull'onore e parlando di sofferenze evitabili derivanti da un lungo processo. L'esperto ha ipotizzato che le sue prese di posizione pubbliche e rigide possano aver infastidito diversi interlocutori. Lo riferisce la Repubblica.",
+   "more": [
+    "Massimo Galli è stato uno dei principali volti scientifici di riferimento in Italia durante la fase acuta dell'emergenza sanitaria da Covid-19. I procedimenti giudiziari legati a concorsi universitari o nomine sanitarie in periodo pandemico hanno coinvolto diversi accademici e dirigenti medici su scala nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://milano.repubblica.it/cronaca/2026/11/09/news/massimo_galli_assolto_intervista_onore_follia_sofferenze_evitabili-425710809/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T14:43+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z8359a616",
+   "sez": "mondo",
+   "titolo": "Stati Uniti: la Corte Suprema valuta la responsabilità legale degli agenti federali",
+   "orig": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
+   "lead": "La Corte Suprema degli Stati Uniti sta esaminando un ricorso presentato da un detenuto vittima di lesioni brutali a cui sono state negate le cure mediche all'interno di un istituto penitenziario. Il caso potrebbe ridefinire la normativa sulla responsabilità legale dei funzionari federali, consentendo ai cittadini di fare causa ai singoli agenti. La discussione s'inserisce in un contesto caratterizzato dal costante aumento delle denunce di abusi inviate contro gli agenti dell'agenzia immigrazione ICE. Lo riferisce NPR.",
+   "more": [
+    "Negli Stati Uniti, la dottrina della qualificata immunità protegge spesso gli agenti delle forze dell'ordine federali da sanzioni civili personali e cause di risarcimento per violazione dei diritti costituzionali. Una pronuncia della Corte Suprema in senso opposto faciliterebbe i ricorsi dei cittadini in caso di abusi o negligenze mediche gravi."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T05:00-05:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z880a5dfd",
+   "sez": "prima",
+   "titolo": "Zelensky accusa la Russia di aver usato la tregua a Kherson per la rotazione delle truppe",
+   "orig": "Zelensky says Russia used cover of humanitarian operation in Kherson region to rotate troops",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha dichiarato che i comandi militari russi hanno sfruttato la tregua umanitaria nella regione di Kherson per effettuare la rotazione delle proprie truppe al fronte. Inoltre, Zelensky ha riferito che la Russia ha impiegato missili balistici forniti dalla Corea del Nord per colpire un'infrastruttura energetica ucraina. In vista dei negoziati trilaterali ad Abu Dhabi, il leader di Kiev ha contattato il premier indiano Narendra Modi per sollecitare una mediazione sullo sblocco dell'export di grano.",
+   "more": [
+    "La regione di Kherson costituisce un punto nevralgico del fronte meridionale in Ucraina, teatro di prolungati scontri e tregue temporanee per soccorsi umanitari. L'impiego di armamenti nordcoreani da parte di Mosca testimonia il consolidamento dell'alleanza militare tra Russia e Pyongyang, mentre l'India cerca di mantenere un ruolo diplomatico neutrale nel conflitto."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/09/zelensky-says-russia-used-cover-of-humanitarian-operation-in-kherson-region-to-rotate-troops",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-09T14:31+03:00"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/zelensky-seeks-indias-assistance-in-peace-efforts-ahead-of-russia-talks/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-09T15:22+00:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-polytics/4183008-zelensky-modi-discuss-indias-mediation-role-in-efforts-to-unblock-grain-exports.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-09T17:17+02:00"
+    },
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/egypt-india-discuss-boosting-strategic-partnership-in-innovative-financing-startups/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-11-09T10:41+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/zelenskiy-speaks-to-modi-ahead-of-ukraine-russia-talks",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-09T22:34+08:00"
+    },
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/11/russia-used-north-korean-kn-23-missiles-in-ukraine-energy-site-strike-zelensky/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-11-09T05:02+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z6765060f",
+   "sez": "prima",
+   "titolo": "Stati Uniti: Trump annuncia la task force Iron Gate per isolare l'Iran",
+   "orig": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+   "lead": "Il presidente degli Stati Uniti Donald Trump ha dichiarato l'entrata in vigore della task force Iron Gate, un'unità di intelligence militare destinata a bloccare il flusso d'armi e isolare l'Iran. Gli analisti geopolitici sostengono che una piccola unità informativa non sarà sufficiente a sigillare completamente i confini iraniani, avvertendo del rischio di un allargamento del conflitto nel Medio Oriente. Trump ha inoltre annunciato un imminente incontro con Xi Jinping e Vladimir Putin.",
+   "more": [
+    "Le sanzioni e i blocchi navali o aerei statunitensi mirano a interrompere le forniture militari e il sostegno economico tra Teheran e le milizie alleate nella regione. L'efficacia di tali misure dipende tuttavia dalla cooperazione dei Paesi confinanti e dai canali del commercio informale."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-09T15:31+00:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-task-force-iron-gate-is-in-effect-expects-xi-and-putin-meeting-next-week-1.500740691",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-09T06:47+04:00"
+    },
+    {
+     "n": "RNZ Pacific",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2394866/shared-values-see-pacific-forum-increase-partnerships-with-middle-east-countries",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-11-09T06:46+13:00"
+    },
+    {
+     "n": "Matangi Tonga",
+     "p": "XX",
+     "c": "Nuku'alofa",
+     "u": "https://matangitonga.to/2026/11/04/tonga-seeks-re-rating-financial-action-task-force-recommendations",
+     "angolo": "",
+     "atlas": "Tonga",
+     "t": "2026-11-04T09:53+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z72798cb6",
+   "sez": "tech",
+   "titolo": "Burkina Faso: presentata la 21ª edizione della Settimana del Digitale 2026",
+   "orig": "Burkina Faso/Semaine du numérique 2026 : Des compétitions, formations gratuites et des innovations au programme de la 21ᵉ édition",
+   "lead": "Il comitato organizzatore ha illustrato in conferenza stampa a Ouagadougou i programmi della 21ª edizione della Settimana del Digitale, prevista dal 24 al 27 novembre 2026 presso il Salon international de l'artisanat. L'evento prevederà competizioni, workshop formativi gratuiti e presentazioni di innovazioni tecnologiche. Dopo la precedente edizione dedicata all'intelligenza artificiale, la manifestazione intende promuovere ulteriormente la trasformazione digitale e lo sviluppo industriale del Paese.",
+   "more": [
+    "La Settimana del Digitale è uno dei principali appuntamenti dedicati alle tecnologie dell'informazione nell'Africa occidentale. L'iniziativa mira a sviluppare le competenze digitali della popolazione, sostenere le startup locali e favorire la transizione verso un'economia incentrata sull'innovazione tecnologica."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150638",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-09T14:04+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150637",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-09T13:39+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/11/09/revolution-sur-deux-roues-fabrication-de-velos-made-in-burkina-faso/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-11-09T12:49+00:00"
+    },
+    {
+     "n": "L'Express de Madagascar",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.lexpress.mg/feeds/3337279989275054109/comments/default",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-11-09T05:45+03:00"
+    },
+    {
+     "n": "2424.mg",
+     "p": "XX",
+     "c": "Antananarivo",
+     "u": "https://www.2424.mg/fiscalite-le-droit-de-douane-sur-les-smartphones-porte-a-30-dans-le-projet-de-loi-de-finances-2027",
+     "angolo": "",
+     "atlas": "Madagascar",
+     "t": "2026-11-09T04:28+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "ze934058e",
+   "sez": "spazio",
+   "titolo": "Olimpiadi internazionali giovanili di astronomia: vittoria per uno studente ceco in Thailandia",
+   "orig": "Czech student wins international junior astronomy olympiad in Thailand",
+   "lead": "Uno studente della Repubblica Ceca ha conquistato il primo posto alle Olimpiadi internazionali giovanili di astronomia svoltesi in Thailandia. Contemporaneamente, la delegazione di Panama ha ottenuto cinque medaglie alla diciottesima edizione delle Olimpiadi latinoamericane di astronomia e astronautica. Le manifestazioni internazionali hanno visto la partecipazione di giovani talenti e accademici impegnati nello studio del cosmo e delle scienze spaziali.",
+   "more": [
+    "Le Olimpiadi di astronomia sono competizioni scientifiche internazionali rivolte agli studenti delle scuole secondarie per promuovere lo studio delle scienze dello spazio, della fisica e della matematica. Tali eventi stimolano l'interesse giovanile verso le discipline STEM e la ricerca spaziale accademica."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/czech-student-wins-international-junior-astronomy-olympiad-thailand-8902129",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-09T13:43+01:00"
+    },
+    {
+     "n": "ArchDaily",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.archdaily.com/1188288/from-territory-to-detail-20th-international-seminar-on-latin-american-architecture",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-09T09:10+00:00"
+    },
+    {
+     "n": "Newsroom Panama",
+     "p": "XX",
+     "c": "Città di Panama",
+     "u": "https://newsroompanama.com/2026/11/08/xviii-latin-american-astronomy-and-astronautics-olympiad-2026-panama-wins-five-medals/",
+     "angolo": "",
+     "atlas": "Panama",
+     "t": "2026-11-09T04:58+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zacb2b3dc",
+   "sez": "salute",
+   "titolo": "Cellule staminali iPS e terapie geniche: nuove frontiere per le malattie rare e l'epilessia",
+   "orig": "The iPS Cell Breakthroughs Reshaping Drug Discovery for Rare Disease",
+   "lead": "I ricercatori dell'Università Keio in Giappone stanno trasformando la ricerca sulle malattie rare grazie all'uso delle cellule staminali pluripotenti indotte (iPS), consentendo di modellare le patologie in laboratorio e testare farmaci direttamente su cellule umane. Nel frattempo, in Cina un'équipe medica ha applicato con successo una strategia chemogenetica di terapia genica su tre pazienti, riuscendo a ridurre l'attività neuronale anomala e le crisi epilettiche.",
+   "more": [
+    "Le cellule staminali iPS, la cui scoperta è valsa il Premio Nobel a Shinya Yamanaka nel 2012, permettono di riprogrammare cellule adulte per creare tessuti specifici del corpo umano. Questa tecnologia abbrevia i tempi della sperimentazione farmacologica ed evita il ricorso a modelli animali per la cura di patologie rare e lesioni spinali."
+   ],
+   "fonti": [
+    {
+     "n": "Nippon.com",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.nippon.com/en/articles/-/56749",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-09T06:01+09:00"
+    },
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T14:36+00:00"
+    },
+    {
+     "n": "Science (AAAS)",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T04:00+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zf48e10b6",
+   "sez": "ingegneria",
+   "titolo": "Schneider Electric lancia borse di studio e programmi per ingegneri energetici",
+   "orig": "Schneider Electric teams with nonprofit on $100K in trades scholarships",
+   "lead": "Schneider Electric ha siglato una collaborazione con l'organizzazione no profit Skilled Nation per stanziare 100.000 dollari in borse di studio destinate agli studenti degli istituti tecnici e professionali. Parallelamente, l'azienda ha avviato a Dubai l'Energy Tech Accelerator, un programma mirato a formare 50 ingegneri specializzati in sistemi elettrici, software e tecnologie pulite per guidare la transizione energetica.",
+   "more": [
+    "La carenza di manodopera qualificata e di ingegneri specializzati nelle reti elettriche intelligenti rappresenta uno dei principali ostacoli al raggiungimento degli obiettivi di decarbonizzazione. Le borse di studio e i programmi di accelerazione professionale mirano a colmare il divario tra la formazione accademica e le esigenze operative del settore industriale."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/news/schneider-electric-nonprofit-trades-scholarships/874099/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T10:07-05:00"
+    },
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/schneider-electric-energy-tech-accelerator-smarter-start-50-engineers/",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-09T06:04+00:00"
+    },
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/programma-itaca-2027-28-domande-entro-il-10-novembre-borse-di-studio-inps-fino-a-15mila-euro-per-studiare-allestero/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T15:22+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zd0b88849",
+   "sez": "adolescenti",
+   "titolo": "Scuola: lo scorrimento delle GPS per le supplenze docenti prosegue fino a dicembre",
+   "orig": "Supplenze docenti 2026: fino al 31 dicembre scorrono le GPS e poi si passa alle graduatorie di istituto",
+   "lead": "Il sistema informatizzato degli Uffici Scolastici continuerà a scorrere le Graduatorie Provinciali per le Supplenze (GPS) per coprire i posti di insegnamento vacanti nei mesi di novembre e dicembre 2026, spingendosi in alcuni casi fino a inizio gennaio. Al termine dello scorrimento delle GPS per le cattedre annuali o fino al 30 giugno, le dirigenze scolastiche passeranno alle graduatorie d'istituto per l'assegnazione degli incarichi residui.",
+   "more": [
+    "Le Graduatorie Provinciali per le Supplenze sono lo strumento utilizzato dal Ministero dell'Istruzione e del Merito in Italia per l'assegnazione dei contratti a tempo determinato nelle scuole statali. Lo scorrimento informatizzato consente di coprire le cattedre rimaste scoperte all'avvio dell'anno scolastico."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/supplenze-docenti-2026-fino-al-31-dicembre-scorrono-le-gps-e-poi-si-passa-alle-graduatorie-di-istituto/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T14:58+00:00"
+    },
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/rottamazione_quinques_multe_imu_tari_come_non_pagare_domanda_cosa_cambia-9878849.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T10:54+01:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17",
+   "sub": "scuola"
+  },
+  {
+   "id": "z03d76507",
+   "sez": "manga",
+   "titolo": "L'analisi dei cattivi negli anime: da Zeke Jaeger in Attack on Titan ai nemici di Gohan in Dragon Ball",
+   "orig": "Release the Villains: Zeke Jaeger Is Attack on Titan’s Ultimate Agent of Chaos",
+   "lead": "Un approfondimento critico analizza il ruolo narrativo di Zeke Jaeger nella serie Attack on Titan, definendolo il principale agente di caos della storia per via delle sue complesse motivazioni ideologiche. Parallelamente, un confronto sui personaggi del franchise Dragon Ball esamina le dieci figure antagoniste la cui forza supera perfino il massimo potenziale espresso da Gohan nella forma Ultimate.",
+   "more": [
+    "I manga e gli anime giapponesi impiegano spesso antagonisti dalla complessa caratterizzazione psicologica, distanziandosi dai classici stereotipi manichei. Serie di successo internazionale come L'attacco dei giganti e Dragon Ball hanno ridefinito la percezione del ruolo dei cattivi nella cultura pop contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/features/2026/11/9/anime-villains-zeke-jaeger",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T15:00+00:00"
+    },
+    {
+     "n": "CBR – Anime",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.cbr.com/dragon-ball-villains-stronger-than-ultimate-gohan-list/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T02:45+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z98543d02",
+   "sez": "cultura",
+   "titolo": "Praga celebra con una mostra Jaroslav Čermák, il pittore ceco del XIX secolo affermatosi a Parigi",
+   "orig": "New exhibition explores Jaroslav Čermák, the 19th-century Czech painter who made his name in Paris",
+   "lead": "La galleria della Biblioteca Municipale di Praga ha inaugurato una nuova esposizione dedicata alla vita e alle opere di Jaroslav Čermák, celebre artista ceco del diciannovesimo secolo. Nonostante il grande successo riscosso in tutta Europa e nella Parigi dell'epoca, la figura del pittore era progressivamente finita nell'oblio del pubblico. La mostra si propone di riscoprire il contributo storico e figurativo dell'autore. Lo riferisce Radio Prague International.",
+   "more": [
+    "Durante il XIX secolo, Parigi rappresentava la capitale mondiale dell'arte figurativa e la meta d'elezione per numerosi pittori dell'Europa centrale e orientale. Jaroslav Čermák si distinse per i suoi dipinti storici ed etnici dedicati alle lotte di liberazione nei Balcani, ottenendo importanti riconoscimenti nei Salon parigini."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Prague International",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://english.radio.cz/new-exhibition-explores-jaroslav-cermak-19th-century-czech-painter-who-made-his-8902121",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-09T14:00+01:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z04cdbad4",
+   "sez": "mondo",
+   "titolo": "Spagna: l'evoluzione culturale ed etichetta sociale del bacio di saluto",
+   "orig": "Why is there so much kissing in Spain?",
+   "lead": "Un reportage esplora la tradizione del bacio sulla guancia come forma diffusa di saluto sociale nella cultura spagnola. Sebbene oggi scambiarsi due baci sia una consuetudine diffusa e del tutto naturale nella vita quotidiana della Spagna, l'analisi sottolinea come in passato questa pratica sociale non fosse né comune né accettata allo stesso modo dalle precedenti generazioni. Lo riferisce la BBC.",
+   "more": [
+    "Le consuetudini sociali e i gesti di saluto variano notevolmente tra le diverse culture europee. In Spagna, il doppio bacio sociale sulla guancia si è consolidato durante la seconda metà del Novecento come simbolo di cordialità e informali relazioni interpersonali, differenziandosi dai comportamenti formali del passato."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Travel",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.com/travel/article/20261105-why-is-there-so-much-kissing-in-spain",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-09T13:00+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zc869005d",
+   "sez": "musica",
+   "titolo": "Roxy Music: Bryan Ferry e Andy Mackay rievocano le tensioni per l'addio di Brian Eno",
+   "orig": "Roxy Music: “L’addio di Brian Eno? Una questione di ego” – L’intervista a Mojo",
+   "lead": "Nel corso di un'intervista rilasciata alla rivista Mojo, i membri dei Roxy Music Bryan Ferry e il sassofonista Andy Mackay sono tornati a parlare dei retroscena legati all'uscita di Brian Eno dal gruppo negli anni Settanta. I due musicisti hanno rievocato le tensioni insorte durante la lavorazione del celebre album For Your Pleasure, attribuendo l'addio del tastierista e compositore a uno scontro di ego interno alla band. Lo riferisce OndaRock.",
+   "more": [
+    "I Roxy Music sono stati un gruppo fondamentale per lo sviluppo del glam rock e del synth-pop degli anni Settanta. L'abbandono di Brian Eno nel 1973 dopo il secondo album portò il musicista a intraprendere una brillante carriera da solista e produttore, influenzando la storia della musica ambient e d'avanguardia."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/roxy-music-addio-brian-eno-questione-di-ego-intervista-mojo/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T14:37+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z6c649dee",
+   "sez": "mondo",
+   "titolo": "Israele: Eizenkot e Liberman fiduciosi sulla formazione di un governo stabile",
+   "orig": "Eizenkot-Liberman, 'piena fiducia nella possibilità di formare un governo stabile'",
+   "lead": "I leader politici israeliani Gadi Eizenkot e Avigdor Liberman hanno espresso piena fiducia nella possibilità di formare una coalizione di governo solida e stabile in Israele. Le dichiarazioni giungono alla vigilia della seduta inaugurale della nuova legislatura del Parlamento israeliano, la Knesset, prevista per martedì alle ore 16:00 locali. Lo riferisce ANSA.",
+   "more": [
+    "Il sistema politico israeliano è basato su una proporzionale pura che richiede complessi negoziati di coalizione tra molteplici partiti per raggiungere la maggioranza di 61 seggi alla Knesset. La stabilità dell'esecutivo dipende dalla capacità dei leader di concordare un programma comune su difesa ed economia."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/09/media-eisenkot-incontrera-oggi-liberman-sul-tavolo-divergenze-e-veti_4355b4f7-d034-4d5e-86b8-8ac0736ffdf7.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T16:22+01:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zf799fcad",
+   "sez": "ambiente",
+   "titolo": "Conservazione della natura: le tecnologie digitali e l'IA aprono nuove possibilità",
+   "orig": "‘Digital advances are reshaping nature conservation’ say experts",
+   "lead": "Secondo un nuovo rapporto redatto da esperti del settore, le innovazioni digitali e il rapido sviluppo dell'intelligenza artificiale stanno trasformando le metodologie per la tutela della biodiversità. L'impiego di strumenti tecnologici avanzati offre nuove opportunità operative nella corsa per la salvaguardia degli ecosistemi e delle specie a rischio di estinzione. Lo riferisce Positive News.",
+   "more": [
+    "L'applicazione dell'intelligenza artificiale e dei sensori remoti nella conservazione ambientale permette di tracciare la fauna selvatica, monitorare la deforestazione in tempo reale e contrastare il bracconaggio. Tali tecnologie migliorano l'efficienza della gestione dei parchi naturali e delle riserve protette in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Positive News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.positive.news/environment/digital-advances-are-reshaping-nature-conservation-say-experts/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-09T13:44+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "good": true,
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z3d21dc78",
+   "sez": "cucina",
+   "titolo": "Gastronomia a Vienna: la cucina vegetale e la nuova identità culinaria della capitale",
+   "orig": "Vienna verso il futuro: non solo würstel e costoletta",
+   "lead": "In occasione della Vienna Food Week, un viaggio gastronomico nella capitale austriaca rivela l'evoluzione dell'offerta culinaria locale oltre i tradizionali würstel e cotolette. Dai bistrot alle osterie fino ai ristoranti stellati, emerge una forte tendenza verso la cucina vegetale e la produzione di tofu fresco, affiancata da proposte a base di pesce e interpretazioni fusion. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "Vienna vanta una lunga tradizione gastronomica legata alla cucina mitteleuropea, famosa per i piatti a base di carne e la pasticceria classica. Negli ultimi anni, lo sviluppo di stili di vita sostenibili ha spinto gli chef locali a innovare i menù tradizionali valorizzando gli ingredienti vegetali di provenienza locale."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/vienna-verso-il-futuro-non-solo-wurstel-e-costoletta/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T15:00+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z74b47f96",
+   "sez": "tech",
+   "titolo": "Attacchi informatici ai sistemi di refrigerazione del sangue in Francia: sospetti sull'Iran",
+   "orig": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+   "lead": "Nel mese di novembre, un'ondata di attacchi cibernetici contro i fornitori di sistemi di monitoraggio della temperatura ha colpito le celle frigorifere dell'Ente Francese del Sangue (EFS) e diverse strutture di refrigerazione in Francia ed Europa. Gli attacchi hanno innalzato le soglie di temperatura e sbrinamento a livelli molto elevati in tre siti di preparazione o distribuzione. Secondo fonti vicine alla vicenda, le autorità francesi sospettano che dietro le intrusioni informatiche ci siano hacker sostenuti dallo Stato iraniano.",
+   "more": [
+    "La catena del freddo è fondamentale per la conservazione di elementi biologici come il sangue e il plasma sanguigno, che richiedono temperature costantemente controllate per evitare la degradazione delle componenti ematiche. Attacchi informatici alle infrastrutture critiche sanitarie rappresentano una crescente minaccia per la sicurezza nazionale e la salute pubblica dei Paesi coinvolti."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-04T16:26+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/french-officials-suspect-iran-is-behind-refrigerator-hacks-sources-say",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-09T23:58+08:00"
+    },
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101383.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T08:21-08:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z5e1a52f0",
+   "sez": "spazio",
+   "titolo": "Rilevate tracce di cloruro di idrogeno su Marte: possibile segnale di vulcani attivi",
+   "orig": "What a bad smell on Mars tells us about its volcanoes",
+   "lead": "La sonda ExoMars Trace Gas Orbiter dell'Agenzia Spaziale Europea ha individuato piccolissime quantità di cloruro di idrogeno nell'atmosfera di Marte. La presenza di questo gas acido, che proviene da sotto la superficie del pianeta, suggerisce la possibile presenza di magma in movimento e di un'attività vulcanica ancora in corso sul Pianeta Rosso. La scoperta apre nuovi interrogativi sulla possibilità che Marte possa ospitare forme di vita o processi geologici attivi.",
+   "more": [
+    "Per lungo tempo Marte è stato considerato un pianeta geologicamente inattivo, con vulcani estinti da miliardi di anni come il Monte Olimpo. L'eventuale conferma di magma sotterraneo attivo cambierebbe la comprensione dell'evoluzione termica del pianeta e delle sue risorse volatili, elementi chiave per comprendere la potenziale abitabilità del Pianeta Rosso."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/articles/c54g11kl0g4po",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T15:00+00:00"
+    },
+    {
+     "n": "Sky & Telescope",
+     "p": "US",
+     "c": "Milwaukee",
+     "u": "https://skyandtelescope.org/astronomy-news/noxious-smoke-hints-at-active-volcanoes-on-mars/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T13:00+00:00"
+    },
+    {
+     "n": "EarthSky",
+     "p": "US",
+     "c": "Austin",
+     "u": "https://earthsky.org/space/active-volcanoes-on-mars-hydrogen-chloride-trace-gas-orbiter/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T13:00+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z5d7ecc1e",
+   "sez": "sport",
+   "titolo": "Basket 3x3 ai Giochi Olimpici della Gioventù di Dakar 2026: bronzo femminile per il Senegal",
+   "orig": "Basket 3×3 chez les filles : le Sénégal médaillé de bronze après sa victoire contre l’Egypte",
+   "lead": "Ai Giochi Olimpici della Gioventù di Dakar 2026, la nazionale femminile del Senegal ha conquistato la medaglia di bronzo nel torneo di basket 3x3 superando l'Egitto per 18 a 17 grazie a un canestro negli ultimi secondi. Sul fronte maschile, la selezione senegalese ha battuto la Germania 16 a 15 in semifinale il 9 novembre 2026, assicurandosi un posto in finale per la medaglia d'oro. L'8 novembre si è registrata anche l'eliminazione della centrafricana Divine Banzato nelle batterie dell'800 metri femminile.",
+   "more": [
+    "Il basket 3x3 è una variante dinamica della pallacanestro tradizionale giocata su metà campo con un solo canestro e tre giocatori per squadra. Diventato disciplina olimpica ufficiale, questo sport fa parte del programma dei Giochi Olimpici della Gioventù, un evento multidisciplinare dedicato ai giovani atleti di tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/basket-3x3-chez-les-filles-le-senegal-medaille-de-bronze-apres-sz-victoire-contre-legypte/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-09T15:52+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/joj-dakar-2026-basket-3x3-les-lioncelles-renversent-legypte-et-decrochent-le-bronze-au-buzzer_n_999003122.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-09T15:46+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/joj-dakar-2026-djireye-clotilde-coly-salue-un-pari-ambitieux-releve-par-le-senegal_n_999003118.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-09T15:14+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/dakar2026/joj-dakar-2026-basket-3x3-les-lionceaux-arrachent-la-finale-medaille-assuree/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-09T13:21+00:00"
+    },
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/108318-joj-dakar-2026-divine-banzato-manque-la-finale-du-800-metres-feminin",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-11-09T11:04+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z90bd8ee1",
+   "sez": "salute",
+   "titolo": "Il Brasile stanzia fondi contro il morbillo in Amazzonia, mentre Capo Verde si prepara all'Ebola",
+   "orig": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas",
+   "lead": "Il Ministero della Salute del Brasile ha autorizzato il trasferimento di 524 mila real ai comuni di Atalaia do Norte, Benjamin Constant e Tabatinga, nello Stato dell'Amazonas, per rafforzare la vaccinazione e contenere la trasmissione del morbillo. Nel frattempo, a Capo Verde, l'Ospedale Agostinho Neto ha avviato la formazione del personale sanitario per gestire eventuali casi di Ebola e rafforzare la sorveglianza epidemiologica nel Paese.",
+   "more": [
+    "Il morbillo è una malattia virale altamente contagiosa che si previene efficacemente tramite la vaccinazione. In zone isolate come quelle amazzoniche, le campagne vaccinali tempestive sono essenziali per impedire focolai epidemici. Allo stesso modo, la preparazione preventiva contro virus ad alta letalità come l'Ebola permette ai sistemi sanitari di reagire rapidamente ed evitare contagi di massa."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/saude-repassa-r-524-mil-para-conter-casos-de-sarampo-no-amazonas",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-09T09:35-03:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/11/09/huan-prepara-profissionais-de-saude-para-eventual-ocorrencia-de-casos-de-ebola/105457",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-09T11:27+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zb312ff19",
+   "sez": "economia",
+   "titolo": "Difficoltà per il piano di salvataggio di Risanamento e dubbi sul progetto Santa Giulia a Milano",
+   "orig": "Risanamento, trattative in salita per il progetto di salvataggio. Incognita sul futuro di Santa Giulia",
+   "lead": "La società immobiliare Risanamento sta affrontando trattative complesse riguardo alle misure urgenti individuate dal consiglio di amministrazione il 14 ottobre per ripianare le perdite finanziarie. Lo stallo sui negoziati per il salvataggio aziendale lascia incertezze sugli sviluppi futuri del grande progetto di riqualificazione urbana del quartiere Milano Santa Giulia. Nel frattempo, in Bolivia, la città di Santa Cruz ha ricevuto dai giovani locali una serie di proposte concrete destinate alla pianificazione territoriale e allo sviluppo sostenibile urbano.",
+   "more": [
+    "Il progetto di Milano Santa Giulia rappresenta uno dei maggiori interventi di rigenerazione urbana in Italia, mirato alla riqualificazione di un'ampia ex area industriale. I complessi processi finanziari e le ristrutturazioni societarie delle imprese immobiliari impegnate nei cantieri possono tuttavia rallentare o mettere a rischio l'avanzamento dei lavori previsti."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore – Casa24",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/risanamento-trattative-salita-il-progetto-salvataggio-incognita-futuro-santa-giulia-AJ6Dgc5B",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-05T09:53+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/innovacion-educativa/jovenes-ponen-manos-futuro-santa-cruz-recibe-propuestas-convertirse-ciudad-sostenible/20261109103802998869.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-09T10:38-04:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z469861a8",
+   "sez": "cultura",
+   "titolo": "In Estonia una mostra sul design giapponese e la sua influenza sulla vita quotidiana occidentale",
+   "orig": "Design historian: Japanese design is part of our lives",
+   "lead": "Presso il Museo Estone di Arte Applicata e Design di Tallinn è stata allestita la mostra intitolata \"Japanese Design Today\", un percorso espositivo che analizza i cambiamenti della società, della cultura e della vita quotidiana in Giappone attraverso la progettazione industriale. Come ha spiegato la direttrice del museo e storica del design Kai Lobjakas, molti aspetti dello stile di vita del mondo occidentale affondano le proprie radici nella cultura nipponica. Lo riferisce ERR News.",
+   "more": [
+    "Il design giapponese è noto a livello internazionale per la capacità di coniugare essenzialità estetica, funzionalità e innovazione tecnologica. Nel corso del Novecento e del nuovo millennio, l'oggettistica e l'arredamento d'ispirazione nipponica hanno influenzato profondamente il gusto e le abitudini di consumo nei Paesi occidentali."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610190583/design-historian-japanese-design-is-part-of-our-lives",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-09T17:15+02:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z09f6b4d8",
+   "sez": "sport",
+   "titolo": "L'atleta Josh Kerr si racconta agli studi di BBC Newsround dopo i suoi successi",
+   "orig": "Meet world record-breaking runner Josh Kerr",
+   "lead": "Il corridore britannico Josh Kerr, considerato uno degli atleti più veloci al mondo nei mezzafondi, ha stabilito un nuovo record mondiale durante la stagione estiva. In un'intervista rilasciata negli studi televisivi della trasmissione Newsround, il campione ha incontrato la giornalista Jenny per ripercorrere le tappe principali della sua carriera atletica ed illustrare i traguardi storici raggiunti sulle piste da corsa. Lo riferisce BBC Newsround.",
+   "more": [
+    "Le gare di mezzofondo richiedono un'elevata preparazione fisica combinata con tattiche di gara rigorose per gestire lo sforzo muscolare sulle distanze intermedie. L'ottenimento di record mondiali in queste discipline rappresenta il coronamento di un intenso lavoro di allenamento ad altissimo livello agonistico."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/videos/c689z9735e9lo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-09T12:11+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z4c58dc2e",
+   "sez": "mondo",
+   "titolo": "La storia della famiglia Samarsky, sopravvissuta all'occupazione russa nella città di Oleshky",
+   "orig": "Neighbors from hell — How one Oleshky family survived living next to Russian soldiers",
+   "lead": "Nella città occupata di Oleshky, in Ucraina, la famiglia composta da Serhii Samarsky, dalla moglie Olha Liutikova e dal figlio Vladyslav ha vissuto per lungo tempo a stretto contatto con le truppe russe che occupavano il centro abitato fin dalle prime fasi dell'invasione su vasta scala. La famiglia è rimasta bloccata nel proprio comune fino all'ottobre scorso, condividendo lo spazio quotidiano con i militari prima di riuscire ad abbandonare la zona dei combattimenti. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "Oleshky è una località dell'Ucraina meridionale situata sulla sponda sinistra del fiume Dnipro. Durante il conflitto in corso, i civili rimasti nei territori sotto controllo militare straniero hanno dovuto affrontare condizioni di vita estremamente precarie, interruzioni dei servizi essenziali e costanti pericoli legati alla vicinanza delle forze belligeranti."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/neighbors-from-hell-how-one-oleshky-family-survived-living-next-to-russian-soldiers/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-09T14:57+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z6af9bce9",
+   "sez": "ambiente",
+   "titolo": "Ripopolamento ittico nelle isole Summer in Scozia grazie al divieto di dragaggio del maerl",
+   "orig": "Fish Stocks Thrive Thanks to This Pink Seaweed and Locals Who Protected It",
+   "lead": "A dieci anni dall'entrata in vigore del divieto di dragaggio industriale delle capesante nelle isole Summer, in Scozia, le popolazioni di pesci sono tornate a prosperare. Il risultato positivo è dovuto all'impegno degli abitanti locali che hanno protetto i fondali marini ricoperti di maerl, una particolare alga rosa calcificata. L'eliminazione delle attività estrattive distruttive ha permesso la rigenerazione completa dell'ecosistema naturale marino. Lo riferisce Good News Network.",
+   "more": [
+    "Il maerl è un tipo di alga marina corallina rossa che forma letti calcarei sui fondali, creando un habitat vitale per la riproduzione, la crescita e il riparo di numerose specie di pesci e molluschi. La protezione di questi banchi di alghe è fondamentale per mantenere la biodiversità e sostenere la pesca locale a lungo termine."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/fish-stocks-thrive-thanks-to-this-strange-seaweed-and-locals-who-protected-it/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T15:49+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "good": true,
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z7fea0d7b",
+   "sez": "dibattito",
+   "titolo": "Caro affitti per i docenti fuori sede: la proposta di un fondo casa per la scuola",
+   "orig": "Caro vita docenti fuori sede, il CNDDU propone un contributo per gli affitti: fondo casa per il personale scolastico",
+   "lead": "In Italia il Coordinamento Nazionale Docenti dei Diritti Umani (CNDDU) propone l'istituzione di un fondo casa destinato a erogare contributi per l'affitto al personale scolastico impegnato fuori dalla propria regione di residenza. La richiesta nasce dall'aumento dei prezzi e dell'inflazione che penalizza il potere d'acquisto dei lavoratori fuori sede. Secondo un'indagine condotta da Confesercenti e Ipsos, oltre il 90 per cento delle famiglie italiane ha ridotto le spese ordinarie o modificato i consumi per far fronte al costo della vita. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Il fenomeno del caro affitti e dell'inflazione rappresenta una criticità sociale importante in Italia, influenzando in modo particolare i lavoratori della scuola trasferiti lontano da casa. Molti insegnanti precari e di ruolo affrontano spese rilevanti per l'alloggio nelle città di destinazione, riducendo l'attrattività dell'insegnamento e spingendo varie organizzazioni a chiedere misure pubbliche di sostegno economico."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/caro-vita-docenti-fuori-sede-il-cnddu-propone-un-contributo-per-gli-affitti-fondo-casa-per-il-personale-scolastico/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T15:39+00:00"
+    },
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/registro-elettronico-il-docente-non-e-obbligato-a-usare-lo-smartphone-personale-se-manca-un-computer-in-classe-pillole-di-question-time/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T15:57+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z04e8ed5e",
+   "sez": "musica",
+   "titolo": "Come nacque \"Swords of a Thousand Men\": il racconto della band Tenpole Tudor",
+   "orig": "‘A three-minute history of England written in the tour bus toilet’: how Tenpole Tudor made Swords of a Thousand Men",
+   "lead": "La celebre canzone \"Swords of a Thousand Men\" del gruppo musicale Tenpole Tudor fu composta all'interno della toilette del bus utilizzato dalla band durante una tournée di tre mesi. Il brano, descritto come un riassunto storico in tre minuti eseguito sul palco con abiti da cavaliere, nacque riadattando la progressione musicale del boogie-blues e prendendo ispirazione dal pezzo \"Spirit in the Sky\" di Norman Greenbaum. Lo riferisce The Guardian.",
+   "more": [
+    "\"Swords of a Thousand Men\", pubblicata nel 1981, è una delle tracce più note della scena punk-folk britannica dei primi anni Ottanta. L'opera si caratterizza per l'uso di sonorità energiche e testi teatrali legati alla storia ed al folclore medievale inglese, eseguiti dal frontman Edward Tudor-Pole."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/culture/2026/nov/09/tenpole-tudor-made-swords-of-a-thousand-men-king",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-09T14:13+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z5eb07a18",
+   "sez": "tech",
+   "titolo": "Attacco hacker da 6,3 miliardi di dollari a Binance mediante falsi colloqui di lavoro",
+   "orig": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+   "lead": "La piattaforma di criptovalute Binance ha rivelato che il maxi attacco informatico subito, con il furto di 6,3 miliardi di dollari nel novembre 2026, è iniziato contattando un ingegnere su un portale legittimo di ricerca lavoro e organizzando falsi colloqui con finti rappresentanti aziendali. Nonostante le smentite pubbliche di Pyongyang firmate da Kim Yo Jong, un ufficiale dei servizi segreti nordcoreani in Cina sostiene invece che la Corea del Nord sia direttamente responsabile dell'operazione.",
+   "more": [
+    "L'ingegneria sociale tramite falsi annunci di lavoro è una tattica sempre più diffusa tra i gruppi di hacker avanzati. Contattando dipendenti chiave di piattaforme finanziarie e tecnologiche tramite professionisti fasulli, gli aggressori riescono a installare malware nei sistemi interni delle aziende scavalcando le barriere di sicurezza informatica tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-03T16:19+00:00"
+    },
+    {
+     "n": "Daily NK",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.dailynk.com/english/north-korea-binance-hack-intelligence-officer/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-11-09T14:56+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z51cef491",
+   "sez": "sport",
+   "titolo": "La pugile Ramla Ali vince i titoli mondiali piuma junior tra le polemiche",
+   "orig": "British-Somali ‌‌‌‌boxer Ramla Ali defeats Mikiah Kreps for first ⁠⁠⁠⁠world title",
+   "lead": "La pugile britannico-somala Ramla Ali ha conquistato i suoi primi titoli mondiali di categoria piuma junior IBO e WBF battendo la statunitense Mikiah Kreps in un incontro tenutosi in Texas. La vittoria dell'atleta trentaseicenne è giunta tramite una decisione divisa dei giudici di gara che ha suscitato forti polemiche, dal momento che la pugile americana Kreps aveva messo a segno un numero maggiore di colpi nel corso del combattimento.",
+   "more": [
+    "La decisione divisa nella boxe si verifica quando i tre giudici a bordo ring non concordano sul vincitore, attribuendo il punteggio finale due a uno a favore di un atleta. Tale verdetto genera spesso accesi dibattiti tra appassionati e addetti ai lavori quando le statistiche dei colpi a segno evidenziano un andamento di gara differente."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/11/9/british-somali-boxer-ramla-ali-defeats-mikiah-kreps-for-first-%e2%81%a0%e2%81%a0world-title",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-09T13:59+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/2026/nov/09/ramla-ali-mikiah-kreps-controversial-split-decision-world-titles-boxing",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-09T06:20+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z38ed1a94",
+   "sez": "salute",
+   "titolo": "Partecipazione della Libia al Forum di cooperazione arabo-cinese sulla sanità al Cairo",
+   "orig": "Ministry of Health participates in Arab-China Cooperation Forum in the Health Sector - Cairo, November 8–9",
+   "lead": "Tra l'8 e il 9 novembre si è tenuta al Cairo la terza sessione del Forum di cooperazione arabo-cinese nel settore sanitario, a cui ha preso parte una delegazione del Ministero della Salute del Governo libico di Tripoli. Parallelamente, nel quadro della cooperazione sino-africana, rappresentanti della Sierra Leone si sono riuniti in Cina in occasione del quinstancesimo Forum dei Think Tank per discutere di solidarietà nel Sud globale e di futuro dello sviluppo sanitario e commerciale.",
+   "more": [
+    "Il Forum di cooperazione tra il mondo arabo, la Cina ed il continente africano rappresenta una piattaforma diplomatica mirata a rafforzare la collaborazione bilaterale nei campi dell'assistenza medica, della gestione delle emergenze sanitarie e dello sviluppo di infrastrutture ospedaliere. Questi incontri puntano ad agevolare il trasferimento di tecnologie sanitarie."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/11/ministry-of-health-participates-in-arab-china-cooperation-forum-in-the-health-sector-cairo-november-8-9/",
+     "angolo": "",
+     "atlas": "Libya",
+     "t": "2026-11-09T13:53+00:00"
+    },
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/diaspora/china-africa-cooperation-global-south-solidarity/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-11-09T11:11+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z3a8c7a78",
+   "sez": "economia",
+   "titolo": "Il Perù supera il Cile come quarta economia del Sudamerica secondo le proiezioni FMI",
+   "orig": "Chile dejará de ser la cuarta economía de Sudamérica en tamaño y será superado por Perú",
+   "lead": "Secondo le stime del Fondo Monetario Internazionale che si estendono fino al 2031, il Cile perderà la posizione di quarta maggiore economia del Sudamerica venendo sorpassato dal Perù. Nell'arco di diciannove anni, la crescita economica peruviana supererà quella cilena per diciassette volte. Il Cile si era attestato al quarto posto continentale nel 2013 a seguito della crisi venezuelana, posizionandosi alle spalle di Brasile, Argentina e Colombia.",
+   "more": [
+    "Il prodotto interno lordo rappresenta l'indicatore principale per misurare la dimensione economica complessiva di un Paese. Lo sviluppo costante delle esportazioni minerarie e agricole del Perù ha sostenuto ritmi di crescita sostenuti, permettendo al Paese di recuperare terreno rispetto ad economie tradizionalmente stabili nell'area sudamericana come quella del Cile."
+   ],
+   "fonti": [
+    {
+     "n": "La Tercera",
+     "p": "XX",
+     "c": "Santiago",
+     "u": "https://www.latercera.com/pulso/noticia/chile-dejara-de-ser-la-cuarta-economia-de-sudamerica-y-sera-superado-por-peru-en-tamano/",
+     "angolo": "",
+     "atlas": "Chile",
+     "t": "2026-11-07T10:00+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/luces/musica/31-minutos-abre-una-cuarta-fecha-en-peru-tras-exitos-de-ventas-ultimas-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-09T15:57+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z25106374",
+   "sez": "ingegneria",
+   "titolo": "Semplificazione dei pagamenti e connettività satellitare per lo sviluppo aziendale",
+   "orig": "How streamlining basic processes like bill pay can drive construction business growth",
+   "lead": "Secondo quanto analizzato da Construction Dive, l'ottimizzazione dei processi gestionali di base, come la semplificazione dei pagamenti delle fatture, consente alle imprese edili di ridurre i costi operativi, risparmiare tempo e favorire la crescita del business. Parallelamente, un nuovo rapporto diffuso dalla Computer & Communications Industry Association evidenzia come l'espansione della connettività via satellite permetta di ampliare l'accesso a internet e promuovere lo sviluppo economico globale.",
+   "more": [
+    "La digitalizzazione dei processi contabili ed amministrativi nelle imprese di costruzioni consente di migliorare la gestione dei flussi di cassa ed evitare ritardi nei cantieri. Al contempo, la disponibilità di connessioni satellitari ad alta velocità garantisce la continuità operativa e il coordinamento delle attività anche nelle infrastrutture e nelle aree geografiche più isolate."
+   ],
+   "fonti": [
+    {
+     "n": "Construction Dive",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.constructiondive.com/spons/how-streamlining-basic-processes-like-bill-pay-can-drive-construction-busin/872833/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T05:00-05:00"
+    },
+    {
+     "n": "SpaceNews",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T14:00+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z5235c2d5",
+   "sez": "cultura",
+   "titolo": "La Moldavia cancella dal registro otto imprese statali inattive, tra cui Gaudeamus-Cinema",
+   "orig": "Eight inactive state-owned enterprises, including Gaudeamus-Cinema, are to be struck off the register",
+   "lead": "Il governo della Moldavia ha disposto la cancellazione formale dal Registro di Stato delle Persone Giuridiche di otto imprese statali che non risultano più in attività sul territorio. Tra le entità coinvolte dal provvedimento figurano la società Bioreg, la rivista Revista Sud-Est, la struttura Gaudeamus-Cinema e il centro Studioul Arta-Cinema. Tutte le strutture inattive verranno rimosse dagli elenchi ufficiali delle società pubbliche. Lo riferisce IPN (inglese).",
+   "more": [
+    "La dismissione e la cancellazione di imprese pubbliche inattive è una procedura amministrativa utilizzata dalle istituzioni statali per semplificare la burocrazia e riordinare i registri ufficiali. Quando riguarda enti attivi nei settori dell'arte e del cinema, segna spesso il termine formale di progetti culturali pubblici avviati in epoche precedenti."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/eight-inactive-state-owned-enterprises-including-gaudeamus-cinema-are-to-be-struck-off-the-register/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-09T15:46+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z8d9c130d",
+   "sez": "ambiente",
+   "titolo": "Le lucciole tornano nel Regno Unito grazie alle larve allevate in un capanno da giardino",
+   "orig": "Glowworms Shine Again in the UK from Larvae Reared Pro Bono in Garden Shed",
+   "lead": "Nel North Yorkshire, nel Regno Unito, le lucciole sono tornate a splendere all'interno di una riserva naturale dove non venivano avvistate da oltre un secolo. Il traguardo è stato raggiunto grazie all'impegno volontario dell'appassionato di natura Peter Cooper, che nel tempo libero ha allevato le larve degli insetti in un capanno da giardino prima di liberarle nell'area protetta. Lo riferisce Good News Network.",
+   "more": [
+    "Le lucciole sono insetti famosi per la bioluminescenza, la capacità di emettere luce per attirare i partner durante l'accoppiamento. Nel corso degli ultimi decenni, le popolazioni di questi coleotteri hanno subito forti cali in Europa a causa della perdita dell'habitat naturale, del consumo del suolo e dell'inquinamento luminoso nelle aree rurali e urbane."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T12:30+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "good": true,
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z5d2f3bfd",
+   "sez": "spazio",
+   "titolo": "Pioggia di meteore delle Leonid e pianeti visibili nel cielo notturno di novembre",
+   "orig": "One of the year's most prolific meteor showers visible in the night sky throughout November",
+   "lead": "Durante tutto il mese di novembre, lo sciame meteorico delle Leonid, celebre per la spiccata luminosità e la velocità delle sue scie, solca il cielo notturno ed è visibile da diverse regioni del pianeta. Le guide di osservazione astronomica evidenziano come il mese di novembre rappresenti un momento favorevole sia per ammirare questa e altre piogge di meteore come le Tauridi, sia per individuare nel firmamento pianeti quali Venere, Giove, Marte e Saturno.",
+   "more": [
+    "Lo sciame delle Leonid si verifica annualmente quando la Terra attraversa la scia di detriti lasciata dalla cometa Tempel-Tuttle. Entrando a contatto con l'atmosfera terrestre ad altissima velocità, i frammenti di roccia si surriscaldano e bruciano, generando le caratteristiche scie luminose note comunemente come stelle cadenti."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-07T02:03+00:00"
+    },
+    {
+     "n": "EarthSky",
+     "p": "US",
+     "c": "Austin",
+     "u": "https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T12:28+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z59c2148e",
+   "sez": "economia",
+   "titolo": "Manovra economica in Italia: la Corte dei Conti solleva perplessità su Irpef e pensioni, via libera dall'Ecofin",
+   "orig": "Manovra, Corte Conti: «Così Irpef diverge da progressività, è categoriale»",
+   "lead": "La Corte dei Conti ha analizzato la manovra finanziaria del governo italiano, evidenziando che le modifiche all'Irpef rischiano di allontanarsi dal principio di progressività fiscale e segnalando incertezze sulla rivalutazione delle pensioni. La magistratura contabile ha sottolineato che il 70% delle entrate previste per il 2027 ha natura temporanea o deriva da anticipi. Nel contempo, il Consiglio Ecofin dell'Unione Europea ha dato il via libera all'attivazione della clausola di salvaguardia per l'Italia, concedendo circa 29 miliardi di euro di flessibilità sui conti per la difesa e l'energia.",
+   "more": [
+    "La progressività fiscale è un principio costituzionale italiano in base al quale l'aliquota d'imposta cresce all'aumentare del reddito disponibile. Le osservazioni della Corte dei Conti servono a valutare la sostenibilità finanziaria delle leggi di bilancio, mentre le clausole di flessibilità concesse dall'Unione Europea permettono agli Stati membri di scorporare specifiche spese strategiche dal calcolo del deficit finale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/manovra-corte-conti-cosi-irpef-diverge-progressivita-e-categoriale-AJbijPAC",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T14:57+00:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/09/la-corte-dei-conti-smaschera-la-manovra-elettorale-il-70-delle-entrate-e-temporaneo-e-gran-parte-delle-misure-vale-solo-per-il-2027/8565696/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T15:06+00:00"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/news/flessibilita_italia_ok_ue_cosa_significa-9879185.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T15:36+01:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/11/09/news/flessibilita_via_libera_italia_29_miliardi-425710982/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T16:45+01:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/osserva-italia/trend/2026/11/09/news/conti_entrate_e_uscite_sotto_controllo_per_sgombrare_la_mente-425710391/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T13:04+01:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z42d35db7",
+   "sez": "salute",
+   "titolo": "Nuove norme negli Stati Uniti per prevenire le armi biologiche e restrizioni per i viaggiatori",
+   "orig": "STAT+: A new rule to prevent the spread of bioweapons",
+   "lead": "Negli Stati Uniti l'amministrazione guidata da Donald Trump ha introdotto nuove linee guida dirette a impedire la proliferazione di armi biologiche, un rischio accentuato dall'uso dell'intelligenza artificiale che facilita la creazione di nuovi farmaci ma anche di agenti patogeni pericolosi. Parallelamente, una nuova norma stabilita dai Centri per il controllo e la prevenzione delle malattie (CDC) potrebbe impedire l'imbarco sui voli diretti negli Stati Uniti a passeggeri, sia statunitensi che stranieri, che non rispettino i requisiti sanitari.",
+   "more": [
+    "La biosegurezza nell'era dell'intelligenza artificiale rappresenta una sfida prioritaria per i governi mondiali. I modelli computazionali avanzati capaci di sintetizzare molecole e sequenze genetiche a fini terapeutici possono infatti essere distorti per progettare tossine o virus letali. Allo stesso tempo, i controlli sanitari sulle tratte aeree internazionali mirano a prevenire la diffusione globale di epidemie."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/11/09/health-news-new-rule-to-prevent-bioweapon-spread/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T12:55+00:00"
+    },
+    {
+     "n": "Matador Network",
+     "p": "US",
+     "c": "Denver",
+     "u": "https://matadornetwork.com/read/new-cdc-rule-nov-2026/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-03T22:57+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z5fad509e",
+   "sez": "cultura",
+   "titolo": "Rimosso dai negozi in Russia un romanzo sulle donne del Daghestan dopo le proteste",
+   "orig": "Novel about Daghestani women disappears from shelves in Russia following complaints",
+   "lead": "Un romanzo incentrato sulle figure femminili della società del Daghestan è scomparso dagli scaffali delle librerie e dai punti vendita in Russia a seguito di una serie di lamentele e contestazioni formali. In precedenza, la scrittrice daghestana Miasat Muslimova aveva accusato pubblicamente l'autore dell'opera di incitamento all'odio interetnico nelle sue descrizioni della vita locale. Il ritiro del volume segue le polemiche sollevate dalle istituzioni e dagli esponenti culturali regionali. Lo riferisce OC Media.",
+   "more": [
+    "Nel contesto della Federazione Russa, le controversie legate alle rappresentazioni della cultura e delle tradizioni delle repubbliche caucasiche scatenano spesso accesi dibattiti. Le accuse di incitamento all'odio interetnico possono portare all'intervento delle autorità di vigilanza ed alla conseguente rimozione dei libri dalla distribuzione commerciale."
+   ],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/novel-about-daghestani-women-disappears-from-shelves-in-russia-following-complaints/",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-11-09T14:23+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z6e4aeecd",
+   "sez": "economia",
+   "titolo": "La principale banca delle Maldive blocca i pagamenti dei turisti russi",
+   "orig": "Maldives’ largest bank stops processing payments for Russian tourists, prompting hotels to turn them away",
+   "lead": "Dalla fine di ottobre, la Bank of Maldives ha smesso di elaborare le transazioni finanziarie relative ai soggiorni dei turisti russi sulle isole dell'arcipelago, costringendo numerose strutture alberghiere a respingere le prenotazioni degli ospiti. Le agenzie di viaggio e i tour operator interessati, che stimano il volume dei pagamenti rifiutati o in ritardo in circa 2 milioni di dollari a partire dal 18 ottobre, si sono rivolti al governo per richiedere misure di sostegno economico.",
+   "more": [
+    "Le sanzioni finanziarie internazionali e le restrizioni sui sistemi bancari globali imposte a seguito del conflitto in Ucraina continuano a influenzare i flussi di pagamento dei cittadini russi all'estero. Il blocco delle operazioni bancarie crea notevoli ostacoli sia per i viaggiatori sia per il settore turistico dei Paesi ospitanti."
+   ],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/09/maldives-largest-bank-stops-processing-payments-for-russian-tourists-prompting-hotels-to-turn-them-away",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-09T18:42+03:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/09/tour-companies-ask-for-government-support-after-largest-bank-in-maldives-rejects-russian-payments-a94211",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-09T18:21+03:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zc5873b64",
+   "sez": "economia",
+   "titolo": "Funzionario pubblico colpevole di frode per aver svolto di nascosto cinque stipendi a tempo pieno",
+   "orig": "Civil servant who juggled five jobs found guilty of fraud",
+   "lead": "Nel Regno Unito, il funzionario pubblico Kashim Chowdhury è stato dichiarato colpevole del reato di frode per aver svolto in modo segreto cinque distinti impieghi a tempo pieno all'interno del settore pubblico. L'uomo percepiva contemporaneamente gli stipendi completi relativi a ciascun ruolo lavorativo, mantenendo le diverse amministrazioni statali all'oscuro delle sue molteplici occupazioni professionali gestite in parallelo. Lo riferisce BBC News.",
+   "more": [
+    "Nei contratti del pubblico impiego la presenza di clausole di esclusività impedisce ai dipendenti di svolgere altre attività lavorative non autorizzate, specialmente a tempo pieno. Casi di plurioccupazione fraudolenta emergono in particolare con il lavoro da remoto, sollevando controlli sulle verifiche della presenza e delle prestazioni lavorative effettive."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-09T15:33+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z5cfd4164",
+   "sez": "economia",
+   "titolo": "Lo stretto di Hormuz resta una leva strategica ed economica per l'Iran",
+   "orig": "Strait of Hormuz still a source of leverage for Iran",
+   "lead": "Gli attacchi condotti nello stretto di Hormuz continuano a mettere a rischio l'incolumità degli equipaggi delle navi mercantili e a spingere al rialzo i costi del trasporto marittimo dell'energia. La capacità dell'Iran di mantenere la pressione nell'area e i limiti dell'azione protettiva degli Stati Uniti influiscono sul volume degli scambi commerciali che possono proseguire nel braccio di mare e sui costi finali delle merci. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Lo stretto di Hormuz è un punto di snodo marittimo fondamentale per il commercio petrolifero globale, attraverso il quale transita una quota rilevante del petrolio greggio mondiale. Qualsiasi tensione militare o minaccia alla navigazione si traduce immediatamente in aumenti dei premi assicurativi dei noli e dei prezzi delle risorse energetiche sui mercati internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-09T14:49+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "za922e832",
+   "sez": "economia",
+   "titolo": "Unione Europea verso la nomina del nuovo presidente della Bce entro fine anno",
+   "orig": "EU aims to pick new ECB chief by year-end",
+   "lead": "L'Unione Europea prevede di selezionare il nuovo presidente della Banca Centrale Europea entro la fine di dicembre. La decisione di Christine Lagarde di lasciare l'incarico in anticipo rispetto alla scadenza naturale ha accelerato le tempistiche per i Ventisette, costringendo le istituzioni comunitarie a un calendario particolarmente serrato per raggiungere un accordo sul successore alla guida dell'istituto di Francoforte. Lo riferisce Deutsche Welle.",
+   "more": [
+    "La Banca Centrale Europea è l'istituzione responsabile della politica monetaria dei Paesi dell'Unione Europea che hanno adottato l'euro. Il suo compito principale è mantenere la stabilità dei prezzi, controllando l'inflazione attraverso la gestione dei tassi di interesse e la regolamentazione dell'offerta monetaria."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/eu-aims-to-pick-new-ecb-chief-by-year-end/a-79898169",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-09T11:55+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z9f4df244",
+   "sez": "mondo",
+   "titolo": "Nithya Raman eletta sindaca di Los Angeles sostenuta dai socialisti democratici",
+   "orig": "Los Angeles mayoral race points to growing sway of democratic socialists",
+   "lead": "A Los Angeles la candidata legata ai socialisti democratici Nithya Raman ha vinto la corsa per la guida della seconda città più popolosa degli Stati Uniti. L'esito elettorale mette in luce il crescente peso di questa corrente politica nel Paese. Raman ha costruito il proprio successo intercettando la forte insoddisfazione dei cittadini nei confronti dell'attuale gestione politica ed economica locale, riuscendo a imporsi come nuova figura di riferimento alla guida della metropoli californiana. Lo riferisce Al Jazeera.",
+   "more": [
+    "I Democratic Socialists of America rappresentano una corrente radicata nell'ala progressista della politica statunitense. Pur operando spesso all'interno del Partito Democratico, promuovono riforme strutturali orientate a una maggiore redistribuzione economica, ai diritti sul lavoro, all'accesso alla casa e al rafforzamento dello stato sociale municipale e federale."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-09T15:05+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z2e34dc66",
+   "sez": "economia",
+   "titolo": "Estonia, la commissione Finanze esamina gli emendamenti al bilancio 2027",
+   "orig": "Finance committee reviews half of proposed state budget amendments",
+   "lead": "I membri della commissione Finanze del Riigikogu, il parlamento estone, hanno analizzato circa la metà degli emendamenti presentati al disegno di legge sul bilancio statale per il 2027 durante una riunione svolta a Tallinn. La discussione parlamentare punta a valutare le proposte di modifica avanzate dai deputati sul testo economico prima del passaggio nelle successive fasi legislative e del voto finale da parte dell'assemblea. Lo riferisce ERR News.",
+   "more": [
+    "Il Riigikogu è il parlamento monocamerale dell'Estonia e conta 101 deputati. Tra le sue funzioni principali vi è l'approvazione annuale del bilancio dello Stato, un processo che comporta l'esame analitico delle entrate previste e delle allocazioni di spesa pubblica da parte delle commissioni competenti."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610190673/finance-committee-reviews-half-of-proposed-state-budget-amendments",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-09T16:40+02:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z3aaa9ad2",
+   "sez": "mondo",
+   "titolo": "Estonia, a Pärnu un maestro aiuta gli alunni ucraini separati dai padri a causa della guerra",
+   "orig": "Single dad teaching Ukrainian kids says Father's Day a tough subject",
+   "lead": "A Pärnu, in Estonia, un insegnante e genitore single racconta la complessità di affrontare ricorrenze come la festa del papà con gli allievi ucraini costretti a vivere lontani dai loro genitori per via del conflitto in corso. Il docente spiega come la propria esperienza personale familiare lo aiuti a comprendere meglio le difficoltà emotive e il disagio psicologico vissuti dai ragazzi rifugiati, privati della figura paterna rimasta nel Paese d'origine. Lo riferisce ERR News.",
+   "more": [
+    "Dall'inizio dell'invasione russa dell'Ucraina, milioni di cittadini ucraini, in gran parte donne e minori, hanno trovato rifugio in vari Paesi dell'Unione Europea. L'integrazione scolastica e il supporto psicologico nei sistemi educativi locali rappresentano una delle principali sfide per le comunità ospitanti."
+   ],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610190527/single-dad-teaching-ukrainian-kids-says-father-s-day-a-tough-subject",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-09T16:31+02:00"
+    },
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/us/a-north-carolina-father-sought-3000-or-extra-custody-days-before-agreeing-to-let-his-ex-wife-take-their-two-children-abroad-an-appeals-court-upheld-a-procedure-allowing-disputed-travel-requests-to-be-reviewed/articleshow/135683847.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-09T20:14+05:30"
+    },
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/travel-gifts-under-50-dollars",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-08T13:01+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z6998bf92",
+   "sez": "mondo",
+   "titolo": "Spagna, Feijóo promette il ripristino della presenza dello Stato centrale nei Paesi Baschi e in Catalogna",
+   "orig": "El PP recuperará la presencia del Estado en el País Vasco y Cataluña en seis meses: funcionarios, comisarías, Seguridad Social...",
+   "lead": "Il presidente del Partito Popolare spagnolo Alberto Núñez Feijóo ha annunciato un piano per ristabilire entro sei mesi la presenza dell'amministrazione centrale dello Stato nei Paesi Baschi e in Catalogna. La proposta comprende un'approfondita revisione contabile e il rafforzamento delle delegazioni governative, oltre a una maggiore operatività per i dipendenti pubblici, i presidi della sicurezza sociale e i commissariati di polizia all'interno delle due comunità autonome. Lo riferisce El Mundo.",
+   "more": [
+    "In Spagna il sistema delle comunità autonome garantisce ampi margini di autogoverno territoriale a regioni come Catalogna e Paesi Baschi. La gestione di sanità, istruzione e in parte dell'ordine pubblico è devoluta agli esecutivi regionali, alimentando da tempo il confronto politico sul ruolo dell'amministrazione statale."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af06581e85ece11488b4573.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-08T22:43+01:00"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/russell-brand-e-condenado-a-dez-anos-de-prisao-pelos-crimes-de-estupro-e-assedio.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-09T12:36-03:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/entretenimiento/gente/el-actor-russell-brand-es-condenado-a-10-anos-y-seis-meses-por-violacion-y-agresion-sexual-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-09T15:30+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z254a366a",
+   "sez": "sport",
+   "titolo": "Bayern Monaco, Uli Hoeness esprime dubbi sul ritorno al massimo livello di Jamal Musiala",
+   "orig": "Bayern's Hoeness unsure whether Musiala can reach top form again",
+   "lead": "Il presidente onorario del Bayern Monaco Uli Hoeness ha manifestato incertezza sulla possibilità che il calciatore Jamal Musiala possa tornare ai suoi massimi livelli agonistici. Il talento del club bavarese ha disputato pochissime gare in questo avvio di stagione a causa di un delicato infortunio e di problemi fisici complessi da superare. Le dichiarazioni del dirigente testimoniano la forte preoccupazione presente all'interno della società tedesca in merito alle prospettive di pieno recupero del giovane attaccante.",
+   "more": [
+    "Jamal Musiala è considerato uno dei talenti più promettenti del calcio internazionale contemporaneo, elemento chiave per il Bayern Monaco e per la nazionale tedesca grazie alle sue qualità tecniche, alla visione di gioco e alla capacità di saltare l'avversario negli spazi stretti."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/bayerns-hoeness-unsure-whether-musiala-can-reach-top-form-again-6536301",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-09T21:12+08:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/sport/musiala-hoeness-aussagen-br-li.3577358",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-09T14:42+00:00"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/calcio/musiala_malattia_difficile_da_curare_carriera_a_rischio_cosa_succede-9878907.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T12:55+01:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z997bfbdc",
+   "sez": "economia",
+   "titolo": "La multinazionale Trafigura smentisce forniture di benzina alla Bolivia dal 2022",
+   "orig": "Trafigura afirma que no vende gasolina a Bolivia desde 2022 y niega vínculos con combustible contaminado",
+   "lead": "Il colosso del commercio di materie prime Trafigura ha dichiarato di non vendere benzina alla Bolivia dal 2022, respingendo le accuse relative a partite di carburante contaminato e a presunti sovrapprezzi. Edmundo Vidal, direttore della società per l'America Latina, ha chiarito che l'azienda possiede accordi vigenti con la compagnia statale boliviana YPFB esclusivamente per la fornitura di greggio e gasolio, allontanando ogni coinvolgimento nelle recenti anomalie riscontrate sul mercato locale dei carburanti. Lo riferisce Brújula Digital.",
+   "more": [
+    "Trafigura è una delle principali società multinazionali indipendenti di intermediazione di materie prime al mondo, specializzata nel commercio e nella logistica di prodotti petroliferi, metalli e minerali. YPFB è invece l'ente petrolifero pubblico incaricato della gestione delle risorse energetiche in Bolivia."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/economia/trafigura-afirma-que-no-vende-gasolina-a-bolivia-desde-2022-y-niega-vinculos-con-combustible-contaminado",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-09T10:36-04:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/economia/bolivia-exporta-us-10-350-millones-septiembre-ibce-ve-posible-igualar-record-2022_1794236844",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-09T15:07+00:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/deportes/futbol/ecuador-vs-bolivia-en-el-estadio-monumental-entradas-desde-1725-para-ver-a-la-tri-en-guayaquil-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-09T15:20+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z643b8cdb",
+   "sez": "prima",
+   "titolo": "Buenos Aires, un palco monumentale di otto piani per la messa del Papa a Palermo",
+   "orig": "Un escenario de ocho pisos de altura y tres símbolos religiosos: la monumental obra que recibió al Papa en Palermo",
+   "lead": "A Buenos Aires una struttura imponente alta quasi ventiquattro metri e distribuita su otto livelli è stata eretta nel quartiere di Palermo per accogliere papa Leone XIV, che ha celebrato la funzione davanti a una folla di oltre due milioni di fedeli. Il monumentale apparato scenico, ideato da un sacerdote e arricchito da tre simboli centrali della cristianità, è rientrato in un programma organizzativo complessivo da 5,6 milioni di dollari. Lo riferisce Clarín.",
+   "more": [
+    "Le visite pastorali pontificie nelle grandi capitali comportano imponenti misure logistiche e di sicurezza per gestire eventi di massa. L'allestimento di palchi monumentali e aree liturgiche all'aperto richiede il coordinamento tra le diocesi locali, le autorità statali e i servizi di soccorso."
+   ],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/sociedad/escenario-pisos-altura-simbolos-religiosos-monumental-obra-recibio-papa-palermo_0_nWDeeJXqsM.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-09T15:35+00:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/seguridad/quien-es-el-sospechoso-detenido-que-se-quiso-infiltrar-cerca-del-escenario-del-papa-y-que-le-nid09112026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-09T15:58+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-mundo/detenido-un-bombero-con-permiso-de-circulacion/JPMLLAGPFNBADARDYWQZDTBBFQ/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-09T15:25+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/vaticano/notizie/2026/11/09/folla-record-per-la-messa-del-papa-a-buenos-aires-due-milioni_e6b2b28c-9177-4894-a5e0-c7a2b99cb27d.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T16:25+01:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "zf17a42c4",
+   "sez": "mondo",
+   "titolo": "Sudafrica, fermati nove stranieri mentre tentavano di partire per combattere in Ucraina",
+   "orig": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+   "lead": "Nove cittadini stranieri sono stati arrestati in Sudafrica con l'accusa di prepararsi a lasciare il Paese per arruolarsi e combattere nel conflitto in Ucraina. Gli individui, di età compresa tra venti e ventisei anni, sono stati intercettati dalle forze di sicurezza all'interno e nei dintorni della città di Johannesburg. Le autorità di polizia locali non hanno divulgato le loro nazionalità d'origine, ma hanno precisato che nessuno di loro risultava residente sul territorio sudafricano.",
+   "more": [
+    "La legislazione di molti Paesi proibisce severamente ai propri cittadini o a individui presenti sul territorio nazionale di operare come mercenari o arruolarsi in eserciti e milizie straniere impegnati in guerre all'estero, punendo il reclutamento o la partecipazione non autorizzata con gravi sanzioni penali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-09T12:33+00:00"
+    },
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/nine-foreigners-caught-allegedly-trying-to-leave-south-africa-to-fight-in-ukraine/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-11-09T13:44+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zae804b4c",
+   "sez": "mondo",
+   "titolo": "Pakistan, crolla una barriera alla diga di Tarbela allagando i cantieri",
+   "orig": "Partial collapse of Pakistan’s Tarbela dam causes flood water surge",
+   "lead": "In Pakistan il crollo parziale di una barriera protettiva e il distacco di una massa rocciosa hanno innescato un'ondata d'acqua nei cantieri della diga di Tarbela. L'incidente si è verificato nell'area del cantiere idroelettrico T-5, nel distretto di Swabi. Le autorità responsabili per lo sviluppo idrico ed energetico hanno dichiarato lo stato di emergenza, dopo che l'improvvisa ondata ha invaso le postazioni di lavoro adiacenti, interrompendo le attività e mobilitando le squadre di soccorso e messa in sicurezza.",
+   "more": [
+    "La diga di Tarbela sul fiume Indo è uno dei più grandi sbarramenti al mondo in terra e roccia. Rappresenta una risorsa fondamentale per la rete elettrica del Pakistan e per l'irrigazione agricola del bacino dell'Indo attraverso complessi progetti di espansione idroelettrica."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-09T12:16+00:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2043275/water-surges-into-nearby-work-areas-after-rock-mass-collapse-at-tarbela-dam",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-09T16:50+05:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z49da8670",
+   "sez": "mondo",
+   "titolo": "Mosca, circa trecento giovani fermati dalla polizia nel centro della città",
+   "orig": "Around 300 young people detained in central Moscow. Some were reportedly beaten, while others were forced to enlist in the army",
+   "lead": "Circa trecento giovani, inclusi diversi adolescenti e minorenni, sono stati fermati dalla polizia a Mosca e trasferiti nei commissariati cittadini. I blitz delle forze dell'ordine si sono concentrati nell'area centrale vicina alla fermata della metropolitana Kitai-Gorod e presso il parco Gorka, noto punto di ritrovo. Stando alle testimonianze raccolte da fonti indipendenti, diversi ragazzi sarebbero stati percossi durante i fermi, mentre per alcuni sarebbe scattato l'arruolamento forzato nelle file delle forze armate.",
+   "more": [
+    "In Russia le autorità mantengono controlli severi su ogni forma di assembramento pubblico non autorizzato. Con il perdurare della guerra contro l'Ucraina, la legislazione militare sul reclutamento è stata notevolmente inasprita, intensificando le operazioni di identificazione dei giovani in età di leva negli spazi pubblici."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/around-300-young-people-detained-in-central-moscow-some-were-reportedly-beaten-while-others-were-forced-to-enlist-in-the-army/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-09T15:30+00:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/feature/2026/11/09/russian-police-detained-hundreds-of-teenagers-at-a-popular-moscow-hangout-meduza-spoke-to-three-teenagers-caught-in-the-raid",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-09T12:39+03:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zd84bf519",
+   "sez": "ambiente",
+   "titolo": "Nuova Zelanda, attese nuove forti piogge nella parte settentrionale dell'Isola del Nord",
+   "orig": "More heavy rain expected for upper North Island",
+   "lead": "I servizi meteorologici della Nuova Zelanda avvertono che le intense precipitazioni di fine primavera non sono ancora concluse e prevedono un ulteriore peggioramento con piogge torrenziali sulle regioni settentrionali dell'Isola del Nord. Il maltempo rischia di causare disagi alla circolazione e allagamenti nelle aree più esposte, prolungando una fase di forte instabilità climatica caratterizzata da precipitazioni abbondanti su tutto il territorio costiero e collinare della parte alta del Paese. Lo riferisce RNZ.",
+   "more": [
+    "Il clima dell'Isola del Nord in Nuova Zelanda varia da oceanico a subtropicale verso l'estremo nord. Nei cambi di stagione, l'arrivo di perturbazioni cariche di umidità dal Pacifico può provocare piogge prolungate con accumuli significativi in brevi periodi e rischio di inondazioni."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/weather/2452640/more-heavy-rain-expected-for-upper-north-island",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-10T01:24+13:00"
+    },
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/11/09/tajikistan-braces-for-sharp-cold-snap-heavy-rain-and-snowfall/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-11-09T12:32+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z60f00fc4",
+   "sez": "economia",
+   "titolo": "Kirghizistan, il progetto industriale di Naryn apre interrogativi sulle forniture elettriche",
+   "orig": "Naryn Industrial Park Plans Raise Electricity Supply Questions for Kyrgyzstan",
+   "lead": "In Kirghizistan l'accordo firmato dall'Agenzia nazionale per gli investimenti con la società StarOcean Investment per realizzare un parco industriale di 200 ettari nella regione di Naryn ha sollevato dubbi sulle capacità di fornitura energetica del Paese. L'imponente impianto produttivo richiederà infatti un notevole fabbisogno di elettricità, aprendo un confronto sulla tenuta della rete infrastrutturale nazionale e sulle risorse disponibili per sostenere il nuovo insediamento senza creare carenze per la popolazione locale. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "Il Kirghizistan vanta un rilevante potenziale idroelettrico grazie ai suoi bacini montani, ma la rete di trasmissione sconta obsolescenze e difficoltà stagionali nei mesi invernali. I piani di forte industrializzazione richiedono quindi ingenti investimenti per garantire continuità all'approvvigionamento energetico."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/naryn-industrial-park-electricity-supply-kyrgyzstan/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-09T12:19+00:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/09/kyrgyzstan-to-receive-371-000-from-edb-to-prepare-agro-food-park-project/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-09T13:49+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z648ee8a7",
+   "sez": "mondo",
+   "titolo": "Azerbaigian, Erdoğan e Aliyev celebrano l'alleanza tra Ankara e Baku",
+   "orig": "Erdoğan and Aliyev praise alliance during visit to Azerbaijan",
+   "lead": "Il presidente turco Recep Tayyip Erdoğan e l'omologo azero Ilham Aliyev hanno elogiato la solidità della loro alleanza strategica durante la visita ufficiale di Erdoğan a Baku in occasione della Giornata della Vittoria. L'incontro giunge al termine di settimane contrassegnate da momenti di attrito e tensioni diplomatiche tra Turchia e Azerbaigian, segnando un passaggio distensivo mirato a rinsaldare i legami politici, economici e militari tra le due nazioni caucasiche e anatoliche. Lo riferisce OC Media.",
+   "more": [
+    "Turchia e Azerbaigian intrattengono legami storici, culturali e linguistici definiti tradizionalmente dalla formula di un solo popolo in due Stati. Ankara fornisce da tempo a Baku un convinto supporto diplomatico, militare e commerciale, specialmente negli assetti geostrategici del Caucaso meridionale."
+   ],
+   "fonti": [
+    {
+     "n": "OC Media",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://oc-media.org/erdogan-and-aliyev-praise-alliance-during-visit-to-azerbaijan/",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-11-09T14:25+00:00"
+    },
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/09/apples-tim-cook-meets-with-erdogan-during-turkey-visit/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-09T13:08+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zae2e5b36",
+   "sez": "ambiente",
+   "titolo": "Clima, l'Onu stima che il 2026 sarà tra i quattro anni più caldi mai registrati",
+   "orig": "ONU diz que 2026 será um dos anos mais quentes já registrados",
+   "lead": "Secondo il rapporto State of the Climate diffuso dall'Organizzazione meteorologica mondiale delle Nazioni Unite, il 2026 si collocherà tra i quattro anni più caldi di sempre a livello globale. Con temperature di 1,47 gradi sopra i livelli preindustriali, il riscaldamento è alimentato anche dagli effetti del fenomeno El Niño, confermando una tendenza termica in costante crescita da oltre un decennio. I dati sono stati presentati ai rappresentanti internazionali riuniti in Turchia per la nuova conferenza climatica COP31.",
+   "more": [
+    "L'Organizzazione meteorologica mondiale monitora costantemente i dati climatici del pianeta. Il fenomeno naturale di El Niño consiste nel riscaldamento anomalo delle acque superficiali dell'Oceano Pacifico equatoriale, che influenza le correnti atmosferiche e contribuisce ad amplificare le temperature globali già incrementate dai gas serra."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-diz-que-2026-sera-um-dos-anos-mais-quentes-ja-registrados",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-09T10:49-03:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/11/09/relatorio-da-cop31-aponta-2026-como-um-dos-quatro-anos-mais-quentes/105456",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-09T09:24+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z75d60709",
+   "sez": "ambiente",
+   "titolo": "Repubblica Democratica del Congo, allarme deforestazione durante le piogge nel Kongo Centrale",
+   "orig": "Un expert appelle à renforcer la lutte contre la déforestation en cette saison des pluies au Kongo-Central",
+   "lead": "Nella Repubblica Democratica del Congo un esperto ambientale del territorio di Muanda ha sollecitato un deciso incremento delle azioni di contrasto alla deforestazione nel Kongo Centrale. Il richiamo coincide con la stagione delle forti piogge e delle raffiche di vento che stanno flagellando varie province della nazione. La progressiva riduzione del patrimonio arboreo e della copertura vegetale favorisce i fenomeni di erosione del suolo ed espone le popolazioni a pericoli crescenti di fronte a disastri e calamità naturali. Lo riferisce Radio Okapi.",
+   "more": [
+    "La deforestazione compromette la capacità del suolo di trattenere l'acqua piovana, provocando frane e alluvioni lampo. Nel bacino del Congo, la salvaguardia della foresta pluviale riveste un ruolo vitale per la protezione degli ecosistemi locali e per la regolazione del ciclo idrologico regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/11/09/actualite/societe/un-expert-appelle-renforcer-la-lutte-contre-la-deforestation-en-cette",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-11-09T15:42+01:00"
+    },
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/11/09/tchad-face-au-deficit-des-pluies-le-gouvernement-mise-sur-les-cultures-de-contre-saison-et-lirrigation/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-11-09T15:00+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zcc5e75f8",
+   "sez": "salute",
+   "titolo": "Maniema, lo sciopero degli infermieri riduce i servizi sanitari a Kindu durante l'allerta colera",
+   "orig": "La grève des infirmiers perturbe les soins de santé à Kindu (Maniema)",
+   "lead": "A Kindu, capoluogo della provincia del Maniema nella Repubblica Democratica del Congo, lo sciopero degli infermieri ha provocato la chiusura di diversi ambulatori e una drastica contrazione delle visite all'Ospedale generale di riferimento. La mobilitazione del personale medico genera forte apprensione tra i pazienti e i familiari, in una fase complicata dal sensibile aumento di casi sospetti di colera in tutto il territorio provinciale, dove l'accesso alle cure e ai presidi sanitari risulta compromesso. Lo riferisce Radio Okapi.",
+   "more": [
+    "Il colera è una grave malattia infettiva dell'apparato digerente causata dal batterio Vibrio cholerae, trasmesso per via oro-fecale tramite acqua o cibo contaminati. Il trattamento rapido con reidratazione e antibiotici è indispensabile per prevenire la morte per disidratazione dei malati."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/11/09/actualite/sante/la-greve-des-infirmiers-perturbe-les-soins-de-sante-kindu-maniema",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-11-09T15:26+01:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sante/penuries-de-medicaments-et-coupes-sur-les-soins-les-verites-derangeantes-du-budget-2027-de-la-sante_n_999003119.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-09T15:25+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "ze56cea2d",
+   "sez": "mondo",
+   "titolo": "Kenya, le forze di difesa sventano un attentato nella contea di Lamu",
+   "orig": "KDF foils attack in Lamu amid Al-Shabaab resurgence fears",
+   "lead": "I soldati delle Forze di difesa del Kenya hanno neutralizzato un ordigno esplosivo improvvisato lungo la direttrice stradale tra Baure e Milimani, nella contea di Lamu, sventando un possibile attacco. L'ordigno è stato individuato e messo in sicurezza durante le consuete operazioni di perlustrazione militare nell'area. L'episodio conferma i timori legati a un potenziale incremento delle incursioni violente del gruppo fondamentalista Al-Shabaab lungo la fascia di confine tra Kenya e Somalia. Lo riferisce Daily Nation.",
+   "more": [
+    "Al-Shabaab è un gruppo jihadista attivo prevalentemente in Somalia ma responsabile di numerosi attacchi terroristici anche sul territorio keniota. Le contee costiere del Kenya, in particolare Lamu, sono soggette a rigide misure di sicurezza militare per intercettare infiltrazioni oltreconfine."
+   ],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/counties/lamu/kdf-foils-attack-in-lamu-amid-al-shabaab-resurgence-fears--5664248",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-09T12:34+00:00"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/somalia-nisa-commander-defects-to-al-shabaab/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-11-08T18:28+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z50f87f5c",
+   "sez": "economia",
+   "titolo": "Inaugurato il Libyan British Business Council per incentivare il settore privato",
+   "orig": "Launch of Libyan British Business Council to strengthen private sector cooperation between the two states",
+   "lead": "È stato ufficialmente inaugurato il Libyan British Business Council, un nuovo organismo creato con l'obiettivo di rafforzare la cooperazione economica tra la Libia e il Regno Unito attraverso il coinvolgimento attivo del settore privato. La nascita dell'ente bilaterale, confermata dal Consiglio imprenditoriale libico, intende aprire nuove opportunità di interscambio commerciale, promuovere sinergie industriali e stimolare gli investimenti reciproci tra le aziende delle due nazioni in una fase di ripresa economica. Lo riferisce Libya Herald.",
+   "more": [
+    "I consigli d'affari bilaterali operano come piattaforme di coordinamento e dialogo tra comunità aziendali di Paesi diversi. Favoriscono il networking, la partecipazione a gare d'appalto e l'attrazione di investimenti esteri nei mercati emergenti o in via di ricostruzione."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/11/launch-of-libyan-british-business-council-to-strengthen-private-sector-cooperation-between-the-two-states/",
+     "angolo": "",
+     "atlas": "Libya",
+     "t": "2026-11-09T15:32+00:00"
+    },
+    {
+     "n": "Tehran Times",
+     "p": "XX",
+     "c": "Teheran",
+     "u": "https://www.tehrantimes.com/news/531977/Document-for-development-of-public-private-partnership-in-agriculture",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-09T13:36+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zb07cb6bf",
+   "sez": "mondo",
+   "titolo": "Giappone e Filippine siglano un accordo per la fornitura di radar costieri e droni",
+   "orig": "Japan to provide coastal radar and drones to the Philippines under $27M deal",
+   "lead": "Il Giappone fornirà alle Filippine sistemi di radar per la sorveglianza delle coste e aeromobili a pilotaggio remoto in base a un'intesa sulla sicurezza dal valore di 4,3 miliardi di yen, pari a circa 27 milioni di dollari. Il patto è stato firmato a Manila dall'ambasciatore nipponico Katsuro Kitagawa e dalla segretaria agli Esteri filippina Theresa Lazaro. I radar saranno destinati alla Marina militare per accrescere il monitoraggio navale, in una fase di forti tensioni territoriali con la Cina nel Mar Cinese Meridionale.",
+   "more": [
+    "Le rivendicazioni territoriali nel Mar Cinese Meridionale vedono la Cina opposta a vari Paesi rivieraschi, tra cui le Filippine. Per contrastare l'assertività navale di Pechino, Manila ha rafforzato le collaborazioni con alleati strategici come Stati Uniti e Giappone, promuovendo aiuti per la sicurezza marittima."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/783751/japan-to-provide-coastal-radar-and-drones-to-the-philippines-under-27m-deal",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-09T23:45+08:00"
+    },
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/politics/defense/japan-to-give-philippines-drones-radar-systems-in-biggest-security-aid-to-date",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z89e5723a",
+   "sez": "mondo",
+   "titolo": "Le atlete kazake Zhanaliyeva e Kadyrova vincono l'oro nel cerchio aereo a Torino",
+   "orig": "Kazakh Athletes Win Gold in Aerial Hoop Competition in Italy",
+   "lead": "Le atlete kazake Gauhar Zhanaliyeva e Bakhyt Kadyrova hanno conquistato il primo posto nella disciplina del cerchio aereo in coppia alla competizione internazionale di sport aerei e pole svolta a Torino dal 6 all'8 novembre. All'evento in Italia ha vinto l'oro anche il kirghiso Almaz Akun nel grappling.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/11/kazakh-athletes-win-gold-in-aerial-hoop-competition-in-italy/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-09T13:07+00:00"
+    },
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:930255",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-11-09T15:58+06:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zbc1a7717",
+   "sez": "mondo",
+   "titolo": "Stephen Miller assume la carica di capo dello staff della Casa Bianca",
+   "orig": "Far-right Jews: What Stephen Miller and Itamar Ben-Gvir have in common",
+   "lead": "Stephen Miller ha assunto ufficialmente la carica di capo dello staff della Casa Bianca per l'amministrazione Trump. La nomina ha suscitato dibattito per le sue posizioni politiche radicali, accostate da diversi analisti a quelle di esponenti dell'estrema destra israeliana come il ministro uscente Itamar Ben-Gvir.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/2026-11-09/ty-article-magazine/.premium/far-right-jews-what-stephen-miller-and-itamar-ben-gvir-have-in-common/000001a1-bfa3-dda4-adb7-bfef4c970000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-09T16:17+02:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/11/09/el-polemico-stephen-miller-asume-oficialmente-su-posicion-como-jefe-de-gabinete-de-trump/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-11-09T15:55+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "zaa1e15bc",
+   "sez": "mondo",
+   "titolo": "Un'ondata di gelo si abbatte sull'Iraq dopo le ultime piogge",
+   "orig": "Iraq weather: Freezing cold wave sweeps in as rainfall tapers off",
+   "lead": "Una massa d'aria molto fredda sta interessando l'Iraq a partire da lunedì 9 novembre 2026, provocando un brusco calo delle temperature mentre le precipitazioni si vanno gradualmente esaurendo. Parallelamente, in Uzbekistan il ministero dell'Energia valuta restrizioni temporanee alle stazioni di metano per proteggere le utenze domestiche.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraq-meteorological-organization-cold-air-mass-freezing-temperatures-november-2026/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-09T09:11+00:00"
+    },
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/11/09/energy-ministry-warns-of-possible-restrictions-on-methane-stations-during-cold-weather-59941",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-09T19:49+05:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z23582f68",
+   "sez": "mondo",
+   "titolo": "La Sierra Leone accoglie l'inviata ONU per la tutela dell'infanzia",
+   "orig": "Gender Minister Welcomes UN Child Protection Representative to Freetown",
+   "lead": "La ministra degli Affari di Genere e dell'Infanzia della Sierra Leone, Isata Mahoi, ha accolto a Freetown la rappresentante speciale del Segretario generale delle Nazioni Unite sulla violenza contro i bambini. Nel frattempo, l'Eswatini invierà la quindicenne Hlelolwenkhosi Nsibandze come prima rappresentante giovanile alla conferenza ONU sul clima.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/mahoi-un-violence-children-sierra-leone/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-11-09T12:07+00:00"
+    },
+    {
+     "n": "Times of Eswatini",
+     "p": "XX",
+     "c": "Mbabane",
+     "u": "https://times.co.sz/48140/news/eswatini-sends-first-child-representative-to-global-climate-summit/",
+     "angolo": "",
+     "atlas": "eSwatini",
+     "t": "2026-11-09T14:56+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z26fc44be",
+   "sez": "tech",
+   "titolo": "Francia: torna all'Assemblea Nazionale il disegno di legge sulla resilienza informatica",
+   "orig": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
+   "lead": "Il governo francese riporta all'Assemblea Nazionale il disegno di legge sulla resilienza informatica dopo un anno di stallo e numerose minacce informatiche. Per favorire l'approvazione del testo sulla cybersicurezza, l'esecutivo ha ritirato l'articolo che prevedeva l'inserimento di porte d'accesso riservate nelle piattaforme di messaggistica crittografata.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-09T06:00+01:00"
+    },
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/11/09/assemblee-nationale-une-commission-denquete-pour-examiner-la-gestion-la-transparence",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-11-09T14:02+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
+   "id": "z73e64cda",
+   "sez": "mondo",
+   "titolo": "Lisbona ospita la conferenza CPLP per rilanciare l'industria audiovisiva lusofona",
+   "orig": "CPLP quer transformar mercado de 300 milhões de pessoas numa indústria audiovisual",
+   "lead": "La Comunità dei Paesi di Lingua Portoghese ha aperto a Lisbona la prima Conferenza Internazionale dell'Audiovisivo per valorizzare un mercato da trecento milioni di persone. L'obiettivo dell'incontro, in programma fino al 13 novembre, è promuovere la circolazione delle opere e trasformare il potenziale culturale in opportunità industriali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/11/09/publico-brasil/noticia/cplp-quer-transformar-mercado-300-milhoes-pessoas-industria-audiovisual-2194271",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-09T14:18+00:00"
+    },
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/politica/detalhe/igreja-catolica-quer-pessoas-no-centro-das-politicas-e-combate-a-corrupcao-75951.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-11-09T14:54+00:00"
+    }
+   ],
+   "data": "9 nov",
+   "ora": "17:12",
+   "uscita": "17"
+  },
+  {
    "id": "z9dea3473",
    "sez": "prima",
    "titolo": "Caduta del Muro di Berlino, gli appelli di Merz e Meloni per democrazia e libertà",
@@ -1021,6 +3379,15 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-09T09:09+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/dati-tajani-sul-web-avviata-unindagine-4cabeef9-9822-4bbe-a195-ecf08cb3d564.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T14:00+00:00"
     }
    ],
    "data": "9 nov",
@@ -1233,6 +3600,24 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-11-09T03:00+00:00"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33893926.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-09T19:09+04:00"
+    },
+    {
+     "n": "Tehran Times",
+     "p": "XX",
+     "c": "Teheran",
+     "u": "https://www.tehrantimes.com/news/531976/Yerevan-hosting-Iran-Armenia-joint-economic-committee-meeting",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-09T13:36+00:00"
     }
    ],
    "data": "9 nov",
@@ -1491,6 +3876,33 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Albania",
      "t": "2026-11-09T10:55+00:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2638736",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-11-09T15:17+01:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/ausland/ungarn-bruder-von-viktor-orban-offenbar-festgenommen-a-31b6c582-38fc-469f-8225-41bd2cf0e4ba#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-09T16:17+01:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/11/09/broer-viktor-orban-aangehouden-zegt-hongaarse-premier-magyar.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-11-09T15:21+00:00"
     }
    ],
    "data": "9 nov",
@@ -1679,7 +4091,7 @@ window.EDIZIONI["2026-11-09-sera"] = {
   },
   {
    "id": "z7008ada0",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Ucraina, intensi bombardamenti russi: oltre 850 mila persone senza corrente elettrica",
    "orig": "Rusia intensifica los bombardeos contra Ucrania y deja a más de 850.000 personas sin electricidad en medio de un nuevo invierno de guerra",
    "lead": "Le forze armate russe hanno intensificato i raid e i bombardamenti contro le infrastrutture energetiche in Ucraina, provocando interruzioni dell'erogazione di energia elettrica per oltre 850 mila cittadini all'inizio della stagione invernale. Le offensive hanno colpito con particolare gravità le regioni orientali e centrali di Dnipropetrovsk e Charkiv, dove i tecnici sono impegnati per riparare i danni e ripristinare le forniture di base. Di fronte al deteriorarsi della situazione della rete civile, il governo di Kiev ha rinnovato la richiesta ai partner internazionali del G7 di maggiori difese aeree.",
@@ -1713,6 +4125,33 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Angola",
      "t": "2026-11-09T10:01+00:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/09/ukrainian-drones-strike-russia-s-leningrad-region-sparking-fire-at-one-of-the-country-s-largest-oil-refineries",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-09T12:08+03:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-ato/4182989-russian-forces-strike-shop-nova-poshta-branch-in-kharkiv-regions-shevchenkove-civilians-injured.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-09T16:31+02:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/ae06452b-3447-4fee-bd94-355cd324d1c5?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-09T15:33+00:00"
     }
    ],
    "data": "9 nov",
@@ -2061,6 +4500,15 @@ window.EDIZIONI["2026-11-09-sera"] = {
      "angolo": "",
      "atlas": "Tonga",
      "t": "2026-11-04T03:19+00:00"
+    },
+    {
+     "n": "Nazioni Unite (UN News)",
+     "p": "XX",
+     "c": "New York",
+     "u": "https://news.un.org/feed/view/en/story/2026/11/1168760",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-09T12:00+00:00"
     }
    ],
    "data": "9 nov",
@@ -2259,7 +4707,78 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zc2115a62": "I media dell'Asia centrale sottolineano il sostegno della presidenza kazaka al movimento sportivo olimpico.",
   "zabcfb80f": "Il quotidiano egiziano pone l'accento sui piani di espansione accademica e scientifica promossi dalla presidenza.",
   "zd4f75272": "La testata ghanese evidenzia la determinazione della federazione a invertire la rotta dopo le ultime delusioni sportive.",
-  "z0b8c322c": "L'emittente indipendente mette in risalto il legame diretto tra l'assenza di reti idriche efficienti e l'allargamento del contagio."
+  "z0b8c322c": "L'emittente indipendente mette in risalto il legame diretto tra l'assenza di reti idriche efficienti e l'allargamento del contagio.",
+  "z66b2c64e": "la Repubblica sottolinea l'estensione dell'ipotesi di reato da procurato allarme a pubblica intimidazione per le e-mail minatorie sugli aeroporti.",
+  "zaec1c981": "Al Jazeera evidenzia che l'attacco dell'IRGC contro le tre petroliere è stato motivato da presunti collegamenti degli scafi con gli Stati Uniti.",
+  "zfde1278e": "Al Jazeera mette in luce la determinazione dell'Iran nel mantenere le proprie richieste nonostante l'incremento delle manovre militari statunitensi.",
+  "z46129772": "Al Jazeera analizza l'impatto del crollo elettorale dell'ANC e l'apertura verso una fase di maggiore frammentazione politica in Sudafrica.",
+  "z79cc335e": "la Repubblica riporta lo sfogo e l'amarezza dell'infettivologo Massimo Galli a seguito dell'assoluzione definitiva.",
+  "z8359a616": "NPR mette in risalto il potenziale impatto della decisione della Corte Suprema sulle cause per risarcimento contro funzionari ed agenti federali.",
+  "z880a5dfd": "Meduza evidenzia la denuncia di Zelensky sull'uso improprio delle pause umanitarie da parte dell'esercito russo per riorganizzare le forze a Kherson.",
+  "z6765060f": "Al Jazeera mette in dubbio la capacità della nuova unità americana di interrompere il traffico d'armi iraniano senza provocare un'escalation militare.",
+  "z72798cb6": "Lefaso.net evidenzia le novità, i corsi di formazione gratuiti e le competizioni previste per la nuova edizione della fiera tecnologica.",
+  "ze934058e": "Radio Prague International evidenzia il successo dello studente ceco nella competizione internazionale tenutasi in Thailandia.",
+  "zacb2b3dc": "Nippon.com mette in risalto l'ingresso delle terapie basate su cellule iPS nella fase applicativa reale per il trattamento delle malattie rare e delle lesioni del midollo spinale.",
+  "zf48e10b6": "Construction Dive mette in risalto il valore delle borse di studio concesse ai giovani per l'accesso alle professioni tecniche e ingegneristiche.",
+  "zd0b88849": "Orizzonte Scuola chiarisce le scadenze e le modalità di scorrimento delle graduatorie per il conferimento dei contratti di supplenza ai docenti.",
+  "z03d76507": "Crunchyroll News si concentra sulla complessità narrativa del personaggio di Zeke Jaeger all'interno dell'intreccio di Attack on Titan.",
+  "z98543d02": "Radio Prague International evidenzia il valore di riscoperta culturale della mostra praghese dedicata alla carriera parigina ed europea di Čermák.",
+  "z04cdbad4": "La BBC si sofferma sull'evoluzione storica delle usanze sociali spagnole e sul significato culturale del bacio nei saluti informali.",
+  "zc869005d": "OndaRock mette in evidenza le dichiarazioni di Bryan Ferry e Andy Mackay sulle divergenze personali che portarono alla separazione artistica da Brian Eno.",
+  "z6c649dee": "ANSA evidenzia le dichiarazioni d'intesa tra Eizenkot e Liberman in vista dell'apertura del nuovo Parlamento israeliano.",
+  "zf799fcad": "Positive News sottolinea come i progressi tecnologici stiano fornendo risorse inedite per la protezione dell'ambiente e della fauna selvaggia.",
+  "z3d21dc78": "La Cucina Italiana mette in luce il nuovo trend vegetale e l'innovazione culinaria che stanno trasformando la scena gastronomica di Vienna.",
+  "z74b47f96": "BBC News concentra la propria copertura sulle speculazioni riguardanti i responsabili dell'attacco alle infrastrutture sanitarie.",
+  "z5e1a52f0": "BBC Newsround evidenzia le implicazioni della scoperta del gas per la ricerca di forme di vita su Marte.",
+  "z5d7ecc1e": "Le Soleil mette in risalto la vittoria della medaglia di bronzo ottenuta in extremis dalla squadra femminile senegalese.",
+  "z90bd8ee1": "Agência Brasil evidenzia lo stanziamento di risorse finanziarie statali destinate ai tre comuni amazzonici esposti al rischio epidemico.",
+  "zb312ff19": "Il Sole 24 Ore – Casa24 mette in evidenza i tempi lunghi richiesti dal consiglio di amministrazione per coprire le perdite finanziarie.",
+  "z469861a8": "ERR News sottolinea il legame tra la storia del design nipponico e le abitudini quotidiane del mondo occidentale.",
+  "z09f6b4d8": "BBC Newsround evidenzia i risultati primatisti dell'atleta e l'intervista condotta negli studi del programma per ragazzi.",
+  "z4c58dc2e": "The Kyiv Independent mette in evidenza la difficile convivenza forzata tra i civili ucraini e le truppe d'occupazione russe a Oleshky.",
+  "z6af9bce9": "Good News Network mette in luce il ruolo determinante della comunità locale nel tutelare i fondali di maerl.",
+  "z7fea0d7b": "Orizzonte Scuola evidenzia la proposta avanzata dal CNDDU e i dati dell'indagine Confesercenti-Ipsos sui tagli alle spese familiari.",
+  "z04e8ed5e": "The Guardian mette in luce l'aneddoto sulle bizzarre condizioni di composizione della canzone all'interno del bus dei concerti.",
+  "z5eb07a18": "BBC News mette in risalto il metodo di ingegneria sociale basato sui finti colloqui lavorativi impiegato per violare i sistemi aziendali.",
+  "z51cef491": "Al Jazeera mette in evidenza la conquista delle due cinture iridate e l'esito controverso del verdetto espresso dai giudici.",
+  "z38ed1a94": "Libya Herald evidenzia la presenza del Ministero della Salute libico ai lavori del forum bilaterale svolti nella capitale egiziana.",
+  "z3a8c7a78": "La Tercera sottolinea il sorpasso economico del Perù a scapito del Cile basandosi sulle proiezioni macroeconomiche del FMI.",
+  "z25106374": "Construction Dive si concentra sui vantaggi economici e gestionali derivanti dall'automazione dei pagamenti aziendali nel settore edile.",
+  "z5235c2d5": "IPN mette in risalto la chiusura definitiva del registro statale per le otto entità pubbliche inattive.",
+  "z8d9c130d": "Good News Network sottolinea il successo dell'iniziativa di conservazione condotta a titolo gratuito da un privato cittadino.",
+  "z5d2f3bfd": "BBC News mette in evidenza la spettacolarità e la velocità delle meteore delle Leonid visibili durante il mese.",
+  "z59c2148e": "Il Sole 24 Ore evidenzia le riserve della Corte dei Conti sulla perdita di progressività dell'Irpef.",
+  "z42d35db7": "STAT evidenzia la necessità di nuove regole di biosicurezza per contrastare l'abuso potenziale dell'intelligenza artificiale nella creazione di armi biologiche.",
+  "z5fad509e": "OC Media mette in rilievo le accuse formulate da Miasat Muslimova e il ritiro commerciale del testo in seguito alle proteste.",
+  "z6e4aeecd": "Meduza evidenzia il rifiuto delle transazioni da parte dell'istituto bancario maldiviano e i conseguenti problemi per gli hotel.",
+  "zc5873b64": "BBC News sottolinea la condanna per frode del dipendente e l'accumulo di cinque stipendi pubblici.",
+  "z5cfd4164": "Deutsche Welle mette in rilievo la capacità dell'Iran di condizionare i trasporti energetici e i costi di navigazione nello stretto.",
+  "za922e832": "Deutsche Welle pone l'accento sulla stretta tabella di marcia imposta alle istituzioni dell'Unione Europea per trovare un accordo sul nuovo vertice della Banca Centrale Europea.",
+  "z9f4df244": "Al Jazeera evidenzia il peso politico crescente della sinistra democratica e socialista nelle grandi metropoli americane attraverso la vittoria elettorale di Nithya Raman.",
+  "z2e34dc66": "ERR News si concentra sullo stato di avanzamento dell'esame del bilancio statale all'interno della commissione parlamentare estone.",
+  "z3aaa9ad2": "ERR News mette in rilievo la delicatezza emotiva dell'insegnamento scolastico a bambini rifugiati ucraini lontani dai loro genitori.",
+  "z6998bf92": "El Mundo punta l'attenzione sulla scadenza di sei mesi fissata da Feijóo per riaffermare l'autorità amministrativa e della sicurezza dello Stato nelle regioni a forte statuto autonomo.",
+  "z254a366a": "CNA e le testate sportive tedesche e italiane sottolineano le sincere perplessità espresse da Hoeness sul completo recupero fisico del giovane talento tedesco.",
+  "z997bfbdc": "Brújula Digital mette in risalto la ferma replica del management di Trafigura contro le imputazioni di speculazione e distribuzione di combustibile alterato in territorio boliviano.",
+  "z643b8cdb": "Clarín evidenzia le caratteristiche architettoniche della gigantesca struttura e la vastità della partecipazione popolare alla cerimonia religiosa.",
+  "zf17a42c4": "BBC News pone l'accento sul fermo del gruppo di giovani nell'area di Johannesburg prima della loro presunta partenza per il fronte ucraino.",
+  "zae804b4c": "Al Jazeera evidenzia l'impatto dell'improvviso cedimento della struttura di protezione e l'ondata di piena che ha travolto i lavori in corso.",
+  "z49da8670": "IPN evidenzia i metodi coercitivi impiegati contro i manifestanti giovanili a Mosca e le denunce di arruolamento coatto.",
+  "zd84bf519": "RNZ pone in luce i persistenti allarmi dei meteorologi neozelandesi per l'ondata di maltempo che interessa l'Isola del Nord.",
+  "z60f00fc4": "The Times of Central Asia si sofferma sul nodo cruciale della disponibilità di energia elettrica per il nuovo polo industriale kirghiso.",
+  "z648ee8a7": "OC Media rimarca il significato distensivo della visita di Erdoğan dopo le recenti divergenze bilaterali tra i due governi.",
+  "zae2e5b36": "Agência Brasil richiama l'attenzione sulle evidenze scientifiche del rapporto dell'Onu per indirizzare i negoziati della conferenza sul clima.",
+  "z75d60709": "Radio Okapi pone l'accento sulla correlazione diretta tra disboscamento abusivo e l'aggravarsi del rischio idrogeologico durante la stagione delle piogge.",
+  "zcc5e75f8": "Radio Okapi evidenzia l'allarme per la chiusura dei centri medici a fronte della proliferazione di casi sospetti di colera nella provincia.",
+  "ze56cea2d": "Daily Nation concentra l'attenzione sul pronto intervento dei militari kenioti nel bonificare l'ordigno in una zona a rischio terrorismo.",
+  "z50f87f5c": "Libya Herald pone in primo piano il rafforzamento dei canali commerciali e dei contatti industriali privati tra Libia e Gran Bretagna.",
+  "zb07cb6bf": "Philippine Daily Inquirer e Nikkei Asia danno rilievo al più cospicuo pacchetto di aiuti militari giapponesi concesso a Manila per la difesa costiera.",
+  "z89e5723a": "La testata focalizza l'attenzione sui successi sportivi internazionali degli atleti del Kazakistan.",
+  "zbc1a7717": "La testata di Tel Aviv analizza l'ideologia politica di Miller mettendola a confronto con l'estrema destra israeliana.",
+  "zaa1e15bc": "La testata irachena riporta gli aggiornamenti meteorologici ufficiali sulle condizioni climatiche avverse nel Paese.",
+  "z23582f68": "La testata di Freetown mette in evidenza le iniziative istituzionali del governo a tutela dei minori.",
+  "z26fc44be": "La testata parigina pone l'accento sul dibattito politico francese e sul compromesso governativo sui temi della crittografia.",
+  "z73e64cda": "Il quotidiano portoghese sottolinea il valore strategico della cooperazione culturale ed economica tra i Paesi della CPLP."
  },
  "contesti": {
   "zc228f954": "Crédit Agricole e Banco BPM condividono da anni accordi strategici e commerciali nel credito al consumo e nelle assicurazioni, con i francesi già azionisti rilevanti dell'istituto milanese. Nelle ultime settimane il risiko bancario italiano si era riacceso con ipotesi di riassetto tra i principali istituti del Paese.",
@@ -2267,7 +4786,13 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "z9c09f668": "Nei giorni scorsi la magistratura ungherese ha intensificato le indagini su una presunta rete criminale dedita al rilascio fraudolento di visti d’ingresso e alla tratta di persone, dossier finito sotto la lente delle autorità giudiziarie di Budapest. L’inchiesta ha progressivamente coinvolto figure vicine alla precedente amministrazione, fino all'emissione del provvedimento di fermo a carico di Áron Orbán, innescando un acceso scontro politico tra il nuovo esecutivo guidato da Péter Magyar e l’opposizione.",
   "zeb3f4e61": "Il dibattito politico francese è segnato da settimane di mobilitazione sindacale sul potere d'acquisto e dal rimescolamento delle intenzioni di voto in vista delle prossime scadenze elettorali nazionali.",
   "z9dea3473": "Nelle ultime settimane, le istituzioni europee e tedesche hanno intensificato i preparativi per le celebrazioni dell’anniversario della caduta del Muro di Berlino, avvenuta il 9 novembre 1989. In un contesto geopolitico segnato dal ritorno delle tensioni internazionali e dalla crescente frammentazione politica interna in Germania, i leader europei hanno concordato sulla necessità di riaffermare l'unità democratica del continente, trasformando le tradizionali commemorazioni in un manifesto a difesa dei valori civili e delle libertà fondamentali.",
-  "zb8237b6a": "Nelle scorse settimane il governo italiano e i commissari straordinari di Acciaierie d’Italia hanno accelerato le procedure del bando di gara per la cessione dei complessi aziendali dell’ex Ilva, fissando la scadenza per le offerte vincolanti. Mentre Federacciai tentava di compattare una cordata unitaria di industriali italiani del settore siderurgico, i gruppi Arvedi e Jindal hanno completato le proprie verifiche tecniche e contabili prima di avanzare formalmente le rispettive proposte d'acquisto individuali."
+  "zb8237b6a": "Nelle scorse settimane il governo italiano e i commissari straordinari di Acciaierie d’Italia hanno accelerato le procedure del bando di gara per la cessione dei complessi aziendali dell’ex Ilva, fissando la scadenza per le offerte vincolanti. Mentre Federacciai tentava di compattare una cordata unitaria di industriali italiani del settore siderurgico, i gruppi Arvedi e Jindal hanno completato le proprie verifiche tecniche e contabili prima di avanzare formalmente le rispettive proposte d'acquisto individuali.",
+  "z880a5dfd": "Nei giorni precedenti l'attacco contro la rete energetica ucraina con missili KN-23 nordcoreani, Mosca e Kiev avevano concordato pause operative locali a Kherson. Parallelamente, le diplomazie di Ucraina, Stati Uniti e Russia hanno impostato un tavolo di trattativa ad Abu Dhabi, mentre Kiev ha intrapreso contatti strategici con Nuova Delhi per affrontare le questioni della sicurezza alimentare nel Mar Nero.",
+  "z59c2148e": "Negli ultimi giorni il dibattito politico ed economico in Italia si è concentrato sulle misure contenute nella legge di bilancio per l'anno 2027. Le audizioni parlamentari e il confronto con le istituzioni comunitarie hanno riguardato i saldi di finanza pubblica, la rimodulazione delle aliquote fiscali e le risorse destinate alla spesa energetica e militare.",
+  "z66b2c64e": "Negli ultimi giorni diversi aeroporti e compagnie aeree commerciali hanno ricevuto una serie coordinata di messaggi di posta elettronica con minacce di ordigni esplosivi, rivelatesi poi infondate, che hanno provocato ritardi e disagi nei cieli europei e italiani. Parallelamente, le autorità informatiche hanno rilevato incursioni rivendicate dal collettivo filorusso NoName057(16), culminate nella diffusione clandestina sul dark web di recapiti e documenti riservati appartenenti a figure di vertice del governo italiano.",
+  "z6765060f": "La pressione dell'amministrazione statunitense su Teheran si è intensificata dopo mesi di crescenti attriti regionali legati alle forniture di droni e missili alle milizie mediorientali e al sostegno russo. Washington ha progressivamente inasprito le sanzioni finanziarie e marittime contro la rete logistica iraniana. Di fronte al rischio concreto di una più vasta destabilizzazione nell'area, la Casa Bianca ha deciso di centralizzare l'azione informativa per interrompere i canali di rifornimento bellico attraverso un dispositivo dedicato.",
+  "z643b8cdb": "I preparativi per l'accoglienza pontificia nella capitale argentina hanno richiesto settimane di imponenti lavori logistici nel quartiere di Palermo, mobilitando tecnici, autorità cittadine e vertici ecclesiastici. La progettazione della gigantesca struttura a più livelli, commissionata per consentire la visibilità della celebrazione eucaristica a una folla oceanica, è stata accompagnata da un massiccio piano di sicurezza urbana e investimenti dedicati. L'evento ha richiamato pellegrini da tutto il Sudamerica per la solenne liturgia all'aperto.",
+  "z7008ada0": "Con l'avvicinarsi della stagione fredda, le forze russe hanno ripreso a colpire sistematicamente le centrali di generazione elettrica, le sottostazioni e gli snodi di trasmissione ucraini tramite sciami di droni e missili balistici. La campagna di logoramento delle reti civili ha provocato ripetuti blackout a catena, mettendo a dura prova la tenuta dei servizi primari e spingendo Kiev a sollecitare con urgenza forniture addizionali di sistemi Patriot e munizioni antiaeree agli alleati occidentali."
  },
  "cronologie": {
   "zc228f954": [
@@ -2330,6 +4855,86 @@ window.EDIZIONI["2026-11-09-sera"] = {
    [
     "Lunedì mattina",
     "Fermo di Áron Orbán e conferenza del premier Péter Magyar"
+   ]
+  ],
+  "z880a5dfd": [
+   [
+    "Sabato 7 novembre 2026",
+    "Attacco russo a un sito energetico ucraino con missili balistici nordcoreani."
+   ],
+   [
+    "Domenica 8 novembre 2026",
+    "Colloquio telefonico tra Volodymyr Zelensky e il primo ministro indiano Narendra Modi."
+   ],
+   [
+    "Lunedì 9 novembre 2026",
+    "Zelensky denuncia l'uso della tregua a Kherson da parte russa prima dei colloqui di Abu Dhabi."
+   ]
+  ],
+  "z59c2148e": [
+   [
+    "9 novembre 2026",
+    "La Corte dei Conti rilascia le sue valutazioni sulla manovra economica e le aliquote Irpef."
+   ],
+   [
+    "9 novembre 2026",
+    "Il Consiglio Ecofin approva la flessibilità di bilancio per l'Italia su difesa ed energia."
+   ]
+  ],
+  "z66b2c64e": [
+   [
+    "Scorse settimane",
+    "Attacchi informatici e violazioni di dati rivendicati da NoName057(16) contro canali istituzionali"
+   ],
+   [
+    "Nei giorni scorsi",
+    "Ondata di false e-mail con allarmi bomba recapitata a scali e voli commerciali"
+   ],
+   [
+    "Oggi",
+    "La Procura di Milano apre il fascicolo per pubblica intimidazione e procurato allarme"
+   ]
+  ],
+  "z6765060f": [
+   [
+    "Mesi scorsi",
+    "Inasprimento delle sanzioni statunitensi sui traffici marittimi e militari iraniani"
+   ],
+   [
+    "Giorni scorsi",
+    "Crescente allarme internazionale per il trasferimento di armamenti nell'area mediorientale"
+   ],
+   [
+    "Oggi",
+    "Annuncio ufficiale dell'attivazione della task force militare Iron Gate"
+   ]
+  ],
+  "z643b8cdb": [
+   [
+    "Settimane scorse",
+    "Avvio del cantiere per la struttura monumentale a Palermo con piano da 5,6 milioni di dollari"
+   ],
+   [
+    "Giorni scorsi",
+    "Collaudo dell'impianto scenico e allestimento dei varchi per l'accesso dei fedeli"
+   ],
+   [
+    "Oggi",
+    "Celebrazione della messa solenne davanti a oltre due milioni di persone"
+   ]
+  ],
+  "z7008ada0": [
+   [
+    "Ultime settimane",
+    "Nuova ondata di raid russi mirati contro la rete elettrica civile ucraina"
+   ],
+   [
+    "Giorni scorsi",
+    "Danni critici alle sottostazioni nelle regioni di Dnipropetrovsk e Charkiv"
+   ],
+   [
+    "Oggi",
+    "Oltre 850 mila utenze al buio e appello urgente di Kiev al G7 per la difesa aerea"
    ]
   ]
  },
@@ -2446,6 +5051,112 @@ window.EDIZIONI["2026-11-09-sera"] = {
     }
    ],
    "divergono": "Le testate presentano divergenze sui dettagli tecnici e sulla contestualizzazione. Sul volume dei dati sottratti, Il Sole 24 Ore riporta cifre puntuali (222 megabyte e 302 file), mentre ANSA e Il Messaggero indicano stime generiche (oltre 220 megabyte e circa 300 file). Per il riscatto, Il Sole 24 Ore menziona sia Bitcoin sia Monero, a fronte del solo bitcoin citato da ANSA e Il Messaggero. Riguardo alle implicazioni, ANSA enfatizza le rassicurazioni di Piantedosi sull'assenza di un'emergenza; Il Messaggero collega il gesto a un vertice delle polizie europee; infine, il secondo articolo de Il Sole 24 Ore inquadra gli attacchi cyber nella pista della guerra ibrida filorussa."
+  },
+  "z880a5dfd": {
+   "voci": [
+    {
+     "n": "Meduza",
+     "c": "Riga (in esilio)",
+     "p": "XX",
+     "t": "Meduza riporta l'accusa di Zelensky a Mosca di aver sfruttato la tregua a Oleshky per ruotare truppe e rafforzare posizioni. L'articolo affianca la versione russa di Peskov, che parla di «pratica comune», citando la presunta mediazione di Melania Trump per l'«operazione umanitaria». Il tono è informativo.",
+     "b": "a"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "c": "Kyiv",
+     "p": "XX",
+     "t": "The Kyiv Independent mette in evidenza i colloqui tra Zelensky e il premier indiano Modi prima dei negoziati di Abu Dhabi. Riporta l'invito a un ruolo dell'India nella sicurezza alimentare e nello sblocco delle esportazioni di grano. Include inoltre dettagli su esercitazioni militari, sanzioni e attacchi all'infrastruttura energetica.",
+     "b": "a"
+    },
+    {
+     "n": "Ukrinform",
+     "c": "Kyiv",
+     "p": "XX",
+     "t": "La voce dell'Ucraina riferisce della telefonata tra Zelensky e Modi. Riporta le dichiarazioni del presidente ucraino sulla disponibilità di New Delhi a mediare per i corridoi alimentari nel Mar Nero e la sollecitazione a Mosca per la de-escalation ad Abu Dhabi. L'articolo ha un tono ufficiale e informativo.",
+     "b": "a"
+    },
+    {
+     "n": "Egypt Independent",
+     "c": "Il Cairo",
+     "p": "XX",
+     "t": "Egypt Independent si concentra sull'incontro tra il ministro egiziano Rostom e l'ambasciatore indiano Reddy. L'articolo tratta di cooperazione economica, finanziamenti innovativi e startup, menzionando investimenti indiani per 5 miliardi di dollari in Egitto. Non fa alcun riferimento alla situazione in Ucraina ed è puramente informativo.",
+     "b": "a"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "The Straits Times riferisce del colloquio telefonico tra Zelensky e Modi prima dei colloqui trilaterali ad Abu Dhabi tra Russia, Ucraina e Stati Uniti. Mette in risalto la disponibilità indiana a mediare per i corridoi del grano nel Mar Nero. L'articolo mantiene un tono neutro e informativo.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate adottano prospettive profondamente diverse. Meduza si concentra sulle accuse di Zelensky circa l'uso improprio della tregua a Oleshky da parte russa per ruotare truppe, riportando anche le smentite del Cremlino. Diversamente, The Kyiv Independent, Ukrinform e The Straits Times focalizzano l'attenzione sui colloqui di pace ad Abu Dhabi e sulla mediazione indiana per le esportazioni di grano nel Mar Nero. Egypt Independent ignora completamente il contesto bellico ucraino, riportando esclusivamente un incontro bilaterale tra Egitto e India su startup e cooperazione economica."
+  },
+  "z6765060f": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Al Jazeera analizza l'annuncio di Trump sulla Task Force Iron Gate contro le reti militari iraniane. Citando esperti militari, l'articolo mette in dubbio la possibilità di isolare l'Iran senza cooperazione regionale e avverte del rischio di «subvertire la diplomazia» o innescare un'«escalation». Il tono è critico e analitico.",
+     "b": "a"
+    },
+    {
+     "n": "Gulf News",
+     "c": "Dubai",
+     "p": "XX",
+     "t": "Gulf News inserisce l'annuncio di Trump in una rassegna di notizie sul conflitto mediorientale. Riporta l'operatività della task force insieme a dichiarazioni militari iraniane, attacchi nei Paesi vicini, andamento del prezzo del petrolio e incontri internazionali previsti. L'articolo adotta un tono composito e informativo.",
+     "b": "a"
+    },
+    {
+     "n": "RNZ Pacific",
+     "c": "Wellington",
+     "p": "XX",
+     "t": "RNZ Pacific si concentra sulla missione dei leader del Pacific Islands Forum in Medio Oriente per raccogliere fondi contro il cambiamento climatico. Riporta la giustificazione della collaborazione con i Paesi della regione, inclusa Israele, sulla base di «valori condivisi» ambientali. L'articolo è puramente informativo.",
+     "b": "a"
+    },
+    {
+     "n": "Matangi Tonga",
+     "c": "Nuku'alofa",
+     "p": "XX",
+     "t": "Matangi Tonga riferisce della richiesta del governo di Tonga di riesaminare 21 raccomandazioni della Financial Action Task Force dopo le nuove leggi anti-riciclaggio. L'articolo riguarda esclusivamente questioni di regolamentazione finanziaria interna e presenta un tono puramente informativo e istituzionale.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le narrazioni divergono nettamente nell'oggetto e nell'inquadramento. Al Jazeera analizza criticamente l'iniziativa statunitense, dando spazio a esperti che evidenziano i limiti tecnici e i rischi diplomatici della Task Force Iron Gate. Gulf News colloca la notizia all'interno di un panorama informativo ampio, che unisce mercati finanziari, attacchi nell'area e reazioni iraniane. Al contrario, RNZ Pacific e Matangi Tonga non trattano la misura militare di Washington: la testata del Pacifico descrive la diplomazia climatica con i Paesi mediorientali, mentre quella tongana riferisce di norme antiriciclaggio nazionali senza alcun legame con la crisi iraniana."
+  },
+  "z643b8cdb": {
+   "voci": [
+    {
+     "n": "Clarín",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "Descrive in modo dettagliato il monumentale palco di 24 metri a Palermo e la sua simbologia religiosa ideata da un sacerdote. Riporta la presenza di circa due milioni di fedeli, il costo di 5,6 milioni di dollari gestito da DF Entertainment e i precedenti storici del luogo.",
+     "b": "a"
+    },
+    {
+     "n": "La Nación",
+     "c": "Buenos Aires",
+     "p": "XX",
+     "t": "Si focalizza sulla cronaca giudiziaria e investigativa, riportando l'arresto vicino al palco del venticinquenne Tomás Eduardo Natenzon. Riferisce le fonti investigative, l'accusa di intimidazione pubblica e il sequestro nella sua abitazione di una pistola, munizioni e decine di apparati di comunicazione radio.",
+     "b": "a"
+    },
+    {
+     "n": "La Nación CR",
+     "c": "San José",
+     "p": "XX",
+     "t": "Dà conto dell'arresto del finto operatore vaticano Tomás Natenzon, citando fonti della polizia argentina e la decisione della magistrata Servini. Inoltre, allarga lo sguardo all'imponente apparato di sicurezza, quantificato in oltre 19.000 agenti e strutturato su tre anelli concentrici.",
+     "b": "a"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Mette al centro l'omelia del Papa incentrata sulla famiglia e le difficoltà sociali. Riporta la cifra record di due milioni e mezzo di fedeli secondo la polizia nazionale, segnala la presenza in prima fila del presidente Milei e analizza le frizioni politiche interne alla sua maggioranza.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate affrontano l'evento con angolature del tutto differenti. Clarín dedica la propria attenzione all'architettura monumentale del palco, ai suoi costi e al significato liturgico, mentre ANSA si concentra sui contenuti dell'omelia papale, sulle ricadute politiche interne al governo Milei e stima la folla in due milioni e mezzo di persone, contro i circa due milioni indicati da Clarín. Al contrario, La Nación e La Nación CR mettono totalmente da parte la cerimonia per concentrarsi sul profilo di sicurezza e sull'arresto del giovane infiltrato Tomás Natenzon; tra le due, la testata argentina approfondisce le perquisizioni e le armi sequestrate, mentre quella costaricana descrive l'ampiezza dell'intero dispositivo di protezione."
   }
  },
  "luoghi": {
@@ -2895,6 +5606,514 @@ window.EDIZIONI["2026-11-09-sera"] = {
     "Burundi"
    ],
    "pt": []
+  },
+  "z66b2c64e": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zaec1c981": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zfde1278e": {
+   "n": "Teheran",
+   "p": [
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z46129772": {
+   "n": "Pretoria",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z79cc335e": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8359a616": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z880a5dfd": {
+   "n": "Cherson",
+   "p": [
+    "Ukraine",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z6765060f": {
+   "n": "Washington",
+   "p": [
+    "United States of America",
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z72798cb6": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "ze934058e": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "zacb2b3dc": {
+   "n": "Tokyo",
+   "p": [
+    "Japan",
+    "China"
+   ],
+   "pt": []
+  },
+  "zf48e10b6": {
+   "n": "Washington",
+   "p": [
+    "United States of America",
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "zd0b88849": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z03d76507": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z98543d02": {
+   "n": "Praga",
+   "p": [
+    "Czechia"
+   ],
+   "pt": []
+  },
+  "z04cdbad4": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "zc869005d": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z6c649dee": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "zf799fcad": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z3d21dc78": {
+   "n": "Vienna",
+   "p": [
+    "Austria"
+   ],
+   "pt": []
+  },
+  "z74b47f96": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z5e1a52f0": {
+   "n": "Marte",
+   "p": [],
+   "pt": []
+  },
+  "z5d7ecc1e": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z90bd8ee1": {
+   "n": "Stato dell'Amazonas",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "zb312ff19": {
+   "n": "Milano",
+   "p": [
+    "Italy",
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z469861a8": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z09f6b4d8": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z4c58dc2e": {
+   "n": "Oleshky",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z6af9bce9": {
+   "n": "Isole Summer",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z7fea0d7b": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z04e8ed5e": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z5eb07a18": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom",
+    "North Korea"
+   ],
+   "pt": []
+  },
+  "z51cef491": {
+   "n": "Texas",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z38ed1a94": {
+   "n": "Il Cairo",
+   "p": [
+    "Egypt",
+    "Libya",
+    "China"
+   ],
+   "pt": []
+  },
+  "z3a8c7a78": {
+   "n": "Sudamerica",
+   "p": [
+    "Chile",
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z25106374": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5235c2d5": {
+   "n": "Chisinau",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z8d9c130d": {
+   "n": "North Yorkshire",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z5d2f3bfd": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z59c2148e": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z42d35db7": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5fad509e": {
+   "n": "Russia",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z6e4aeecd": {
+   "n": "Maldive",
+   "p": [
+    "Maldives",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zc5873b64": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z5cfd4164": {
+   "n": "Stretto di Hormuz",
+   "p": [
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za922e832": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z9f4df244": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2e34dc66": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z3aaa9ad2": {
+   "n": "Pärnu",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z6998bf92": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z254a366a": {
+   "n": "Monaco di Baviera",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z997bfbdc": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z643b8cdb": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "zf17a42c4": {
+   "n": "Johannesburg",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zae804b4c": {
+   "n": "Swabi",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "z49da8670": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zd84bf519": {
+   "n": "Auckland",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z60f00fc4": {
+   "n": "Naryn",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z648ee8a7": {
+   "n": "Baku",
+   "p": [
+    "Azerbaijan"
+   ],
+   "pt": []
+  },
+  "zae2e5b36": {
+   "n": "Antalya",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z75d60709": {
+   "n": "Muanda",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zcc5e75f8": {
+   "n": "Kindu",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "ze56cea2d": {
+   "n": "Lamu",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z50f87f5c": {
+   "n": "Tripoli",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "zb07cb6bf": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z89e5723a": {
+   "n": "Torino",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zbc1a7717": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zaa1e15bc": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z23582f68": {
+   "n": "Freetown",
+   "p": [
+    "Sierra Leone"
+   ],
+   "pt": []
+  },
+  "z26fc44be": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z73e64cda": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -2936,7 +6155,7 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zb0e112f3": 1,
   "z602404a2": 1,
   "zd282c06d": 1,
-  "z07c55e06": 1,
+  "z07c55e06": 2,
   "z1a2b64d6": 2,
   "zcaa380a0": 1,
   "zff7b0288": 2,
@@ -2961,7 +6180,78 @@ window.EDIZIONI["2026-11-09-sera"] = {
   "zc2115a62": 1,
   "zabcfb80f": 1,
   "zd4f75272": 1,
-  "z0b8c322c": 1
+  "z0b8c322c": 1,
+  "z66b2c64e": 2,
+  "zaec1c981": 2,
+  "zfde1278e": 1,
+  "z46129772": 1,
+  "z79cc335e": 1,
+  "z8359a616": 1,
+  "z880a5dfd": 2,
+  "z6765060f": 2,
+  "z72798cb6": 1,
+  "ze934058e": 1,
+  "zacb2b3dc": 2,
+  "zf48e10b6": 2,
+  "zd0b88849": 1,
+  "z03d76507": 1,
+  "z98543d02": 1,
+  "z04cdbad4": 1,
+  "zc869005d": 1,
+  "z6c649dee": 1,
+  "zf799fcad": 1,
+  "z3d21dc78": 1,
+  "z74b47f96": 2,
+  "z5e1a52f0": 2,
+  "z5d7ecc1e": 1,
+  "z90bd8ee1": 1,
+  "zb312ff19": 1,
+  "z469861a8": 1,
+  "z09f6b4d8": 1,
+  "z4c58dc2e": 1,
+  "z6af9bce9": 1,
+  "z7fea0d7b": 1,
+  "z04e8ed5e": 1,
+  "z5eb07a18": 1,
+  "z51cef491": 1,
+  "z38ed1a94": 1,
+  "z3a8c7a78": 1,
+  "z25106374": 1,
+  "z5235c2d5": 1,
+  "z8d9c130d": 1,
+  "z5d2f3bfd": 1,
+  "z59c2148e": 1,
+  "z42d35db7": 1,
+  "z5fad509e": 1,
+  "z6e4aeecd": 1,
+  "zc5873b64": 1,
+  "z5cfd4164": 1,
+  "za922e832": 2,
+  "z9f4df244": 1,
+  "z2e34dc66": 1,
+  "z3aaa9ad2": 1,
+  "z6998bf92": 1,
+  "z254a366a": 1,
+  "z997bfbdc": 1,
+  "z643b8cdb": 2,
+  "zf17a42c4": 1,
+  "zae804b4c": 1,
+  "z49da8670": 1,
+  "zd84bf519": 1,
+  "z60f00fc4": 1,
+  "z648ee8a7": 1,
+  "zae2e5b36": 2,
+  "z75d60709": 1,
+  "zcc5e75f8": 1,
+  "ze56cea2d": 1,
+  "z50f87f5c": 1,
+  "zb07cb6bf": 2,
+  "z89e5723a": 1,
+  "zbc1a7717": 1,
+  "zaa1e15bc": 1,
+  "z23582f68": 1,
+  "z26fc44be": 1,
+  "z73e64cda": 1
  },
  "video": {},
  "pillole": []
