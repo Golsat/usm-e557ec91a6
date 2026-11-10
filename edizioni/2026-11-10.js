@@ -70,7 +70,7 @@ window.EDIZIONI["2026-11-10"] = {
   },
   {
    "id": "z5b17d0df",
-   "sez": "ambiente",
+   "sez": "cultura",
    "titolo": "Annunciata la scoperta di due presunte nuove opere di Caravaggio in Italia",
    "orig": "Abbiamo due nuove opere di Caravaggio?",
    "lead": "Due studiosi italiani hanno reso note le rispettive scoperte relative a due presunte nuove opere del celebre pittore Michelangelo Merisi, noto come Caravaggio. Sulla seconda opera, tuttavia, le informazioni finora disponibili restano molto limitate e la comunità scientifica attende ulteriori verifiche per confermare l'attribuzione dei dipinti al maestro del Seicento. Lo riferisce Il Post.",
