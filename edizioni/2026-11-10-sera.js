@@ -660,7 +660,7 @@ window.EDIZIONI["2026-11-10-sera"] = {
   },
   {
    "id": "z745a8289",
-   "sez": "ingegneria",
+   "sez": "viaggi",
    "titolo": "Turismo in Corea del Nord: i flussi dalla Russia restano stabili nei primi nove mesi",
    "orig": "Russian visits to North Korea plateaued in first nine months, data shows",
    "lead": "Il numero di visitatori russi in Corea del Nord è rimasto stabile nei primi nove mesi dell'anno, senza registrare la crescita prevista rispetto al 2025. Nonostante un record di quasi 3.900 ingressi nel terzo trimestre, i dati ufficiali mostrano che il flusso complessivo non è aumentato significativamente. La stagnazione dei viaggi avviene nonostante il rafforzamento dei legami politici e militari tra Mosca e Pyongyang, che aveva fatto presagire un massiccio incremento del turismo organizzato tra i due Paesi alleati. Lo riferisce NK News.",
@@ -805,7 +805,7 @@ window.EDIZIONI["2026-11-10-sera"] = {
   },
   {
    "id": "z0cdb693e",
-   "sez": "mondo",
+   "sez": "spazio",
    "titolo": "Marte, scoperta di gas vulcanici: possibile prova di attività biologica",
    "orig": "Martian Volcanic Discovery Could Be ‘Smoking Gun’ in Search for Life",
    "lead": "La scoperta di gas cloridrato che fuoriesce da fenditure vulcaniche su Marte potrebbe rappresentare un indizio cruciale nella ricerca di vita sul pianeta rosso. Il professor Daniel Mège ha paragonato il ritrovamento alla ricerca di un ago in un pagliaio, evidenziando come queste tracce gassose suggeriscano un'attività geologica o biologica ancora presente. La scoperta apre nuove prospettive per le future missioni spaziali, concentrando l'attenzione sulle zone vulcaniche come potenziali habitat per forme di vita microbiche nel sottosuolo marziano. Lo riferisce Good News Network.",
@@ -1838,75 +1838,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
      "angolo": "",
      "atlas": "Guinea",
      "t": "2026-11-10T10:48+00:00"
-    }
-   ],
-   "data": "10 nov",
-   "ora": "17:15",
-   "uscita": "17"
-  },
-  {
-   "id": "z1424a800",
-   "sez": "prima",
-   "titolo": "Attacchi hacker in Italia: vertice al Viminale per rafforzare le difese cyber",
-   "orig": "Attacchi hacker, il fine è destabilizzare",
-   "lead": "Il Comitato nazionale per l'ordine e la sicurezza pubblica si è riunito al Viminale per esaminare la recente ondata di attacchi informatici contro le infrastrutture italiane. Il ministro Matteo Piantedosi ha evidenziato come queste offensive mirino a destabilizzare il Paese tramite falsi allarmi e intrusioni nei sistemi vulnerabili di ASL e Comuni. È stato deciso di potenziare il monitoraggio delle infrastrutture strategiche e di allertare le aziende contro le minacce aggravate dall'intelligenza artificiale. All'esame del Senato c'è anche un piano per incrementare le competenze cyber delle forze armate, prevedendo l'inserimento di 1.200 specialisti per proteggere il perimetro digitale nazionale. Lo riferisce Rai News.",
-   "more": [
-    "La cybersicurezza è essenziale per la protezione dei dati dei cittadini e il funzionamento dei servizi pubblici. Gli attacchi informatici, spesso condotti tramite malware o sovraccarico dei server, possono interrompere l'erogazione di servizi sanitari o amministrativi. La difesa digitale è oggi parte integrante della sicurezza nazionale e richiede investimenti in tecnologie e personale qualificato per contrastare minacce sempre più sofisticate e coordinate a livello internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/attacchi-hacker-il-fine-e-destabilizzare-62d40b19-0685-41c9-8c17-961ce4ff9d02.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-10T14:35+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/rafforzare-il-monitoraggio-dei-sistemi-di-sicurezza-vulnerabili-dopo-gli-attacchi-hacker_a69e29d7-22a9-40af-b259-21470a0b0e46.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-10T16:20+01:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/cronaca/2026/11/10/news/viminale_attacchi_hacker_misure_sicurezza-425713150/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-10T13:32+00:00"
-    },
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/cyberattacchi-e-falsi-allarmi-bomba-vertice-viminale-vogliono-destabilizzare-l-italia-AJHWKaBC",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-10T15:16+00:00"
-    },
-    {
-     "n": "Il Sole 24 Ore",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilsole24ore.com/art/sfida-cyber-si-riunisce-comitato-nazionale-italia-competenze-frammentate-contro-attacchi-AJigY09B",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-10T06:55+00:00"
-    },
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/cronaca/2026/11/10/attacchi-hacker-italia-comitato-sicurezza-pubblica-oggi",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-10T15:07+00:00"
     }
    ],
    "data": "10 nov",
@@ -3981,7 +3912,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "z77833779": "Rappler fornisce una guida pratica per gli elettori filippini in vista delle prossime scadenze democratiche.",
   "z8794bfaf": "Gabonreview riporta l'avvio effettivo del servizio di roaming gratuito tra le due nazioni africane.",
   "zd8cac74b": "Seneweb riporta la convocazione diplomatica in Niger, mentre Guinée News segue il processo per l'orpaillage.",
-  "z1424a800": "Rai News mette in risalto l'obiettivo destabilizzante degli attacchi hacker analizzati dal Viminale.",
   "za5f1a6f5": "Al Jazeera approfondisce il profilo di Teganya e le accuse a suo carico legate al massacro del 1994.",
   "zfdd532fb": "ABC News Australia si interroga sulla reale fattibilità della promessa di Palmer di rilanciare il resort.",
   "z4faa2742": "Vatican News celebra l'anniversario religioso, mentre Mail & Guardian avverte sui rischi climatici imminenti.",
@@ -4001,8 +3931,7 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "z8b8d55e5": "Dopo lo scoppio delle ostilità in Medio Oriente, il calendario della Formula 1 ha subito incertezze. Gli organizzatori avevano inizialmente preso in considerazione circuiti europei come Imola per sostituire le tappe considerate a rischio. Tuttavia, dopo valutazioni sulla sicurezza e rassicurazioni dai governi locali, la federazione ha deciso di mantenere l'itinerario originale per il finale di stagione.",
   "z92a0d708": "L'annuncio dell'introduzione degli Oasis aveva suscitato grande attesa tra i fan, vista la storica turbolenza tra i fratelli Gallagher. Negli ultimi anni, l'istituzione ha cercato di includere più icone del britpop, incontrando però spesso il rifiuto di artisti che considerano la cerimonia un evento troppo formale e lontano dallo spirito originale del rock.",
   "zaddb80c3": "Il percorso delle conferenze ONU sul clima è stato segnato negli anni da crescenti proteste per la lentezza delle decisioni politiche. Greta Thunberg ha disertato diversi vertici passati per protesta, sostenendo che le promesse dei governi non fossero seguite da azioni concrete. La scelta di ospitare la COP in Paesi con forti interessi petroliferi è stata al centro di accese polemiche.",
-  "z80951824": "Il manuale di storia era già finito al centro delle critiche oltre un anno fa per i suoi giudizi politici. Recentemente, un'interrogazione parlamentare di Fratelli d'Italia ha riacceso il caso, portando il Ministro dell'Istruzione a intervenire duramente contro i contenuti del volume, giudicati faziosi e non idonei alla formazione imparziale degli studenti.",
-  "z1424a800": "Nelle scorse settimane l'Italia è stata bersaglio di ripetuti attacchi informatici che hanno colpito portali istituzionali e servizi digitali pubblici. Le autorità avevano già lanciato l'allerta sulla vulnerabilità dei sistemi informatici locali, spesso privi di difese aggiornate contro i moderni ransomware. Il governo ha iniziato a valutare nuove misure legislative per centralizzare la gestione della sicurezza informatica e proteggere meglio i dati sensibili dei cittadini italiani dalle offensive esterne coordinate da gruppi hacker stranieri."
+  "z80951824": "Il manuale di storia era già finito al centro delle critiche oltre un anno fa per i suoi giudizi politici. Recentemente, un'interrogazione parlamentare di Fratelli d'Italia ha riacceso il caso, portando il Ministro dell'Istruzione a intervenire duramente contro i contenuti del volume, giudicati faziosi e non idonei alla formazione imparziale degli studenti."
  },
  "cronologie": {
   "z1f7d8ba4": [
@@ -4113,20 +4042,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
    [
     "2024/11/10",
     "Scontro diretto tra Valditara e l'editore Laterza sulla libertà di stampa"
-   ]
-  ],
-  "z1424a800": [
-   [
-    "9 Novembre 2026",
-    "Riunione straordinaria del Comitato per la Sicurezza al Viminale presieduta da Piantedosi"
-   ],
-   [
-    "7 Novembre 2026",
-    "Serie di attacchi informatici coordinati contro siti istituzionali e sistemi sanitari regionali"
-   ],
-   [
-    "5 Novembre 2026",
-    "Primi allarmi ufficiali dell'Agenzia per la Cybersicurezza Nazionale sulle vulnerabilità sistemiche"
    ]
   ]
  },
@@ -5012,13 +4927,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
    ],
    "pt": []
   },
-  "z1424a800": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "za5f1a6f5": {
    "n": "Kigali",
    "p": [
@@ -5180,7 +5088,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "z77833779": 2,
   "z8794bfaf": 1,
   "zd8cac74b": 1,
-  "z1424a800": 3,
   "za5f1a6f5": 2,
   "zfdd532fb": 1,
   "z4faa2742": 1,
