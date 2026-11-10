@@ -3,6 +3,2248 @@ window.EDIZIONI["2026-11-10-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zed62b8e1",
+   "sez": "italia",
+   "titolo": "Inchiesta urbanistica a Milano: chiesta l'archiviazione per Sala e Boeri",
+   "orig": "Urbanistica, chiesta archiviazione per Sala, Boeri e Catella. Il sindaco: “Resta l’amarezza”",
+   "lead": "La Procura di Milano ha chiesto l'archiviazione per il sindaco Giuseppe Sala, l'architetto Stefano Boeri e l'imprenditore Manfredi Catella nell'ambito di un'inchiesta sulla gestione urbanistica della città. Sebbene i pubblici ministeri abbiano riscontrato alcune anomalie procedurali, hanno concluso che non sono stati commessi reati. L'indagine, che nel 2025 aveva portato a diversi arresti tra funzionari e imprenditori, vedeva Sala indagato per induzione indebita. Il sindaco ha espresso amarezza per il lungo coinvolgimento giudiziario nonostante la caduta di tutte le accuse mosse contro di lui.",
+   "more": [
+    "L'inchiesta si è concentrata sulle procedure di approvazione per grandi progetti immobiliari a Milano, esaminando i rapporti tra amministrazione pubblica e privati. Le indagini urbanistiche in Italia spesso riguardano la corretta applicazione dei piani regolatori e il calcolo degli oneri di urbanizzazione, temi centrali per lo sviluppo delle aree metropolitane e la trasparenza delle concessioni edilizie."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://milano.repubblica.it/cronaca/2026/11/10/news/urbanistica_procura_richiesta_archiviazione_corruzione_sala_catella_boeri-425713033/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T12:37+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/pm-archiviazione-per-sala-boeri-catella-5e44f0bb-190c-4b00-89dd-f3b8447bc1d8.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T15:00+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z315fb24f",
+   "sez": "economia",
+   "titolo": "Manovra economica, l'Abi solleva dubbi di costituzionalità sulle misure bancarie",
+   "orig": "Manovra, l'Abi: 'Sulle banche dal 2025 misure fiscali per 22 miliardi di euro'. Dubbi di costituzionalità",
+   "lead": "L'Associazione Bancaria Italiana (Abi) ha espresso forti preoccupazioni sulla manovra economica, stimando un impatto fiscale di 22 miliardi di euro sul settore bancario a partire dal 2025. L'associazione ha sollevato dubbi di costituzionalità, in particolare sulla norma che riguarda i crediti d'imposta del Superbonus, sostenendo che essa contrasti con le sentenze della Corte Costituzionale. Secondo l'Abi, tali misure gravano eccessivamente sugli investimenti degli istituti di credito, rallentando potenzialmente il supporto finanziario all'economia reale e penalizzando lo sviluppo del Paese.",
+   "more": [
+    "Le banche italiane sono state coinvolte massicciamente nella gestione dei crediti legati ai bonus edilizi. Le modifiche retroattive o le restrizioni alla compensazione di questi crediti possono alterare gli equilibri patrimoniali degli istituti, incidendo sulla loro capacità di erogare nuovi prestiti a famiglie e imprese secondo le rigide normative europee sulla solidità bancaria."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/10/manovra-labi-sulle-banche-dal-2025-misure-fiscali-per-22-miliardi_c2e7ae7d-cb17-4bcb-80d1-2c3b67244d5f.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T16:50+01:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/manovra-abi-pesa-su-investimenti-banche-0958846d-5fae-49b3-a6fc-ef0d7a10c653.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T11:36+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/manovracisl-uil-bene-ma-migliorabile-b12ff231-8876-477a-a4c9-4120290990d9.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T13:00+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zfaa6b97c",
+   "sez": "mondo",
+   "titolo": "Disastro ferroviario in Egitto: chieste responsabilità politiche dopo lo scontro",
+   "orig": "Deadly Egypt train crash prompts calls for political accountability",
+   "lead": "Un tragico scontro tra treni avvenuto ad al-Ayyat, in Egitto, ha provocato vittime e riacceso durissime polemiche sulla sicurezza ferroviaria nel Paese. L'incidente ha scatenato immediate richieste di responsabilità politica e una revisione urgente dei piani di ammodernamento della rete ferroviaria nazionale, spesso segnata da disastri simili. L'opinione pubblica e diverse forze politiche chiedono che il governo risponda delle carenze strutturali che continuano a causare morti sulle linee ferrate egiziane, nonostante le promesse di upgrade. Lo riferisce Al Jazeera.",
+   "more": [
+    "La rete ferroviaria egiziana è una delle più antiche e vaste del mondo arabo, ma soffre da decenni di mancanza di investimenti e scarsa manutenzione. Nonostante i recenti annunci governativi di investimenti multimiliardari per modernizzare i segnali e i binari, l'elevata frequenza di incidenti mortali evidenzia la persistenza di gravi criticità sistemiche."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T15:22+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zd3aac385",
+   "sez": "mondo",
+   "titolo": "Formula 1 e solidarietà: Lewis Hamilton visita il valico di Rafah",
+   "orig": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+   "lead": "Il pilota di Formula 1 Lewis Hamilton si è recato in visita al valico di Rafah per osservare direttamente gli sforzi umanitari diretti verso la Striscia di Gaza. La visita del campione britannico mira a sensibilizzare l'opinione pubblica internazionale sulla crisi umanitaria nell'area e a testimoniare le grandi difficoltà nella consegna degli aiuti alla popolazione colpita dal conflitto. Hamilton ha espresso il desiderio di vedere di persona il lavoro delle organizzazioni impegnate sul campo nel tentativo di alleviare le sofferenze dei civili. Lo riferisce Al Jazeera.",
+   "more": [
+    "Il valico di Rafah, al confine tra l'Egitto e la Striscia di Gaza, è un punto nevralgico per l'ingresso di cibo e medicinali. Spesso soggetto a severe restrizioni per motivi di sicurezza, il valico rappresenta l'unico collegamento della Striscia non controllato direttamente da Israele, rendendolo vitale per la sopravvivenza dei residenti durante le crisi belliche."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T15:21+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z2a1d69d6",
+   "sez": "mondo",
+   "titolo": "Segnali di distensione: spiraglio diplomatico per la fine della guerra tra USA e Iran",
+   "orig": "‘Positive momentum’: Is the US war on Iran about to end?",
+   "lead": "Nuove pressioni politiche interne agli Stati Uniti starebbero ridando slancio ai colloqui diplomatici con l'Iran, alimentando le speranze per una possibile conclusione del conflitto. Gli analisti segnalano un momento positivo nei negoziati, pur avvertendo che la pace rimane estremamente fragile e appesa a un filo. La ripresa dei contatti diplomatici giunge dopo un lungo periodo di stallo, spinta dalla necessità di trovare una soluzione a una guerra che sta gravando sensibilmente sui contesti domestici di entrambi i Paesi. Lo riferisce Al Jazeera.",
+   "more": [
+    "Le relazioni tra Stati Uniti e Iran sono segnate da decenni di ostilità. Un conflitto aperto tra le due nazioni ha implicazioni globali immediate, influenzando i prezzi dell'energia, la sicurezza delle rotte marittime nel Golfo Persico e la stabilità dei Paesi limitrofi. La diplomazia cerca di bilanciare le esigenze di sicurezza nazionale con la stabilità economica mondiale."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T15:18+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z26771d7b",
+   "sez": "prima",
+   "titolo": "Difesa comune nel Golfo: i paesi del GCC istituiscono un comando avanzato in Kuwait",
+   "orig": "Why the GCC is setting up an advanced military command base in Kuwait",
+   "lead": "I leader del Consiglio di Cooperazione del Golfo (GCC) hanno approvato l'istituzione di una base di comando militare avanzata in Kuwait. L'iniziativa mira a rafforzare il coordinamento della difesa regionale per affrontare le sfide presenti e future, con piani che prevedono anche il dispiegamento di truppe. La nuova sede farà parte del comando militare congiunto dei sei Paesi del Golfo, con base principale a Riad, e rappresenta un passo significativo verso l'integrazione militare dell'area in un contesto di tensioni crescenti e minacce alla stabilità regionale.",
+   "more": [
+    "Il Consiglio di Cooperazione del Golfo, che comprende Arabia Saudita, Emirati Arabi Uniti, Qatar, Kuwait, Oman e Bahrein, cerca da tempo di creare un fronte unificato per la sicurezza. La stabilità dell'area è fondamentale per i mercati energetici globali, data la concentrazione di riserve di petrolio e gas naturale e la vicinanza a rotte marittime strategiche."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T12:09+00:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2639559/trump-says-qatar-saudi-prefer-peace-in-iran-conflict",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-10T04:53+05:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/mena/usisrael-iran-war-coalition-intercepts-houthi-missiles-fired-at-riyadh-as-trump-says-us-locked-and-loaded-republican-moves-to-impeach-hegseth-1.500741921",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-10T07:19+04:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/11/10/gcc-members-agree-to-station-forces-at-new-military-command-post-in-kuwait",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-10T16:19+01:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/952080/qatar-mediation-between-washington-and-tehran-continues-with-positive-responses-from-both-sides",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-10T14:08+03:00"
+    },
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/splm-n-activist-optimistic-about-mediation-efforts-in-nuba-mountains",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-10T12:27+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z8b8d55e5",
+   "sez": "prima",
+   "titolo": "Formula 1, la FIA conferma i Gran Premi in Qatar e Abu Dhabi nonostante le tensioni",
+   "orig": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
+   "lead": "Il presidente della FIA ha confermato che i Gran Premi di Formula 1 in Qatar e ad Abu Dhabi si svolgeranno regolarmente, nonostante le forti tensioni regionali dovute al conflitto in Medio Oriente. La rassicurazione arriva dopo la cancellazione del Gran Premio dell'Arabia Saudita all'inizio di quest'anno per motivi di sicurezza. La F1 ha inoltre abbandonato definitivamente il piano di emergenza che prevedeva una gara di recupero a Imola, in Italia, confermando la chiusura della stagione sportiva nei circuiti del Golfo Persico come originariamente programmato.",
+   "more": [
+    "La Formula 1 richiede una logistica complessa e massimi standard di sicurezza. La scelta di correre in zone geopoliticamente instabili è spesso oggetto di dibattito, ma i contratti a lungo termine con i Paesi del Golfo rappresentano una parte fondamentale del bilancio commerciale del campionato, portando entrate significative agli organizzatori e visibilità internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T14:01+00:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/sport/motorsport/abu-dhabi-grand-prix-still-on-as-f1-drops-imola-backup-1.500742840",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-10T19:25+04:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/sport/361057904/f1-ends-plans-backup-race-italy-season-finale-near",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-10T15:52+00:00"
+    },
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraq-qatar-to-lay-optical-fiber-cable-linking-singapore-to-italy/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-10T13:27+00:00"
+    },
+    {
+     "n": "Island Times",
+     "p": "XX",
+     "c": "Ngerulmud",
+     "u": "https://islandtimes.org/angaur-gubernatorial-race-ends-in-tie-constitutional-amendment-fails/",
+     "angolo": "",
+     "atlas": "Palau",
+     "t": "2026-11-06T11:26+00:00"
+    },
+    {
+     "n": "San Marino RTV",
+     "p": "XX",
+     "c": "San Marino",
+     "u": "https://www.sanmarinortv.sm/sport/motori-c17/f1-il-mondiale-si-chiudera-in-medio-oriente-svanisce-l-ipotesi-imola-a298351",
+     "angolo": "",
+     "atlas": "San Marino",
+     "t": "2026-11-10T04:26+01:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/10/formula-1-qatar-abu-dhabi-imola/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T13:37+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z92a0d708",
+   "sez": "musica",
+   "titolo": "Oasis, niente Rock and Roll Hall of Fame: la band snobba la cerimonia",
+   "orig": "La Hall of Fame perde i pezzi: anche gli Oasis dicono di no",
+   "lead": "Gli Oasis hanno deciso di non partecipare alla cerimonia di introduzione nella Rock and Roll Hall of Fame di Los Angeles, prevista per sabato 14 novembre. Liam Gallagher ha motivato l'assenza citando la vicinanza delle festività natalizie e altri impegni personali, mentre Noel Gallagher sarà impegnato in un concerto a Londra. La band si unisce così a una lista di leggende del rock, come David Bowie e i Sex Pistols, che hanno declinato l'invito, confermando un atteggiamento di distacco verso le celebrazioni istituzionali della musica mondiale.",
+   "more": [
+    "La Rock and Roll Hall of Fame è un'istituzione prestigiosa, ma spesso criticata per i criteri di selezione commerciali. L'assenza di artisti di alto profilo è un fenomeno ricorrente che rafforza l'immagine anticonformista di alcune band, coerentemente con lo spirito originale del genere rock nato come forma di rottura sociale e ribellione."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/la-hall-of-fame-perde-i-pezzi-anche-gli-oasis-dicono-di-no/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T12:09+00:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/spettacoli/musica/2026/11/10/news/phil_collins_solista_r_n_r_hall_of_fame_oasis-425712279/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T07:37+00:00"
+    },
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/rock/oasis-likely-skip-2026-rock-and-roll-hall-of-fame-induction-1236378600/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T14:30+00:00"
+    },
+    {
+     "n": "NME",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.nme.com/news/music/oasis-to-reportedly-skip-rock-and-roll-hall-of-fame-induction-ceremony-3975548",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T11:46+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zaddb80c3",
+   "sez": "ambiente",
+   "titolo": "Greta Thunberg contesta la COP31: \"Un circo di greenwashing\"",
+   "orig": "Greta Thunberg slams UN climate COPs as ‘greenwashed circuses’",
+   "lead": "L'attivista Greta Thunberg è arrivata in Turchia per la conferenza COP31, lanciando un duro attacco ai vertici delle Nazioni Unite sul clima, definiti \"circhi di greenwashing\". Thunberg ha criticato la mancanza di progressi reali negli ultimi anni, accusando i Paesi produttori di combustibili fossili di ostacolare sistematicamente i negoziati. Secondo l'attivista svedese, è urgente dare priorità alla protezione del pianeta e delle persone anziché ai profitti economici, esprimendo il forte disincanto di molti movimenti ambientalisti globali verso il processo decisionale internazionale sul riscaldamento globale.",
+   "more": [
+    "Le Conferenze delle Parti (COP) sono incontri annuali per limitare l'aumento della temperatura globale. Tuttavia, la presenza di delegati legati alle industrie del petrolio e del gas e la difficoltà nel raggiungere accordi vincolanti per l'eliminazione dei combustibili fossili alimentano costantemente le proteste dei movimenti per il clima in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/10/greta-thunberg-slams-un-climate-cops-as-greenwashed-circuses/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-10T15:32+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T15:35+00:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/europe/article/3373987/activist-greta-thunberg-arrives-un-climate-talks-turkey",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-10T14:25+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z6fa7fba9",
+   "sez": "dibattito",
+   "titolo": "Derby di Tunisi: ritiro blindato per il Club Africain contro la pressione",
+   "orig": "Derby de la capitale : Maher Kanzari veut mettre ses joueurs à l’abri de la pression",
+   "lead": "L'allenatore del Club Africain, Maher Kanzari, ha richiesto l'organizzazione di un ritiro a porte chiuse per preparare la squadra al derby contro l'Espérance di Tunisi. La decisione mira a isolare i calciatori dalle forti pressioni esterne e dall'agitazione dei tifosi che circondano questa attesa sfida della capitale tunisina. Kanzari intende garantire al gruppo le migliori condizioni di concentrazione per affrontare una delle partite più sentite e cariche di tensione emotiva del campionato nazionale tunisino. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "I derby tra Club Africain ed Espérance sono eventi di enorme importanza sociale in Tunisia. Caratterizzati da una storica rivalità, questi incontri richiedono misure di sicurezza eccezionali e una preparazione psicologica specifica, poiché il risultato può influenzare pesantemente il clima intorno alle società e l'andamento dell'intera stagione calcistica nazionale."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/11/10/derby-de-la-capitale-maher-kanzari-veut-mettre-ses-joueurs-a-labri-de-la-pression/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-11-10T14:31+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/politique/article/2026/11/10/greve-du-10-novembre-etudiants-lyceens-et-enseignants-appellent-a-une-nouvelle-journee-d-action-pour-mettre-le-gouvernement-sous-pression_6808805_823448.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-10T10:08+01:00"
+    },
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/enseignants-chercheurs-la-greve-universitaire-entre-dans-sa-troisieme-semaine/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-11-10T11:41+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z0687c0fe",
+   "sez": "economia",
+   "titolo": "Crollo della Ueno Bank in Paraguay: indagini internazionali coinvolgono il Lussemburgo",
+   "orig": "Paraguay’s Ueno Bank collapse draws Luxembourg into investigation",
+   "lead": "Il collasso della Ueno Bank in Paraguay ha innescato un'indagine internazionale che coinvolge anche il Lussemburgo. I magistrati paraguayani stanno rintracciando i beni all'estero e analizzando una holding lussemburghese inserita nella struttura proprietaria della banca. Il crollo dell'istituto ha congelato i risparmi di circa tre milioni di utenti, quasi la metà della popolazione del Paraguay. Nel frattempo, Liana Caballero si è dimessa dal direttorio della Banca Centrale del Paraguay, mentre l'istituto centrale ha già rimborsato gran parte dei clienti garantiti. Lo riferisce Luxembourg Times.",
+   "more": [
+    "Un fallimento bancario di queste proporzioni può destabilizzare l'economia di un intero Paese. L'uso di holding in centri finanziari come il Lussemburgo complica le indagini per il recupero dei capitali. La fiducia dei cittadini dipende dalla rapidità degli indennizzi e dall'efficacia dell'azione giudiziaria contro i responsabili della gestione finanziaria."
+   ],
+   "fonti": [
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/businessandfinance/paraguays-ueno-bank-collapse-draws-luxembourg-into-investigation/164353565.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-11-10T13:16+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-mundo/banco-central-de-paraguay-informa-que-devolvio/JG2BG26DVRAA7MMOI4BICVII6U/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-10T15:27+00:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/economia/2026/11/10/liana-caballero-renuncia-al-directorio-del-banco-central-del-paraguay/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-11-10T15:49+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z5652c744",
+   "sez": "cultura",
+   "titolo": "Anniversario alle Figi su Turtle Island, il set del film \"Laguna Blu\"",
+   "orig": "We Spent Our 15th Anniversary on the Fiji Island Where “The Blue Lagoon” Was Shot",
+   "lead": "Una coppia ha celebrato il proprio quindicesimo anniversario di matrimonio su Turtle Island, nelle Figi, il luogo celebre per essere stato il set del film \"Laguna Blu\". L'isola è descritta come una destinazione ideale per le ricorrenze private, offrendo un'atmosfera esclusiva in uno dei contesti naturali più rinomati dell'arcipelago. Contemporaneamente, si segnalano altre celebrazioni di quindicesimi anniversari nel mondo del cinema e dei festival culturali, tra cui l'Africa International Film Festival in Nigeria e quello ad Antigua e Barbuda. Lo riferisce Matador Network.",
+   "more": [
+    "Turtle Island è nota per il suo modello di turismo esclusivo e sostenibile. Luoghi resi famosi da produzioni cinematografiche internazionali diventano spesso mete ambite per il turismo cinematografico, contribuendo significativamente all'economia locale attraverso la notorietà generata dai film di successo girati sul territorio."
+   ],
+   "fonti": [
+    {
+     "n": "Matador Network",
+     "p": "US",
+     "c": "Denver",
+     "u": "https://matadornetwork.com/read/turtle-island-fiji/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-04T19:04+00:00"
+    },
+    {
+     "n": "Tehran Times",
+     "p": "XX",
+     "c": "Teheran",
+     "u": "https://www.tehrantimes.com/news/532015/Iranian-short-documentary-wins-at-15th-Africa-International-Film",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-10T14:46+00:00"
+    },
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/film-festival-marks-15th-anniversary-with-red-carpet-premiere-of-its-my-turn/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-11-09T01:05+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z80951824",
+   "sez": "prima",
+   "titolo": "Valditara insiste contro il testo di storia Laterza: \"È indottrinamento\"",
+   "orig": "Valditara: \"Via quel libro\". Laterza:\"No\"",
+   "lead": "Il Ministro dell'Istruzione Giuseppe Valditara ha chiesto formalmente il ritiro del manuale di storia \"Trame del tempo 3\" della casa editrice Laterza, definendo i suoi contenuti un tentativo di indottrinamento degli studenti. Al centro della polemica c'è un paragrafo che critica il governo Meloni definendolo \"liberticida\". L'amministratore delegato di Laterza ha respinto la richiesta, chiarendo che un ministro non può imporre il ritiro di un libro. Il caso ha innescato un dibattito sulla libertà di insegnamento e un'interrogazione parlamentare da parte di Fratelli d'Italia. Lo riferisce Rai News.",
+   "more": [
+    "In Italia, la libertà di insegnamento è un principio costituzionale che impedisce allo Stato di imporre testi unici o censurare i manuali adottati dai docenti. Il Ministero può però intervenire se ritiene che i contenuti non rispettino i requisiti di scientificità o pluralismo, pur non avendo poteri diretti di ritiro dal commercio per motivazioni politiche."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/valditara-via-quel-libro-laterzano-eb9f8121-903e-4f7a-a3dd-fe37a1c49da2.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T13:45+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/11/10/il-caso-del-testo-di-storia-valditara-va-ritirato.-laterza-un-ministro-non-puo_2cf61fda-f44f-41f1-9741-5904daff1e2b.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T15:27+01:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/scuola/2026/11/10/news/scontro_manuale_storia_laterza_valditara-425713365/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T14:57+00:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/11/10/news/tensione_governo_kiev_meloni_giorgetti_crosetto-425713303/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T14:28+00:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/11/10/news/caccia_f35_governo_spesa_7_miliardi-425712254/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T07:23+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/tensione-decreto-armi-l-ucraina-giorgetti-non-ha-ancora-firmato-fronte-aperto-la-lega-AJNsWEBC",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T09:18+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zf392c616",
+   "sez": "salute",
+   "titolo": "Nigeria, piano decennale per la sanità: copertura assicurativa al 40% entro il 2031",
+   "orig": "Nigeria targets 90% functional health centres, 40% health insurance coverage by 2031",
+   "lead": "Il governo della Nigeria ha fissato ambiziosi obiettivi per il settore sanitario entro il 2031, puntando a rendere funzionali il 90% dei centri sanitari e ad assicurare il 40% della popolazione. Il piano prevede inoltre di estendere l'assistenza materna e neonatale a tutte le 774 aree di governo locale e di ridurre la spesa sanitaria diretta dei cittadini al di sotto del 50%. L'amministrazione del presidente Bola Tinubu ha dichiarato di aver già riqualificato oltre 3.500 centri di assistenza primaria per migliorare l'accesso alle cure di base. Lo riferisce Premium Times.",
+   "more": [
+    "La Nigeria affronta sfide sanitarie critiche, tra cui un alto tasso di mortalità materna e una bassa copertura assicurativa che costringe molti cittadini a pagare le cure di tasca propria. La riforma del sistema di assistenza primaria è fondamentale per garantire servizi essenziali nelle zone rurali, dove la carenza di infrastrutture e personale rimane un ostacolo."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/health/health-news/924170-nigeria-targets-90-functional-health-centres-40-health-insurance-coverage-by-2031.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-10T15:58+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/fg-upgrades-3526-health-centres-says-41-targets-met/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    },
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/telecom/ghana-5g-coverage-70-percent-march-2027",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-11-10T15:59+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z47abb8e0",
+   "sez": "sport",
+   "titolo": "Iraq, aereo della nazionale iraniana respinto per le sanzioni USA",
+   "orig": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+   "lead": "Le autorità dell'aviazione civile irachena hanno impedito l'atterraggio a Bassora dell'aereo che trasportava la nazionale di calcio dell'Iran. Il velivolo è stato costretto a tornare indietro a causa del rigoroso rispetto delle sanzioni imposte dagli Stati Uniti contro le compagnie aeree iraniane. L'incidente evidenzia come le restrizioni economiche internazionali influenzino direttamente anche gli eventi sportivi, obbligando i Paesi vicini a scelte drastiche per evitare ritorsioni finanziarie da parte di Washington, nonostante i legami culturali e sportivi tra le due nazioni. Lo riferisce Al Jazeera.",
+   "more": [
+    "L'Iraq si trova in una posizione delicata, dovendo mantenere relazioni amichevoli con l'Iran pur dipendendo dal sistema finanziario statunitense. Le sanzioni USA contro entità iraniane obbligano spesso le autorità irachene a negare permessi di atterraggio per non incorrere in sanzioni secondarie che potrebbero danneggiare l'economia nazionale e le riserve in dollari."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T14:03+00:00"
+    },
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/plane-carrying-irans-football-team-barred-from-landing-in-iraq/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-10T15:51+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z745a8289",
+   "sez": "ingegneria",
+   "titolo": "Turismo in Corea del Nord: i flussi dalla Russia restano stabili nei primi nove mesi",
+   "orig": "Russian visits to North Korea plateaued in first nine months, data shows",
+   "lead": "Il numero di visitatori russi in Corea del Nord è rimasto stabile nei primi nove mesi dell'anno, senza registrare la crescita prevista rispetto al 2025. Nonostante un record di quasi 3.900 ingressi nel terzo trimestre, i dati ufficiali mostrano che il flusso complessivo non è aumentato significativamente. La stagnazione dei viaggi avviene nonostante il rafforzamento dei legami politici e militari tra Mosca e Pyongyang, che aveva fatto presagire un massiccio incremento del turismo organizzato tra i due Paesi alleati. Lo riferisce NK News.",
+   "more": [
+    "La Corea del Nord ha riaperto i confini ai russi dopo la pandemia, promuovendo il Paese come destinazione sicura. I legami tra le due nazioni si sono intensificati soprattutto dopo l'inizio del conflitto in Ucraina, portando a una serie di accordi di cooperazione strategica che includono potenzialmente anche i trasporti civili e il turismo."
+   ],
+   "fonti": [
+    {
+     "n": "NK News",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.nknews.org/2026/11/russian-visits-to-north-korea-plateaued-in-first-nine-months-data-shows/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-11-10T07:29+00:00"
+    },
+    {
+     "n": "Construction Business News Middle East",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://www.cbnme.com/news/aramex-releases-financial-results-for-the-first-nine-months-of-2026/",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-10T13:06+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z350e38ac",
+   "sez": "mondo",
+   "titolo": "Sicurezza nel Mar Nero: l'UE stanzia 50 milioni di euro dopo gli attacchi alle navi",
+   "orig": "EU chief pledges 50 million euros for Black Sea security",
+   "lead": "La presidente della Commissione Europea, Ursula von der Leyen, ha annunciato lo stanziamento di 50 milioni di euro per rafforzare la sicurezza nel Mar Nero. La decisione segue diversi attacchi avvenuti in ottobre contro navi al largo delle coste della Bulgaria e della Romania, che hanno coinvolto oltre trenta marinai. L'iniziativa dell'Unione Europea mira a proteggere le rotte marittime strategiche e a migliorare la sorveglianza in una regione diventata instabile a causa del conflitto bellico e delle costanti minacce alle infrastrutture navali civili. Lo riferisce Turkish Minute.",
+   "more": [
+    "Il Mar Nero è di vitale importanza per l'esportazione di cereali e risorse energetiche. La sicurezza della navigazione è costantemente minacciata da mine vaganti e operazioni militari legate al conflitto russo-ucraino. Il coordinamento tra l'Unione Europea e i Paesi della NATO è essenziale per garantire la libertà di movimento delle rotte commerciali internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/10/eu-chief-pledges-50-million-euros-for-black-sea-security/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-10T15:59+00:00"
+    },
+    {
+     "n": "Matangi Tonga",
+     "p": "XX",
+     "c": "Nuku'alofa",
+     "u": "https://matangitonga.to/2026/11/09/germany-pledges-five-million-euros-prf-tonga",
+     "angolo": "",
+     "atlas": "Tonga",
+     "t": "2026-11-06T02:46+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z773e4c29",
+   "sez": "manga",
+   "titolo": "L'anime \"Devils' Crest\" conferma una programmazione di sei mesi",
+   "orig": "Devils' Crest Anime Confirms Half-Year Run",
+   "lead": "Lo staff dell'anime \"Devils' Crest\", basato sui popolari romanzi di Reki Kawahara, ha confermato che la serie avrà una durata di sei mesi consecutivi. Il debutto mondiale è avvenuto su Prime Video il 6 novembre e la programmazione prevede due archi narrativi senza interruzioni. La notizia ha entusiasmato i fan dell'autore, già noto per opere di successo mondiale come Sword Art Online, assicurando una trasposizione fedele e approfondita della trama originale per tutta la prima metà della stagione televisiva. Lo riferisce Anime News Network.",
+   "more": [
+    "Nel settore dell'animazione giapponese, un arco narrativo o \"cour\" corrisponde solitamente a un trimestre. Una serie programmata per due cour consecutivi indica un investimento significativo e una forte scommessa sulla popolarità dell'opera, garantendo una continuità che favorisce la fidelizzazione del pubblico internazionale sulle piattaforme di streaming."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T04:44-05:00"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/11/10/devils-crest-anime-two-consecutive-cours",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T14:41+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "za89f32a2",
+   "sez": "organizzazioni",
+   "titolo": "OMS: allarme per la mancanza di dati sanitari affidabili in Africa",
+   "orig": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
+   "lead": "L'Organizzazione Mondiale della Sanità (OMS) ha segnalato gravi lacune nei sistemi di informazione sanitaria in Africa, che impediscono un conteggio accurato dei decessi e delle patologie. Secondo un nuovo rapporto, questi \"punti ciechi\" nei dati impediscono alle autorità di identificare tempestivamente le minacce sanitarie emergenti e di intervenire con azioni salvavita. La mancanza di statistiche affidabili rappresenta una sfida critica per lo sviluppo di politiche sanitarie efficaci e per la gestione delle emergenze epidemiche nel continente africano. Lo riferisce Nazioni Unite (UN News).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Nazioni Unite (UN News)",
+     "p": "XX",
+     "c": "New York",
+     "u": "https://news.un.org/feed/view/en/story/2026/11/1168772",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-10T12:00+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z4b268687",
+   "sez": "viaggi",
+   "titolo": "Itinerario nelle Dolomiti: tra meraviglie alpine e radici familiari",
+   "orig": "4 giorni nelle Dolomiti: un viaggio lungo le origini di famiglia e le meraviglie delle nostre montagne",
+   "lead": "Un itinerario di quattro giorni tra le Dolomiti propone un'esperienza che unisce il fascino naturale delle montagne italiane alla ricerca delle proprie radici familiari. Il viaggio si snoda attraverso paesaggi d'alta quota, offrendo spunti tra memoria e meraviglia per un weekend alla scoperta delle bellezze alpine e della storia personale. L'iniziativa sottolinea il crescente valore del turismo esperienziale, invitando i viaggiatori a riscoprire i luoghi legati alla propria storia familiare immersi in uno scenario naturale unico al mondo. Lo riferisce Turisti per Caso.",
+   "more": [
+    "Le Dolomiti, Patrimonio dell'Umanità UNESCO, sono una meta d'eccellenza per il turismo montano. Oltre allo sci e all'escursionismo, sta crescendo l'interesse per il \"turismo delle radici\", dove i viaggiatori tornano nei luoghi d'origine degli antenati, contribuendo alla valorizzazione dei piccoli borghi alpini e alla conservazione delle tradizioni locali."
+   ],
+   "fonti": [
+    {
+     "n": "Turisti per Caso",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://turistipercaso.it/diari-di-viaggio/4-giorni-nelle-dolomiti-un-viaggio-lungo-le-origini-di-famiglia-e-le-meraviglie-delle-nostre-montagne.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T15:00+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z0cdb693e",
+   "sez": "mondo",
+   "titolo": "Marte, scoperta di gas vulcanici: possibile prova di attività biologica",
+   "orig": "Martian Volcanic Discovery Could Be ‘Smoking Gun’ in Search for Life",
+   "lead": "La scoperta di gas cloridrato che fuoriesce da fenditure vulcaniche su Marte potrebbe rappresentare un indizio cruciale nella ricerca di vita sul pianeta rosso. Il professor Daniel Mège ha paragonato il ritrovamento alla ricerca di un ago in un pagliaio, evidenziando come queste tracce gassose suggeriscano un'attività geologica o biologica ancora presente. La scoperta apre nuove prospettive per le future missioni spaziali, concentrando l'attenzione sulle zone vulcaniche come potenziali habitat per forme di vita microbiche nel sottosuolo marziano. Lo riferisce Good News Network.",
+   "more": [
+    "Marte è l'obiettivo principale per la ricerca di vita extraterrestre. La presenza di gas vulcanici suggerisce che il pianeta non sia geologicamente morto e che esistano processi interni in grado di rilasciare sostanze chimiche. Questi gas possono fornire l'energia necessaria per sostenere microrganismi in ambienti sotterranei protetti dalle radiazioni solari superficiali."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/martian-volcanic-discovery-could-be-smoking-gun-in-search-for-life/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T14:30+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "good": true,
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zffc18ee6",
+   "sez": "italia",
+   "titolo": "Carenze di trasparenza nelle Graduatorie di istituto segnalate da un docente precario",
+   "orig": "Il “buco nero” delle Graduatorie di istituto: supplenze notificate e mai tracciate, “È importante avere un feedback sul portale per sapere a chi è andato l’incarico”",
+   "lead": "In Italia, un docente precario ha denunciato le carenze di trasparenza e tracciabilità nel sistema di reclutamento scolastico e nelle Graduatorie di istituto. L'insegnante segnala che diverse notifiche con proposte di supplenza scompaiono subito dopo l'invio sul portale dedicato, mentre molte scuole non forniscono riscontri né informazioni sull'assegnazione finale degli incarichi. Questa situazione lascia gli aspiranti supplenti senza risposte sugli esiti effettivi delle procedure. Lo riferisce Orizzonte Scuola.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/il-buco-nero-delle-graduatorie-di-istituto-supplenze-notificate-e-mai-tracciate-e-importante-avere-un-feedback-sul-portale-per-sapere-a-chi-e-andato-lincarico/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T14:29+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zf8ff74a9",
+   "sez": "ambiente",
+   "titolo": "Il responsabile clima UE stima basse aspettative per la COP31",
+   "orig": "EU climate chief says expectations low for COP31, urges focus on clean electricity",
+   "lead": "In vista del vertice sul clima COP31 previsto in Turchia, il commissario europeo per il clima Wopke Hoekstra ha dichiarato che le aspettative di successo per l'incontro sono basse. Il rappresentante dell'Unione Europea ha sollecitato i partecipanti a concentrare i colloqui delle Nazioni Unite sull'energia elettrica pulita e sull'elettrificazione, ritenendola la via principale per ottenere progressi significativi contro il cambiamento climatico.",
+   "more": [
+    "I vertici COP della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici riuniscono annualmente i governi di tutto il mondo per negoziare accordi sulla riduzione delle emissioni serra, la transizione energetica e i finanziamenti per i Paesi in via di sviluppo."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/10/eu-climate-chief-says-expectations-low-for-cop31-urges-focus-on-clean-electricity/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-10T14:40+00:00"
+    },
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-10T21:24+05:30"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z7e0d51d1",
+   "sez": "spazio",
+   "titolo": "Le aziende satellitari avviano la costruzione di propri vettori spaziali",
+   "orig": "You know the launch market is tough when satellite companies start building rockets",
+   "lead": "Diverse aziende satellitari hanno iniziato a sviluppare propri razzi per superare le difficoltà del mercato dei lanci spaziali. Parallelamente, anche la Croazia sta promuovendo iniziative nazionali per rafforzare il proprio settore aerospaziale, investendo direttamente nella produzione di vettori di lancio e di tecnologie satellitari per posizionarsi nel settore internazionale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Ars Technica – Spazio",
+     "p": "US",
+     "c": "New York",
+     "u": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-06T18:20+00:00"
+    },
+    {
+     "n": "Croatia Week",
+     "p": "XX",
+     "c": "Zagabria",
+     "u": "https://www.croatiaweek.com/croatia-space-industry-rockets-satellites-technology/",
+     "angolo": "",
+     "atlas": "Croatia",
+     "t": "2026-11-10T11:51+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z2a431ae1",
+   "sez": "cultura",
+   "titolo": "Al via la quarta edizione della Settimana del cinema sino-burkinabè",
+   "orig": "Semaine du cinéma sino-burkinabè : La 4ᵉ édition se tient du 12 au 15 novembre 2026 à Ouagadougou et à Bobo-Dioulasso",
+   "lead": "Dal 12 al 15 novembre 2026 le città di Ouagadougou e Bobo-Dioulasso ospiteranno la quarta edizione della Settimana del cinema sino-burkinabé, precedentemente nota come Settimana del cinema cinese. Nel contesto del rafforzamento della cooperazione culturale tra Burkina Faso e Cina, una delegazione ufficiale cinese in visita nel Paese ha inoltre omaggiato l'eredità storica di Thomas Sankara e il patrimonio locale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150677",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-10T14:50+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/11/10/en-visite-a-ouagadougou-une-delegation-chinoise-honore-lheritage-de-sankara-et-le-patrimoine-burkinabe/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-11-10T14:48+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zca9a6f68",
+   "sez": "tech",
+   "titolo": "La tastiera dell'iPhone nasconde un elenco di espressioni non suggerite",
+   "orig": "'Trump dittatore' e 'Covid bufala' tra le parole evitate dalla tastiera dell'iPhone",
+   "lead": "Un ricercatore ha individuato un elenco riservato nel sistema operativo degli iPhone di Apple che include circa centomila parole e locuzioni che la tastiera evita di suggerire automaticamente agli utenti. Tra i termini esclusi dal completamento automatico figurano espressioni politicamente controverse come 'Trump dittatore' e 'Covid bufala', oltre ad altri riferimenti a personaggi pubblici.",
+   "more": [
+    "I sistemi di digitazione predittiva e completamento automatico sugli smartphone utilizzano algoritmi e dizionari integrati per facilitare la composizione dei testi, escludendo talvolta determinati termini ritenuti sensibili dagli sviluppatori per prevenire contenuti controversi."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/11/09/trump-dittatore-e-covid-bufala-tra-le-parole-evitate-dalla-tastiera-delliphone_1f0e41c0-a83d-462e-a11d-696054c26577.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T18:40+01:00"
+    },
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/tecnologia/news/iphone_parole_bloccate_tastiera_predittiva_trump_covid_potenzialmente_pericolose-9881262.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T14:25+01:00"
+    },
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/11/09/news/da_biden_a_babbo_natale_la_lista_segreta_delle_parole_che_la_tastiera_dell_iphone_non_suggerisce-425709928/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-09T10:45+01:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z96cac438",
+   "sez": "italia",
+   "titolo": "Rilasciato su cauzione a Malta il 15enne italiano arrestato a maggio",
+   "orig": "Farnesina, liberato a Malta il 15enne italiano arrestato per procurato allarme",
+   "lead": "Un ragazzo italiano di quindici anni, che era stato arrestato a Malta lo scorso 25 maggio a causa di un procurato allarme nel suo istituto scolastico, è stato liberato su cauzione dalle autorità giudiziarie maltesi. Il giovane potrà fare rientro a casa dai genitori e riprendere a frequentare regolarmente la scuola.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/farnesina-liberato-a-malta-il-15enne-italiano-arrestato-per-procurato-allarme_22ba4a0a-08b3-43cd-995d-5326016f1fc1.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T15:23+01:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/2026/11/10/studente-italiano-arrestato-malta-liberato",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T15:17+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z2c0fc303",
+   "sez": "organizzazioni",
+   "titolo": "Dichiarazione dell'UE sulle restrizioni relative alle armi chimiche",
+   "orig": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons",
+   "lead": "L'Alto Rappresentante dell'Unione Europea ha rilasciato una dichiarazione ufficiale sull'adesione di alcuni Paesi terzi alle decisioni del Consiglio riguardanti le misure restrittive contro la proliferazione e l'uso delle armi chimiche. Il provvedimento aggiorna il quadro sanzionatorio stabilito dalla decisione comunitaria del 12 ottobre 2026 a contrasto dell'impiego di armamenti chimici. Lo riferisce Consiglio dell'Unione europea.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-10T14:56+01:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z188b93d2",
+   "sez": "dibattito",
+   "titolo": "Una studentessa di Rapla partecipa a uno scambio scolastico sull'isola di Kihnu",
+   "orig": "Rapla student discovers a different Estonia as Kihnu exchange student",
+   "lead": "Una giovane studentessa di Rapla ha partecipato a un programma di scambio scolastico di due settimane sulla piccola isola estone di Kihnu, scoprendo una realtà diversa all'interno del proprio Paese anziché viaggiare all'estero. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610191457/rapla-student-discovers-a-different-estonia-as-kihnu-exchange-student",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-10T16:12+02:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z0cd84a91",
+   "sez": "mondo",
+   "titolo": "Un video virale permette di raccogliere 76mila dollari per un'assistente",
+   "orig": "A Viral Video Led Strangers to Raise $76,000 for a Full-Time Caregiver",
+   "lead": "Negli Stati Uniti, un video girato da una telecamera sul pianerottolo ha permesso di raccogliere oltre 76.000 dollari in favore di una donna che lavora a tempo pieno come assistente alle persone. La vicenda è iniziata a Castle Rock, in Colorado, quando Suzanna Metcalf si è scusata con il proprietario di casa per aver sbagliato la consegna di una pizza, generando un filmato virale sul web. Lo riferisce Good News Network.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/viral-video-raises-76000-for-caregiver/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T13:44+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "good": true,
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z3e1f92e5",
+   "sez": "adolescenti",
+   "titolo": "Valditara invita gli studenti a segnalare gli insulti dei docenti ai dirigenti",
+   "orig": "Valditara agli studenti: “Stop ai compiti fuori orario. Insulti dai docenti? Segnalare subito al dirigente per avviare procedura disciplinare”",
+   "lead": "In Italia, il ministro dell'Istruzione Giuseppe Valditara ha invitato gli studenti a segnalare tempestivamente ai dirigenti scolastici eventuali insulti ricevuti dai docenti per consentire l'avvio di procedure disciplinari. Il ministro ha inoltre ribadito lo stop all'assegnazione di compiti a casa fuori orario, difeso la riforma del modello formativo 4+2 e confermato il contrasto alle occupazioni scolastiche per tutelare il diritto allo studio. Lo riferisce Orizzonte Scuola.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/valditara-agli-studenti-stop-ai-compiti-fuori-orario-insulti-dai-docenti-segnalare-subito-al-dirigente-per-avviare-procedura-disciplinare/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T12:53+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17",
+   "sub": "scuola"
+  },
+  {
+   "id": "z9813c75f",
+   "sez": "economia",
+   "titolo": "Il Canada ripristina le sanzioni contro undici società iraniane",
+   "orig": "Canada reimposes sanctions against 11 Iranian companies: statement",
+   "lead": "Il governo del Canada ha ripristinato le sanzioni economiche contro undici aziende e istituti finanziari iraniani operanti nei settori dell'energia e del credito, tra cui la National Iranian Oil Company e le banche Mellat e Melli. La decisione annulla la revoca delle restrizioni decisa nel 2016 e mira a interrompere la rete finanziaria dell'Iran legata al programma nucleare e missilistico del Paese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10932712",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/952126/canada-reimposes-sanctions-on-11-iranian-entities",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-10T17:35+03:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zcdf1311b",
+   "sez": "tech",
+   "titolo": "Yandex perde una quota dei dati dei clienti cloud a seguito di attacchi",
+   "orig": "Yandex admits it cannot restore nearly 3% of customer data in Yandex Cloud after Ukrainian attacks",
+   "lead": "La società tecnologica Yandex ha ammesso di non essere in grado di ripristinare il 2,8% dei dati dei clienti salvati sulla propria piattaforma cloud a seguito di attacchi e raid con droni ucraini contro i propri data center. L'azienda ha attribuito la perdita permanente delle informazioni ai gravi danni riportati dalle apparecchiature e al mancato salvataggio di copie di backup esterne da parte degli utenti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/10/yandex-admits-it-cannot-restore-nearly-3-of-customer-data-in-yandex-cloud-after-ukrainian-attacks",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-10T18:19+03:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/10/nearly-3-of-cloud-customer-data-permanently-lost-after-drone-strikes-yandex-says-a94221",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-10T17:42+03:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z45f90684",
+   "sez": "ingegneria",
+   "titolo": "Sisk completa la struttura per il nuovo hotel e la tribuna dello stadio di Edgbaston",
+   "orig": "Sisk reaches topping out milestone on Edgbaston cricket stadium development",
+   "lead": "A Birmingham, l'impresa di costruzioni Sisk ha completato la struttura portante per la riqualificazione dello stadio di cricket di Edgbaston, sede del Warwickshire County Cricket Club. Il progetto ha raggiunto la fase conclusiva del grezzo per la realizzazione di un nuovo hotel da 146 camere e di una tribuna da 3.200 posti a sedere.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "New Civil Engineer",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.newcivilengineer.com/latest/sisk-reaches-topping-out-milestone-on-edgbaston-cricket-stadium-development-10-11-2026/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T14:55+00:00"
+    },
+    {
+     "n": "Construction Index",
+     "p": "UK",
+     "c": "Regno Unito",
+     "u": "https://www.theconstructionindex.co.uk/news/view/sisk-tops-out-at-edgbaston",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T08:41+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z318debee",
+   "sez": "ambiente",
+   "titolo": "Il Sud Sudan avvia la costruzione di tre bacini idrici nell'Equatoria Orientale",
+   "orig": "South Sudan begins construction of water reservoirs in drought-hit Eastern Equatoria",
+   "lead": "In Sud Sudan, il Ministero delle Risorse Idriche e dell'Irrigazione ha avviato la costruzione di tre bacini idrici nello Stato dell'Equatoria Orientale. L'intervento mira a migliorare l'approvvigionamento di acqua per le comunità locali e il bestiame, contrastando i periodi di siccità ricorrenti e alleggerendo la pressione sulle fonti d'acqua esistenti nella regione.",
+   "more": [
+    "Nelle regioni caratterizzate da periodi secchi prolungati, la realizzazione di bacini di raccolta dell'acqua piovana consente di immagazzinare le risorse necessarie per l'agricoltura e l'allevamento, prevenendo crisi idriche e tensioni sociali legate all'uso del suolo."
+   ],
+   "fonti": [
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/south-sudan-begins-construction-of-water-reservoirs-drought-hit-eastern-equatoria/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-begins-construction-of-water-reservoirs-drought-hit-eastern-equatoria",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-10T13:42+00:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/three-water-reservoirs-under-construction-in-eastern-equatoria/?utm_source=rss&utm_medium=rss&utm_campaign=three-water-reservoirs-under-construction-in-eastern-equatoria",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-10T09:35+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z56eabb4e",
+   "sez": "cultura",
+   "titolo": "Una mostra indaga i legami tra il colonialismo e il regime nazista",
+   "orig": "Controversial kinship: From colonial rule to the Holocaust?",
+   "lead": "Una nuova mostra esamina i legami storici tra il dominio coloniale e il nazismo, riprendendo le definizioni in cui Adolf Hitler paragonava l'Europa orientale all'India tedesca. L'esposizione approfondisce il dibattito storiografico su quali paragoni aiutino a comprendere il periodo e quali risultino inadeguati. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/controversial-kinship-from-colonial-rule-to-the-holocaust/a-79902228",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-10T15:49+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z512404b3",
+   "sez": "ambiente",
+   "titolo": "Fioritura record nel deserto di Atacama in Cile",
+   "orig": "World’s Driest Desert Erupts into Record-Breaking Bloom Boom (LOOK)",
+   "lead": "Nel deserto di Atacama, in Cile, si è verificata una fioritura eccezionale che ha visto sbocciare circa duecento specie vegetali, trasformando la zona normalmente arida in una distesa colorata. L'evento ha interessato anche aree in cui le piante non fiorivano da prima degli anni Duemila, grazie alla riattivazione di semi e tuberi rimasti a lungo nel terreno. Lo riferisce Good News Network.",
+   "more": [
+    "Il fenomeno del deserto fiorito si verifica quando precipitazioni insolite ed elevate penetrano nel terreno arido, risvegliando bulbi e semi in stato di quiescenza profonda che germogliano rapidamente coprendo il paesaggio di vegetazione."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T12:30+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "good": true,
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z4a2832b6",
+   "sez": "salute",
+   "titolo": "La FDA avverte sul rischio di rare patologie oculari legate ai farmaci GLP-1",
+   "orig": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
+   "lead": "L'agenzia governativa statunitense Food and Drug Administration ha emesso un avvertimento ufficiale riguardante i farmaci della classe dei GLP-1, segnalando che il loro utilizzo comporta il rischio potenziale di sviluppare una rara ma grave patologia oculare, comunemente definita come ictus oculare. Il provvedimento dell'autorità di regolamentazione richiama l'attenzione dei medici e dei pazienti sui possibili effetti collaterali legati all'assunzione di questi trattamenti ampiamente diffusi per la cura del diabete e il controllo del peso corporeo. Lo riferisce STAT.",
+   "more": [
+    "I farmaci GLP-1, impiegati nel trattamento del diabete di tipo 2 e per il controllo del peso, agiscono simulando l'ormone intestinale che regola l'insulina e il senso di sazietà, richiedendo un attento monitoraggio degli effetti collaterali."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T14:38+00:00"
+    },
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T14:25+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z7625c389",
+   "sez": "economia",
+   "titolo": "Al via la definizione dei temi per la visita del premier nepalese in India",
+   "orig": "Nepal PM’s India visit to cover entire spectrum of bilateral ties, says New Delhi",
+   "lead": "I governi di Nepal e India stanno definendo i dettagli della visita del primo ministro nepalese a Nuova Delhi per discutere dell'intera agenda bilaterale. I colloqui affronteranno i temi dell'assistenza alla ricostruzione, dei collegamenti aerei e della cooperazione energetica. In parallelo, il ministro degli Esteri della Sierra Leone ha incontrato il presidente della Camera del Marocco per rafforzare i legami tra le due nazioni.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/national/2026/11/10/nepal-pm-s-india-visit-to-cover-entire-spectrum-of-bilateral-ties-says-new-delhi",
+     "angolo": "",
+     "atlas": "Nepal"
+    },
+    {
+     "n": "Sierraloaded",
+     "p": "XX",
+     "c": "Freetown",
+     "u": "https://sierraloaded.sl/news/swaray-moroccos-parliament-trade-education/",
+     "angolo": "",
+     "atlas": "Sierra Leone",
+     "t": "2026-11-10T15:23+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z2d5bc13d",
+   "sez": "ingegneria",
+   "titolo": "L'industria metallurgica ricerca nuovi processi di estrazione dei metalli",
+   "orig": "Evolving metal extraction processes",
+   "lead": "Nel settore della metallurgia, i processi di estrazione dei metalli stanno affrontando un percorso di trasformazione per superare metodologie industriali rimaste sostanzialmente invariate per oltre un secolo. Sebbene negli anni passati siano state introdotte innovazioni come i forni ad arco elettrico e le colate continue, la produzione attuale necessita di nuove soluzioni tecnologiche per ottimizzare le fasi estrattive e ridurre i consumi energetici su grande scala. Lo riferisce MIT Technology Review.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T13:00+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z64db69a9",
+   "sez": "economia",
+   "titolo": "L'inflazione negli Stati Uniti sale dello 0,4% ad ottobre",
+   "orig": "US inflation higher than expected in October - here's what is happening with prices",
+   "lead": "Negli Stati Uniti l'inflazione è risultata superiore alle attese nel mese di ottobre, registrando un incremento mensile dei prezzi al consumo dello 0,4%. La crescita dell'indice è stata trainata principalmente dal rincaro dei costi per l'abitazione, l'energia e i beni alimentari.",
+   "more": [
+    "L'indice dei prezzi al consumo misura la variazione nel tempo dei prezzi di un paniere di beni e servizi acquistati dalle famiglie, rappresentando uno dei principali indicatori per valutare l'inflazione e orientare le politiche monetarie delle banche centrali."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T14:45+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T15:06+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zcc3383e9",
+   "sez": "cultura",
+   "titolo": "Vincent Munier presenta il documentario naturalistico Whispers in the Woods",
+   "orig": "Whispers in the Woods review – paddling in the moonlight in tender study of human-animal interaction",
+   "lead": "Il regista Vincent Munier ha realizzato il documentario naturalistico 'Whispers in the Woods', girato con il padre e il figlio nella foresta dei Vosgi in Francia. La pellicola esplora l'interazione tra l'uomo e la fauna selvatica attraverso riprese notturne di lince, volpi e cervi, adottando uno stile visivo che privilegia l'impatto emotivo rispetto all'approccio nozionistico. Lo riferisce The Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian – Cinema",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/film/2026/nov/10/whispers-in-the-woods-review-paddling-in-the-moonlight-in-tender-study-of-human-animal-interaction",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T13:00+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zc37bc861",
+   "sez": "economia",
+   "titolo": "Amplifon, Azimut e A2A presentano i conti dei primi nove mesi del 2026",
+   "orig": "Amplifon, utile e margini Adjusted accelerano nei 9 mesi. Guidance 2026 confermata",
+   "lead": "Nel terzo trimestre le principali società quotate italiane hanno presentato i risultati finanziari dei primi nove mesi dell'anno. Amplifon ha registrato una crescita dell'utile ricorrente e dei margini confermando gli obiettivi per il 2026, mentre Azimut ha visto aumentare i ricavi del 15,6% portando le masse gestite a circa 159 miliardi di euro. A2A ha invece riportato un rallentamento degli utili a causa della volatilità dei prezzi energetici e del settore idroelettrico.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/profitti_e_perdite/amplifon_utile_adjusted_nove_mesi_debito_guidance_2026-9872873.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T16:41+01:00"
+    },
+    {
+     "n": "Il Messaggero – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/economia/profitti_e_perdite/azimut_ricavi_masse_utile_netto_nove_mesi_2026-9872872.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T16:39+01:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/11/10/news/a2a_risultati_nove_mesi_idroelettrico_energia_prezzi-425712908/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T12:57+01:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z68c3f71c",
+   "sez": "economia",
+   "titolo": "Calo dei prezzi della benzina negli USA mentre l'inflazione resta elevata",
+   "orig": "Gas prices dip below $4 but inflation remains stubbornly high",
+   "lead": "Negli Stati Uniti, il prezzo della benzina è sceso sotto la soglia dei 4 dollari al gallone per la prima volta negli ultimi tre mesi. Nonostante questo calo significativo, il costo complessivo della vita rimane elevato a causa di un'inflazione persistente che continua a pesare sui bilanci delle famiglie americane. La riduzione del prezzo del carburante rappresenta un segnale positivo per i consumatori, ma non è ancora sufficiente a invertire la tendenza generale del rialzo dei prezzi nei settori chiave dell'economia nazionale, mantenendo alta la pressione sulle scelte finanziarie quotidiane dei cittadini. Lo riferisce NPR.",
+   "more": [
+    "L'inflazione è l'aumento generalizzato dei prezzi di beni e servizi, che riduce il potere d'acquisto. Il prezzo della benzina è una componente volatile dell'indice dei prezzi al consumo e dipende dalle fluttuazioni del costo del petrolio greggio. Quando l'inflazione resta alta nonostante il calo dei carburanti, significa che altri settori, come casa e alimentari, continuano a spingere i costi verso l'alto."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T09:35-05:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zdb6b73f0",
+   "sez": "economia",
+   "titolo": "Record per il prezzo delle auto nuove negli Stati Uniti: superati i 51.000 dollari",
+   "orig": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+   "lead": "Il prezzo medio di transazione per l'acquisto di un nuovo veicolo negli Stati Uniti ha raggiunto il record storico di oltre 51.000 dollari. Secondo i dati di Kelley Blue Book, l'aumento dei costi sta spingendo molti acquirenti a richiedere prestiti auto di durata maggiore per poter finanziare l'acquisto e dilazionare i pagamenti. Questo incremento riflette le pressioni inflazionistiche e i cambiamenti nelle preferenze dei consumatori, che si orientano verso modelli più costosi o tecnologicamente avanzati, rendendo l'accesso alla mobilità privata sempre più oneroso per il cittadino medio americano. Lo riferisce NPR.",
+   "more": [
+    "Il settore automobilistico ha subito rincari a causa della carenza di componenti e dell'aumento dei costi di produzione. L'allungamento dei prestiti permette rate mensili più basse, ma aumenta il costo totale dell'auto dovuto agli interessi. Questo fenomeno indica una difficoltà crescente nel settore dei consumi, dove i beni durevoli diventano meno accessibili nonostante le diverse opzioni di finanziamento offerte dal mercato."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T08:30-05:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z72034b83",
+   "sez": "economia",
+   "titolo": "Indagini sulla società Megaspeed per l'esportazione illegale di chip Nvidia in Cina",
+   "orig": "Megaspeed and the battle to go high-end Nvidia chips into China",
+   "lead": "La società Megaspeed è sotto indagine negli Stati Uniti con l'accusa di aver contrabbandato chip Nvidia ad alte prestazioni verso la Cina, violando le attuali restrizioni commerciali. Il caso è emerso a seguito di un presunto legame tra il CEO di Nvidia, Jensen Huang, e una donna sospettata di spionaggio per conto di Pechino che lavorava proprio per Megaspeed. L'azienda nega ogni coinvolgimento in attività illecite, mentre le autorità americane cercano di impedire che tecnologie strategiche per lo sviluppo dell'intelligenza artificiale raggiungano la Cina illegalmente, compromettendo la sicurezza nazionale e la competitività tecnologica. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Nvidia produce i chip più avanzati al mondo per l'intelligenza artificiale. Gli Stati Uniti hanno imposto rigidi controlli sulle esportazioni di queste tecnologie verso la Cina per evitare che vengano utilizzate in ambito militare. Il contrabbando di semiconduttori è un problema crescente che coinvolge reti globali e mette alla prova l'efficacia delle sanzioni tecnologiche internazionali tra le grandi potenze."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-10T14:32+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zdc0f438a",
+   "sez": "ingegneria",
+   "titolo": "Scioperi ferroviari in Spagna e incidenti infrastrutturali in Russia",
+   "orig": "Train drivers in Spain go on strike: dozens of services cancelled",
+   "lead": "In Spagna, i macchinisti ferroviari hanno indetto uno sciopero che ha causato la cancellazione di decine di servizi, per chiedere maggiori investimenti nella manutenzione e nella sicurezza dopo gravi incidenti mortali avvenuti quest'anno. Contemporaneamente, in Russia, il crollo di un ponte nella regione di Arkhangelsk ha provocato il deragliamento di un treno merci e il blocco dei collegamenti passeggeri tra Mosca e San Pietroburgo. Anche in Kenya si registrano cambiamenti nei servizi ferroviari per modifiche ai programmi operativi della compagnia nazionale, segnando una giornata di difficoltà per il trasporto su rotaia in diversi continenti. Lo riferisce IPN (inglese).",
+   "more": [
+    "La sicurezza ferroviaria dipende da costanti investimenti in infrastrutture e tecnologia per prevenire guasti meccanici o strutturali. Gli scioperi nel settore dei trasporti sono strumenti utilizzati dai sindacati per evidenziare carenze gestionali o rischi per i lavoratori e gli utenti, spesso portando a negoziati con i governi o le aziende per il miglioramento degli standard di sicurezza e manutenzione della rete."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/train-drivers-in-spain-go-on-strike-dozens-of-services-cancelled/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-10T14:59+00:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/10/railway-bridge-collapses-in-russia-s-arkhangelsk-region-derailing-freight-train-and-delaying-passenger-services",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-10T13:41+03:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/10/freight-train-derails-in-arkhangelsk-region-following-bridge-collapse-a94220",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-10T16:57+03:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/kenya-railways-announces-changes-to-nairobi-limuru-and-nyahururu-train-services-n393657",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-10T12:50+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z0934b2c1",
+   "sez": "mondo",
+   "titolo": "Uzbekistan: aumentano i media privati ma restano dubbi sulla libertà di stampa",
+   "orig": "Uzbekistan Media: 67% Privately Owned as Survey Highlights Press Freedom Concerns",
+   "lead": "In Uzbekistan, il 67% dei mezzi di informazione è ora di proprietà privata, secondo quanto riportato dal segretario alla stampa presidenziale Sherzod Asadov. Sebbene la copertura internet nel Paese raggiunga ormai il 94%, rimangono forti dubbi e preoccupazioni riguardo alla reale libertà di stampa e all'indipendenza dei giornalisti. Il governo uzbeko sta promuovendo una maggiore cooperazione con la Russia nel settore mediatico, mentre le organizzazioni internazionali continuano a segnalare i rischi di censura e il controllo esercitato sulle testate, nonostante il passaggio formale dalla proprietà statale a quella privata di molte testate nazionali. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "L'Uzbekistan ha avviato un processo di apertura economica negli ultimi anni, ma il controllo politico sull'informazione rimane un tema critico. La transizione da media statali a privati non garantisce automaticamente la libertà di espressione se persistono meccanismi di censura o se la proprietà delle testate è riconducibile a figure vicine al potere, limitando il dibattito democratico e l'indipendenza giornalistica."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/uzbekistan-media-private-ownership-press-freedom/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-10T11:57+00:00"
+    },
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/11/correction-and-apology-regarding-the-planned-new-state-carrier-and-the-privately-owned-libyan-united-airlines/",
+     "angolo": "",
+     "atlas": "Libya",
+     "t": "2026-11-10T12:55+00:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/10/private-media-outlets-account-for-67-of-uzbekistans-nearly-2-700-media-outlets-asadov-says/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-10T10:01+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zfda88027",
+   "sez": "mondo",
+   "titolo": "Il controllo democratico del Congresso USA ostacola le ambizioni della Turchia sugli F-35",
+   "orig": "Democratic control of Congress could complicate Erdoğan’s F-35 ambitions, analyst says",
+   "lead": "Il controllo del Partito Democratico su entrambi i rami del Congresso degli Stati Uniti potrebbe ostacolare i piani del presidente turco Erdoğan per ottenere i caccia F-35. Secondo gli analisti, sebbene le relazioni tra Ankara e Washington siano in miglioramento, la nuova maggioranza parlamentare potrebbe porre condizioni più rigide per la vendita di armi avanzate. Parallelamente, il cambio di equilibrio al Congresso sta ridefinendo le posizioni sul sostegno a Israele e minaccia di cancellare progetti dell'amministrazione Trump, come il sistema di difesa 'Golden Dome', di cui potrebbe essere modificata la struttura o la denominazione ufficiale. Lo riferisce Turkish Minute.",
+   "more": [
+    "Il programma F-35 è un progetto internazionale per la costruzione di caccia stealth. La Turchia ne faceva parte, ma è stata esclusa dopo l'acquisto del sistema missilistico russo S-400. Il Congresso statunitense ha il potere di bloccare le vendite di armi all'estero basandosi su valutazioni strategiche, di diritti umani o di fedeltà alle alleanze internazionali, influenzando così la politica estera globale."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/10/democratic-control-of-congress-could-complicate-erdogans-f-35-ambitions-analyst-says/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-10T15:07+00:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/us-news/2026-11-10/ty-article-magazine/.premium/what-does-it-mean-to-be-pro-israel-in-the-new-democratic-controlled-congress/000001a1-c5bb-df80-a9e3-e7bf7a7e0000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-10T17:08+02:00"
+    },
+    {
+     "n": "Ars Technica – Spazio",
+     "p": "US",
+     "c": "New York",
+     "u": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-09T12:00+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z5c98f47d",
+   "sez": "mondo",
+   "titolo": "Crescita del gas in Azerbaigian e boom dell'oppio in Afghanistan",
+   "orig": "Azerbaijan's associated gas production rises 4.1% to 11.67 bcm",
+   "lead": "L'Azerbaigian ha registrato un aumento del 4,1% nella produzione di gas associato, raggiungendo gli 11,67 miliardi di metri cubi. Contemporaneamente, le Nazioni Unite hanno lanciato un allarme per l'Afghanistan, dove la produzione di oppio è quintuplicata arrivando a 1.466 tonnellate nel 2026. Nonostante il divieto ufficiale imposto dai Talebani, la coltivazione è aumentata del 325%, coprendo oltre 43.300 ettari. Questo incremento è dovuto alla necessità economica degli agricoltori che eludono le restrizioni, spostando la produzione verso le regioni nord-orientali del Paese, con gravi preoccupazioni per la sicurezza dell'intera regione dell'Asia centrale. Lo riferisce Trend.",
+   "more": [
+    "L'Afghanistan è storicamente il principale produttore mondiale di oppio. Il divieto dei Talebani ha avuto un effetto solo temporaneo, poiché la crisi economica spinge la popolazione verso colture redditizie. L'aumento della produzione alimenta il narcotraffico internazionale e l'instabilità politica, rendendo difficile il controllo delle rotte della droga verso l'Europa e l'Asia, con pesanti ricadute sociali e sanitarie globali."
+   ],
+   "fonti": [
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/azerbaijan/4244619.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-11-10T19:13+04:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/in-afghanistan-steigt-der-mohnanbau-wieder-doch-noch-groessere-sorge-bereitet-der-opium-boom-in-pakistan-und-iran-ld.10058380",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-10T14:07+00:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/10/afghanistans-opium-production-rises-fivefold-raising-concerns-for-uzbekistan-and-central-asia-unodc-warns/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-10T14:02+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z77833779",
+   "sez": "mondo",
+   "titolo": "Riapertura delle registrazioni elettorali nelle Filippine e preparativi in Sud Sudan",
+   "orig": "[Local Vote] Voter registration for 2028: Answers to your common questions",
+   "lead": "Nelle Filippine è stata riaperta ufficialmente la registrazione degli elettori per le elezioni del 2028, con migliaia di cittadini che si sono già presentati presso gli uffici competenti. Il processo continuerà fino a luglio 2027. Nello stesso tempo, in Sud Sudan, lo stato di Lakes sta addestrando il personale elettorale in vista delle elezioni generali previste per dicembre, nonostante le difficoltà logistiche e la corsa contro il tempo per stabilire le strutture necessarie. Entrambe le nazioni affrontano sfide organizzative significative per garantire la partecipazione democratica dei cittadini in contesti politici spesso complessi. Lo riferisce Rappler.",
+   "more": [
+    "La registrazione elettorale è fondamentale per garantire la legittimità delle elezioni e il diritto di voto. In Paesi con infrastrutture fragili, questi processi sono ostacolati da distanze geografiche e instabilità. La corretta gestione delle liste elettorali è il primo passo per prevenire frodi e assicurare che la volontà popolare sia rappresentata fedelmente nelle istituzioni democratiche nazionali e locali."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/elections/local-vote-voter-registration-2028-frequently-asked-questions/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-10T18:57+08:00"
+    },
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2339403/over-1000-negros-residents-apply-as-voter-registration-resumes",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-10T23:31+08:00"
+    },
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/lakes-state-prepares-election-officers-for-voter-registration/?utm_source=rss&utm_medium=rss&utm_campaign=lakes-state-prepares-election-officers-for-voter-registration",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-09T09:20+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z8794bfaf",
+   "sez": "economia",
+   "titolo": "Roaming gratuito operativo tra Gabon e Camerun per facilitare le comunicazioni",
+   "orig": "Télécommunications : le roaming gratuit entre le Gabon et le Cameroun devient effectif",
+   "lead": "È diventato operativo l'accordo per il roaming gratuito tra Gabon e Camerun, permettendo agli abbonati dei principali operatori telefonici dei due Paesi di comunicare senza costi aggiuntivi di itineranza. La misura copre chiamate, SMS e internet mobile per i clienti di Moov Africa, Airtel, MTN e Orange. Questa iniziativa mira a facilitare l'integrazione regionale e le comunicazioni tra i cittadini, nonostante alcune proteste in Camerun contro le pratiche tariffarie generali delle compagnie multinazionali di telecomunicazioni che operano nell'area. L'obiettivo è favorire gli scambi economici e sociali tra le popolazioni confinanti. Lo riferisce Gabonreview.",
+   "more": [
+    "Il roaming permette di usare la propria sim all'estero tramite reti locali. L'eliminazione dei costi di roaming è un passo fondamentale per creare un mercato unico digitale, simile a quanto fatto dall'Unione Europea. Questo riduce le barriere per chi viaggia per lavoro o motivi personali, promuovendo lo sviluppo economico e una maggiore integrazione tra nazioni che condividono interessi commerciali comuni."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/telecommunications-le-roaming-gratuit-entre-le-gabon-et-le-cameroun-devient-effectif/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-10T07:13+00:00"
+    },
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/cameroun-orange-mtn-accuses-pratiques-abusives-lettre-ouverte-ministre-telecommunications/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-11-09T16:16+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/11/10/telecommunications-le-roaming-gratuit-desormais-effectif-entre-le-gabon-et-le-cameroun/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-10T13:17+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zd8cac74b",
+   "sez": "mondo",
+   "titolo": "Tensioni diplomatiche in Niger e maxi-processo per miniere illegali in Guinea",
+   "orig": "Niger : Le chargé d’Affaires par intérim de l’UE convoqué au cabinet du Premier ministre",
+   "lead": "In Niger, il rappresentante ad interim dell'Unione Europea è stato convocato dal Primo Ministro Mahamane Lamine Zeine per consultazioni ufficiali. Nel frattempo, in Guinea, si è aperto il processo contro oltre 1.200 persone accusate di attività minerarie illegali nella regione di Siguiri. Il governo guineano ha adottato una linea dura, criticando le autorità locali per la gestione del fenomeno. Entrambi gli episodi riflettono le tensioni politiche e le sfide legate alla sovranità nazionale e alla gestione delle preziose risorse naturali nell'Africa occidentale, in un contesto di instabilità regionale crescente. Lo riferisce Seneweb.",
+   "more": [
+    "Il Niger ha cambiato i rapporti con l'Occidente dopo il colpo di stato del 2023, portando a frequenti frizioni diplomatiche. In Guinea, l'estrazione mineraria clandestina, specialmente dell'oro, causa enormi danni ambientali e perdite fiscali. Il governo sta cercando di riaffermare il controllo statale su queste risorse attraverso processi di massa e una sorveglianza più stretta sulle amministrazioni locali ritenute negligenti o complici."
+   ],
+   "fonti": [
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Afrique/niger-le-charge-daffaires-par-interim-de-lue-convoque-au-cabinet-du-premier-ministre_n_999003216.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-10T15:06+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/10/orpaillage-illegal-a-siguiri-202-prevenus-reconnaissent-les-faits-devant-la-crief/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-10T12:26+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/10/orpaillage-a-siguiri-le-gouvernement-serre-la-vis-la-ministre-de-ladministration-charge-lourdement-les-autorites-locales/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-10T08:29+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/orpaillage-clandestin-a-siguiri-ce-qui-est-reproche-aux-1-263-personnes-jugees-devant-la-crief/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-10T10:48+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z1424a800",
+   "sez": "prima",
+   "titolo": "Attacchi hacker in Italia: vertice al Viminale per rafforzare le difese cyber",
+   "orig": "Attacchi hacker, il fine è destabilizzare",
+   "lead": "Il Comitato nazionale per l'ordine e la sicurezza pubblica si è riunito al Viminale per esaminare la recente ondata di attacchi informatici contro le infrastrutture italiane. Il ministro Matteo Piantedosi ha evidenziato come queste offensive mirino a destabilizzare il Paese tramite falsi allarmi e intrusioni nei sistemi vulnerabili di ASL e Comuni. È stato deciso di potenziare il monitoraggio delle infrastrutture strategiche e di allertare le aziende contro le minacce aggravate dall'intelligenza artificiale. All'esame del Senato c'è anche un piano per incrementare le competenze cyber delle forze armate, prevedendo l'inserimento di 1.200 specialisti per proteggere il perimetro digitale nazionale. Lo riferisce Rai News.",
+   "more": [
+    "La cybersicurezza è essenziale per la protezione dei dati dei cittadini e il funzionamento dei servizi pubblici. Gli attacchi informatici, spesso condotti tramite malware o sovraccarico dei server, possono interrompere l'erogazione di servizi sanitari o amministrativi. La difesa digitale è oggi parte integrante della sicurezza nazionale e richiede investimenti in tecnologie e personale qualificato per contrastare minacce sempre più sofisticate e coordinate a livello internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/attacchi-hacker-il-fine-e-destabilizzare-62d40b19-0685-41c9-8c17-961ce4ff9d02.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T14:35+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/rafforzare-il-monitoraggio-dei-sistemi-di-sicurezza-vulnerabili-dopo-gli-attacchi-hacker_a69e29d7-22a9-40af-b259-21470a0b0e46.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T16:20+01:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/cronaca/2026/11/10/news/viminale_attacchi_hacker_misure_sicurezza-425713150/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T13:32+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/cyberattacchi-e-falsi-allarmi-bomba-vertice-viminale-vogliono-destabilizzare-l-italia-AJHWKaBC",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T15:16+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/sfida-cyber-si-riunisce-comitato-nazionale-italia-competenze-frammentate-contro-attacchi-AJigY09B",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T06:55+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/cronaca/2026/11/10/attacchi-hacker-italia-comitato-sicurezza-pubblica-oggi",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T15:07+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "za5f1a6f5",
+   "sez": "mondo",
+   "titolo": "Espulso dagli USA Jean Léonard Teganya, accusato del genocidio in Ruanda",
+   "orig": "Who is Jean Leonard Teganya, deported by US over Rwanda genocide claims?",
+   "lead": "Gli Stati Uniti hanno espulso e consegnato al Ruanda Jean Léonard Teganya, un ex studente di medicina accusato di aver partecipato al genocidio contro i Tutsi nel 1994. Dopo aver vissuto per oltre tre decenni come fuggitivo, Teganya è atterrato a Kigali per affrontare il processo nel suo Paese d'origine. Le autorità rwandesi hanno accolto la consegna come un passo importante verso la giustizia per i crimini commessi durante il conflitto, che causò la morte di centinaia di migliaia di persone, confermando l'impegno internazionale nel perseguire i responsabili di atrocità di massa. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/10/who-is-jean-leonard-teganya-deported-by-us-over-rwanda-genocide-claims",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T13:54+00:00"
+    },
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/11/video-photos-rwanda-receives-genocide-fugitive-jean-leonard-teganya-from-u-s/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-11-09T19:24+00:00"
+    },
+    {
+     "n": "KT Press",
+     "p": "XX",
+     "c": "Kigali",
+     "u": "https://www.ktpress.rw/2026/11/u-s-deports-genocide-fugitive-jean-leonard-teganya-back-to-rwanda/",
+     "angolo": "",
+     "atlas": "Rwanda",
+     "t": "2026-11-09T17:42+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "zfdd532fb",
+   "sez": "mondo",
+   "titolo": "Il miliardario Clive Palmer riapre il resort di lusso di Coolum dopo dieci anni",
+   "orig": "Clive Palmer says dilapidated luxury resort will reopen after decade in mothballs",
+   "lead": "Il miliardario australiano Clive Palmer ha annunciato l'intenzione di riaprire il resort di lusso di Coolum, rimasto chiuso per oltre un decennio. Contemporaneamente, emergono dettagli sulle attività di Vladimir Medinsky, capo negoziatore russo ai colloqui di Abu Dhabi, il quale si dedica alla riscrittura dei libri di testo storici e alla difesa della censura sovietica, trascorrendo vacanze in località esclusive. Le due vicende, pur distanti, illustrano i diversi interessi di figure influenti tra affari privati e ruoli pubblici di alto profilo strategico in un contesto di cambiamenti economici e politici globali. Lo riferisce ABC News Australia.",
+   "more": [
+    "Clive Palmer è un magnate minerario australiano noto per i suoi progetti ambiziosi e controversi. Vladimir Medinsky è un stretto collaboratore del Cremlino che ha influenzato la narrazione storica russa moderna. Entrambi rappresentano figure di potere che utilizzano la propria influenza per promuovere visioni personali o nazionali, influenzando rispettivamente il settore turistico-economico e quello culturale-diplomatico."
+   ],
+   "fonti": [
+    {
+     "n": "ABC News Australia",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.abc.net.au/news/2026-11-10/clive-palmer-resort-coolum-reopening/107363986",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-11-10T01:54+00:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/feature/2026/11/10/what-has-russia-s-chief-negotiator-vladimir-medinsky-been-up-to-since-the-last-round-of-peace-talks-rewriting-history-textbooks-praising-soviet-censorship-and-vacationing-at-a-luxury-resort",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-10T16:25+03:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z4faa2742",
+   "sez": "mondo",
+   "titolo": "Anniversario del Cammino Neocatecumenale a Città del Capo e allerta climatica",
+   "orig": "Archbishop Sipuka celebrates 40 years of the Neocatechumenal Way in Cape Town",
+   "lead": "A Città del Capo si sono celebrati i 40 anni del Cammino Neocatecumenale con una solenne celebrazione presieduta dall'arcivescovo Sipuka. Mentre la comunità religiosa festeggia questo traguardo, la città si prepara ad affrontare gli effetti di un fenomeno El Niño eccezionalmente forte, che minaccia di portare ondate di calore estremo, incendi boschivi e carenza d'acqua. Le autorità locali e le organizzazioni internazionali stanno intensificando i sistemi di allerta precoce per mitigare l'impatto ambientale e sociale sulla popolazione sudafricana, cercando di proteggere le risorse idriche e la sicurezza dei cittadini. Lo riferisce Vatican News (inglese).",
+   "more": [
+    "Il Cammino Neocatecumenale è un itinerario di formazione cattolica nato negli anni '60. El Niño è un fenomeno climatico che riscalda le acque dell'Oceano Pacifico, influenzando il meteo globale e causando spesso siccità nell'Africa meridionale. Questi eventi climatici estremi richiedono pianificazioni urbane avanzate e una gestione oculata delle risorse per prevenire crisi umanitarie e danni ambientali permanenti."
+   ],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/africa/news/2026-11/archbishop-sithembele-sipuka-celebrated-40-years-of-the-neocatec.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-10T10:36+01:00"
+    },
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/the-green-guardian/2026-11-10-cape-town-braces-for-heat-fires-and-water-stress-as-very-strong-el-nino-develops/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-10T12:54+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z2b289917",
+   "sez": "mondo",
+   "titolo": "Arrestati in Polonia due cittadini ucraini accusati di spionaggio per la Russia",
+   "orig": "Two Ukrainians arrested in Poland on suspicion of espionage and sabotage on behalf of Russia",
+   "lead": "Due cittadini ucraini sono stati arrestati in Polonia con l'accusa di spionaggio e sabotaggio per conto dei servizi segreti russi. Secondo le autorità polacche, i sospettati stavano effettuando ricognizioni su infrastrutture critiche e installazioni militari, oltre ad essere coinvolti nell'incendio doloso di alcuni veicoli. L'operazione evidenzia la crescente minaccia di attività destabilizzanti coordinate da Mosca all'interno dei confini della NATO, utilizzando reclute straniere per colpire obiettivi strategici nei Paesi alleati dell'Ucraina, aumentando la necessità di una sorveglianza interna costante per proteggere la sicurezza nazionale e i rifornimenti bellici. Lo riferisce IPN (inglese).",
+   "more": [
+    "La Polonia è un hub logistico cruciale per l'invio di aiuti militari all'Ucraina, rendendola un bersaglio primario per l'intelligence russa. Lo spionaggio e il sabotaggio mirano a creare insicurezza e a disturbare le catene di approvvigionamento. Il reclutamento di cittadini stranieri per compiere tali atti è una tattica di guerra ibrida volta a rendere più difficili le indagini e l'attribuzione diretta degli attacchi."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/two-ukrainians-arrested-in-poland-on-suspicion-of-espionage-and-sabotage-on-behalf-of-russia/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-10T15:57+00:00"
+    },
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/11/10/two-ukrainians-charged-with-spying-and-sabotage-for-russia-in-poland/",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-11-10T12:56+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z7b263676",
+   "sez": "ambiente",
+   "titolo": "L'Uzbekistan annuncia progetti per il Mar d'Aral da 3,3 miliardi di dollari",
+   "orig": "Uzbekistan Announces $3.3 Billion in Aral Sea Projects",
+   "lead": "L'Uzbekistan ha annunciato un piano da 3,3 miliardi di dollari che prevede 133 progetti dedicati alla salvaguardia del Mar d'Aral durante la sua presidenza del Fondo Internazionale per il salvataggio del bacino nel triennio 2027-2029. Le iniziative si concentreranno sulla gestione delle risorse idriche, sulla protezione dell'ambiente e sullo sviluppo socioeconomico della regione colpita dal disastro ecologico. L'obiettivo è mitigare le gravi conseguenze del prosciugamento del lago e migliorare le condizioni di vita delle popolazioni locali attraverso investimenti mirati e cooperazione internazionale per ripristinare l'equilibrio naturale dell'area. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "Il Mar d'Aral si è quasi completamente prosciugato a causa di decenni di deviazioni dei fiumi per scopi agricoli, causando uno dei peggiori disastri ambientali del pianeta. Questo ha portato a tempeste di sabbia salina e alla perdita di biodiversità. I nuovi progetti mirano a recuperare parte dell'ecosistema e a sostenere l'economia delle comunità locali che dipendevano dalle risorse del bacino."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/uzbekistan-aral-sea-projects-3-3-billion/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-10T12:02+00:00"
+    },
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/11/10/aral/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-10T08:40+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z8de5f5eb",
+   "sez": "mondo",
+   "titolo": "Sondaggio in Turchia: gli elettori credono allo scandalo di corruzione nel partito AKP",
+   "orig": "Most Turkish voters find fund scandal allegations against AKP officials credible: poll",
+   "lead": "Secondo un recente sondaggio, la maggioranza degli elettori turchi ritiene credibili le accuse di corruzione legate a uno scandalo finanziario che coinvolge funzionari del partito di governo AKP. Circa il 72% degli intervistati presta fede alle denunce di guadagni illeciti tramite investimenti irregolari, mentre le smentite fornite dai vertici del partito non hanno convinto quasi il 65% del campione. Parallelamente, nel Sud Sudan, il partito SPLM ha avvertito i propri funzionari di non interferire nelle elezioni primarie interne, evidenziando una crescente attenzione globale verso la trasparenza politica e l'integrità dei processi democratici. Lo riferisce Turkish Minute.",
+   "more": [
+    "L'AKP è al potere in Turchia dal 2002. Gli scandali di corruzione possono influenzare pesantemente la tenuta del consenso elettorale, specialmente in periodi di inflazione elevata. La percezione dell'opinione pubblica su questi temi è un fattore determinante per gli equilibri politici interni, poiché riflette la fiducia dei cittadini nelle istituzioni e nella gestione delle risorse pubbliche da parte dei governanti."
+   ],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/10/most-turkish-voters-find-fund-scandal-allegations-against-akp-officials-credible-poll/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-10T14:32+00:00"
+    },
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/splm-warns-caretaker-officials-against-interfering-in-primaries",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-10T15:24+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z9df4fdf1",
+   "sez": "mondo",
+   "titolo": "L'ex premier malese Najib Razak trasferito agli arresti domiciliari",
+   "orig": "Najib Razak, Ex-Prime Minister of Malaysia, Is Released to House Arrest",
+   "lead": "L'ex Primo Ministro della Malesia, Najib Razak, è stato scarcerato per scontare il resto della sua pena agli arresti domiciliari nella sua residenza di lusso a Kuala Lumpur. Razak era stato condannato per il suo coinvolgimento nello scandalo multimiliardario del fondo sovrano 1MDB, che aveva portato alla caduta del suo governo. La decisione del Ministero degli Interni, seguita a un ordine dell'Alta Corte, ha suscitato reazioni contrastanti nel Paese, mentre la moglie Rosmah Mansor ha espresso gratitudine per il ritorno a casa del marito, al centro di uno dei casi di corruzione più vasti della storia malese. Lo riferisce The New York Times.",
+   "more": [
+    "Lo scandalo 1MDB riguarda la distrazione di miliardi di dollari da un fondo statale malese per scopi personali e finanziamenti illeciti. Najib Razak è stato il primo ex premier del Paese a essere imprigionato. La concessione degli arresti domiciliari è vista da molti osservatori come una mossa politica controversa che potrebbe influenzare la percezione della giustizia in Malesia."
+   ],
+   "fonti": [
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/11/10/world/asia/malaysia-najib-razak-1mdb-house-arrest.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T14:22+00:00"
+    },
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/11/10/najib-arrives-at-taman-duta-residence-to-begin-his-house-arrest/242755",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-11-10T21:40+08:00"
+    },
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/11/10/alhamdulillah-rosmah-welcomes-najib-home/242751",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-11-10T20:31+08:00"
+    },
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/11/10/home-ministry-says-ready-to-carry-out-najibs-house-arrest-court-order-today-cleared-the-air/242748",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-11-10T19:42+08:00"
+    },
+    {
+     "n": "Malay Mail",
+     "p": "XX",
+     "c": "Kuala Lumpur",
+     "u": "https://www.malaymail.com/news/malaysia/2026/11/10/in-application-granted-by-high-court-today-agc-sought-order-for-najibs-return-to-kajang-prison-after-house-arrest-ends-in-2028/242743",
+     "angolo": "",
+     "atlas": "Malaysia",
+     "t": "2026-11-10T19:33+08:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z193b32da",
+   "sez": "mondo",
+   "titolo": "ONU: posticipata la revisione dei diritti umani USA dopo il ritiro di Washington",
+   "orig": "UN body agrees to postpone review of U.S. human rights record after Trump administration snub",
+   "lead": "Il Consiglio per i Diritti Umani delle Nazioni Unite ha accettato di posticipare la revisione periodica del record degli Stati Uniti, a seguito del ritiro di Washington dall'organismo deciso dall'amministrazione Trump per presunti pregiudizi anti-israeliani. Nel frattempo, il comitato ONU ha esortato il Camerun a indagare su gravi violazioni commesse dalle forze di sicurezza, tra cui esecuzioni extragiudiziali e torture, proprio mentre il presidente Paul Biya celebra 44 anni al potere. Entrambi i casi evidenziano le tensioni tra la sovranità nazionale degli Stati e il monitoraggio internazionale dei diritti civili fondamentali. Lo riferisce The Globe and Mail.",
+   "more": [
+    "La Revisione Periodica Universale è un processo dell'ONU che valuta i diritti umani in tutti i Paesi membri. Il ritiro degli USA dal Consiglio ha segnato una frattura diplomatica significativa. In Camerun, i lunghi anni di governo di Biya sono segnati da conflitti interni e denunce di abusi, mettendo alla prova l'efficacia delle pressioni internazionali per il rispetto dei diritti umani."
+   ],
+   "fonti": [
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/article-us-to-shun-un-human-rights-council-review/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-10T12:36+00:00"
+    },
+    {
+     "n": "Mimi Mefo Info",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://mimimefoinfos.com/cameroon-un-human-rights-abuses-biya-44-years/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-11-09T16:49+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
+   "id": "z669b6a94",
+   "sez": "mondo",
+   "titolo": "Papua Nuova Guinea chiude l'ufficio di Taiwan, il plauso di Pechino",
+   "orig": "Beijing applauds PNG’s closure of Taipei Office, dismisses Taiwan’s LNG threats",
+   "lead": "Il governo di Papua Nuova Guinea ha chiuso l’ufficio economico di Taipei a Port Moresby, mossa accolta con favore dall’ambasciata cinese che ha liquidato come “vuote minacce” le ritorsioni di Taiwan sulle forniture di gas. Pechino respinge inoltre le recenti accuse di spionaggio legate al CEO di Nvidia.",
+   "more": [
+    "La chiusura dell’ufficio rappresenta un rafforzamento dei legami diplomatici tra Port Moresby e Pechino, in un contesto di crescente competizione geopolitica nel Pacifico. La decisione incide sulle relazioni commerciali energetiche, dato che Taiwan è un importante acquirente di gas naturale liquefatto prodotto dalla nazione pacifica."
+   ],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/beijing-applauds-pngs-closure-of-taipei-office-dismisses-taiwans-lng-threats/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-11-10T12:48+00:00"
+    },
+    {
+     "n": "CGTN",
+     "p": "XX",
+     "c": "Pechino",
+     "u": "https://news.cgtn.com/news/2026-11-09/Beijing-dismisses-Chinese-spy-claims-over-Nvidia-saga-as-smears-1RVNrUyd0VW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-09T09:52+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "17:15",
+   "uscita": "17"
+  },
+  {
    "id": "z53a7cd33",
    "sez": "sport",
    "titolo": "Sinner rassicura sulle sue condizioni fisiche: «Sto facendo il possibile per tornare»",
@@ -208,6 +2450,15 @@ window.EDIZIONI["2026-11-10-sera"] = {
      "angolo": "",
      "atlas": "Croatia",
      "t": "2026-11-10T08:27+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T09:01-05:00"
     }
    ],
    "data": "10 nov",
@@ -801,6 +3052,24 @@ window.EDIZIONI["2026-11-10-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-04T18:18+00:00"
+    },
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/11/10/actualite/sante/beni-13-patients-gueris-debola-quittent-le-centre-de-traitement",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-11-10T16:30+01:00"
+    },
+    {
+     "n": "Actualite.cd",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://actualite.cd/2026/11/10/ebola-beni-13-patients-gueris-quittent-le-centre-de-traitement",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-11-10T10:57+00:00"
     }
    ],
    "data": "10 nov",
@@ -1034,6 +3303,15 @@ window.EDIZIONI["2026-11-10-sera"] = {
      "u": "https://asia.nikkei.com/business/technology/thailand-tightens-environmental-rules-for-large-data-centers",
      "angolo": "",
      "atlas": "Japan"
+    },
+    {
+     "n": "MIT Technology Review",
+     "p": "US",
+     "c": "Cambridge",
+     "u": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T13:10+00:00"
     }
    ],
    "data": "",
@@ -1562,6 +3840,42 @@ window.EDIZIONI["2026-11-10-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-10T12:23+01:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T14:36+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T15:31+00:00"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/politics/2215661",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-10T18:19+03:00"
+    },
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/world/europe/us-hails-ukraine-talks-in-uae-as-very-productive-1.500742768",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-10T18:48+04:00"
     }
    ],
    "data": "10 nov",
@@ -1613,13 +3927,82 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "za3cf240d": "La storica nomina di un governatore asiatico al vertice degli standard di pagamento globali.",
   "z0ce2f3a9": "L'inatteso ingresso del judoka pluricampione olimpico nella corsa per l'Eliseo nel 2027.",
   "ze9d12193": "Il riassetto delle alleanze difensive in Medio Oriente e l'avvicinamento siriano all'accordo di sicurezza.",
-  "z5062e7db": "La stampa italiana evidenzia il cauto ottimismo statunitense e l'apertura a future trattative dirette tra i governi europei e la Russia."
+  "z5062e7db": "La stampa italiana evidenzia il cauto ottimismo statunitense e l'apertura a future trattative dirette tra i governi europei e la Russia.",
+  "zed62b8e1": "La Repubblica pone l'accento sulla fine delle accuse per i vertici milanesi nonostante le anomalie riscontrate.",
+  "z315fb24f": "ANSA sottolinea l'allarme dell'Abi riguardo alla legittimità costituzionale e all'impatto sugli investimenti.",
+  "zfaa6b97c": "Al Jazeera mette in risalto la pressione politica sul governo egiziano a seguito dell'ennesimo incidente mortale.",
+  "zd3aac385": "Al Jazeera focalizza l'attenzione sull'impegno umanitario del pilota britannico in una zona di crisi.",
+  "z2a1d69d6": "Al Jazeera analizza le possibilità di pace sottolineando la fragilità degli accordi diplomatici.",
+  "z26771d7b": "Al Jazeera pone l'accento sulla necessità di una difesa coordinata per far fronte alle minacce future.",
+  "z8b8d55e5": "Al Jazeera evidenzia la volontà della FIA di proseguire con il calendario nonostante il clima bellico.",
+  "z92a0d708": "OndaRock sottolinea come l'assenza degli Oasis contribuisca a definire il mito della band più di una sfilata sul red carpet.",
+  "zaddb80c3": "Turkish Minute evidenzia la critica feroce di Thunberg alla gestione ONU dell'emergenza climatica.",
+  "z6fa7fba9": "La Presse de Tunisie mette l'accento sulla gestione psicologica dei calciatori in vista della partita.",
+  "z0687c0fe": "Luxembourg Times sottolinea il collegamento tra il crac paraguayano e i flussi finanziari verso l'Europa.",
+  "z5652c744": "Matador Network descrive l'isola come meta d'eccellenza per viaggi romantici e celebrativi.",
+  "z80951824": "Rai News mette in luce il botta e risposta tra il ministro e i vertici della casa editrice.",
+  "zf392c616": "Premium Times analizza le scadenze e i target prefissati dal governo nigeriano per la riforma sanitaria.",
+  "z47abb8e0": "Al Jazeera riporta la notizia sottolineando l'impatto delle sanzioni americane sullo sport regionale.",
+  "z745a8289": "NK News analizza i dati ufficiali evidenziando il divario tra proclami politici e dati reali sui flussi turistici.",
+  "z350e38ac": "Turkish Minute riporta l'impegno finanziario dell'Europa per la difesa dei propri confini marittimi orientali.",
+  "z773e4c29": "Anime News Network conferma la struttura produttiva della nuova serie di Kawahara.",
+  "za89f32a2": "UN News riporta la preoccupazione dell'OMS per l'invisibilità statistica di molte crisi sanitarie.",
+  "z4b268687": "Turisti per Caso presenta un racconto di viaggio intimo e naturalistico tra le vette italiane.",
+  "z0cdb693e": "Good News Network evidenzia l'entusiasmo della comunità scientifica per una scoperta definita \"pistola fumante\".",
+  "zffc18ee6": "Orizzonte Scuola evidenzia la frustrazione dei docenti precari di fronte al silenzio degli istituti e alla mancanza di feedback sulle supplenze.",
+  "zf8ff74a9": "Turkish Minute rileva l'invito del commissario europeo a concentrare i negoziati sull'elettrificazione.",
+  "z7e0d51d1": "Ars Technica sottolinea come le complessità del mercato dei lanci spingano le società satellitari a realizzare propri vettori.",
+  "z2a431ae1": "Lefaso.net evidenzia il cambio di denominazione dell'evento per sottolineare la collaborazione bilaterale nel campo cinematografico.",
+  "zca9a6f68": "ANSA mette in risalto la scoperta delle centomila espressioni non proposte dal sistema di completamento automatico di Apple.",
+  "z96cac438": "ANSA evidenzia la decisione delle autorità giudiziarie di Malta di concedere la libertà su cauzione al minorenne.",
+  "z2c0fc303": "Consiglio dell'Unione europea evidenzia l'allineamento degli Stati terzi alla decisione sulle sanzioni per l'uso delle armi chimiche.",
+  "z188b93d2": "ERR News sottolinea la scelta dell'allieva di svolgere un'esperienza formativa locale in un'isola anziché recarsi all'estero.",
+  "z0cd84a91": "Good News Network evidenzia come la solidarietà spontanea del pubblico abbia trasformato un piccolo errore di consegna in un importante aiuto economico.",
+  "z3e1f92e5": "Orizzonte Scuola sottolinea le indicazioni del ministro su sanzioni disciplinari per i professori, gestione dei compiti ed occupazioni.",
+  "z9813c75f": "The Korea Herald evidenzia il ripristino delle restrizioni finanziarie canadesi dopo l'annullamento dei provvedimenti adottati nel 2016.",
+  "zcdf1311b": "Meduza evidenzia la percentuale di dati irrimediabilmente persi dai clienti del servizio cloud russo dopo gli attacchi.",
+  "z45f90684": "New Civil Engineer risalta il raggiungimento dell'obiettivo strutturale nel cantiere dello stadio inglese.",
+  "z318debee": "Sudans Post evidenzia l'avvio dei lavori preliminari per le tre infrastrutture idriche nella regione.",
+  "z56eabb4e": "Deutsche Welle risalta l'analisi dei confronti tra l'era coloniale e il regime nazista proposta dal percorso espositivo.",
+  "z512404b3": "Good News Network mette in luce la straordinaria varietà di specie fiorite in aree rimaste aride per decenni.",
+  "z4a2832b6": "STAT rileva l'avvertimento dell'ente regolatore americano in merito ai potenziali danni alla vista legati all'uso dei farmaci.",
+  "z7625c389": "The Kathmandu Post evidenzia le priorità negoziali del Nepal per gli incontri di cooperazione con l'India.",
+  "z2d5bc13d": "MIT Technology Review risalta la necessità di rinnovare i processi estrattivi industriali rimasti ancorati a schemi tradizionali.",
+  "z64db69a9": "BBC News sottolinea la spinta dei settori energetico, alimentare e abitativo sul dato inflazionistico statunitense.",
+  "zcc3383e9": "The Guardian mette in rilievo lo stile intimo ed emotivo dell'opera rispetto ai tradizionali documentari sulla natura.",
+  "zc37bc861": "Il Messaggero sottolinea la tenuta dei margini di Amplifon e il rafforzamento della sua struttura finanziaria nei nove mesi.",
+  "z68c3f71c": "NPR evidenzia il contrasto tra il ribasso del carburante e il costo della vita ancora critico.",
+  "zdb6b73f0": "NPR sottolinea come i prezzi record stiano costringendo i consumatori a modificare le proprie strategie finanziarie.",
+  "z72034b83": "Deutsche Welle approfondisce i sospetti di spionaggio e le indagini sul traffico illecito di componenti tecnologiche.",
+  "zdc0f438a": "IPN evidenzia il legame tra lo sciopero in Spagna e le richieste di maggiore sicurezza infrastrutturale.",
+  "z0934b2c1": "The Times of Central Asia mette in luce il contrasto tra l'aumento dei media privati e i dubbi sulla libertà di stampa.",
+  "zfda88027": "Turkish Minute sottolinea le possibili difficoltà diplomatiche tra Turchia e Stati Uniti dovute al nuovo assetto politico americano.",
+  "z5c98f47d": "Trend riporta i dati sulla crescita energetica azerbaigiana, mentre UNODC lancia l'allerta sulla droga.",
+  "z77833779": "Rappler fornisce una guida pratica per gli elettori filippini in vista delle prossime scadenze democratiche.",
+  "z8794bfaf": "Gabonreview riporta l'avvio effettivo del servizio di roaming gratuito tra le due nazioni africane.",
+  "zd8cac74b": "Seneweb riporta la convocazione diplomatica in Niger, mentre Guinée News segue il processo per l'orpaillage.",
+  "z1424a800": "Rai News mette in risalto l'obiettivo destabilizzante degli attacchi hacker analizzati dal Viminale.",
+  "za5f1a6f5": "Al Jazeera approfondisce il profilo di Teganya e le accuse a suo carico legate al massacro del 1994.",
+  "zfdd532fb": "ABC News Australia si interroga sulla reale fattibilità della promessa di Palmer di rilanciare il resort.",
+  "z4faa2742": "Vatican News celebra l'anniversario religioso, mentre Mail & Guardian avverte sui rischi climatici imminenti.",
+  "z2b289917": "IPN riporta i dettagli dell'arresto e le specifiche accuse di collaborazione con l'intelligence russa.",
+  "z7b263676": "The Times of Central Asia evidenzia l'imponente impegno finanziario dell'Uzbekistan per la crisi ambientale dell'Aral.",
+  "z8de5f5eb": "Turkish Minute pone l'accento sulla sfiducia dei cittadini verso le smentite ufficiali del governo turco.",
+  "z9df4fdf1": "The New York Times riporta il trasferimento di Razak dalla prigione alla sua villa.",
+  "z193b32da": "The Globe and Mail si concentra sulla decisione dell'ONU riguardante la revisione degli Stati Uniti.",
+  "z669b6a94": "La testata locale riporta con enfasi la posizione ufficiale del governo e il plauso della diplomazia cinese."
  },
  "contesti": {
   "z1f7d8ba4": "Negli ultimi mesi i principali sindacati del settore medico e le associazioni di categoria hanno manifestato crescente preoccupazione per i fondi stanziati nella legge di bilancio. Già in autunno sono state indette assemblee e giornate di mobilitazione per denunciare le criticità organizzative e retributive del personale ospedaliero italiano.",
   "zc109a245": "Nelle settimane precedenti l'arrivo dell'inverno, le agenzie umanitarie dell'Onu avevano ripetutamente avvertito delle condizioni disperate in cui versavano centinaia di migliaia di sfollati palestinesi. La quasi totalità della popolazione è costretta a vivere in tende fatiscenti prive di isolamento termico, su terreni sabbiosi e privi di sistemi di drenaggio delle acque.",
   "z0ce2f3a9": "Negli ultimi mesi il dibattito sulla successione presidenziale del 2027 in Francia si è intensificato, tra la frammentazione parlamentare e la crescita dei consensi per il Rassemblement National. Diversi esponenti politici hanno iniziato a posizionarsi in vista delle elezioni, mentre il panorama dei partiti tradizionali fatica a esprimere candidature ampiamente condivise dall'elettorato.",
-  "z5062e7db": "L'iniziativa diplomatica si inserisce nella strategia promossa dal presidente eletto Donald Trump per porre fine rapidamente al conflitto in Ucraina. Nelle ultime settimane, gli emissari statunitensi Steve Witkoff e Jared Kushner hanno intensificato i contatti riservati nei Paesi del Golfo, individuando negli Emirati Arabi Uniti una sede neutrale gradita a Mosca e a Kiev. Nonostante lo scetticismo europeo sulle possibili concessioni, le delegazioni hanno infine accettato il confronto."
+  "z5062e7db": "L'iniziativa diplomatica si inserisce nella strategia promossa dal presidente eletto Donald Trump per porre fine rapidamente al conflitto in Ucraina. Nelle ultime settimane, gli emissari statunitensi Steve Witkoff e Jared Kushner hanno intensificato i contatti riservati nei Paesi del Golfo, individuando negli Emirati Arabi Uniti una sede neutrale gradita a Mosca e a Kiev. Nonostante lo scetticismo europeo sulle possibili concessioni, le delegazioni hanno infine accettato il confronto.",
+  "z26771d7b": "Nelle ultime settimane, i Paesi del Golfo hanno intensificato i colloqui diplomatici per mediare tra Stati Uniti, Israele e Iran, nel tentativo di evitare un'escalation regionale. La decisione di creare un comando militare unificato riflette il timore che il protrarsi delle ostilità possa coinvolgere direttamente i territori arabi, spingendo le monarchie verso una maggiore autonomia difensiva.",
+  "z8b8d55e5": "Dopo lo scoppio delle ostilità in Medio Oriente, il calendario della Formula 1 ha subito incertezze. Gli organizzatori avevano inizialmente preso in considerazione circuiti europei come Imola per sostituire le tappe considerate a rischio. Tuttavia, dopo valutazioni sulla sicurezza e rassicurazioni dai governi locali, la federazione ha deciso di mantenere l'itinerario originale per il finale di stagione.",
+  "z92a0d708": "L'annuncio dell'introduzione degli Oasis aveva suscitato grande attesa tra i fan, vista la storica turbolenza tra i fratelli Gallagher. Negli ultimi anni, l'istituzione ha cercato di includere più icone del britpop, incontrando però spesso il rifiuto di artisti che considerano la cerimonia un evento troppo formale e lontano dallo spirito originale del rock.",
+  "zaddb80c3": "Il percorso delle conferenze ONU sul clima è stato segnato negli anni da crescenti proteste per la lentezza delle decisioni politiche. Greta Thunberg ha disertato diversi vertici passati per protesta, sostenendo che le promesse dei governi non fossero seguite da azioni concrete. La scelta di ospitare la COP in Paesi con forti interessi petroliferi è stata al centro di accese polemiche.",
+  "z80951824": "Il manuale di storia era già finito al centro delle critiche oltre un anno fa per i suoi giudizi politici. Recentemente, un'interrogazione parlamentare di Fratelli d'Italia ha riacceso il caso, portando il Ministro dell'Istruzione a intervenire duramente contro i contenuti del volume, giudicati faziosi e non idonei alla formazione imparziale degli studenti.",
+  "z1424a800": "Nelle scorse settimane l'Italia è stata bersaglio di ripetuti attacchi informatici che hanno colpito portali istituzionali e servizi digitali pubblici. Le autorità avevano già lanciato l'allerta sulla vulnerabilità dei sistemi informatici locali, spesso privi di difese aggiornate contro i moderni ransomware. Il governo ha iniziato a valutare nuove misure legislative per centralizzare la gestione della sicurezza informatica e proteggere meglio i dati sensibili dei cittadini italiani dalle offensive esterne coordinate da gruppi hacker stranieri."
  },
  "cronologie": {
   "z1f7d8ba4": [
@@ -1664,6 +4047,86 @@ window.EDIZIONI["2026-11-10-sera"] = {
    [
     "Vigilia dei colloqui",
     "Conferma del vertice ad Abu Dhabi con la presenza dei mediatori statunitensi"
+   ]
+  ],
+  "z26771d7b": [
+   [
+    "2024/11/08",
+    "Voci su una possibile mediazione del Qatar tra USA e Iran"
+   ],
+   [
+    "2024/11/10",
+    "I leader del GCC annunciano a Kuwait City il rafforzamento della cooperazione militare"
+   ]
+  ],
+  "z8b8d55e5": [
+   [
+    "2024/10",
+    "Cancellazione del GP dell'Arabia Saudita a causa del conflitto"
+   ],
+   [
+    "2024/11/09",
+    "La F1 valuta Imola come possibile alternativa per il finale di stagione"
+   ],
+   [
+    "2024/11/10",
+    "FIA conferma ufficialmente le gare di Qatar e Abu Dhabi"
+   ]
+  ],
+  "z92a0d708": [
+   [
+    "2024/09",
+    "Annuncio dei candidati alla Rock and Roll Hall of Fame 2026"
+   ],
+   [
+    "2024/11/05",
+    "Liam Gallagher esprime sui social disinteresse per l'evento"
+   ],
+   [
+    "2024/11/10",
+    "Conferma ufficiale dell'assenza degli Oasis alla cerimonia"
+   ]
+  ],
+  "zaddb80c3": [
+   [
+    "2024/10",
+    "Apertura dei lavori preparatori per la COP31"
+   ],
+   [
+    "2024/11/08",
+    "Manifestazioni ambientaliste in diverse capitali europee"
+   ],
+   [
+    "2024/11/10",
+    "Greta Thunberg arriva in Turchia e contesta duramente il vertice"
+   ]
+  ],
+  "z80951824": [
+   [
+    "2023",
+    "Prime segnalazioni critiche sul testo Laterza riguardante il governo"
+   ],
+   [
+    "2024/11/09",
+    "Fratelli d'Italia presenta un'interrogazione parlamentare"
+   ],
+   [
+    "2024/11/10",
+    "Scontro diretto tra Valditara e l'editore Laterza sulla libertà di stampa"
+   ]
+  ],
+  "z1424a800": [
+   [
+    "9 Novembre 2026",
+    "Riunione straordinaria del Comitato per la Sicurezza al Viminale presieduta da Piantedosi"
+   ],
+   [
+    "7 Novembre 2026",
+    "Serie di attacchi informatici coordinati contro siti istituzionali e sistemi sanitari regionali"
+   ],
+   [
+    "5 Novembre 2026",
+    "Primi allarmi ufficiali dell'Agenzia per la Cybersicurezza Nazionale sulle vulnerabilità sistemiche"
    ]
   ]
  },
@@ -1766,6 +4229,112 @@ window.EDIZIONI["2026-11-10-sera"] = {
     }
    ],
    "divergono": "La collocazione politica di Riner è terreno di contrasto: South China Morning Post – Sport e Le Monde ne evidenziano il profilo equidistante dagli estremismi («né di sinistra né di destra»), mentre Libération lo liquida come «macronista» inclinato a destra. Sul piano sportivo emergono cifre diverse sul palmarès: Le Monde parla di «triplo campione olimpico» riferendosi ai titoli individuali, laddove Le Figaro e South China Morning Post – Sport lo definiscono «cinque volte campione olimpico», conteggiando anche i successi a squadre. Le Figaro, infine, è l'unica testata a dare ampio risalto alle reazioni scettiche della politica, ponendo interrogativi sulla fine della sua carriera atletica in vista dei Giochi di Los Angeles 2028."
+  },
+  "z26771d7b": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "La voce del Qatar spiega che il comando punta a una \"presenza permanente\" per garantire deterrenza. Cita esperti sulla necessità di \"deterrenti propri\" e riporta il richiamo del GCC a prendere in mano la sicurezza regionale pur mantenendo i legami con Washington.",
+     "b": "a"
+    },
+    {
+     "n": "The Express Tribune",
+     "c": "Karachi",
+     "p": "XX",
+     "t": "Riporta l'approvazione del comando citando media sauditi, ma dedica ampio spazio alla mediazione del Qatar. Menziona sanzioni \"straordinarie\" e le \"sette condizioni\" poste dall'Iran per il dialogo, definendo il blocco navale USA \"non negoziale\" secondo fonti americane.",
+     "b": "a"
+    },
+    {
+     "n": "Gulf News",
+     "c": "Dubai",
+     "p": "XX",
+     "t": "Si concentra sulle \"sfide di sicurezza\" regionali e sugli sforzi del GCC per la difesa collettiva. Riporta le parole di Trump sul blocco navale definito \"più grande della storia\" e nota un \"momento positivo\" verso la fine delle ostilità tra USA e Iran.",
+     "b": "a"
+    },
+    {
+     "n": "Euronews",
+     "c": "Lione",
+     "p": "XX",
+     "t": "Fornisce un resoconto neutrale dell'annuncio a Manama, precisando che non è stata fissata una \"data di apertura\" per il comando. Riporta le condanne di Albudaiwi per i danni alle infrastrutture \"civili\" causati dai droni e la cooperazione sul sistema d'allerta missilistico.",
+     "b": "a"
+    },
+    {
+     "n": "Kurdistan24",
+     "c": "Baghdad",
+     "p": "XX",
+     "t": "Sottolinea lo sforzo diplomatico del Qatar per terminare lo stato di \"né pace né guerra\". Avverte che il \"lavoro in corso\" per colmare il divario tra Washington e Teheran è urgente a causa della chiusura dello stretto di Hormuz in vista dell'inverno.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate concordano sulla data di inizio del conflitto (28 febbraio), ma presentano cornici diverse. Al Jazeera ed Euronews si concentrano sulla struttura del comando militare e sulla deterrenza. The Express Tribune e Kurdistan24 mettono in risalto la mediazione diplomatica del Qatar e le \"sette condizioni\" poste dall'Iran. Gulf News ed Euronews riportano specifici attacchi Houthi contro l'Arabia Saudita, con Gulf News che enfatizza la difesa di \"siti civili\". Trump, citato in The Express Tribune, sostiene che i vicini dell'Iran preferiscano il blocco navale allo scontro diretto."
+  },
+  "z8b8d55e5": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "La voce del Qatar riporta le rassicurazioni del presidente FIA Ben Sulayem nonostante le \"tensioni\" in Medio Oriente. Menziona i \"sentimenti contrastanti\" dei piloti e l'impegno per una \"conclusione spettacolare\" del campionato dopo le cancellazioni in Arabia Saudita.",
+     "b": "a"
+    },
+    {
+     "n": "Gulf News",
+     "c": "Dubai",
+     "p": "XX",
+     "t": "Informa che la F1 ha scartato Imola come \"potenziale sostituto\", confermando Abu Dhabi e Qatar. Pone l'accento sulla \"sicurezza di tutti\" come priorità assoluta e sulla validità delle assicurazioni e dei \"consigli di viaggio\" governativi per i due Paesi ospitanti.",
+     "b": "a"
+    },
+    {
+     "n": "Stuff NZ",
+     "c": "Wellington",
+     "p": "XX",
+     "t": "L'articolo è leggibile solo nel titolo e nell'occhiello, dunque il giudizio è parziale. Riporta che la F1 ha interrotto le consultazioni con le \"autorità locali\" di Imola, confermando che il finale di stagione si terrà regolarmente nei due circuiti del Golfo.",
+     "b": "t"
+    },
+    {
+     "n": "Iraqi News",
+     "c": "Baghdad",
+     "p": "XX",
+     "t": "L'articolo non tratta la Formula 1, ma un accordo per un \"corridoio digitale\" tra Singapore e l'Italia. Descrive il progetto per posare cavi in \"fibra ottica\" attraverso l'Iraq e il Qatar entro il 2027, bypassando i nodi marittimi tradizionali.",
+     "b": "a"
+    },
+    {
+     "n": "Island Times",
+     "c": "Ngerulmud",
+     "p": "XX",
+     "t": "L'articolo riporta i risultati delle \"elezioni generali\" ad Angaur, Palau, senza alcun riferimento alla Formula 1. Descrive il pareggio tra i candidati Suzuki e Fukuichi e il fallimento di un \"emendamento costituzionale\" locale. È un testo del tutto estraneo al tema.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Emerge una divergenza totale di contenuto: Iraqi News e Island Times non trattano affatto la Formula 1, occupandosi rispettivamente di \"fibra ottica\" ed elezioni a Palau. Tra le fonti pertinenti, Gulf News specifica che Imola è stata ufficialmente esclusa come \"potenziale sostituto\", dettaglio non approfondito da Al Jazeera, la quale enfatizza invece la volontà della FIA di procedere nonostante le preoccupazioni e i \"sentimenti contrastanti\" espressi dai piloti."
+  },
+  "z80951824": {
+   "voci": [
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La voce dell'Italia riporta lo scontro sul manuale di storia. Valditara accusa il testo di \"indottrinamento\", mentre l'editore risponde che il ministro \"non può\" chiederne il ritiro. Il giudizio è parziale a causa dell'assenza del testo integrale.",
+     "b": "t"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "L'agenzia riporta le critiche di Valditara al manuale, definito \"strumentale\" e \"inadeguato\". Laterza replica difendendo la \"libertà di pensiero\" e di insegnamento. L'articolo cita passaggi del libro sul governo Meloni e la sua presunta relazione con la \"base\" fascista.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La testata dedica tre spazi diversi all'attività di governo. Sul caso Laterza evidenzia la contrapposizione tra accuse di indottrinamento e \"libertà di espressione\". Altri articoli trattano le tensioni sugli aiuti all'Ucraina e i costi per i caccia \"F-35\". Il giudizio è parziale.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Mentre Rai News e ANSA si focalizzano esclusivamente sullo scontro tra Valditara e Laterza, la Repubblica inserisce la notizia in una cornice più ampia di tensioni governative, includendo i temi dei missili per l'Ucraina e della spesa per i caccia F-35. ANSA è l'unica a riportare i dettagli testuali del manuale contestato (come l'accusa di misure \"liberticide\") e a citare il precedente coinvolgimento dell'Associazione Italiana Editori. ANSA riporta inoltre una dichiarazione di Laterza che menziona l'estate 2025, dettaglio assente nelle altre testate. Rai News e la Repubblica (per due articoli su tre) non dispongono del testo completo, limitando il confronto ai titoli e agli occhielli."
   }
  },
  "luoghi": {
@@ -2070,6 +4639,448 @@ window.EDIZIONI["2026-11-10-sera"] = {
     "Ukraine"
    ],
    "pt": []
+  },
+  "zed62b8e1": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z315fb24f": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zfaa6b97c": {
+   "n": "al-Ayyat",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "zd3aac385": {
+   "n": "Rafah",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z2a1d69d6": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z26771d7b": {
+   "n": "Kuwait City",
+   "p": [
+    "Kuwait"
+   ],
+   "pt": []
+  },
+  "z8b8d55e5": {
+   "n": "Doha",
+   "p": [
+    "Qatar"
+   ],
+   "pt": []
+  },
+  "z92a0d708": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zaddb80c3": {
+   "n": "Istanbul",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z6fa7fba9": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z0687c0fe": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z5652c744": {
+   "n": "Turtle Island",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z80951824": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf392c616": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z47abb8e0": {
+   "n": "Bassora",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z745a8289": {
+   "n": "Pyongyang",
+   "p": [
+    "North Korea"
+   ],
+   "pt": []
+  },
+  "z350e38ac": {
+   "n": "Sofia",
+   "p": [
+    "Bulgaria"
+   ],
+   "pt": []
+  },
+  "z773e4c29": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "za89f32a2": {
+   "n": "Ginevra",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z4b268687": {
+   "n": "Dolomiti",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z0cdb693e": {
+   "n": "Marte",
+   "p": [],
+   "pt": []
+  },
+  "zffc18ee6": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf8ff74a9": {
+   "n": "Turchia",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z7e0d51d1": {
+   "n": "Mondo",
+   "p": [
+    "Croatia"
+   ],
+   "pt": []
+  },
+  "z2a431ae1": {
+   "n": "Burkina Faso",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "zca9a6f68": {
+   "n": "Mondo",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z96cac438": {
+   "n": "Malta",
+   "p": [
+    "Malta"
+   ],
+   "pt": []
+  },
+  "z2c0fc303": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z188b93d2": {
+   "n": "Kihnu",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z0cd84a91": {
+   "n": "Castle Rock",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3e1f92e5": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z9813c75f": {
+   "n": "Canada",
+   "p": [
+    "Canada",
+    "Iran"
+   ],
+   "pt": []
+  },
+  "zcdf1311b": {
+   "n": "Russia",
+   "p": [
+    "Russia",
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z45f90684": {
+   "n": "Birmingham",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z318debee": {
+   "n": "Equatoria Orientale",
+   "p": [
+    "S. Sudan"
+   ],
+   "pt": []
+  },
+  "z56eabb4e": {
+   "n": "Germania",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z512404b3": {
+   "n": "Deserto di Atacama",
+   "p": [
+    "Chile"
+   ],
+   "pt": []
+  },
+  "z4a2832b6": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7625c389": {
+   "n": "Nuova Delhi",
+   "p": [
+    "India",
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z2d5bc13d": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z64db69a9": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zcc3383e9": {
+   "n": "Foresta dei Vosgi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zc37bc861": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z68c3f71c": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdb6b73f0": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z72034b83": {
+   "n": "United States of America",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zdc0f438a": {
+   "n": "Spain",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z0934b2c1": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zfda88027": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5c98f47d": {
+   "n": "Afghanistan",
+   "p": [
+    "Afghanistan"
+   ],
+   "pt": []
+  },
+  "z77833779": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z8794bfaf": {
+   "n": "Gabon",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "zd8cac74b": {
+   "n": "Niger",
+   "p": [
+    "Niger"
+   ],
+   "pt": []
+  },
+  "z1424a800": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za5f1a6f5": {
+   "n": "Kigali",
+   "p": [
+    "Rwanda"
+   ],
+   "pt": []
+  },
+  "zfdd532fb": {
+   "n": "Coolum",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z4faa2742": {
+   "n": "Cape Town",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z2b289917": {
+   "n": "Poland",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z7b263676": {
+   "n": "Uzbekistan",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z8de5f5eb": {
+   "n": "Turkey",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z9df4fdf1": {
+   "n": "Kuala Lumpur",
+   "p": [
+    "Malaysia"
+   ],
+   "pt": []
+  },
+  "z193b32da": {
+   "n": "Geneva",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z669b6a94": {
+   "n": "Port Moresby",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -2115,7 +5126,70 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "za3cf240d": 2,
   "z0ce2f3a9": 2,
   "ze9d12193": 2,
-  "z5062e7db": 3
+  "z5062e7db": 3,
+  "zed62b8e1": 2,
+  "z315fb24f": 2,
+  "zfaa6b97c": 1,
+  "zd3aac385": 1,
+  "z2a1d69d6": 1,
+  "z26771d7b": 2,
+  "z8b8d55e5": 2,
+  "z92a0d708": 1,
+  "zaddb80c3": 1,
+  "z6fa7fba9": 1,
+  "z0687c0fe": 2,
+  "z5652c744": 1,
+  "z80951824": 3,
+  "zf392c616": 2,
+  "z47abb8e0": 2,
+  "z745a8289": 1,
+  "z350e38ac": 1,
+  "z773e4c29": 2,
+  "za89f32a2": 1,
+  "z4b268687": 1,
+  "z0cdb693e": 1,
+  "zffc18ee6": 1,
+  "zf8ff74a9": 1,
+  "z7e0d51d1": 1,
+  "z2a431ae1": 1,
+  "zca9a6f68": 2,
+  "z96cac438": 1,
+  "z2c0fc303": 1,
+  "z188b93d2": 1,
+  "z0cd84a91": 1,
+  "z3e1f92e5": 1,
+  "z9813c75f": 1,
+  "zcdf1311b": 1,
+  "z45f90684": 1,
+  "z318debee": 1,
+  "z56eabb4e": 1,
+  "z512404b3": 1,
+  "z4a2832b6": 1,
+  "z7625c389": 1,
+  "z2d5bc13d": 1,
+  "z64db69a9": 2,
+  "zcc3383e9": 1,
+  "zc37bc861": 2,
+  "z68c3f71c": 1,
+  "zdb6b73f0": 1,
+  "z72034b83": 1,
+  "zdc0f438a": 2,
+  "z0934b2c1": 2,
+  "zfda88027": 2,
+  "z5c98f47d": 2,
+  "z77833779": 2,
+  "z8794bfaf": 1,
+  "zd8cac74b": 1,
+  "z1424a800": 3,
+  "za5f1a6f5": 2,
+  "zfdd532fb": 1,
+  "z4faa2742": 1,
+  "z2b289917": 2,
+  "z7b263676": 1,
+  "z8de5f5eb": 1,
+  "z9df4fdf1": 2,
+  "z193b32da": 2,
+  "z669b6a94": 1
  },
  "video": {},
  "pillole": []
