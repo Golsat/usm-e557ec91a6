@@ -1131,7 +1131,7 @@ window.EDIZIONI["2026-11-10"] = {
   },
   {
    "id": "z05b5410b",
-   "sez": "musica",
+   "sez": "cultura",
    "titolo": "Anteprima del backstage della serie di Emanuela Fanelli",
    "orig": "‘Peccato’, in anteprima il backstage dell’ultimo episodio della serie di e con Emanuela Fanelli",
    "lead": "A Milano è stato diffuso il backstage dell'ultimo episodio della serie televisiva scritta e interpretata da Emanuela Fanelli, intitolata 'Peccato'. Il video mostra in anteprima momenti dal set con la partecipazione di Geppi Cucciari e Valerio Mastandrea, completando la programmazione della serie. Lo riferisce Rolling Stone Italia.",
