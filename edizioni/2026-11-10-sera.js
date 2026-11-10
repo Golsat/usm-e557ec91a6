@@ -3,6 +3,1708 @@ window.EDIZIONI["2026-11-10-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z3de084c5",
+   "sez": "economia",
+   "titolo": "La Nigeria recupera fondi da due compagnie petrolifere",
+   "orig": "EFCC recovers $3m, N1.3bn from two oil firms",
+   "lead": "La Commissione per i crimini economici e finanziari della Nigeria ha recuperato 3 milioni di dollari e 1,3 miliardi di naira da due compagnie petrolifere, Aiteo e Newcross, a causa di pagamenti statutari non versati. I fondi recuperati sono stati successivamente consegnati alla Commissione per la mobilitazione e l'assegnazione delle entrate (RMAFC). Lo riferisce The Punch.",
+   "more": [
+    "Le autorità fiscali e di controllo monitorano regolarmente il settore energetico per verificare il rispetto degli obblighi di versamento previsti dalla legge. La riscossione di somme non corrisposte serve a garantire che le entrate derivanti dallo sfruttamento delle risorse petrolifere affluiscano regolarmente alle casse pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/efcc-recovers-3m-n1-3bn-from-two-oil-firms/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze37fb038",
+   "sez": "economia",
+   "titolo": "Il governo esclude nuovi incentivi fiscali per i progetti di partenariato pubblico-privato",
+   "orig": "Government rules out new tax incentives for PPP projects",
+   "lead": "Il governo del Kenya ha deciso di escludere nuovi incentivi fiscali per i progetti realizzati tramite il partenariato pubblico-privato (PPP). Questa misura ha l'obiettivo di ridurre la spesa pubblica per le agevolazioni fiscali e di garantire un uso efficiente delle risorse statali, mentre l'esecutivo cerca di attrarre un maggiore volume di capitali privati nello sviluppo delle infrastrutture nazionali. Lo riferisce Citizen Digital.",
+   "more": [
+    "I partenariati pubblico-privati rappresentano uno strumento finanziario utilizzato da molti Stati per realizzare opere pubbliche ricorrendo al capitale privato. La gestione delle agevolazioni fiscali collegate a questi contratti serve a bilanciare la convenienza per gli investitori con la tutela delle entrate pubbliche."
+   ],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/government-rules-out-new-tax-incentives-for-ppp-projects-n393670",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-10T16:22+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf32765a1",
+   "sez": "economia",
+   "titolo": "Nasce la joint venture Fanomenon per il festival K-pop in Corea del Sud",
+   "orig": "Fanomenon company launches with W4b, board seats for Hybe, SM, JYP, YG",
+   "lead": "Le principali agenzie di intrattenimento sudcoreane Hybe, SM, JYP e YG Entertainment hanno costituito ufficialmente la società Fanomenon con un capitale iniziale di 4 miliardi di won, pari a circa 3 milioni di dollari. La joint venture, registrata il 26 ottobre, gestirà l'omonimo festival K-pop sostenuto dal governo e programmato per dicembre 2027. La società disporrà inizialmente di 800.000 azioni ordinarie e potrà raccogliere fino a 25 miliardi di won. Lo riferisce The Korea Herald.",
+   "more": [
+    "Il settore dell'intrattenimento in Corea del Sud costituisce un pilastro economico e culturale di rilievo internazionale, noto globalmente attraverso il fenomeno della Hallyu. La cooperazione tra le maggiori etichette discografiche e il sostegno statale mirano a consolidare ulteriormente la posizione del Paese nel turismo culturale e musicale."
+   ],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10932591",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-10T17:15+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zeda9fc0d",
+   "sez": "mondo",
+   "titolo": "Il Kazakistan tra i primi cinquanta Paesi per opportunità nella classifica globale",
+   "orig": "Kazakhstan Ranks Among Top 50 Countries for Opportunities in Best Countries 2026",
+   "lead": "Il Kazakistan si è posizionato al 44esimo posto tra cento Paesi nella categoria delle opportunità all'interno della classifica Best Countries 2026. Con un punteggio medio di 53,9 punti, lo Stato rientra tra i primi cinquanta per le condizioni relative ad affari, occupazione, istruzione, protezione sociale e accesso alle risorse finanziarie. Lo riferisce The Astana Times.",
+   "more": [
+    "Le classifiche internazionali sulle opportunità valutano diversi indicatori socio-economici per determinare il livello di attrattività e il benessere offerto ai cittadini e agli investitori. La stabilità istituzionale e le riforme strutturali incidono direttamente sulla posizione dei Paesi in queste graduatorie globali."
+   ],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/11/kazakhstan-ranks-among-top-50-countries-for-opportunities-in-best-countries-2026/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-10T13:01+00:00"
+    },
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/kazakhstan/4244943.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-11-10T19:36+04:00"
+    },
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/south-sudan-ranks-last-in-africa-in-2026-governance-index/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-ranks-last-in-africa-in-2026-governance-index",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-10T15:18+00:00"
+    },
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/sudan-ranks-third-among-africas-most-deteriorated-countries-in-governance/?utm_source=rss&utm_medium=rss&utm_campaign=sudan-ranks-third-among-africas-most-deteriorated-countries-in-governance",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-10T15:01+00:00"
+    },
+    {
+     "n": "Eye Radio",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://eyeradio.org/south-sudan-ranks-last-in-africa-in-2026-governance-index-new-report/?utm_source=rss&utm_medium=rss&utm_campaign=south-sudan-ranks-last-in-africa-in-2026-governance-index-new-report",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-10T16:25+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3a42b38f",
+   "sez": "mondo",
+   "titolo": "Perquisizioni di polizia e procura negli uffici di Romer Saucedo a Sucre",
+   "orig": "Policía y fiscalía allanan las oficinas de Romer Saucedo en Sucre",
+   "lead": "La polizia e la procura boliviana hanno compiuto perquisizioni negli uffici e nell'abitazione precedentemente occupati da Romer Saucedo nella città di Sucre. Durante le operazioni gli inquirenti hanno rinvenuto assegni e conti bancari esteri che saranno sottoposti a indagine, sebbene non siano emersi altri elementi di rilevanza penale immediata. Lo riferisce Brújula Digital.",
+   "more": [
+    "Le attività di perquisizione e sequestro rientrano nei poteri investigativi della magistratura e della polizia giudiziaria per raccogliere prove nell'ambito di inchieste su presunti reati finanziari o di altra natura. La verifica dei conti esteri costituisce una prassi comune nei procedimenti complessi."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/policia-y-fiscalia-allanan-las-oficinas-de-romer-saucedo-en-sucre",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-10T10:31-04:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/fiscalia-cita-declarar-ex-fiscales-felcn-ellos-exasesor-romer-saucedo-ex-presidente-tdj-santa-cruz_1794334557",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-10T18:16+00:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/seguridad/policia-y-fiscalia-desarticulan-red-de-trafico-internacional-de-drogas-a-gran-escala-11-detenidos-en-tres-provincias-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-10T13:50+00:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/actualidad/nacional/2026/11/10/policia-desmantela-red-que-fabricaba-armas-3d-hay-cinco-detenidos/3716576",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-11-10T12:01+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z243c3970",
+   "sez": "mondo",
+   "titolo": "In Nuova Zelanda gli insegnanti segnalano difficoltà per gli studenti delle scuole più povere con i test online",
+   "orig": "Students from poorest schools struggle with online tests, teachers warn",
+   "lead": "In Nuova Zelanda diversi insegnanti hanno evidenziato che gli studenti provenienti dalle scuole più povere riscontrano maggiori difficoltà nello svolgimento dei test online rispetto alle tradizionali prove cartacee. Una docente di matematica ha riscontrato che la stragrande maggioranza della sua classe ottiene risultati migliori utilizzando la carta. Lo riferisce RNZ.",
+   "more": [
+    "L'introduzione della digitalizzazione scolastica e dei test in formato elettronico richiede un accesso uniforme alle infrastrutture tecnologiche e alle competenze digitali. Le disparità socio-economiche tra gli istituti possono influenzare le performance degli studenti e la loro familiarità con gli strumenti informatici."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/education/2523947/students-from-poorest-schools-struggle-with-online-tests-teachers-warn",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-11T05:21+13:00"
+    },
+    {
+     "n": "Daily NK",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.dailynk.com/english/hyesan-schools-ranked-classes-grades/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-11-06T14:58+00:00"
+    },
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273724/jacmel-students-from-pinchinat-and-celie-lamour-high-schools-take-to-the-streets-to-demand-teachers",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-11-09T22:35+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6d34408b",
+   "sez": "mondo",
+   "titolo": "Joe Biden limiterà gli eventi pubblici durante la presentazione del libro per motivi di salute",
+   "orig": "Joe Biden anuncia que, debido a su lucha contra el cáncer, limitará sus charlas durante la gira en Estados Unidos de presentación de su libro",
+   "lead": "L'ex presidente degli Stati Uniti Joe Biden ha annunciato che ridurrà il numero di interventi e incontri previsti nel corso della sua tournée promozionale del libro nel Paese. La decisione è dovuta alle cure in corso per la sua lotta contro il cancro alla prostata con metastasi ossee, diagnosticato l'anno scorso. Lo riferisce El Tiempo.",
+   "more": [
+    "La gestione degli impegni pubblici da parte di figure politiche di primo piano viene spesso rimodulata in presenza di patologie oncologiche complesse che richiedono trattamenti medici continuativi e periodi di riposo."
+   ],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/joe-biden-anuncia-que-debido-a-su-lucha-contra-el-cancer-limitara-sus-charlas-durante-la-gira-en-estados-unidos-de-presentacion-de-su-libro-3599899",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-10T11:13-05:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/mundo/venezuela/estados-unidos-gestiono-12000-millones-de-dolares-del-petroleo-de-venezuela-dice-the-new-york-times-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-10T18:48+00:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/11/nyt-informe-revela-que-ee-uu-gestiono-12-mil-millones-en-ingresos-petroleros-venezolanos/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-11-10T18:42+00:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/11/exxonmobil-vuelve-a-mirar-a-venezuela-hay-garantias-para-invertir-en-petroleo/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-11-10T16:24+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z22726238",
+   "sez": "mondo",
+   "titolo": "Il presidente salvadoregno Bukele annuncia la distruzione di un covo criminale in Haiti",
+   "orig": "Bukele dice que tropas salvadoreñas destruyeron ‘cuartel’ del jefe de una pandilla en Haití",
+   "lead": "Il presidente di El Salvador, Nayib Bukele, ha annunciato la distruzione della residenza del capo della gang haitiana 400 Mawozo, Wilson Joseph, noto come Lanmò San Jou, e del relativo quartier generale. L'intervento delle truppe salvadorenee nel Paese caraibico si svolge al di fuori dei meccanismi di monitoraggio internazionale ufficiali. Lo riferisce La Nación CR.",
+   "more": [
+    "La situazione di sicurezza in Haiti è caratterizzata da una forte instabilità e dal controllo esteso del territorio da parte di gruppi armati e bande criminali. Le iniziative di sicurezza unilaterali o condotte da forze straniere al di fuori dei mandati ONU suscitano spesso dibattiti sulla cooperazione internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-mundo/bukele-dice-que-tropas-salvadorenas-destruyeron/K546UCAS2NBKRIOZPULQCV2YSE/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-10T18:26+00:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/mundo/general/2026/11/10/nayib-bukele-anuncia-destruccion-de-cuartel-general-de-400-mawozo/3716608",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-11-10T12:21+00:00"
+    },
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/mundo/estados-unidos/2026/11/10/operaciones-de-nayib-bukele-en-haiti-generan-tensiones-con-eeuu/3716589",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-11-10T12:12+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/haiti-bukele-et-ladministration-trump-en-desaccord-sur-loperation-militaire/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-10T15:28+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z72297dfa",
+   "sez": "prima",
+   "titolo": "Azionisti accusano Nvidia e il loro amministratore delegato",
+   "orig": "Nvidia e suo Ceo sotto accusa azionisti",
+   "lead": "Alcuni azionisti hanno promosso un'azione legale contro Nvidia e il loro amministratore delegato con l'accusa di avere nascosto informazioni rilevanti che avrebbero potuto avere conseguenze negative sulla società. Lo riferisce Rai News.",
+   "more": [
+    "Le controversie legali promosse dagli azionisti contro i vertici delle grandi società quotate in Borsa si basano solitamente sulla presunta omissione o diffusione ingannevole di notizie in grado di influenzare il valore azionario e le decisioni d'investimento."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/nvidia-e-suo-ceo-sotto-accusa-azionisti-f81af262-2af3-4b49-873c-7da1979d5619.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T09:01+00:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/10/news/usa_chi_e_thomas_massie_repubblicano_vuole_impeachment_hegseth-425713030/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T12:37+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/internacional/2026/11/10/6af360c0e4d4d8c66d8b45ac.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-10T19:31+01:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/10/news/usa_chi_e_thomas_massie_repubblicano_vuole_impeachment_hegseth-425713030/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T13:37+01:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z47d3b2f3",
+   "sez": "mondo",
+   "titolo": "A Lisbona una serata musicale celebra la coladera capoverdiana",
+   "orig": "Roda de Coladera celebra estilo musical cabo-verdiano em Lisboa",
+   "lead": "Il locale B.Leza di Lisbona ospiterà la rassegna 'Roda de Coladera', un evento culturale volto a celebrare lo stile musicale tradizionale di Capo Verde. L'iniziativa vedrà la partecipazione delle cantanti Ana Firmino e Cremilda Medina insieme all'artista Dany Silva. Lo riferisce RTP.",
+   "more": [
+    "La coladera è uno dei generi musicali più rappresentativi della cultura di Capo Verde, caratterizzato da ritmi vivaci e testi di forte radice popolare. Le comunità capoverdiane residenti all'estero organizzano regolarmente eventi per promuovere le proprie tradizioni artistiche."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/cultura/roda-de-coladera-celebra-estilo-musical-cabo-verdiano-em-lisboa_n1778201",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-10T18:42+00:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/11/10/fugas/noticia/tap-ajusta-operacao-devido-mau-tempo-ja-permite-alterar-voos-2194487",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-10T17:25+00:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/cultura/2026/11/10/roda-de-coladeira-junta-tres-vozes-para-cantar-e-dancar-cabo-verde-no-bleza-em-lisboa-portugal/105479",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-10T17:42+00:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/pais/2026/11/10/mau-tempo-em-lisboa-podera-afectar-voos-da-cabo-verde-airlines-nos-dias-11-e-12-de-novembro/105477",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-10T15:34+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/11/09/cabo-verde-acolhe-primeiro-forum-da-infancia-vulneravel-da-macaronesia/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-09T13:57+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze3ad909c",
+   "sez": "mondo",
+   "titolo": "Colloquio a Parigi tra i ministri degli Esteri di Corea del Sud e Canada",
+   "orig": "S. Korean, Canadian FMs discuss N. Korea, bilateral issues in Paris",
+   "lead": "Il ministro degli Esteri sudcoreano Cho Hyun ha incontrato a Parigi il proprio omologo canadese per discutere delle questioni relative alla Corea del Nord e dei rapporti bilaterali tra i due Stati. Lo riferisce Yonhap.",
+   "more": [
+    "Gli incontri diplomatici internazionali tra ministri degli Esteri servono a rafforzare la cooperazione strategica su temi di sicurezza regionale, stabilità geopolitica e scambi commerciali bilaterali."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261110010800315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-10T22:54+09:00"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/south-korea-ukraine-relations-begin-to-thaw-after-paris-meeting/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-10T17:05+00:00"
+    },
+    {
+     "n": "Ukrinform",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://www.ukrinform.net/rubric-polytics/4183510-sybiha-discusses-normalizing-bilateral-relations-with-south-korean-fm.html",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-10T20:25+02:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261110010751315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-10T22:29+09:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261110010700315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-10T22:05+09:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9d6f0a3b",
+   "sez": "mondo",
+   "titolo": "I giochi da tavolo africani protagonisti ai Giochi Olimpici Giovanili di Dakar",
+   "orig": "JOJ Dakar 2026 : les jeux de société africains sont aussi de la partie",
+   "lead": "Ai Giochi Olimpici Giovanili di Dakar 2026 trovano spazio anche i tradizionali giochi da tavolo africani. L'iniziativa offre momenti di svago e mira a valorizzare la cultura del continente nel quadro della prima manifestazione olimpica organizzata in Africa. Lo riferisce France 24.",
+   "more": [
+    "I Giochi Olimpici Giovanili rappresentano una vetrina internazionale non solo per le competizioni sportive giovanili, ma anche per la promozione delle tradizioni culturali, sociali e artistiche dei Paesi ospitanti."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261110-joj-dakar-2026-les-jeux-de-soci%C3%A9t%C3%A9-africains-sont-aussi-de-la-partie",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-10T18:29+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/joj-dakar-2026-marie-sarr-en-or-le-senegal-celebre-sa-cinquieme-consecration_n_999003234.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-10T18:16+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/dakar2026/joj-dakar-2026-marie-sarr-decroche-lor-en-taekwondo-et-entre-dans-lhistoire/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-10T17:41+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/dakar2026/joj-dakar-2026-taekwondo-la-senegalaise-aida-toure-soffre-la-medaille-de-bronze/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-10T17:28+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z71c4fd69",
+   "sez": "mondo",
+   "titolo": "Il Board of Peace giudica insufficienti gli aiuti di Israele dopo le inondazioni a Gaza",
+   "orig": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+   "lead": "Il Board of Peace ha definito insufficiente la risposta umanitaria fornita da Israele in seguito alle recenti inondazioni che hanno colpito la Striscia di Gaza. L'organismo ha espresso critiche nei confronti di Israele, pur attribuendo a Hamas una quota di responsabilità per le sofferenze della popolazione civile palestinese. Lo riferisce BBC News.",
+   "more": [
+    "La gestione degli aiuti umanitari nei territori palestinesi e la tutela dei civili in situazioni di emergenza climatica e bellica costituiscono temi centrali del dibattito internazionale e della diplomazia umanitaria."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T15:21+00:00"
+    },
+    {
+     "n": "The New York Times",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T18:39+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5898598d",
+   "sez": "mondo",
+   "titolo": "Arresti e perquisizioni in Francia nell'ambito dell'inchiesta su Mohamed Al Fayed",
+   "orig": "Arrests made in Mohamed Al Fayed probe in France, police say",
+   "lead": "La polizia francese ha eseguito perquisizioni in diverse proprietà legate al defunto Mohamed Al Fayed, tra cui l'hotel Ritz di Parigi, nell'ambito di un'indagine in corso. Nel corso dell'operazione sono stati effettuati alcuni arresti da parte delle forze dell'ordine. Lo riferisce BBC News.",
+   "more": [
+    "Le inchieste giudiziarie riguardanti presunti reati di abusi o condotte illecite commessi da personalità influenti possono portare a verifiche approfondite su beni immobili e società storicamente collegate agli indagati."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T16:19+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/france-searches-ritz-villa-windsor-in-probe-of-the-late-al-fayed",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-11T02:28+08:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/french-police-search-ritz-glitzy-al-fayed-properties-in-trafficking-probe",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-11T02:13+08:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z194a4916",
+   "sez": "mondo",
+   "titolo": "In Germania Ilse Aigner incontra i partiti al Bundestag escludendo l'AfD",
+   "orig": "Germany news: Ilse Aigner meets parties at Bundestag",
+   "lead": "Ilse Aigner ha avviato una serie di incontri con i partiti politici presso il Bundestag tedesco, dichiarando che non intratterrà colloqui con il partito di estrema destra AfD. Nel frattempo, il cancelliere Merz si appresta a ricevere il primo ministro ungherese Magyar. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Le consultazioni politiche e i colloqui istituzionali tra i leader dei partiti rappresentano una fase fondamentale per la definizione delle alleanze parlamentari e della linea di governo nei sistemi politici multipartitici."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/germany-news-ilse-aigner-meets-parties-at-bundestag/live-79906440",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-10T08:36+00:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/der-andere-blick/ilse-aigner-wandelt-auf-steinmeiers-spuren-deutschlands-kuenftige-praesidentin-mauert-sich-in-der-mitte-ein-ld.10059513",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-10T16:48+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd8665581",
+   "sez": "mondo",
+   "titolo": "Il ministro della Giustizia polacco segnala tracce di estremismo di destra nell'attività del terrorista di Cracovia",
+   "orig": "“Strong traces of right-wing extremism” in activity of Kraków terrorist, says justice minister",
+   "lead": "Il ministro della Giustizia della Polonia ha dichiarato che nell'attività del sospettato dell'atto terroristico a Cracovia sono emersi forti elementi riconducibili all'estremismo di destra. Tra la cronologia delle ricerche effettuate dal sospettato figuravano siti web collegati ad Anders Breivik, il terrorista norvegese di estrema destra. Lo riferisce Notes from Poland.",
+   "more": [
+    "Le indagini sugli atti di matrice terroristica analizzano frequentemente la cronologia informatica e i contatti digitali degli indagati per ricostruire le motivazioni ideologiche e l'eventuale ispirazione a precedenti episodi criminali."
+   ],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/11/10/strong-traces-of-right-wing-extremism-in-activity-of-krakow-terrorist-says-justice-minister/",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-11-10T11:17+00:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-politics/2026-11-10/ty-article/.premium/right-wing-protesters-accuse-arab-mks-of-election-fraud-outside-knesset-swear-in/000001a1-c617-d9c8-a5f9-ee5f1b8e0000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-10T18:27+02:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z41f5688a",
+   "sez": "mondo",
+   "titolo": "Una delegazione del FMI valuta la trasparenza fiscale in Tagikistan",
+   "orig": "IMF Team Evaluates Tajikistan’s Fiscal Transparency",
+   "lead": "Una delegazione del Fondo Monetario Internazionale si trova in Tagikistan per condurre una valutazione sulle finanze pubbliche e sulla trasparenza fiscale del Paese asiatico. Lo riferisce The Times of Central Asia.",
+   "more": [
+    "Le missioni di verifica del Fondo Monetario Internazionale analizzano la gestione del bilancio statale, l'accessibilità dei dati finanziari e la qualità della rendicontazione economica per promuovere la stabilità macroeconomica."
+   ],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/imf-team-evaluates-tajikistans-fiscal-transparency/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-10T17:27+00:00"
+    },
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/11/10/imf-to-assess-transparency-of-tajikistans-public-finances/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-11-10T10:03+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbaac5d13",
+   "sez": "mondo",
+   "titolo": "Il tribunale francese indaga lo scrittore Michel Houellebecq per dichiarazioni sui musulmani",
+   "orig": "Franse auteur Michel Houellebecq in verdenking gesteld na uitspraken over moslims",
+   "lead": "Un giudice istruttore francese ha formalmente iscritto nel registro degli indagati lo scrittore Michel Houellebecq con l'accusa di complicità nell'istigazione alla discriminazione, all'odio o alla violenza. L'indagine fa seguito alle affermazioni rilasciate dall'autore sui musulmani nel corso di un'intervista pubblicata a fine novembre 2022. Lo riferisce VRT NWS.",
+   "more": [
+    "Le disposizioni penali relative all'incitamento all'odio e alla discriminazione sanzionano pubblicazioni o dichiarazioni pubbliche ritenute idonee a generare animosità contro gruppi di persone in ragione della loro origine o religione."
+   ],
+   "fonti": [
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/11/10/michel-houellebecq-franse-auteur-verdenking-uitspraken-moslims.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-11-10T17:44+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/societe/article/2026/11/10/michel-houellebecq-mis-en-examen-pour-ses-propos-sur-les-musulmans-lors-d-un-entretien-dans-la-revue-front-populaire-en-2022_6808858_3224.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-10T16:14+01:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb50e5441",
+   "sez": "mondo",
+   "titolo": "Le difficoltà quotidiane dei venditori ambulanti in Costa d'Avorio",
+   "orig": "Côte d’Ivoire : le quotidien précaire des vendeurs ambulants",
+   "lead": "Nel traffico congestionato di Abidjan, centinaia di venditori ambulanti rischiano quotidianamente la vita tra i veicoli in corsa per proporre articoli di vario genere, dagli accessori per telefonia agli snack. Molti di questi lavoratori precari provengono dal Niger, dal Mali o dal Burkina Faso e affrontano condizioni di grande vulnerabilità economica. Lo riferisce France 24.",
+   "more": [
+    "Il commercio informale su strada rappresenta una fonte di sussistenza fondamentale per ampie fasce della popolazione urbana nei Paesi in via di sviluppo, pur esponendo i lavoratori a rischi significativi per la sicurezza personale."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261110-c%C3%B4te-d-ivoire-le-quotidien-pr%C3%A9caire-des-vendeurs-ambulants",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-10T17:16+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Afrique/cote-divoire-le-domicile-de-charles-ble-goude-cambriole_n_999003232.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-10T18:07+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb253967d",
+   "sez": "mondo",
+   "titolo": "I Paesi Bassi concedono una donazione di oltre 60 milioni di euro per la protezione costiera in Tunisia",
+   "orig": "Les Pays-Bas accordent un don de 60,9 millions d’euros pour protéger le littoral tunisien",
+   "lead": "Il governo del Regno dei Paesi Bassi ha accordato alla Tunisia una donazione di circa 60,9 milioni di euro destinata a contribuire al finanziamento del programma di protezione del litorale tunisino. L'accordo di donazione è stato formalizzato durante una cerimonia ufficiale tenuta presso il Ministero degli Affari Esteri tunisino. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "La cooperazione internazionale allo sviluppo e i finanziamenti a fondo perduto vengono spesso impiegati per realizzare opere di ingegneria ambientale e di difesa costiera contro i rischi legati all'erosione e ai cambiamenti climatici."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/11/10/les-pays-bas-accordent-un-don-de-609-millions-deuros-pour-proteger-le-littoral-tunisien/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-11-10T17:42+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/critique-de-lappel-a-poutine-le-danemark-debloque-642-millions-deuros-pour-lukraine/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-10T15:59+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zebfe8ab0",
+   "sez": "mondo",
+   "titolo": "La Francia affronta disordini interni mentre valuta missioni militari all'estero",
+   "orig": "Riot-torn France struggles with chaos at home as Macron eyes military mission thousands of miles away",
+   "lead": "Mentre la Francia fa fronte a tensioni e disordini interni, i piani del presidente Emmanuel Macron relativi all'invio di una forza militare in Libano incontrano la resistenza dell'Italia, mentre esponenti politici statunitensi suggeriscono alternative civili alla missione dell'UNIFIL. Lo riferisce Fox News.",
+   "more": [
+    "Le decisioni di politica estera e la partecipazione a missioni di mantenimento della pace richiedono ampie intese diplomatiche internazionali e la gestione degli equilibri strategici tra i diversi alleati regionali."
+   ],
+   "fonti": [
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T11:22-05:00"
+    },
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://mobile.naharnet.com/stories/en/323666-rubio-discusses-post-unifil-monitoring-mission-with-macron",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-11-10T13:34+02:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z12a5de35",
+   "sez": "mondo",
+   "titolo": "In Nicaragua calano i posti disponibili nelle università pubbliche per il 2027",
+   "orig": "Bachilleres tendrán 12 000 cupos menos en universidades públicas en 2027",
+   "lead": "Nonostante il diploma di 86.000 studenti previsto in Nicaragua, le università pubbliche offriranno complessivamente 70.000 posti per l'anno accademico 2027, registrando una riduzione di circa 12.000 posti rispetto all'anno precedente. Gli studenti potranno scegliere tra 130 corsi di laurea distribuiti in 13 centri accademici. Lo riferisce Confidencial.",
+   "more": [
+    "La pianificazione dell'offerta formativa universitaria e la determinazione dei posti disponibili dipendono dalle risorse di bilancio assegnate agli istituti d'istruzione superiore statali."
+   ],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/noticias/bachilleres-tendran-12-000-cupos-menos-en-universidades-publicas-en-2027/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-11-09T07:15+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/politica/ppso-asesta-otro-golpe-al-financiamiento-de-las/VTM3PAALYFBCXPQ7SNOULNV4RA/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-10T18:34+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4ae6cd22",
+   "sez": "mondo",
+   "titolo": "L'avvocata Leticia de la Hoz rinuncia alla difesa di Koldo García nel caso 'Cloacas del PSOE'",
+   "orig": "La abogada Leticia de la Hoz, imputada en el 'Caso cloacas' del PSOE, renuncia a continuar defendiendo a Koldo García",
+   "lead": "L'avvocata Leticia de la Hoz, indagata nell'ambito del procedimento denominato 'Caso cloacas' del PSOE, ha annunciato la propria rinuncia a continuare a esercitare la difesa di Koldo García. La legale ha motivato la decisione richiamando ragioni professionali coperte dal segreto professionale. Lo riferisce El Mundo.",
+   "more": [
+    "Nel diritto processuale penale, la rinuncia al mandato difensivo da parte di un legale può avvenire per motivi di carattere professionale o personale, garantendo comunque all'indagato la nomina di un nuovo difensore."
+   ],
+   "fonti": [
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/espana/2026/11/10/6af32af121efa002098b4587.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-10T19:01+01:00"
+    },
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/blancos-piden-la-renuncia-lustemberg-decision-orsi-caso-miralles-que-decia-la-ministra-la-rebaja-la-sancion-la-anestesista-n6063372",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-10T14:57-03:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z08a69007",
+   "sez": "mondo",
+   "titolo": "L'Algeria invia truppe militari al confine con il Niger",
+   "orig": "Algérie-Niger : le pouvoir franchit un seuil militaire inédit depuis plus d’un demi-siècle",
+   "lead": "L'esercito nazionale algerino ha varcato la frontiera del Niger per la prima volta dal 1973, segnando una svolta strategica e una nuova configurazione di sicurezza nel Sahel. L'intervento armato, autorizzato dal Parlamento, punta a proteggere gli interessi comuni tra i due Paesi.",
+   "more": [
+    "Questa mossa militare rappresenta un evento inedito da oltre cinquant'anni nella politica estera di Algeri, aprendo interrogativi sui reali obiettivi e sui limiti di una presenza stabile nella regione."
+   ],
+   "fonti": [
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/algerie-niger-le-pouvoir-franchit-un-seuil-militaire-inedit-depuis-plus-dun-demi-siecle/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-11-10T16:24+00:00"
+    },
+    {
+     "n": "Kapitalis",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://kapitalis.com/tunisie/2026/11/10/pourquoi-lalgerie-envoie-t-elle-son-armee-au-niger/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-11-10T08:03+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1424a800",
+   "sez": "prima",
+   "titolo": "Viminale: i recenti attacchi hacker mirano a destabilizzare l'Italia",
+   "orig": "Attacchi hacker, il fine è destabilizzare",
+   "lead": "Il ministro dell'Interno Matteo Piantedosi ha riunito a Roma il Comitato per la Sicurezza, evidenziando che l'offensiva informatica contro le istituzioni e le infrastrutture europee ha l'obiettivo di destabilizzare il Paese. Le autorità raccomandano di rafforzare le difese digitali di Asl, Comuni e aziende.",
+   "more": [
+    "L'Agenzia europea e l'intelligence mettono in guardia contro i rischi legati all'intelligenza artificiale e la possibile estensione delle minacce informatiche a dispositivi domestici e router Wi-Fi."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/attacchi-hacker-il-fine-e-destabilizzare-62d40b19-0685-41c9-8c17-961ce4ff9d02.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T14:35+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/10/agenzia-ue-attacchi-hacker-potrebbero-colpire-anche-elettrodomestici_28703d89-c3b2-4c05-8315-d0e77f5339ba.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T17:49+01:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/cronaca/2026/11/10/news/viminale_attacchi_hacker_misure_sicurezza-425713150/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T13:32+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/cyberattacchi-e-falsi-allarmi-bomba-vertice-viminale-vogliono-destabilizzare-l-italia-AJHWKaBC",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T15:16+00:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/europe/article/3373993/after-fridge-hacks-home-appliances-could-be-next-eu-cyber-chief-warns",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-10T17:36+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-11T01:25+08:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8b516ff0",
+   "sez": "mondo",
+   "titolo": "Patto di pace tra Kabeya-Kamwanga e Dimbelenge per il conflitto frontaliero",
+   "orig": "Conflit frontalier entre le Kasaï-Central et le Kasaï-Oriental : Kabeya-Kamwanga et Dimbelenge scellent un pacte de paix",
+   "lead": "Le comunità locali delle regioni del Kasaï-Central e del Kasaï-Oriental nella Repubblica Democratica del Congo hanno siglato un accordo di pace per risolvere le tensioni legate alla disputa sui confini territoriali tra i due territori.",
+   "more": [
+    "L'intesa punta a ristabilire la stabilità e la coesistenza pacifica in un'area segnata da frequenti attriti amministrativi e comunitari."
+   ],
+   "fonti": [
+    {
+     "n": "Radio Okapi",
+     "p": "XX",
+     "c": "Kinshasa",
+     "u": "https://www.radiookapi.net/2026/11/10/actualite/securite/conflit-frontalier-entre-le-kasai-central-et-le-kasai-oriental-kabeya",
+     "angolo": "",
+     "atlas": "Dem. Rep. Congo",
+     "t": "2026-11-10T17:44+01:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/10/dialogue-social-le-syndicalisme-guineen-et-le-ministere-du-travail-scellent-un-pacte-daction-a-kaloum/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-10T11:59+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc4a08710",
+   "sez": "mondo",
+   "titolo": "La diaspora indiana nel Regno Unito chiede al Presidente di indagare sulle proteste",
+   "orig": "50 UK Indian diaspora groups urge President to probe anti-India protests in London",
+   "lead": "Cinquanta associazioni della diaspora indiana nel Regno Unito hanno formalmente sollecitato il governo e la presidenza a condurre un'indagine approfondita sulle manifestazioni anti-indiane organizzate recentemente a Londra.",
+   "more": [
+    "La richiesta nasce dalla crescente preoccupazione delle comunità emigrate per la sicurezza e la rappresentazione delle tensioni politiche estere sul suolo britannico."
+   ],
+   "fonti": [
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/world/uk/50-indian-diaspora-groups-in-uk-write-to-indias-president-calling-for-probe-into-anti-india-demonstrations-in-london/articleshow/135718427.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-10T23:58+05:30"
+    },
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/money/2026/11/10/indian-anti-dumping-duties-put-nepal-s-jute-industry-under-pressure",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8f9cc7fc",
+   "sez": "mondo",
+   "titolo": "Salta l'accordo sulla cassa integrazione per l'ex Ilva",
+   "orig": "Salta l'accordo sulla cigs ex Ilva, mancano ancora garanzie",
+   "lead": "È saltato l'accordo tra i sindacati metalmeccanici e Acciaierie d'Italia al ministero del Lavoro riguardo alla cassa integrazione straordinaria richiesta per 8.622 dipendenti, in seguito allo stop degli impianti. Le organizzazioni sindacali chiedono un vertice a Palazzo Chigi.",
+   "more": [
+    "La situazione industriale resta critica mentre i commissari esaminano le offerte d'acquisto avanzate dai gruppi Jindal e Arvedi per il polo siderurgico."
+   ],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/10/ex-ilva-non-ce-laccordo-con-i-sindacati-sulla-cigs_1f0a8e77-efff-43d5-a6ee-716e84ca53d9.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T19:25+01:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/economia/2026/11/10/san-benedetto-licenzia-120-dipendenti-su-mille-nella-casa-madre-veneziana_df513fbd-76f4-431a-8ebe-804081a91055.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T19:46+01:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/ex-ilva-nessun-accordo-sindacati-e-azienda-confermata-cassa-8622-AJlreqBC",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T17:48+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/11/10/news/san_benedetto_licenzia_a_sorpresa_120_dipendenti_per_i_sindacati_l_azienda_non_e_in_difficolta-425713602/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T17:29+01:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z985eb2f9",
+   "sez": "mondo",
+   "titolo": "Elezioni in Nigeria: i progetti per il 2027 e il sostegno a Tinubu",
+   "orig": "2027: All Jigawa former governors with Tinubu, including Sule Lamido – Shettima",
+   "lead": "Il vicepresidente della Nigeria ha dichiarato durante un comizio elettorale a Dutse che tutti gli ex governatori dello Stato di Jigawa, incluso Sule Lamido, sostengono la campagna presidenziale di Bola Tinubu in vista delle elezioni del 2027.",
+   "more": [
+    "L'alleanza politica consolidata punta a garantire un forte radicamento territoriale per l'agenda di governo del partito al potere."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/924211-2027-all-jigawa-former-governors-with-tinubu-including-sule-lamido-shettima.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-10T18:07+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/full-list-tinubus-2027-campaign-promises/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z73c47548",
+   "sez": "mondo",
+   "titolo": "La giustizia federale brasiliana rinuncia a fondi extra per i giudici",
+   "orig": "Justiça Federal desiste de R$ 209 mi extra para pagar penduricalhos",
+   "lead": "Il presidente del Consiglio della Giustizia Federale brasiliana, Luís Felipe Salomão, ha revocato ufficialmente la richiesta di un credito supplementare di quasi 209 milioni di reais. Tali risorse avrebbero dovuto finanziare gratificazioni e indennità aggiuntive per i magistrati.",
+   "more": [
+    "La decisione di fare a meno dei fondi extra arriva in un momento di attenzione alla spesa pubblica e agli equilibri di bilancio del sistema giudiziario."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-federal-desiste-de-r-209-mi-extra-para-pagar-penduricalhos",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-10T13:55-03:00"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/justica-manda-uniao-pagar-seguro-desemprego-a-22-trabalhadores-resgatados-pelo-ministerio-publico.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-10T15:47-03:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1b876a67",
+   "sez": "mondo",
+   "titolo": "La società forense dell'Uganda invita la Somalia a rispettare le sentenze",
+   "orig": "Uganda law society urges Somali President to respect supreme court rulings",
+   "lead": "L'associazione degli avvocati dell'Uganda ha esortato il presidente somalo Hassan Sheikh Mohamud a conformarsi alle decisioni della Corte Suprema. Le pronunce giudiziarie bocciano la proroga del mandato presidenziale e la rimozione del capo della giustizia Baashe Yusuf Ahmed.",
+   "more": [
+    "La presa di posizione legale internazionale si inserisce nel contesto delle tensioni istituzionali interne alla Somalia riguardo alla legittimità dei poteri esecutivi e giudiziari."
+   ],
+   "fonti": [
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/news4/2026/Nov/206738/uganda_law_society_urges_somali_president_to_respect_supreme_court_rulings.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-11-10T17:42+00:00"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/somalia-supreme-court-ruling-president-term-extension/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-11-08T16:54+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb29aca08",
+   "sez": "mondo",
+   "titolo": "Gabon: stanziati nuovi fondi per gli indennizzi degli sfollati a Libreville",
+   "orig": "Déguerpissements à Libreville : 4 milliards supplémentaires pour indemniser les familles",
+   "lead": "Il governo del Gabon ha stanziato ulteriori 4 miliardi di franchi CFA per rafforzare le compensazioni economiche destinate alle famiglie colpite dalle demolizioni urbanistiche nei quartieri di Libreville. Lo riferisce Gabonreview.",
+   "more": [
+    "Il provvedimento finanziario giunge pochi giorni dopo l'avvio delle operazioni di sgombero ad Okala, Lac Bleu e Diba-Diba, volte a riordinare l'assetto urbano della capitale."
+   ],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/deguerpissements-a-libreville-4-milliards-supplementaires-pour-indemniser-les-familles/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-10T09:11+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/11/10/deguerpissements-a-libreville-le-pdg-solidaire-des-populations-affectees/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-10T18:27+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z05b8a4b0",
+   "sez": "mondo",
+   "titolo": "Bolivia: la DEA fornisce informazioni nelle indagini su Mariaca e Saucedo",
+   "orig": "La DEA apoya las investigaciones contra Mariaca y Saucedo, confirma Oviedo",
+   "lead": "Il ministro del Governo boliviano Marco Oviedo ha confermato che l'agenzia antidroga statunitense DEA sta collaborando e fornendo informazioni cruciali nell'ambito dell'inchiesta sulle presunte attività illecite collegate all'ex procuratore generale Roger Mariaca e al magistrato Romer Saucedo.",
+   "more": [
+    "L'inchiesta punta a smantellare la presunta rete criminale e di corruzione che coinvolge alti esponenti della magistratura boliviana."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/la-dea-apoya-las-investigaciones-contra-mariaca-y-saucedo-confirma-oviedo",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-10T14:06-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/presidente-consejo-magistratura-niega-vinculos-mariaca-vuelo-charter-saucedo/20261110145741998945.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-10T14:57-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/caso-mariaca-saucedo-ministro-revela-que-dea-aportando-informacion/20261110135642998942.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-10T13:56-04:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4a5894ad",
+   "sez": "mondo",
+   "titolo": "Il presidente boliviano Paz salta l'inaugurazione legislativa per andare in Turchia",
+   "orig": "Paz no asistirá a la sesión inaugural de la ALP porque irá a Turquía y recuerda que ya envió un informe escrito",
+   "lead": "Il presidente della Bolivia Rodrigo Paz ha annunciato che non prenderà parte alla seduta inaugurale dell'Assemblea Legislativa Plurinazionale convocata dal vicepresidente Edmand Lara. Il capo dello Stato ha motivato l'assenza con la partenza imminente per la Turchia, dove parteciperà al vertice COP31.",
+   "more": [
+    "La decisione istituzionale evidenzia le divergenze politiche tra le massime cariche dello Stato riguardo all'agenda parlamentare e agli impegni internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/politica/paz-no-asistira-a-la-sesion-inaugural-de-la-alp-porque-ira-a-turquia-y-recuerda-que-ya-envio-un-informe-escrito",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-10T12:35-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/viaje-turquia-paz-asistira-inauguracion-legislatura-convocada-lara/20261110113834998938.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-10T11:38-04:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z45a86db8",
+   "sez": "mondo",
+   "titolo": "Sondaggi in Francia: Marine Le Pen allunga sui rivali, Mélenchon fanalino di coda",
+   "orig": "Stature présidentielle : Marine Le Pen creuse l’écart avec ses concurrents, Jean-Luc Mélenchon en dernière position",
+   "lead": "Il nuovo barometro politico del Figaro colloca la candidata del Rassemblement National Marine Le Pen in netto vantaggio sui concorrenti per competenze presidenziali e visione strategica. In ultima posizione si attesta il leader della sinistra radicale Jean-Luc Mélenchon.",
+   "more": [
+    "La rilevazione conferma il consolidamento del consenso per la destra nazionalista in vista dei futuri appuntamenti elettorali francesi."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/sondages/stature-presidentielle-marine-le-pen-creuse-l-ecart-avec-ses-concurrents-jean-luc-melenchon-en-derniere-position-20261110",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-10T17:13+01:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/elections/monsieur-melenchon-depuis-lukraine-jai-ecoute-vos-mots-avec-attention-20261110_P4WNSFKNXNDP5JUYHXCQSHWGQQ/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-10T18:46+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z06799d5f",
+   "sez": "mondo",
+   "titolo": "Germania: condannata a Rostock l'assassina del piccolo Fabian",
+   "orig": "Rostocker Prozess gegen Gina H. im Mordfall Fabian: Nach dem Urteil applaudieren die Zuschauer im Saal",
+   "lead": "Il tribunale regionale di Rostock ha pronunciato la sentenza di condanna nei confronti di Gina H. Il pubblico in aula ha applaudito il verdetto.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/panorama/justiz/rostocker-prozess-gegen-gina-h-im-mordfall-fabian-nach-dem-urteil-applaudieren-die-zuschauer-im-saal-a-8f1802b1-0b2f-4073-aa83-49b639e90ac0#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-10T19:59+01:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/panorama/fabian-prozess-urteil-gina-h-guestrow-mord-urteil-li.3575410",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-10T15:21+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc381b186",
+   "sez": "mondo",
+   "titolo": "Spagna: il retroscena sulla discussa ospitata di Abascal al programma 'La revuelta'",
+   "orig": "Así se gestó la visita de Abascal a ‘La revuelta’: “RTVE envió invitaciones a más programas; Vox solo aceptó ir a Broncano tras conocer los datos de audiencia de Pedro Sánchez”",
+   "lead": "Il quotidiano El País svela i retroscena della partecipazione del leader di Vox Santiago Abascal al programma televisivo di RTVE condotto da David Broncano. La scelta di permettere al partito di selezionare parte del pubblico è servita a prevenire tensioni e strumentalizzazioni politiche.",
+   "more": [
+    "L'apparizione televisiva ha sollevato un vivace dibattito nel panorama politico e mediatico spagnolo in merito alla par condicio e al giornalismo politico."
+   ],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/television/2026-11-10/asi-se-gesto-la-visita-de-abascal-a-la-revuelta-rtve-envio-invitaciones-a-mas-programas-vox-solo-acepto-ir-a-broncano-tras-conocer-los-datos-de-audiencia-de-pedro-sanchez.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-10T17:35+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/videos/2026-11-10/abascal-a-broncano-entre-mi-mujer-y-yo-te-podriamos-pagar-un-programa-asi-fueron-las-respuestas-de-abascal-a-las-preguntas-clasicas-que-la-revuelta-no-emitio.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-10T11:14+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/opinion/2026-11-11/broncano-y-abascal-catastrofe-y-muerte-del-periodismo-politico.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-10T17:31+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/10/6af345c4e85ece36278b459f.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-10T18:29+01:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3bd70070",
+   "sez": "mondo",
+   "titolo": "Andorra: la polizia restituisce alla libreria le copie sequestrate del 'Mein Kampf'",
+   "orig": "El director de la policia es disculpa amb la propietària de la llibreria i li torna els exemplars del 'Mein Kampf'",
+   "lead": "Il direttore della polizia di Andorra si è formalmente scusato con la proprietaria di una libreria locale e ha restituito le copie del 'Mein Kampf' precedentemente confiscate. Il sequestro era stato eseguito dagli agenti su ordine della Procura.",
+   "more": [
+    "L'episodio ha sollevato interrogativi legali e costituzionali sul rispetto delle procedure penali e sulla tutela della libertà d'espressione nel Principato."
+   ],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261110/director-policia-disculpa-amb-propietaria-llibreria-i-li-torna-els-exemplars-mei-kampf_208478.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-10T18:07+01:00"
+    },
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261110/bonell-mante-mein-kampf-cataleg-biblioteca-publica-mentre-espera-resolucio-judicial-sobre-decomis_208463.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-10T11:47+01:00"
+    },
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261110/policia-saltar-els-protocols-decomis-mein-kampf_208423.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-10T06:03+01:00"
+    },
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/cultura/no-traurem-mein-kampf-del-cataleg-de-la-publica-diu-bonell",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-10T18:02+01:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdaf4c16f",
+   "sez": "mondo",
+   "titolo": "Il Myanmar convoca l'inviato tedesco per un video giudicato controverso",
+   "orig": "Myanmar summons German envoy over controversial video",
+   "lead": "Il governo del Myanmar ha convocato formalmente l'ambasciatore tedesco Mathias Licharz a seguito della pubblicazione di un video in cui il diplomatico chiede la liberazione incondizionata dei politici deposti, inclusa l'ex leader Aung San Suu Kyi.",
+   "more": [
+    "La convocazione diplomatica riflette la tensione permanente tra il regime militare birmano e i governi occidentali sulla situazione dei diritti umani."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T18:03+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z952e235b",
+   "sez": "mondo",
+   "titolo": "Somalia: l'ex capo della giustizia denuncia l'occupazione militare della Corte Suprema",
+   "orig": "Security forces seized top court, Somalia’s ex-chief justice says",
+   "lead": "Oltre trecento membri delle forze di sicurezza somale hanno occupato militarmente la sede della Corte Suprema. Lo ha denunciato l'ex capo della giustizia della Somalia, definendo l'azione un vero e proprio blitz contro l'indipendenza giudiziaria.",
+   "more": [
+    "L'episodio aggrava ulteriormente la crisi costituzionale e politica in corso nel Paese del Corno d'Africa."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T17:02+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5f5fc92a",
+   "sez": "mondo",
+   "titolo": "Il primo ministro del Qatar in visita a Washington nel quadro della diplomazia Usa-Iran",
+   "orig": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
+   "lead": "Il primo ministro del Qatar Nayef Al-Nabet si trova a Washington per colloqui istituzionali focalizzati sulla ripresa della diplomazia e del dialogo strategico tra Stati Uniti e Iran.",
+   "more": [
+    "Il Qatar svolge un ruolo chiave di mediazione regionale nei dossier diplomatici e nucleari che coinvolgono Teheran e Washington."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-10T16:39+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z16682404",
+   "sez": "mondo",
+   "titolo": "Irlanda: raggiunto l'accordo nella disputa sul patrocinio legale gratuito",
+   "orig": "Legal aid dispute between solicitors, minister resolved",
+   "lead": "È stata risolta la controversia sindacale e giuridica tra gli avvocati penalisti e il ministro della Giustizia irlandese relativa all'applicazione del nuovo regime di compensi per il patrocinio legale gratuito.",
+   "more": [
+    "L'intesa scongiura il rischio di proteste prolungate nel sistema giudiziario e garantisce la continuità dell'assistenza legale ai non abbienti."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/courts/2026/1110/1598746-justice-minister-solicitors/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-10T18:23+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z11a78bb1",
+   "sez": "mondo",
+   "titolo": "Irlanda: due cittadini tedeschi incriminati per traffico di esseri umani al porto di Cork",
+   "orig": "German pair charged over people smuggling at Cork port",
+   "lead": "Un cittadino e una cittadina tedesca di circa quarant'anni sono stati formalmente incriminati per reati di favoreggiamento dell'immigrazione clandestina e traffico di persone, a seguito di un'operazione condotta al porto di Cork.",
+   "more": [
+    "I due indagati sono comparsi davanti al tribunale distrettuale per rispondere delle accuse connesse alle reti internazionali di contrabbando di migranti."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/2026/1110/1598731-pair-charged-people-smuggling-cork/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-10T17:48+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7f6e6361",
+   "sez": "mondo",
+   "titolo": "Garth Brooks: 'Cento concerti in Irlanda non sarebbero abbastanza'",
+   "orig": "Garth Brooks: '100 gigs in Ireland wouldn't be enough'",
+   "lead": "Il celebre artista Garth Brooks ha dichiarato ai microfoni dell'emittente RTÉ Radio 1 che cento concerti in Irlanda non sarebbero sufficienti per soddisfare l'affetto del pubblico, in vista dei suoi prossimi spettacoli estivi.",
+   "more": [
+    "Le dichiarazioni testimoniano il legame di lunga data tra il musicista country e i fan irlandesi in vista del tour."
+   ],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/entertainment/2026/1110/1598711-garth-brooks-100-gigs-in-ireland-wouldnt-be-enough/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-10T16:25+00:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z678d96ce",
+   "sez": "mondo",
+   "titolo": "Regno Unito: militare statunitense arrestato per presunto spionaggio a favore della Russia",
+   "orig": "Jungtinėje Karalystėje sulaikytas JAV kariškis dėl įtariamos pagalbos Rusijai",
+   "lead": "La polizia britannica ha arrestato nel Regno Unito un membro delle forze armate degli Stati Uniti in base alle disposizioni del National Security Act, con l'accusa di aver fornito supporto e informazioni segrete alla Russia.",
+   "more": [
+    "L'operazione congiunta evidenzia la vigilanza costante delle autorità alleate contro le attività di spionaggio e le infiltrazioni straniere."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3110430/jungtineje-karalysteje-sulaikytas-jav-kariskis-del-itariamos-pagalbos-rusijai",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-10T20:58+02:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc88c3180",
+   "sez": "mondo",
+   "titolo": "Lituania: il piano di Litgrid per la costruzione di nuove centrali elettriche",
+   "orig": "LRT trumpai. 10 naujų elektrinių Lietuvoje, kur stovės ir kiek dėl to pabrangs elektra",
+   "lead": "Il gestore della rete di trasmissione Litgrid ha annunciato un piano strategico per creare sette isole energetiche autonome in Lituania, attraverso la costruzione di dieci nuove centrali elettriche per garantire la sicurezza degli approvvigionamenti.",
+   "more": [
+    "Il progetto mira a potenziare l'indipendenza energetica nazionale e la resilienza del sistema elettrico locale."
+   ],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/verslas/4/3110329/lrt-trumpai-10-nauju-elektriniu-lietuvoje-kur-stoves-ir-kiek-del-to-pabrangs-elektra",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-10T20:35+02:00"
+    }
+   ],
+   "data": "10 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
    "id": "z6ff24c17",
    "sez": "prima",
    "titolo": "Inchiesta urbanistica a Milano, i pm chiedono l'archiviazione per il sindaco Sala",
@@ -954,39 +2656,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-11-10T17:21+00:00"
-    }
-   ],
-   "data": "10 nov",
-   "ora": "20:12",
-   "uscita": "sera"
-  },
-  {
-   "id": "z333651c9",
-   "sez": "tech",
-   "titolo": "Cybersecurity: l'UE avverte del rischio di attacchi agli elettrodomestici",
-   "orig": "After fridge hacks, home appliances could be next, EU cyber chief warns",
-   "lead": "Juhan Lepassaar, capo dell'agenzia per la cybersicurezza dell'Unione Europea (ENISA), ha lanciato un allarme sulla vulnerabilità degli elettrodomestici intelligenti. Dopo gli attacchi hacker che hanno colpito i frigoriferi di diversi supermercati in dodici Paesi europei tra ottobre e novembre, l'esperto avverte che i prossimi obiettivi potrebbero essere router e altri dispositivi domestici connessi. Lepassaar ha esortato l'Europa a investire maggiormente nelle difese digitali, sottolineando che la sicurezza non deve essere considerata un aspetto secondario nello sviluppo tecnologico. La Francia è risultata il Paese più colpito dalle recenti intrusioni nei sistemi commerciali.",
-   "more": [
-    "L'Internet of Things (IoT) comprende tutti i dispositivi fisici connessi alla rete, dalle lavatrici ai termostati. Molti di questi oggetti mancano di protocolli di sicurezza avanzati, rendendoli punti di accesso facili per i criminali informatici. Attraverso un semplice elettrodomestico compromesso, gli hacker possono infiltrarsi in intere reti aziendali o domestiche, rubando dati sensibili o causando danni operativi su larga scala."
-   ],
-   "fonti": [
-    {
-     "n": "South China Morning Post",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://www.scmp.com/news/world/europe/article/3373993/after-fridge-hacks-home-appliances-could-be-next-eu-cyber-chief-warns",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-11-10T17:36+00:00"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/after-fridge-hacks-home-appliances-could-be-next-warns-eu-cyber-chief",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-11T01:25+08:00"
     }
    ],
    "data": "10 nov",
@@ -2846,6 +4515,15 @@ window.EDIZIONI["2026-11-10-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-10T16:44+00:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3110281/merzo-ultimatumas-blokuos-es-biudzeta-jei-salys-nefinansuos-ukrainos",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-10T20:45+02:00"
     }
    ],
    "data": "10 nov",
@@ -3059,7 +4737,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "z47b4f1b6": "L'articolo mette in luce il forte divario qualitativo tra le eccellenze del Nord e le difficoltà delle mense campane.",
   "zd13e7fb2": "La testata pakistana evidenzia il dominio della squadra nazionale e la solidità delle prestazioni dei giovani atleti.",
   "zcf63d3a2": "I quotidiani analizzano l'impatto mediatico delle ultime mosse politiche di Trump attraverso il filtro della satira televisiva.",
-  "z333651c9": "Le fonti pongono l'accento sulla necessità di investimenti immediati per proteggere l'ecosistema digitale europeo dalle nuove minacce.",
   "z1fd30805": "La testata venezuelana dà voce alla denuncia disperata della famiglia del medico detenuto.",
   "zcd1870e3": "La testata specializzata evidenzia l'armonia tra il recupero delle strutture metalliche storiche e l'apertura sociale del sito.",
   "zd89a2d04": "La testata scientifica pone l'accento sulla nuova capacità predittiva offerta dall'analisi dei dati dei raggi X.",
@@ -3136,13 +4813,61 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "z8944c864": "Financial Times mette in evidenza l'articolata messinscena orchestrata dal truffatore per influenzare in modo fraudolento i mercati finanziari.",
   "z3c139d5a": "Financial Times esplora la dipendenza di Nvidia dalla figura di Huang e le possibili ripercussioni sulla quota di mercato dell'azienda.",
   "zec8218a2": "The New York Times fa luce sui complessi flussi finanziari e sulla gestione statunitense della ricchezza energetica del Venezuela.",
-  "z704a843c": "Il Messaggero e Sky TG24 evidenziano le principali modifiche apportate dagli emendamenti, con attenzione ai diritti dei consumatori e al risparmio energetico."
+  "z704a843c": "Il Messaggero e Sky TG24 evidenziano le principali modifiche apportate dagli emendamenti, con attenzione ai diritti dei consumatori e al risparmio energetico.",
+  "z3de084c5": "La testata evidenzia l'azione di recupero dei fondi non versati da parte dell'agenzia anticorruzione nigeriana.",
+  "ze37fb038": "La testata evidenzia la scelta governativa di tagliare i benefici fiscali per favorire la trasparenza e l'efficienza economica nelle infrastrutture.",
+  "zf32765a1": "La testata evidenzia la nascita formale della nuova società e la partecipazione congiunta delle principali etichette discografiche coreane.",
+  "zeda9fc0d": "La testata evidenzia il buon posizionamento del Kazakistan nella categoria delle opportunità della classifica internazionale.",
+  "z3a42b38f": "La testata evidenzia il blitz delle autorità giudiziarie e il ritrovamento di documenti finanziari esteri.",
+  "z243c3970": "La testata evidenzia le criticità riscontrate dal corpo docente nell'uso dei test digitali nelle scuole a basso reddito.",
+  "z6d34408b": "La testata evidenzia la scelta dell'ex presidente di limitare la sua agenda pubblica a causa delle condizioni di salute.",
+  "z22726238": "La testata evidenzia l'annuncio del leader salvadoregno sull'operazione militare condotta dalla forza estera contro la criminalità haitiana.",
+  "z72297dfa": "La testata evidenzia l'azione legale intrapresa dagli azionisti contro la dirigenza dell'azienda tecnologica.",
+  "z47d3b2f3": "La testata evidenzia l'evento culturale dedicato alla musica tradizionale capoverdiana nella capitale portoghese.",
+  "ze3ad909c": "La testata evidenzia l'incontro bilaterale incentrato sulla sicurezza e sui rapporti diplomatici tra i due Paesi.",
+  "z9d6f0a3b": "La testata evidenzia il ruolo dei giochi tradizionali africani nella promozione culturale durante i giochi giovanili.",
+  "z71c4fd69": "La testata evidenzia la presa di posizione dell'organismo internazionale sulla gestione dei soccorsi umanitari a Gaza.",
+  "z5898598d": "La testata evidenzia l'esecuzione di perquisizioni e arresti nell'ambito dell'inchiesta giudiziaria francese.",
+  "z194a4916": "La testata evidenzia gli incontri istituzionali al Bundestag e il rifiuto di dialogare con la formazione di estrema destra.",
+  "zd8665581": "La testata evidenzia le dichiarazioni del ministro sulle matrici ideologiche dell'indagato e sulle sue ricerche online.",
+  "z41f5688a": "La testata evidenzia la missione tecnica del FMI focalizzata sulla verifica della trasparenza contabile statale.",
+  "zbaac5d13": "La testata evidenzia l'apertura formale dell'inchiesta giudiziaria nei confronti dello scrittore francese per le sue dichiarazioni.",
+  "zb50e5441": "La testata evidenzia le condizioni di precarietà e di pericolo affrontate dai venditori ambulanti nel traffico urbano.",
+  "zb253967d": "La testata evidenzia la firma dell'accordo di donazione finanziaria tra i due Paesi per la salvaguardia delle coste.",
+  "zebfe8ab0": "La testata evidenzia le difficoltà interne della Francia e le divergenze internazionali sulla sua proposta militare in Medio Oriente.",
+  "z12a5de35": "La testata evidenzia la contrazione dei posti disponibili per le immatricolazioni nelle università pubbliche del Paese.",
+  "z4ae6cd22": "La testata evidenzia le dimissioni della legale dalla difesa di Koldo García nel contesto dell'inchiesta giudiziaria.",
+  "z08a69007": "La testata analizza la svolta strategica e militare dell'Algeria nel Sahel attraverso il primo dispiegamento all'estero degli ultimi decenni.",
+  "z1424a800": "La stampa italiana enfatizza l'allarme del Viminale e la necessità di innalzare i sistemi di sicurezza contro la cyber-offensiva.",
+  "z8b516ff0": "La testata locale documenta la risoluzione diplomatica del contenzioso territoriale tra le aree congolesi interessate.",
+  "zc4a08710": "I media indiani pongono l'accento sulle istanze della diaspora e sulle tensioni diplomatiche riflesse all'estero.",
+  "z8f9cc7fc": "L'agenzia di stampa evidenzia la rottura del tavolo negoziale e la richiesta urgente di garanzie occupazionali a livello governativo.",
+  "z985eb2f9": "La stampa nigeriana traccia le prime mosse delle alleanze politiche in vista della prossima tornata elettorale presidenziale.",
+  "z73c47548": "L'agenzia di stampa brasiliana riporta con puntualità istituzionale il passo indietro sui finanziamenti per i compensi dei giudici.",
+  "z1b876a67": "La testata regionale documenta le pressioni esterne sul rispetto dello stato di diritto e dell'indipendenza giudiziaria in Somalia.",
+  "zb29aca08": "La testata locale segue l'evoluzione delle operazioni di sgombero e la risposta economica del governo alle proteste delle famiglie.",
+  "z05b8a4b0": "La testata boliviana evidenzia il coinvolgimento delle agenzie internazionali nelle indagini giudiziarie interne.",
+  "z4a5894ad": "La testata boliviana riporta le motivazioni ufficiali del capo dello Stato in merito alla sua assenza dal Parlamento.",
+  "z45a86db8": "La stampa francese analizza i rapporti di forza nei sondaggi d'opinione tra i principali leader politici nazionali.",
+  "z06799d5f": "La stampa tedesca segue l'epilogo giudiziario di un caso di cronaca che ha profondamente scosso l'opinione pubblica.",
+  "zc381b186": "Il quotidiano spagnolo approfondisce le dinamiche organizzative e le polemiche generate dall'intervista televisiva.",
+  "z3bd70070": "La stampa locale segue gli sviluppi giudiziari e le scuse ufficiali delle forze dell'ordine per il sequestro dei volumi.",
+  "zdaf4c16f": "L'emittente globale riporta le frizioni diplomatiche tra la giunta birmana e la diplomazia tedesca.",
+  "z952e235b": "L'emittente internazionale dà voce alle denunce istituzionali sull'escalation di sicurezza giudiziaria in Somalia.",
+  "z5f5fc92a": "L'analisi internazionale monitora il ruolo di mediazione diplomatica del Qatar tra Stati Uniti e Iran.",
+  "z16682404": "La testata irlandese riferisce della conclusione positiva della vertenza retributiva nel settore legale.",
+  "z11a78bb1": "L'emittente irlandese riporta i dettagli dell'azione giudiziaria contro il traffico illecito di persone.",
+  "z7f6e6361": "L'emittente nazionale dà spazio alle dichiarazioni entusiaste del cantante in vista dei futuri eventi dal vivo.",
+  "z678d96ce": "La stampa baltica e internazionale riprende le informazioni delle agenzie di sicurezza britanniche sull'arresto del militare.",
+  "zc88c3180": "Il media lituano illustra i dettagli tecnici ed economici del nuovo piano per le infrastrutture energetiche nazionali."
  },
  "contesti": {
   "z6ff24c17": "L'inchiesta milanese sull'urbanistica ha scosso l'amministrazione comunale negli ultimi mesi, mettendo sotto la lente d'ingrandimento numerosi cantieri e progetti di riqualificazione urbana. Molti funzionari e imprenditori erano stati iscritti nel registro degli indagati con l'ipotesi di reato di lottizzazione abusiva e abuso d'ufficio, causando un rallentamento burocratico in diverse importanti operazioni edilizie nella metropoli lombarda.",
   "zcfbdd0c1": "Le piattaforme social sono finite sotto pressione in Europa per la gestione dei dati e dei contenuti sensibili. Parallelamente, la sicurezza nello Stretto di Hormuz è stata una preoccupazione costante a causa delle dispute tra Iran e comunità internazionale. La Spagna ha vissuto un autunno di piogge torrenziali che hanno già causato danni in diverse province, portando le autorità a stati di allerta ricorrenti.",
   "ze282215d": "Il dibattito sul ruolo dei magistrati è acceso da tempo in Italia, con frequenti tensioni tra il potere esecutivo e quello giudiziario. Recentemente, alcune sentenze su temi politicamente sensibili e le dichiarazioni pubbliche di alcuni giudici hanno rinfocolato le polemiche sulla necessità di una maggiore separazione delle carriere e su limiti più stringenti alla partecipazione politica e all'esposizione mediatica dei magistrati.",
-  "z421e7ccc": "Anthropic, fondata da ex ricercatori di OpenAI, si è affermata tra i leader dello sviluppo di modelli linguistici di intelligenza artificiale con la famiglia Claude. Negli ultimi anni la società ha raccolto miliardi di dollari di finanziamenti da colossi tecnologici come Amazon e Google. Nonostante le crescenti preoccupazioni della comunità scientifica sui rischi catastrofici dell'IA, l'azienda ha accelerato i preparativi per il debutto sul mercato azionario."
+  "z421e7ccc": "Anthropic, fondata da ex ricercatori di OpenAI, si è affermata tra i leader dello sviluppo di modelli linguistici di intelligenza artificiale con la famiglia Claude. Negli ultimi anni la società ha raccolto miliardi di dollari di finanziamenti da colossi tecnologici come Amazon e Google. Nonostante le crescenti preoccupazioni della comunità scientifica sui rischi catastrofici dell'IA, l'azienda ha accelerato i preparativi per il debutto sul mercato azionario.",
+  "z72297dfa": "Negli ultimi mesi la società tecnologica Nvidia ha registrato una crescita straordinaria in borsa, trainata dal boom dell'intelligenza artificiale e dalla forte domanda dei suoi chip avanzati. Tuttavia, la rapida impennata delle quotazioni ha attirato l'attenzione degli investitori e delle autorità di regolamentazione. Alcuni azionisti hanno iniziato a sollevare dubbi sulla trasparenza delle comunicazioni finanziarie diffuse dal management in merito alle reali prospettive di mercato.",
+  "z1424a800": "Nelle ultime settimane si è registita una serie di attacchi informatici di matrice ostile che hanno preso di mira siti istituzionali, infrastrutture critiche e aziende strategiche in Italia e in Europa. L'escalation delle minacce digitali ha spinto il governo e le autorità competenti ad alzare il livello di allerta, intensificando il monitoraggio delle reti informatiche pubbliche e private per prevenire ulteriori violazioni della sicurezza nazionale."
  },
  "cronologie": {
   "z6ff24c17": [
@@ -3199,6 +4924,34 @@ window.EDIZIONI["2026-11-10-sera"] = {
    [
     "Giorni scorsi",
     "Definizione della forchetta di prezzo per l'IPO tra 70 e 78 dollari per azione"
+   ]
+  ],
+  "z72297dfa": [
+   [
+    "Settimane scorse",
+    "Crescita record del valore azionario di Nvidia grazie al mercato dell'intelligenza artificiale"
+   ],
+   [
+    "Giorni scorsi",
+    "Analisi approfondite da parte degli investitori sulle comunicazioni finanziarie della società"
+   ],
+   [
+    "Oggi",
+    "Presentazione dell'azione legale da parte degli azionisti contro Nvidia e il CEO"
+   ]
+  ],
+  "z1424a800": [
+   [
+    "Settimane scorse",
+    "Moltiplicazione delle offensive informatiche contro enti e infrastrutture in Europa"
+   ],
+   [
+    "Giorni scorsi",
+    "Rilevamento di attacchi mirati a istituzioni e aziende italiane"
+   ],
+   [
+    "Oggi",
+    "Riunione del Comitato per la Sicurezza al Viminale presieduta dal ministro Piantedosi"
    ]
   ]
  },
@@ -3301,6 +5054,79 @@ window.EDIZIONI["2026-11-10-sera"] = {
     }
    ],
    "divergono": "Le testate differiscono per il contesto attribuito alle parole del presidente. ANSA e Il Messaggero legano il discorso alle tensioni con il governo, citando l'attacco di Giorgia Meloni alla gip Landoni; Il Messaggero aggiunge il caso del magistrato che insultò la premier su Facebook e quantifica la platea in 339 toghe. Al contrario, Il Fatto Quotidiano mantiene un approccio puramente documentale, ignorando le polemiche politiche e indicando la data del decreto di nomina (3 settembre 2025). Per la Repubblica il confronto è limitato dai soli elementi parziali disponibili."
+  },
+  "z72297dfa": {
+   "voci": [
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La voce dell'Italia riferisce sinteticamente dell'accusa mossa dagli azionisti contro Nvidia e il loro amministratore delegato, indicando come motivo l'aver \"nascosto informazioni\" con possibili ricadute sulla società. Il giudizio è parziale poiché l'articolo non è leggibile ed è basato unicamente su titolo e occhiello.",
+     "b": "t"
+    },
+    {
+     "n": "El Mundo",
+     "c": "Madrid",
+     "p": "XX",
+     "t": "La testata si concentra sul congresso americano e sulla mossa del repubblicano Thomas Massie per l'\"impeachment\" del segretario alla Difesa Pete Hegseth. L'articolo, puramente informativo e di cronaca politica, ricostruisce il profilo e la traiettoria politica di Massie, citando date, la sua sconfitta alle primarie repubblicane e le tensioni con la Casa Bianca.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La testata focalizza l'attenzione sulla figura del deputato conservatore Thomas Massie e sulla sua iniziativa di mettere sotto accusa Hegseth. Riporta le dichiarazioni del politico, definito \"grande critico di Trump\", e la sua intenzione di correre nel 2028 come indipendente. Il giudizio è parziale per via del paywall.",
+     "b": "t"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Riprende la notizia incentrata sul deputato repubblicano Thomas Massie e sulla sua proposta di messa in stato d'accusa contro Hegseth. Cita le sue parole sull'agire prima dei democratici e descrive il contesto delle primarie contro il pupillo di Trump. Il giudizio è parziale in quanto l'articolo non è accessibile.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le testate si concentrano su notizie differenti: Rai News tratta l'azione legale degli azionisti contro Nvidia e il suo Ceo, mentre El Mundo e le edizioni di la Repubblica raccontano la mossa politica del deputato statunitense Thomas Massie per l'impeachment del segretario alla Difesa Pete Hegseth. Tra le testate che parlano di Massie non emergono divergenze sostanziali, sebbene la testata spagnola offra un resoconto completo e approfondito, mentre quelle italiane presentino solo brevi sintesi a causa della mancanza dell'articolo integrale."
+  },
+  "z1424a800": {
+   "voci": [
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La voce dell'Italia riferisce che il Viminale, al termine del Comitato per la Sicurezza, ha indicato come fine degli attacchi hacker quello di \"destabilizzare\". Il giudizio è parziale in quanto l'articolo non è accessibile.",
+     "b": "t"
+    },
+    {
+     "n": "South China Morning Post",
+     "c": "Hong Kong",
+     "p": "XX",
+     "t": "La testata riporta l'allarme lanciato dal capo della cybersicurezza dell'UE sui possibili futuri attacchi agli \"elettrodomestici\" e ai router, menzionando i precedenti cyberattacchi ai frigoriferi dei supermercati in almeno 12 Paesi europei tra ottobre e novembre. L'articolo è neutro e puramente informativo. Il giudizio è parziale per via del blocco del testo.",
+     "b": "t"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "La testata mette al centro le dichiarazioni di Juhan Lepassaar, direttore esecutivo di Enisa, secondo cui dopo i frigoriferi dei supermercati le case potrebbero subire attacchi agli elettrodomestici. Cita i dati sui supermercati colpiti in 12 Paesi europei a ottobre e novembre, menzionando le accuse della Francia contro l'Iran e l'intervista rilasciata ad Afp a Bruxelles.",
+     "b": "a"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "L'agenzia riferisce l'allarme dell'Agenzia europea per la cybersicurezza (Enisa) presentato al Parlamento europeo, indicando che dopo i frigoriferi dei supermercati potrebbero essere mirati router ed elettrodomestici. Cita il rapporto 2026, i punteggi medi dei Paesi Ue nell'indice di sicurezza e l'impatto dell'intelligenza artificiale come fattore di rischio.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "La testata riporta che il Viminale ha definito gli attacchi hacker come tentativi volti a \"destabilizzare\", sottolineando la necessità di rafforzare le difese di Asl e Comuni e il monitoraggio sulle infrastrutture strategiche. Il giudizio è parziale poiché il testo integrale non è leggibile.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le testate divergono nella selezione dei fatti principali: la stampa italiana (Rai News e la Repubblica) focalizza l'attenzione sulla sicurezza nazionale e sulle indicazioni del Viminale in merito alla destabilizzazione e alla protezione delle infrastrutture interne, mentre le testate asiatiche (South China Morning Post e The Straits Times) e l'ANSA mettono in primo piano l'allarme dell'agenzia europea Enisa e del suo direttore Juhan Lepassaar sui rischi informatici estesi agli elettrodomestici e sui supermercati colpiti in Europa."
   }
  },
  "luoghi": {
@@ -3491,11 +5317,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
    "p": [
     "United States of America"
    ],
-   "pt": []
-  },
-  "z333651c9": {
-   "n": "Unione Europea",
-   "p": [],
    "pt": []
   },
   "z1fd30805": {
@@ -4039,6 +5860,337 @@ window.EDIZIONI["2026-11-10-sera"] = {
     "Italy"
    ],
    "pt": []
+  },
+  "z3de084c5": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "ze37fb038": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zf32765a1": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zeda9fc0d": {
+   "n": "Astana",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "z3a42b38f": {
+   "n": "Sucre",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z243c3970": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z6d34408b": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z22726238": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z72297dfa": {
+   "n": "Santa Clara",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z47d3b2f3": {
+   "n": "Lisbon",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "ze3ad909c": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z9d6f0a3b": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z71c4fd69": {
+   "n": "Gaza",
+   "p": [],
+   "pt": []
+  },
+  "z5898598d": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z194a4916": {
+   "n": "Berlin",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zd8665581": {
+   "n": "Kraków",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z41f5688a": {
+   "n": "Dushanbe",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "zbaac5d13": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb50e5441": {
+   "n": "Abidjan",
+   "p": [
+    "Côte d'Ivoire"
+   ],
+   "pt": []
+  },
+  "zb253967d": {
+   "n": "Tunis",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "zebfe8ab0": {
+   "n": "Paris",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z12a5de35": {
+   "n": "Managua",
+   "p": [
+    "Nicaragua"
+   ],
+   "pt": []
+  },
+  "z4ae6cd22": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z08a69007": {
+   "n": "Algeri",
+   "p": [
+    "Algeria",
+    "Niger"
+   ],
+   "pt": []
+  },
+  "z1424a800": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z8b516ff0": {
+   "n": "Kinshasa",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "zc4a08710": {
+   "n": "Mumbai",
+   "p": [
+    "India",
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z8f9cc7fc": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z985eb2f9": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z73c47548": {
+   "n": "Brasília",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z1b876a67": {
+   "n": "Mogadiscio",
+   "p": [
+    "Somalia",
+    "Uganda"
+   ],
+   "pt": []
+  },
+  "zb29aca08": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z05b8a4b0": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z4a5894ad": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia",
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z45a86db8": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z06799d5f": {
+   "n": "Amburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "zc381b186": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z3bd70070": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zdaf4c16f": {
+   "n": "Doha",
+   "p": [
+    "Myanmar",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z952e235b": {
+   "n": "Doha",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z5f5fc92a": {
+   "n": "Doha",
+   "p": [
+    "Qatar",
+    "United States of America",
+    "Iran"
+   ],
+   "pt": []
+  },
+  "z16682404": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z11a78bb1": {
+   "n": "Dublino",
+   "p": [
+    "Ireland",
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z7f6e6361": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z678d96ce": {
+   "n": "Vilnius",
+   "p": [
+    "United Kingdom",
+    "United States of America",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zc88c3180": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -4069,7 +6221,6 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "z47b4f1b6": 1,
   "zd13e7fb2": 1,
   "zcf63d3a2": 2,
-  "z333651c9": 2,
   "z1fd30805": 1,
   "zcd1870e3": 1,
   "zd89a2d04": 1,
@@ -4139,14 +6290,60 @@ window.EDIZIONI["2026-11-10-sera"] = {
   "zf7888aec": 1,
   "zb1cfca6e": 1,
   "z1c5a66cd": 1,
-  "zff10df18": 1,
+  "zff10df18": 2,
   "zcf475392": 1,
   "z327f5cef": 1,
   "z7c5da8c5": 1,
   "z8944c864": 1,
   "z3c139d5a": 1,
   "zec8218a2": 1,
-  "z704a843c": 2
+  "z704a843c": 2,
+  "z3de084c5": 1,
+  "ze37fb038": 1,
+  "zf32765a1": 1,
+  "zeda9fc0d": 1,
+  "z3a42b38f": 1,
+  "z243c3970": 1,
+  "z6d34408b": 1,
+  "z22726238": 1,
+  "z72297dfa": 2,
+  "z47d3b2f3": 1,
+  "ze3ad909c": 1,
+  "z9d6f0a3b": 1,
+  "z71c4fd69": 1,
+  "z5898598d": 1,
+  "z194a4916": 1,
+  "zd8665581": 1,
+  "z41f5688a": 1,
+  "zbaac5d13": 1,
+  "zb50e5441": 1,
+  "zb253967d": 1,
+  "zebfe8ab0": 1,
+  "z12a5de35": 1,
+  "z4ae6cd22": 1,
+  "z08a69007": 1,
+  "z1424a800": 3,
+  "z8b516ff0": 1,
+  "zc4a08710": 1,
+  "z8f9cc7fc": 1,
+  "z985eb2f9": 1,
+  "z73c47548": 1,
+  "z1b876a67": 1,
+  "zb29aca08": 1,
+  "z05b8a4b0": 1,
+  "z4a5894ad": 1,
+  "z45a86db8": 1,
+  "z06799d5f": 1,
+  "zc381b186": 1,
+  "z3bd70070": 1,
+  "zdaf4c16f": 1,
+  "z952e235b": 1,
+  "z5f5fc92a": 1,
+  "z16682404": 1,
+  "z11a78bb1": 1,
+  "z7f6e6361": 1,
+  "z678d96ce": 1,
+  "zc88c3180": 1
  },
  "video": {},
  "pillole": []
