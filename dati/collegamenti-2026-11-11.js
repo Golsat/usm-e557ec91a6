@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z38970e40":[["2026-11-09","zb7277b10","9 nov","Il padre di Meghan, Thomas Markle, agli arresti domiciliari dopo l'accusa di materiale pedopornografico"],["2026-11-06-sera","zc3ae1ed2","6 nov","Fratello di Meghan Markle, 'persona di interesse' in un'inchiesta sulle Filippine"]]});
