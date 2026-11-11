@@ -666,7 +666,7 @@ window.EDIZIONI["2026-11-11"] = {
   },
   {
    "id": "z297c2e62",
-   "sez": "ingegneria",
+   "sez": "economia",
    "titolo": "Appello al governo britannico per finanziamenti a sostegno dei progetti di stoccaggio energetico",
    "orig": "Government urged to implement funding mechanisms to support large scale energy storage projects",
    "lead": "L'ex primo ministro australiano e attuale presidente dell'International Hydropower Association, Malcolm Turnbull, ha invitato il governo del Regno Unito e l'organo di regolamentazione Ofgem a introdurre nuovi meccanismi di finanziamento per l'accumulo idroelettrico pompato. Secondo Turnbull, tali strumenti sono indispensabili per attrarre investimenti privati nei progetti di stoccaggio energetico su larga scala. Nel frattempo, sul fronte internazionale, l'Uzbekistan e il Green Climate Fund hanno concordato l'ampliamento dei finanziamenti ambientali per l'avvio di nuovi progetti climatici con un portafoglio superiore a 200 milioni di dollari.",
