@@ -3,6 +3,1953 @@ window.EDIZIONI["2026-11-11-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z15a9ac0f",
+   "sez": "mondo",
+   "titolo": "Corte elettorale brasiliana multa Meta, nessuna prova di parzialità deliberata",
+   "orig": "Brazil electoral court fines Meta, sees no deliberate election bias",
+   "lead": "La corte elettorale brasiliana ha multato Meta dopo un reclamo presentato dalla coalizione del presidente Lula da Silva, ma ha stabilito che non ci sono prove di un'intenzione deliberata di influenzare le elezioni. Meta ha annunciato che si difenderà contro quelle che definisce \"false accuse\". Lo riferisce Deutsche Welle.",
+   "more": [
+    "In Brasile la corte elettorale superiore ha il compito di vigilare sulla correttezza dei processi elettorali, inclusa la condotta delle piattaforme digitali durante le campagne. Negli ultimi anni Meta e altre big tech sono state più volte oggetto di indagini in diversi paesi per il ruolo degli algoritmi e della moderazione dei contenuti nella diffusione di informazioni politiche."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-11T15:17+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z02ac1070",
+   "sez": "mondo",
+   "titolo": "Russia e Ucraina concordano un grande scambio di prigionieri di guerra",
+   "orig": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
+   "lead": "Russia e Ucraina hanno raggiunto un accordo per un ampio scambio di prigionieri di guerra, frutto di colloqui mediati dagli Stati Uniti ad Abu Dhabi. Secondo i funzionari citati, si tratterebbe del più grande rilascio umanitario dall'inizio del conflitto nel 2022. Lo riferisce NPR.",
+   "more": [
+    "Gli scambi di prigionieri tra Russia e Ucraina sono avvenuti più volte durante il conflitto, spesso mediati da paesi terzi come gli Emirati Arabi Uniti, che hanno mantenuto canali diplomatici con entrambe le parti. Questi accordi vengono generalmente presentati come gesti umanitari, separati dai negoziati più ampi su un eventuale cessate il fuoco o una pace duratura."
+   ],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-11T08:30-05:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z04f8d5b6",
+   "sez": "mondo",
+   "titolo": "Burkina Faso, oltre 26.600 persone rimpatriate dopo l'espulsione dalla Guinea",
+   "orig": "Retour des Burkinabè expulsés de Guinée : Cinq convois mobilisés, 26 624 personnes accueillies",
+   "lead": "Il Consiglio nazionale per il soccorso d'urgenza e la riabilitazione del Burkina Faso (Conasur) ha riferito che, al 10 novembre 2026, cinque convogli con 153 autobus e 44 camion hanno permesso di accogliere a Bobo-Dioulasso 26.624 persone, in gran parte minatori artigianali espulsi dalla Guinea. Le operazioni di rimpatrio sono state comunicate dal ministero della Famiglia e della Solidarietà tramite un post su Facebook. Il flusso riguarda soprattutto orpailleurs, i cercatori d'oro informali burkinabé attivi in Guinea. Lo riferisce Lefaso.net.",
+   "more": [
+    "Gli orpailleurs sono minatori artigianali che cercano oro in modo informale, spesso senza permessi, in diversi paesi dell'Africa occidentale. Le autorità guineane hanno condotto espulsioni di massa di questi lavoratori stranieri, generando un flusso di rimpatri che i paesi di origine, come il Burkina Faso, devono gestire con operazioni logistiche e sanitarie di grande scala."
+   ],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150701",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-11T11:27+00:00"
+    },
+    {
+     "n": "Monaco Matin",
+     "p": "XX",
+     "c": "Monaco",
+     "u": "https://www.nicematin.com/societe/justice/ils-avaient-distrait-et-vole-24-montres-de-luxe-a-un-exposant-du-salon-top-marques-a-monaco-deux-freres-condamnes-a-3-ans-de-prison-ferme-10757461",
+     "angolo": "",
+     "atlas": "Monaco",
+     "t": "2026-11-11T16:05+01:00"
+    },
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/kouremale-prepare-le-retour-des-orpailleurs-burkinabe/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-11-09T12:18+00:00"
+    },
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/refoules-de-guinee-les-convois-sintensifient-a-kouremale/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-11-09T11:08+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/crief-le-proces-des-22-anciens-administrateurs-et-de-202-orpailleurs-toujours-en-attente-de-reprise/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-11T13:24+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/orpaillage-clandestin-en-guinee-des-ressortissants-togolais-et-burkinabe-condamnes-a-de-la-prison-ferme-et-interdits-de-sejour/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-10T21:24+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z3eaa3844",
+   "sez": "adolescenti",
+   "titolo": "Il remake di Zelda: Ocarina of Time vende 5,2 milioni di copie in quattro giorni",
+   "orig": "Can the Zelda remake capture the magic of the original?",
+   "lead": "Nintendo ha pubblicato il remake di \"The Legend of Zelda: Ocarina of Time\", considerato uno dei migliori videogiochi mai creati, ricostruendo completamente il classico del 1998 per Nintendo Switch 2. Il titolo ha venduto 5,2 milioni di copie nei primi quattro giorni, diventando il gioco più venduto rapidamente su Switch 2. Il lancio ha riportato in voga le code di mezzanotte fuori dai negozi, con centinaia di persone in attesa a Londra per accaparrarsi le prime copie.",
+   "more": [
+    "\"Ocarina of Time\" uscì originariamente nel 1998 per Nintendo 64 e viene considerato da critica e pubblico uno dei videogiochi più influenti della storia per l'impostazione tridimensionale dell'esplorazione e dei combattimenti. I remake di classici storici permettono a Nintendo di aggiornare grafica e giocabilità mantenendo l'atmosfera originale, puntando sia sui fan storici che su nuovi giocatori."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-08T00:37+00:00"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/business/2026/11/11/zelda-remake-sales/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-11T21:53+09:00"
+    },
+    {
+     "n": "The Guardian – Videogiochi",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-06T13:00+00:00"
+    },
+    {
+     "n": "The Guardian – Videogiochi",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-04T11:03+00:00"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/11/11/the-legend-of-zelda-ocarina-of-time-remake-fastest-selling-switch-2-game",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-11T14:17+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17",
+   "sub": "giochi"
+  },
+  {
+   "id": "zbc671928",
+   "sez": "cultura",
+   "titolo": "Jonathan Ross si dice \"inorridito\" dalle accuse contro Walliams e dalla condanna di Brand",
+   "orig": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+   "lead": "Il presentatore televisivo britannico Jonathan Ross ha dichiarato di essere \"inorridito\" dalle accuse di cattiva conduttao emerse contro David Walliams e dalla condanna di Russell Brand, con cui in passato era stato \"amichevole\". Ross ha affermato di essere stato \"genuinamente ignaro\" della loro condotta, nonostante in passato avesse scherzato pubblicamente, nel 2004, sul fatto che Walliams fosse tornato a casa con una ragazza di 15 anni. Walliams è accusato da ITN e The Guardian di aver insidiato adolescenti e giovani donne usando la propria fama; nega tutte le accuse. Un suo cameo è stato rimosso da un film australiano dopo le accuse.",
+   "more": [
+    "David Walliams è un comico e autore britannico noto per la serie \"Little Britain\" e per la giuria di \"Britain's Got Talent\". Russell Brand è un comico e attore britannico condannato di recente per reati sessuali. I casi si inseriscono in un filone di denunce nel mondo dello spettacolo britannico su presunti abusi di potere e molestie da parte di personaggi noti verso fan e colleghe più giovani."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-11T10:14+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T20:20+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T14:53+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/tv-and-radio/2026/nov/11/david-walliams-australian-film-cameo-cut-sexual-harassment-allegations-ntwnfb",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-11T15:13+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/tv-and-radio/2026/nov/11/jonathan-ross-david-walliams-russell-brand-revelations",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-11T09:19+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-10T12:00+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zb7c59e4f",
+   "sez": "salute",
+   "titolo": "Il Kenya dimette l'ultimo paziente Ebola, al via il conto alla rovescia verso lo stato virus-free",
+   "orig": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+   "lead": "Il Kenya ha dimesso l'ultimo paziente affetto da Ebola, avviando un conto alla rovescia di 42 giorni che, in assenza di nuovi casi, porterà alla dichiarazione di paese libero dal virus. Il ministro della Salute Aden Duale ha annunciato che le misure di prevenzione resteranno in vigore fino al 23 dicembre. Lo riferisce BBC News.",
+   "more": [
+    "L'Ebola è una malattia virale grave trasmessa per contatto con fluidi corporei, con un'alta letalità. L'Organizzazione Mondiale della Sanità dichiara un paese libero dal virus dopo 42 giorni senza nuovi casi confermati dall'ultimo contagio, periodo pari al doppio del massimo tempo di incubazione conosciuto, usato come margine di sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-11T12:53+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-11T15:34+00:00"
+    },
+    {
+     "n": "Iwacu",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.iwacu-burundi.org/region-sud-rumonge-la-menace-de-la-maladie-a-virus-ebola-est-bien-reelle/",
+     "angolo": "",
+     "atlas": "Burundi",
+     "t": "2026-11-09T10:59+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/kenya-releases-last-ebola-patient-starts-42-day-countdown-to-disease-free-status",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-11T17:29+08:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361058300/kenya-discharges-last-ebola-patient-beginning-countdown-e",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-11T09:41+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zef2829c4",
+   "sez": "ambiente",
+   "titolo": "Papua Nuova Guinea distribuisce 2,5 milioni di kina di aiuti per la siccità da El Niño",
+   "orig": "Eastern Highlands rolls out K2.5 million El Niño drought relief supplies",
+   "lead": "Il comitato provinciale per i disastri delle Eastern Highlands, in Papua Nuova Guinea, ha iniziato questa settimana la distribuzione di forniture di soccorso per un valore di 2,5 milioni di kina, fondi stanziati dal governo provinciale per fronteggiare la siccità legata al fenomeno El Niño. Lo riferisce Post-Courier.",
+   "more": [
+    "El Niño è un fenomeno climatico ciclico che altera le temperature oceaniche nel Pacifico, provocando in diverse regioni, tra cui il Pacifico meridionale e parti dell'Africa, periodi di siccità intensa che danneggiano agricoltura e approvvigionamento d'acqua, spingendo i governi a stanziare fondi di emergenza per le popolazioni colpite."
+   ],
+   "fonti": [
+    {
+     "n": "Post-Courier",
+     "p": "XX",
+     "c": "Port Moresby",
+     "u": "https://www.postcourier.com.pg/eastern-highlands-rolls-out-k2-5-million-el-nino-drought-relief-supplies/",
+     "angolo": "",
+     "atlas": "Papua New Guinea",
+     "t": "2026-11-11T14:52+00:00"
+    },
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambiques-gaza-province-needs-18-million-meticais-to-tackle-drought/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-11-11T11:53+00:00"
+    },
+    {
+     "n": "Hiiraan Online",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.hiiraan.com/news4/2026/Nov/206741/garissa_leaders_demand_release_of_el_nio_relief_food_as_drought_ravages_pastoralists.aspx",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-11-11T05:17+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zcd45a6fe",
+   "sez": "economia",
+   "titolo": "Ristoratore somalo tornato in Turchia come addetto commerciale dopo rischio espulsione",
+   "orig": "Somali restaurant owner who faced deportation returns to Turkey as trade attaché",
+   "lead": "Un imprenditore somalo, Mohamed Isa Abdullah, che aveva lasciato la Turchia dopo aver rischiato l'espulsione e subito ripetute vessazioni della polizia che avevano costretto alla chiusura il suo ristorante ad Ankara, è tornato nella capitale turca con il ruolo di addetto commerciale della Somalia. Lo riporta il sito di notizie Bianet, citato da Turkish Minute.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/11/somali-restaurant-owner-who-faced-deportation-returns-to-turkey-as-trade-attache/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-11T14:12+00:00"
+    },
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/food-drink/article/3373916/steak-skewers-seafood-where-yung-kee-restaurant-co-owner-eats-hong-kong",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-11T08:15+00:00"
+    },
+    {
+     "n": "Bianet English",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://bianet.org/haber/somali-restaurateur-abdullah-returns-to-ankara-as-trade-attache-after-forced-closure-325320",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-11T13:15+03:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zf1eb216f",
+   "sez": "sport",
+   "titolo": "Mbappé salta l'allenamento della Francia prima della sfida di Nations League con l'Italia",
+   "orig": "Mbappe misses France training before Nations League clash with Italy",
+   "lead": "Kylian Mbappé non ha preso parte a un allenamento della nazionale francese in vista della partita di Nations League contro l'Italia. L'attaccante, che a settembre aveva lasciato il campo durante una gara con la Francia, gioca regolarmente con il Real Madrid. Lo staff tecnico francese non ha fornito ulteriori dettagli sulle condizioni fisiche del 27enne. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-11T12:38+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/mbappe-misses-france-training-ahead-of-italy-clash-n393737",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-11T15:38+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z87df18db",
+   "sez": "viaggi",
+   "titolo": "Hong Kong spegne per sempre lo spettacolo \"A Symphony of Lights\" dopo 22 anni",
+   "orig": "‘A Symphony of Lights’ to dim for good next Wednesday after 22-year run",
+   "lead": "Lo spettacolo di luci e suoni \"A Symphony of Lights\", che da 22 anni illumina ogni sera per dieci minuti lo skyline di Hong Kong, andrà in scena per l'ultima volta mercoledì prossimo. L'annuncio è stato dato dal presidente dell'Hong Kong Tourism Board, Peter Lam, durante una conferenza stampa. Lo riferisce Hong Kong Free Press.",
+   "more": [
+    "\"A Symphony of Lights\" è uno spettacolo multimediale che coinvolge i grattacieli del porto di Hong Kong, illuminati e sincronizzati con musica e narrazione, diventato negli anni una delle principali attrazioni turistiche della città e un simbolo del suo skyline notturno."
+   ],
+   "fonti": [
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/11/11/a-symphony-of-lights-to-dim-for-good-next-wednesday-after-22-year-run/",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-11T09:25+00:00"
+    },
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/paralyzed-woman-promised-to-return-and-play-piano-for-rehab-patients-she-kept-her-word/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-11T12:30+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "good": true,
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zf91dde13",
+   "sez": "musica",
+   "titolo": "I King Gizzard & The Lizard Wizard annunciano il nuovo album \"Entropy\"",
+   "orig": "I King Gizzard & The Lizard Wizard annunciano il nuovo album “Entropy”: ascolta il primo singolo “Rogue Wave”",
+   "lead": "La band australiana King Gizzard & The Lizard Wizard, guidata da Stu Mackenzie, ha annunciato il nuovo album \"Entropy\", in uscita il 4 dicembre, concepito come seguito ideale del precedente \"Alien Metal\" pubblicato appena tre mesi fa. Il gruppo ha pubblicato il primo singolo estratto, \"Rogue Wave\". Il nuovo disco arriva insieme all'annuncio di due tournée nordamericane. Lo riferisce OndaRock, citando anche Pitchfork.",
+   "more": [
+    "King Gizzard & The Lizard Wizard sono noti per una produzione musicale estremamente prolifica, con numerosi album pubblicati negli ultimi anni che spaziano tra diversi generi, dal rock psichedelico al metal, spesso con uscite a distanza di pochi mesi l'una dall'altra."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/i-king-gizzard-the-lizard-wizard-annunciano-il-nuovo-album-entropy-ascolta-il-primo-singolo-rogue-wave/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T15:07+00:00"
+    },
+    {
+     "n": "Pitchfork",
+     "p": "US",
+     "c": "New York",
+     "u": "https://pitchfork.com/story/king-gizzard-and-the-lizard-wizard-announce-new-album-entropy-two-north-american-tours/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-10T22:39+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z6fb0d70e",
+   "sez": "viaggi",
+   "titolo": "La Croazia registra 21,3 milioni di arrivi turistici nel 2026",
+   "orig": "Croatia records 21.3 million tourist arrivals in 2026 as domestic visitors drive growth",
+   "lead": "La Croazia ha registrato 21,3 milioni di arrivi turistici e quasi 109 milioni di pernottamenti nei primi dieci mesi del 2026, con una crescita sostenuta anche dai visitatori nazionali. Lo riferisce Croatia Week.",
+   "more": [
+    "Il turismo rappresenta una delle voci principali dell'economia croata, grazie soprattutto alle coste adriatiche e alle città storiche. Il dato sui pernottamenti, oltre agli arrivi, viene usato per valutare non solo quante persone visitano il paese ma anche quanto tempo vi trascorrono, un indicatore importante per l'indotto economico del settore."
+   ],
+   "fonti": [
+    {
+     "n": "Croatia Week",
+     "p": "XX",
+     "c": "Zagabria",
+     "u": "https://www.croatiaweek.com/croatia-tourism-results-first-ten-months-2026/",
+     "angolo": "",
+     "atlas": "Croatia",
+     "t": "2026-11-11T07:59+00:00"
+    },
+    {
+     "n": "Trend",
+     "p": "XX",
+     "c": "Baku",
+     "u": "https://www.trend.az/casia/turkmenistan/4245252.html",
+     "angolo": "",
+     "atlas": "Azerbaijan",
+     "t": "2026-11-11T19:10+04:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zf0156464",
+   "sez": "cucina",
+   "titolo": "KFC a Cortina: dietrofront, solo sei prodotti nel rifugio sulle piste da sci",
+   "orig": "KFC a Cortina, arriva il dietrofront: nessun fast food sulle piste da sci. Nel rifugio si venderanno solo sei prodotti",
+   "lead": "Dopo le polemiche suscitate dai rendering di un progetto che prevedeva un fast food KFC sulle piste da sci di Cortina, la società Faloria Spa ha chiarito che il rifugio non cambierà aspetto e che nel bar entreranno soltanto sei prodotti a marchio KFC. Lo riferisce Gambero Rosso.",
+   "more": [
+    "Cortina d'Ampezzo è una delle principali località sciistiche italiane, nota anche per i vincoli paesaggistici e architettonici legati alla tradizione montana. Progetti che introducono marchi di fast food internazionali in contesti di questo tipo generano spesso discussioni pubbliche sulla tutela dell'identità dei luoghi turistici storici."
+   ],
+   "fonti": [
+    {
+     "n": "Gambero Rosso",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.gamberorosso.it/notizie/attualita/kfc-a-cortina-arriva-il-dietrofront-nessun-fast-food-sulle-piste-da-sci-nel-rifugio-si-venderanno-solo-sei-prodotti/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-10T13:13+00:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/11/minacce-ibride-tajani-attacchi-italia-notizie/8568298/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T15:48+00:00"
+    },
+    {
+     "n": "la Repubblica – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/tecnologia/2026/11/11/news/alexa_shopping_ia_acquisti_come_funziona-425715976/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T16:48+01:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z719db533",
+   "sez": "organizzazioni",
+   "titolo": "Consiglio UE: briefing stampa prima dei Consigli Affari Esteri del 16 e 17 novembre",
+   "orig": "Press briefing ahead of the Foreign Affairs Council and the Foreign Affairs (Defence) Councils of 16 and 17 November 2026",
+   "lead": "Il Consiglio dell'Unione europea terrà il 13 novembre alle 16.00 un briefing stampa in vista dei prossimi Consigli Affari Esteri e Affari Esteri (Difesa), previsti per il 16 e 17 novembre 2026 a Bruxelles. Lo riferisce il Consiglio dell'Unione europea.",
+   "more": [
+    "Il Consiglio Affari Esteri è la formazione del Consiglio dell'Unione europea che riunisce i ministri degli Esteri dei paesi membri per coordinare la politica estera comune; la formazione \"Difesa\" riunisce invece i ministri della Difesa per discutere cooperazione militare e sicurezza europea."
+   ],
+   "fonti": [
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/press-briefing-ahead-of-the-foreign-affairs-council-and-the-foreign-affairs-defence-councils-of-16-and-17-november-2026/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-11T14:51+01:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "za0424e42",
+   "sez": "spazio",
+   "titolo": "Un pianeta gigante nascosto spiega la scomparsa apparente di un esopianeta",
+   "orig": "Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough",
+   "lead": "Il telescopio TESS ha osservato per sette anni un pianeta gigante gassoso, simile a un Giove caldo, a circa 1000 anni luce dalla Terra, mentre transitava ripetutamente davanti alla sua stella. Gli astronomi sono rimasti sorpresi quando il pianeta è sembrato scomparire dalle osservazioni. Gli studiosi ritengono che un pianeta gigante vicino, finora non visto direttamente, abbia esercitato un'attrazione gravitazionale tale da deviare l'orbita del pianeta osservato, rendendolo non più visibile dal nostro punto di vista. Lo riferisce Universe Today.",
+   "more": [
+    "Gli esopianeti vengono spesso individuati con il metodo del transito, osservando il leggero calo di luminosità di una stella quando un pianeta le passa davanti. Se l'orbita di un pianeta viene alterata dall'attrazione gravitazionale di un altro corpo vicino, il transito può non essere più visibile dalla Terra, anche se il pianeta continua a esistere e a orbitare normalmente."
+   ],
+   "fonti": [
+    {
+     "n": "Universe Today",
+     "p": "XX",
+     "c": "Vancouver",
+     "u": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-11T13:02+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z26bf8990",
+   "sez": "ambiente",
+   "titolo": "A COP31 nuovo approccio: affrontare il clima come questione economica",
+   "orig": "COP31 leaders try out new sales pitch for climate action: Do it for the economy",
+   "lead": "Alla conferenza sul clima COP31 i leader mondiali stanno sperimentando un nuovo modo di presentare l'azione climatica, puntando sui benefici economici piuttosto che solo ambientali. L'ex segretario di Stato americano John Kerry, da decenni impegnato sul tema, ha detto di apprezzare questa nuova impostazione. L'aumento dei prezzi dei beni di consumo, dal carburante al cibo, è stato un fattore determinante nelle elezioni di metà mandato americane che hanno dato ai Democratici il controllo del Congresso, e resta una vulnerabilità per i governi in Europa, Asia e altrove.",
+   "more": [
+    "COP31 è la conferenza delle Nazioni Unite sui cambiamenti climatici, incontro annuale in cui i governi negoziano impegni per ridurre le emissioni di gas serra. Negli ultimi anni i leader hanno cercato strategie di comunicazione diverse per ottenere sostegno pubblico alle politiche climatiche, spesso collegandole a occupazione, crescita economica e costo della vita, temi più sentiti dagli elettori rispetto all'ambiente in senso stretto."
+   ],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/world/global-affairs/cop31-leaders-new-sales-pitch-climate-action-for-economy/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-11T22:25+08:00"
+    },
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/world/2026/11/11/cop31-leaders-try-out-new-sales-pitch-for-climate-action-do-it-for-the-economy",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z0130b48c",
+   "sez": "tech",
+   "titolo": "Università cinese legata all'esercito compra chip Nvidia nonostante il blacklist Usa",
+   "orig": "Concerns grow as military-linked Chinese university buys Nvidia chips",
+   "lead": "Un'università cinese con forti legami con l'Esercito Popolare di Liberazione ha acquistato il mese scorso chip avanzati per intelligenza artificiale H200 di Nvidia, nonostante figuri nella lista nera delle esportazioni statunitensi. Lo rivelano documenti di approvvigionamento citati dal Globe and Mail, che evidenziano le lacune negli sforzi di Washington per limitare l'accesso della Cina alla tecnologia avanzata. L'episodio alimenta i dubbi sull'efficacia dei controlli americani sulle esportazioni di semiconduttori verso la Cina.",
+   "more": [
+    "Gli Stati Uniti hanno imposto negli ultimi anni restrizioni crescenti sull'export di chip avanzati verso la Cina, temendo che possano essere usati per scopi militari o di sorveglianza. Nvidia produce alcuni dei chip più potenti al mondo per l'addestramento di sistemi di intelligenza artificiale, ed è finita al centro delle tensioni commerciali e tecnologiche tra Washington e Pechino."
+   ],
+   "fonti": [
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/video-concerns-grow-as-military-linked-chinese-university-buys-nvidia-chips/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-11T13:13+00:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10934237",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z33eb27cd",
+   "sez": "musica",
+   "titolo": "Måneskin, confermata la reunion: due date al Coachella 2027",
+   "orig": "Måneskin, la reunion è realtà: due concerti al Coachella 2027. E spunta l’ipotesi Sanremo",
+   "lead": "I Måneskin tornano insieme dopo tre anni di pausa dedicati ai progetti solisti dei singoli componenti. La band romana ha annunciato due concerti al Coachella 2027, il festival musicale californiano, previsti per il 10 e il 17 aprile. La notizia è stata confermata dalla line up ufficiale del festival, che vedrà sul palco anche Madonna, Dua Lipa, Tame Impala, SZA e Giorgio Moroder. Circola inoltre l'ipotesi di una partecipazione del gruppo a Sanremo.",
+   "more": [
+    "I Måneskin sono una delle band italiane più conosciute a livello internazionale, affermatasi dopo la vittoria a Sanremo nel 2021 e all'Eurovision Song Contest lo stesso anno. Il Coachella è uno dei festival musicali più importanti al mondo, che si tiene ogni anno in California e ospita artisti di fama globale."
+   ],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/news/maneskin-lreunion-due-concerti-coachella-2027-ritorno-sanremo-de-martino/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T14:02+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/11/e-ufficiale-la-reunion-dei-maneskin-nella-line-up-del-coachella-festival-227_d0f4f327-61a6-4ae8-9cf3-3224a65ae4ad.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T16:00+01:00"
+    },
+    {
+     "n": "Rolling Stone Italia",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.rollingstone.it/musica/news-musica/i-maneskin-sono-tornati-e-suoneranno-al-coachella/1044961/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T08:42+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z7343554e",
+   "sez": "italia",
+   "titolo": "Allerta meteo, scuole chiuse giovedì 12 novembre in Liguria e Toscana",
+   "orig": "Allerta meteo scuole chiuse giovedì 12 novembre, stop alle lezioni in diversi comuni di Liguria e Toscana: ecco quali. ELENCO IN AGGIORNAMENTO",
+   "lead": "Una nuova intensa ondata di maltempo colpisce l'Italia, con livelli di criticità fino all'allerta rossa e arancione in diverse regioni del Centro-Nord. Decine di sindaci hanno firmato ordinanze per sospendere le lezioni giovedì 12 novembre in vari comuni di Liguria e Toscana. Dalla serata di oggi sono previsti temporali su Liguria, Emilia-Romagna e Toscana, con precipitazioni intense attese dalla tarda mattinata di domani. L'elenco dei comuni coinvolti è in aggiornamento.",
+   "more": [
+    "Le allerte meteo in Italia sono emesse dalla Protezione Civile e classificate per livello di criticità (gialla, arancione, rossa) in base all'intensità prevista dei fenomeni. I sindaci possono decidere autonomamente la chiusura delle scuole nei territori a rischio per garantire la sicurezza di studenti e personale scolastico."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/allerta-meteo-scuole-chiuse-giovedi-12-novembre-stop-alle-lezioni-in-diversi-comuni-elenco-in-aggiornamento/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T15:01+00:00"
+    },
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/schede/scuole_chiuse_domani_giovedi_12_novembre_2026_dove_elenco_aggiornato_allerta_meteo-9883735.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T16:52+01:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z46b5a635",
+   "sez": "salute",
+   "titolo": "Sciopero dei medici specialisti in Inghilterra sospeso dopo l'accordo per negoziati",
+   "orig": "Consultants&#x2019; strike in England is called off as union &#x201C;pauses&#x201D; action",
+   "lead": "I medici specialisti (consultants) in Inghilterra hanno annullato lo sciopero di due giorni previsto per fine novembre, dopo che il sindacato BMA ha accettato di aprire negoziati formali con il governo su stipendi e condizioni di lavoro. La disputa con il governo dura dal maggio 2025. A luglio i medici avevano votato per lo sciopero, non essendo arrivata un'offerta migliorativa: quella attuale prevede un aumento salariale del solo 2,4% per il 2027-28. Il comitato dei consultants ha deciso di sospendere l'azione dopo l'incontro del 10 novembre. Lo riferisce The BMJ.",
+   "more": [
+    "I consultants sono i medici specialisti di più alto livello nel sistema sanitario britannico (NHS). Negli ultimi anni diverse categorie di personale medico nel Regno Unito hanno scioperato per chiedere aumenti salariali che compensino l'inflazione, in un contesto di pressione crescente sul servizio sanitario pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101431.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-11T05:26-08:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-11T12:42+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z9fe5f14f",
+   "sez": "economia",
+   "titolo": "Sudan, i proventi dell'oro crescono ma non raggiungono i poveri",
+   "orig": "Sudan’s gold export earnings soar, but the money is not reaching the poor",
+   "lead": "Le entrate derivanti dalle esportazioni di oro del Sudan hanno raggiunto i 3,5 miliardi di dollari, secondo un rapporto economico citato dalla testata Dabanga. Nonostante la crescita dei ricavi, la ricchezza generata non arriva alla popolazione più povera del Paese. Lo riferisce Dabanga.",
+   "more": [
+    "Il Sudan è uno dei maggiori produttori di oro in Africa, ma il settore minerario è segnato da conflitti interni, contrabbando e scarsa regolamentazione, fattori che spesso impediscono che i proventi delle esportazioni si traducano in benefici diffusi per la popolazione, specialmente in un contesto di guerra civile in corso nel Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Dabanga",
+     "p": "XX",
+     "c": "Amsterdam",
+     "u": "https://www.dabangasudan.org/en/all-news/article/sudans-gold-export-earnings-soar-but-the-money-is-not-reaching-the-poor",
+     "angolo": "",
+     "atlas": "Sudan",
+     "t": "2026-11-11T14:00+00:00"
+    },
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/11/11/uzbekistans-gas-import-bill-rises-50-export-earnings-fall-by-a-third-60222",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-11T17:07+05:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z8aad9f3d",
+   "sez": "salute",
+   "titolo": "Un nuovo indice alternativo al BMI cambierebbe la diagnosi di obesità per milioni di persone",
+   "orig": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds",
+   "lead": "Uno studio propone un nuovo metodo per identificare l'obesità, diverso dal tradizionale indice di massa corporea (BMI), che potrebbe cambiare la diagnosi per milioni di persone. Secondo i proponenti del nuovo approccio, il metodo potrebbe portare a cure più precise rispetto a quelle basate solo sul BMI. Lo riferisce STAT.",
+   "more": [
+    "Il BMI (indice di massa corporea) è da decenni lo strumento più usato per classificare sovrappeso e obesità, ma è criticato perché non distingue tra massa grassa e muscolare né considera la distribuzione del grasso corporeo. Diversi ricercatori propongono misure alternative, come la circonferenza della vita o composizioni corporee più dettagliate, per diagnosi più accurate."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-11T16:00+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zb2b5ec83",
+   "sez": "economia",
+   "titolo": "Gli investimenti del Golfo in Asia Centrale triplicano a 31 miliardi di dollari",
+   "orig": "EDB: Gulf Investment in Central Asia Triples to $31 Billion as Trade Nears $4 Billion",
+   "lead": "La Banca eurasiatica di sviluppo (EDB) ha riferito che lo stock di investimenti dei Paesi del Golfo (GCC) in Asia Centrale è salito a 31,1 miliardi di dollari a metà 2026, 3,4 volte il livello del 2020. Il commercio tra le due regioni è quasi quadruplicato in cinque anni, raggiungendo 3,9 miliardi di dollari nel 2025. La banca ha aperto un ufficio ad Abu Dhabi e firmato quattro accordi di cooperazione per attrarre nuovi capitali dal Golfo nella regione, nell'ambito della sua strategia 2027-2031.",
+   "more": [
+    "L'EDB è un'istituzione finanziaria regionale che riunisce diversi Paesi dell'Asia Centrale e la Russia. I Paesi del Golfo, ricchi di petrodollari, cercano da anni di diversificare gli investimenti verso nuovi mercati emergenti, mentre le repubbliche centroasiatiche puntano su questi capitali per modernizzare infrastrutture ed energia."
+   ],
+   "fonti": [
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/11/edb-gulf-investment-in-central-asia-triples-to-31-billion-as-trade-nears-4-billion/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-11T08:30+00:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/11/gulf-investment-in-central-asia-rises-3-4-fold-since-2020-edb-says/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-11T12:00+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zf88001f8",
+   "sez": "economia",
+   "titolo": "Drake & Scull: utili in crescita del 73% nei nove mesi",
+   "orig": "Drake & Scull profit rises 73% as nine-month revenue doubles",
+   "lead": "La società di costruzioni Drake & Scull, con sede a Dubai, ha registrato un aumento del 73% degli utili nei primi nove mesi del 2026, mentre i ricavi nello stesso periodo sono raddoppiati rispetto all'anno precedente. Lo riferisce Gulf News.",
+   "more": [
+    "Drake & Scull International è una storica società di engineering e costruzioni degli Emirati Arabi Uniti, quotata alla Borsa di Dubai, che negli anni passati ha affrontato difficoltà finanziarie e ristrutturazioni del debito prima di tornare a crescere nel settore delle infrastrutture nel Golfo."
+   ],
+   "fonti": [
+    {
+     "n": "Gulf News",
+     "p": "XX",
+     "c": "Dubai",
+     "u": "https://gulfnews.com/business/property/drake-scull-profit-rises-73-as-nine-month-revenue-doubles-1.500744116",
+     "angolo": "",
+     "atlas": "United Arab Emirates",
+     "t": "2026-11-11T19:29+04:00"
+    },
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/11/11/byd-production-nearly-doubles-in-uzbekistan-as-car-output-rises-92-60198",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-11T13:55+05:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z4f711186",
+   "sez": "mondo",
+   "titolo": "Come sarebbe il governo neozelandese se votassero solo gli universitari",
+   "orig": "What the next Government might look like if we left the decision to uni students",
+   "lead": "Il quotidiano neozelandese Stuff ha analizzato i voti espressi nei seggi allestiti nelle università e nei politecnici della Nuova Zelanda, confrontandoli con il risultato nazionale delle elezioni. L'analisi mostra una composizione del governo molto diversa da quella effettivamente uscita dalle urne, con un distacco marcato tra le preferenze degli studenti e quelle del resto del Paese. Lo riferisce Stuff NZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/nz-news/361057558/what-next-government-might-look-if-we-left-decision-uni-students",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-11T15:00+00:00"
+    },
+    {
+     "n": "CGTN – Economia",
+     "p": "XX",
+     "c": "Pechino",
+     "u": "https://news.cgtn.com/news/2026-11-06/What-does-the-future-of-money-look-like-in-a-multipolar-world--1RQJbVxK3G8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=Business",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-06T08:01+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zd4809d44",
+   "sez": "economia",
+   "titolo": "Il Ghana lancia una piattaforma digitale per i permessi petroliferi",
+   "orig": "Ghana Petroleum Commission introduces Digital Permit Platform to improve oil sector operations",
+   "lead": "La Commissione per il petrolio del Ghana ha introdotto una piattaforma digitale per la richiesta dei permessi, con l'obiettivo di semplificare le procedure burocratiche, riducendo i ritardi e migliorando le operazioni delle aziende nel settore petrolifero a monte del Paese. Lo riferisce MyJoyOnline.",
+   "more": [
+    "Il Ghana è uno dei principali produttori di petrolio dell'Africa occidentale, con il settore upstream regolato dalla Petroleum Commission istituita nel 2011. La digitalizzazione delle procedure amministrative è una misura comune adottata da diversi governi africani per attrarre investimenti stranieri e rendere più trasparente la gestione delle risorse energetiche."
+   ],
+   "fonti": [
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/ghana-petroleum-commission-introduces-digital-permit-platform-to-improve-oil-sector-operations/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-11-11T15:22+00:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/news/386612/musenero-challenges-oil-sector-to-turn-petroleum-wealth-into-industrial-growth",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-11-11T18:06+03:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z1c99374a",
+   "sez": "economia",
+   "titolo": "Mali: approvati 125 miliardi di FCFA di crediti d'anticipo nel bilancio 2026",
+   "orig": "Budget 2026 : 125 milliards de FCFA de crédits d’avance approuvés",
+   "lead": "Il governo del Mali ha adottato il 6 novembre, in Consiglio dei ministri, un decreto che apre crediti d'anticipo per 125 miliardi di franchi CFA, destinati a ospedali, progetti prioritari e spese di personale. La procedura, prevista dall'articolo 22 della legge organica sulle finanze, consente l'apertura di fondi supplementari in caso di urgenza e necessità impellente di interesse nazionale. La ripartizione dettagliata delle somme non è stata ancora pubblicata. Lo riferisce Journal du Mali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Journal du Mali",
+     "p": "XX",
+     "c": "Bamako",
+     "u": "https://journaldumali.com/budget-2026-125-milliards-de-fcfa-de-credits-davance-approuves/",
+     "angolo": "",
+     "atlas": "Mali",
+     "t": "2026-11-11T11:03+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/11/11/exploitation-de-blocs-petroliers-la-snh-signe-quatre-contrats-de-112-milliards-de-fcfa-avec-murphy-oil/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-11-11T15:57+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z30355f51",
+   "sez": "prima",
+   "titolo": "La Russia vieta l'ingresso a due deputati e due giornalisti francesi",
+   "orig": "Russia bans two French lawmakers, two journalists in tit-for-tat move",
+   "lead": "La portavoce della diplomazia russa Maria Zakharova ha annunciato mercoledì il divieto d'ingresso in Russia per quattro cittadini francesi: i deputati Sacha Houlié e Arthur Delaporte e i giornalisti Paul Gogo e Ariane Chemin del quotidiano Le Monde. La misura è una risposta all'espulsione dalla Francia della conduttrice filo-Cremlino Xenia Fedorova, ex responsabile di RT France. La decisione ha suscitato condanne da parte francese ed europea; l'Unione Europea accusa l'ex direttrice di RT France di aver diffuso sulla tv francese narrazioni favorevoli al Cremlino.",
+   "more": [
+    "RT France era il canale francese dell'emittente statale russa Russia Today, chiuso dalle autorità francesi ed europee dopo l'invasione dell'Ucraina del 2022 per diffusione di propaganda. Episodi di espulsioni reciproche tra Mosca e i Paesi europei si sono moltiplicati negli ultimi anni, in un clima di forte tensione diplomatica legato alla guerra in Ucraina."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-11T15:47+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/live/2026/11/11/en-direct-guerre-en-ukraine-les-condamnations-se-multiplient-apres-que-la-russie-a-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-dont-ariane-chemin-du-monde_6808609_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-11T16:22+01:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/11/11/russia-bars-four-french-figures-over-expulsion-of-xenia-fedorova",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-11T15:45+01:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/apres-lexpulsion-de-xenia-fedorova-moscou-ferme-ses-frontieres-a-quatre-francais/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-11T15:23+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "zbb2e3ea9",
+   "sez": "prima",
+   "titolo": "ONG denuncia le condizioni del medico di Gaza Abu Safiya in carcere",
+   "orig": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
+   "lead": "L'organizzazione per i diritti umani PHRI denuncia che la detenzione arbitraria di medici di Gaza, tra cui il direttore dell'ospedale Hussam Abu Safiya, viola i diritti individuali e compromette il sistema sanitario della Striscia. Un referto medico segnala una significativa perdita di peso e anomalie negli esami del sangue del detenuto, non adeguatamente investigate, mettendo in discussione le valutazioni dei tribunali israeliani sulle sue condizioni di salute. La denuncia arriva mentre continuano gli attacchi israeliani su Gaza.",
+   "more": [
+    "Hussam Abu Safiya era il direttore dell'ospedale Kamal Adwan, nel nord della Striscia di Gaza, arrestato dalle forze israeliane nel dicembre 2024 durante un'operazione militare nella zona. Il suo caso è diventato un simbolo delle condizioni dei medici palestinesi detenuti durante il conflitto."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-11T12:05+00:00"
+    },
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/israel-news/israel-crime/2026-11-11/ty-article/.premium/israel-neglecting-deteriorating-health-of-jailed-gaza-doctor-rights-group-says/000001a1-c992-dc22-abe1-f9f61bf10000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-11T13:25+02:00"
+    },
+    {
+     "n": "Radio Tamazuj",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.radiotamazuj.org/en/news/article/machar-raises-fresh-security-concerns-as-trial-continues",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-11T11:35+00:00"
+    },
+    {
+     "n": "Sudans Post",
+     "p": "XX",
+     "c": "Juba",
+     "u": "https://www.sudanspost.com/machar-raises-another-security-concern-in-ongoing-trial/?utm_source=rss&utm_medium=rss&utm_campaign=machar-raises-another-security-concern-in-ongoing-trial",
+     "angolo": "",
+     "atlas": "S. Sudan",
+     "t": "2026-11-11T12:11+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "zda4c4f2a",
+   "sez": "mondo",
+   "titolo": "Gabon, nuovo Codice petrolifero per rafforzare le imprese nazionali",
+   "orig": "Nouveau Code pétrolier au Gabon : vers le renforcement de la participation des entreprises nationales",
+   "lead": "Il presidente del Gabon Brice Clotaire Oligui Nguema ha fatto il punto con il ministro del Petrolio Clotaire Kondja sull'elaborazione di un nuovo Codice petrolifero, che prevede l'adattamento all'estrazione offshore in acque profonde, il rafforzamento del contenuto locale e la formazione dei giovani gabonesi. Lo riferisce Gabonreview.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/nouveau-code-petrolier-au-gabon-vers-le-renforcement-de-la-participation-des-entreprises-nationales/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-11T09:25+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Societe/diaspora-vers-un-nouveau-systeme-securise-de-delivrance-des-cartes-consulaires-senegalaises_n_999003334.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-11T15:21+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/11/11/oligui-nguema-veut-un-nouveau-code-petrolier-davantage-tourne-vers-les-competences-nationales/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-11T01:47+00:00"
+    },
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48870-haiti-politique-kenscoff-regarde-a-nouveau-vers-l-avenir-discours-video-du-pm.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-11-11T08:57-05:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z120d60d5",
+   "sez": "mondo",
+   "titolo": "Tagikistan e Kazakhstan, cooperazione sull'intelligenza artificiale nel settore energetico",
+   "orig": "Tajikistan and Kazakhstan’s national power grid operator agree to cooperate on AI in energy sector",
+   "lead": "Gli operatori delle reti elettriche nazionali di Tagikistan e Kazakhstan hanno concordato di cooperare sull'uso dell'intelligenza artificiale nel settore energetico. Una società kazaka utilizza già tecnologie digitali per prevedere la produzione e il consumo di elettricità, monitorare la rete e supportare le decisioni di dispacciamento. Lo riferisce Asia-Plus.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/11/11/tajikistans-ministry-of-energy-and-kegoc-agree-to-share-experience-in-applying-ai-in-the-energy-sector/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-11-11T12:38+00:00"
+    },
+    {
+     "n": "The Astana Times",
+     "p": "XX",
+     "c": "Astana",
+     "u": "https://astanatimes.com/2026/11/kazakhstan-invites-us-businesses-to-partner-in-critical-minerals-sector-at-b20-summit/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-11T14:10+00:00"
+    },
+    {
+     "n": "Lusaka Times",
+     "p": "XX",
+     "c": "Lusaka",
+     "u": "https://www.lusakatimes.com/2026/11/11/mining-sector-critical-to-the-grow-zambia-agenda-dr-kabeta/",
+     "angolo": "",
+     "atlas": "Zambia",
+     "t": "2026-11-11T14:53+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zdac84065",
+   "sez": "economia",
+   "titolo": "Dollaro in Argentina: le quotazioni di mercoledì 11 novembre",
+   "orig": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este miércoles 11 de noviembre, minuto a minuto",
+   "lead": "In Argentina il dollaro ufficiale viene scambiato mercoledì 11 novembre a 1.579 pesos per la vendita, mentre il dollaro parallelo noto come blue si attesta a 1.565 pesos. Lo riferisce La Nación.",
+   "more": [
+    "In Argentina coesistono da anni diversi tassi di cambio: quello ufficiale, regolato dalla Banca centrale, e il dollaro blue, scambiato nel mercato informale, utilizzato come indicatore delle aspettative economiche e dell'inflazione del Paese, storicamente alle prese con forti squilibri valutari."
+   ],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-miercoles-11-de-nid11112026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-11T15:51+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-miercoles-11-de-noviembre-lee-aqui-tus-predicciones-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-11T15:51+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/deporte-total/futbol-mundial/partidos-de-hoy-miercoles-11-de-noviembre-del-2026-horarios-canales-tv-y-donde-ver-futbol-en-vivo-online-gratis-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-11T15:37+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/el-pais/marcha-por-la-educacion-y-pensiones-siga-aqui/HOLR3VZAARC6LAZUHNCBKFTOPQ/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-11T15:50+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z68329acd",
+   "sez": "mondo",
+   "titolo": "Il presidente golpista del Myanmar escluso dal summit ASEAN",
+   "orig": "Myanmar’s Coup President Barred From Upcoming 49th ASEAN Summit",
+   "lead": "Le Filippine, Paese ospitante del 49° summit dell'ASEAN, hanno confermato l'esclusione del leader della giunta militare del Myanmar, Min Aung Hlaing, divenuto di recente presidente, dal vertice. Il veto era già stato imposto in passato per il mancato rispetto del piano di pace proposto dal blocco regionale e rappresenta un duro colpo al tentativo della giunta, recentemente rinominata, di ottenere legittimità internazionale.",
+   "more": [
+    "L'ASEAN ha sospeso dal 2021 la partecipazione dei vertici militari del Myanmar ai summit politici, dopo il colpo di Stato che rovesciò il governo civile guidato da Aung San Suu Kyi, chiedendo l'attuazione di un piano di pace in cinque punti mai rispettato dalla giunta."
+   ],
+   "fonti": [
+    {
+     "n": "The Irrawaddy",
+     "p": "XX",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/myanmars-coup-president-barred-from-upcoming-49th-asean-summit.html",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-11-11T12:33+00:00"
+    },
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://newsinfo.inquirer.net/2339954/manila-govt-implements-truck-ban-along-roxas-blvd-for-asean-summit-2026",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-11T22:07+08:00"
+    },
+    {
+     "n": "Myanmar Now",
+     "p": "XX",
+     "c": "Yangon",
+     "u": "https://myanmar-now.org/en/news/myanmars-min-aung-hlaing-remains-barred-from-asean-summit-despite-assuming-presidency/",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-11-11T09:53+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zcb741909",
+   "sez": "sport",
+   "titolo": "JOJ Dakar 2026, la first lady Marie Khone Faye elogia le giovani ginnaste",
+   "orig": "JOJ Dakar 2026 : la Première dame Marie Khone Faye salue le talent des jeunes gymnastes",
+   "lead": "La first lady del Senegal, Marie Khone Faye, ha assistito alla finale di ginnastica artistica dei Giochi olimpici giovanili (JOJ) Dakar 2026, svoltasi al Centro espositivo di Diamniadio, e ha elogiato le prestazioni, la grazia e la creatività delle giovani atlete, congratulandosi con le medagliate. Lo riferisce Le Soleil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/sports/dakar2026/joj-dakar-2026-la-premiere-dame-marie-khone-faye-salue-le-talent-des-jeunes-gymnastes/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-11T14:43+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/joj-dakar-2026-yankoba-dieme-salue-la-mobilisation-des-forces-de-securite-et-la-cooperation-internationale_n_999003333.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-11T15:17+00:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/joj-dakar-2026-le-ministre-des-forces-armees-evalue-le-dispositif-de-securite-au-centre-de-coordination-des-operations/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-11T14:03+00:00"
+    },
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/108433-jeux-olympiques-de-la-jeunesse-de-dakar-2026-la-centrafrique-quitte-le-tournoi-sans-medaille",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-11-11T15:49+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "ze4e4d1dd",
+   "sez": "mondo",
+   "titolo": "Tanzania, l'anticorruzione restituisce 1.508 lotti contesi agli abitanti di Dodoma",
+   "orig": "Tanzania anti-Corruption body returns 1,508 disputed plots to Dodoma residents",
+   "lead": "L'Ufficio per la prevenzione e la lotta alla corruzione della Tanzania (PCCB) ha restituito 1.508 lotti di terreno contesi ai legittimi abitanti di Dodoma. Lo riferisce The Citizen.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Citizen",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-anti-corruption-body-returns-1-508-disputed-plots-to-dodoma-residents-5666700",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-11T11:36+00:00"
+    },
+    {
+     "n": "allAfrica",
+     "p": "XX",
+     "c": "Washington",
+     "u": "https://allafrica.com/stories/202611110327.html",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-11T09:55+00:00"
+    },
+    {
+     "n": "Club of Mozambique",
+     "p": "XX",
+     "c": "Maputo",
+     "u": "https://clubofmozambique.com/news/mozambique-attorney-general-demands-anti-corruption-drive-and-internal-clean-up-at-sernic/",
+     "angolo": "",
+     "atlas": "Mozambique",
+     "t": "2026-11-11T15:14+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zef7b150d",
+   "sez": "viaggi",
+   "titolo": "Alla scoperta dell'anima della via della seta in Uzbekistan",
+   "orig": "Exploring Uzbekistan’s silk road soul, from Tashkent metro to Samarkand",
+   "lead": "Euronews propone un viaggio attraverso l'Uzbekistan, dalla metropolitana di Tashkent alla città storica di Samarkand, tra le antiche città della via della seta, l'architettura monumentale, i vivaci bazar e le tradizioni locali. Lo riferisce Euronews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/11/11/exploring-uzbekistans-silk-road-soul-from-tashkent-metro-to-samarkand",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-11T15:00+01:00"
+    },
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/11/11/cypriot-delegation-visits-auschwitz-to-mark-kristallnacht-anniversary",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-11-11T16:59+02:00"
+    },
+    {
+     "n": "Tatoli (inglese)",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://en.tatoli.tl/2026/11/10/imaging-technology-cruises-the-silk-road-media-delegation-from-10-countries-visits-vivos-global-headquarters/16/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-11-10T07:13+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z75a64812",
+   "sez": "mondo",
+   "titolo": "L'Armenia perde il diritto di voto nella CSTO per debiti non pagati",
+   "orig": "Armenia Stripped Of Voting Rights In CSTO, Kremlin Says",
+   "lead": "Il Cremlino ha annunciato che l'Armenia è stata privata del diritto di voto nell'Organizzazione del Trattato di Sicurezza Collettiva (CSTO), l'alleanza militare guidata da Mosca, per il mancato pagamento delle quote associative. La decisione è stata adottata durante il summit dell'alleanza a Mosca, applicando l'articolo 25 dello statuto dell'organizzazione nei confronti dell'Armenia.",
+   "more": [
+    "La CSTO è un'alleanza militare tra Russia e alcune ex repubbliche sovietiche, erede in chiave post-sovietica del Patto di Varsavia. Negli ultimi anni i rapporti tra Erevan e Mosca si sono raffreddati, dopo che l'Armenia ha accusato l'alleanza di non averla difesa nei conflitti con l'Azerbaigian per il Nagorno-Karabakh."
+   ],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33895457.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-11T19:30+04:00"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/politics/2216471",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-11T18:13+03:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zd7a6ef0d",
+   "sez": "ingegneria",
+   "titolo": "Il porto di Tallinn punta al 2028 per il nuovo terminal A",
+   "orig": "Port of Tallinn eyes 2028 start for modern terminal A construction",
+   "lead": "L'autorità portuale di Tallinn sta portando avanti i piani per un nuovo edificio del Terminal A, che sarà costruito sull'attuale parcheggio davanti al terminal esistente, con l'obiettivo di avviare i lavori entro il 2028. Lo riferisce ERR News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610192482/port-of-tallinn-eyes-2028-start-for-modern-terminal-a-construction",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-11T16:30+02:00"
+    },
+    {
+     "n": "Tehran Times",
+     "p": "XX",
+     "c": "Teheran",
+     "u": "https://www.tehrantimes.com/news/532052/Iran-Kazakhstan-joint-terminal-to-be-established-at-Shahid-Rajaee",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-11T11:55+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zfc084830",
+   "sez": "mondo",
+   "titolo": "La donna cinese accusata di spiare il ceo di Nvidia è entrata a Taiwan con passaporto di Hong Kong",
+   "orig": "Chinese woman accused of spying on Nvidia boss entered Taiwan on Hong Kong passport",
+   "lead": "La donna cinese accusata di spionaggio per conto della Cina durante una relazione con il ceo di Nvidia Jensen Huang è entrata a Taiwan usando un passaporto di Hong Kong, hanno dichiarato mercoledì le autorità dell'immigrazione dell'isola, che stanno indagando sul caso. Huang ha ammesso di aver avuto una relazione, secondo quanto riportato, con Alice Huang, ex dirigente cinese della società Megaspeed, con sede a Singapore. Lo riferisce Hong Kong Free Press.",
+   "more": [
+    "Il caso coinvolge le autorità di Taiwan, che da tempo denunciano tentativi di infiltrazione e spionaggio da parte della Cina continentale, anche attraverso reti di relazioni personali con figure di rilievo nel settore tecnologico globale, in un contesto di forte tensione geopolitica sullo stretto di Taiwan."
+   ],
+   "fonti": [
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/11/11/chinese-woman-accused-of-spying-on-nvidia-boss-entered-taiwan-on-hong-kong-passport/",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-11T11:48+00:00"
+    },
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/tech/chinese-woman-accused-of-spying-on-nvidia-boss-entered-taiwan-on-hong-kong-passport/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-11T05:31+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z98800b37",
+   "sez": "mondo",
+   "titolo": "Il Kyrgyzstan prevede di aprire il nuovo aeroporto di Jalal-Abad nell'autunno 2027",
+   "orig": "Kyrgyzstan Plans to Open New Jalal-Abad Airport in Fall 2027",
+   "lead": "Il Kyrgyzstan punta a espandere la propria capacità di trasporto cargo aereo con un nuovo aeroporto internazionale nella regione di Jalal-Abad, la cui apertura è prevista per l'autunno 2027. Lo riferisce The Times of Central Asia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/jalal-abad-airport-kyrgyzstan-2027/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-11T12:59+00:00"
+    },
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:930774",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-11-11T15:51+06:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "zd6987a3d",
+   "sez": "mondo",
+   "titolo": "Bishkek prepara i rifugi per i senzatetto in vista dell'inverno, incertezza sui numeri",
+   "orig": "Bishkek Homeless Shelters Prepare for Winter Amid Uncertainty Over Numbers",
+   "lead": "La città di Bishkek ha allestito posti in rifugio per fino a 150 persone senza fissa dimora per l'inverno, ma l'annuncio del Municipio del 9 novembre non ha chiarito con precisione quante persone necessitino effettivamente di assistenza. Lo riferisce The Times of Central Asia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/bishkek-homeless-shelters-winter-2026/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-11T11:52+00:00"
+    },
+    {
+     "n": "Luxembourg Times",
+     "p": "XX",
+     "c": "Lussemburgo",
+     "u": "https://www.luxtimes.lu/luxembourg/winter-shelter-at-findel-opens-early-as-cold-snap-hits-luxembourg/164391428.html",
+     "angolo": "",
+     "atlas": "Luxembourg",
+     "t": "2026-11-11T11:32+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z8e156b31",
+   "sez": "mondo",
+   "titolo": "Nigeria, la polizia collabora con aziende tech per individuare i creatori di deepfake",
+   "orig": "2027: Police partner tech firms to track deepfake creators",
+   "lead": "La Polizia nigeriana sta collaborando con società tecnologiche per individuare i creatori di contenuti deepfake e contrastare la disinformazione basata sull'intelligenza artificiale in vista delle elezioni generali del 2027. Lo riferisce The Punch.",
+   "more": [
+    "I deepfake, contenuti audio o video manipolati con l'intelligenza artificiale per simulare in modo realistico persone reali, sono diventati una preoccupazione crescente per i governi di tutto il mondo in periodo elettorale, per il rischio che vengano usati per diffondere disinformazione o screditare candidati e istituzioni."
+   ],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-police-partner-tech-firms-to-track-deepfake-creators/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    },
+    {
+     "n": "Nikkei Asia",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/microsoft-says-tech-firms-must-prove-ai-data-centers-benefit-locals",
+     "angolo": "",
+     "atlas": "Japan"
+    }
+   ],
+   "data": "",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z9c43603f",
+   "sez": "mondo",
+   "titolo": "Tashkent, scoperto un sospetto call center per frodi e trading cripto illegale",
+   "orig": "Tashkent police uncover suspected fraud call center and illegal crypto trading",
+   "lead": "Le forze dell'ordine di Tashkent hanno scoperto un presunto call center illegale nel distretto di Yakkasaray, dove sono stati trovati 23 cittadini stranieri senza i documenti richiesti. Le autorità hanno dichiarato che l'operazione era collegata a schemi fraudolenti rivolti al denaro e ai beni dei cittadini, oltre al trading illegale di criptovalute. Lo riferisce Kun.uz.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/11/11/tashkent-police-uncover-suspected-fraud-call-center-and-illegal-crypto-trading-60220",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-11T16:46+05:00"
+    },
+    {
+     "n": "Antara",
+     "p": "XX",
+     "c": "Giacarta",
+     "u": "https://en.antaranews.com/news/441879/police-uncover-russian-ukrainian-syndicate-recruiting-mercenaries",
+     "angolo": "",
+     "atlas": "Indonesia",
+     "t": "2026-11-11T22:16+07:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z2303ff0c",
+   "sez": "mondo",
+   "titolo": "Piogge intense inondano 40mila tende di sfollati a Gaza",
+   "orig": "Nowhere to sleep: heavy rain floods 40,000 tents of displaced Gazans",
+   "lead": "Un rapporto delle Nazioni Unite accusa Israele di impedire l'ingresso delle attrezzature necessarie al ripristino delle infrastrutture nella Striscia di Gaza, ulteriormente danneggiate dal maltempo. Secondo il rapporto, le piogge del fine settimana hanno colpito 200.000 residenti, inondando circa 40.000 tende di sfollati privi di un riparo adeguato. Lo riferisce Haaretz.",
+   "more": [
+    "Gaza ospita centinaia di migliaia di sfollati interni a causa del conflitto in corso, molti dei quali vivono in accampamenti di tende con infrastrutture danneggiate dai bombardamenti. Le condizioni meteorologiche invernali aggravano le difficoltà umanitarie in una popolazione già priva di accesso adeguato ad acqua, servizi igienici e assistenza sanitaria."
+   ],
+   "fonti": [
+    {
+     "n": "Haaretz",
+     "p": "XX",
+     "c": "Tel Aviv",
+     "u": "https://www.haaretz.com/middle-east-news/palestinians/2026-11-11/ty-article-magazine/nowhere-to-sleep-heavy-rain-floods-40-000-tents-of-displaced-gazans/000001a1-ca3f-db3c-afef-deff9ca30000",
+     "angolo": "",
+     "atlas": "Israel",
+     "t": "2026-11-11T15:40+02:00"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/148935-storm-alerts-differ-as-heavy-rain-forecast-across-morocco-and-iberian-peninsula.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-11T12:00+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z8fce3824",
+   "sez": "mondo",
+   "titolo": "Slovacchia: sondaggio diviso 35 anni dopo la Rivoluzione di Velluto",
+   "orig": "Slovaks still value the Velvet Revolution. Most believe the country wasted its opportunities",
+   "lead": "Un nuovo sondaggio rivela che il 56% degli slovacchi considera ancora positivo il cambio politico del 1989, ma il 59% ritiene che il Paese abbia completamente sprecato le opportunità derivanti dalle nuove libertà conquistate allora. Lo riferisce The Slovak Spectator.",
+   "more": [
+    "La Rivoluzione di Velluto del 1989 ha portato la Slovacchia dall'era comunista alla democrazia. Trentasette anni dopo, le opinioni rimangono frammentate sulla capacità del Paese di sfruttare pienamente questo momento storico."
+   ],
+   "fonti": [
+    {
+     "n": "The Slovak Spectator",
+     "p": "XX",
+     "c": "Bratislava",
+     "u": "https://spectator.sme.sk/politics-and-society/c/slovakia-velvet-revolution-poll-disappointment-1989?utm_source=rss&utm_medium=feed&utm_campaign=spectator-rss",
+     "angolo": "",
+     "atlas": "Slovakia",
+     "t": "2026-11-10T20:11+01:00"
+    },
+    {
+     "n": "Expats.cz",
+     "p": "XX",
+     "c": "Praga",
+     "u": "https://www.expats.cz/czech-news/article/bad-timing-or-convenient-getaway-czech-pm-under-fire-for-trip-to-israel-on-velvet-revolution-anniversary",
+     "angolo": "",
+     "atlas": "Czechia",
+     "t": "2026-11-11T13:47+01:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z6eccab52",
+   "sez": "mondo",
+   "titolo": "Timor Est ricorda i 35 anni dal massacro di Santa Cruz",
+   "orig": "Lere Anan Timur Lidera Kalan Reflesaun Ba Eroi Loriku-As’wain Iha Santa Cruz",
+   "lead": "Il generale Lere Anan Timur ha guidato una cerimonia commemorativa presso il cimitero di Santa Cruz per onorare gli eroi caduti nella lotta per l'indipendenza.",
+   "more": [
+    "Il massacro di Santa Cruz avvenne durante l'occupazione indonesiana. È uno dei momenti più tragici della storia nazionale timorense e rimane una data cruciale per la memoria collettiva del Paese."
+   ],
+   "fonti": [
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/jeral-tl/tp-69278/lere-anan-timur-lidera-kalan-reflesaun-ba-eroi-loriku-aswain-iha-santa-cruz/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-11-11T12:35+00:00"
+    },
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/munisipiu/manatuto-munisipiu/tp-69267/governu-abertura-ofisialmente-komemorasaun-loron-nasional-juventude-no-masakre-santa-cruz/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-11-11T08:34+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/policial/explosion-laboratorio-santa-cruz-deja-mujer-fallecida-siete-heridos/20261111084635998974.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-11T08:46-04:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z5c587173",
+   "sez": "mondo",
+   "titolo": "Papa Leone XIV inizia tour latino-americano con implicazioni geopolitiche",
+   "orig": "León XIV y la geopolítica de la fe en América Latina",
+   "lead": "Il primo viaggio pastorale di Papa Leone XIV in America Latina toccherà Uruguay, Argentina e Perù. La visita riveste una significativa carica geopolitica e religiosa in una regione dove le identità politiche e religiose stanno subendo trasformazioni profonde.",
+   "more": [
+    "La gira rappresenta non solo un evento pastorale ma anche un momento cruciale di influenza vaticana nelle dinamiche politiche e sociali dell'America Latina contemporanea."
+   ],
+   "fonti": [
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/opinion/leon-xiv-y-la-geopolitica-de-la-fe-en-america-latina/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-11-11T07:15+00:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/ejecutivo/daniel-noboa-mantiene-su-ranking-entre-presidentes-mejor-valorados-de-america-latina-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-11T14:40+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z06cda05c",
+   "sez": "mondo",
+   "titolo": "Repubblica Centrafricana: campagna gratuita di screening per il cancro della prostata",
+   "orig": "Lutte contre le cancer de la prostate : une campagne de dépistage volontaire et gratuite à Bangui",
+   "lead": "Le organizzazioni umanitarie hanno lanciato a Bangui una campagna di screening volontario e completamente gratuito per il cancro della prostata dal 9 al 15 novembre presso l'Istituto Pasteur. L'iniziativa mira a sensibilizzare la popolazione locale su questa patologia d'importanza sanitaria.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/108424-lutte-contre-le-cancer-de-la-prostate-une-campagne-de-depistage-volontaire-et-gratuite-a-bangui",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-11-11T14:42+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Afrique/lutte-contre-le-terrorisme-ladministration-trump-propose-son-aide-au-mali_n_999003337.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-11T15:43+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z397dd08f",
+   "sez": "mondo",
+   "titolo": "Repubblica Centrafricana: verso la manifestazione contro il carovita",
+   "orig": "Dossier du jour : après l’accord du gouvernement, le BRDC appelle la population à dénoncer la vie chère pendant la marche du 13 novembre",
+   "lead": "Il governo centrafricano ha garantito la sicurezza per la manifestazione prevista il 13 novembre contro il carovita. Il Blocco per la Difesa della Costituzione invita la popolazione a sfruttare l'occasione per reclamare migliori condizioni economiche e sociali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/108428-dossier-du-jour-apres-laccord-du-gouvernement-le-brdc-appelle-la-population-a-denoncer-la-vie-chere-pendant-la-marche-du-13-novembre",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-11-11T14:57+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/programme-simandou-2040-le-gouvernement-et-la-sfi-scellent-un-accord-pour-accelerer-la-mobilisation-des-investissements-prives/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-11T02:50+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z1aae29c3",
+   "sez": "mondo",
+   "titolo": "Messico: Sheinbaum assicura continuità nei rapporti con gli USA",
+   "orig": "Nada cambió con EU tras debacle electoral de Trump, dice Sheinbaum",
+   "lead": "La presidente messicana Claudia Sheinbaum ha affermato che i rapporti con gli Stati Uniti non sono mutati dopo le elezioni intermedie americane che hanno assegnato la maggioranza legislativa ai democratici. Non ci sono indicazioni di significativi cambiamenti nella relazione bilaterale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Jornada",
+     "p": "XX",
+     "c": "Città del Messico",
+     "u": "https://www.jornada.com.mx/2026/11/11/politica/008n1pol?partner=rss",
+     "angolo": "",
+     "atlas": "Mexico",
+     "t": "2026-11-11T09:19+00:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/11/11/sheinbaum-garantiza-elecciones-de-2027-pese-a-recorte-del-presupuesto-en-entidad-electoral/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-11-11T15:55+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z06d00347",
+   "sez": "mondo",
+   "titolo": "G7 lega la ripresa economica della Venezuela alla riconciliazione politica",
+   "orig": "El G7 vincula la recuperación económica con la reconciliación política en Venezuela",
+   "lead": "In una dichiarazione dopo la riunione di Parigi, i ministri degli Esteri del G7 legano il percorso di ripresa economica della Venezuela al raggiungimento di una riconciliazione politica. Tutti i Paesi chiedono a tutte le parti di operare in buona fede per elezioni libere e giuste.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/venezuela/el-g7-vincula-la-recuperacion-economica-con-la-reconciliacion-politica-en-venezuela-3600167",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-11T10:09-05:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/11/el-g7-vincula-la-recuperacion-economica-con-la-reconciliacion-politica-en-venezuela/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-11-11T15:12+00:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17"
+  },
+  {
+   "id": "z4f9b4694",
+   "sez": "prima",
+   "titolo": "Exxon firma memorandum per il ritorno nel petrolio venezuelano",
+   "orig": "De expropiada por Chávez a socia del nuevo poder: Exxon firma su posible regreso al petróleo venezolano",
+   "lead": "La maggiore compagnia petrolifera americana Exxon ha firmato un memorandum d'intesa che le apre la possibilità di valutare opportunità di esplorazione e produzione in Venezuela. Si tratta di un ritorno al Paese dopo l'esproprio del 2007 voluto da Hugo Chávez.",
+   "more": [
+    "Exxon aveva abbandonato il Venezuela nel 2007 quando il governo Chávez modificò i termini delle concessioni nel settore petrolifero. Il nuovo accordo potrebbe segnare un cambiamento di strategie sul dossier energetico venezuelano."
+   ],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/estados-unidos/america-latina/de-expropiada-chavez-socia-del-nuevo-poder-exxon-firma-su-posible-regreso-al-petroleo-venezolano-n6063396",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-11T09:16-03:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/deportes/futbol/seleccion-paraguaya/2026/11/11/mateo-gamarra-y-el-regreso-a-la-seleccion-paraguaya-muy-contento-y-espero-poder-ayudar-al-equipo/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-11-11T15:44+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-11T05:00-05:00"
+    }
+   ],
+   "data": "11 nov",
+   "ora": "17:04",
+   "uscita": "17",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
    "id": "zf8615115",
    "sez": "prima",
    "titolo": "Allarme bomba in decine di scuole italiane, mail minatoria firmata 'Vilayat di Misoginistan'",
@@ -47,6 +1994,186 @@ window.EDIZIONI["2026-11-11-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-11-11T18:58+08:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/allarmi-la-premier-invita-le-opposizioni--8eac3a18-aee2-4b58-9ef0-191ac46b88f3.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T14:45+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-in-oltre-6000-scuole-in-italia-evacuazioni-e-controlli.-meloni-grande_870b0024-72d2-4b15-bab5-0c74dcc1d653.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T16:41+01:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/videogallery/italia/2026/11/11/roma-allarme-bomba-in-diverse-scuole-dopo-una-mail-anonima_27ce0cec-2315-448d-9fe3-30cbd189814b.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T14:10+01:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/11/11/news/allarmi_bomba_scuole_meloni_convoca_riunione_crosetto_cretini-425715367/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T11:28+00:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/cronaca/2026/11/11/diretta/allarme_bomba_scuole_italia_oggi-425715231/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T10:47+00:00"
+    },
+    {
+     "n": "Il Sole 24 Ore",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilsole24ore.com/art/allarme-bomba-decine-scuole-italia-mail-anonima-AJg85ZCC",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T10:34+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/mais-de-300-escolas-italianas-receberam-esta-manha-ameacas-de-bomba_n1778463",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-11T15:22+00:00"
+    },
+    {
+     "n": "Expresso das Ilhas",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://expressodasilhas.cv/mundo/2026/11/11/cerca-de-300-escolas-em-italia-evacuadas-devido-a-ameacas-de-bomba/105489",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-11T15:31+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/article/2026/11/11/en-italie-des-centaines-d-ecoles-evacuees-a-la-suite-de-fausses-alertes-a-la-bombe-des-messages-menacants-envoyes-a-des-etablissements-scolaires-au-royaume-uni_6808968_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-11T13:24+01:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/international/italie-300-etablissements-scolaires-evacues-apres-des-alertes-a-la-bombe-20261111",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-11T16:00+01:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/matoto-la-dce-interdit-les-telephones-dans-les-etablissements-scolaires-note-de-service/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-11T13:30+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/italie-plus-de-300-ecoles-evacuees-apres-des-alertes-a-la-bombe-envoyees-par-e-mail/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-11T12:43+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/bombe-scuole-valditara-no-allarmismo-b609335f-30a0-4e79-a70f-c4fe61b38317.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T13:35+00:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/cronaca/2026/11/11/news/l_ondata_di_allarmi_bomba_colpisce_anche_le_scuole_di_irlanda_del_nord_e_scozia_falsi_allarmi-425715477/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T12:15+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/allarmi-scuole-meloni-stato-e-presente-2b4c3ec3-c6f1-4f7f-9c5f-7b377e095e0e.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T12:05+00:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-irlanda/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-11T13:42+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-11T12:30+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-11T13:43+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3447898/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-11T12:50+01:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/panorama/300-schulen-in-italien-evakuiert-wegen-identischer-bombendrohungen-ld.10060751",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-11T14:37+00:00"
     }
    ],
    "data": "11 nov",
@@ -513,6 +2640,15 @@ window.EDIZIONI["2026-11-11-sera"] = {
      "angolo": "",
      "atlas": "Chad",
      "t": "2026-11-11T09:00+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/environment/2026/nov/11/anthony-albanese-avoids-mention-of-fossil-fuels-in-cop-summit-speech",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-11T13:57+00:00"
     }
    ],
    "data": "11 nov",
@@ -1161,39 +3297,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zc6a0fd6d",
-   "sez": "salute",
-   "titolo": "Il Kenya dimette l'ultimo paziente Ebola e avvia il conto alla rovescia verso lo status di paese libero dal virus",
-   "orig": "Kenya releases last Ebola patient, starts 42-day countdown to disease-free status",
-   "lead": "Il Kenya ha dimesso mercoledì il suo ultimo paziente affetto da Ebola, dando così avvio a un periodo di osservazione di 42 giorni al termine del quale il paese potrà essere dichiarato libero dal virus, ha annunciato il ministro della Salute Aden Duale. Il paese aveva registrato nove casi di Ebola nel mese di ottobre, dopo che il primo paziente aveva viaggiato dal Congo attraverso l'Uganda, trasmettendo il virus a quattro familiari e quattro operatori sanitari. Lo riferisce The Straits Times.",
-   "more": [
-    "L'Ebola è una malattia virale altamente contagiosa e spesso letale, trasmessa tramite contatto con fluidi corporei. Le autorità sanitarie dichiarano un paese libero dal virus solo dopo 42 giorni senza nuovi casi, periodo pari al doppio del tempo massimo di incubazione della malattia, per garantire che l'epidemia sia effettivamente conclusa."
-   ],
-   "fonti": [
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/kenya-releases-last-ebola-patient-starts-42-day-countdown-to-disease-free-status",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-11T17:29+08:00"
-    },
-    {
-     "n": "Stuff NZ",
-     "p": "XX",
-     "c": "Wellington",
-     "u": "https://www.stuff.co.nz/world-news/361058300/kenya-discharges-last-ebola-patient-beginning-countdown-e",
-     "angolo": "",
-     "atlas": "New Zealand",
-     "t": "2026-11-11T09:41+00:00"
-    }
-   ],
-   "data": "11 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
    "id": "z78047bd8",
    "sez": "cultura",
    "titolo": "L'intelligenza artificiale ci ricorda che scrivere è un'arte, osserva una cronista portoghese",
@@ -1409,7 +3512,7 @@ window.EDIZIONI["2026-11-11-sera"] = {
   },
   {
    "id": "z27fab60f",
-   "sez": "economia",
+   "sez": "prima",
    "titolo": "Allarme Federacciai sull'energia, Giorgetti: impossibile competere",
    "orig": "L'allarme di Federacciai per i prezzi dell'energia, Giorgetti: 'C'è attenzione, impossibile competere'",
    "lead": "Federacciai ha lanciato l'allarme per i costi dell'energia che hanno fermato la produzione in molte aziende siderurgiche italiane. Il ministro dell'Economia Giancarlo Giorgetti ha risposto che il governo segue con attenzione la situazione, definendo \"impossibile competere a livello internazionale\" con gli attuali prezzi energetici e sottolineando la necessità di stabilizzare il quadro. Il presidente di Federacciai, Antonio Gozzi Orsini, ha chiesto al Paese una politica industriale di lungo termine. Giorgetti ha aggiunto che la fiducia costruita negli ultimi anni ha aumentato la credibilità internazionale dell'Italia.",
@@ -1438,7 +3541,9 @@ window.EDIZIONI["2026-11-11-sera"] = {
    ],
    "data": "11 nov",
    "ora": "12:35",
-   "uscita": "13"
+   "uscita": "13",
+   "sez_prima": "economia",
+   "riempimento": true
   },
   {
    "id": "z5fc1009a",
@@ -1467,30 +3572,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-11T12:20+01:00"
-    }
-   ],
-   "data": "11 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
-   "id": "zc3a4b9ba",
-   "sez": "economia",
-   "titolo": "ExxonMobil valuta il ritorno in Venezuela",
-   "orig": "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return",
-   "lead": "ExxonMobil, che ha lasciato il Venezuela anni fa, sta valutando un ritorno nel Paese. La compagnia petrolifera ha firmato un memorandum d'intesa con il governo venezuelano e con la compagnia petrolifera statale per esplorare possibili opportunità di investimento. Lo riferisce NPR.",
-   "more": [
-    "Il Venezuela possiede le maggiori riserve di petrolio al mondo, ma la produzione è crollata negli ultimi anni a causa di sanzioni internazionali, crisi economica e mancanza di investimenti nelle infrastrutture energetiche. Diverse grandi compagnie straniere avevano abbandonato il Paese dopo l'imposizione delle sanzioni statunitensi."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-11T05:00-05:00"
     }
    ],
    "data": "11 nov",
@@ -1892,7 +3973,7 @@ window.EDIZIONI["2026-11-11-sera"] = {
   },
   {
    "id": "za59ab53d",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Scontri in Bangladesh durante una protesta dei sostenitori dell'ex premier Hasina",
    "orig": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
    "lead": "Sono scoppiati scontri in Bangladesh durante una manifestazione dei sostenitori dell'ex primo ministro Sheikh Hasina, deposta e in esilio in India. I manifestanti chiedono il suo ritorno nel Paese. Lo riferisce la BBC.",
@@ -1930,7 +4011,9 @@ window.EDIZIONI["2026-11-11-sera"] = {
    ],
    "data": "11 nov",
    "ora": "12:35",
-   "uscita": "13"
+   "uscita": "13",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zcf27c141",
@@ -2440,7 +4523,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "z6b0d9214": "La testata sottolinea la ripartenza del cammino europeo della squadra inglese.",
   "z55fe61f4": "La testata evidenzia il doppio fronte di pressione su Nvidia, commerciale e personale.",
   "z8fd6a5eb": "La testata dà voce alle difficoltà economiche dei lavoratori nonostante la crescita del settore.",
-  "zc6a0fd6d": "La testata segnala il traguardo sanitario raggiunto dal Kenya dopo l'epidemia di ottobre.",
   "z78047bd8": "L'autrice usa la propria rubrica per riflettere sul valore della scrittura umana di fronte all'IA.",
   "z39808141": "La testata riporta il commento ironico di Mosca sulle divisioni diplomatiche europee.",
   "zee06609a": "Il regolatore chiede un ritorno a metodi di valutazione tradizionali per garantire la credibilità dei titoli.",
@@ -2451,7 +4533,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "ze8895e10": "La testata pone la domanda sulla legittimità della prassi senza prendere posizione.",
   "z27fab60f": "ANSA e Il Sole 24 Ore riportano le dichiarazioni di Giorgetti sull'allarme energia lanciato da Federacciai.",
   "z5fc1009a": "Il Sole 24 Ore e Repubblica riportano la correzione dell'Inps sui tempi di applicazione della rivalutazione.",
-  "zc3a4b9ba": "NPR riferisce del memorandum d'intesa firmato da ExxonMobil con il governo venezuelano.",
   "z766d4bfc": "Al Jazeera descrive i termini della disputa legale tra Regno Unito e Argentina sul progetto petrolifero.",
   "z2df3cc57": "Rai News riporta le stime Istat su crescita e inflazione.",
   "zb6db48f5": "Testate ucraine e russe in esilio riportano gli attacchi reciproci con droni nella notte.",
@@ -2472,7 +4553,59 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zaa277262": "Asia-Plus descrive la procedura di controllo adottata dalle autorità doganali uzbeke.",
   "zfa9f6b0a": "The Globe and Mail sottolinea le divisioni interne al Caucus democratico nel definire la nuova struttura di comando",
   "z82826789": "The Globe and Mail evidenzia il conflitto tra il diritto alla difesa legale e le leggi sulla segretezza delle procedure esecutive",
-  "z51a39375": "VnExpress pone l'accento sul rafforzamento dei rapporti diplomatici tra Vietnam e Giappone a livello istituzionale"
+  "z51a39375": "VnExpress pone l'accento sul rafforzamento dei rapporti diplomatici tra Vietnam e Giappone a livello istituzionale",
+  "z15a9ac0f": "Deutsche Welle riporta sia la decisione della corte sia la reazione di Meta, che respinge le accuse.",
+  "z02ac1070": "NPR definisce l'accordo il più grande rilascio umanitario dall'inizio della guerra.",
+  "z04f8d5b6": "Lefaso.net riporta i dati ufficiali del governo burkinabé sulle operazioni di rimpatrio in corso.",
+  "z3eaa3844": "BBC News e Crunchyroll News sottolineano il successo commerciale immediato e l'entusiasmo dei fan al lancio.",
+  "zbc671928": "BBC News e The Guardian riportano sia la reazione di Ross sia il dettaglio dell'inchiesta giornalistica sulle accuse a Walliams.",
+  "zb7c59e4f": "BBC News e Al Jazeera sottolineano il traguardo sanitario e la cautela delle autorità keniane fino alla dichiarazione definitiva.",
+  "zef2829c4": "Post-Courier riporta l'avvio della distribuzione degli aiuti da parte delle autorità provinciali.",
+  "zcd45a6fe": "Turkish Minute, riprendendo Bianet, segnala il cambio di status del protagonista da ristoratore perseguitato a rappresentante diplomatico-commerciale.",
+  "zf1eb216f": "Al Jazeera e Citizen Digital segnalano l'assenza di chiarimenti ufficiali sulle condizioni di Mbappé in vista della partita.",
+  "z87df18db": "Hong Kong Free Press sottolinea la fine di un'icona turistica cittadina dopo oltre due decenni.",
+  "zf91dde13": "OndaRock e Pitchfork sottolineano la rapidità con cui la band pubblica nuova musica legata tra loro concettualmente.",
+  "z6fb0d70e": "Croatia Week evidenzia il ruolo crescente dei visitatori domestici nella crescita del turismo.",
+  "zf0156464": "Gambero Rosso riporta la precisazione della società dopo le critiche ai rendering iniziali.",
+  "z719db533": "Il Consiglio UE comunica il calendario degli incontri istituzionali di metà novembre.",
+  "za0424e42": "Universe Today spiega il fenomeno come un caso di dinamica gravitazionale tra due pianeti nello stesso sistema.",
+  "z26bf8990": "Rappler descrive il cambio di narrazione dei leader alla COP31, che collegano azione climatica e benefici economici.",
+  "z0130b48c": "The Globe and Mail documenta, con dati di approvvigionamento, l'acquisto di chip vietati da parte di un'università cinese legata all'esercito.",
+  "z33eb27cd": "OndaRock conferma la reunion dei Måneskin con l'annuncio delle date al Coachella 2027.",
+  "z7343554e": "Orizzonte Scuola aggiorna l'elenco dei comuni che hanno disposto la chiusura delle scuole per l'allerta meteo.",
+  "z46b5a635": "The BMJ riferisce la sospensione dello sciopero dei medici specialisti dopo l'apertura di negoziati con il governo britannico.",
+  "z9fe5f14f": "Dabanga segnala la distanza tra la crescita dei ricavi dall'oro e le condizioni economiche della popolazione sudanese.",
+  "z8aad9f3d": "STAT presenta un nuovo studio che propone un'alternativa al BMI per diagnosticare l'obesità.",
+  "zb2b5ec83": "La testata evidenzia la crescita degli investimenti del Golfo come segno dei legami economici in espansione con l'Asia Centrale.",
+  "zf88001f8": "La testata evidenzia il forte miglioramento dei conti dell'azienda.",
+  "z4f711186": "La testata mette in luce il contrasto tra il voto degli studenti universitari e il risultato elettorale nazionale.",
+  "zd4809d44": "La testata presenta la piattaforma come uno strumento per ridurre i ritardi burocratici nel settore petrolifero.",
+  "z1c99374a": "La testata sottolinea l'urgenza invocata dal governo per giustificare l'apertura di nuovi crediti.",
+  "z30355f51": "La testata riporta la misura come ritorsione diretta all'espulsione della conduttrice filo-Cremlino.",
+  "zbb2e3ea9": "La testata denuncia il peggioramento delle condizioni di salute del detenuto senza adeguate verifiche medice.",
+  "zda4c4f2a": "La testata presenta la riforma come un passo verso una maggiore partecipazione delle imprese nazionali al settore petrolifero.",
+  "z120d60d5": "La testata evidenzia l'accordo come un passo verso la modernizzazione tecnologica delle reti elettriche regionali.",
+  "zdac84065": "La testata riporta il quotidiano aggiornamento delle quotazioni valutarie.",
+  "z68329acd": "La testata inquadra l'esclusione come un ostacolo alla ricerca di legittimità internazionale della giunta.",
+  "zcb741909": "La testata evidenzia il sostegno istituzionale all'evento sportivo giovanile ospitato dal Senegal.",
+  "ze4e4d1dd": "La testata presenta la restituzione dei terreni come un'azione dell'organismo anticorruzione a favore dei residenti.",
+  "zef7b150d": "La testata propone un itinerario turistico-culturale attraverso i luoghi simbolo della via della seta in Uzbekistan.",
+  "z75a64812": "La testata riporta la decisione come conseguenza del mancato pagamento delle quote da parte di Erevan.",
+  "zd7a6ef0d": "La testata presenta i piani di ammodernamento delle infrastrutture portuali della capitale estone.",
+  "zfc084830": "La testata evidenzia il dettaglio del passaporto usato per l'ingresso nell'isola come elemento dell'inchiesta.",
+  "z98800b37": "La testata evidenzia l'obiettivo di potenziamento del trasporto merci aereo del Paese.",
+  "zd6987a3d": "La testata segnala l'incertezza sulle reali esigenze della popolazione senza fissa dimora della città.",
+  "z8e156b31": "La testata presenta l'iniziativa come misura preventiva in vista delle elezioni del 2027.",
+  "z9c43603f": "La testata evidenzia la portata internazionale della presunta organizzazione criminale scoperta.",
+  "z2303ff0c": "La testata evidenzia l'accusa delle Nazioni Unite a Israele per gli ostacoli al ripristino delle infrastrutture.",
+  "z8fce3824": "Analisi di opinione pubblica sulla valutazione storica della Rivoluzione di Velluto.",
+  "z6eccab52": "Commemorazione della memoria storica di un evento traumatico della lotta per l'autodeterminazione.",
+  "z5c587173": "Analisi del peso geopolitico della presenza vaticana nei processi di trasformazione dell'America Latina.",
+  "z06cda05c": "Iniziativa sanitaria rivolta alla prevenzione di una malattia diffusa in Africa.",
+  "z397dd08f": "Protesta sociale su tematiche economiche e di costo della vita.",
+  "z1aae29c3": "Dichiarazione diplomatica sulla continuità delle relazioni bilaterali nonostante le mutazioni politiche negli USA.",
+  "z06d00347": "Posizionamento internazionale su condizioni per il riconoscimento della normalità democratica venezuelana.",
+  "z4f9b4694": "Analisi del ritorno di investimenti esteri nel settore energetico venezuelano."
  },
  "contesti": {
   "z38970e40": "Thomas Markle era stato arrestato di recente con l'accusa di aver conservato materiale di abuso sessuale su minori in unità di deposito in California. Era stato posto agli arresti domiciliari con braccialetto elettronico in attesa del processo, prima di violare le condizioni rimuovendo il dispositivo.",
@@ -2480,7 +4613,12 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zb8d61d4b": "Nei giorni precedenti il Papa aveva visitato l'Uruguay, dove aveva incontrato autorità religiose e preparato discorsi con l'aiuto di collaboratori. Il viaggio sudamericano prevede tappe in più Paesi, con grande partecipazione popolare in ogni città visitata.",
   "zf8615115": "Negli ultimi giorni la rete scolastica italiana è finita nel mirino di una serie coordinata di falsi allarmi attentato diffusi tramite posta elettronica. Già nelle giornate precedenti, circa 280 dirigenti scolastici avevano ricevuto messaggi minatori dai toni simili, spingendo le forze dell'ordine e la polizia postale ad avviare indagini per procurato allarme. La reiterazione delle minacce, sebbene priva di riscontri operativi sul campo, ha costretto le autorità ad applicare rigorosi protocolli di sicurezza.",
   "zf33b7437": "Nelle ultime settimane il governo è stato impegnato nella definizione della legge di bilancio, cercando coperture per alleggerire la pressione fiscale sulle famiglie senza sforare i vincoli di finanza pubblica. Il dibattito politico si è concentrato sulle imposte di proprietà e sui redditi, con ripetuti confronti tra la maggioranza e le opposizioni. In vista del varo definitivo della manovra, l'esecutivo ha intensificato la comunicazione sui provvedimenti più attesi, tra cui le misure sui trasporti e sui tributi locali.",
-  "z9b7c24c9": "La conferenza sul clima di Antalya si è aperta tra forti tensioni geopolitiche e lo scetticismo per l'assenza dei leader delle maggiori potenze inquinanti. Nelle settimane precedenti al vertice, i rapporti degli scienziati dell'Onu avevano ribadito l'urgenza di tagliare le emissioni climalteranti, mentre i Paesi vulnerabili chiedevano maggiori risorse per l'adattamento. La prima giornata ha impostato l'agenda diplomatica, evidenziando le profonde divisioni sui fondi e sui tempi di uscita dai combustibili fossili."
+  "z9b7c24c9": "La conferenza sul clima di Antalya si è aperta tra forti tensioni geopolitiche e lo scetticismo per l'assenza dei leader delle maggiori potenze inquinanti. Nelle settimane precedenti al vertice, i rapporti degli scienziati dell'Onu avevano ribadito l'urgenza di tagliare le emissioni climalteranti, mentre i Paesi vulnerabili chiedevano maggiori risorse per l'adattamento. La prima giornata ha impostato l'agenda diplomatica, evidenziando le profonde divisioni sui fondi e sui tempi di uscita dai combustibili fossili.",
+  "z30355f51": "Dal 2022 la Russia ha più volte vietato l'ingresso a giornalisti, politici e funzionari europei in risposta a sanzioni, espulsioni o critiche al Cremlino, in un susseguirsi di misure di ritorsione legate alla guerra in Ucraina e alla chiusura dei canali statali russi in Europa, tra cui RT France.",
+  "zbb2e3ea9": "Hussam Abu Safiya, direttore dell'ospedale Kamal Adwan a Gaza, è stato arrestato dalle forze israeliane nel dicembre 2024 durante un'operazione nel nord della Striscia. Da allora è detenuto senza processo, e organizzazioni per i diritti umani denunciano condizioni carcerarie preoccupanti. La vicenda si inserisce nel contesto più ampio della detenzione di decine di operatori sanitari palestinesi, mentre il sistema sanitario di Gaza resta gravemente compromesso dalle ostilità in corso.",
+  "z4f9b4694": "Nel 2007 il governo di Hugo Chávez nazionalizzò i giacimenti petroliferi dell'Orinoco, espropriando le compagnie straniere che non accettavano le nuove condizioni, tra cui Exxon, che intraprese un lungo contenzioso legale internazionale contro Caracas. Negli ultimi anni, con l'allentamento di alcune sanzioni statunitensi e l'apertura di Washington verso il settore energetico venezuelano, altre compagnie come Chevron hanno già ripreso attività nel Paese.",
+  "z27fab60f": "Da tempo l'industria siderurgica italiana ed europea soffre per i costi energetici elevati rispetto a competitor extraeuropei, aggravati dalla crisi energetica post-2022 legata alla guerra in Ucraina e alla riduzione delle forniture di gas russo. Federacciai ha più volte sollecitato interventi pubblici per calmierare le bollette industriali, mentre il governo italiano ha adottato misure temporanee di sostegno senza però risolvere strutturalmente il problema della competitività energetica del settore.",
+  "za59ab53d": "Sheikh Hasina, primo ministro del Bangladesh per quindici anni, è stata rovesciata nell'agosto 2024 da un'ondata di proteste popolari guidate principalmente da studenti, culminate nella sua fuga in India. Da allora il Paese è guidato da un governo interinale guidato da Muhammad Yunus, mentre sostenitori e oppositori di Hasina si confrontano periodicamente in piazza, in un clima politico fortemente polarizzato e teso."
  },
  "cronologie": {
   "z38970e40": [
@@ -2551,6 +4689,80 @@ window.EDIZIONI["2026-11-11-sera"] = {
    [
     "11 novembre",
     "Attacco ucraino a Ust-Luga e allarmi temporanei nello spazio aereo baltico"
+   ]
+  ],
+  "z30355f51": [
+   [
+    "2026-11",
+    "La Francia espelle Xenia Fedorova, ex responsabile di RT France"
+   ],
+   [
+    "2026-11-11",
+    "La Russia vieta l'ingresso a due deputati e due giornalisti francesi"
+   ]
+  ],
+  "zbb2e3ea9": [
+   [
+    "dicembre 2024",
+    "Arresto di Abu Safiya durante un raid israeliano sull'ospedale Kamal Adwan"
+   ],
+   [
+    "2025",
+    "Prosegue la detenzione senza processo; ONG denunciano maltrattamenti"
+   ],
+   [
+    "novembre 2026",
+    "PHRI pubblica referto medico su perdita di peso e anomalie negli esami del sangue"
+   ]
+  ],
+  "z4f9b4694": [
+   [
+    "2007",
+    "Chávez nazionalizza i giacimenti dell'Orinoco, Exxon viene espropriata"
+   ],
+   [
+    "2014-2023",
+    "Contenziosi legali internazionali tra Exxon e Venezuela"
+   ],
+   [
+    "anni recenti",
+    "Washington allenta alcune sanzioni, Chevron riprende operazioni in Venezuela"
+   ],
+   [
+    "novembre 2026",
+    "Exxon firma memorandum d'intesa per valutare ritorno nel settore petrolifero"
+   ]
+  ],
+  "z27fab60f": [
+   [
+    "2022",
+    "Crisi energetica europea innalza drasticamente i costi per l'industria"
+   ],
+   [
+    "anni successivi",
+    "Governo italiano introduce bonus e credito d'imposta energia per le imprese"
+   ],
+   [
+    "novembre 2026",
+    "Federacciai lancia nuovo allarme, Giorgetti ammette difficoltà di competitività"
+   ]
+  ],
+  "za59ab53d": [
+   [
+    "agosto 2024",
+    "Hasina fugge in India dopo le proteste di massa"
+   ],
+   [
+    "agosto 2024",
+    "Si forma un governo interinale guidato da Muhammad Yunus"
+   ],
+   [
+    "2025-2026",
+    "Proseguono manifestazioni periodiche di sostenitori e oppositori di Hasina"
+   ],
+   [
+    "novembre 2026",
+    "Nuovi scontri durante protesta pro-Hasina per il suo ritorno"
    ]
   ]
  },
@@ -2660,6 +4872,65 @@ window.EDIZIONI["2026-11-11-sera"] = {
     }
    ],
    "divergono": "Mentre The Guardian, Turkish Minute e Rappler danno ampio risalto al discorso di Guterres contro le lobby fossili, RNZ Pacific ignora l'intervento del segretario ONU per focalizzarsi sui fondi mancanti alle nazioni insulari e sulla siccità nelle Fiji. Turkish Minute e Rappler mettono in primo piano le defezioni dei leader del G7 e l'impatto dei conflitti internazionali, aspetti non trattati da RNZ Pacific. Rappler e Turkish Minute analizzano criticamente la proposta turca di raggiungere il 35% di elettrificazione entro il 2035, mentre The Guardian trascura questo piano per concentrarsi sulle singole dichiarazioni politiche, come l'accusa di Erdogan relativa a Gaza o l'omissione dei fossili da parte australiana."
+  },
+  "z30355f51": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Riporta il divieto come misura di ritorsione per l'espulsione di Xenia Fedorova, citando la portavoce Zakharova che parla di \"harassment\" contro di lei. Ricorda che Mosca ha già vietato l'ingresso a decine di giornalisti e parlamentari occidentali dal 2022.",
+     "b": "a"
+    },
+    {
+     "n": "Le Monde",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Live molto ampio che integra la notizia nel contesto della guerra in Ucraina, con particolare enfasi perché la propria giornalista Ariane Chemin è colpita dal divieto. Pubblica una condanna ufficiale della redazione, cita reazioni dei deputati Houlié e Delaporte e il sostegno di Glucksmann.",
+     "b": "a"
+    },
+    {
+     "n": "Euronews",
+     "c": "Lione",
+     "p": "XX",
+     "t": "Articolo dettagliato e documentato: cita il documento ufficiale dell'UE su Fedorova, le sanzioni europee di settembre e il congelamento dei beni in Francia da luglio. Ricostruisce il percorso professionale di ciascuno dei quattro colpiti, incluso un libro di Chemin sulla guerra.",
+     "b": "a"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "c": "Cotonou",
+     "p": "XX",
+     "t": "Sintesi informativa che riprende gli elementi principali (motivazione di Zakharova, reazione di Houlié, sanzioni UE a Fedorova) senza aggiungere elementi originali, citando il Journal officiel dell'UE sulle accuse a Fedorova.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le Monde, coinvolto direttamente tramite la sua giornalista Chemin, dedica ampio spazio a reazioni politiche francesi (Houlié, Delaporte, Glucksmann) e a una presa di posizione editoriale di condanna, assente nelle altre testate. Euronews e La Nouvelle Tribune si concentrano maggiormente sul contesto delle sanzioni UE a Fedorova e sui precedenti di ciascun bersaglio francese. Al Jazeera inserisce la vicenda in una cornice più generale, ricordando i numerosi divieti russi contro giornalisti occidentali dal 2022, aspetto non ripreso dalle altre fonti."
+  },
+  "z4f9b4694": {
+   "voci": [
+    {
+     "n": "El Observador",
+     "c": "Montevideo",
+     "p": "XX",
+     "t": "Ricostruisce in dettaglio la storia del memorandum firmato a Caracas da Exxon con governo e Pdvsa, citando Delcy Rodríguez e il segretario Usa Chris Wright, che parla di \"liderazgo\" di Trump. Collega l'accordo alla disputa sull'Esequibo con Guyana e a dati su produzione petrolifera venezuelana.",
+     "b": "a"
+    },
+    {
+     "n": "ABC Color",
+     "c": "Asunción",
+     "p": "XX",
+     "t": "L'articolo fornito non riguarda la notizia sull'accordo Exxon-Venezuela, ma il ritorno in nazionale del calciatore paraguaiano Mateo Gamarra: non è pertinente al confronto richiesto.",
+     "b": "a"
+    },
+    {
+     "n": "NPR",
+     "c": "Washington",
+     "p": "US",
+     "t": "Racconta in modo informativo l'accordo, citando il memorandum come \"non-binding\", le dichiarazioni del CEO Woods (\"uninvestable\") e un esperto (Mahdavi) sull'impatto climatico delle estrazioni nell'Orinoco, oltre a un risarcimento di \"985 milioni\" di dollari deciso da un tribunale Usa.",
+     "b": "a"
+    }
+   ],
+   "divergono": "El Observador approfondisce il contesto politico-geografico, legando l'accordo alla disputa territoriale con Guyana sull'Esequibo e alle riforme interne volute da Delcy Rodríguez, con enfasi sulla narrazione di vittoria politica per Trump tramite le parole di Wright. NPR si concentra invece su aspetti legali e ambientali, citando il risarcimento di 985 milioni di dollari stabilito da un tribunale statunitense e il parere di un accademico sulle emissioni di metano nell'Orinoco, elemento assente in El Observador. ABC Color non tratta la notizia, trattandosi di un articolo su un tema sportivo differente."
   }
  },
  "luoghi": {
@@ -2871,13 +5142,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
    ],
    "pt": []
   },
-  "zc6a0fd6d": {
-   "n": "Nairobi",
-   "p": [
-    "Kenya"
-   ],
-   "pt": []
-  },
   "z78047bd8": {
    "n": "Lisbona",
    "p": [
@@ -2945,13 +5209,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
    "n": "Roma",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "zc3a4b9ba": {
-   "n": "Caracas",
-   "p": [
-    "Venezuela"
    ],
    "pt": []
   },
@@ -3099,6 +5356,368 @@ window.EDIZIONI["2026-11-11-sera"] = {
     "Japan"
    ],
    "pt": []
+  },
+  "z15a9ac0f": {
+   "n": "Brasilia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z02ac1070": {
+   "n": "Abu Dhabi",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z04f8d5b6": {
+   "n": "Bobo-Dioulasso",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "z3eaa3844": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "zbc671928": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zb7c59e4f": {
+   "n": "Kenya",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zef2829c4": {
+   "n": "Eastern Highlands",
+   "p": [
+    "Papua New Guinea"
+   ],
+   "pt": []
+  },
+  "zcd45a6fe": {
+   "n": "Ankara",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "zf1eb216f": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z87df18db": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "zf91dde13": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z6fb0d70e": {
+   "n": "Croazia",
+   "p": [
+    "Croatia"
+   ],
+   "pt": []
+  },
+  "zf0156464": {
+   "n": "Cortina d'Ampezzo",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z719db533": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "za0424e42": {
+   "n": "Sistema extrasolare",
+   "p": [],
+   "pt": []
+  },
+  "z26bf8990": {
+   "n": "Antalya",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z0130b48c": {
+   "n": "Cina",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z33eb27cd": {
+   "n": "Indio, California",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7343554e": {
+   "n": "Liguria e Toscana",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z46b5a635": {
+   "n": "Inghilterra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z9fe5f14f": {
+   "n": "Sudan",
+   "p": [
+    "Sudan"
+   ],
+   "pt": []
+  },
+  "z8aad9f3d": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zb2b5ec83": {
+   "n": "Asia Centrale",
+   "p": [
+    "Kazakhstan"
+   ],
+   "pt": []
+  },
+  "zf88001f8": {
+   "n": "Dubai",
+   "p": [
+    "United Arab Emirates"
+   ],
+   "pt": []
+  },
+  "z4f711186": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zd4809d44": {
+   "n": "Accra",
+   "p": [
+    "Ghana"
+   ],
+   "pt": []
+  },
+  "z1c99374a": {
+   "n": "Bamako",
+   "p": [
+    "Mali"
+   ],
+   "pt": []
+  },
+  "z30355f51": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zbb2e3ea9": {
+   "n": "Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "zda4c4f2a": {
+   "n": "Libreville",
+   "p": [
+    "Gabon"
+   ],
+   "pt": []
+  },
+  "z120d60d5": {
+   "n": "Dushanbe",
+   "p": [
+    "Tajikistan"
+   ],
+   "pt": []
+  },
+  "zdac84065": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z68329acd": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "zcb741909": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "ze4e4d1dd": {
+   "n": "Dodoma",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "zef7b150d": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z75a64812": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zd7a6ef0d": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "zfc084830": {
+   "n": "Taiwan",
+   "p": [
+    "Taiwan"
+   ],
+   "pt": []
+  },
+  "z98800b37": {
+   "n": "Jalal-Abad",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "zd6987a3d": {
+   "n": "Bishkek",
+   "p": [
+    "Kyrgyzstan"
+   ],
+   "pt": []
+  },
+  "z8e156b31": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z9c43603f": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z2303ff0c": {
+   "n": "Gaza",
+   "p": [
+    "Palestine"
+   ],
+   "pt": []
+  },
+  "z8fce3824": {
+   "n": "Slovacchia",
+   "p": [
+    "Slovakia"
+   ],
+   "pt": []
+  },
+  "z6eccab52": {
+   "n": "Dili, Timor Est",
+   "p": [],
+   "pt": []
+  },
+  "z5c587173": {
+   "n": "America Latina",
+   "p": [
+    "Uruguay",
+    "Argentina",
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z06cda05c": {
+   "n": "Bangui, Repubblica Centrafricana",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z397dd08f": {
+   "n": "Bangui, Repubblica Centrafricana",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z1aae29c3": {
+   "n": "Città del Messico, Messico",
+   "p": [
+    "Mexico"
+   ],
+   "pt": []
+  },
+  "z06d00347": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z4f9b4694": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3132,7 +5751,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "z6b0d9214": 1,
   "z55fe61f4": 2,
   "z8fd6a5eb": 1,
-  "zc6a0fd6d": 1,
   "z78047bd8": 1,
   "z39808141": 1,
   "zee06609a": 2,
@@ -3143,7 +5761,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "ze8895e10": 1,
   "z27fab60f": 2,
   "z5fc1009a": 2,
-  "zc3a4b9ba": 1,
   "z766d4bfc": 1,
   "z2df3cc57": 1,
   "zb6db48f5": 3,
@@ -3151,7 +5768,7 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zb74c9ffb": 1,
   "zb33f9e0e": 2,
   "zb010f819": 1,
-  "za59ab53d": 1,
+  "za59ab53d": 2,
   "zcf27c141": 1,
   "zf747585d": 1,
   "z63848263": 2,
@@ -3164,7 +5781,59 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zaa277262": 1,
   "zfa9f6b0a": 1,
   "z82826789": 1,
-  "z51a39375": 1
+  "z51a39375": 1,
+  "z15a9ac0f": 1,
+  "z02ac1070": 2,
+  "z04f8d5b6": 1,
+  "z3eaa3844": 2,
+  "zbc671928": 2,
+  "zb7c59e4f": 2,
+  "zef2829c4": 1,
+  "zcd45a6fe": 1,
+  "zf1eb216f": 1,
+  "z87df18db": 1,
+  "zf91dde13": 1,
+  "z6fb0d70e": 1,
+  "zf0156464": 1,
+  "z719db533": 1,
+  "za0424e42": 1,
+  "z26bf8990": 2,
+  "z0130b48c": 2,
+  "z33eb27cd": 2,
+  "z7343554e": 1,
+  "z46b5a635": 2,
+  "z9fe5f14f": 1,
+  "z8aad9f3d": 1,
+  "zb2b5ec83": 1,
+  "zf88001f8": 1,
+  "z4f711186": 1,
+  "zd4809d44": 1,
+  "z1c99374a": 1,
+  "z30355f51": 2,
+  "zbb2e3ea9": 2,
+  "zda4c4f2a": 1,
+  "z120d60d5": 1,
+  "zdac84065": 1,
+  "z68329acd": 2,
+  "zcb741909": 1,
+  "ze4e4d1dd": 1,
+  "zef7b150d": 1,
+  "z75a64812": 2,
+  "zd7a6ef0d": 1,
+  "zfc084830": 1,
+  "z98800b37": 1,
+  "zd6987a3d": 1,
+  "z8e156b31": 1,
+  "z9c43603f": 1,
+  "z2303ff0c": 1,
+  "z8fce3824": 2,
+  "z6eccab52": 2,
+  "z5c587173": 2,
+  "z06cda05c": 1,
+  "z397dd08f": 1,
+  "z1aae29c3": 2,
+  "z06d00347": 2,
+  "z4f9b4694": 2
  },
  "video": {},
  "pillole": []
