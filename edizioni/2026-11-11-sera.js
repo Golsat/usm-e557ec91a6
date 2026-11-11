@@ -3,30 +3,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z15a9ac0f",
-   "sez": "mondo",
-   "titolo": "Corte elettorale brasiliana multa Meta, nessuna prova di parzialità deliberata",
-   "orig": "Brazil electoral court fines Meta, sees no deliberate election bias",
-   "lead": "La corte elettorale brasiliana ha multato Meta dopo un reclamo presentato dalla coalizione del presidente Lula da Silva, ma ha stabilito che non ci sono prove di un'intenzione deliberata di influenzare le elezioni. Meta ha annunciato che si difenderà contro quelle che definisce \"false accuse\". Lo riferisce Deutsche Welle.",
-   "more": [
-    "In Brasile la corte elettorale superiore ha il compito di vigilare sulla correttezza dei processi elettorali, inclusa la condotta delle piattaforme digitali durante le campagne. Negli ultimi anni Meta e altre big tech sono state più volte oggetto di indagini in diversi paesi per il ruolo degli algoritmi e della moderazione dei contenuti nella diffusione di informazioni politiche."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-11T15:17+00:00"
-    }
-   ],
-   "data": "11 nov",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
    "id": "z02ac1070",
    "sez": "mondo",
    "titolo": "Russia e Ucraina concordano un grande scambio di prigionieri di guerra",
@@ -419,40 +395,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
     }
    ],
    "data": "11 nov",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
-   "id": "z87df18db",
-   "sez": "viaggi",
-   "titolo": "Hong Kong spegne per sempre lo spettacolo \"A Symphony of Lights\" dopo 22 anni",
-   "orig": "‘A Symphony of Lights’ to dim for good next Wednesday after 22-year run",
-   "lead": "Lo spettacolo di luci e suoni \"A Symphony of Lights\", che da 22 anni illumina ogni sera per dieci minuti lo skyline di Hong Kong, andrà in scena per l'ultima volta mercoledì prossimo. L'annuncio è stato dato dal presidente dell'Hong Kong Tourism Board, Peter Lam, durante una conferenza stampa. Lo riferisce Hong Kong Free Press.",
-   "more": [
-    "\"A Symphony of Lights\" è uno spettacolo multimediale che coinvolge i grattacieli del porto di Hong Kong, illuminati e sincronizzati con musica e narrazione, diventato negli anni una delle principali attrazioni turistiche della città e un simbolo del suo skyline notturno."
-   ],
-   "fonti": [
-    {
-     "n": "Hong Kong Free Press",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://hongkongfp.com/2026/11/11/a-symphony-of-lights-to-dim-for-good-next-wednesday-after-22-year-run/",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-11-11T09:25+00:00"
-    },
-    {
-     "n": "Good News Network",
-     "p": "US",
-     "c": "Stati Uniti",
-     "u": "https://www.goodnewsnetwork.org/paralyzed-woman-promised-to-return-and-play-piano-for-rehab-patients-she-kept-her-word/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-11T12:30+00:00"
-    }
-   ],
-   "data": "11 nov",
-   "good": true,
    "ora": "17:04",
    "uscita": "17"
   },
@@ -1667,6 +1609,15 @@ window.EDIZIONI["2026-11-11-sera"] = {
      "angolo": "",
      "atlas": "Morocco",
      "t": "2026-11-11T12:00+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-11T10:12+00:00"
     }
    ],
    "data": "11 nov",
@@ -1783,7 +1734,7 @@ window.EDIZIONI["2026-11-11-sera"] = {
   },
   {
    "id": "z06cda05c",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Repubblica Centrafricana: campagna gratuita di screening per il cancro della prostata",
    "orig": "Lutte contre le cancer de la prostate : une campagne de dépistage volontaire et gratuite à Bangui",
    "lead": "Le organizzazioni umanitarie hanno lanciato a Bangui una campagna di screening volontario e completamente gratuito per il cancro della prostata dal 9 al 15 novembre presso l'Istituto Pasteur. L'iniziativa mira a sensibilizzare la popolazione locale su questa patologia d'importanza sanitaria.",
@@ -2257,30 +2208,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-11T09:09+00:00"
-    }
-   ],
-   "data": "11 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
-   "id": "z4a46b1fb",
-   "sez": "mondo",
-   "titolo": "A Gaza il crollo delle infrastrutture lascia gli abitanti senza difese contro le inondazioni",
-   "orig": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
-   "lead": "A Gaza il maltempo invernale continua a creare danni, con inondazioni e forti venti che colpiscono una popolazione già priva di infrastrutture funzionanti. Il collasso dei sistemi di drenaggio e delle strutture urbane, dovuto ai mesi di conflitto, lascia i residenti senza protezione dalle intemperie. Le condizioni meteorologiche aggravano una situazione umanitaria già critica nella Striscia. Lo riferisce Al Jazeera.",
-   "more": [
-    "La Striscia di Gaza ha subito danni estesi alle infrastrutture civili durante il conflitto in corso, comprese reti idriche, fognarie e stradali. L'assenza di sistemi di drenaggio funzionanti rende la popolazione particolarmente vulnerabile alle piogge invernali, aggravando le condizioni di vita di centinaia di migliaia di sfollati."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-11T10:12+00:00"
     }
    ],
    "data": "11 nov",
@@ -4497,7 +4424,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zf33b7437": "ANSA e Rai News riportano le dichiarazioni della premier sulla manovra e sul confronto politico con la sinistra.",
   "z282b3d53": "The Guardian collega l'investimento eolico al tentativo del governo di bilanciare le critiche per l'approvazione del gasfield Jackdaw.",
   "z20101936": "The Guardian riporta in esclusiva l'avvertimento del ministro britannico sulla sicurezza nazionale legata al clima.",
-  "z4a46b1fb": "Al Jazeera documenta l'impatto del maltempo sulla popolazione di Gaza priva di infrastrutture funzionanti.",
   "z69e4bec0": "la Repubblica evidenzia l'aumento delle spese militari legate alla guerra in Ucraina.",
   "za5b906b9": "Deutsche Welle collega l'aumento delle molestie online contro le donne mediorientali alla diffusione dell'IA.",
   "z38970e40": "Più testate internazionali riportano l'arresto rinnovato del padre di Meghan Markle per violazione della detenzione domiciliare.",
@@ -4554,7 +4480,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zfa9f6b0a": "The Globe and Mail sottolinea le divisioni interne al Caucus democratico nel definire la nuova struttura di comando",
   "z82826789": "The Globe and Mail evidenzia il conflitto tra il diritto alla difesa legale e le leggi sulla segretezza delle procedure esecutive",
   "z51a39375": "VnExpress pone l'accento sul rafforzamento dei rapporti diplomatici tra Vietnam e Giappone a livello istituzionale",
-  "z15a9ac0f": "Deutsche Welle riporta sia la decisione della corte sia la reazione di Meta, che respinge le accuse.",
   "z02ac1070": "NPR definisce l'accordo il più grande rilascio umanitario dall'inizio della guerra.",
   "z04f8d5b6": "Lefaso.net riporta i dati ufficiali del governo burkinabé sulle operazioni di rimpatrio in corso.",
   "z3eaa3844": "BBC News e Crunchyroll News sottolineano il successo commerciale immediato e l'entusiasmo dei fan al lancio.",
@@ -4563,7 +4488,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zef2829c4": "Post-Courier riporta l'avvio della distribuzione degli aiuti da parte delle autorità provinciali.",
   "zcd45a6fe": "Turkish Minute, riprendendo Bianet, segnala il cambio di status del protagonista da ristoratore perseguitato a rappresentante diplomatico-commerciale.",
   "zf1eb216f": "Al Jazeera e Citizen Digital segnalano l'assenza di chiarimenti ufficiali sulle condizioni di Mbappé in vista della partita.",
-  "z87df18db": "Hong Kong Free Press sottolinea la fine di un'icona turistica cittadina dopo oltre due decenni.",
   "zf91dde13": "OndaRock e Pitchfork sottolineano la rapidità con cui la band pubblica nuova musica legata tra loro concettualmente.",
   "z6fb0d70e": "Croatia Week evidenzia il ruolo crescente dei visitatori domestici nella crescita del turismo.",
   "zf0156464": "Gambero Rosso riporta la precisazione della società dopo le critiche ai rendering iniziali.",
@@ -4962,13 +4886,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
    ],
    "pt": []
   },
-  "z4a46b1fb": {
-   "n": "Striscia di Gaza",
-   "p": [
-    "Palestine"
-   ],
-   "pt": []
-  },
   "z69e4bec0": {
    "n": "Roma",
    "p": [
@@ -5357,13 +5274,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
    ],
    "pt": []
   },
-  "z15a9ac0f": {
-   "n": "Brasilia",
-   "p": [
-    "Brazil"
-   ],
-   "pt": []
-  },
   "z02ac1070": {
    "n": "Abu Dhabi",
    "p": [
@@ -5417,13 +5327,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
    "n": "Francia",
    "p": [
     "France"
-   ],
-   "pt": []
-  },
-  "z87df18db": {
-   "n": "Hong Kong",
-   "p": [
-    "Hong Kong"
    ],
    "pt": []
   },
@@ -5725,7 +5628,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zf33b7437": 2,
   "z282b3d53": 1,
   "z20101936": 1,
-  "z4a46b1fb": 1,
   "z69e4bec0": 1,
   "za5b906b9": 1,
   "z38970e40": 2,
@@ -5782,7 +5684,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zfa9f6b0a": 1,
   "z82826789": 1,
   "z51a39375": 1,
-  "z15a9ac0f": 1,
   "z02ac1070": 2,
   "z04f8d5b6": 1,
   "z3eaa3844": 2,
@@ -5791,7 +5692,6 @@ window.EDIZIONI["2026-11-11-sera"] = {
   "zef2829c4": 1,
   "zcd45a6fe": 1,
   "zf1eb216f": 1,
-  "z87df18db": 1,
   "zf91dde13": 1,
   "z6fb0d70e": 1,
   "zf0156464": 1,
