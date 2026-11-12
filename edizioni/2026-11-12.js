@@ -393,7 +393,7 @@ window.EDIZIONI["2026-11-12"] = {
   },
   {
    "id": "zf6dbd3f4",
-   "sez": "organizzazioni",
+   "sez": "ambiente",
    "titolo": "AIEA: sette modi in cui la scienza nucleare protegge l'ambiente",
    "orig": "Seven Ways Nuclear Science and Technology Help Protect the Environment",
    "lead": "L'Agenzia internazionale per l'energia atomica (AIEA) ha pubblicato un elenco di sette modi in cui la scienza e la tecnologia nucleare contribuiscono a proteggere l'ambiente, mentre questa settimana si svolge ad Antalya, in Turchia, la COP31 sul clima. Il documento arriva nel contesto dell'incontro che riunisce leader globali, organizzazioni internazionali, scienziati, rappresentanti del mondo degli affari e della società civile. Lo riferisce l'AIEA.",
@@ -774,30 +774,6 @@ window.EDIZIONI["2026-11-12"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-11T10:52+00:00"
-    }
-   ],
-   "data": "11 nov",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
-   "id": "zad18dd6a",
-   "sez": "organizzazioni",
-   "titolo": "Riunione della Comunità politica europea e incontro informale dei capi di Stato e di governo",
-   "orig": "Media advisory - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026",
-   "lead": "Il Consiglio dell'Unione europea ha diffuso un avviso ai media sulla riunione della Comunità politica europea, in programma il 12 novembre 2026, e sull'incontro informale dei capi di Stato o di governo del 13 novembre 2026. L'avviso indica i principali punti all'ordine del giorno, gli orari approssimativi, le sessioni pubbliche e le opportunità per la stampa. Lo riferisce il Consiglio dell'Unione europea.",
-   "more": [
-    "La Comunità politica europea è un forum di dialogo creato nel 2022 che riunisce leader di paesi europei, membri e non membri dell'UE, per discutere temi di sicurezza, stabilità e cooperazione continentale, al di fuori delle istituzioni formali dell'Unione."
-   ],
-   "fonti": [
-    {
-     "n": "Consiglio dell'Unione europea",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-11-11T18:20+01:00"
     }
    ],
    "data": "11 nov",
@@ -2164,6 +2140,15 @@ window.EDIZIONI["2026-11-12"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-11-12T04:44+00:00"
+    },
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-11T18:20+01:00"
     }
    ],
    "data": "12 nov",
@@ -2981,7 +2966,6 @@ window.EDIZIONI["2026-11-12"] = {
   "z3da71a80": "St. Lucia Times annuncia la composizione della squadra nazionale per il torneo.",
   "ze4a1210b": "Anime News Network e Crunchyroll News riportano i dettagli del nuovo adattamento animato.",
   "z389a2c68": "Designboom e Wallpaper* descrivono l'installazione come un ponte tra architettura da fiera e design del suono.",
-  "zad18dd6a": "Il Consiglio dell'Unione europea fornisce informazioni logistiche e di agenda per la stampa.",
   "zc8282504": "La NASA documenta il fenomeno celeste con l'immagine astronomica del giorno.",
   "zf51859e2": "RTÉ News analizza nel dettaglio il contenuto della bozza di accordo salariale.",
   "z47758c41": "NPR racconta l'iniziativa di attivismo giovanile per la mobilità sostenibile.",
@@ -3547,13 +3531,6 @@ window.EDIZIONI["2026-11-12"] = {
    ],
    "pt": []
   },
-  "zad18dd6a": {
-   "n": "Bruxelles",
-   "p": [
-    "Belgium"
-   ],
-   "pt": []
-  },
   "zc8282504": {
    "n": "Internazionale",
    "p": [
@@ -3904,7 +3881,6 @@ window.EDIZIONI["2026-11-12"] = {
   "z3da71a80": 1,
   "ze4a1210b": 1,
   "z389a2c68": 1,
-  "zad18dd6a": 1,
   "zc8282504": 1,
   "zf51859e2": 1,
   "z47758c41": 1,
