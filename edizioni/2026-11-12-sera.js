@@ -85,7 +85,7 @@ window.EDIZIONI["2026-11-12-sera"] = {
   },
   {
    "id": "z677941d4",
-   "sez": "italia",
+   "sez": "economia",
    "titolo": "Banche, Messina attacca il governo: 'misure sudamericane'",
    "orig": "Banche, l’affondo di Messina contro il governo: “Misure sudamericane, pretendiamo rispetto”",
    "lead": "Davanti alla Commissione parlamentare, l'amministratore delegato di Intesa Sanpaolo Carlo Messina ha attaccato duramente il governo italiano per le nuove imposte previste sulle banche, definendole 'misure sudamericane' e chiedendo rispetto per il settore. Messina ha annunciato che l'istituto farà ricorso alla Corte Costituzionale e ha avvertito che la misura rischia di provocare un cross default sul debito pubblico italiano, di cui le banche sono i primi investitori. Le dichiarazioni arrivano nel pieno del confronto sulla legge di bilancio, che prevede nuovi prelievi fiscali sul settore bancario.",
@@ -191,30 +191,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-12T13:40+00:00"
-    }
-   ],
-   "data": "12 nov",
-   "ora": "17:07",
-   "uscita": "17"
-  },
-  {
-   "id": "z2e594951",
-   "sez": "mondo",
-   "titolo": "Indonesia, il vicepresidente si dimette tra dubbi sulla sua eleggibilità",
-   "orig": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
-   "lead": "Il vicepresidente dell'Indonesia si è dimesso dopo che la sua eleggibilità e i suoi titoli accademici erano stati messi in discussione. Gibran Rakabuming Raka, figlio dell'ex presidente Joko Widodo, aveva presentato documenti relativi a un periodo di studio all'estero che, secondo le sentenze della Corte Costituzionale e della Corte Suprema emesse il mese scorso, non soddisfacevano i requisiti elettorali richiesti. Le dimissioni arrivano dopo settimane di pressioni legali sulla legittimità della sua carica. Lo riferisce NPR.",
-   "more": [
-    "Gibran Rakabuming Raka era stato eletto vicepresidente dell'Indonesia nel 2024 insieme al presidente Prabowo Subianto, nonostante le polemiche sulla sua giovane età e sui requisiti di candidatura. Il caso ha riacceso il dibattito sul ruolo della famiglia dell'ex presidente Widodo nella politica del paese."
-   ],
-   "fonti": [
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-12T09:22-05:00"
     }
    ],
    "data": "12 nov",
@@ -877,39 +853,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
      "angolo": "",
      "atlas": "Moldova",
      "t": "2026-11-12T14:16+00:00"
-    }
-   ],
-   "data": "12 nov",
-   "ora": "17:07",
-   "uscita": "17"
-  },
-  {
-   "id": "z3596f3a7",
-   "sez": "organizzazioni",
-   "titolo": "Comunità politica europea, nona riunione a Dublino",
-   "orig": "Opening remarks by President António Costa at the meeting of the European Political Community in Dublin",
-   "lead": "Il presidente del Consiglio europeo António Costa ha co-presieduto il 12 novembre 2026 a Dublino la nona riunione della Comunità politica europea, un formato di cooperazione che riunisce leader europei anche fuori dall'Unione. Tra i partecipanti anche il primo ministro georgiano Irakli Kobakhidze, accompagnato dalla ministra degli Esteri Maka Botchorishvili e da una delegazione governativa. Lo riferisce il Consiglio dell'Unione europea.",
-   "more": [
-    "La Comunità politica europea è un forum intergovernativo lanciato nel 2022 per rafforzare il dialogo politico tra Paesi dell'UE e Stati europei non membri, su temi come sicurezza, energia e stabilità del continente, in risposta alle tensioni geopolitiche successive all'invasione russa dell'Ucraina."
-   ],
-   "fonti": [
-    {
-     "n": "Consiglio dell'Unione europea",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/opening-remarks-by-president-antonio-costa-at-the-meeting-of-the-european-political-community-in-dublin/",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-11-12T13:25+01:00"
-    },
-    {
-     "n": "Civil.ge",
-     "p": "XX",
-     "c": "Tbilisi",
-     "u": "https://civil.ge/archives/759923",
-     "angolo": "",
-     "atlas": "Georgia",
-     "t": "2026-11-12T08:53+00:00"
     }
    ],
    "data": "12 nov",
@@ -4488,6 +4431,15 @@ window.EDIZIONI["2026-11-12-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-12T08:46+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-12T09:22-05:00"
     }
    ],
    "data": "12 nov",
@@ -4875,7 +4827,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
   "z6ae9d082": "la Repubblica denuncia la scarsa preparazione dell'Italia di fronte alla guerra ibrida.",
   "z92b38004": "ANSA elenca i 16 nuovi ristoranti stellati della Guida Michelin in Italia.",
   "z3620f5a4": "Rai News riporta i dati del rapporto Caritas sulla povertà in Italia.",
-  "z2e594951": "NPR riporta le dimissioni del vicepresidente indonesiano dopo le sentenze sulla sua eleggibilità.",
   "z759493c7": "la Repubblica descrive il debutto in borsa di Anthropic come una scommessa finanziaria e filosofica.",
   "za69d7363": "Vatican News racconta storie di missionari italiani che vivono a Lima nell'ambito della visita del Papa.",
   "z0f9c9c10": "Al Jazeera e Dawn riportano il rilascio di due sorelle di Imran Khan dal carcere di Lahore.",
@@ -4891,7 +4842,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
   "zeeee06d5": "Il Messaggero racconta l'arrivo in Giappone del ciclista italiano al termine di un viaggio intercontinentale.",
   "z9f0281e5": "Le testate riportano risultati sportivi e commenti sull'organizzazione dei Giochi olimpici giovanili di Dakar 2026.",
   "z530359d2": "LSM riporta i dati finanziari trimestrali diffusi dalla banca.",
-  "z3596f3a7": "Il Consiglio dell'UE annuncia l'apertura del summit con il discorso del presidente Costa.",
   "z4e4ad938": "Orizzonte Scuola presenta la proposta sindacale di un fondo unico per il finanziamento della scuola.",
   "z2d26beea": "Rolling Stone Italia presenta il programma completo della rassegna musicale.",
   "z22f7d066": "La NASA mostra una selezione di immagini Hubble a scopo scientifico e divulgativo.",
@@ -5821,13 +5771,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
    ],
    "pt": []
   },
-  "z2e594951": {
-   "n": "Giacarta",
-   "p": [
-    "Indonesia"
-   ],
-   "pt": []
-  },
   "z759493c7": {
    "n": "New York",
    "p": [
@@ -5930,13 +5873,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
    "n": "Riga",
    "p": [
     "Latvia"
-   ],
-   "pt": []
-  },
-  "z3596f3a7": {
-   "n": "Dublino",
-   "p": [
-    "Ireland"
    ],
    "pt": []
   },
@@ -6346,7 +6282,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
   "z6ae9d082": 1,
   "z92b38004": 2,
   "z3620f5a4": 1,
-  "z2e594951": 1,
   "z759493c7": 2,
   "za69d7363": 2,
   "z0f9c9c10": 2,
@@ -6362,7 +6297,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
   "zeeee06d5": 1,
   "z9f0281e5": 2,
   "z530359d2": 1,
-  "z3596f3a7": 1,
   "z4e4ad938": 1,
   "z2d26beea": 1,
   "z22f7d066": 1,
