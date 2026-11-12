@@ -71,86 +71,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z416e0b39",
-   "sez": "prima",
-   "titolo": "Allarmi bomba nelle scuole, le indagini arrivano fino a Taipei",
-   "orig": "Allarmi bomba nelle scuole, indaga anche Taipei. L’ateneo: “E-mail partita da un nostro account”",
-   "lead": "Le indagini sugli allarmi bomba che hanno colpito migliaia di scuole in Italia, Scozia, Irlanda e altri Paesi hanno portato all'università di Da-Yeh, a Taiwan, da cui risulta partita una delle email. L'istituto taiwanese ha confermato che il messaggio è partito da un proprio account di posta elettronica, ma non è chiaro se si tratti di un attacco diretto o di un account compromesso. In Italia il governo ha convocato una riunione del Comitato per la sicurezza della Repubblica per definire un protocollo comune di gestione degli allarmi nelle scuole.",
-   "more": [
-    "Gli allarmi bomba via email possono originare da account compromessi o server usati come ponte per nascondere la vera provenienza. Le autorità verificano se si tratti di un'azione coordinata o di episodi isolati, mentre si discute di standardizzare le procedure di evacuazione nelle scuole italiane."
-   ],
-   "fonti": [
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/cronaca/2026/11/12/news/allarmi_bomba_scuole_taipei_universita_da-yeh_taiwan-425717663/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T09:21+00:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/sgomberi-per-allarmi-bombe-mail-non-basta-b61c1dfa-76a4-4495-aa6a-a11b0445658c.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T10:25+00:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/cronaca/2026/11/12/diretta/allarme_bomba_scuole_italia_oggi-425717828/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T09:58+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-nelle-scuole-controlli-e-evacuazioni_97a3c6b7-93f4-44a2-940b-dd33198f2f91.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T12:17+01:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/politica/2026/11/12/news/leader_opposizioni_palazzo_chigi_meloni_attacchi_hacker-425717289/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T08:09+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T12:17+01:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/hacker-pchigi-condividere-informazioni--f7d51b3d-df25-4f08-91d7-89835a31db2e.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T08:30+00:00"
-    }
-   ],
-   "data": "12 nov",
-   "ora": "12:35",
-   "uscita": "13",
-   "sez_prima": "italia",
-   "riempimento": true
-  },
-  {
    "id": "z919b3249",
    "sez": "sport",
    "titolo": "Il Manchester United licenzia Michael Carrick da allenatore",
@@ -212,6 +132,15 @@ window.EDIZIONI["2026-11-12-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-12T06:34+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/piogge-e-frane-in-toscana-100-evacuati-9ac5fef9-bae7-4215-91c6-a41593b4e944.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-12T10:00+00:00"
     }
    ],
    "data": "12 nov",
@@ -809,28 +738,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-08T07:20-08:00"
-    }
-   ],
-   "data": "12 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
-   "id": "z296b0be8",
-   "sez": "italia",
-   "titolo": "Piogge e frane in Toscana, cento persone evacuate",
-   "orig": "Piogge e frane in Toscana, 100 evacuati",
-   "lead": "Una perturbazione atlantica ha colpito il centro Italia, provocando piogge intense e frane in Toscana che hanno costretto all'evacuazione di circa cento persone. Le temperature sono inoltre in calo nella regione. Lo riferisce Rai News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/piogge-e-frane-in-toscana-100-evacuati-9ac5fef9-bae7-4215-91c6-a41593b4e944.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T10:00+00:00"
     }
    ],
    "data": "12 nov",
@@ -2490,7 +2397,7 @@ window.EDIZIONI["2026-11-12-sera"] = {
   },
   {
    "id": "z9e209404",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Stoccolma, Fritz batte Norrie e accede ai quarti di finale",
    "orig": "Fritz derrota a Norrie para alcanzar los cuartos de final en Estocolmo",
    "lead": "Il tennista americano Taylor Fritz, che si è affermato come principale candidato al titolo nel torneo in corso a Stoccolma, in Svezia, ha sconfitto Norrie nel match di qualificazione ai quarti di finale del torneo tennistico. Lo riferisce ABC Color.",
@@ -2522,7 +2429,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
  "quiz": [],
  "sguardi": {
   "z708bf74e": "BBC News sottolinea che nel pomeriggio gli inviati raggiungeranno Zelensky a Dublino.",
-  "z416e0b39": "Rai News riporta che le amministrazioni chiedono un protocollo comune, perché la sola email non basta a giustificare l'evacuazione.",
   "z919b3249": "Al Jazeera ricorda che Carrick ha ottenuto tre vittorie in tutte le competizioni.",
   "z37571025": "Al Jazeera riporta le dichiarazioni di Xi Jinping sulla riunificazione pacifica.",
   "zf78a3e2b": "la Repubblica segnala che il Serchio ha invaso una statale nella zona di Lucca.",
@@ -2541,7 +2447,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
   "zcf8560b2": "Phys.org definisce l'ispezione un'analisi approfondita degli effetti dell'impatto del 2022.",
   "z3070a291": "Medical Xpress sottolinea l'aumento dell'attenzione in vista delle festività natalizie.",
   "za936668a": "Anime News Network indica gennaio come mese di debutto della serie.",
-  "z296b0be8": "Rai News quantifica in cento le persone evacuate.",
   "z087da3dd": "Dezeen presenta il progetto come esempio di architettura sostenibile basata sul riuso di materiali.",
   "zad36b127": "Gambero Rosso informa i produttori sulle espressioni da evitare per non incorrere in sanzioni previste dalla nuova direttiva Ue.",
   "z3760c54e": "Nippon.com segnala come principale novità l'aumento dell'uso dell'IA generativa anche tra gli utenti più anziani.",
@@ -2599,7 +2504,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
   "z708bf74e": "Da settimane gli Stati Uniti mediano tra Russia e Ucraina per un accordo di pace, con proposte discusse nei mesi scorsi e colloqui a più riprese tra le parti, mentre gli alleati europei chiedono di essere coinvolti nelle trattative sul futuro dell'Ucraina.",
   "zabd385a8": "Pete Hegseth, segretario alla Difesa dell'amministrazione Trump, è già stato al centro di polemiche nelle settimane scorse, con un tentativo di impeachment promosso da una parte dei repubblicani e una conferenza stampa molto commentata dai media per difendersi dalle accuse.",
   "z51d63d1a": "Negli ultimi mesi le tensioni tra Iran e Stati Uniti nel Golfo Persico sono aumentate, con incidenti ripetuti nello Stretto di Hormuz e minacce reciproche riguardanti il controllo del traffico marittimo e le operazioni militari nella regione.",
-  "z416e0b39": "Nelle ultime settimane migliaia di scuole in Italia, Scozia, Irlanda e altri Paesi europei hanno ricevuto allarmi bomba via email, costringendo a evacuazioni e chiusure precauzionali. Le autorità hanno avviato indagini internazionali per rintracciare l'origine dei messaggi, coordinandosi tra forze dell'ordine di diversi Paesi, mentre i governi hanno rafforzato i protocolli di sicurezza scolastica in attesa di individuare i responsabili degli invii.",
   "z1bf70f6a": "Slovyansk, nel Donetsk, è da mesi sotto pressione costante dell'offensiva russa nel fronte orientale ucraino, con bombardamenti quasi quotidiani che hanno svuotato la città, oggi abitata da meno del 10% della popolazione prebellica. Le forze ucraine difendono la zona anche grazie a unità specializzate in drone, che negli ultimi mesi hanno sviluppato nuove tecniche per colpire il nemico e per evacuare i soldati feriti sotto il fuoco, estendendo ora l'esperienza anche alla regione di Kharkiv.",
   "z71252bf5": "Il governo lavora da settimane alla Manovra 2027, che prevede una revisione del meccanismo di rivalutazione delle pensioni legato all'inflazione. Palazzo Chigi e la Ragioneria generale dello Stato hanno confrontato posizioni diverse su tempi e modalità di applicazione, mentre in Parlamento si discute di differenziare l'aliquota tra pensioni medie e quelle più alte. L'Inps aveva inizialmente fissato tempistiche diverse, poi rivisto dopo le pressioni politiche.",
   "zae47aa11": "Negli ultimi giorni erano circolate crescenti speculazioni sul futuro politico del vicepresidente indonesiano Gibran Rakabuming Raka, figlio dell'ex presidente Joko Widodo, in un contesto di tensioni interne alla coalizione di governo guidata da Prabowo Subianto. Le voci su un possibile cambio ai vertici dell'esecutivo si erano intensificate, alimentando incertezza politica, mentre Jokowi aveva mantenuto fino a poco prima un atteggiamento ambiguo sul proprio allineamento politico."
@@ -2623,24 +2527,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
    [
     "2026-11-12",
     "Diffusione del video del rimprovero della sentinella"
-   ]
-  ],
-  "z416e0b39": [
-   [
-    "Fine ottobre",
-    "Prime ondate di allarmi bomba via email in scuole italiane e britanniche"
-   ],
-   [
-    "Inizio novembre",
-    "Evacuazioni di massa in Scozia e Irlanda, indagini aperte dalle polizie locali"
-   ],
-   [
-    "Giorni scorsi",
-    "Le indagini internazionali risalgono a un account dell'università di Da-Yeh a Taiwan"
-   ],
-   [
-    "12 novembre",
-    "Il governo italiano convoca il Comitato per la sicurezza della Repubblica"
    ]
   ],
   "z1bf70f6a": [
@@ -2739,46 +2625,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
    ],
    "divergono": "BBC e Deutsche Welle concordano sui fatti principali (arrivo a Mosca, tappa a Dublino, polemica su Starshield), ma Deutsche Welle aggiunge elementi assenti in BBC, come i dati trapelati di Rosstat sulle perdite russe e l'autobomba di San Pietroburgo. Rai News e il Consiglio UE non sono valutabili nel merito perché i testi non sono leggibili. L'articolo di 3News non tratta affatto la notizia indicata, riguardando invece un fatto sportivo estraneo."
   },
-  "z416e0b39": {
-   "voci": [
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Nel primo pezzo titolo e occhiello riferiscono che le mail sono partite da un account dell'università di Da-Yeh a Taipei e hanno raggiunto Italia, Scozia, Irlanda e altri Paesi. Articolo non leggibile, giudizio parziale.",
-     "b": "t"
-    },
-    {
-     "n": "Rai News",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Titolo e occhiello segnalano sgomberi per allarmi bomba e la necessità di un protocollo comune discusso dal Comitato sicurezza della Repubblica, con la frase \"mail non basta\". Articolo non leggibile, giudizio parziale.",
-     "b": "t"
-    },
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Nel secondo pezzo, ampio e dettagliato, racconta una nuova mail firmata \"Mikhail Andropov\" partita da un account hackerato di un docente filippino, con minacce contro Palazzo Chigi e richiesta di dimissioni di Meloni. Elenca evacuazioni in decine di città (Molise, Rieti, Palermo, Napoli, Milano) e riporta la nota di Palazzo Chigi che vieta evacuazioni senza elementi concreti, più un allarme bomba separato a Calais.",
-     "b": "t"
-    },
-    {
-     "n": "ANSA",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Il liveblog, parzialmente accessibile, elenca nuove mail con minacce in Veneto, Liguria, Umbria, Lazio, Sicilia, Puglia, Abruzzo, Piemonte e Molise, con cifre come \"600 scuole\" monitorate in Puglia e \"463 segnalazioni\" in Piemonte il giorno prima. Cita fonti regionali come l'Ufficio scolastico pugliese.",
-     "b": "a"
-    },
-    {
-     "n": "la Repubblica",
-     "c": "Roma",
-     "p": "IT",
-     "t": "Il terzo pezzo si concentra sulla reazione politica: appello di Meloni all'unità e un tavolo con le opposizioni (Schlein, Magi), con critiche di Gabrielli al governo. Testo non leggibile oltre a titolo e occhiello, giudizio parziale.",
-     "b": "t"
-    }
-   ],
-   "divergono": "Le due fonti sull'origine delle mail divergono nella provenienza indicata: il primo pezzo di la Repubblica (non leggibile) cita un account dell'università di Da-Yeh a Taipei, mentre il secondo articolo completo parla di un account hackerato di un docente filippino per la seconda mail, e di una studentessa di Taiwan per quella del giorno precedente. ANSA si concentra su cifre regionali dettagliate (es. 600 scuole in Puglia, 463 segnalazioni in Piemonte) assenti negli altri pezzi. Solo il secondo articolo di la Repubblica menziona l'allarme bomba separato alla stazione di Calais in Francia, estraneo alla vicenda delle scuole italiane. Gli altri articoli di Rai News e la Repubblica restano non valutabili nel dettaglio per assenza di testo completo."
-  },
   "zabd385a8": {
    "voci": [
     {
@@ -2825,14 +2671,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
    "n": "Mosca",
    "p": [
     "Russia"
-   ],
-   "pt": []
-  },
-  "z416e0b39": {
-   "n": "Italia",
-   "p": [
-    "Italy",
-    "Taiwan"
    ],
    "pt": []
   },
@@ -2958,13 +2796,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
    "n": "Tokyo",
    "p": [
     "Japan"
-   ],
-   "pt": []
-  },
-  "z296b0be8": {
-   "n": "Toscana",
-   "p": [
-    "Italy"
    ],
    "pt": []
   },
@@ -3332,7 +3163,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
  },
  "rilievo": {
   "z708bf74e": 3,
-  "z416e0b39": 3,
   "z919b3249": 1,
   "z37571025": 1,
   "zf78a3e2b": 1,
@@ -3351,7 +3181,6 @@ window.EDIZIONI["2026-11-12-sera"] = {
   "zcf8560b2": 1,
   "z3070a291": 1,
   "za936668a": 1,
-  "z296b0be8": 1,
   "z087da3dd": 1,
   "zad36b127": 1,
   "z3760c54e": 1,
