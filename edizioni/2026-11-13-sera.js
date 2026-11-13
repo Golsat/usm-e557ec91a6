@@ -1138,7 +1138,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   },
   {
    "id": "za4480f7a",
-   "sez": "organizzazioni",
+   "sez": "ambiente",
    "titolo": "Alla COP31 nuova iniziativa per garantire informazioni affidabili sul clima tramite l'intelligenza artificiale",
    "orig": "COP31: New initiative targets AI and reliable climate change information",
    "lead": "Alla conferenza sul clima COP31 è stata presentata una nuova iniziativa che fornisce linee guida per garantire che le persone in tutto il mondo possano ottenere informazioni credibili sul cambiamento climatico attraverso l'intelligenza artificiale. Le linee guida mirano anche a far comprendere meglio l'impatto ambientale della stessa tecnologia dell'IA. Lo riferisce UN News.",
@@ -1824,6 +1824,15 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "Azerbaijan",
      "t": "2026-11-13T19:54+04:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-13T10:54+00:00"
     }
    ],
    "data": "13 nov",
@@ -2434,30 +2443,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-13T08:49+00:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
-   "id": "zee580f2a",
-   "sez": "mondo",
-   "titolo": "Iran minaccia risposta illimitata nello Stretto di Hormuz dopo attacco Usa",
-   "orig": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-   "lead": "L'Iran ha minacciato una risposta senza limiti nello Stretto di Hormuz in seguito a un attacco statunitense. I Guardiani della Revoluzione islamica iraniani hanno dichiarato di aver distrutto un radar statunitense di preallarme situato in Bahrein. La tensione nella regione, già alta per il confronto tra Washington e Teheran, rischia di aggravarsi ulteriormente con possibili ripercussioni sul traffico marittimo nello stretto, cruciale per il trasporto mondiale di petrolio. Lo riferisce Al Jazeera.",
-   "more": [
-    "Lo Stretto di Hormuz è un passaggio marittimo strategico tra il Golfo Persico e l'Oceano Indiano, attraverso cui transita gran parte del petrolio mondiale. Ogni tensione militare in quest'area, incluse minacce reciproche tra Iran e Stati Uniti, può avere ripercussioni dirette sui prezzi energetici globali e sulla sicurezza della navigazione internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-13T10:54+00:00"
     }
    ],
    "data": "13 nov",
@@ -4388,7 +4373,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "zc48c8bec": "ANSA evidenzia il superamento senza criticità della piena in Toscana, Rai News le frane in Liguria.",
   "z0a80c881": "La BBC pone l'accento sulla crisi di fiducia nella leadership sanitaria scozzese.",
   "zeed3ee15": "The Guardian evidenzia l'intensità dei venti registrati a Madeira e l'estensione del maltempo su più continenti.",
-  "zee580f2a": "Al Jazeera riporta la minaccia iraniana e la rivendicazione della distruzione del radar statunitense.",
   "ze65437d4": "Al Jazeera sottolinea la prestazione dominante di Henry e Young nella vittoria neozelandese.",
   "za8b7a3c4": "ANSA evidenzia come la rinuncia all'appello renda definitiva la pena inflitta all'attore.",
   "z27e05991": "Rai News riporta la tempistica indicata da Martin per la nomina dell'inviato Ue.",
@@ -4887,14 +4871,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    "p": [
     "Portugal",
     "Spain"
-   ],
-   "pt": []
-  },
-  "zee580f2a": {
-   "n": "Stretto di Hormuz",
-   "p": [
-    "Iran",
-    "Bahrain"
    ],
    "pt": []
   },
@@ -5716,7 +5692,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "zc48c8bec": 2,
   "z0a80c881": 1,
   "zeed3ee15": 1,
-  "zee580f2a": 2,
   "ze65437d4": 1,
   "za8b7a3c4": 2,
   "z27e05991": 1,
