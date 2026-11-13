@@ -3,6 +3,241 @@ window.EDIZIONI["2026-11-13-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z1df12ed6",
+   "sez": "prima",
+   "titolo": "Il guasto globale di Microsoft mostra alle aziende la propria dipendenza dal digitale",
+   "orig": "La panne de Microsoft alerte entreprises et salariés sur leur dépendance aux outils numériques : « On a tous un peu été dans le même bateau que nos clients »",
+   "lead": "Un'interruzione dei servizi Microsoft, tra cui Outlook, Teams e Copilot, ha colpito aziende e istituzioni in tutto il mondo tra giovedì 12 e venerdì 13 novembre. Il colosso americano si è detto «profondamente dispiaciuto» e ha parlato di miglioramenti progressivi, pur segnalando una situazione ancora instabile. Secondo gli esperti citati dalla stampa francese, la causa sarebbe più vicina all'incidente CrowdStrike dello scorso anno che a un attacco informatico. Privati della posta elettronica e delle videochiamate, milioni di lavoratori sono tornati al telefono, al fax o agli spostamenti fisici per portare avanti le attività, mentre le aziende hanno iniziato a interrogarsi sulla propria dipendenza dagli strumenti digitali.",
+   "more": [
+    "CrowdStrike è il nome dell'azienda di sicurezza informatica il cui aggiornamento difettoso causò, nel luglio 2024, un blackout informatico mondiale che bloccò aeroporti, ospedali e banche. Il paragone richiamato dalla stampa indica un guasto tecnico su larga scala, non collegato a un attacco esterno, ma capace comunque di paralizzare servizi essenziali per milioni di utenti in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/economie/article/2026/11/13/la-panne-de-microsoft-alerte-entreprises-et-salaries-sur-leur-dependance-aux-outils-numeriques-on-a-tous-un-peu-ete-dans-le-meme-bateau-que-nos-clients_6809369_3234.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T18:48+01:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/secteur/high-tech/en-direct-panne-mondiale-de-microsoft-et-d-outlook-les-difficultes-se-poursuivent-de-lourdes-consequences-rapportees-dans-le-monde-20261113",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T19:26+01:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/secteur/high-tech/plus-proche-de-l-incident-crowdstrike-que-d-une-cyberattaque-quelles-sont-les-pistes-expliquant-la-panne-d-outlook-20261113",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T19:08+01:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/secteur/high-tech/panne-chez-microsoft-le-recit-de-24-heures-de-pagaille-dans-les-entreprises-les-hopitaux-et-les-gouvernements-du-monde-entier-20261113",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T17:14+01:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/economie/economie-numerique/la-panne-de-microsoft-a-fait-chauffer-les-telephones-et-ressortir-les-fax-dans-les-entreprises-20261113_GLHEPZPDXRFBNPLA4M3G26UD5M/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T18:45+00:00"
+    },
+    {
+     "n": "Le Matin Algérie",
+     "p": "XX",
+     "c": "Algeri",
+     "u": "https://lematindalgerie.com/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft/",
+     "angolo": "",
+     "atlas": "Algeria",
+     "t": "2026-11-13T08:11+00:00"
+    },
+    {
+     "n": "Confidencial",
+     "p": "XX",
+     "c": "Managua",
+     "u": "https://confidencial.digital/revista-niu/microsoft-descarta-ataque-cibernetico-detras-de-caida-global-de-servicios/",
+     "angolo": "",
+     "atlas": "Nicaragua",
+     "t": "2026-11-13T14:45+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-13T18:48+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/pais/caida-reservas-gas-urgen-nueva-ley-proponen-suspender-exportaciones_1794592004",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T17:46+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/economia/microsoft-explica-la-causa-de-la-caida-global-de/JPIXUD5REBHZTHVTM5QACIKD3I/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-13T18:38+00:00"
+    },
+    {
+     "n": "La Nación CR",
+     "p": "XX",
+     "c": "San José",
+     "u": "https://www.nacion.com/economia/caida-global-de-microsoft-afecta-a-costa-rica/TA4I5X2OWJAUZECJK63LVX3AE4/story/",
+     "angolo": "",
+     "atlas": "Costa Rica",
+     "t": "2026-11-13T18:26+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-13T18:36+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-13T17:55+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z80b7c8a4",
+   "sez": "italia",
+   "titolo": "Senza Stati Uniti e Germania come riferimenti, l'Italia punta sulla demografia per rilanciarsi",
+   "orig": "Senza Usa e Germania, l’Italia ha perso i suoi riferimenti: urgono nuovi cittadini per il rilancio",
+   "lead": "Secondo un'analisi pubblicata da Repubblica, l'Italia avrebbe perso i propri punti di riferimento tradizionali dopo l'affievolirsi dello scudo difensivo garantito dagli Stati Uniti e le difficoltà del suo primo partner industriale, la Germania, nel contesto di quella che viene definita una crisi geopolitica globale. Il testo sostiene che per uscire da questa fase il paese debba ripartire dalla questione demografica, puntando su nuovi cittadini come leva per il rilancio economico e sociale. L'analisi non riporta posizioni di esponenti politici, ma presenta una valutazione del quadro internazionale e delle sue conseguenze per l'Italia.",
+   "more": [
+    "L'Italia ha storicamente fatto affidamento sulla protezione militare garantita dalla NATO a guida statunitense e su una stretta integrazione industriale con la Germania, suo principale partner commerciale in Europa. Il calo demografico italiano, tra i più marcati in Europa, è da tempo indicato da economisti come un fattore di rischio per la crescita futura e la sostenibilità del sistema pensionistico e produttivo."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/11/16/news/senza_stati_uniti_e_germania_l_italia_ha_perso_i_suoi_riferimenti-425718900/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T17:00+00:00"
+    },
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/2026/11/16/news/senza_stati_uniti_e_germania_l_italia_ha_perso_i_suoi_riferimenti-425718900/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T18:00+01:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z357fbd03",
+   "sez": "mondo",
+   "titolo": "Un uomo salva i vicini intrappolati dall'alluvione in Florida",
+   "orig": "Man Rescues Trapped Neighbors from ‘Biblical’ Florida Flooding",
+   "lead": "Un residente della Florida, Rick Addante, ha rischiato la propria vita per salvare due vicini di casa rimasti intrappolati durante un'alluvione definita «biblica». Una delle due persone si stava riprendendo da un intervento chirurgico, mentre l'altra soffre di sclerosi laterale amiotrofica (SLA): per entrambe la sopravvivenza dipendeva dall'aiuto ricevuto, che Addante ha fornito intervenendo personalmente durante l'emergenza. L'episodio si inserisce in una serie di storie di solidarietà raccontate in questi giorni a seguito delle forti piogge e inondazioni che hanno colpito la regione. Lo riferisce Good News Network.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T16:30+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "good": true,
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7fe26812",
+   "sez": "adolescenti",
+   "titolo": "Scuole, la premier Meloni annuncia risorse per climatizzatori e pompe di calore dal 2028",
+   "orig": "Climatizzatori e pompe di calore nelle scuole. Il premier: “Risorse a partire dal 2028. Nessuno dovrebbe studiare al freddo d’inverno o a 35 gradi a giugno”",
+   "lead": "Al termine del confronto con i sindacati sulla manovra, la presidente del Consiglio Giorgia Meloni ha tracciato un bilancio sui social network dedicato all'edilizia scolastica, annunciando un nuovo piano per la climatizzazione degli istituti con risorse disponibili a partire dal 2028. Meloni ha affermato che nessuno studente dovrebbe trovarsi a studiare al freddo d'inverno o con temperature fino a 35 gradi a giugno, rivendicando inoltre il primato degli stanziamenti attivati dal suo governo per l'ammodernamento strutturale delle scuole italiane. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "Il comfort termico nelle aule è un tema ricorrente nel dibattito sull'edilizia scolastica italiana, dato che molti edifici risalgono a decenni fa e spesso mancano di sistemi di riscaldamento o raffrescamento adeguati. Interventi di climatizzazione richiedono investimenti consistenti, motivo per cui i governi tendono a programmarli su più anni e a collegarli a piani più ampi di ristrutturazione scolastica."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/climatizzatori-e-pompe-di-calore-nelle-scuole-il-premier-risorse-a-partire-dal-2028-nessuno-dovrebbe-studiare-al-freddo-dinverno-o-a-35-gradi-a-giugno/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T18:44+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:31",
+   "uscita": "sera",
+   "sub": "scuola"
+  },
+  {
+   "id": "z588829e4",
+   "sez": "mondo",
+   "titolo": "Arrestato a Tokyo lo scalatore seriale soprannominato 'Spider-Man della pioggia'",
+   "orig": "Tokyo police arrest the Ame-zing Spider-Man",
+   "lead": "La polizia di Tokyo ha arrestato Yuki Horiguchi, un uomo che per quasi dieci anni ha arrampicato le facciate di edifici, approfittando delle giornate di pioggia, per introdursi ai piani alti e rubare contanti e oggetti di valore. Soprannominato dalla polizia 'Ame-zing Spider-Man' (gioco di parole tra 'ame', pioggia in giapponese, e 'amazing'), l'uomo ha terrorizzato per anni i residenti della capitale giapponese con le sue incursioni acrobatiche. Lo riferisce SoraNews24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "SoraNews24",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://soranews24.com/2026/11/14/tokyo-police-arrest-the-ame-zing-spider-man/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-13T17:30+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:31",
+   "uscita": "sera"
+  },
+  {
    "id": "z8b502333",
    "sez": "ambiente",
    "titolo": "La presidente della Tanzania Samia Suluhu Hassan rientra nel Paese dopo la COP31",
@@ -629,7 +864,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   },
   {
    "id": "ze08d6e4a",
-   "sez": "prima",
+   "sez": "italia",
    "titolo": "Caso Diaco: la Rai avvia un audit interno sul conduttore televisivo",
    "orig": "'Ulteriori elementi' sul caso Diaco, la Rai avvia un audit interno",
    "lead": "I vertici della Rai hanno deciso di avviare un audit interno per esaminare nuovi elementi emersi in merito alla condotta del conduttore Pierluigi Diaco. Al momento non è stata disposta alcuna sospensione preventiva per la trasmissione BellaMa', in attesa che la dirigenza valuti eventuali sanzioni disciplinari.",
@@ -656,9 +891,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
    ],
    "data": "13 nov",
    "ora": "20:16",
-   "uscita": "sera",
-   "sez_prima": "italia",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "zf5c84730",
@@ -1152,7 +1385,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   },
   {
    "id": "z811fd41f",
-   "sez": "prima",
+   "sez": "italia",
    "titolo": "Il pilota Kimi Antonelli ricevuto al Quirinale dal presidente Mattarella",
    "orig": "Mattarella incontra Antonelli e riceve un casco con dedica: “Ammirazione”. E Kimi lo invita a Monza",
    "lead": "Il presidente della Repubblica Sergio Mattarella ha accolto al Palazzo del Quirinale, in un'udienza privata, il pilota automobilistico campionissimo Kimi Antonelli. Nel corso dell'incontro a Roma, il giovane campione di Formula Uno ha donato al Capo dello Stato il proprio casco da gara con una dedica speciale di ammirazione scritta sulla visiera. Durante la visita istituzionale, Antonelli ha colto l'occasione per invitare ufficialmente il presidente della Repubblica ad assistere al prossimo Gran Premio d'Italia, in programma sul circuito automobilistico di Monza.",
@@ -1177,13 +1410,29 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-13T19:37+01:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/13/kimi-antonelli-oggi-al-quirinale-da-mattarella_4cda0886-5b0e-4e5a-b8d4-c11d25bc6910.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T16:28+01:00"
+    },
+    {
+     "n": "Il Messaggero – Tecnologia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_schermata_microsoft_pc_utenti_accordo_mercedes_quanto_costa-9887804.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T12:59+01:00"
     }
    ],
    "data": "13 nov",
    "ora": "20:12",
-   "uscita": "sera",
-   "sez_prima": "italia",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z8dfafa08",
@@ -2922,30 +3171,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z6bab4878",
-   "sez": "economia",
-   "titolo": "Senegal, il ministro Sarr sollecita maggiori risorse finanziarie per la Giustizia",
-   "orig": "Budget de la Justice : Moussa Sarr plaide pour « davantage de moyens »",
-   "lead": "A Dakar il ministro della Giustizia senegalese Moussa Sarr ha presentato il progetto di bilancio per il 2027 dinanzi alla Commissione delle finanze e del controllo di bilancio, ampliata alla Commissione delle leggi. L'importo stimato ammonta a 85,76 miliardi di franchi CFA in crediti di pagamento. Durante la sua audizione, il ministro ha espresso la necessità di destinare risorse economiche superiori al settore giudiziario per ammodernare i tribunali e potenziare gli organici, evidenziando le difficoltà contingenti che caratterizzano il quadro delle finanze pubbliche nazionali del Senegal. Lo riferisce Le Soleil.",
-   "more": [
-    "Lo stanziamento di risorse adeguate per la giustizia rappresenta un fattore cruciale per garantire il corretto funzionamento dello Stato di diritto nei paesi in via di sviluppo. L'ammodernamento delle strutture giudiziarie e l'aumento dei fondi destinati ai tribunali consentono di velocizzare i tempi dei processi, migliorare l'accesso alle tutele legali e rafforzare la trasparenza istituzionale."
-   ],
-   "fonti": [
-    {
-     "n": "Le Soleil",
-     "p": "XX",
-     "c": "Dakar",
-     "u": "https://lesoleil.sn/justice/budget-de-la-justice-moussa-sarr-plaide-pour-davantage-de-moyens/",
-     "angolo": "",
-     "atlas": "Senegal",
-     "t": "2026-11-13T18:22+00:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "20:12",
-   "uscita": "sera"
-  },
-  {
    "id": "z5287d970",
    "sez": "salute",
    "titolo": "Tumori timici avanzati, risultati promettenti per la combinazione lenvatinib e pembrolizumab nello studio PECATI",
@@ -3868,7 +4093,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   },
   {
    "id": "ze14ef86f",
-   "sez": "italia",
+   "sez": "prima",
    "titolo": "Famiglia nel bosco, la Corte d'appello respinge il ricorso: i bimbi non tornano a casa",
    "orig": "Famiglia nel bosco, rigettato il ricorso: i bimbi non tornano a casa. “Per ora rientro graduale”",
    "lead": "La Corte d'appello ha respinto il ricorso presentato dai genitori della 'famiglia nel bosco' per ottenere la riunificazione con i figli, confermando un progetto di rientro graduale dei bambini. Lo riporta la Repubblica, secondo cui l'avvocato della famiglia, Gian Luca Pillon, ha annunciato un nuovo appello in Cassazione, sostenendo che i bambini sarebbero felici di rivedere i genitori. Rai News conferma che resta in vigore il piano per un rientro progressivo dei minori, allontanati in precedenza dal nucleo familiare che viveva isolato in un bosco.",
@@ -3906,7 +4131,9 @@ window.EDIZIONI["2026-11-13-sera"] = {
    ],
    "data": "13 nov",
    "ora": "17:08",
-   "uscita": "17"
+   "uscita": "17",
+   "sez_prima": "italia",
+   "riempimento": true
   },
   {
    "id": "z2f94b9c2",
@@ -5023,39 +5250,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z691bf41f",
-   "sez": "italia",
-   "titolo": "Kimi Antonelli in udienza privata al Quirinale da Mattarella",
-   "orig": "Kimi Antonelli oggi al Quirinale da Mattarella",
-   "lead": "Il pilota di Formula 1 Kimi Antonelli è stato ricevuto oggi al Quirinale dal presidente della Repubblica Sergio Mattarella in un'udienza privata. Antonelli, giovane volto della scuderia Mercedes, sarà accompagnato dalla famiglia durante l'incontro. Il pilota è di recente comparso anche su scala globale grazie a un accordo tra Mercedes e Microsoft da 60 milioni di euro, che lo porta sugli schermi di avvio di milioni di computer Windows nel mondo. Lo riferisce ANSA.",
-   "more": [
-    "Andrea Kimi Antonelli, giovane pilota italiano di Formula 1, è entrato nella scuderia Mercedes diventando uno dei più giovani piloti della storia della categoria. Le partnership commerciali tra scuderie di Formula 1 e grandi aziende tecnologiche sono comuni e contribuiscono al finanziamento dei team attraverso sponsorizzazioni e accordi pubblicitari."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/13/kimi-antonelli-oggi-al-quirinale-da-mattarella_4cda0886-5b0e-4e5a-b8d4-c11d25bc6910.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-13T16:28+01:00"
-    },
-    {
-     "n": "Il Messaggero – Tecnologia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_schermata_microsoft_pc_utenti_accordo_mercedes_quanto_costa-9887804.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-13T12:59+01:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "17:08",
-   "uscita": "17"
-  },
-  {
    "id": "zc1a2b73b",
    "sez": "economia",
    "titolo": "Senegal, il bilancio 2027 destina 85,7 miliardi di franchi CFA alla Giustizia",
@@ -5082,6 +5276,15 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "Madagascar",
      "t": "2026-11-13T05:50+03:00"
+    },
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/justice/budget-de-la-justice-moussa-sarr-plaide-pour-davantage-de-moyens/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-13T18:22+00:00"
     }
    ],
    "data": "13 nov",
@@ -8264,7 +8467,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "za4480f7a": "Le Nazioni Unite presentano l'iniziativa come strumento per affidabilità delle informazioni climatiche",
   "zc5fb17fb": "Dezeen mette in evidenza il design architettonico del nuovo negozio",
   "zc5dc6d3b": "El Tiempo riporta la posizione del governo venezuelano insieme alle critiche degli attivisti",
-  "z691bf41f": "ANSA riporta l'incontro istituzionale e la notorietà crescente del pilota",
   "zc1a2b73b": "Seneweb evidenzia le variazioni di spesa tra i diversi comparti della giustizia",
   "z33f56bd6": "la Repubblica sottolinea come, pur chiedendo l'archiviazione, emergano conflitti d'interesse nel contesto",
   "z7e8efe75": "Turkish Minute e Middle East Eye riportano l'appello di Thunberg e le contraddizioni denunciate dagli attivisti",
@@ -8349,7 +8551,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z9bd92893": "Il portale medico mette in rilievo le evidenze scientifiche che correlano l'abuso di determinati grassi saturi allo stress delle strutture cellulari.",
   "z135adcb2": "L'agenzia di stampa evidenzia la priorità strategica indicata dal ministro nell'attacco ai capitali illeciti del crimine organizzato.",
   "zca19b125": "Il giornale medico mette in evidenza i paralleli tra l'apprendimento linguistico infantile e l'evoluzione degli algoritmi computazionali.",
-  "z6bab4878": "La testata senegalese sottolinea la richiesta del ministro per un incremento dei fondi al comparto della giustizia in un contesto economico complesso.",
   "z5287d970": "Il portale medico mette in evidenza il tasso di sopravvivenza a lungo termine ottenuto con l'associazione dei due principi attivi.",
   "za61c5174": "La testata specializzata evidenzia la necessità di mantenere l'accessibilità e l'accuratezza delle informazioni mediche nell'era delle risposte generate dall'IA.",
   "zc0d5ef86": "Il giornale economico mette in rilievo le stime dell'AIE sui lunghi tempi necessari a ripristinare le scorte dopo le tensioni tra Washington e Teheran.",
@@ -8417,7 +8618,12 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z5e1c97b9": "L'emittente pubblica greca riporta l'ufficializzazione dell'organismo negoziale europeo per il conflitto in Ucraina.",
   "z650bd5c3": "La testata armena evidenzia il mancato allineamento di Erevan rispetto alla dichiarazione diplomatica europea.",
   "zd34fe4ea": "Il servizio informativo armeno rende conto degli sviluppi giudiziari seguiti alla morte dell'esponente dell'opposizione.",
-  "zf776e404": "Il canale d'informazione vaticano mette in evidenza i richiami pastorali del Pontefice contro la secolarizzazione."
+  "zf776e404": "Il canale d'informazione vaticano mette in evidenza i richiami pastorali del Pontefice contro la secolarizzazione.",
+  "z1df12ed6": "La stampa francese racconta la giornata di caos in aziende, ospedali e governi privati di Outlook e Teams.",
+  "z80b7c8a4": "Repubblica collega la crisi geopolitica internazionale alla necessità per l'Italia di affrontare la questione demografica.",
+  "z357fbd03": "Good News Network racconta l'episodio come esempio di solidarietà durante un'emergenza climatica.",
+  "z7fe26812": "Orizzonte Scuola riporta l'annuncio della premier sulle risorse future per la climatizzazione delle scuole.",
+  "z588829e4": "SoraNews24 racconta con tono leggero la cattura del ladro seriale noto per le sue arrampicate."
  },
  "contesti": {
   "z754bb0d1": "Papa Leone XIV si trova in viaggio apostolico in America Latina, con tappe in tre paesi sudamericani, proseguendo un programma di visite iniziato nei giorni precedenti.",
@@ -8441,7 +8647,9 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z9109047c": "Nelle settimane precedenti l'avvio formale della campagna elettorale, le rilevazioni demoscopiche hanno evidenziato la crescita dei partiti di opposizione di centrodestra e destra. Il governo guidato dai socialisti ha cercato di consolidare il proprio elettorato promuovendo misure economiche a tutela dei redditi e delle categorie sociali più vulnerabili.",
   "z811fd41f": "Andrea Kimi Antonelli, giovane talento bolognese dell'automobilismo, ha vissuto una rapida ascesa nel motorsport internazionale, culminata con l'annuncio del suo ingaggio ufficiale in Formula 1 con il team Mercedes per la stagione 2025. Dopo aver debuttato nelle prove libere al Gran Premio di Monza del 2024 e collezionato importanti successi nelle categorie giovanili, le sue eccezionali prestazioni sportive hanno attirato l'attenzione delle istituzioni, portandolo fino al prestigioso incontro al Quirinale.",
   "z8dfafa08": "Nelle ultime settimane la discussione sulla nuova manovra di bilancio per il 2025 ha generato fortissime tensioni politiche e sociali, con i sindacati pronti al conflitto sul tema dei tagli alla spesa pubblica. Le ipotesi di riduzione delle risorse destinate all'istruzione e alla sanità avevano scatenato la protesta della scuola e delle opposizioni, spingendo la Presidente del Consiglio Giorgia Meloni a convocare le parti sociali a Palazzo Chigi per avviare il confronto sui correttivi.",
-  "ze08d6e4a": "Nei giorni scorsi sono emersi nuovi elementi relativi al comportamento del conduttore televisivo Pierluigi Diaco. La vicenda ha attirato l'attenzione dei vertici della Rai, che hanno deciso di avviare un audit interno. Al momento la trasmissione BellaMa' non è stata sospesa, mentre l'azienda esamina i fatti per stabilire possibili sanzioni."
+  "ze08d6e4a": "Nei giorni scorsi sono emersi nuovi elementi relativi al comportamento del conduttore televisivo Pierluigi Diaco. La vicenda ha attirato l'attenzione dei vertici della Rai, che hanno deciso di avviare un audit interno. Al momento la trasmissione BellaMa' non è stata sospesa, mentre l'azienda esamina i fatti per stabilire possibili sanzioni.",
+  "z1df12ed6": "Il guasto ai servizi Microsoft è iniziato giovedì 12 novembre, colpendo Outlook, Teams e Copilot a livello globale. Nelle ore successive l'azienda ha escluso un attacco informatico, parlando di problema tecnico, mentre aziende, ospedali e governi hanno dovuto ricorrere a telefono e fax per sostituire la posta elettronica bloccata.",
+  "ze14ef86f": "La 'famiglia nel bosco', scoperta a vivere isolata in un casolare tra i boschi del Palermitano, era stata al centro di un provvedimento dei servizi sociali che aveva disposto l'allontanamento dei figli minori per tutelarne il diritto all'istruzione e alla socializzazione. I genitori avevano presentato ricorso contro la decisione, sostenendo il proprio diritto a crescere i figli secondo il proprio stile di vita, mentre le autorità avevano predisposto un percorso di rientro graduale dei bambini."
  },
  "cronologie": {
   "z4f5c524d": [
@@ -8690,6 +8898,34 @@ window.EDIZIONI["2026-11-13-sera"] = {
    [
     "Oggi",
     "La Rai conferma la regolare messa in onda di BellaMa' senza sospensioni"
+   ]
+  ],
+  "z1df12ed6": [
+   [
+    "2026-11-12",
+    "Inizio del guasto globale ai servizi Microsoft"
+   ],
+   [
+    "2026-11-13",
+    "Microsoft annuncia miglioramenti progressivi ma segnala situazione ancora instabile"
+   ]
+  ],
+  "ze14ef86f": [
+   [
+    "Novembre 2024",
+    "Scoperta della famiglia che vive isolata nel bosco, allontanamento dei minori"
+   ],
+   [
+    "Mesi successivi",
+    "Avvio di un progetto di rientro graduale dei bambini presso la famiglia"
+   ],
+   [
+    "Giorni scorsi",
+    "I genitori presentano ricorso in Corte d'appello per la riunificazione immediata"
+   ],
+   [
+    "13 novembre 2026",
+    "La Corte d'appello respinge il ricorso, confermando il piano graduale; l'avvocato annuncia ricorso in Cassazione"
    ]
   ]
  },
@@ -9039,6 +9275,119 @@ window.EDIZIONI["2026-11-13-sera"] = {
     }
    ],
    "divergono": "Le testate affrontano l'argomento con cornici e temi profondamente differenti. ERR News mette al centro le decisioni del Ministero estone per le gare di sci nordico e biathlon. CBC News inquadra la notizia in un contesto nordamericano, focalizzandosi sulle conseguenze per la lega di hockey NHL in Finlandia. The Punch enfatizza invece il presunto primato della concessione di un evento alla Russia dal 2022. Al contrario, le testate di Hong Kong, South China Morning Post – Sport e RTHK, non citano affatto la vicenda dell'Estonia, dedicandosi esclusivamente ai risultati dei Giochi Para Asiatici."
+  },
+  "z1df12ed6": {
+   "voci": [
+    {
+     "n": "Le Monde",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Racconta il guasto attraverso testimonianze di lavoratori francesi colpiti nelle loro attività quotidiane, citando il dato che Microsoft 365 equipaggia l'82% delle aziende francesi secondo l'Osservatorio Arctus 2025. Riporta frasi come «eravamo tutti nella stessa barca» per descrivere la dipendenza condivisa dagli strumenti digitali.",
+     "b": "a"
+    },
+    {
+     "n": "Le Figaro",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "In formato diretta aggiorna costantemente la cronologia del guasto su 74 Paesi, citando comunicati ufficiali Microsoft che esclude una «cyberattacco» e parla di «problema tecnico» legato a un aggiornamento di rete. Riporta reazioni di governi (Germania, Giappone, Nuova Zelanda), sindacati sanitari britannici (GMB) e associazioni consumatori italiane (Codacons) che chiedono «compensazioni».",
+     "b": "a"
+    },
+    {
+     "n": "Le Figaro",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Approfondisce le possibili cause tecniche del guasto, paragonandolo all'incidente CrowdStrike, segnalando che Downdetector ha registrato segnalazioni in 74 Paesi e 130.000 negli Stati Uniti. L'articolo è in gran parte a pagamento, quindi il quadro resta parziale.",
+     "b": "a"
+    },
+    {
+     "n": "Le Figaro",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Ricostruisce 24 ore di «pagaille» in aziende, ospedali e governi nel mondo, citando un messaggio ironico di un utente su X che accusa Microsoft di usare «parole alla moda per fare diversivo». L'articolo è prevalentemente riservato agli abbonati, quindi il giudizio resta parziale.",
+     "b": "a"
+    },
+    {
+     "n": "Libération",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Giudizio parziale: l'articolo non è leggibile per intero. Dal titolo e dall'occhiello emerge che racconta il ritorno a telefono e fax come soluzioni alternative adottate dai lavoratori durante il guasto a Outlook e Teams.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le Monde si concentra su testimonianze dirette di lavoratori francesi e sul dato Arctus sull'82% di penetrazione di Microsoft 365, mentre Le Figaro adotta un formato di cronaca live con dichiarazioni ufficiali Microsoft, governi e sindacati di più Paesi (Germania, Giappone, Regno Unito, Italia). Le Figaro riporta inoltre la versione di Microsoft che esclude la cyberattacca e cita cifre precise (74 Paesi, 130.000 segnalazioni USA) assenti in Le Monde. Libération, leggibile solo parzialmente, enfatizza il ritorno a tecnologie «passate» come il fax, aspetto non menzionato dalle altre testate."
+  },
+  "zcf75159e": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Mette al centro il terzo premio Album dell'anno di Rosalía, definendola la prima donna a vincerlo tre volte, e riporta sue dichiarazioni di rivalsa verso i critici. Cita anche il premio alla carriera a Daddy Yankee e la performance di Diljit Dosanjh, definita «una rivoluzione culturale» da una fan intervistata.",
+     "b": "a"
+    },
+    {
+     "n": "NPR – Musica",
+     "c": "Washington",
+     "p": "US",
+     "t": "Dà risalto alla sorpresa del Record of the Year vinto da Milo J con «Niño» a scapito di nomi più noti, e descrive nel dettaglio gli omaggi a José Alfredo Jiménez e Willie Colón. Segnala inoltre la vittoria di Bobby Pulido, neo congressista texano, come curiosità politica.",
+     "b": "a"
+    },
+    {
+     "n": "Rolling Stone Italia",
+     "c": "Milano",
+     "p": "IT",
+     "t": "Si concentra sul trionfo di Rosalía (quattro premi, tra cui Album of the Year) e dedica ampio spazio al quinto Latin Grammy di Laura Pausini per «Yo Canto 2», riportando il suo videomessaggio di ringraziamento. Include anche l'elenco completo dei vincitori in tutte le categorie.",
+     "b": "a"
+    },
+    {
+     "n": "Pitchfork",
+     "c": "New York",
+     "p": "US",
+     "t": "Si limita a descrivere l'apertura della cerimonia con la performance-medley di Rosalía da «Lux» e il bilancio di cinque statuette su sette nomination, inquadrando l'evento nel contesto della sua carriera recente (film «Wet», playlist celebrativa).",
+     "b": "a"
+    }
+   ],
+   "divergono": "BBC e Rolling Stone Italia pongono l'accento su Rosalía come protagonista assoluta della serata, mentre NPR dà più risalto alla sorpresa di Milo J, vincitore del Record of the Year a scapito di Rosalía e Karol G. Rolling Stone Italia è l'unica a dedicare spazio centrale a Laura Pausini, assente nelle altre testate. Pitchfork si concentra quasi esclusivamente sulla performance di apertura di Rosalía, tralasciando gli altri premi e protagonisti citati da BBC e NPR, come Daddy Yankee e Diljit Dosanjh."
+  },
+  "zf855f668": {
+   "voci": [
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale: solo titolo e occhiello disponibili. Riporta che Kallas rivendica il proprio ruolo di rappresentante Ue, criticando l'idea di nominare \"una persona senza alcun ruolo\".",
+     "b": "t"
+    },
+    {
+     "n": "RTÉ News",
+     "c": "Dublino",
+     "p": "XX",
+     "t": "Riporta la decisione dei leader Ue di affidare la rappresentanza europea al gruppo E5 (Francia, Germania, Italia, Polonia, Regno Unito) più le istituzioni Ue, citando Costa, von der Leyen, Martin e Merz. Riferisce anche la posizione del Cremlino (Peskov) che chiede prove di \"genuina intenzione\" europea, e cita Kallas secondo cui la Russia non vuole \"nessuno forte\" al tavolo.",
+     "b": "a"
+    },
+    {
+     "n": "Moscow Times",
+     "c": "Amsterdam (in esilio)",
+     "p": "XX",
+     "t": "La voce della Russia: centra l'articolo sulla condizione posta dal Cremlino, tramite Peskov, per includere gli europei ai negoziati, ovvero dimostrare \"genuina intenzione e disponibilità\". Cita Kallas solo per la sua replica, e Lavrov sulla richiesta russa di un quadro di sicurezza europeo preventivo.",
+     "b": "a"
+    },
+    {
+     "n": "NZ Herald",
+     "c": "Auckland",
+     "p": "XX",
+     "t": "Si concentra sugli esiti dell'incontro Witkoff-Kushner-Putin al Cremlino e sulle dichiarazioni di Zelensky e Kushner sulla futura partecipazione europea. Riporta le posizioni dure di Putin su confini e truppe straniere, e cita Macron sull'esigenza di una \"visione chiara e unita\" europea; Kallas non è citata direttamente.",
+     "b": "a"
+    },
+    {
+     "n": "The Globe and Mail",
+     "c": "Toronto",
+     "p": "XX",
+     "t": "Centra il racconto sull'attacco di 1.200 droni ucraini e sull'allargamento dei negoziati alla sicurezza europea post-Guerra Fredda, con Merz che respinge la necessità di ridiscuterla. Cita Kallas secondo cui bisogna insistere su un \"cessate il fuoco\" prima di negoziare, opponendola alle richieste di Putin.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate collocano l'enfasi su fatti diversi: RTÉ News dettaglia l'accordo sulla squadra negoziale europea (E5 più istituzioni Ue) e le cifre sui finanziamenti, mentre Moscow Times isola la condizione posta dal Cremlino per l'ingresso europeo. NZ Herald e The Globe and Mail si concentrano sull'incontro Putin-inviati Usa e sulle sue dichiarazioni intransigenti su confini e truppe, aspetto assente nel resoconto di RTÉ. Le citazioni di Kallas divergono per contenuto: RTÉ e Moscow Times la citano sul fatto che la Russia non vuole \"nessuno forte\" al tavolo, mentre The Globe and Mail la cita sulla richiesta di un cessate il fuoco preventivo. Solo The Globe and Mail riporta la cifra di 1.198 droni abbattuti e i dettagli sulle restrizioni Starlink."
   }
  },
  "luoghi": {
@@ -9678,13 +10027,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    ],
    "pt": []
   },
-  "z691bf41f": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "zc1a2b73b": {
    "n": "Senegal",
    "p": [
@@ -10269,13 +10611,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    ],
    "pt": []
   },
-  "z6bab4878": {
-   "n": "Dakar",
-   "p": [
-    "Senegal"
-   ],
-   "pt": []
-  },
   "z5287d970": {
    "n": "Douglas",
    "p": [
@@ -10763,6 +11098,39 @@ window.EDIZIONI["2026-11-13-sera"] = {
     "Peru"
    ],
    "pt": []
+  },
+  "z1df12ed6": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z80b7c8a4": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z357fbd03": {
+   "n": "Florida",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z7fe26812": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z588829e4": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -10825,7 +11193,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "zd9262712": 1,
   "ze4e6c9ec": 1,
   "z051a86bc": 3,
-  "ze14ef86f": 2,
+  "ze14ef86f": 3,
   "z2f94b9c2": 1,
   "z2124fde9": 1,
   "zec935f4f": 1,
@@ -10857,8 +11225,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "za4480f7a": 1,
   "zc5fb17fb": 1,
   "zc5dc6d3b": 1,
-  "z691bf41f": 1,
-  "zc1a2b73b": 1,
+  "zc1a2b73b": 2,
   "z33f56bd6": 1,
   "z7e8efe75": 2,
   "zcf56af3f": 1,
@@ -10942,7 +11309,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z9bd92893": 1,
   "z135adcb2": 1,
   "zca19b125": 1,
-  "z6bab4878": 1,
   "z5287d970": 1,
   "za61c5174": 1,
   "zc0d5ef86": 1,
@@ -11010,7 +11376,12 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z5e1c97b9": 2,
   "z650bd5c3": 1,
   "zd34fe4ea": 1,
-  "zf776e404": 1
+  "zf776e404": 1,
+  "z1df12ed6": 3,
+  "z80b7c8a4": 1,
+  "z357fbd03": 1,
+  "z7fe26812": 1,
+  "z588829e4": 1
  },
  "video": {},
  "pillole": []
