@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z2dcadc4a":[["2026-11-11","zfe5a97ad","11 nov","Linda Noskova sconfigge Coco Gauff e si qualifica per le semifinali delle WTA Finals"]],"z99097eab":[["2026-10-16","zc8e61876","16 ott","Lo scrittore zimbabwiano Simbarashe Kundizeza nega di aver usato l'IA per il racconto premiato"]]});
