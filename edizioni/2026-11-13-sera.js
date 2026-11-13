@@ -3,138 +3,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z1df12ed6",
-   "sez": "prima",
-   "titolo": "Il guasto globale di Microsoft mostra alle aziende la propria dipendenza dal digitale",
-   "orig": "La panne de Microsoft alerte entreprises et salariés sur leur dépendance aux outils numériques : « On a tous un peu été dans le même bateau que nos clients »",
-   "lead": "Un'interruzione dei servizi Microsoft, tra cui Outlook, Teams e Copilot, ha colpito aziende e istituzioni in tutto il mondo tra giovedì 12 e venerdì 13 novembre. Il colosso americano si è detto «profondamente dispiaciuto» e ha parlato di miglioramenti progressivi, pur segnalando una situazione ancora instabile. Secondo gli esperti citati dalla stampa francese, la causa sarebbe più vicina all'incidente CrowdStrike dello scorso anno che a un attacco informatico. Privati della posta elettronica e delle videochiamate, milioni di lavoratori sono tornati al telefono, al fax o agli spostamenti fisici per portare avanti le attività, mentre le aziende hanno iniziato a interrogarsi sulla propria dipendenza dagli strumenti digitali.",
-   "more": [
-    "CrowdStrike è il nome dell'azienda di sicurezza informatica il cui aggiornamento difettoso causò, nel luglio 2024, un blackout informatico mondiale che bloccò aeroporti, ospedali e banche. Il paragone richiamato dalla stampa indica un guasto tecnico su larga scala, non collegato a un attacco esterno, ma capace comunque di paralizzare servizi essenziali per milioni di utenti in tutto il mondo."
-   ],
-   "fonti": [
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/economie/article/2026/11/13/la-panne-de-microsoft-alerte-entreprises-et-salaries-sur-leur-dependance-aux-outils-numeriques-on-a-tous-un-peu-ete-dans-le-meme-bateau-que-nos-clients_6809369_3234.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-13T18:48+01:00"
-    },
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/secteur/high-tech/en-direct-panne-mondiale-de-microsoft-et-d-outlook-les-difficultes-se-poursuivent-de-lourdes-consequences-rapportees-dans-le-monde-20261113",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-13T19:26+01:00"
-    },
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/secteur/high-tech/plus-proche-de-l-incident-crowdstrike-que-d-une-cyberattaque-quelles-sont-les-pistes-expliquant-la-panne-d-outlook-20261113",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-13T19:08+01:00"
-    },
-    {
-     "n": "Le Figaro",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lefigaro.fr/secteur/high-tech/panne-chez-microsoft-le-recit-de-24-heures-de-pagaille-dans-les-entreprises-les-hopitaux-et-les-gouvernements-du-monde-entier-20261113",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-13T17:14+01:00"
-    },
-    {
-     "n": "Libération",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.liberation.fr/economie/economie-numerique/la-panne-de-microsoft-a-fait-chauffer-les-telephones-et-ressortir-les-fax-dans-les-entreprises-20261113_GLHEPZPDXRFBNPLA4M3G26UD5M/",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-13T18:45+00:00"
-    },
-    {
-     "n": "Le Matin Algérie",
-     "p": "XX",
-     "c": "Algeri",
-     "u": "https://lematindalgerie.com/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft/",
-     "angolo": "",
-     "atlas": "Algeria",
-     "t": "2026-11-13T08:11+00:00"
-    },
-    {
-     "n": "Confidencial",
-     "p": "XX",
-     "c": "Managua",
-     "u": "https://confidencial.digital/revista-niu/microsoft-descarta-ataque-cibernetico-detras-de-caida-global-de-servicios/",
-     "angolo": "",
-     "atlas": "Nicaragua",
-     "t": "2026-11-13T14:45+00:00"
-    },
-    {
-     "n": "El País",
-     "p": "XX",
-     "c": "Madrid",
-     "u": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
-     "angolo": "",
-     "atlas": "Spain",
-     "t": "2026-11-13T18:48+00:00"
-    },
-    {
-     "n": "El Deber",
-     "p": "XX",
-     "c": "Santa Cruz",
-     "u": "https://eldeber.com.bo/pais/caida-reservas-gas-urgen-nueva-ley-proponen-suspender-exportaciones_1794592004",
-     "angolo": "",
-     "atlas": "Bolivia",
-     "t": "2026-11-13T17:46+00:00"
-    },
-    {
-     "n": "La Nación CR",
-     "p": "XX",
-     "c": "San José",
-     "u": "https://www.nacion.com/economia/microsoft-explica-la-causa-de-la-caida-global-de/JPIXUD5REBHZTHVTM5QACIKD3I/story/",
-     "angolo": "",
-     "atlas": "Costa Rica",
-     "t": "2026-11-13T18:38+00:00"
-    },
-    {
-     "n": "La Nación CR",
-     "p": "XX",
-     "c": "San José",
-     "u": "https://www.nacion.com/economia/caida-global-de-microsoft-afecta-a-costa-rica/TA4I5X2OWJAUZECJK63LVX3AE4/story/",
-     "angolo": "",
-     "atlas": "Costa Rica",
-     "t": "2026-11-13T18:26+00:00"
-    },
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-13T18:36+00:00"
-    },
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-13T17:55+00:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "20:31",
-   "uscita": "sera"
-  },
-  {
    "id": "z80b7c8a4",
    "sez": "italia",
    "titolo": "Senza Stati Uniti e Germania come riferimenti, l'Italia punta sulla demografia per rilanciarsi",
@@ -293,37 +161,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "Cyprus",
      "t": "2026-11-13T20:57+02:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "z2cedbbb6",
-   "sez": "mondo",
-   "titolo": "Iran dichiara l'attacco a un radar USA in Bahrain, ma l'immagine è un falso creato dall'IA",
-   "orig": "Un radar américain détruit par l'Iran ? Cette image modifiée par IA montre une destruction ancienne",
-   "lead": "Le Guardie della Rivoluzione iraniana hanno affermato di aver distrutto una stazione radar di allerta precoce statunitense in Bahrain, notizia smentita da Washington. Un'immagine satellitare circolata in rete per confermare l'attacco si è rivelata una manipolazione tramite intelligenza artificiale di un vecchio episodio risalente a giugno.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/moyen-orient/20261113-un-radar-am%C3%A9ricain-d%C3%A9truit-par-l-iran-cette-image-modifi%C3%A9e-par-ia-montre-une-destruction-ancienne",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-13T17:53+00:00"
-    },
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/mondo/2026/11/13/guerra-iran-usa-trump-news-diretta",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-13T18:04+00:00"
     }
    ],
    "data": "13 nov",
@@ -832,37 +669,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z7de6a142",
-   "sez": "mondo",
-   "titolo": "Disservizi Microsoft nel mondo e polemiche sugli ascensori a Hong Kong",
-   "orig": "Evening News on TV32 - Nov 13",
-   "lead": "Un vasto guasto ai sistemi Microsoft ha provocato disservizi a livello globale. Nel frattempo, a Hong Kong i parlamentari hanno espresso forti preoccupazioni per i ripetuti malfunzionamenti degli ascensori presso l'ospedale Queen Mary, mentre l'Autorità per l'edilizia ha introdotto nuove facilitazioni per l'acquisto della casa da parte dei giovani. Lo riferisce RTHK.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "RTHK",
-     "p": "XX",
-     "c": "Hong Kong",
-     "u": "https://news.rthk.hk/rthk/en/component/k2/1877729-20261113.htm",
-     "angolo": "",
-     "atlas": "China",
-     "t": "2026-11-13T20:43+08:00"
-    },
-    {
-     "n": "Euronews",
-     "p": "XX",
-     "c": "Lione",
-     "u": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-11-13T18:00+01:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
    "id": "ze08d6e4a",
    "sez": "italia",
    "titolo": "Caso Diaco: la Rai avvia un audit interno sul conduttore televisivo",
@@ -1355,28 +1161,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "Armenia",
      "t": "2026-11-13T20:44+04:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "20:16",
-   "uscita": "sera"
-  },
-  {
-   "id": "zf776e404",
-   "sez": "mondo",
-   "titolo": "Il Papa in Perù: «Coltivate fede e carità contro indifferenza e materialismo»",
-   "orig": "Leone XIV: coltivate fede e carità, nonostante materialismo ed indifferenza",
-   "lead": "Durante la celebrazione della Messa a Chiclayo, in Perù, il Papa ha esortato i fedeli a coltivare la fede e la carità per contrastare il materialismo e l'indifferenza, ringraziando la comunità per le preghiere rivolte alla sua salute. Lo riferisce Vatican News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Vatican News (italiano)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/it/papa/news/2026-11/chiclayo-evangelizzazione-fede-leonexiv.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-11-13T18:00+01:00"
     }
    ],
    "data": "13 nov",
@@ -3292,7 +3076,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   },
   {
    "id": "z2d0fc4e7",
-   "sez": "ambiente",
+   "sez": "economia",
    "titolo": "Il commercio internazionale come leva per contrastare il cambiamento climatico",
    "orig": "How trade can be used as a lever in climate change war",
    "lead": "A Nairobi la testata The EastAfrican ha pubblicato un'analisi sull'impiego delle politiche commerciali internazionali per combattere i devastanti effetti del cambiamento climatico. Di fronte alle continue emergenze ambientali che colpiscono i vari continenti, lo studio propone di utilizzare gli accordi di scambio, i dazi doganali e le normative sull'importazione come strumenti di pressione per incentivare la transizione ecologica e l'adozione di tecnologie sostenibili nei processi produttivi. L'integrazione delle clausole ambientali nelle intese di libero scambio mira a sostenere le economie in via di sviluppo e a ridurre l'impatto delle emissioni nocive. Lo riferisce The EastAfrican.",
@@ -5841,6 +5625,24 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "Qatar",
      "t": "2026-11-13T10:54+00:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/moyen-orient/20261113-un-radar-am%C3%A9ricain-d%C3%A9truit-par-l-iran-cette-image-modifi%C3%A9e-par-ia-montre-une-destruction-ancienne",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T17:53+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/2026/11/13/guerra-iran-usa-trump-news-diretta",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T18:04+00:00"
     }
    ],
    "data": "13 nov",
@@ -5874,6 +5676,15 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "Vatican",
      "t": "2026-11-13T14:27+01:00"
+    },
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/papa/news/2026-11/chiclayo-evangelizzazione-fede-leonexiv.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-13T18:00+01:00"
     }
    ],
    "data": "13 nov",
@@ -8584,7 +8395,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "zf02121ad": "La testata evidenzia l'interpretazione degli esperti sull'intenzione di Washington di slegare la presenza militare dal controllo operativo.",
   "z8b502333": "Cronaca diplomatica focalizzata sulle attività istituzionali del presidente tanzaniano.",
   "z42854bd7": "Copertura attenta alle controversie marittime e territoriali nel Mediterraneo orientale.",
-  "z2cedbbb6": "Analisi di fact-checking focalizzata sulla disinformazione e sulle immagini manipolate nei conflitti.",
   "z5e9ec202": "Resoconto entusiasta dell'organizzazione dei Giochi Olimpici giovanili nel continente africano.",
   "z042507ee": "Attenzione rivolta alle ripercussioni delle crisi internazionali sulle politiche economiche interne.",
   "zc9a2f8bd": "Servizio attento agli sviluppi giudiziari sul crollo bancario e sulle responsabilità politiche.",
@@ -8598,7 +8408,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z22ce3d26": "Copertura mediatica orientata all'evento sportivo e all'esordio di Ronaldinho con il club romagnolo.",
   "za998fc1a": "Resoconto sportivo incentrato sulla delusione della nazionale sudcoreana dopo la sconfitta.",
   "zc40fb110": "Analisi economica incentrata sul declino delle risorse energetiche strategiche della Bolivia.",
-  "z7de6a142": "Panoramica di notizie quotidiane incentrata sui fatti principali di Hong Kong e della tecnologia.",
   "ze08d6e4a": "Notizia incentrata sui controlli interni e sulle questioni disciplinari della televisione pubblica italiana.",
   "zf5c84730": "Resoconto istituzionale rivolto a chiarire le indiscrezioni sui colloqui politici al vertice pakistano.",
   "zdbca8d8f": "Analisi dell'influenza diplomatica turca e della proiezione internazionale della famiglia Erdogan nel Vicino Oriente.",
@@ -8618,8 +8427,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z5e1c97b9": "L'emittente pubblica greca riporta l'ufficializzazione dell'organismo negoziale europeo per il conflitto in Ucraina.",
   "z650bd5c3": "La testata armena evidenzia il mancato allineamento di Erevan rispetto alla dichiarazione diplomatica europea.",
   "zd34fe4ea": "Il servizio informativo armeno rende conto degli sviluppi giudiziari seguiti alla morte dell'esponente dell'opposizione.",
-  "zf776e404": "Il canale d'informazione vaticano mette in evidenza i richiami pastorali del Pontefice contro la secolarizzazione.",
-  "z1df12ed6": "La stampa francese racconta la giornata di caos in aziende, ospedali e governi privati di Outlook e Teams.",
   "z80b7c8a4": "Repubblica collega la crisi geopolitica internazionale alla necessità per l'Italia di affrontare la questione demografica.",
   "z357fbd03": "Good News Network racconta l'episodio come esempio di solidarietà durante un'emergenza climatica.",
   "z7fe26812": "Orizzonte Scuola riporta l'annuncio della premier sulle risorse future per la climatizzazione delle scuole.",
@@ -8648,7 +8455,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z811fd41f": "Andrea Kimi Antonelli, giovane talento bolognese dell'automobilismo, ha vissuto una rapida ascesa nel motorsport internazionale, culminata con l'annuncio del suo ingaggio ufficiale in Formula 1 con il team Mercedes per la stagione 2025. Dopo aver debuttato nelle prove libere al Gran Premio di Monza del 2024 e collezionato importanti successi nelle categorie giovanili, le sue eccezionali prestazioni sportive hanno attirato l'attenzione delle istituzioni, portandolo fino al prestigioso incontro al Quirinale.",
   "z8dfafa08": "Nelle ultime settimane la discussione sulla nuova manovra di bilancio per il 2025 ha generato fortissime tensioni politiche e sociali, con i sindacati pronti al conflitto sul tema dei tagli alla spesa pubblica. Le ipotesi di riduzione delle risorse destinate all'istruzione e alla sanità avevano scatenato la protesta della scuola e delle opposizioni, spingendo la Presidente del Consiglio Giorgia Meloni a convocare le parti sociali a Palazzo Chigi per avviare il confronto sui correttivi.",
   "ze08d6e4a": "Nei giorni scorsi sono emersi nuovi elementi relativi al comportamento del conduttore televisivo Pierluigi Diaco. La vicenda ha attirato l'attenzione dei vertici della Rai, che hanno deciso di avviare un audit interno. Al momento la trasmissione BellaMa' non è stata sospesa, mentre l'azienda esamina i fatti per stabilire possibili sanzioni.",
-  "z1df12ed6": "Il guasto ai servizi Microsoft è iniziato giovedì 12 novembre, colpendo Outlook, Teams e Copilot a livello globale. Nelle ore successive l'azienda ha escluso un attacco informatico, parlando di problema tecnico, mentre aziende, ospedali e governi hanno dovuto ricorrere a telefono e fax per sostituire la posta elettronica bloccata.",
   "ze14ef86f": "La 'famiglia nel bosco', scoperta a vivere isolata in un casolare tra i boschi del Palermitano, era stata al centro di un provvedimento dei servizi sociali che aveva disposto l'allontanamento dei figli minori per tutelarne il diritto all'istruzione e alla socializzazione. I genitori avevano presentato ricorso contro la decisione, sostenendo il proprio diritto a crescere i figli secondo il proprio stile di vita, mentre le autorità avevano predisposto un percorso di rientro graduale dei bambini."
  },
  "cronologie": {
@@ -8898,16 +8704,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    [
     "Oggi",
     "La Rai conferma la regolare messa in onda di BellaMa' senza sospensioni"
-   ]
-  ],
-  "z1df12ed6": [
-   [
-    "2026-11-12",
-    "Inizio del guasto globale ai servizi Microsoft"
-   ],
-   [
-    "2026-11-13",
-    "Microsoft annuncia miglioramenti progressivi ma segnala situazione ancora instabile"
    ]
   ],
   "ze14ef86f": [
@@ -9275,46 +9071,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
     }
    ],
    "divergono": "Le testate affrontano l'argomento con cornici e temi profondamente differenti. ERR News mette al centro le decisioni del Ministero estone per le gare di sci nordico e biathlon. CBC News inquadra la notizia in un contesto nordamericano, focalizzandosi sulle conseguenze per la lega di hockey NHL in Finlandia. The Punch enfatizza invece il presunto primato della concessione di un evento alla Russia dal 2022. Al contrario, le testate di Hong Kong, South China Morning Post – Sport e RTHK, non citano affatto la vicenda dell'Estonia, dedicandosi esclusivamente ai risultati dei Giochi Para Asiatici."
-  },
-  "z1df12ed6": {
-   "voci": [
-    {
-     "n": "Le Monde",
-     "c": "Parigi",
-     "p": "XX",
-     "t": "Racconta il guasto attraverso testimonianze di lavoratori francesi colpiti nelle loro attività quotidiane, citando il dato che Microsoft 365 equipaggia l'82% delle aziende francesi secondo l'Osservatorio Arctus 2025. Riporta frasi come «eravamo tutti nella stessa barca» per descrivere la dipendenza condivisa dagli strumenti digitali.",
-     "b": "a"
-    },
-    {
-     "n": "Le Figaro",
-     "c": "Parigi",
-     "p": "XX",
-     "t": "In formato diretta aggiorna costantemente la cronologia del guasto su 74 Paesi, citando comunicati ufficiali Microsoft che esclude una «cyberattacco» e parla di «problema tecnico» legato a un aggiornamento di rete. Riporta reazioni di governi (Germania, Giappone, Nuova Zelanda), sindacati sanitari britannici (GMB) e associazioni consumatori italiane (Codacons) che chiedono «compensazioni».",
-     "b": "a"
-    },
-    {
-     "n": "Le Figaro",
-     "c": "Parigi",
-     "p": "XX",
-     "t": "Approfondisce le possibili cause tecniche del guasto, paragonandolo all'incidente CrowdStrike, segnalando che Downdetector ha registrato segnalazioni in 74 Paesi e 130.000 negli Stati Uniti. L'articolo è in gran parte a pagamento, quindi il quadro resta parziale.",
-     "b": "a"
-    },
-    {
-     "n": "Le Figaro",
-     "c": "Parigi",
-     "p": "XX",
-     "t": "Ricostruisce 24 ore di «pagaille» in aziende, ospedali e governi nel mondo, citando un messaggio ironico di un utente su X che accusa Microsoft di usare «parole alla moda per fare diversivo». L'articolo è prevalentemente riservato agli abbonati, quindi il giudizio resta parziale.",
-     "b": "a"
-    },
-    {
-     "n": "Libération",
-     "c": "Parigi",
-     "p": "XX",
-     "t": "Giudizio parziale: l'articolo non è leggibile per intero. Dal titolo e dall'occhiello emerge che racconta il ritorno a telefono e fax come soluzioni alternative adottate dai lavoratori durante il guasto a Outlook e Teams.",
-     "b": "t"
-    }
-   ],
-   "divergono": "Le Monde si concentra su testimonianze dirette di lavoratori francesi e sul dato Arctus sull'82% di penetrazione di Microsoft 365, mentre Le Figaro adotta un formato di cronaca live con dichiarazioni ufficiali Microsoft, governi e sindacati di più Paesi (Germania, Giappone, Regno Unito, Italia). Le Figaro riporta inoltre la versione di Microsoft che esclude la cyberattacca e cita cifre precise (74 Paesi, 130.000 segnalazioni USA) assenti in Le Monde. Libération, leggibile solo parzialmente, enfatizza il ritorno a tecnologie «passate» come il fax, aspetto non menzionato dalle altre testate."
   },
   "zcf75159e": {
    "voci": [
@@ -10844,15 +10600,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    ],
    "pt": []
   },
-  "z2cedbbb6": {
-   "n": "Manama",
-   "p": [
-    "Bahrain",
-    "Iran",
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z5e9ec202": {
    "n": "Dakar",
    "p": [
@@ -10949,14 +10696,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    "n": "La Paz",
    "p": [
     "Bolivia"
-   ],
-   "pt": []
-  },
-  "z7de6a142": {
-   "n": "Hong Kong",
-   "p": [
-    "Hong Kong",
-    "China"
    ],
    "pt": []
   },
@@ -11090,18 +10829,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    "p": [
     "Armenia"
    ],
-   "pt": []
-  },
-  "zf776e404": {
-   "n": "Chiclayo",
-   "p": [
-    "Peru"
-   ],
-   "pt": []
-  },
-  "z1df12ed6": {
-   "n": "Mondo",
-   "p": [],
    "pt": []
   },
   "z80b7c8a4": {
@@ -11342,7 +11069,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "zf02121ad": 1,
   "z8b502333": 1,
   "z42854bd7": 1,
-  "z2cedbbb6": 1,
   "z5e9ec202": 1,
   "z042507ee": 1,
   "zc9a2f8bd": 1,
@@ -11356,7 +11082,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z22ce3d26": 1,
   "za998fc1a": 1,
   "zc40fb110": 1,
-  "z7de6a142": 1,
   "ze08d6e4a": 2,
   "zf5c84730": 1,
   "zdbca8d8f": 1,
@@ -11376,8 +11101,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z5e1c97b9": 2,
   "z650bd5c3": 1,
   "zd34fe4ea": 1,
-  "zf776e404": 1,
-  "z1df12ed6": 3,
   "z80b7c8a4": 1,
   "z357fbd03": 1,
   "z7fe26812": 1,
