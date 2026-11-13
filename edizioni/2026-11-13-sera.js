@@ -3,6 +3,1176 @@ window.EDIZIONI["2026-11-13-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z8b502333",
+   "sez": "ambiente",
+   "titolo": "La presidente della Tanzania Samia Suluhu Hassan rientra nel Paese dopo la COP31",
+   "orig": "President Samia returns home after attending COP31 in Türkiye",
+   "lead": "La presidente della Tanzania, Samia Suluhu Hassan, è rientrata a Dar es Salaam dopo aver partecipato ad Antalya, in Turchia, alla 31ª Conferenza delle Nazioni Unite sui cambiamenti climatici (COP31). Ad accoglierla all'aeroporto internazionale Julius Nyerere sono stati alti funzionari di governo. Lo riferisce Daily News (Tanzania).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily News (Tanzania)",
+     "p": "XX",
+     "c": "Dar es Salaam",
+     "u": "https://dailynews.co.tz/president-samia-returns-home-after-attending-cop31-in-turkiye/",
+     "angolo": "",
+     "atlas": "Tanzania",
+     "t": "2026-11-13T17:06+00:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/952762/peace-returns-to-goharz-as-years-of-t%C3%BCrkiye-pkk-clashes-give-way-to-calm",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-13T14:03+03:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z42854bd7",
+   "sez": "mondo",
+   "titolo": "Tensione tra Grecia e Turchia per i rilievi della nave da ricerca del cavo GSI",
+   "orig": "War of “continental shelf” between Greece & Turkey accompany GSI mission vessel",
+   "lead": "La nave da ricerca battente bandiera francese Abeille Marengo, impegnata nei rilievi sottomarini per l'interconnessione elettrica Great Sea Interconnector, è stata affiancata da una fregata turca che ne contestava la presenza nella piattaforma continentale della Turchia. Il governo greco ha ribadito che non tollererà ingerenze nei lavori.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Keep Talking Greece",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.keeptalkinggreece.com/2026/11/12/gsi-mission-vessel-greece-turkey-continental-shelf/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-12T16:39+00:00"
+    },
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/11/13/we-will-not-tolerate-interventions-in-the-gsi-greece-tells-turkey",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-11-13T20:57+02:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2cedbbb6",
+   "sez": "mondo",
+   "titolo": "Iran dichiara l'attacco a un radar USA in Bahrain, ma l'immagine è un falso creato dall'IA",
+   "orig": "Un radar américain détruit par l'Iran ? Cette image modifiée par IA montre une destruction ancienne",
+   "lead": "Le Guardie della Rivoluzione iraniana hanno affermato di aver distrutto una stazione radar di allerta precoce statunitense in Bahrain, notizia smentita da Washington. Un'immagine satellitare circolata in rete per confermare l'attacco si è rivelata una manipolazione tramite intelligenza artificiale di un vecchio episodio risalente a giugno.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/moyen-orient/20261113-un-radar-am%C3%A9ricain-d%C3%A9truit-par-l-iran-cette-image-modifi%C3%A9e-par-ia-montre-une-destruction-ancienne",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T17:53+00:00"
+    },
+    {
+     "n": "Sky TG24",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://tg24.sky.it/mondo/2026/11/13/guerra-iran-usa-trump-news-diretta",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T18:04+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5e9ec202",
+   "sez": "mondo",
+   "titolo": "Giochi Olimpici della Gioventù Dakar 2026: il CIO stila un bilancio provvisorio positivo",
+   "orig": "Organisation des JOJ: Kirsty Coventry et le Cio subjugués par « Dakar 2026 »",
+   "lead": "Alla vigilia della conclusione della quarta edizione dei Giochi Olimpici della Gioventù a Dakar, la presidente del Comitato Olimpico Internazionale, Kirsty Coventry, e il comitato organizzatore locale hanno tracciato un bilancio positivo dell'evento, sottolineando il grande successo organizzativo e l'entusiasmo sollevato dalla manifestazione in Senegal.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/joj-dakar-2026/organisation-des-joj-kirsty-coventry-et-le-cio-subjugues-par-dakar-2026/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-13T16:38+00:00"
+    },
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/108509-dakar-2026-quel-bilan-pour-les-athletes-centrafricains",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-11-13T12:25+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z042507ee",
+   "sez": "economia",
+   "titolo": "La Corea del Sud mantiene inalterati i tetti ai prezzi dei carburanti",
+   "orig": "Seoul keeps fuel price caps unchanged amid Mideast tensions",
+   "lead": "Il governo della Corea del Sud ha confermato per la quinta volta consecutiva la decisione di mantenere invariati i tetti massimi ai prezzi dei carburanti per le prossime quattro settimane. La misura è stata motivata dal persistere dell'elevato costo del petrolio sui mercati internazionali e dalle tensioni in Medio Oriente.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10936783",
+     "angolo": "",
+     "atlas": "South Korea"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2044318/petrol-price-cut-by-by-rs2-high-speed-diesel-price-remains-unchanged",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-13T22:51+05:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc9a2f8bd",
+   "sez": "mondo",
+   "titolo": "Paraguay: contestata anche l'associazione a delinquere all'ex presidente Peña",
+   "orig": "Paraguay adds criminal association charge against ex-president Peña",
+   "lead": "La procura del Paraguay ha formalizzato l'ulteriore accusa di associazione a delinquere nei confronti dell'ex presidente Santiago Peña, sottoposto di recente ad impeachment. L'inchiesta coinvolge anche diversi ex alti funzionari della banca centrale a seguito del collasso dell'istituto finanziario digitale ueno bank.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/paraguay-adds-criminal-association-charge-against-ex-president-pena",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-14T02:34+08:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/politica/2026/11/13/amplian-imputacion-contra-santiago-en-caso-ueno-bank-pena-incluyen-asociacion-criminal/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-11-13T17:12+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z66bb936b",
+   "sez": "ambiente",
+   "titolo": "Allerta in Bolivia e Perù per piogge intense e rischio di esondazione dei fiumi",
+   "orig": "El senamhi prevé lluvias y tormentas eléctricas durante el fin de semana y advierte posible desborde de ríos",
+   "lead": "Il servizio meteorologico Senamhi ha emesso un avviso di allerta per forti piogge e temporali previsti durante il fine settimana in diverse regioni di Bolivia e Perù. Le autorità idrologicale hanno segnalato il concreto rischio di esondazione dei fiumi a causa del marcato aumento dei caudali fino a lunedì.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/sociedad/el-senamhi-preve-lluvias-y-tormentas-electricas-durante-el-fin-de-semana-y-advierte-posible-desborde-de-rios",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T13:27-04:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/peru/lluvias-en-regiones-peru-hoy-pronostico-del-clima-senamhi-en-vivo-alertas-ultimas-noticias-y-lloviznas-en-lima-indeci-coen-lbposting-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-13T18:55+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z851db83f",
+   "sez": "mondo",
+   "titolo": "L'ONU proroga all'unanimità il mandato della missione MINUSCA in Centrafrica",
+   "orig": "Centrafrique : le mandat de la Minusca renouvelé jusqu’au 15 novembre 2027",
+   "lead": "Il Consiglio di Sicurezza delle Nazioni Unite ha approvato all'unanimità a New York una risoluzione che rinnova il mandato della Missione multidimensionale integrata per la stabilizzazione in Repubblica Centrafricana (MINUSCA). La presenza della missione di pace nel Paese africano è stata prolungata fino al 15 novembre 2027.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Radio Ndeke Luka",
+     "p": "XX",
+     "c": "Bangui",
+     "u": "https://www.radiondekeluka.org/108532-centrafrique-le-mandat-de-la-minusca-renouvele-jusquau-15-novembre-2027",
+     "angolo": "",
+     "atlas": "Central African Rep.",
+     "t": "2026-11-13T14:13+00:00"
+    },
+    {
+     "n": "Tchadinfos",
+     "p": "XX",
+     "c": "N'Djamena",
+     "u": "https://tchadinfos.com/2026/11/13/centrafrique-le-conseil-de-securite-de-lonu-prolonge-le-mandat-de-la-minusca-jusquen-2027/",
+     "angolo": "",
+     "atlas": "Chad",
+     "t": "2026-11-13T18:00+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2d843198",
+   "sez": "mondo",
+   "titolo": "La ministra degli Esteri birmana in esilio denuncia l'instabilità della regione",
+   "orig": "Zin Mar Aung, ministre birmane des Affaires étrangères : «Notre pays est plongé dans une instabilité qui gagne toute la région»",
+   "lead": "In un'intervista, la ministra degli Esteri del governo di unità nazionale birmano, Zin Mar Aung, ha lanciato un allarme sull'instabilità prodotta in Myanmar dal regime militare di Min Aung Hlaing, sottolineando come la crisi stia investendo l'intera regione mentre la resistenza prosegue l'offensiva diplomatica.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/international/asie-pacifique/zin-mar-aung-ministre-birmane-des-affaires-etrangeres-notre-pays-est-plonge-dans-une-instabilite-qui-gagne-toute-la-region-20261113_7U6VSZ3NWVBFPF64KQPFMRMBYU/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T18:24+00:00"
+    },
+    {
+     "n": "Haïti Libre",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://www.haitilibre.com/article-48886-haiti-politique-declaration-conjointe-de-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-sur-haiti.html",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-11-13T08:36-05:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z62f120d6",
+   "sez": "economia",
+   "titolo": "Carni sudamericane: allevatori in protesta per i ritardi sulla tracciabilità verso l'Europa",
+   "orig": "Visec: fuerte reclamo de consignatarios por demoras en la plataforma de trazabilidad para exportar carne a Europa",
+   "lead": "Gli operatori del settore zootecnico in Argentina e Bolivia hanno sollevato forti proteste per le falle e i ritardi nelle piattaforme informatiche di tracciabilità della carne. I mercati internazionali in Europa e negli Stati Uniti richiedono infatti garanzie rigorose sull'origine dei capi e sulla non associazione con fenomeni di deforestazione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/economia/campo/visec-fuerte-reclamo-de-consignatarios-por-demoras-en-la-plataforma-de-trazabilidad-para-exportar-nid13112026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-13T18:51+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/economia/mercados-internacionales-elevan-exigencias-trazabilidad-comprar-carne-boliviana_1794591264",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T17:34+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z64b73d5f",
+   "sez": "mondo",
+   "titolo": "Forte terremoto di magnitudo 5,9 colpisce la costa meridionale del Perù",
+   "orig": "Fuerte sismo en Perú hoy, viernes 13 de noviembre: reportan temblor de magnitud 5,9 en San Juan de Marcona, cerca de la costa sur",
+   "lead": "Una scossa di terremoto di magnitudo 5,9 ha colpito la zona di San Juan de Marcona, lungo la costa meridionale del Perù, provocando apprensione nella popolazione. L'evento sismico è stato registrato dalle autorità competenti nel corso della visita pastorale che papa Leone XIV sta effettuando nel Paese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/latinoamerica/fuerte-sismo-en-peru-hoy-viernes-13-de-noviembre-reportan-temblor-de-magnitud-5-9-en-san-juan-de-marcona-cerca-de-la-costa-sur-3600863",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-13T13:43-05:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/temblor-en-peru-hoy-ultimo-sismo-de-noviembre-en-vivo-cual-fue-la-magnitud-y-epicentro-segun-reporte-del-igp-instituto-geofisico-del-peru-lima-callao-ancash-lbposting-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-13T15:22+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-ultimo-sismo-de-noviembre-en-vivo-cual-fue-la-magnitud-y-epicentro-segun-reporte-del-sgc-centro-sismologico-nacional-socaire-ollague-lbposting-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-13T15:18+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-ultimo-sismo-13-y-14-de-noviembre-2026-registrado-por-el-funvisis-cual-fue-la-magnitud-epicentro-y-hora-proteccion-civil-la-guaira-caracas-lbposting-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-13T18:51+00:00"
+    },
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/respuestas/loterias/gordito-del-zodiaco-en-vivo-resultados-hoy-viernes-13-de-noviembre-de-2026-numeros-ganadores-de-loteria-nacional-de-panama-numeros-ganadores-chances-premios-lnbpma-pa-lbposting-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-13T18:51+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9b6ccd36",
+   "sez": "economia",
+   "titolo": "L'AIE: per rilanciare la produzione di petrolio in Venezuela servono nuovi investimenti",
+   "orig": "Elevar rápidamente la producción de crudo de Venezuela necesita más inversiones, según AIE",
+   "lead": "Secondo un rapporto dell'Agenzia Internazionale dell'Energia, il Venezuela necessita di significativi investimenti per incrementare rapidamente l'estrazione di greggio e frenare il calo dei pozzi maturi. Nel mese di ottobre la produzione del Paese sudamericano si è attestata a 1,15 milioni di barili al giorno, in lieve flessione rispetto a settembre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/venezuela/elevar-rapidamente-la-produccion-de-crudo-de-venezuela-necesita-mas-inversiones-segun-aie-3600859",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-13T12:19-05:00"
+    },
+    {
+     "n": "El Nacional",
+     "p": "XX",
+     "c": "Caracas",
+     "u": "https://www.elnacional.com/2026/11/agencia-internacional-de-la-energia-afirma-que-venezuela-necesita-inversiones-para-elevar-la-produccion-de-crudo/",
+     "angolo": "",
+     "atlas": "Venezuela",
+     "t": "2026-11-13T16:53+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1e9854b5",
+   "sez": "mondo",
+   "titolo": "L'Alleanza degli Stati del Sahel critica le espulsioni dalla Guinea e denuncia ingerenze UE",
+   "orig": "L'AES déplore les expulsions de Guinée et s'insurge contre des \"ingérences\" de l'UE",
+   "lead": "Riuniti a Ouagadougou, i ministri della Confederazione degli Stati del Sahel (Burkina Faso, Mali e Niger) hanno deplorato le espulsioni di massa non concordate dei propri cercatori d'oro dalla Guinea. Nel corso dei lavori, i rappresentanti dei tre Paesi si sono scagliati anche contro presunte ingerenze dell'Unione Europea nella regione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/laes-deplore-les-expulsions-de-guinee-et-sinsurge-contre-des-ingerences-de-lue/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-13T16:08+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/orpaillage-illegal-en-guinee-laes-deplore-des-expulsions-massives-et-non-concertees-de-ses-ressortissants/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-13T12:09+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z22ce3d26",
+   "sez": "mondo",
+   "titolo": "Ronaldinho torna in campo col Ravenna: il tecnico Mandorlini lo schiera dall'inizio",
+   "orig": "Ronaldinho poised for Ravenna start and, perhaps, one last goal",
+   "lead": "L'allenatore del Ravenna, Andrea Mandorlini, ha annunciato che l'ex fuoriclasse brasiliano Ronaldinho scenderà in campo dal primo minuto nel derby cittadino. Il tecnico valuterà insieme al giocatore la durata dell'impiego a partita in corso, in un evento che richiama una vasta attenzione mediatica sul campione sudamericano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/sport/ronaldinho-poised-ravenna-start-and-perhaps-one-last-goal-6550376",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-14T02:10+08:00"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/calcio/ronaldinho_campo_col_ravenna_tecnico_andrea_mandorlini_giochera_derby_inizio-9888267.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T18:52+01:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "za998fc1a",
+   "sez": "mondo",
+   "titolo": "Calcio: la Corea del Sud battuta 3-2 dall'Arabia Saudita a quasi vent'anni dall'ultimo precedente",
+   "orig": "Son Heung-min laments unrewarded effort against Saudi Arabia after 3-2 loss",
+   "lead": "La nazionale di calcio della Corea del Sud è stata sconfitto per 3-2 dall'Arabia Saudita in una gara disputata ad Al Rayyan, in Qatar, registrando un KO contro i sauditi che mancava da 21 anni. Il capitano Son Heung-min e il CT ad interim Robert Moreno hanno ammesso la necessità di ampi miglioramenti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261114000700315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-14T03:22+09:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261114000500315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-14T02:53+09:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261114000400315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-14T02:18+09:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261114000251315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-14T01:47+09:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261114000200315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-14T01:35+09:00"
+    },
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-saudi-arabia-disintegrating",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-13T18:02+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc40fb110",
+   "sez": "economia",
+   "titolo": "Bolivia: le riserve provate di gas naturale scendono al minimo da 20 anni",
+   "orig": "Bolivia tiene 2,30 TCF de reservas probadas de gas, el nivel más bajo de los últimos 20 años",
+   "lead": "La Bolivia ha registrato un volume di riserve provate di gas naturale pari a soli 2,30 TCF, il dato più basso degli ultimi vent'anni che segna un calo del 78% dal 2013. La compagnia statale YPFB ha avvertito che senza nuovi investimenti in esplorazione il Paese potrebbe dover importare gas dal 2030.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/economia/bolivia-tiene-230-tcf-de-reservas-probadas-de-gas-el-nivel-mas-bajo-de-los-ultimos-20-anos",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T11:43-04:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/santa-cruz/uno-cada-10-adultos-bolivia-tiene-diabetes-santa-cruz-esta-regiones-afectadas_1794586555",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T16:15+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/economia/auge-gas-quedo-atras-bolivia-perdio-78-reservas-probadas-2013_1794586328",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T16:12+00:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/ypfb-advierte-que-bolivia-podria-importar-gas-2030-falta-inversiones/20261113145525999112.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T14:55-04:00"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://www.opinion.com.bo/pais/ypfb-bolivia-tiene-230-tcf-reservas-gas-probadas-nivel-mas-ultimos-20-anos/20261113144250999110.html",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T14:42-04:00"
+    },
+    {
+     "n": "Brújula Digital",
+     "p": "XX",
+     "c": "La Paz",
+     "u": "https://brujuladigital.net/sociedad/gobernacion-de-santa-cruz-identifica-seis-incendios-forestales-activos",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-13T10:50-04:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7de6a142",
+   "sez": "mondo",
+   "titolo": "Disservizi Microsoft nel mondo e polemiche sugli ascensori a Hong Kong",
+   "orig": "Evening News on TV32 - Nov 13",
+   "lead": "Un vasto guasto ai sistemi Microsoft ha provocato disservizi a livello globale. Nel frattempo, a Hong Kong i parlamentari hanno espresso forti preoccupazioni per i ripetuti malfunzionamenti degli ascensori presso l'ospedale Queen Mary, mentre l'Autorità per l'edilizia ha introdotto nuove facilitazioni per l'acquisto della casa da parte dei giovani. Lo riferisce RTHK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTHK",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://news.rthk.hk/rthk/en/component/k2/1877729-20261113.htm",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-13T20:43+08:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-evening",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-13T18:00+01:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze08d6e4a",
+   "sez": "prima",
+   "titolo": "Caso Diaco: la Rai avvia un audit interno sul conduttore televisivo",
+   "orig": "'Ulteriori elementi' sul caso Diaco, la Rai avvia un audit interno",
+   "lead": "I vertici della Rai hanno deciso di avviare un audit interno per esaminare nuovi elementi emersi in merito alla condotta del conduttore Pierluigi Diaco. Al momento non è stata disposta alcuna sospensione preventiva per la trasmissione BellaMa', in attesa che la dirigenza valuti eventuali sanzioni disciplinari.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/politica/2026/11/13/ulteriori-elementi-su-bellama-di-diaco-la-rai-avvia-un-audit-interno_2b465eba-9d87-4b75-8890-75c0d12d31d9.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T19:18+01:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/13/news/rai_indagine_interna_su_diaco_bellama-425721752/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T17:39+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera",
+   "sez_prima": "italia",
+   "riempimento": true
+  },
+  {
+   "id": "zf5c84730",
+   "sez": "mondo",
+   "titolo": "Pakistan: la Presidenza smentisce colloqui su nuove province nell'incontro Zardari-Naqvi",
+   "orig": "President House says matters related to provinces did not come under discussion during Zardari, Naqvi meeting",
+   "lead": "La Presidenza del Pakistan ha smentito ufficialmente le notizie secondo cui nel colloquio tra il presidente Asif Ali Zardari e il ministro dell'Interno Mohsin Naqvi si sarebbe parlato della creazione di nuove province. La nota chiarisce che l'incontro ha riguardato esclusivamente la sicurezza nazionale e la situazione regionale. Lo riferisce Dawn.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2044319/president-house-says-matters-related-to-provinces-did-not-come-under-discussion-during-zardari-naqvi-meeting",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-13T23:16+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2640157/no-provincial-matters-discussed-at-zardari-naqvi-meeting-in-nawabshah-president-house",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-13T16:30+05:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdbca8d8f",
+   "sez": "mondo",
+   "titolo": "Libano: il figlio del presidente turco Erdogan incontra i leader a Tripoli",
+   "orig": "Why is Erdogan's son meeting Lebanon’s top leaders?",
+   "lead": "Bilal Erdogan, figlio del presidente turco Recep Tayyip Erdogan, ha compiuto una visita a Tripoli, nel nord del Libano, incontrando leader politici e religiosi locali. La missione s'inquadra nel tentativo della Turchia di ampliare il proprio ruolo diplomatico nella regione e promuovere l'unità interna del Paese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/news/why-erdogan-son-meeting-lebanons-top-leaders",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-13T18:53+00:00"
+    },
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://www.naharnet.com/stories/en/323771-bilal-erdogan-from-tripoli-we-need-lebanon-to-be-united-internally",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-11-13T16:09+02:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zdf107392",
+   "sez": "mondo",
+   "titolo": "Libano: l'esercito sequestra un deposito di armi nella periferia di Beirut",
+   "orig": "Lebanese army says it seized arms depot in Beirut's southern suburbs",
+   "lead": "L'esercito libanese ha condotto un'operazione speciale di sicurezza nella periferia sud di Beirut, portando al sequestro di un ingente deposito di armi e munizioni e all'arresto di una persona. L'intervento giunge mentre nella zona permangono le tensioni per il sorvolo di droni israeliani a bassa quota.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Middle East Eye",
+     "p": "XX",
+     "c": "Londra",
+     "u": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanese-army-says-it-seized-arms-depot-beiruts-southern-suburbs",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-13T18:12+00:00"
+    },
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://www.naharnet.com/stories/en/323762-low-flying-drones-buzz-beirut-as-israeli-shelling-targets-southern-towns",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-11-13T15:16+02:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z949b097c",
+   "sez": "mondo",
+   "titolo": "Tennis: l'argentino Tirante denuncia la solitudine del circuito, Musetti risponde",
+   "orig": "Tirante sbotta: “Tra noi tennisti non parliamo, alcuni hanno un ego smisurato. È un grosso problema”. Musetti gli risponde",
+   "lead": "Il tennista argentino Thiago Agustín Tirante ha denunciato la solitudine e i problemi legati alla salute mentale nel circuito professionale, criticando l'eccessivo egoismo di molti colleghi. Lorenzo Musetti ha replicato alle dichiarazioni dopo essere stato sconfitto da Taylor Fritz nelle semifinali del torneo ATP 250 di Stoccolma.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/13/tirante-tennisti-musetti-non-parliamo-alcuni-hanno-un-ego-smisurato/8571349/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T17:40+00:00"
+    },
+    {
+     "n": "Il Messaggero – Sport",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/sport/tennis/atp_stoccolma_musetti_eliminato_semifinale_vince_fritz-9888255.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T18:35+01:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z439d2f96",
+   "sez": "mondo",
+   "titolo": "Francia 2027: dibattito sulle divisioni della sinistra in vista delle presidenziali",
+   "orig": "VIDEO Présidentielle 2027 : les gauches sont-elles vraiment irréconciliables ?",
+   "lead": "In vista delle elezioni presidenziali francesi del 2027, le analisi politiche si concentrano sulle profonde fratture ideologiche interne al fronte progressista. I sondaggi collocano al momento Marine Le Pen in testa al primo turno, alimentando l'incertezza su quale candidato della sinistra o del centro possa accedere al ballottaggio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/videos/video/2026/11/13/presidentielle-2027-les-gauches-seront-elles-vraiment-irreconciliables_6809362_1669088.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T18:00+01:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-qui-peut-decrocher-la-deuxieme-place-20261113",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T12:14+01:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z21f49c64",
+   "sez": "mondo",
+   "titolo": "Argentina: esplosione di gas con 21 feriti minaccia una biblioteca storica a Lanús",
+   "orig": "Una biblioteca de más de 100 años corre peligro, justo al lado de la explosión de gas en Remedios de Escalada",
+   "lead": "Un incendio scaturito dalla rottura di una condotta del gas durante lavori stradali a Remedios de Escalada, nel comune di Lanús, ha provocato almeno 21 feriti. Le fiamme minacciano da vicino la centenaria Biblioteca Popolare Alberdi, suscitando forte preoccupazione tra la popolazione e le istituzioni locali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/zonales/biblioteca-100-anos-corre-peligro-justo-lado-explosion-gas-remedios-escalada_0_rlUaKabzLK.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-13T17:58+00:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/sociedad/fuerte-explosion-en-remedios-de-escalada-estaban-trabajando-y-rompieron-un-cano-de-gas-nid13112026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-13T18:46+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z37d8a3aa",
+   "sez": "mondo",
+   "titolo": "Guinea: Mohamed Aly Condé si insedia ufficialmente alla Direzione delle Elezioni",
+   "orig": "Mohamed Aly Condé à sa prise de fonction à la DGE: « Je ne viens pas effacer un héritage, mais le préserver et l’élever davantage »",
+   "lead": "Mohamed Aly Condé si è insediato come nuovo direttore generale delle elezioni in Guinea nel corso di una cerimonia alla presenza del ministro dell'Amministrazione del territorio. Condé ha affermato di voler preservare ed elevare l'eredità dell'istituzione senza improvvisazioni, in vista delle prossime scadenze elettorali nel Paese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/mohamed-aly-conde-a-sa-prise-de-fonction-a-la-dge-je-ne-viens-pas-effacer-un-heritage-mais-le-preserver-et-lelever-davantage/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-13T17:09+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/13/dge-mohamed-ali-conde-prend-fonction-et-promet-de-relever-le-defi-sans-improvisation/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-13T13:39+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0c40a61a",
+   "sez": "mondo",
+   "titolo": "Usa, prosegue la pressione dell'amministrazione sui registri elettorali",
+   "orig": "The Trump administration's voter roll crusade could continue",
+   "lead": "Gli amministratori elettorali negli Stati Uniti si stanno preparando al proseguimento delle pressioni da parte dell'amministrazione Trump sui registri elettorali statali, mirate a individuare presunti cittadini stranieri, nonostante le recenti sentenze giudiziarie abbiano posto nuovi ostacoli legali alle iniziative federali. Lo riferisce NPR.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T12:00-05:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8b4666f0",
+   "sez": "mondo",
+   "titolo": "Sicurezza europea: gli esperti mettono in guardia da una revisione degli accordi",
+   "orig": "The dangers of revising Europe's security architecture",
+   "lead": "Diversi esperti di geopolitica hanno messo in guardia contro la revisione dell'architettura di sicurezza europea, evidenziando come una rinegoziazione dei trattati del secondo dopoguerra rischi di concedere a Mosca lo storico obiettivo strategico di ridefinire gli equilibri continentali a proprio favore. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T17:30+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "za02c4eb2",
+   "sez": "tech",
+   "titolo": "Intelligenza artificiale: appello all'UE per accelerare nella sfida con USA e Cina",
+   "orig": "EU leaders urged to 'act now' to stay AI competitive with US, China",
+   "lead": "Durante un vertice a Dublino, i leader dell'Unione Europea sono stati sollecitati da un dirigente del settore dell'intelligenza artificiale ad agire rapidamente nella competizione con Stati Uniti e Cina, mentre la presidente del Parlamento europeo Metsola ha respinto le critiche sul ritardo del blocco. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/eu-leaders-urged-to-act-now-to-stay-ai-competitive-with-us-china/a-79937463",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T16:55+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zefe6778e",
+   "sez": "ambiente",
+   "titolo": "Vortice polare, registrata un'inversione di rotta senza precedenti",
+   "orig": "What's going on with the polar vortex?",
+   "lead": "Le osservazioni scientifiche hanno rilevato una storica inversione di rotta nell'anello di venti del vortice polare sopra il Polo Nord, segnando il cambiamento di direzione più precoce mai registrato nella storia della meteorologia e sollevando interrogativi sui possibili impatti climatici globali. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/what-s-going-on-with-the-polar-vortex/a-79943105",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T16:34+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z089263de",
+   "sez": "ambiente",
+   "titolo": "Oceano Indiano: individuata una colonia corallina gigante di 1,5 chilometri",
+   "orig": "„Laukiau, kol baigsis, bet jis nesibaigė“: aptiktas galimai didžiausias pasaulyje koralas",
+   "lead": "Nel mezzo dell'Oceano Indiano, vicino alle remote Isole Cocos, i biologi marini hanno scoperto quella che potrebbe essere la colonia corallina più grande al mondo, estesa per un chilometro e mezzo e con un'età stimata di almeno mille anni. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/3113275/laukiau-kol-baigsis-bet-jis-nesibaige-aptiktas-galimai-didziausias-pasaulyje-koralas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-13T20:50+02:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd9ec56bf",
+   "sez": "mondo",
+   "titolo": "Lituania: i Socialdemocratici candidano il ministro Taminskas a sindaco di Vilnius",
+   "orig": "Socialdemokratai į Vilniaus merus kelia Taminsko kandidatūrą, sąrašą ves Pinelis",
+   "lead": "I Socialdemocratici al governo in Lituania hanno annunciato la candidatura del ministro dei Trasporti Juras Taminskas alla carica di sindaco di Vilnius per le prossime elezioni amministrative, con la lista del partito che sarà guidata da Pinelis nella corsa per la capitale. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3113398/socialdemokratai-i-vilniaus-merus-kelia-taminsko-kandidatura-sarasa-ves-pinelis",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-13T20:19+02:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc1cc4271",
+   "sez": "mondo",
+   "titolo": "Lituania: critiche degli storici al nuovo programma scolastico",
+   "orig": "Istorikas apie naują istorijos programą: „Lietuvių tauta kaip ir išnyko kaip sąvoka“",
+   "lead": "Lo storico e analista politico Kastytis Antanaitis ha fortemente criticato il nuovo programma scolastico di storia in Lituania, sostenendo che la riforma stia riducendo l'importanza dell'identità nazionale e lasciando gli studenti privi di riferimenti essenziali su eventi e figure storiche del Paese. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/svietimas/45/3106148/istorikas-apie-nauja-istorijos-programa-lietuviu-tauta-kaip-ir-isnyko-kaip-savoka",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-13T20:15+02:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z95ea6681",
+   "sez": "tech",
+   "titolo": "FBI: hacker nordcoreani rubano 400 milioni di dollari con falso AI",
+   "orig": "FTB: Šiaurės Korėjos programišiai netikrais vaizdo skambučiais pavogė 400 mln. dolerių",
+   "lead": "Gli hacker sostenuti dal regime della Corea del Nord hanno rubato oltre quattrocento milioni di dollari utilizzando furti d'identità e videochiamate false generate dall'intelligenza artificiale, secondo quanto denunciato dal Federal Bureau of Investigation degli Stati Uniti. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/pasaulyje/6/3113394/ftb-siaures-korejos-programisiai-netikrais-vaizdo-skambuciais-pavoge-400-mln-doleriu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-13T20:02+02:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc25aff31",
+   "sez": "ambiente",
+   "titolo": "USA: gli incendi boschivi minacciano le risorse idriche del Paese",
+   "orig": "Bigger and more-frequent wildfires threaten water supplies across the U.S.",
+   "lead": "I recenti e sempre più frequenti incendi boschivi negli Stati Uniti minacciano direttamente le riserve d'acqua potabile del Paese, poiché la distruzione della vegetazione rilascia contaminanti nei fiumi e nei torrenti che possono persistere per oltre un decennio. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/nation/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-u-s",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T12:21-05:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5e1c97b9",
+   "sez": "mondo",
+   "titolo": "Pace in Ucraina: definita la squadra europea di negoziazione",
+   "orig": "Αντόνιο Κόστα: Οριστικοποιήθηκε η σύνθεση της ευρωπαϊκής εκπροσώπησης στις συνομιλίες για την Ουκρανία",
+   "lead": "Il presidente del Consiglio europeo António Costa ha confermato che la squadra di negoziazione europea per le trattative sulla pace in Ucraina sarà composta dalle istituzioni dell'Unione Europea e dai Paesi del gruppo E5, vale a dire Francia, Germania, Italia, Polonia e Regno Unito. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/antonio-kosta-oristikopoiithike-i-synthesi-tis-eyropaikis-ekprosopisis-stis-synomilies-gia-tin-oukrania/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-13T18:29+00:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T13:22-05:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "z650bd5c3",
+   "sez": "mondo",
+   "titolo": "Dublino: l'Armenia non aderisce alla dichiarazione sulla sicurezza europea",
+   "orig": "Armenia Stays Out Of European Security Declaration At Dublin Summit",
+   "lead": "L'Armenia ha scelto di non sottoscrivere la dichiarazione sui principi chiave della sicurezza europea firmata da quaranta nazioni a conclusione del vertice della Comunità Politica Europea a Dublino, evidenziando una posizione distante dagli standard comuni concordati durante l'incontro continentale. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33898219.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-13T21:12+04:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd34fe4ea",
+   "sez": "mondo",
+   "titolo": "Armenia: il giudice sul caso dell'oppositore Gevorgyan ricusa l'incarico",
+   "orig": "Արսեն Գևորգյանին կալանավորելու որոշումը կայացրած դատավորն ինքնաբացարկ է հայտնել",
+   "lead": "Il giudice della Corte anticorruzione armena Aram Grigoryan si è astenuto dal proseguire il procedimento sul caso dell'oppositore Arsen Gevorgyan, deceduto in carcere, in seguito alle polemiche che hanno messo in discussione la legittimità della sua precedente decisione di arrestare il politico. Lo riferisce Azatutyun.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33898206.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-13T20:44+04:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf776e404",
+   "sez": "mondo",
+   "titolo": "Il Papa in Perù: «Coltivate fede e carità contro indifferenza e materialismo»",
+   "orig": "Leone XIV: coltivate fede e carità, nonostante materialismo ed indifferenza",
+   "lead": "Durante la celebrazione della Messa a Chiclayo, in Perù, il Papa ha esortato i fedeli a coltivare la fede e la carità per contrastare il materialismo e l'indifferenza, ringraziando la comunità per le preghiere rivolte alla sua salute. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/papa/news/2026-11/chiclayo-evangelizzazione-fede-leonexiv.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-13T18:00+01:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "20:16",
+   "uscita": "sera"
+  },
+  {
    "id": "z811fd41f",
    "sez": "prima",
    "titolo": "Il pilota Kimi Antonelli ricevuto al Quirinale dal presidente Mattarella",
@@ -39,7 +1209,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   },
   {
    "id": "z8dfafa08",
-   "sez": "prima",
+   "sez": "italia",
    "titolo": "Manovra economica, cancellati i tagli alla scuola e confronto sui fondi alla sanità",
    "orig": "Manovra, via i tagli alla scuola. Il governo cerca altri fondi per la sanità",
    "lead": "Si è concluso a Palazzo Chigi l'incontro tra il governo guidato da Giorgia Meloni e le rappresentanze sindacali sulla nuova manovra di bilancio. L'esecutivo ha confermato la cancellazione dei previsti tagli alle risorse destinate al settore scolastico e sta cercando nuovi fondi da destinare alla sanità pubblica. Le reazioni dei sindacati sono divise: la Cgil ha confermato lo sciopero per il venti novembre, la Cisl chiede di non penalizzare i pensionati, mentre la Uil giudica positivamente la decisione sulla scuola. L'opposizione attende la verifica dei fatti.",
@@ -68,9 +1238,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
    ],
    "data": "13 nov",
    "ora": "20:12",
-   "uscita": "sera",
-   "sez_prima": "italia",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z4aded4ed",
@@ -479,7 +1647,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   },
   {
    "id": "z0c26be8e",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "L'Estonia vieta agli atleti russi e bielorussi di gareggiare sul proprio territorio",
    "orig": "Estonia to ski federation: Russian athletes will not compete on our snow",
    "lead": "Il governo dell'Estonia ha comunicato alla Federazione Internazionale dello Sci che non consentirà agli atleti provenienti da Russia e Bielorussia di prendere parte alle competizioni sportive previste sul territorio estone finché proseguirà il conflitto armato in Ucraina. La decisione segue iniziative analoghe adottate da Finlandia e Norvegia, ampliando il fronte dei Paesi nordici favorevoli al blocco degli atleti dei Paesi aggressori. La decisione potrebbe avere ripercussioni anche sulle future tappe dei tornei sportivi internazionali programmate nella regione.",
@@ -530,6 +1698,15 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-11-13T12:44+08:00"
+    },
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/sportas/10/3113399/svedu-ministras-svedija-siekia-neleisti-rusijos-sportininkams-varzytis-salyje",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-13T20:24+02:00"
     }
    ],
    "data": "13 nov",
@@ -2652,6 +3829,15 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "New Zealand",
      "t": "2026-11-13T15:36+00:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/trumpcare-and-commemorative-plaques-how-democrats-are-pitching-deal-making-with-the-president",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T13:40-05:00"
     }
    ],
    "data": "13 nov",
@@ -2782,7 +3968,45 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z6f7195f5": "La testata mette in risalto l'emissione del mandato d'arresto su mandato delle autorità degli Stati Uniti.",
   "zf8d80e83": "Le testate evidenziano il rafforzamento dell'alleanza militare a seguito del vertice tra Erdogan e l'emiro Al Thani.",
   "z53e68d77": "Le testate risaltano la doppia strategia dei Democratici tra sanzioni al Segretario alla Salute e l'apertura ai suoi sostenitori su temi condivisi.",
-  "zf02121ad": "La testata evidenzia l'interpretazione degli esperti sull'intenzione di Washington di slegare la presenza militare dal controllo operativo."
+  "zf02121ad": "La testata evidenzia l'interpretazione degli esperti sull'intenzione di Washington di slegare la presenza militare dal controllo operativo.",
+  "z8b502333": "Cronaca diplomatica focalizzata sulle attività istituzionali del presidente tanzaniano.",
+  "z42854bd7": "Copertura attenta alle controversie marittime e territoriali nel Mediterraneo orientale.",
+  "z2cedbbb6": "Analisi di fact-checking focalizzata sulla disinformazione e sulle immagini manipolate nei conflitti.",
+  "z5e9ec202": "Resoconto entusiasta dell'organizzazione dei Giochi Olimpici giovanili nel continente africano.",
+  "z042507ee": "Attenzione rivolta alle ripercussioni delle crisi internazionali sulle politiche economiche interne.",
+  "zc9a2f8bd": "Servizio attento agli sviluppi giudiziari sul crollo bancario e sulle responsabilità politiche.",
+  "z66bb936b": "Monitoraggio costante delle allerte meteo e della prevenzione dei rischi idrogeologici sulle Ande.",
+  "z851db83f": "Informativa incentrata sulle risoluzioni internazionali per la stabilizzazione della Repubblica Centrafricana.",
+  "z2d843198": "Prospettiva aperta alle ragioni della resistenza democratica birmana contro il regime militare.",
+  "z62f120d6": "Focus sulle problematiche operative e sulle barriere commerciali per le esportazioni dal Sudamerica.",
+  "z64b73d5f": "Notizia immediata sull'evento sismico che ha interessato la costa peruviana.",
+  "z9b6ccd36": "Analisi di politica energetica ed economia industriale focalizzata sui bacini petroliferi venezuelani.",
+  "z1e9854b5": "Prospettiva schierata con le risoluzioni e le posizioni diplomatiche dei governi del Sahel.",
+  "z22ce3d26": "Copertura mediatica orientata all'evento sportivo e all'esordio di Ronaldinho con il club romagnolo.",
+  "za998fc1a": "Resoconto sportivo incentrato sulla delusione della nazionale sudcoreana dopo la sconfitta.",
+  "zc40fb110": "Analisi economica incentrata sul declino delle risorse energetiche strategiche della Bolivia.",
+  "z7de6a142": "Panoramica di notizie quotidiane incentrata sui fatti principali di Hong Kong e della tecnologia.",
+  "ze08d6e4a": "Notizia incentrata sui controlli interni e sulle questioni disciplinari della televisione pubblica italiana.",
+  "zf5c84730": "Resoconto istituzionale rivolto a chiarire le indiscrezioni sui colloqui politici al vertice pakistano.",
+  "zdbca8d8f": "Analisi dell'influenza diplomatica turca e della proiezione internazionale della famiglia Erdogan nel Vicino Oriente.",
+  "zdf107392": "Resoconto focalizzato sulle operazioni delle forze armate libanesi per la sicurezza della capitale.",
+  "z949b097c": "Sguardo attento ai risvolti psicologici e al dibattito interpersonale tra gli atleti del circuito ATP.",
+  "z439d2f96": "Analisi politica focalizzata sugli equilibri elettorali e sulle prospettive delle candidature in Francia.",
+  "z21f49c64": "Cronaca di emergenza incentrata sull'incidente di gas e sul pericolo per il patrimonio culturale cittadino.",
+  "z37d8a3aa": "Servizio istituzionale focalizzato sull'avvio del mandato del nuovo responsabile elettorale in Guinea.",
+  "z0c40a61a": "L'emittente statunitense evidenzia le implicazioni legali e la tensione politica attorno alla gestione delle liste elettorali.",
+  "z8b4666f0": "La testata tedesca analizza criticità e rischi geopolitici legati alle pressioni russe sulla sicurezza continentale.",
+  "za02c4eb2": "L'emittente tedesca pone l'accento sulla competizione tecnologica globale dell'UE e sulla risposta delle istituzioni comunitarie.",
+  "zefe6778e": "Il media tedesco esamina le anomalie meteorologiche estreme e l'impatto dei cambiamenti nella circolazione polare.",
+  "z089263de": "La testata lituana riporta una scoperta scientifica marina di rilevanza ecologica globale.",
+  "zd9ec56bf": "La testata lituana riferisce le dinamiche politiche interne e le nomine dei candidati nella capitale.",
+  "zc1cc4271": "Il media pubblico lituano approfondisce il dibattito culturale e pedagogico sulle riforme dell'istruzione pubblica.",
+  "z95ea6681": "Il servizio pubblico lituano riporta i dettagli sulle nuove tecniche di truffa informatica e minacce cibernetiche globali.",
+  "zc25aff31": "Il programma informativo statunitense analizza gli impatti ambientali a lungo termine dei roghi sulle risorse idriche nazionali.",
+  "z5e1c97b9": "L'emittente pubblica greca riporta l'ufficializzazione dell'organismo negoziale europeo per il conflitto in Ucraina.",
+  "z650bd5c3": "La testata armena evidenzia il mancato allineamento di Erevan rispetto alla dichiarazione diplomatica europea.",
+  "zd34fe4ea": "Il servizio informativo armeno rende conto degli sviluppi giudiziari seguiti alla morte dell'esponente dell'opposizione.",
+  "zf776e404": "Il canale d'informazione vaticano mette in evidenza i richiami pastorali del Pontefice contro la secolarizzazione."
  },
  "contesti": {
   "ze36ca3c8": "Il viaggio pastorale di Papa Leone XIV in Perù segue la sua recente operazione chirurgica e fa seguito agli incontri ufficiali previsti con le autorità locali. Nei giorni scorsi sono stati predisposti ingenti dispositivi di sicurezza e strutture all'aperto per accogliere i fedeli arrivati da tutte le province del Paese.",
@@ -2792,7 +4016,8 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z975c604f": "Negli ultimi mesi i dati sull'economia cubana hanno registrato un incremento costante degli acquisti di beni di consumo provenienti dagli Stati Uniti. Parallelamente si è svolta la revisione dei volumi di importazione dai Paesi asiatici per far fronte alla carenza di generi di prima necessità.",
   "z9109047c": "Nelle settimane precedenti l'avvio formale della campagna elettorale, le rilevazioni demoscopiche hanno evidenziato la crescita dei partiti di opposizione di centrodestra e destra. Il governo guidato dai socialisti ha cercato di consolidare il proprio elettorato promuovendo misure economiche a tutela dei redditi e delle categorie sociali più vulnerabili.",
   "z811fd41f": "Andrea Kimi Antonelli, giovane talento bolognese dell'automobilismo, ha vissuto una rapida ascesa nel motorsport internazionale, culminata con l'annuncio del suo ingaggio ufficiale in Formula 1 con il team Mercedes per la stagione 2025. Dopo aver debuttato nelle prove libere al Gran Premio di Monza del 2024 e collezionato importanti successi nelle categorie giovanili, le sue eccezionali prestazioni sportive hanno attirato l'attenzione delle istituzioni, portandolo fino al prestigioso incontro al Quirinale.",
-  "z8dfafa08": "Nelle ultime settimane la discussione sulla nuova manovra di bilancio per il 2025 ha generato fortissime tensioni politiche e sociali, con i sindacati pronti al conflitto sul tema dei tagli alla spesa pubblica. Le ipotesi di riduzione delle risorse destinate all'istruzione e alla sanità avevano scatenato la protesta della scuola e delle opposizioni, spingendo la Presidente del Consiglio Giorgia Meloni a convocare le parti sociali a Palazzo Chigi per avviare il confronto sui correttivi."
+  "z8dfafa08": "Nelle ultime settimane la discussione sulla nuova manovra di bilancio per il 2025 ha generato fortissime tensioni politiche e sociali, con i sindacati pronti al conflitto sul tema dei tagli alla spesa pubblica. Le ipotesi di riduzione delle risorse destinate all'istruzione e alla sanità avevano scatenato la protesta della scuola e delle opposizioni, spingendo la Presidente del Consiglio Giorgia Meloni a convocare le parti sociali a Palazzo Chigi per avviare il confronto sui correttivi.",
+  "ze08d6e4a": "Nei giorni scorsi sono emersi nuovi elementi relativi al comportamento del conduttore televisivo Pierluigi Diaco. La vicenda ha attirato l'attenzione dei vertici della Rai, che hanno deciso di avviare un audit interno. Al momento la trasmissione BellaMa' non è stata sospesa, mentre l'azienda esamina i fatti per stabilire possibili sanzioni."
  },
  "cronologie": {
   "ze36ca3c8": [
@@ -2885,6 +4110,20 @@ window.EDIZIONI["2026-11-13-sera"] = {
    [
     "Novembre 2024",
     "Convocazione dei sindacati a Palazzo Chigi per il tavolo di confronto sul testo"
+   ]
+  ],
+  "ze08d6e4a": [
+   [
+    "Nei giorni scorsi",
+    "Emersione di nuovi elementi sulla condotta del conduttore Pierluigi Diaco"
+   ],
+   [
+    "Nelle ultime ore",
+    "I vertici Rai dispongono l'avvio di un audit interno approfondito"
+   ],
+   [
+    "Oggi",
+    "La Rai conferma la regolare messa in onda di BellaMa' senza sospensioni"
    ]
   ]
  },
@@ -3008,6 +4247,46 @@ window.EDIZIONI["2026-11-13-sera"] = {
     }
    ],
    "divergono": "Le testate evidenziano sviluppi collaterali differenti dello scandalo Nvidia. ANSA mette in primo piano la telefonata di sostegno di Donald Trump a Huang, il rimbalzo azionario (+2,30%) e le divisioni dell'intelligence USA sul ruolo di Alice Huang. Diversamente, Dawn si concentra sulle tensioni istituzionali americane, citando l'attacco del segretario al Tesoro Scott Bessent al Dipartimento del Commercio sul blocco mancato della singaporiana Megaspeed e i 4 miliardi di dollari in chip veicolati. CNA offre un resoconto essenziale focalizzato sui dati azionari, mentre Financial Times e RTP contengono solo elementi di copertina."
+  },
+  "z0c26be8e": {
+   "voci": [
+    {
+     "n": "ERR News",
+     "c": "Tallinn",
+     "p": "XX",
+     "t": "La voce dell'Estonia riferisce che il Ministero della Cultura ha vietato agli atleti russi e bielorussi di gareggiare sul proprio territorio. Il testo, puramente informativo, cita i campionati giovanili di Otepää a gennaio e accusa la Russia di usare lo sport come \"strumento di propaganda\".",
+     "b": "a"
+    },
+    {
+     "n": "CBC News",
+     "c": "Toronto",
+     "p": "XX",
+     "t": "La voce del Canada concentra l'attenzione sui blocchi in Finlandia e Norvegia, valutando l'impatto sulle future partite della NHL. Riferisce brevemente il divieto estone citando ERR News. Il tono è informativo e riporta cifre sulla presenza di \"53 russi\" nella lega nordamericana.",
+     "b": "a"
+    },
+    {
+     "n": "The Punch",
+     "c": "Lagos",
+     "p": "XX",
+     "t": "La testata nigeriana afferma che la decisione segna la prima volta che una federazione olimpica concede un evento globale alla Russia dall'invasione dell'Ucraina del 2022. L'articolo è neutro ma sintetico, concentrandosi solo su questo aspetto ed escludendo i dettagli specifici estoni.",
+     "b": "a"
+    },
+    {
+     "n": "South China Morning Post – Sport",
+     "c": "Hong Kong",
+     "p": "XX",
+     "t": "L'articolo non è leggibile per intero, pertanto il giudizio è parziale. Titolo e occhiello riportano la celebrazione delle 41 medaglie conquistate dagli 80 atleti di Hong Kong ai Giochi Para Asiatici in Giappone, ignorando totalmente la vicenda estone.",
+     "b": "t"
+    },
+    {
+     "n": "RTHK",
+     "c": "Hong Kong",
+     "p": "XX",
+     "t": "L'articolo non è leggibile per intero, pertanto il giudizio è parziale. La voce di Hong Kong (Cina) evidenzia il plauso del Capo dell'Esecutivo per le 41 medaglie ottenute ai Giochi Para Asiatici. Il tema affrontato è del tutto estraneo al blocco dell'Estonia.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le testate affrontano l'argomento con cornici e temi profondamente differenti. ERR News mette al centro le decisioni del Ministero estone per le gare di sci nordico e biathlon. CBC News inquadra la notizia in un contesto nordamericano, focalizzandosi sulle conseguenze per la lega di hockey NHL in Finlandia. The Punch enfatizza invece il presunto primato della concessione di un evento alla Russia dal 2022. Al contrario, le testate di Hong Kong, South China Morning Post – Sport e RTHK, non citano affatto la vicenda dell'Estonia, dedicandosi esclusivamente ai risultati dei Giochi Para Asiatici."
   }
  },
  "luoghi": {
@@ -3628,6 +4907,284 @@ window.EDIZIONI["2026-11-13-sera"] = {
     "South Korea"
    ],
    "pt": []
+  },
+  "z8b502333": {
+   "n": "Dar es Salaam",
+   "p": [
+    "Tanzania"
+   ],
+   "pt": []
+  },
+  "z42854bd7": {
+   "n": "Mar Egeo",
+   "p": [
+    "Greece",
+    "Turkey",
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z2cedbbb6": {
+   "n": "Manama",
+   "p": [
+    "Bahrain",
+    "Iran",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5e9ec202": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z042507ee": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "zc9a2f8bd": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z66bb936b": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia",
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z851db83f": {
+   "n": "New York",
+   "p": [
+    "Central African Rep."
+   ],
+   "pt": []
+  },
+  "z2d843198": {
+   "n": "Parigi",
+   "p": [
+    "Myanmar",
+    "France"
+   ],
+   "pt": []
+  },
+  "z62f120d6": {
+   "n": "Buenos Aires",
+   "p": [
+    "Argentina",
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z64b73d5f": {
+   "n": "San Juan de Marcona",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z9b6ccd36": {
+   "n": "Caracas",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "z1e9854b5": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso",
+    "Mali",
+    "Niger",
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z22ce3d26": {
+   "n": "Ravenna",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za998fc1a": {
+   "n": "Al Rayyan",
+   "p": [
+    "Qatar",
+    "South Korea",
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "zc40fb110": {
+   "n": "La Paz",
+   "p": [
+    "Bolivia"
+   ],
+   "pt": []
+  },
+  "z7de6a142": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong",
+    "China"
+   ],
+   "pt": []
+  },
+  "ze08d6e4a": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zf5c84730": {
+   "n": "Islamabad",
+   "p": [
+    "Pakistan"
+   ],
+   "pt": []
+  },
+  "zdbca8d8f": {
+   "n": "Tripoli",
+   "p": [
+    "Lebanon",
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "zdf107392": {
+   "n": "Beirut",
+   "p": [
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z949b097c": {
+   "n": "Stoccolma",
+   "p": [
+    "Sweden"
+   ],
+   "pt": []
+  },
+  "z439d2f96": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z21f49c64": {
+   "n": "Lanús",
+   "p": [
+    "Argentina"
+   ],
+   "pt": []
+  },
+  "z37d8a3aa": {
+   "n": "Conakry",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "z0c40a61a": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z8b4666f0": {
+   "n": "Bonn",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "za02c4eb2": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zefe6778e": {
+   "n": "Polo Nord",
+   "p": [],
+   "pt": []
+  },
+  "z089263de": {
+   "n": "Isole Cocos",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "zd9ec56bf": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "zc1cc4271": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z95ea6681": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc25aff31": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z5e1c97b9": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z650bd5c3": {
+   "n": "Dublino",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "zd34fe4ea": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "zf776e404": {
+   "n": "Chiclayo",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3642,7 +5199,7 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "ze36ca3c8": 3,
   "z9f430be0": 2,
   "z3cdf601f": 2,
-  "z0c26be8e": 1,
+  "z0c26be8e": 2,
   "z975c604f": 1,
   "z64db69a9": 2,
   "z7ae5c728": 2,
@@ -3719,7 +5276,45 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "z6f7195f5": 1,
   "zf8d80e83": 2,
   "z53e68d77": 2,
-  "zf02121ad": 1
+  "zf02121ad": 1,
+  "z8b502333": 1,
+  "z42854bd7": 1,
+  "z2cedbbb6": 1,
+  "z5e9ec202": 1,
+  "z042507ee": 1,
+  "zc9a2f8bd": 1,
+  "z66bb936b": 1,
+  "z851db83f": 1,
+  "z2d843198": 1,
+  "z62f120d6": 1,
+  "z64b73d5f": 1,
+  "z9b6ccd36": 1,
+  "z1e9854b5": 1,
+  "z22ce3d26": 1,
+  "za998fc1a": 1,
+  "zc40fb110": 1,
+  "z7de6a142": 1,
+  "ze08d6e4a": 2,
+  "zf5c84730": 1,
+  "zdbca8d8f": 1,
+  "zdf107392": 1,
+  "z949b097c": 1,
+  "z439d2f96": 1,
+  "z21f49c64": 1,
+  "z37d8a3aa": 1,
+  "z0c40a61a": 1,
+  "z8b4666f0": 1,
+  "za02c4eb2": 1,
+  "zefe6778e": 1,
+  "z089263de": 1,
+  "zd9ec56bf": 1,
+  "zc1cc4271": 1,
+  "z95ea6681": 1,
+  "zc25aff31": 1,
+  "z5e1c97b9": 2,
+  "z650bd5c3": 1,
+  "zd34fe4ea": 1,
+  "zf776e404": 1
  },
  "video": {},
  "pillole": []
