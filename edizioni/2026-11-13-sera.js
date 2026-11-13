@@ -289,30 +289,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zc8450b63",
-   "sez": "dibattito",
-   "titolo": "Cechia, grande protesta contro i tagli ai media pubblici",
-   "orig": "Czechia braces for massive protest against cuts to public media",
-   "lead": "In Cechia è prevista per domenica una grande manifestazione a Praga contro un disegno di legge, approvato con procedura accelerata, che tagliuzza i finanziamenti ai media pubblici. Il provvedimento ha già provocato scioperi e cortei nei giorni scorsi, con lavoratori e sostenitori dell'emittenza pubblica che temono conseguenze sull'indipendenza dell'informazione. Secondo quanto riporta Deutsche Welle, chi promuove la legge non viene citato direttamente nella fonte. Lo riferisce Deutsche Welle.",
-   "more": [
-    "I media pubblici in Europa sono generalmente finanziati tramite canoni o fondi statali per garantirne l'indipendenza dalle pressioni commerciali e politiche. Tagli ai finanziamenti pubblici vengono spesso contestati da giornalisti e società civile, che temono una minore qualità dell'informazione o un maggiore controllo politico sulle emittenti, soprattutto quando le modifiche vengono approvate con procedure rapide."
-   ],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-cuts-to-public-media/a-79933533",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-13T08:35+00:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
    "id": "ze869f946",
    "sez": "prima",
    "titolo": "Kennedy Center verso Ticketmaster, dubbi su conflitto di interessi",
@@ -846,6 +822,15 @@ window.EDIZIONI["2026-11-13-sera"] = {
      "angolo": "",
      "atlas": "Czechia",
      "t": "2026-11-13T08:03+01:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-cuts-to-public-media/a-79933533",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T08:35+00:00"
     }
    ],
    "data": "13 nov",
@@ -2124,7 +2109,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "za8b7a3c4": "ANSA evidenzia come la rinuncia all'appello renda definitiva la pena inflitta all'attore.",
   "z27e05991": "Rai News riporta la tempistica indicata da Martin per la nomina dell'inviato Ue.",
   "zce600716": "Deutsche Welle sottolinea la volontà europea di ritagliarsi un ruolo nello sviluppo e nella regolamentazione dell'IA.",
-  "zc8450b63": "Deutsche Welle evidenzia i timori per l'indipendenza dell'emittenza pubblica ceca.",
   "ze869f946": "NPR evidenzia il ruolo di Grenell nel consiglio di Ticketmaster durante la trattativa.",
   "zc99f3448": "The Times of Central Asia evidenzia l'obiettivo di aumentare la produttività degli allevatori uzbeki.",
   "z50773254": "CNA e Phys.org sottolineano la novità del tentativo di recupero a terra della navicella.",
@@ -2407,13 +2391,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
    "n": "Bruxelles",
    "p": [
     "Belgium"
-   ],
-   "pt": []
-  },
-  "zc8450b63": {
-   "n": "Praga",
-   "p": [
-    "Czechia"
    ],
    "pt": []
   },
@@ -2772,7 +2749,6 @@ window.EDIZIONI["2026-11-13-sera"] = {
   "za8b7a3c4": 2,
   "z27e05991": 1,
   "zce600716": 1,
-  "zc8450b63": 1,
   "ze869f946": 2,
   "zc99f3448": 1,
   "z50773254": 2,
