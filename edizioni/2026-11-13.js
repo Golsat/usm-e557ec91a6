@@ -851,7 +851,7 @@ window.EDIZIONI["2026-11-13"] = {
   },
   {
    "id": "za4304e54",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Hong Kong approva la legge per accelerare lo sviluppo della Northern Metropolis",
    "orig": "Hong Kong lawmakers pass bill to streamline Northern Metropolis development",
    "lead": "Il Consiglio legislativo di Hong Kong ha approvato giovedì, in terza lettura, la legge dedicata ad accelerare il piano di sviluppo della Northern Metropolis, un progetto infrastrutturale multimiliardario. Un funzionario ha dichiarato che le autorità intendono attuare le misure di facilitazione già nel primo trimestre del prossimo anno. La normativa punta a semplificare le procedure di pianificazione legate a questo grande progetto urbanistico. Lo riferisce Hong Kong Free Press.",
@@ -2205,7 +2205,7 @@ window.EDIZIONI["2026-11-13"] = {
   },
   {
    "id": "zb38cc78a",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Attacco hacker a Caixa Seguridade: rubati i dati di 7,6 milioni di clienti",
    "orig": "Caixa Seguridade informa ataque cibernético e vazamento de dados",
    "lead": "Caixa Seguridade ha confermato che un attacco hacker avvenuto il 6 novembre ha esposto i dati personali di 7,6 milioni di clienti attivi e di numerosi ex clienti. La violazione ha riguardato codici fiscali, indirizzi, numeri di telefono ed email, sottratti clandestinamente dai server della sussidiaria Caixa Vida e Previdência. L'azienda ha precisato che, dalle prime analisi, non risultano compromessi i dati di accesso bancari o i conti correnti. Nel contesto tecnologico globale, Microsoft ha intanto escluso l'ipotesi di attacchi informatici dietro i recenti disservizi dei suoi applicativi cloud, mentre Nvidia affronta le dimissioni del suo CEO storico.",
@@ -3980,7 +3980,7 @@ window.EDIZIONI["2026-11-13"] = {
   },
   {
    "id": "z44fdc1be",
-   "sez": "mondo",
+   "sez": "tech",
    "titolo": "Malesia e Congo puntano sulla trasformazione digitale entro il 2030",
    "orig": "Gobind: Malaysia jumps seven places to 27th in IMD World Digital and AI Ranking, boosting push towards AI nation by 2030",
    "lead": "La Malesia è salita al 27° posto nella classifica mondiale IMD per il digitale e l'intelligenza artificiale, compiendo un passo avanti verso l'obiettivo di diventare una nazione leader nell'IA entro il 2030. Contemporaneamente, nella Repubblica Democratica del Congo, le autorità hanno presentato la collaborazione tra le istituzioni come pilastro fondamentale per il progetto \"Nazione Digitale 2030\". Anche a Mauritius si discute di riforme istituzionali per garantire che lo sviluppo tecnologico sia supportato da una gestione meritocratica e trasparente delle istituzioni nazionali. Lo riferisce Malay Mail.",
