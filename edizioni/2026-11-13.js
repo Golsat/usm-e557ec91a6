@@ -1134,7 +1134,7 @@ window.EDIZIONI["2026-11-13"] = {
   },
   {
    "id": "z61f6cc13",
-   "sez": "cultura",
+   "sez": "mondo",
    "titolo": "In Giappone le coppie rinunciano al secondo figlio per preoccupazioni economiche",
    "orig": "One and Done? Money Concerns Shape Japanese Couples’ Decisions to Have a Second Child",
    "lead": "In Giappone, il rincaro del costo della vita e l'insicurezza del reddito stanno influenzando pesantemente la pianificazione familiare, spingendo sempre più coppie a rinunciare alla nascita di un secondo figlio. Nonostante le iniziative governative per rendere gratuiti l'istruzione e l'assistenza all'infanzia, molte famiglie ritengono che i sussidi non siano sufficienti a coprire le spese nel lungo periodo. La tendenza a limitarsi a un unico figlio riflette una crescente preoccupazione per la stabilità finanziaria futura, mettendo a rischio gli sforzi nazionali per contrastare il declino demografico. Lo riferisce Nippon.com.",
