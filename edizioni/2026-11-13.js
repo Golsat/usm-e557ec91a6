@@ -3,6 +3,1552 @@ window.EDIZIONI["2026-11-13"] = {
  "tipo": "mattino",
  "news": [
   {
+   "id": "z69031caf",
+   "sez": "mondo",
+   "titolo": "Gli inviati Usa: ai colloqui devono partecipare anche gli europei",
+   "orig": "Inviati Usa: \"Anche europei ai colloqui\"",
+   "lead": "Gli inviati statunitensi hanno affermato che anche i paesi europei dovranno essere coinvolti nei colloqui diplomatici in corso, mentre il presidente russo Vladimir Putin continua a opporsi a un loro coinvolgimento diretto. La dichiarazione arriva in un momento delicato dei negoziati legati al conflitto in Ucraina, con Washington che cerca di ampliare il tavolo delle trattative nonostante le resistenze di Mosca. Lo riferisce Rai News.",
+   "more": [
+    "I negoziati per una possibile soluzione del conflitto russo-ucraino coinvolgono da tempo Stati Uniti, Russia e Ucraina, con l'Unione Europea che chiede un ruolo attivo per tutelare gli interessi di sicurezza del continente. La posizione russa su chi debba sedere al tavolo è un nodo chiave delle trattative."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/inviati-usa-anche-europei-ai-colloqui-a3a89dc7-2eb3-40f7-80ae-02ecfb76a3d1.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-12T14:00+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z63290aa5",
+   "sez": "cultura",
+   "titolo": "La spada laser di Darth Vader venduta all'asta per quasi 5 milioni di dollari",
+   "orig": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker's prop",
+   "lead": "La spada laser usata da Darth Vader in due film della trilogia originale di Star Wars è stata venduta all'asta per quasi 5 milioni di dollari, superando il record precedente stabilito a luglio dalla spada di Luke Skywalker. L'elsa dell'oggetto di scena, realizzata partendo da un accessorio flash di una macchina fotografica degli anni Cinquanta, era stata utilizzata in due duelli della saga originale. Lo riferisce Deutsche Welle.",
+   "more": [
+    "Gli oggetti di scena dei film di Star Wars sono tra i cimeli cinematografici più richiesti dal mercato del collezionismo, con prezzi che negli ultimi anni hanno raggiunto cifre record alle aste internazionali dedicate alla memorabilia hollywoodiana."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T02:27+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za5e7d276",
+   "sez": "mondo",
+   "titolo": "Nigeria, uomini armati di asce assaltano un comizio dell'opposizione a Lagos",
+   "orig": "Nigeria: Axe-wielding men attack opposition campaign rally in Lagos",
+   "lead": "Un gruppo di uomini armati di asce, bastoni e machete ha assaltato un comizio dell'opposizione a Lagos, in Nigeria, in vista delle elezioni presidenziali. Alcuni giornalisti presenti sono stati aggrediti durante l'episodio. Lo riferisce Deutsche Welle.",
+   "more": [
+    "La Nigeria è la nazione più popolosa dell'Africa e le sue campagne elettorali sono spesso segnate da episodi di violenza politica tra sostenitori di partiti rivali, in particolare tra il partito di governo e le forze di opposizione."
+   ],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/nigeria-axe-wielding-men-attack-opposition-campaign-rally-in-lagos/a-79934958",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-12T19:01+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za7207a7a",
+   "sez": "tech",
+   "titolo": "Guasto mondiale colpisce la posta Outlook di Microsoft",
+   "orig": "Une panne mondiale affecte la messagerie Outlook de Microsoft",
+   "lead": "Un guasto alla messaggeria Outlook di Microsoft è stato segnalato giovedì in 74 paesi e territori, coinvolgendo decine di migliaia di utenti. Durante la notte l'azienda ha spiegato che le modifiche apportate per migliorare la gestione del servizio non hanno prodotto i risultati sperati e che era al lavoro per trovare soluzioni alternative. Il disservizio, che dura da circa otto ore, ha colpito anche Microsoft 365 e alcuni assistenti basati su intelligenza artificiale come Copilot.",
+   "more": [
+    "Outlook è uno dei servizi di posta elettronica più usati al mondo da aziende e privati, integrato nella suite cloud Microsoft 365. Interruzioni di questa scala mettono in luce i rischi legati alla concentrazione di servizi digitali essenziali in poche grandi infrastrutture tecnologiche."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/%C3%A9co-tech/20261112-une-panne-mondiale-affecte-la-messagerie-outlook-de-microsoft",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-12T22:57+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/pixels/article/2026/11/13/une-panne-mondiale-d-outlook-empeche-des-dizaines-de-milliers-d-utilisateurs-d-acceder-a-leurs-e-mails_6809171_4408996.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T00:36+01:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/secteur/high-tech/microsoft-dit-que-les-mesures-pour-resoudre-la-panne-mondiale-d-outlook-ne-fonctionnent-pas-comme-prevu-20261113",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T07:13+01:00"
+    },
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "https://defimedia.info/microsoft-dit-que-les-mesures-pour-resoudre-la-panne-mondiale-doutlook-ne-fonctionnent-pas-comme",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-11-13T09:08+04:00"
+    },
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "https://defimedia.info/une-panne-mondiale-touche-la-messagerie-outlook-de-microsoft",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-11-13T08:47+04:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-13T04:40+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-12T20:26-05:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-weltweit-outlook-teams-li.3579791",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T05:40+00:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/technologie/microsofts-outlook-e-mail-und-andere-cloud-dienste-sind-seit-stunden-gestoert-ld.10062778",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-13T05:35+00:00"
+    },
+    {
+     "n": "NOS",
+     "p": "XX",
+     "c": "Hilversum",
+     "u": "https://nos.nl/l/2639244",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-11-13T06:01+01:00"
+    },
+    {
+     "n": "NRC",
+     "p": "XX",
+     "c": "Rotterdam",
+     "u": "https://www.nrc.nl/nieuws/2026/11/13/microsoft-kampt-met-langdurige-wereldwijde-storing-a4941288",
+     "angolo": "",
+     "atlas": "Netherlands",
+     "t": "2026-11-13T06:43+01:00"
+    },
+    {
+     "n": "VRT NWS",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/11/13/grote-storing-microsoft-outlook-en-teams-bedrijven-overheden.rss.xml",
+     "angolo": "",
+     "atlas": "Belgium",
+     "t": "2026-11-13T05:14+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-13T04:24+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/microsoft-estesi-disservizi-su-outlook-bcaf9b2c-de03-4b76-8049-57436cb4ab2a.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-12T20:13+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T03:51+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino",
+   "top": true
+  },
+  {
+   "id": "zf36c0cc9",
+   "sez": "mondo",
+   "titolo": "Crow-Armstrong e Alvarez vincono all'unanimità i premi MVP della MLB",
+   "orig": "Cubs’ Pete Crow-Armstrong and Astros’ Yordan Alvarez unanimously win MVP awards",
+   "lead": "Pete Crow-Armstrong dei Chicago Cubs è stato nominato all'unanimità Most Valuable Player della National League dopo una stagione da 45 fuoricampo e 41 basi rubate. Yordan Alvarez degli Houston Astros ha ottenuto lo stesso riconoscimento nella American League con una media battuta di .316, conquistando il titolo di battuta con almeno 40 fuoricampo, traguardo raggiunto prima di lui solo da Aaron Judge e Miguel Cabrera dal 1970. Per entrambi è il primo premio MVP in carriera.",
+   "more": [
+    "Il premio MVP (Most Valuable Player) viene assegnato ogni anno al miglior giocatore delle due leghe della Major League Baseball, National League e American League, in base al voto dei giornalisti sportivi. Vincerlo all'unanimità è un riconoscimento raro riservato a stagioni eccezionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/sport/2026/nov/12/pete-crow-armstrong-yordan-alvarez-mlb-mvp-awards",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-13T01:07+00:00"
+    },
+    {
+     "n": "The Japan Times",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/mlb/alvarez-crow-armstrong-mlb-mvp/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-13T12:50+09:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z07df1f09",
+   "sez": "mondo",
+   "titolo": "Sega pubblica su YouTube il cortometraggio animato per il 35° anniversario di Sonic",
+   "orig": "Sega Streams Sonic the Hedgehog: Memories and Beyond Short Animated Film on YouTube",
+   "lead": "Sega ha pubblicato su YouTube un cortometraggio animato per celebrare i 35 anni della saga di Sonic the Hedgehog, che vede Sonic e i suoi amici affrontare Metal Sonic. Il progetto, realizzato dallo studio GXS Productions, è diretto da Kevin Molina-Ortiz con sceneggiatura di Ian Flynn. L'iniziativa fa parte delle celebrazioni per l'anniversario del franchise videoludico nato nel 1991.",
+   "more": [
+    "Sonic the Hedgehog è una delle serie videoludiche più longeve di Sega, con numerosi adattamenti animati e cinematografici nel corso degli anni. I contenuti celebrativi per anniversari importanti servono spesso a rafforzare il legame tra Sega e la community di fan del franchise."
+   ],
+   "fonti": [
+    {
+     "n": "Anime News Network",
+     "p": "US",
+     "c": "Houston",
+     "u": "https://www.animenewsnetwork.com/news/2026-11-12/sega-streams-sonic-the-hedgehog-memories-and-beyond-short-animated-film-on-youtube/.243768",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-12T15:00-05:00"
+    },
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/latest/2026/11/12/sonic-the-hedgehog-35th-anniversary-animation",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-12T18:13+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "ze4d1c3d4",
+   "sez": "spazio",
+   "titolo": "NGC 206 e le nubi stellari della galassia di Andromeda",
+   "orig": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+   "lead": "La NASA ha pubblicato come immagine astronomica del giorno una fotografia di NGC 206, un ammasso di stelle e nubi stellari situato all'interno della galassia di Andromeda, la galassia a spirale più vicina alla Via Lattea. L'immagine fa parte della rubrica quotidiana Astronomy Picture of the Day, che ogni giorno presenta una fotografia del cosmo accompagnata da una breve spiegazione scritta da un astronomo professionista. Lo riferisce Nasa.",
+   "more": [
+    "NGC 206 è una delle regioni di formazione stellare più grandi visibili nella galassia di Andromeda, distante circa 2,5 milioni di anni luce dalla Terra. Osservare queste nubi stellari permette agli astronomi di studiare come nascono le stelle in galassie diverse dalla nostra."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T05:05+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z92f444c5",
+   "sez": "mondo",
+   "titolo": "Carney chiude in Irlanda gli incontri con i leader europei su sicurezza e commercio",
+   "orig": "Carney wraps meetings on security, trade with European leaders in Ireland",
+   "lead": "Il primo ministro canadese Mark Carney ha concluso in Irlanda una serie di incontri con leader europei dedicati a sicurezza e commercio. Giovedì ha ascoltato dal presidente ucraino Volodymyr Zelensky un aggiornamento sullo stato dei negoziati con la Russia, discutendo poi con i leader europei il tema della sicurezza continentale. Lo riferisce CBC News.",
+   "more": [
+    "Gli incontri tra leader occidentali su sicurezza europea avvengono mentre proseguono i tentativi diplomatici per arrivare a una soluzione del conflitto tra Russia e Ucraina, con il Canada che partecipa come alleato della Nato e sostenitore di Kyiv."
+   ],
+   "fonti": [
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/politics/carney-europe-ireland-meetings-9.7419715?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-12T16:22-05:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z547f6dc1",
+   "sez": "musica",
+   "titolo": "Lino Capra Vaccina e Luca Formentini pubblicano l'album \"Limen\"",
+   "orig": "Lino Capra Vaccina & Luca Formentini - Limen",
+   "lead": "I musicisti Lino Capra Vaccina e Luca Formentini hanno pubblicato l'album \"Limen\", frutto di una sinergia tra improvvisazione e composizione. Il disco, recensito da OndaRock, viene descritto come un lavoro riuscito nel combinare i due approcci musicali. Lo riferisce OndaRock.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "OndaRock",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ondarock.it/recensioni/2026-lino-capra-vaccina-luca-formentini-limen/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-12T23:02+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z506caafb",
+   "sez": "dibattito",
+   "titolo": "Francia, le norme antiterrorismo del 2015 usate contro i manifestanti",
+   "orig": "Colère sociale : l'arsenal antiterroriste né des attentats de 2015 utilisé contre les manifestants",
+   "lead": "In Francia, mentre proseguono la mobilitazione degli studenti liceali e le manifestazioni contro il costo della vita, alcune associazioni per i diritti umani denunciano l'uso da parte del governo di misure nate dallo stato di emergenza decretato dopo gli attentati del 2015. Secondo queste associazioni, tali strumenti sono stati impiegati per assegnare alla residenza persone identificate per la loro attività politica, al di fuori del contesto antiterroristico per cui erano stati concepiti.",
+   "more": [
+    "Dopo gli attentati del 2015 la Francia introdusse uno stato di emergenza con poteri eccezionali per le forze dell'ordine, in parte confluiti successivamente nella legislazione ordinaria antiterrorismo. Il dibattito riguarda l'uso di questi strumenti, pensati per minacce terroristiche, applicati invece a contesti di protesta sociale e politica."
+   ],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/france/20261113-col%C3%A8re-sociale-l-arsenal-antiterroriste-n%C3%A9-des-attentats-de-2015-utilis%C3%A9-contre-les-manifestants",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-13T06:08+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z35f377ba",
+   "sez": "viaggi",
+   "titolo": "L'aeroporto di Kathmandu non riesce a riscuotere 1,5 miliardi di rupie da 42 soggetti",
+   "orig": "Kathmandu airport unable to collect Rs1.5 billion from 42 entities",
+   "lead": "L'aeroporto internazionale di Kathmandu, in Nepal, non è riuscito a riscuotere 1,5 miliardi di rupie di debiti da 42 soggetti diversi. L'ufficio doganale dell'aeroporto, Himalaya Airlines e l'Hotel Radisson da soli rappresentano quasi il 73% del totale dei debiti pendenti, pari a oltre 1,14 miliardi di rupie. Lo riferisce The Kathmandu Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/money/2026/11/13/kathmandu-airport-unable-to-collect-rs1-5-billion-from-42-entities",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z415867e5",
+   "sez": "ingegneria",
+   "titolo": "Hyan trasforma una struttura in legno degli anni Settanta in una residenza sulle colline di Hayama",
+   "orig": "hyan adapts 1970s timber frame into live-work residence on the hills of hayama",
+   "lead": "Lo studio Hyan ha convertito una struttura in legno risalente agli anni Settanta in una residenza abitativa e lavorativa sulle colline giapponesi di Hayama. Colonne e travi originali sono state mantenute e rinforzate strutturalmente, mentre l'interno è stato riorganizzato attorno a un soggiorno a doppia altezza e a un'area ribassata creata da un ex ambiente con tatami. Lo riferisce Designboom.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/architecture/hyan-1970s-timber-frame-live-work-residence-hayama-japan-green-sandwich-house/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-13T03:10+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7692fdeb",
+   "sez": "cucina",
+   "titolo": "Torrone, storia e ricette per prepararlo in casa anche in versione salata",
+   "orig": "Torrone, che passione! Storia e ricette da fare in casa (anche salate)",
+   "lead": "La Cucina Italiana propone una panoramica sulla storia del torrone, dolce tradizionale delle feste natalizie in Italia, presente in numerose varianti regionali. L'articolo offre anche ricette per prepararlo in casa, incluse versioni salate. Lo riferisce La Cucina Italiana.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/gallery/torrone-storia-e-ricette-da-fare-in-casa-anche-salate/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T06:00+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb22a1beb",
+   "sez": "salute",
+   "titolo": "La chemioterapia è ancora necessaria nel cancro dell'endometrio con deficit di riparazione del DNA?",
+   "orig": "[Comment] Is chemotherapy still needed in all patients with mismatch repair-deficient advanced or recurrent endometrial cancer?",
+   "lead": "Un commento pubblicato su The Lancet si interroga sulla necessità della chemioterapia in tutte le pazienti con carcinoma endometriale avanzato o recidivo con deficit di riparazione del mismatch (dMMR), una condizione che riguarda circa un quarto dei casi avanzati. L'aggiunta di un inibitore PD-1 o PD-L1 alla chemioterapia standard ha trasformato il trattamento di prima linea per questo sottogruppo, con alcuni studi che dopo quattro anni di follow-up suggeriscono una possibile guarigione in alcune pazienti.",
+   "more": [
+    "Il deficit di riparazione del mismatch (dMMR) è un'alterazione genetica che rende alcuni tumori più sensibili ai farmaci immunoterapici come gli inibitori PD-1 e PD-L1, che stimolano il sistema immunitario a riconoscere le cellule tumorali. Negli ultimi anni queste terapie hanno modificato il trattamento standard per diversi tumori, incluso quello dell'endometrio."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02199-9/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z695dff40",
+   "sez": "cultura",
+   "titolo": "Come i film \"Big Timer\" hanno dominato il box office di Hong Kong nei primi anni Novanta",
+   "orig": "How the epic Big Timer films dominated Hong Kong’s early 1990s box office",
+   "lead": "Il South China Morning Post ripercorre il successo dell'epica serie di film \"Big Timer\", che ha dominato il box office di Hong Kong nei primi anni Novanta. L'articolo colloca questi film nella lunga tradizione cinematografica locale dedicata al mondo criminale delle triadi, nata negli anni Settanta con opere come \"Anti-Corruption\" di Ng See-yuen e \"Jumping Ash\" di Leong Po-chih, un filone che ha spesso rappresentato in modo ambiguo il confine tra polizia e criminalità.",
+   "more": [
+    "Il cinema di Hong Kong ha una lunga tradizione di film dedicati al crimine organizzato e alle triadi, un genere che ha conosciuto grande popolarità dagli anni Settanta in poi, spesso raccontando storie in cui i confini morali tra criminali e forze dell'ordine risultano sfumati."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/entertainment/article/3374006/how-epic-big-timer-films-dominated-hong-kongs-early-1990s-box-office",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-13T04:45+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4e54ae4c",
+   "sez": "ambiente",
+   "titolo": "Corsa al solare perovskite: la Cina punta sulla scala, il Giappone sull'innovazione",
+   "orig": "Perovskite Solar Race: China Builds Scale, Japan Bets on Innovation",
+   "lead": "Secondo Japan Forward, la Cina sta puntando sulla produzione di massa delle celle solari in perovskite, in un mercato stimato in 3,69 trilioni di yen entro il 2040, mentre il Giappone si concentra su applicazioni specializzate con celle leggere e flessibili. La diversa strategia riflette approcci differenti alla stessa tecnologia emergente nel settore dell'energia solare.",
+   "more": [
+    "Le celle solari in perovskite sono una tecnologia fotovoltaica di nuova generazione, più leggere e flessibili rispetto ai pannelli in silicio tradizionali, con potenziale di applicazioni in superfici curve o integrate in edifici. La competizione industriale tra Cina e Giappone riguarda sia la scala produttiva sia le nicchie di mercato specializzate."
+   ],
+   "fonti": [
+    {
+     "n": "Japan Forward",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://japan-forward.com/race-flexible-perovskite-solar-cells-mass-production/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-13T02:04+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z0fa67226",
+   "sez": "tech",
+   "titolo": "Quinta persona incriminata a Singapore per frode legata a chip Nvidia",
+   "orig": "Fifth person charged in Singapore over alleged fraud conspiracy linked to Nvidia chips",
+   "lead": "A Singapore è stata incriminata una quinta persona nell'ambito di un'indagine su una presunta cospirazione per frode legata a chip Nvidia. Shi Bingzhe ha ricevuto 41 capi d'accusa per aver presuntamente consentito reati di riciclaggio di denaro commessi da due società di cui era un dirigente chiave. Lo riferisce CNA.",
+   "more": [
+    "I chip di intelligenza artificiale prodotti da Nvidia sono soggetti a restrizioni all'esportazione verso alcuni paesi, e Singapore è diventata negli ultimi tempi un punto di attenzione per le autorità internazionali nelle indagini su presunti schemi di elusione di queste regole tramite società intermediarie."
+   ],
+   "fonti": [
+    {
+     "n": "CNA",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.channelnewsasia.com/singapore/man-charged-fraud-nvidia-chips-6548606",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-13T13:05+08:00"
+    },
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/11/12/polish-deputy-foreign-minister-charged-over-alleged-misappropriation-of-millions-of-zloty/",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-11-12T08:30+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7e4d0e85",
+   "sez": "sport",
+   "titolo": "Morgan Rogers: \"È una menzogna\" che Cole Palmer non vuole giocare per l'Inghilterra",
+   "orig": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
+   "lead": "Il calciatore Morgan Rogers ha difeso il compagno di squadra al Chelsea Cole Palmer, definendo \"una menzogna\" le accuse secondo cui non sarebbe interessato a giocare per la nazionale inglese. Palmer, escluso dalla convocazione per le gare di Nations League contro Croazia e Spagna, è stato oggetto di dubbi sul suo impegno dopo essersi ritirato dal raduno dello scorso mese per un infortunio all'inguine. Il selezionatore Thomas Tuchel non lo aveva convocato.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-12T23:17+00:00"
+    },
+    {
+     "n": "Nile Post",
+     "p": "XX",
+     "c": "Kampala",
+     "u": "https://nilepost.co.ug/sports/387140/a-lie-nonsense-palmer-committed-to-england-says-rogers",
+     "angolo": "",
+     "atlas": "Uganda",
+     "t": "2026-11-12T23:28+03:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z97b4355b",
+   "sez": "ambiente",
+   "titolo": "Una ripresa globale per le mangrovie",
+   "orig": "A Global Rebound for Mangroves",
+   "lead": "Dopo decenni di declino, le foreste di mangrovie, ecologicamente molto significative, stanno mostrando segnali di ripresa a livello globale. Lo riferisce la Nasa.",
+   "more": [
+    "Le mangrovie sono ecosistemi costieri che proteggono le coste dall'erosione, ospitano una grande biodiversità e assorbono grandi quantità di carbonio, svolgendo un ruolo importante nella mitigazione dei cambiamenti climatici. Negli ultimi decenni erano state minacciate da deforestazione e sviluppo costiero."
+   ],
+   "fonti": [
+    {
+     "n": "Nasa",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T05:01+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z5ec38af9",
+   "sez": "economia",
+   "titolo": "Il maggiore produttore ucraino di olio di semi di girasole chiude tutti gli impianti per gli attacchi russi",
+   "orig": "Ukraine's top sunflower oil producer shuts down all processing plants due to Russia's mass attacks",
+   "lead": "Kernel Holding, il più grande produttore ed esportatore ucraino di olio di semi di girasole, ha annunciato la chiusura di tutti i suoi impianti di lavorazione a causa dei danni causati dai massicci attacchi russi con drone. L'azienda ha segnalato danni ai propri siti produttivi, agli impianti e ai serbatoi di stoccaggio. Lo riferisce The Kyiv Independent.",
+   "more": [
+    "L'Ucraina è uno dei maggiori esportatori mondiali di olio di girasole e cereali, e gli attacchi russi contro infrastrutture agricole ed energetiche hanno colpito ripetutamente la capacità produttiva del paese durante il conflitto, con ripercussioni anche sui mercati alimentari internazionali."
+   ],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/ukraines-top-sunflower-oil-producer-shuts-down-all-processing-plants-due-to-russias-mass-attacks/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-12T20:55+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z53d1bb52",
+   "sez": "dibattito",
+   "titolo": "Regno Unito, i ribelli laburisti aprono a un piano per tagliare i sussidi ai giovani",
+   "orig": "Labour welfare rebels open to backing plan to cut youth benefits",
+   "lead": "Nel Regno Unito, alcuni deputati laburisti che si erano opposti a precedenti riforme del welfare si dicono ora disposti a sostenere una proposta per ridurre i sussidi destinati ai giovani, che sarà presentata la prossima settimana. L'obiettivo dichiarato è aiutare quasi un milione di giovani che non studiano, non lavorano e non seguono percorsi di formazione a entrare nel mondo del lavoro o della scuola.",
+   "more": [
+    "Nel Regno Unito il tema dei giovani \"NEET\" (not in education, employment or training) è da anni al centro del dibattito politico sul welfare, con proposte che alternano tagli ai sussidi e incentivi al lavoro come strumenti per ridurre questa categoria di popolazione giovanile inattiva."
+   ],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/9f608d3b-0b14-42d4-a7a3-b2cb379c7528?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-13T05:00+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z28a17867",
+   "sez": "ingegneria",
+   "titolo": "Le creature gonfiabili di Marlot Meyer respirano con le maree del Mar di Wadden",
+   "orig": "marlot meyer’s giant inflatable creatures breathe with the tides of the wadden sea",
+   "lead": "L'artista Marlot Meyer ha creato giganti sculture gonfiabili ispirate alle alghe microscopiche, capaci di \"respirare\" seguendo i movimenti delle maree nel Mar di Wadden. Le opere traducono i movimenti della marea in un'esperienza interattiva per i visitatori. Lo riferisce Designboom.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Designboom",
+     "p": "XX",
+     "c": "Internazionale",
+     "u": "https://www.designboom.com/art/marlot-meyer-giant-inflatable-creatures-breathe-tides-wadden-sea-pneuma/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-12T21:35+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z9d39dadb",
+   "sez": "salute",
+   "titolo": "Il ruolo sottovalutato del citomegalovirus nella polmonite dei neonati con HIV",
+   "orig": "[Comment] The overlooked role of CMV in pneumonia in infants with HIV",
+   "lead": "Un commento su The Lancet discute il ruolo trascurato del citomegalovirus (CMV) nella polmonite grave di neonati con HIV, una condizione trattata finora come una corsa contro il tempo con antibiotici ad ampio spettro e trattamenti empirici. Lo studio EMPIRICAL, condotto da Cinta Moraleda e colleghi, mette in discussione un altro aspetto consolidato delle attuali linee guida dell'Organizzazione Mondiale della Sanità, nonostante la mortalità rimanga alta.",
+   "more": [
+    "Il citomegalovirus è un'infezione comune che può diventare grave nei pazienti immunodepressi, come i neonati con HIV, aggravando il rischio di polmonite. Le linee guida dell'OMS orientano attualmente il trattamento empirico di queste polmoniti verso altre cause infettive, come la tuberculosi e la polmonite da Pneumocystis."
+   ],
+   "fonti": [
+    {
+     "n": "The Lancet",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01546-1/fulltext?rss=yes",
+     "angolo": "",
+     "atlas": "United Kingdom"
+    }
+   ],
+   "data": "",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z628467a4",
+   "sez": "cultura",
+   "titolo": "Il Chinese Culture Festival 2026 di Hong Kong trasforma le leggende in scoperta condivisa",
+   "orig": "Chinese Culture Festival 2026 in Hong Kong turns retold legends into shared discovery",
+   "lead": "Il Chinese Culture Festival 2026, in corso a Hong Kong, propone laboratori che rievocano tradizioni cinesi come il diabolo, suscitando momenti di scambio culturale tra partecipanti di diverse origini. Secondo Veron Lam, responsabile della sezione Cultural Presentations del dipartimento Leisure and Cultural Services, l'evento intende far scoprire le leggende tradizionali cinesi attraverso esperienze condivise tra generazioni e culture diverse.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/native/lifestyle/chinese-culture/topics/ccf2026-bringing-legends-life/article/3374032/chinese-culture-festival-2026-hong-kong-turns-retold-legends-shared-discovery",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-13T04:00+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4329e10a",
+   "sez": "sport",
+   "titolo": "Cristiano Ronaldo lancia una nuova serie televisiva",
+   "orig": "Cristiano Ronaldo launches television career with new series",
+   "lead": "Il calciatore portoghese Cristiano Ronaldo ha iniziato la produzione di una nuova serie televisiva intitolata \"Day 1s\", segnando l'avvio della sua carriera televisiva. L'iniziativa arriva dopo il recente annuncio del ritiro di Ronaldo dalla nazionale portoghese, che ha aperto discussioni sul futuro della maglia numero 7 della Seleção.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Tribune (Bahrein)",
+     "p": "XX",
+     "c": "Manama",
+     "u": "https://www.newsofbahrain.com/en/article/cristiano-ronaldo-launches-television-career-with-new-series",
+     "angolo": "",
+     "atlas": "Bahrain",
+     "t": "2026-11-12T16:32+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/le-numero-7-de-cristiano-ronaldo-courtise-par-nazinho-joueur-de-las-monaco/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-12T23:38+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z4ba5d99f",
+   "sez": "economia",
+   "titolo": "Sudafrica, aumenti salariali ai vertici pubblici mentre la disoccupazione sale al 33,7%",
+   "orig": "Editorial: Lot more money for the fat cats",
+   "lead": "In Sudafrica, l'istituto statistico nazionale ha riportato un aumento della disoccupazione al 33,7%, mentre il presidente Cyril Ramaphosa ha approvato aumenti salariali fino al 4% per titolari di cariche pubbliche e giudici. La decisione, criticata da un editoriale del Mail & Guardian, arriva in un momento di difficoltà economica diffusa nel paese.",
+   "more": [
+    "Il Sudafrica registra da anni uno dei tassi di disoccupazione più alti al mondo, un problema strutturale legato a crescita economica debole e disuguaglianze persistenti ereditate dal periodo dell'apartheid. Le decisioni su stipendi e spesa pubblica sono spesso oggetto di critiche quando contrastano con le difficoltà economiche della popolazione."
+   ],
+   "fonti": [
+    {
+     "n": "Mail & Guardian",
+     "p": "XX",
+     "c": "Johannesburg",
+     "u": "https://mg.co.za/thought-leader/editorial/2026-11-12-editorial-lot-more-money-for-the-fat-cats/",
+     "angolo": "",
+     "atlas": "South Africa",
+     "t": "2026-11-12T22:05+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z12ac7869",
+   "sez": "salute",
+   "titolo": "Proteine animali e vegetali: uno studio collega la dieta ai livelli di testosterone",
+   "orig": "Animal vs. plant protein reveals a surprising testosterone divide",
+   "lead": "Un nuovo studio condotto su oltre 2.500 uomini ha rilevato un legame tra la fonte delle proteine assunte con l'alimentazione e i livelli di testosterone. I ricercatori hanno osservato che un maggiore consumo di proteine animali, in particolare dei latticini, è associato a valori più bassi dell'ormone maschile, mentre le proteine di origine vegetale risultano collegate a livelli più alti. Lo studio solleva interrogativi su come le scelte alimentari quotidiane possano influire sull'equilibrio hormonale maschile. Lo riferisce ScienceDaily – Medicina.",
+   "more": [
+    "Il testosterone è l'ormone sessuale maschile principale, prodotto soprattutto dai testicoli, e influisce su massa muscolare, densità ossea, libido e umore. Diversi fattori come età, peso corporeo, attività fisica e alimentazione possono modificarne i livelli nel sangue. Studi osservazionali come questo mostrano correlazioni ma non dimostrano da soli un rapporto di causa-effetto diretto tra dieta e ormoni."
+   ],
+   "fonti": [
+    {
+     "n": "ScienceDaily – Medicina",
+     "p": "US",
+     "c": "Rockville",
+     "u": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-12T19:29-05:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z60a923ae",
+   "sez": "cucina",
+   "titolo": "In Giappone arriva la Asahi Spice Beer, la birra piccante che sta facendo parlare di sé",
+   "orig": "Move aside, Asahi Super Dry – Asahi Spice Beer is in town, and it’s hotter than you think",
+   "lead": "In Giappone sta facendo notizia un nuovo prodotto del celebre marchio Asahi: non più la tradizionale Super Dry, ma una birra piccante chiamata Asahi Spice Beer. Mentre all'estero il brand è associato soprattutto alla sua birra secca, in patria questa nuova variante si distingue per il gusto deciso e speziato, diventando un argomento di tendenza tra i consumatori giapponesi. Lo riferisce SoraNews24.",
+   "more": [
+    "Asahi è una delle principali aziende produttrici di birra in Giappone, nota a livello internazionale soprattutto per la Super Dry, lanciata negli anni Ottanta. Le aziende giapponesi del settore alimentare lanciano spesso edizioni limitate o varianti stagionali per attirare l'attenzione dei consumatori e generare discussione sui social media."
+   ],
+   "fonti": [
+    {
+     "n": "SoraNews24",
+     "p": "XX",
+     "c": "Tokyo",
+     "u": "https://soranews24.com/2026/11/13/move-aside-asahi-super-dry-asahi-spice-beer-is-in-town-and-its-hotter-than-you-think/",
+     "angolo": "",
+     "atlas": "Japan",
+     "t": "2026-11-13T04:00+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z30be5661",
+   "sez": "economia",
+   "titolo": "La Banca delle Isole Filippine conferma conti in dollari della vicepresidente Sara Duterte",
+   "orig": "Sara Duterte held dollar accounts, BPI confirms",
+   "lead": "La Bank of the Philippine Islands (BPI) ha confermato che la vicepresidente filippina Sara Duterte deteneva conti in dollari presso l'istituto. Secondo quanto riportato, anche suo padre, l'ex presidente Rodrigo Duterte, possiede due conti a deposito vincolato nella filiale BPI di Julia Vargas. La notizia arriva in un contesto di attenzione pubblica sulle finanze della famiglia Duterte. Lo riferisce Rappler.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rappler",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://www.rappler.com/philippines/sara-duterte-held-dollar-accounts-bpi-confirms/",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-13T13:34+08:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za4304e54",
+   "sez": "economia",
+   "titolo": "Hong Kong approva la legge per accelerare lo sviluppo della Northern Metropolis",
+   "orig": "Hong Kong lawmakers pass bill to streamline Northern Metropolis development",
+   "lead": "Il Consiglio legislativo di Hong Kong ha approvato giovedì, in terza lettura, la legge dedicata ad accelerare il piano di sviluppo della Northern Metropolis, un progetto infrastrutturale multimiliardario. Un funzionario ha dichiarato che le autorità intendono attuare le misure di facilitazione già nel primo trimestre del prossimo anno. La normativa punta a semplificare le procedure di pianificazione legate a questo grande progetto urbanistico. Lo riferisce Hong Kong Free Press.",
+   "more": [
+    "La Northern Metropolis è un vasto piano di sviluppo urbano annunciato da Hong Kong per creare una nuova area residenziale e tecnologica vicino al confine con la Cina continentale, pensata per aumentare l'offerta abitativa e stimolare l'integrazione economica con la regione del Guangdong."
+   ],
+   "fonti": [
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/11/13/hong-kong-lawmakers-pass-bill-to-streamline-northern-metropolis-development/",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-12T23:40+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zeb561001",
+   "sez": "mondo",
+   "titolo": "Rahmon e Putin discutono sicurezza, cooperazione economica e migrazione a Mosca",
+   "orig": "Rahmon and Putin discuss security, economic cooperation and labor migration in Moscow",
+   "lead": "Il presidente del Tagikistan Emomali Rahmon e il presidente russo Vladimir Putin si sono incontrati a Mosca, al termine del vertice dell'Organizzazione del Trattato di Sicurezza Collettiva (CSTO), per discutere di sicurezza, cooperazione economica e migrazione della forza lavoro. L'incontro rientra nei rapporti bilaterali tra i due paesi, legati da stretti vincoli economici e da un elevato numero di lavoratori migranti tagiki in Russia. Lo riferisce Asia-Plus.",
+   "more": [
+    "Il Tagikistan è uno dei paesi dell'Asia centrale più dipendenti dalle rimesse dei lavoratori emigrati, in gran parte diretti in Russia. La CSTO è un'alleanza militare che riunisce Russia e diverse repubbliche ex sovietiche per coordinare politiche di sicurezza regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Asia-Plus",
+     "p": "XX",
+     "c": "Dushanbe",
+     "u": "https://asiaplus.news/en/2026/11/13/emomali-rahmon-and-vladimir-putin-discuss-security-economy-and-migration/",
+     "angolo": "",
+     "atlas": "Tajikistan",
+     "t": "2026-11-13T04:42+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcf89f0d9",
+   "sez": "economia",
+   "titolo": "L'economia venezuelana cresce del 7,42% nel terzo trimestre 2026",
+   "orig": "Economia da Venezuela cresce 7,42% no terceiro trimestre de 2026",
+   "lead": "Il Prodotto Interno Bruto del Venezuela è cresciuto del 7,42% nel terzo trimestre del 2026 rispetto allo stesso periodo dell'anno precedente, secondo i dati diffusi giovedì dalla Banca Centrale del Venezuela (BCV). Il dato segna una crescita significativa dell'economia del paese sudamericano. Lo riferisce RTP.",
+   "more": [
+    "Il Venezuela ha vissuto negli ultimi anni una profonda crisi economica, con ipernflazione e crollo del PIL legati in parte alle sanzioni internazionali e al calo della produzione petrolifera, principale fonte di entrate del paese. Una ripresa della crescita segnerebbe un cambiamento rispetto agli anni più critici."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/economia/economia-da-venezuela-cresce-7-42-no-terceiro-trimestre-de-2026_n1778825",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-13T06:20+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "za447c0fe",
+   "sez": "economia",
+   "titolo": "Il Senato brasiliano approva il testo base del pacchetto di aggiustamento fiscale",
+   "orig": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi",
+   "lead": "Il Senato del Brasile ha approvato giovedì, dopo quasi quattro ore di votazione, il testo base del progetto di aggiustamento fiscale del governo, con 45 voti favorevoli e 31 contrari. La proposta prevede misure per ridurre le spese e aumentare le entrate, con un risparmio stimato tra 50 e 60 miliardi di reais nel 2027, secondo il ministro Bruno Moretti. Lo riferisce Agência Brasil.",
+   "more": [
+    "Il pacchetto fiscale rientra negli sforzi del governo brasiliano per contenere il deficit pubblico e stabilizzare i conti dello Stato. Misure di questo tipo combinano solitamente tagli alla spesa pubblica con interventi per ampliare la base imponibile o migliorare la riscossione delle entrate statali."
+   ],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-12T21:54-03:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z31e767a4",
+   "sez": "mondo",
+   "titolo": "Rapina armata a Parigi: una banda ruba gioielli De Beers per oltre 1,9 milioni di dollari",
+   "orig": "De Beers Paris robbery: Armed gang steals jewellery worth more than $1.9m",
+   "lead": "Un gruppo di quattro persone armate e mascherate ha rapinato una gioielleria De Beers a Parigi, portando via gioielli per un valore di oltre 1,9 milioni di dollari. Secondo le prime informazioni, i sospetti sarebbero fuggiti a bordo di motociclette dopo il colpo. Le autorità francesi hanno aperto un'indagine per identificare i responsabili. Lo riferisce NZ Herald.",
+   "more": [
+    "Parigi è stata teatro negli ultimi anni di diverse rapine di alto profilo contro gioiellerie di lusso, spesso compiute da bande organizzate che sfruttano la rapidità di fuga su moto per sottrarsi all'intervento della polizia nel centro città."
+   ],
+   "fonti": [
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/de-beers-paris-robbery-armed-gang-steals-jewellery-worth-more-than-19m/JY4FPFFLOJEITM47DUAK2DXJWM/",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-12T19:43+00:00"
+    },
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/two-arrested-after-armed-robbery-at-frankies-service-station/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-11-12T01:37+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z16095e99",
+   "sez": "sport",
+   "titolo": "Qualificazioni Coppa d'Africa 2027: vittorie per Senegal, Costa d'Avorio, Camerun e Benin",
+   "orig": "Senegal, Côte d’Ivoire, Cameroon and Benin strengthen Afcon qualification bids",
+   "lead": "Nella terza giornata delle qualificazioni alla Coppa d'Africa 2027, il Senegal ha battuto 4-1 il Sudan a Dakar dopo essere andato sotto nel primo tempo. La Costa d'Avorio ha mantenuto il suo percorso perfetto superando 2-1 il Gambia, mentre il Camerun ha vinto comodamente 2-0 contro la Namibia a Douala. Anche il Benin ha ottenuto un risultato positivo nella sua partita. Lo riferiscono The Namibian e Seneweb.",
+   "more": [
+    "La Coppa d'Africa delle Nazioni è la principale competizione calcistica continentale africana, e le qualificazioni coinvolgono decine di squadre nazionali divise in gruppi, con le prime classificate che accedono alla fase finale del torneo."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/senegal-cote-divoire-cameroon-and-benin-strengthen-afcon-qualification-bids/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-11-12T23:27+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Sport/qualifications-can-2027-la-gambie-tombe-en-cote-divoire-le-benin-et-le-cameroun-assurent_n_999003484.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-12T23:33+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zd41e4cdf",
+   "sez": "mondo",
+   "titolo": "Uruguay, operazione antidroga: imputato e in carcere \"El Meo\", figura chiave di una banda narco",
+   "orig": "Operación Trazador: imputaron y enviaron a prisión preventiva a \"El Meo\", pieza clave de una banda narco del Marconi",
+   "lead": "In Uruguay un uomo noto come \"El Meo\", ritenuto una figura chiave di una banda di narcotraffico attiva nel quartiere Marconi di Montevideo, è stato imputato e inviato in custodia preventiva nell'ambito dell'operazione denominata \"Trazador\". Insieme a lui sono stati imputati altri due uomini di 29 e 25 anni. Lo riferisce El Observador.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El Observador",
+     "p": "XX",
+     "c": "Montevideo",
+     "u": "https://www.elobservador.com.uy/nacional/operacion-trazador-imputaron-y-enviaron-prision-preventiva-el-meo-pieza-clave-una-banda-narco-del-marconi-n6063653",
+     "angolo": "",
+     "atlas": "Uruguay",
+     "t": "2026-11-12T17:54-03:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/politica/expedientes/caso-la-reina-dictan-prision-preventiva-para-navila-dieb-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-12T23:23+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z28209e07",
+   "sez": "mondo",
+   "titolo": "Bukele annuncia una base operativa nello stadio Sylvio Cator ad Haiti",
+   "orig": "Nayib Bukele anuncia base operativa en el estadio Sylvio Cator",
+   "lead": "Il presidente salvadoregno Nayib Bukele ha annunciato giovedì che, dopo la presa di controllo del principale stadio di Haiti, verrà installata lì una base operativa, minacciando al tempo stesso un'offensiva contro le bande criminali. In un messaggio su X in creolo haitiano, Bukele ha dichiarato che l'operazione, condotta da truppe salvadoregne insieme alla Polizia Nazionale di Haiti, alle Forze Armate haitiane e a una task force governativa, ha portato al controllo dello stadio Sylvio Cator. Lo riportano Diario Libre e Le Nouvelliste.",
+   "more": [
+    "Haiti è da anni alle prese con una grave crisi di sicurezza legata al potere delle bande armate, che controllano ampie zone della capitale Port-au-Prince. El Salvador, sotto la guida di Bukele, ha intensificato negli ultimi anni la sua politica di mano dura contro la criminalità organizzata, offrendo in alcuni casi supporto ad altri paesi della regione."
+   ],
+   "fonti": [
+    {
+     "n": "Diario Libre",
+     "p": "XX",
+     "c": "Santo Domingo",
+     "u": "https://www.diariolibre.com/mundo/america-latina/2026/11/12/nayib-bukele-anuncia-base-operativa-en-el-estadio-sylvio-cator/3719350",
+     "angolo": "",
+     "atlas": "Dominican Rep.",
+     "t": "2026-11-12T21:52+00:00"
+    },
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273831/salvadoran-soldiers-take-position-at-the-sylvio-cator-stadium",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-11-12T21:07+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z518ec719",
+   "sez": "mondo",
+   "titolo": "Benin, l'autorità per la protezione dei dati avverte sui rischi della pubblicazione di foto senza consenso",
+   "orig": "Bénin : l’APDP alerte sur les risques liés à la publication de photos et vidéos sans consentement",
+   "lead": "L'Autorità di protezione dei dati personali (APDP) del Benin ha lanciato un avvertimento agli utenti di internet, in particolare ai creatori di contenuti, ricordando in un comunicato dell'11 novembre che foto, video, registrazioni vocali e altre informazioni che permettono di identificare una persona costituiscono dati personali, la cui pubblicazione senza consenso comporta dei rischi. Lo riferisce La Nouvelle Tribune.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/benin-lapdp-alerte-sur-les-risques-lies-a-la-publication-de-photos-et-videos-sans-consentement/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-13T00:02+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/11/12/vie-privee-lapdpvp-alerte-sur-les-risques-du-numerique/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-12T10:55+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z64660915",
+   "sez": "mondo",
+   "titolo": "Negli Stati Uniti quasi mezzo milione di espulsioni in un anno, mai così tante",
+   "orig": "Halbe Million Abschiebungen in einem Jahr in USA",
+   "lead": "L'agenzia statunitense per l'immigrazione e le dogane (ICE) ha dichiarato di aver espulso quasi mezzo milione di persone nell'arco di un anno, un numero mai raggiunto prima. Il dato è stato diffuso dal ministero competente degli Stati Uniti. Lo riportano ORF e Süddeutsche Zeitung.",
+   "more": [
+    "Le politiche migratorie statunitensi sono state oggetto di un forte inasprimento negli ultimi anni, con un incremento delle risorse destinate all'identificazione e all'espulsione di persone prive di documenti regolari, nel quadro di una linea più rigida sull'immigrazione irregolare."
+   ],
+   "fonti": [
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3448053/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-13T06:18+01:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/usa-news-liveblog-abschiebungen-ice-migration-li.3578585",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T06:12+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zc9a7f758",
+   "sez": "dibattito",
+   "titolo": "Lisbona: il movimento \"Acampadas pela Habitação\" presenta richieste per incontro col presidente",
+   "orig": "00h Acampadas pela Habitação já têm caderno reivindicativo para reunião com PR, na próxima semana",
+   "lead": "A Lisbona, il movimento di protesta per il diritto alla casa \"Acampadas pela Habitação\" ha preparato un documento di rivendicazioni in vista di un incontro, previsto la prossima settimana, con il presidente della Repubblica portoghese. Il movimento denuncia il problema dell'accesso agli alloggi nella capitale, chiedendo risposte concrete alle istituzioni sul tema della casa. Lo riferisce RTP.",
+   "more": [
+    "Il Portogallo, come altri paesi europei, affronta da anni una crisi abitativa legata all'aumento dei prezzi degli affitti e degli immobili, in particolare nelle grandi città come Lisbona, dove il turismo e gli investimenti stranieri hanno contribuito a far salire i costi, rendendo difficile l'accesso alla casa per residenti con reddito medio o basso."
+   ],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/00h-acampadas-pela-habitacao-ja-tem-caderno-reivindicativo-para-reuniao-com-pr-na-proxima-semana_a1_1778823",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-13T01:23+00:00"
+    },
+    {
+     "n": "Novo Jornal",
+     "p": "XX",
+     "c": "Luanda",
+     "u": "http://novojornal.co.ao/sociedade/detalhe/efectivo-da-diip-que-matou-jovem-a-tiro-no-morro-bento-volta-a-julgamento-na-proxima-semana-com-novo-juiz-76009.html",
+     "angolo": "",
+     "atlas": "Angola",
+     "t": "2026-11-12T11:04+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf7796f91",
+   "sez": "economia",
+   "titolo": "L'Uzbekistan valuta l'eliminazione dei dazi sugli smartphone dopo l'ingresso nel WTO",
+   "orig": "Uzbekistan may scrap import duties on smartphones after joining WTO",
+   "lead": "L'Uzbekistan prevede di abolire i dazi doganali sugli smartphone importati dopo l'adesione all'Organizzazione Mondiale del Commercio (WTO), una misura che potrebbe far scendere i prezzi dei telefoni di quasi il 5% per i consumatori, secondo un funzionario doganale. La riduzione dei dazi dal 5% allo 0% fa parte dei negoziati per l'ingresso del paese nel WTO e potrebbe comportare un calo delle entrate di bilancio tra 300 e 400 miliardi di som. Lo riportano Kun.uz, Gazeta.uz e Daryo.",
+   "more": [
+    "Il WTO è l'organizzazione internazionale che regola il commercio tra i paesi membri, stabilendo regole su dazi e tariffe doganali. L'adesione comporta spesso l'adeguamento delle politiche commerciali nazionali agli standard internazionali, incluso l'abbassamento di alcune barriere tariffarie come i dazi all'importazione."
+   ],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/11/12/uzbekistan-may-scrap-import-duties-on-smartphones-after-joining-wto-60366",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-12T15:30+05:00"
+    },
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/11/13/phones/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-13T05:17+00:00"
+    },
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/11/12/imei-codes-uzb/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-12T09:40+00:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/12/uzbekistan-resumes-mobile-phone-customs-clearance-at-tashkent-airport-considers-zero-import-duties/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-12T15:30+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf42068c6",
+   "sez": "mondo",
+   "titolo": "Guinea: condanne e espulsioni per oltre 1.300 persone fermate per attività minerarie illegali a Siguiri",
+   "orig": "Orpaillage clandestin à Siguiri : de lourdes peines de prison et des expulsions prononcées !",
+   "lead": "Il procuratore generale della Corte d'appello di Conakry ha reso pubblici gli esiti dei procedimenti giudiziari avviati dopo le vaste operazioni condotte contro l'estrazione mineraria illecita e i danni ambientali nella prefettura di Siguiri, in Guinea. Le operazioni hanno portato all'arresto di oltre 1.300 persone, con pesanti pene detentive ed espulsioni pronunciate nei confronti dei responsabili. Lo riportano Mosaïque Guinée e Africaguinee.",
+   "more": [
+    "La Guinea è uno dei principali paesi africani per l'estrazione di oro, spesso sfruttato anche attraverso attività minerarie illegali che provocano gravi danni ambientali, come la deforestazione e l'inquinamento dei corsi d'acqua, oltre a sottrarre risorse al fisco statale."
+   ],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/orpaillage-clandestin-a-siguiri-de-lourdes-peines-de-prison-et-des-expulsions-prononcees/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-12T21:14+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/12/crief-agetipe-phamagui-comptes-geles-wright-fait-le-point-sur-les-dossiers-sensibles/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-12T19:38+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/orpaillage-clandestin-plus-de-1-300-personnes-interpellees-le-parquet-general-fait-le-point/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-12T21:11+00:00"
+    }
+   ],
+   "data": "12 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zf4d2f582",
+   "sez": "mondo",
+   "titolo": "Rimpatriato dalla Cambogia un membro della famiglia LG, latitante da otto anni",
+   "orig": "LG family scion repatriated from Cambodia after 8 years on the run",
+   "lead": "Koo Bon-hyun, nipote del defunto fondatore del gruppo LG, è stato rimpatriato in Corea del Sud dalla Cambogia, dopo essere fuggito dal paese otto anni fa per evitare un'indagine su accuse di manipolazione del mercato azionario, secondo quanto riferito dalla polizia venerdì. Lo riportano Yonhap e The Korea Herald.",
+   "more": [
+    "LG è uno dei più grandi conglomerati industriali sudcoreani (chaebol), attivo in settori come elettronica ed elettrodomestici. I chaebol, controllati da famiglie fondatrici, sono stati spesso coinvolti in scandali legati a reati finanziari, inclusa la manipolazione dei mercati azionari."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261113004900315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-13T14:50+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10936488",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z1d8f1316",
+   "sez": "mondo",
+   "titolo": "Corea del Sud chiede al Giappone di riconoscere la piena storia delle miniere di Sado",
+   "orig": "S. Korea urges Japan to face full history of Sado mine during separate memorial",
+   "lead": "La Corea del Sud ha invitato venerdì il Giappone a riconoscere completamente la storia delle miniere di Sado, dove durante il periodo coloniale giapponese furono impiegati lavoratori forzati coreani. Seul ha tenuto una cerimonia commemorativa separata in Giappone per il terzo anno consecutivo, boicottando l'evento organizzato dalle autorità giapponesi, in una disputa che prosegue da anni tra i due paesi sul tema del lavoro forzato. Lo riportano Yonhap e The Korea Herald.",
+   "more": [
+    "Le miniere di Sado, in Giappone, sono state inserite nel patrimonio UNESCO, ma la loro candidatura ha suscitato polemiche per l'uso di lavoratori coreani forzati durante l'occupazione giapponese della Corea (1910-1945). Il tema resta una delle principali fonti di tensione storica tra i due paesi."
+   ],
+   "fonti": [
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261113004300315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-13T14:14+09:00"
+    },
+    {
+     "n": "The Korea Herald",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.koreaherald.com/article/10936399",
+     "angolo": "",
+     "atlas": "South Korea"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z88d6a8e5",
+   "sez": "mondo",
+   "titolo": "Nigeria, la commissione elettorale fissa un'accreditamento di prova in vista delle elezioni 2027",
+   "orig": "2027: INEC schedules mock accreditation, to launch new safeguards",
+   "lead": "La Commissione elettorale indipendente nazionale della Nigeria (INEC) ha programmato un esercizio di accreditamento simulato per testare il proprio sistema in vista delle elezioni generali del 2027. Il presidente dell'INEC, Joash Amupitan, ha dichiarato che l'esercizio permetterà di verificare il sistema di accreditamento e la trasmissione elettronica dei risultati elettorali. Lo riportano Premium Times e The Punch.",
+   "more": [
+    "La Nigeria ha introdotto negli ultimi anni sistemi elettronici per l'accreditamento dei votanti e la trasmissione dei risultati, nel tentativo di aumentare la trasparenza e ridurre le frodi elettorali che hanno segnato il paese nelle precedenti tornate di voto."
+   ],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/924793-2027-inec-schedules-mock-accreditation-to-launch-new-safeguards.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-13T04:09+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/2027-inec-will-obey-court-ruling-on-atikus-candidacy-amupitan/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/morning-recap-inec-fixes-mock-poll-date-police-probe-obi-town-hall-attack-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zb470855e",
+   "sez": "mondo",
+   "titolo": "Thailandia chiede all'ASEAN di riaccogliere il Myanmar a livello diplomatico",
+   "orig": "ASEAN Should Accept Myanmar Back at Diplomat Level: Bangkok",
+   "lead": "Il ministro degli Esteri thailandese ha esortato l'ASEAN a ripristinare la partecipazione del ministro degli Esteri del Myanmar alle riunioni di alto livello dell'organizzazione, dopo colloqui con il leader della junta Min Aung Hlaing, nonostante non ci siano stati progressi verso la fine della crisi nel paese. La posizione thailandese segna un cambiamento rispetto al rifiuto iniziale espresso verso le elezioni organizzate dalla junta. Lo riportano The Irrawaddy e Myanmar Now.",
+   "more": [
+    "Dopo il colpo di stato militare del 2021, l'ASEAN ha escluso i leader politici del Myanmar dai vertici di alto livello, chiedendo un ritorno alla democrazia e la fine delle violenze. Il Myanmar resta tuttora in una grave crisi interna, con scontri tra le forze della junta e gruppi di opposizione armata."
+   ],
+   "fonti": [
+    {
+     "n": "The Irrawaddy",
+     "p": "XX",
+     "c": "Yangon (in esilio)",
+     "u": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/asean-should-accept-myanmar-back-at-diplomat-level-bangkok.html",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-11-13T04:41+00:00"
+    },
+    {
+     "n": "Myanmar Now",
+     "p": "XX",
+     "c": "Yangon",
+     "u": "https://myanmar-now.org/en/news/bangkok-says-asean-should-accept-myanmar-back-at-diplomat-level/",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-11-13T05:03+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "zcaf18b87",
+   "sez": "dibattito",
+   "titolo": "Germania, la commissione bilancio approva il budget 2027 da 560,9 miliardi di euro",
+   "orig": "Nachtsitzung im Haushaltsausschuss: Etat für 2027 steht",
+   "lead": "Dopo oltre 15 ore di discussione notturna, la commissione bilancio del parlamento tedesco ha concluso i lavori e approvato il bilancio per il 2027, che prevede spese per 560,9 miliardi di euro, una cifra superiore a quella inizialmente prevista. Il governo tedesco ha quindi definito il piano di spesa per il prossimo anno, mentre l'opposizione ha criticato le scelte adottate. Lo riportano Tagesschau e Süddeutsche Zeitung.",
+   "more": [
+    "Il bilancio federale tedesco stabilisce ogni anno come vengono allocate le risorse pubbliche tra i diversi ministeri e settori, dalla difesa al welfare alle infrastrutture. L'aumento della spesa prevista rispetto alle stime iniziali riflette spesso pressioni su più fronti, dalla sicurezza agli investimenti pubblici, in un contesto di dibattito sul debito pubblico."
+   ],
+   "fonti": [
+    {
+     "n": "Tagesschau",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.tagesschau.de/inland/bundeshauhalt-2027-100.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T07:26+01:00"
+    },
+    {
+     "n": "Süddeutsche Zeitung",
+     "p": "DE",
+     "c": "Monaco",
+     "u": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-haushalt-2027-bundestag-li.3568524",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-13T06:11+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z03283d96",
+   "sez": "mondo",
+   "titolo": "Brasile, professoressa licenziata dopo una foto con il gesto della \"L\" per Lula",
+   "orig": "Professora é demitida de escola em SC após foto em apoio a Lula",
+   "lead": "Una professoressa è stata licenziata dal Colégio Unificado di Itajaí, in Santa Catarina, dopo aver pubblicato una foto in cui lei e altri dipendenti facevano il gesto della \"L\" con le mani in sostegno al presidente riconfermato Luiz Inácio Lula da Silva. Il sindacato dei professori di Blumenau e della regione ha espresso dissenso nei confronti del licenziamento e di presunte denunce di persecuzione politica contro altri insegnanti, che avrebbero ricevuto richiami disciplinari per la stessa manifestazione. Lo riferisce Agência Brasil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Agência Brasil",
+     "p": "XX",
+     "c": "Brasília",
+     "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professora-e-demitida-de-escola-em-sc-apos-foto-em-apoio-lula",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-12T20:25-03:00"
+    },
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-12T23:45-03:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7f90c86b",
+   "sez": "ambiente",
+   "titolo": "Uzbekistan e Kazakistan si accordano per proteggere le popolazioni di saiga",
+   "orig": "Uzbekistan and Kazakhstan agree to protect saiga population",
+   "lead": "Uzbekistan e Kazakistan hanno concordato di coordinare gli sforzi per proteggere e far ripristinare le popolazioni di saiga, un'antilope delle steppe asiatiche, attraverso il monitoraggio congiunto delle migrazioni, il ripristino degli habitat naturali e misure contro il bracconaggio e il commercio illegale di animali selvatici. L'accordo è stato siglato tra i due paesi. Lo riportano UzDaily e Daryo.",
+   "more": [
+    "La saiga è un'antilope originaria delle steppe dell'Asia centrale, considerata a rischio a causa del bracconaggio, della perdita di habitat e di epidemie che ne hanno ridotto drasticamente il numero negli ultimi decenni. Le popolazioni migrano spesso tra i territori di diversi paesi, rendendo necessaria la cooperazione internazionale per la loro tutela."
+   ],
+   "fonti": [
+    {
+     "n": "UzDaily",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.uzdaily.uz/en/uzbekistan-and-kazakhstan-agree-to-protect-saiga-population/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-12T22:30+05:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/13/uzbekistan-and-kazakhstan-join-forces-to-protect-saiga-migration-routes/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-13T06:00+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
+   "id": "z7ace5a76",
+   "sez": "mondo",
+   "titolo": "Il PM di Timor-Leste al Summit ASEAN per difendere gli interessi nazionali",
+   "orig": "PM Xanana Sei Defende Interese Timor-Leste Iha Simeira ASEAN",
+   "lead": "Il Primo Ministro di Timor-Leste Kay Rala Xanana Gusmão si reca a Manila, Filippine, per partecipare al 49º Summit ASEAN dal 11 al 18 novembre 2026. L'obiettivo è rafforzare la cooperazione regionale e difendere gli interessi nazionali dello stato. Lo riferisce Timor Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/asean/tp-69345/pm-xanana-sei-defende-interese-timor-leste-iha-simeira-asean/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-11-13T02:08+00:00"
+    },
+    {
+     "n": "Timor Post",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://timorpost.com/asean/tp-69333/timor-leste-aprende-jestaun-sentru-media-simeria-asean-iha-filipina/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-11-12T12:52+00:00"
+    },
+    {
+     "n": "Tatoli (inglese)",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://en.tatoli.tl/2026/11/12/timor-leste-media-delegation-joins-thousands-of-reporters-at-international-media-centre-in-manila/20/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-11-12T11:37+00:00"
+    },
+    {
+     "n": "Tatoli (inglese)",
+     "p": "XX",
+     "c": "Dili",
+     "u": "https://en.tatoli.tl/2026/11/11/timor-leste-to-ship-27000-tons-of-manganese-overseas/10/",
+     "angolo": "",
+     "atlas": "Timor-Leste",
+     "t": "2026-11-11T01:16+00:00"
+    }
+   ],
+   "data": "13 nov",
+   "ora": "07:52",
+   "uscita": "mattino"
+  },
+  {
    "id": "z32860f5c",
    "sez": "prima",
    "titolo": "Allarmi bomba in 3800 scuole, indaga l'Antiterrorismo",
@@ -1330,76 +2876,6 @@ window.EDIZIONI["2026-11-13"] = {
    "top": true
   },
   {
-   "id": "z3e9e37ec",
-   "sez": "tech",
-   "titolo": "Malfunzionamento globale per i servizi Microsoft, problemi per milioni di utenti",
-   "orig": "Wereldwijde storing treft Microsoft, miljoenen gebruikers de dupe",
-   "lead": "Un esteso guasto mondiale sta interessando i servizi Microsoft 365, rendendo inaccessibili o malfunzionanti strumenti come Outlook e Microsoft Teams. Il problema è iniziato nel tardo pomeriggio e ha impedito agli utenti di inviare e-mail, partecipare a riunioni online e utilizzare le funzioni basate sull'intelligenza artificiale. L'azienda ha attribuito la causa a un sovraccarico improvviso e inaspettato delle infrastrutture server, che ha rallentato le operazioni di ripristino. Le segnalazioni arrivano principalmente dagli Stati Uniti d'America, ma i disagi sono confermati in tutta Europa e in diverse zone dell'Asia.",
-   "more": [
-    "Le interruzioni dei servizi cloud su scala globale possono causare paralisi operative significative per aziende e istituzioni che dipendono da piattaforme integrate per la comunicazione e il lavoro. Questi incidenti evidenziano la vulnerabilità delle infrastrutture digitali centralizzate e la sfida per i fornitori nel gestire carichi di traffico sempre più elevati dovuti alla digitalizzazione."
-   ],
-   "fonti": [
-    {
-     "n": "NOS",
-     "p": "XX",
-     "c": "Hilversum",
-     "u": "https://nos.nl/l/2639244",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-11-13T06:01+01:00"
-    },
-    {
-     "n": "NRC",
-     "p": "XX",
-     "c": "Rotterdam",
-     "u": "https://www.nrc.nl/nieuws/2026/11/13/microsoft-kampt-met-langdurige-wereldwijde-storing-a4941288",
-     "angolo": "",
-     "atlas": "Netherlands",
-     "t": "2026-11-13T06:43+01:00"
-    },
-    {
-     "n": "VRT NWS",
-     "p": "XX",
-     "c": "Bruxelles",
-     "u": "https://www.vrt.be/vrtnws/nl/2026/11/13/grote-storing-microsoft-outlook-en-teams-bedrijven-overheden.rss.xml",
-     "angolo": "",
-     "atlas": "Belgium",
-     "t": "2026-11-13T05:14+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-13T04:24+00:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/microsoft-estesi-disservizi-su-outlook-bcaf9b2c-de03-4b76-8049-57436cb4ab2a.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-12T20:13+00:00"
-    },
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-13T03:51+00:00"
-    }
-   ],
-   "data": "13 nov",
-   "ora": "07:37",
-   "uscita": "mattino",
-   "top": true
-  },
-  {
    "id": "ze3ddbbb5",
    "sez": "ambiente",
    "titolo": "John Kerry loda la leadership cinese sull'energia verde alla conferenza Cop31",
@@ -1676,29 +3152,6 @@ window.EDIZIONI["2026-11-13"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zb22a1beb",
-   "sez": "salute",
-   "titolo": "Nuove terapie per il tumore dell'endometrio: la chemioterapia è sempre necessaria?",
-   "orig": "[Comment] Is chemotherapy still needed in all patients with mismatch repair-deficient advanced or recurrent endometrial cancer?",
-   "lead": "Uno studio pubblicato su The Lancet esamina se la chemioterapia sia ancora necessaria per tutte le pazienti con carcinoma endometriale avanzato o ricorrente con deficit di riparazione del mismatch (dMMR). L'aggiunta di inibitori PD-1 o PD-L1 ai trattamenti standard ha mostrato risultati straordinari, migliorando significativamente la sopravvivenza libera da progressione. I ricercatori suggeriscono che alcuni pazienti potrebbero persino essere curati senza i tradizionali protocolli chimici, mettendo in discussione le pratiche cliniche attuali basate sui recenti trial clinici di fase avanzata. Lo riferisce The Lancet.",
-   "more": [
-    "La medicina di precisione sta rivoluzionando l'oncologia attraverso l'identificazione di biomarcatori come il dMMR, che indicano una maggiore risposta all'immunoterapia. Questo approccio permette di personalizzare le cure, riducendo potenzialmente l'uso di trattamenti tossici come la chemioterapia a favore di farmaci che stimolano il sistema immunitario a combattere direttamente le cellule tumorali."
-   ],
-   "fonti": [
-    {
-     "n": "The Lancet",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)02199-9/fulltext?rss=yes",
-     "angolo": "",
-     "atlas": "United Kingdom"
-    }
-   ],
-   "data": "",
-   "ora": "07:37",
-   "uscita": "mattino"
-  },
-  {
    "id": "z312579d6",
    "sez": "mondo",
    "titolo": "Rissa ad Abu Dhabi: Nurmagomedov schiaffeggia il campione UFC Dvalishvili",
@@ -1884,29 +3337,6 @@ window.EDIZIONI["2026-11-13"] = {
     }
    ],
    "data": "13 nov",
-   "ora": "07:37",
-   "uscita": "mattino"
-  },
-  {
-   "id": "z9d39dadb",
-   "sez": "salute",
-   "titolo": "L'impatto del Citomegalovirus nelle polmoniti dei neonati con HIV",
-   "orig": "[Comment] The overlooked role of CMV in pneumonia in infants with HIV",
-   "lead": "Un commento pubblicato sulla rivista scientifica The Lancet evidenzia il ruolo spesso trascurato del Citomegalovirus (CMV) nelle polmoniti gravi che colpiscono i neonati con HIV. Nonostante l'uso di antibiotici ad ampio spettro e trattamenti empirici per la tubercolosi, la mortalità resta alta in questo gruppo vulnerabile. Lo studio EMPIRICAL sfida le strategie cliniche convenzionali, suggerendo che una diagnosi tempestiva e il trattamento specifico per il CMV potrebbero essere decisivi per migliorare le probabilità di sopravvivenza dei bambini nelle regioni più colpite dalla malattia. Lo riferisce The Lancet.",
-   "more": [
-    "Il Citomegalovirus è un virus comune che raramente causa problemi nelle persone sane, ma può essere letale per chi ha un sistema immunitario compromesso, come i neonati nati con HIV. La ricerca clinica in questo campo è essenziale per aggiornare i protocolli di cura e ridurre la mortalità infantile nei Paesi in via di sviluppo."
-   ],
-   "fonti": [
-    {
-     "n": "The Lancet",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01546-1/fulltext?rss=yes",
-     "angolo": "",
-     "atlas": "United Kingdom"
-    }
-   ],
-   "data": "",
    "ora": "07:37",
    "uscita": "mattino"
   },
@@ -2194,6 +3624,42 @@ window.EDIZIONI["2026-11-13"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-13T01:00+01:00"
+    },
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/11/13/nvidia-ceo-jensen-huang-resigns-after-affair-with-suspected-china-spy/",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-13T03:45+00:00"
+    },
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://cebudailynews.inquirer.net/784730/nvidia-ceo-huang-quits-after-affair-with-suspected-china-spy",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-13T14:08+08:00"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/149057-nvidia-ceo-huang-quits-after-affair-with-suspected-china-spy.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-12T23:08+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/13/gli-007-americani-non-sono-sicuri-che-alice-huang-sia_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-13T07:05+01:00"
     }
    ],
    "data": "13 nov",
@@ -2320,13 +3786,29 @@ window.EDIZIONI["2026-11-13"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-11T18:15-05:00"
+    },
+    {
+     "n": "La Nación",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.lanacion.com.ar/estados-unidos/nueva-york/quien-era-el-ecuatoriano-de-26-anos-que-fallecio-en-el-derrumbe-de-brooklyn-en-nueva-york-es-un-nid12112026/",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-13T06:18+00:00"
+    },
+    {
+     "n": "El Tiempo",
+     "p": "XX",
+     "c": "Bogotá",
+     "u": "https://www.eltiempo.com/mundo/eeuu-y-canada/cancilleria-confirma-la-muerte-de-tres-colombianos-tras-desplome-de-edificio-en-brooklyn-nueva-york-3600639",
+     "angolo": "",
+     "atlas": "Colombia",
+     "t": "2026-11-12T17:47-05:00"
     }
    ],
    "data": "13 nov",
    "ora": "07:37",
-   "uscita": "mattino",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "mattino"
   },
   {
    "id": "z05c5678c",
@@ -2720,6 +4202,14 @@ window.EDIZIONI["2026-11-13"] = {
      "angolo": "",
      "atlas": "S. Sudan",
      "t": "2026-11-12T09:51+00:00"
+    },
+    {
+     "n": "Agenzia internazionale per l'energia atomica (Aiea)",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-jordan-is-committed-to-strengthening-radiation-and-nuclear-safety-oversight",
+     "angolo": "",
+     "atlas": ""
     }
    ],
    "data": "13 nov",
@@ -3264,7 +4754,6 @@ window.EDIZIONI["2026-11-13"] = {
   "z3ffc8283": "La testata evidenzia l'avanzamento tecnologico cinese nella gestione efficiente delle energie rinnovabili.",
   "z674fcfd3": "La testata specialistica si concentra sugli aggiornamenti sindacali e amministrativi per i dipendenti del comparto scuola.",
   "z5b6e2dc6": "Le testate celebrano la rimonta azzurra e la prestazione dei giovani talenti, sottolineando il sorpasso in classifica.",
-  "z3e9e37ec": "Le testate internazionali pongono l'accento sulla vastità del guasto e sulla lentezza del processo di risoluzione.",
   "ze3ddbbb5": "La testata britannica sottolinea il contrasto tra l'avanzata cinese e lo scetticismo climatico attribuito a Trump.",
   "z109e2290": "Le testate sottolineano l'esigenza di superare la frammentazione decisionale tra prefetti e presidi attraverso regole centralizzate.",
   "zc8fc7e3a": "La testata evidenzia il ritorno alla regia di un veterano dell'animazione giapponese per un progetto inedito.",
@@ -3275,14 +4764,14 @@ window.EDIZIONI["2026-11-13"] = {
   "zadd8ea8f": "La testata kazaka riporta i dati scientifici preoccupanti riguardanti il bilancio idrico del ghiacciaio simbolo della regione.",
   "z16d8f3d6": "La testata di design mette in luce un'innovazione artistica che coniuga creatività e giustizia sociale.",
   "z00fbeb28": "La testata evidenzia il divario tra le dichiarazioni pubbliche delle aziende tecnologiche e le loro ammissioni riservate ai legislatori.",
-  "zb22a1beb": "La prestigiosa rivista medica analizza un possibile cambio di paradigma nel trattamento di una specifica forma di tumore ginecologico.",
+  "zb22a1beb": "The Lancet pone l'interrogativo clinico sulla reale necessità della chemioterapia in questo sottogruppo di pazienti.",
   "z312579d6": "Le testate internazionali riportano i dettagli dello scontro fisico e le possibili ripercussioni legali per i lottatori coinvolti.",
   "zd5f065d9": "La testata analizza come l'innovazione tecnologica stia cambiando le procedure di soccorso in scenari bellici complessi.",
   "zb9f73219": "La testata libica riporta l'impegno istituzionale per stabilizzare il motore principale dell'economia nazionale.",
   "z9e9f664d": "Le testate evidenziano la tensione tra le nuove riforme legislative e le criticità concrete vissute quotidianamente negli istituti scolastici.",
   "zdce19373": "La testata sudafricana rende omaggio a una figura che ha saputo unire gastronomia e ricerca storica.",
   "zfa4845ed": "La testata britannica propone un profilo intimo dell'attrice, focalizzandosi sulle sfide psicologiche del successo.",
-  "z9d39dadb": "La testata scientifica pone l'attenzione sulla necessità di rivedere i protocolli terapeutici per una categoria di pazienti ad alto rischio.",
+  "z9d39dadb": "The Lancet evidenzia come lo studio EMPIRICAL metta in discussione pratiche cliniche consolidate.",
   "z1d21ca04": "La testata evidenzia la resilienza del giovane quarterback Daniels nel superare i propri errori e guidare la squadra al successo.",
   "z30f4e570": "Le testate locali mettono in luce l'attivismo diplomatico dell'Algeria per creare nuovi corridoi di scambio energetico e commerciale.",
   "za4d142b8": "ScienceDaily evidenzia il ruolo inaspettato della proteina TRF2 sia nella protezione cellulare che nella cura della distrofia.",
@@ -3315,7 +4804,55 @@ window.EDIZIONI["2026-11-13"] = {
   "z9a57ba9b": "La testata asiatica sottolinea il valore diplomatico e la solennità della cerimonia di riconsegna dei resti dei militari.",
   "zc576c258": "L'attenzione è focalizzata sull'interferenza delle autorità messicane verso i migranti alla luce della situazione politica statunitense.",
   "z87a5fbb7": "La testata in esilio evidenzia le contraddizioni economiche e le difficoltà della popolazione nel reperire valuta estera.",
-  "z0914da86": "Viene posta enfasi sulle violazioni dei diritti umani e sulle intimidazioni sistematiche denunciate dalle organizzazioni indipendenti."
+  "z0914da86": "Viene posta enfasi sulle violazioni dei diritti umani e sulle intimidazioni sistematiche denunciate dalle organizzazioni indipendenti.",
+  "z69031caf": "Rai News riporta la richiesta statunitense di coinvolgere gli europei e il rifiuto di Putin.",
+  "z63290aa5": "Deutsche Welle evidenzia il nuovo record di vendita stabilito dall'oggetto di scena.",
+  "za5e7d276": "Deutsche Welle riporta le accuse delle vittime contro il partito di governo APC.",
+  "za7207a7a": "France 24 sottolinea l'estensione geografica del guasto, segnalato in 74 paesi.",
+  "zf36c0cc9": "The Guardian evidenzia l'unanimità dei voti ricevuti da entrambi i giocatori.",
+  "z07df1f09": "Anime News Network descrive il corto come un omaggio diretto allo scontro tra Sonic e Metal Sonic.",
+  "ze4d1c3d4": "La Nasa presenta l'immagine come parte della sua rubrica quotidiana di astronomia.",
+  "z92f444c5": "CBC News riporta il confronto tra Carney e Zelensky sui negoziati con la Russia.",
+  "z547f6dc1": "OndaRock valuta positivamente l'equilibrio tra improvvisazione e scrittura musicale nel disco.",
+  "z506caafb": "France 24 riporta le denunce delle associazioni per i diritti umani sull'uso di misure antiterrorismo contro i manifestanti.",
+  "z35f377ba": "The Kathmandu Post evidenzia la concentrazione del debito in pochi grandi debitori legati all'aeroporto.",
+  "z415867e5": "Designboom descrive il progetto come un recupero che valorizza la struttura preesistente degli anni Settanta.",
+  "z7692fdeb": "La Cucina Italiana propone ricette per preparare in casa diverse varianti regionali del torrone.",
+  "z695dff40": "Il South China Morning Post inserisce la serie \"Big Timer\" nella tradizione del cinema criminale di Hong Kong.",
+  "z4e54ae4c": "Japan Forward contrappone la strategia cinese di scala a quella giapponese basata sull'innovazione di nicchia.",
+  "z0fa67226": "CNA riporta il numero elevato di capi d'accusa mossi contro l'indagato.",
+  "z7e4d0e85": "The Guardian riporta la difesa di Rogers nei confronti del compagno Palmer sulle accuse di scarso impegno con la nazionale.",
+  "z97b4355b": "La Nasa evidenzia il rimbalzo positivo delle mangrovie dopo anni di declino.",
+  "z5ec38af9": "The Kyiv Independent sottolinea l'entità dei danni causati dagli attacchi russi agli impianti produttivi.",
+  "z53d1bb52": "Il Financial Times riporta l'apertura dei ribelli laburisti a un piano di riforma del welfare giovanile.",
+  "z28a17867": "Designboom descrive le sculture come un modo per rendere percepibile il movimento delle maree attraverso l'arte interattiva.",
+  "z628467a4": "Il South China Morning Post evidenzia la dimensione intergenerazionale e interculturale degli eventi del festival.",
+  "z4329e10a": "Daily Tribune presenta il progetto televisivo come il nuovo capitolo della carriera di Ronaldo fuori dal campo.",
+  "z4ba5d99f": "Il Mail & Guardian critica la decisione di aumentare gli stipendi pubblici mentre la disoccupazione cresce.",
+  "z12ac7869": "La testata evidenzia la novità e la portata del campione studiato, sottolineando le implicazioni delle scelte alimentari quotidiane.",
+  "z60a923ae": "La testata presenta la novità con tono curioso, sottolineando il contrasto tra l'immagine storica del marchio e il nuovo prodotto piccante.",
+  "z30be5661": "La testata si concentra sulla conferma bancaria relativa ai conti della famiglia Duterte.",
+  "za4304e54": "La testata evidenzia l'approvazione legislativa come passo per accelerare un progetto infrastrutturale strategico.",
+  "zeb561001": "La testata riporta i temi affrontati nell'incontro bilaterale tra i due leader.",
+  "zcf89f0d9": "La testata riporta il dato ufficiale diffuso dalla banca centrale venezuelana.",
+  "za447c0fe": "La testata riporta l'esito della votazione e le cifre del risparmio previsto indicate dal governo.",
+  "z31e767a4": "La testata descrive la dinamica del colpo e il valore della merce sottratta.",
+  "z16095e99": "Le testate riportano i risultati delle partite disputate nella giornata di qualificazione.",
+  "zd41e4cdf": "La testata riporta gli esiti giudiziari dell'operazione contro il traffico di droga.",
+  "z28209e07": "Le testate riportano l'annuncio del presidente salvadoregno sul controllo dello stadio e sulle future operazioni militari.",
+  "z518ec719": "La testata riporta l'avviso ufficiale dell'autorità beninese sulla tutela dei dati personali online.",
+  "z64660915": "Le testate riportano il dato record diffuso dalle autorità statunitensi sulle espulsioni.",
+  "zc9a7f758": "La testata riporta la preparazione del documento di richieste in vista dell'incontro istituzionale.",
+  "zf7796f91": "Le testate riportano l'impatto previsto sui prezzi al consumo e sulle entrate statali derivanti dalla riduzione dei dazi.",
+  "zf42068c6": "Le testate riportano il bilancio ufficiale delle operazioni giudiziarie contro l'orpaillage clandestino.",
+  "zf4d2f582": "Le testate riportano il rimpatrio dopo una lunga latitanza all'estero.",
+  "z1d8f1316": "Le testate riportano la posizione sudcoreana e il boicottaggio della cerimonia ufficiale giapponese.",
+  "z88d6a8e5": "Le testate riportano la programmazione dell'esercizio tecnico da parte della commissione elettorale.",
+  "zb470855e": "Le testate riportano la richiesta thailandese e il cambiamento di posizione rispetto al passato.",
+  "zcaf18b87": "Le testate riportano l'esito dei negoziati notturni e le critiche dell'opposizione al bilancio approvato.",
+  "z03283d96": "La testata riporta la reazione del sindacato degli insegnanti al licenziamento e alle sanzioni disciplinari legate a un gesto politico.",
+  "z7f90c86b": "Le testate riportano i contenuti dell'accordo bilaterale per la tutela della specie.",
+  "z7ace5a76": "La testata sottolinea il ruolo del Primo Ministro nella difesa degli interessi nazionali all'interno del forum regionale ASEAN."
  },
  "contesti": {
   "z918ee2c5": "La Corea del Nord è stata ripetutamente accusata di essere dietro a colossali furti di asset digitali a livello globale. Negli ultimi anni, gruppi di hacker legati al regime hanno perfezionato tecniche di infiltrazione sempre più complesse, colpendo istituzioni finanziarie e infrastrutture blockchain per accumulare valuta forte necessaria alla stabilità economica del Paese.",
@@ -3329,10 +4866,10 @@ window.EDIZIONI["2026-11-13"] = {
   "zdfa0f672": "L'attesa per il sedicesimo album degli U2 era cresciuta costantemente tra i fan dopo l'annuncio del progetto 'Carnaval de Luz'. Le voci su una collaborazione speciale con Dolly Parton erano circolate nei mesi precedenti, alimentate dai messaggi criptici della band e dalla pubblicazione di tracce inedite che esploravano temi legati alla mortalità e alla celebrazione della carriera della Parton.",
   "z92b38004": "L'attesa per l'edizione 2027 della 'Rossa' era carica di aspettative, con voci che suggerivano la possibile promozione di nuovi ristoranti al massimo riconoscimento delle tre stelle. Negli ultimi anni la gastronomia italiana ha vissuto una fase di grande fermento, sebbene le scelte degli ispettori quest'anno abbiano mostrato un orientamento più severo e selettivo rispetto alle edizioni passate.",
   "z5b6e2dc6": "Gli azzurri arrivavano alla sfida contro la Francia dopo una serie di prestazioni convincenti nella fase a gironi della Nations League. La squadra guidata da Mancini aveva mostrato segnali di crescita costante, cercando di consolidare la propria posizione nel torneo continentale per riscattare le recenti delusioni internazionali e testare l'inserimento di nuovi giovani talenti nel gruppo della nazionale maggiore.",
-  "z3e9e37ec": "Negli ultimi mesi, i servizi cloud di Microsoft hanno registrato brevi interruzioni localizzate, ma nessuna di portata paragonabile a quest'ultimo evento globale. Gli utenti hanno segnalato crescenti difficoltà nell'accesso agli strumenti di produttività online, mentre l'azienda ha lavorato sull'aggiornamento delle infrastrutture server per gestire il carico di lavoro derivante dall'integrazione di nuove funzionalità.",
   "z7790b295": "Nelle ultime settimane, Nvidia aveva raggiunto valutazioni record, diventando il simbolo del boom globale dell'intelligenza artificiale. Tuttavia, le indiscrezioni su violazioni delle regole interne e sospetti legami con agenti stranieri hanno scosso il mercato. Il sociologo Morozov ha osservato che i microchip sono ormai il nuovo petrolio, definendo la supremazia mondiale attraverso il controllo tecnologico piuttosto che attraverso le sole risorse naturali.",
   "z9b13214f": "L'incidente si è verificato l'11 novembre, quando parte della struttura è scivolata nello scavo del cantiere vicino. Nelle prime ore successive al crollo, le squadre di emergenza hanno lavorato senza sosta nella speranza di trovare sopravvissuti, nonostante le condizioni meteorologiche avverse. Il sindaco di New York ha seguito da vicino le operazioni, dichiarando conclusa la fase di emergenza una volta accertato il bilancio definitivo delle vittime.",
-  "z32860f5c": "Una coordinata ondata di falsi allarmi bomba inviati tramite email da server situati a Taiwan e nelle Filippine ha travolto il sistema scolastico italiano. Le minacce, siglate col nome Antropov, hanno colpito circa 3800 istituti provocando l'evacuazione di 77 scuole. Di fronte al caos generato in tutto il Paese, il governo ha chiesto di non interrompere le lezioni, mentre l'Antiterrorismo ha aperto un'inchiesta."
+  "z32860f5c": "Una coordinata ondata di falsi allarmi bomba inviati tramite email da server situati a Taiwan e nelle Filippine ha travolto il sistema scolastico italiano. Le minacce, siglate col nome Antropov, hanno colpito circa 3800 istituti provocando l'evacuazione di 77 scuole. Di fronte al caos generato in tutto il Paese, il governo ha chiesto di non interrompere le lezioni, mentre l'Antiterrorismo ha aperto un'inchiesta.",
+  "za7207a7a": "Il guasto è iniziato giovedì e si protrae da circa otto ore, con Microsoft che ha applicato correzioni rivelatesi inefficaci. L'azienda continua a cercare soluzioni alternative mentre il disservizio colpisce utenti in decine di paesi."
  },
  "cronologie": {
   "z918ee2c5": [
@@ -3449,20 +4986,6 @@ window.EDIZIONI["2026-11-13"] = {
     "Preparazione finale per la sfida contro la Francia"
    ]
   ],
-  "z3e9e37ec": [
-   [
-    "Giovedì ore 17:15",
-    "Inizio delle prime segnalazioni di malfunzionamento per Microsoft 365"
-   ],
-   [
-    "Giovedì sera",
-    "L'azienda conferma ufficialmente un sovraccarico anomalo sui server"
-   ],
-   [
-    "Venerdì mattina",
-    "Il ripristino delle funzionalità procede più lentamente del previsto"
-   ]
-  ],
   "z7790b295": [
    [
     "12/11/2026",
@@ -3503,6 +5026,16 @@ window.EDIZIONI["2026-11-13"] = {
    [
     "Oggi",
     "Appello del governo a garantire la continuità scolastica e apertura delle indagini dell'Antiterrorismo di Roma e Milano"
+   ]
+  ],
+  "za7207a7a": [
+   [
+    "2026-11-12",
+    "Inizia il guasto globale a Outlook e Microsoft 365"
+   ],
+   [
+    "2026-11-13",
+    "Microsoft comunica che le riparazioni non funzionano come previsto"
    ]
   ]
  },
@@ -3626,6 +5159,98 @@ window.EDIZIONI["2026-11-13"] = {
     }
    ],
    "divergono": "Le testate divergono significativamente sulla cornice della notizia: NPR e The Straits Times si concentrano sulle dinamiche parlamentari e sul conteggio dei voti interni. The Guardian mette invece in primo piano l'attivismo di piazza e gli arresti dei manifestanti per il clima, assenti nelle altre fonti. Al Jazeera è l'unica a dedicare ampio spazio alla biografia di Van Hollen e alle sue posizioni in politica estera, specialmente su Gaza e Israele. NZZ contestualizza la sfida all'interno di un quadro politico più vasto che include le controversie sull'amministrazione Trump e i record di deportazioni."
+  },
+  "za7207a7a": {
+   "voci": [
+    {
+     "n": "France 24",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Dà solo titolo e occhiello: panna segnalata in 74 paesi, decine di migliaia di utenti colpiti, con Microsoft che parla di modifiche che non producono i «risultati» sperati. Giudizio parziale per assenza del testo completo.",
+     "b": "t"
+    },
+    {
+     "n": "Le Monde",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Descrive il guasto come dovuto a un «carico elevato» sull'infrastruttura, colpendo Outlook, Teams e Copilot a livello globale. Cita Downdetector (74 paesi/territori) e un avviso della Nuova Zelanda su ambasciate e consolati colpiti.",
+     "b": "a"
+    },
+    {
+     "n": "Le Figaro",
+     "c": "Parigi",
+     "p": "XX",
+     "t": "Articolo ampio e tecnico: spiega che la causa reale sarebbe «l'indisponibilità inattendue» di alcuni server, non solo il sovraccarico, e riporta gli aggiornamenti orari di Microsoft su X. Esclude attività malevole e descrive tentativi falliti di ripristino.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le Monde e Le Figaro concordano sul «carico elevato» come causa iniziale, ma Le Figaro aggiunge un dettaglio ulteriore: l'indisponibilità inattesa di alcuni server. Solo Defimedia (2) menziona l'impatto su Claude e ChatGPT e casi concreti come l'ospedale dell'Iowa, aspetto assente altrove. France 24, essendo solo titolo/occhiello, offre un quadro parziale rispetto agli articoli completi."
+  },
+  "z924f96af": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Riporta attacchi Houthi su oleodotti e impianti petroliferi sauditi (Yanbu, East-West Pipeline) citando il portavoce Houthi Yahya Saree, e l'intercettazione di droni secondo la coalizione a guida saudita. Segnala l'estensione delle sanzioni ONU e cita l'OCHA su 333.000 sfollati in Yemen da agosto.",
+     "b": "a"
+    },
+    {
+     "n": "Dawn",
+     "c": "Karachi",
+     "p": "XX",
+     "t": "Si concentra sulla posizione del Pakistan all'ONU, che chiede la cessazione «immediata e incondizionata» degli attacchi Houthi e sostiene la sovranità saudita. Dettaglia il contenuto della risoluzione (proroga sanzioni al 2027) e le divisioni tra Regno Unito, Russia e Cina sulla designazione di «terroristi».",
+     "b": "a"
+    },
+    {
+     "n": "Gulf News",
+     "c": "Dubai",
+     "p": "XX",
+     "t": "Articolo su un tema diverso: il richiamo di 44.305 auto Hyundai in Arabia Saudita per un difetto agli airbag, senza relazione con il conflitto Houthi-Arabia Saudita o le sanzioni ONU.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Gulf News tratta un argomento del tutto estraneo (richiamo auto Hyundai) e non riguarda la notizia sugli Houthi o le sanzioni ONU. Al Jazeera e Dawn concordano sulla proroga delle sanzioni ONU, ma Dawn approfondisce le divisioni diplomatiche (Regno Unito e Bahrein per la designazione di «terroristi», bloccata da Russia e Cina), aspetto assente in Al Jazeera. Al Jazeera aggiunge dati umanitari OCHA sugli sfollati, non presenti in Dawn. Middle East Eye (1) si distingue per il focus sull'arsenale missilistico saudita, tema assente nelle altre fonti."
+  },
+  "za80b7235": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Riporta la disattivazione degli account Instagram e Facebook di Brand dopo la condanna a 10 anni e mezzo per stupro e aggressioni sessuali su quattro donne. Cita le policy di Meta sugli account 'dannosi per la comunità' e il post di Brand su X che ringrazia 'Elon Musk'.",
+     "b": "a"
+    },
+    {
+     "n": "NZ Herald",
+     "c": "Auckland",
+     "p": "XX",
+     "t": "Si concentra sul messaggio pubblicato sull'account X di Brand dopo la rimozione dei profili Meta, citando testualmente 'non ci è mai stato un Russell Brand' e 'stay tuned'. Riporta reazioni critiche degli utenti social e conferma da Meta a TMZ, oltre a nuove indagini per presunti stupri su altre due donne.",
+     "b": "a"
+    },
+    {
+     "n": "El Universo",
+     "c": "Guayaquil",
+     "p": "XX",
+     "t": "Si concentra sull'uscita su Netflix del documentario 'Russell Brand: Open Secret', diretto da Olivia Isaacs, che ricostruisce carriera e delitti dell'attore basandosi sulle inchieste di The Times e The Sunday Times. Cita le parole del giudice sulla 'arroganza sbalorditiva' di Brand e sul diritto delle vittime a dire 'no'.",
+     "b": "a"
+    },
+    {
+     "n": "Plaza Pública",
+     "c": "Città del Guatemala",
+     "p": "XX",
+     "t": "L'articolo fornito non riguarda la notizia su Russell Brand, ma un'intervista sul progetto infrastrutturale MetroRiel in Guatemala con la cooperazione britannica; il giudizio su questa storia è quindi parziale/non pertinente.",
+     "b": "a"
+    },
+    {
+     "n": "Opinión (Bolivia)",
+     "c": "La Paz",
+     "p": "XX",
+     "t": "Ricostruisce in modo ampio la carriera e la caduta di Brand, descritto come simbolo della 'cultura dei machisti' nei media britannici degli anni 2000. Riporta le parole del giudice che lo definisce 'predatore sessuale' e cita testimonianze delle vittime, oltre a dichiarazioni del premier Andy Burnham e della ministra Lisa Nandy sulla cultura degli abusi nei media.",
+     "b": "a"
+    }
+   ],
+   "divergono": "BBC News e NZ Herald si concentrano sulla rimozione degli account Meta e sulla reazione di Brand su X, con NZ Herald che aggiunge dettagli sulle reazioni social e su nuove indagini in corso. El Universo sposta il focus sul documentario Netflix e sulle parole del giudice durante la sentenza. Opinión (Bolivia) offre il quadro più ampio, ricostruendo la carriera di Brand e inserendo dichiarazioni politiche di Burnham e Nandy assenti nelle altre testate. Plaza Pública non tratta la notizia, rendendo impossibile un confronto su questo punto."
   }
  },
  "luoghi": {
@@ -3825,13 +5450,6 @@ window.EDIZIONI["2026-11-13"] = {
    ],
    "pt": []
   },
-  "z3e9e37ec": {
-   "n": "Redmond",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "ze3ddbbb5": {
    "n": "Antalya",
    "p": [
@@ -3903,10 +5521,8 @@ window.EDIZIONI["2026-11-13"] = {
    "pt": []
   },
   "zb22a1beb": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
+   "n": "Mondo",
+   "p": [],
    "pt": []
   },
   "z312579d6": {
@@ -3952,10 +5568,8 @@ window.EDIZIONI["2026-11-13"] = {
    "pt": []
   },
   "z9d39dadb": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
+   "n": "Mondo",
+   "p": [],
    "pt": []
   },
   "z1d21ca04": {
@@ -4188,6 +5802,335 @@ window.EDIZIONI["2026-11-13"] = {
     "Cuba"
    ],
    "pt": []
+  },
+  "z69031caf": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z63290aa5": {
+   "n": "Los Angeles",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "za5e7d276": {
+   "n": "Lagos",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "za7207a7a": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "zf36c0cc9": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z07df1f09": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "ze4d1c3d4": {
+   "n": "Galassia di Andromeda",
+   "p": [],
+   "pt": []
+  },
+  "z92f444c5": {
+   "n": "Irlanda",
+   "p": [
+    "Ireland"
+   ],
+   "pt": []
+  },
+  "z547f6dc1": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z506caafb": {
+   "n": "Francia",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z35f377ba": {
+   "n": "Kathmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z415867e5": {
+   "n": "Hayama",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z7692fdeb": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z695dff40": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z4e54ae4c": {
+   "n": "Asia orientale",
+   "p": [
+    "China",
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z0fa67226": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "z7e4d0e85": {
+   "n": "Inghilterra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z97b4355b": {
+   "n": "Mondo",
+   "p": [],
+   "pt": []
+  },
+  "z5ec38af9": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z53d1bb52": {
+   "n": "Regno Unito",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z28a17867": {
+   "n": "Mar di Wadden",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z628467a4": {
+   "n": "Hong Kong",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z4329e10a": {
+   "n": "Internazionale",
+   "p": [],
+   "pt": []
+  },
+  "z4ba5d99f": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z12ac7869": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z60a923ae": {
+   "n": "Tokyo",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z30be5661": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "za4304e54": {
+   "n": "Hong Kong",
+   "p": [
+    "Hong Kong"
+   ],
+   "pt": []
+  },
+  "zeb561001": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zcf89f0d9": {
+   "n": "Venezuela",
+   "p": [
+    "Venezuela"
+   ],
+   "pt": []
+  },
+  "za447c0fe": {
+   "n": "Brasilia",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z31e767a4": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z16095e99": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "zd41e4cdf": {
+   "n": "Montevideo",
+   "p": [
+    "Uruguay"
+   ],
+   "pt": []
+  },
+  "z28209e07": {
+   "n": "Port-au-Prince",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z518ec719": {
+   "n": "Benin",
+   "p": [
+    "Benin"
+   ],
+   "pt": []
+  },
+  "z64660915": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zc9a7f758": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "zf7796f91": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zf42068c6": {
+   "n": "Siguiri",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "zf4d2f582": {
+   "n": "Seul",
+   "p": [
+    "South Korea"
+   ],
+   "pt": []
+  },
+  "z1d8f1316": {
+   "n": "Isola di Sado",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z88d6a8e5": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zb470855e": {
+   "n": "Bangkok",
+   "p": [
+    "Thailand"
+   ],
+   "pt": []
+  },
+  "zcaf18b87": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z03283d96": {
+   "n": "Itajaí",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z7f90c86b": {
+   "n": "Tashkent",
+   "p": [
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "z7ace5a76": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -4219,7 +6162,6 @@ window.EDIZIONI["2026-11-13"] = {
   "z3ffc8283": 1,
   "z674fcfd3": 1,
   "z5b6e2dc6": 3,
-  "z3e9e37ec": 3,
   "ze3ddbbb5": 2,
   "z109e2290": 2,
   "zc8fc7e3a": 1,
@@ -4256,7 +6198,7 @@ window.EDIZIONI["2026-11-13"] = {
   "z44fdc1be": 1,
   "z665d1ece": 2,
   "zf968263f": 2,
-  "ze1e7139e": 1,
+  "ze1e7139e": 2,
   "z16447f27": 1,
   "z160e4ad9": 1,
   "z38e76f71": 2,
@@ -4270,7 +6212,55 @@ window.EDIZIONI["2026-11-13"] = {
   "z9a57ba9b": 1,
   "zc576c258": 1,
   "z87a5fbb7": 1,
-  "z0914da86": 1
+  "z0914da86": 1,
+  "z69031caf": 1,
+  "z63290aa5": 1,
+  "za5e7d276": 1,
+  "za7207a7a": 3,
+  "zf36c0cc9": 2,
+  "z07df1f09": 1,
+  "ze4d1c3d4": 1,
+  "z92f444c5": 1,
+  "z547f6dc1": 1,
+  "z506caafb": 1,
+  "z35f377ba": 1,
+  "z415867e5": 1,
+  "z7692fdeb": 1,
+  "z695dff40": 1,
+  "z4e54ae4c": 1,
+  "z0fa67226": 1,
+  "z7e4d0e85": 1,
+  "z97b4355b": 1,
+  "z5ec38af9": 1,
+  "z53d1bb52": 1,
+  "z28a17867": 1,
+  "z628467a4": 1,
+  "z4329e10a": 1,
+  "z4ba5d99f": 1,
+  "z12ac7869": 1,
+  "z60a923ae": 1,
+  "z30be5661": 1,
+  "za4304e54": 1,
+  "zeb561001": 1,
+  "zcf89f0d9": 1,
+  "za447c0fe": 1,
+  "z31e767a4": 1,
+  "z16095e99": 1,
+  "zd41e4cdf": 1,
+  "z28209e07": 1,
+  "z518ec719": 1,
+  "z64660915": 2,
+  "zc9a7f758": 1,
+  "zf7796f91": 1,
+  "zf42068c6": 1,
+  "zf4d2f582": 1,
+  "z1d8f1316": 1,
+  "z88d6a8e5": 1,
+  "zb470855e": 1,
+  "zcaf18b87": 1,
+  "z03283d96": 1,
+  "z7f90c86b": 1,
+  "z7ace5a76": 1
  },
  "video": {},
  "pillole": []
