@@ -226,254 +226,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z106a833f",
-   "sez": "prima",
-   "titolo": "Negli Usa riprendono i voli dopo il blocco nazionale per un guasto ai controlli aerei",
-   "orig": "US flights resume after grounding but delays expected",
-   "lead": "I voli negli Stati Uniti sono ripresi dopo che la Federal Aviation Administration aveva imposto un blocco nazionale a causa di un guasto alle comunicazioni nei centri di controllo del traffico aereo. Lo stop, durato oltre quattro ore, ha provocato il più lungo fermo nazionale dell'aviazione Usa degli ultimi tempi, causando ritardi e cancellazioni in tutto il Paese; le autorità avvertono che il ritorno alla normalità richiederà tempo. Lo riferiscono RTÉ News e Reuters.",
-   "more": [
-    "I sistemi di controllo del traffico aereo statunitensi, spesso basati su infrastrutture tecnologiche datate, sono già stati oggetto di critiche per la loro vulnerabilità, con episodi recenti di carenza di personale e guasti tecnici che hanno causato ritardi diffusi nel sistema aereo nazionale americano."
-   ],
-   "fonti": [
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/us/2026/1114/1599194-travel-stop-lifted/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-11-14T01:49+00:00"
-    },
-    {
-     "n": "The Kathmandu Post",
-     "p": "XX",
-     "c": "Kathmandu",
-     "u": "https://kathmandupost.com/world/2026/11/14/us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos",
-     "angolo": "",
-     "atlas": "Nepal"
-    },
-    {
-     "n": "Bangkok Post",
-     "p": "XX",
-     "c": "Bangkok",
-     "u": "https://www.bangkokpost.com/world/3354570/flights-resume-in-us-after-nationwide-grounding",
-     "angolo": "",
-     "atlas": "Thailand",
-     "t": "2026-11-14T14:30+07:00"
-    },
-    {
-     "n": "Middle East Eye",
-     "p": "XX",
-     "c": "Londra",
-     "u": "https://www.middleeasteye.net/news/us-air-travel-thrown-chaos-nationwide-flights-grounded-over-radar-instability",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-11-14T11:27+00:00"
-    },
-    {
-     "n": "Condé Nast Traveler",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.cntraveler.com/story/us-flights-have-been-grounded-nationwide",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-13T22:59+00:00"
-    },
-    {
-     "n": "Daily Maverick",
-     "p": "XX",
-     "c": "Città del Capo",
-     "u": "https://www.dailymaverick.co.za/article/2026-11-14-us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos/",
-     "angolo": "",
-     "atlas": "South Africa",
-     "t": "2026-11-14T05:53+00:00"
-    },
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/video/video-1683610.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-14T09:27+01:00"
-    },
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/international/vier-stunden-stillstand-flugstopp-stuerzt-die-usa-in-chaotische-zustaende-ld.10063833",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-11-14T04:58+00:00"
-    },
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-14T01:41+00:00"
-    },
-    {
-     "n": "Hespress English",
-     "p": "XX",
-     "c": "Rabat",
-     "u": "https://en.hespress.com/149138-us-says-airspace-ground-stop-due-to-old-equipment-not-a-cyberattack.html",
-     "angolo": "",
-     "atlas": "Morocco",
-     "t": "2026-11-14T08:21+00:00"
-    },
-    {
-     "n": "Iraqi News",
-     "p": "XX",
-     "c": "Baghdad",
-     "u": "https://www.iraqinews.com/world/us-says-airspace-now-opened-up-no-cyberattack/",
-     "angolo": "",
-     "atlas": "Iraq",
-     "t": "2026-11-14T03:35+00:00"
-    },
-    {
-     "n": "San Marino RTV",
-     "p": "XX",
-     "c": "San Marino",
-     "u": "https://www.sanmarinortv.sm/news/mondo-c8/stati-uniti-traffico-aereo-bloccato-per-ore-migliaia-di-passeggeri-a-terra-a298502",
-     "angolo": "",
-     "atlas": "San Marino",
-     "t": "2026-11-14T07:25+01:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/revocato-il-blocco-dei-voli-negli-stati-uniti-decine-di-migliaia-di-passeggeri_d2a6ded1-a075-4399-8855-8bc69e436c24.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T12:04+01:00"
-    },
-    {
-     "n": "la Repubblica",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/14/news/l_odissea_dei_passeggeri_rimasti_a_terra_sembra_di_vivere_in_un_mondo_fuori_controllo-425722604/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T05:57+00:00"
-    },
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/schede/stati_uniti_aerei_bloccati_voli_cancellati_cosa_e_successo_davvero_software_aggiornato_orario_ultime_notizie-9889417.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T09:24+01:00"
-    },
-    {
-     "n": "la Repubblica – Esteri",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.repubblica.it/esteri/2026/11/14/news/l_odissea_dei_passeggeri_rimasti_a_terra_sembra_di_vivere_in_un_mondo_fuori_controllo-425722604/?rss",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T07:00+01:00"
-    },
-    {
-     "n": "Sky TG24",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://tg24.sky.it/mondo/2026/11/14/usa-blocco-voli-news-diretta",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T11:00+00:00"
-    },
-    {
-     "n": "Agência Brasil",
-     "p": "XX",
-     "c": "Brasília",
-     "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/anac-orienta-passageiros-consultar-aereas-sobre-voos-para-os-eua",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-11-13T21:00-03:00"
-    },
-    {
-     "n": "Público",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.publico.pt/2026/11/14/mundo/perguntaserespostas/sabemos-suspensao-quatro-horas-voos-eua-2194976",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-11-14T10:49+00:00"
-    },
-    {
-     "n": "G1",
-     "p": "XX",
-     "c": "Rio de Janeiro",
-     "u": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/voos-dos-eua-tem-cancelamentos-e-atrasos-de-ate-4-horas-no-aeroporto-de-guarulhos.ghtml",
-     "angolo": "",
-     "atlas": "Brazil",
-     "t": "2026-11-14T11:04+00:00"
-    },
-    {
-     "n": "La Nación",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/escribanos-asesoran-sin-costo-donde-consultar-sobre-proteccion-de-la-vivienda-herencias-y-creditos-nid13112026/",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-11-14T11:14+00:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/usa-ripartono-i-voli-dopo-4-ore-e-caos-9bfe11d8-3234-46b5-bc24-635c33dc7b0f.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T06:53+00:00"
-    },
-    {
-     "n": "Orizzonte Scuola",
-     "p": "IT",
-     "c": "Italia",
-     "u": "https://www.orizzontescuola.it/stati-generali-della-scuola-digitale-oggi-a-varese-la-giornata-conclusiva-lintelligenza-artificiale-incontra-le-neuroscienze-e-il-futuro-delleducazione/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T10:12+00:00"
-    },
-    {
-     "n": "Il Fatto Quotidiano",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilfattoquotidiano.it/2026/11/14/fratelli-crozza-tajani-hacker-filorussi-notizie/8571864/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T11:00+00:00"
-    },
-    {
-     "n": "Il Messaggero",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/mondo/voli_stati_uniti_cosa_e_successo_perche_domande_risposte_oggi-9889459.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T10:30+01:00"
-    },
-    {
-     "n": "Il Messaggero – Tecnologia",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ilmessaggero.it/schede/blocco_outlook_cosa_succede_quando_torna_attivo_attacco_hacker_cambiare_password_cosa_fare-9887919.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-13T13:58+01:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "zeccc7f2a",
    "sez": "dibattito",
    "titolo": "In Francia i presidi protestano contro la violenza nelle scuole",
@@ -932,30 +684,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-14T05:00-05:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
-   "id": "zd8f6b67e",
-   "sez": "spazio",
-   "titolo": "Il quindicesimo volo di prova della megarazzo Starship si conclude con un successo parziale",
-   "orig": "La mégafusée Starship réussit partiellement son quinzième vol d'essai",
-   "lead": "SpaceX ha lanciato il quindicesimo volo di prova della sua megarazzo Starship, con obiettivi particolarmente ambiziosi. L'azienda ha rinunciato a recuperare il primo stadio, ma sperava di riuscire nel recupero del secondo. Secondo il giornalista specializzato Frédéric Castel, il risultato complessivo è un \"successo parziale\". Lo riferisce France 24.",
-   "more": [
-    "Starship è il razzo più grande e potente mai costruito, sviluppato da SpaceX per missioni verso la Luna e Marte. I test di volo ripetuti fanno parte di una strategia di sviluppo iterativo, in cui anche i fallimenti parziali forniscono dati utili ai successivi miglioramenti del veicolo."
-   ],
-   "fonti": [
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-m%C3%A9gafus%C3%A9e-starship-r%C3%A9ussit-partiellement-son-quinzi%C3%A8me-vol-d-essai",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-14T10:08+00:00"
     }
    ],
    "data": "14 nov",
@@ -1812,30 +1540,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z21d3103d",
-   "sez": "economia",
-   "titolo": "Carney promuove l'accordo commerciale Canada-Filippine durante il tour in Asia",
-   "orig": "Canada PM Carney touts Philippine trade deal on Asia tour",
-   "lead": "Il primo ministro canadese Mark Carney, durante il suo tour in Asia, ha illustrato l'accordo commerciale tra Canada e Filippine, che prevede l'eliminazione di oltre il 90% delle linee tariffarie e riguarda settori che vanno dall'agricoltura all'aerospazio fino all'intelligenza artificiale. Secondo Carney, l'intesa è a circa sei mesi dalla firma definitiva. Lo riferisce CNA.",
-   "more": [
-    "Gli accordi di libero scambio bilaterali permettono a due Paesi di ridurre o eliminare i dazi doganali su gran parte dei beni scambiati, favorendo l'interscambio commerciale. Il Canada ha intensificato negli ultimi anni i rapporti economici con i Paesi del Sud-est asiatico nel quadro di una diversificazione dei propri partner commerciali."
-   ],
-   "fonti": [
-    {
-     "n": "CNA",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.channelnewsasia.com/asia/canada-philippines-carney-trade-deal-negotiations-6551536",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-14T17:08+08:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "zf15801f9",
    "sez": "mondo",
    "titolo": "Papa Leone XIV celebra messa a Santa Cruz, promessa mantenuta in Perù",
@@ -2579,7 +2283,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z83eb20d4": "Al Jazeera descrive la corsa di Kiev e Mosca a sistemi satellitari militari propri.",
   "zfb465cac": "Al Jazeera segnala la deludente uscita di scena della numero due del mondo dal torneo di fine stagione.",
   "z5e088d67": "The Guardian descrive la conferenza stampa commovente di Pochettino nel lasciare la nazionale Usa.",
-  "z106a833f": "RTÉ News sottolinea la durata e la portata senza precedenti del blocco dei voli negli Stati Uniti.",
   "zeccc7f2a": "Le Figaro riporta la protesta dei presidi davanti al rettorato di Parigi contro la violenza nelle scuole.",
   "z4b45b15b": "BBC racconta il dilemma di scuole e biblioteche di fronte alle accuse rivolte a Walliams.",
   "z62ebc649": "South China Morning Post evidenzia la revisione della legge come tappa della transizione energetica cinese.",
@@ -2592,7 +2295,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z93dbcdcd": "Deutsche Welle segnala il record solare accanto alle difficoltà di bilancio del Paese.",
   "zc2401cde": "Rai News segnala l'estensione dell'allerta meteo su gran parte del territorio italiano.",
   "z27daf495": "NPR descrive il nuovo album come capace di cogliere lo spirito del momento con ironia.",
-  "zd8f6b67e": "France 24 definisce il quindicesimo volo di Starship un successo parziale.",
   "z60fc8a0a": "L'Aiea prosegue il monitoraggio periodico della sicurezza nucleare in Ucraina.",
   "z99f7561f": "Al Jazeera sottolinea come la sconfitta tedesca lunedì renda probabile l'eliminazione dai quarti.",
   "zf2129875": "The Japan Times evidenzia il divario tra la cifra politica proposta e le stime tecniche del ministero.",
@@ -2622,7 +2324,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z969469a4": "Il Sole 24 Ore riporta i numeri ufficiali del bilancio della misura sperimentale.",
   "zdb7ebcdb": "Deutsche Welle analizza i timori regionali legati all'espansione militare cinese.",
   "z9d8be4c0": "Rai News riporta l'analisi della Cgia sui dati Istat.",
-  "z21d3103d": "CNA segue il tour asiatico del premier canadese e le sue tappe commerciali.",
   "zf15801f9": "Vatican News racconta la promessa mantenuta dal Papa verso la comunità di Santa Cruz.",
   "zd3b3e96b": "La BBC racconta l'apparizione del monarca nel programma radiofonico della popstar.",
   "zac909b08": "Daily Maverick e France 24 sottolineano il valore storico della vittoria francese.",
@@ -2646,7 +2347,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z27fac3fb": "Il conflitto tra Russia e Ucraina prosegue dal febbraio 2022. Negli ultimi mesi gli Stati Uniti hanno intensificato i tentativi di mediazione per arrivare a una tregua, proponendo scambi territoriali e garanzie di sicurezza a Kiev, mentre proseguono attacchi su entrambi i fronti.",
   "zddc35c43": "Dopo la vittoria elettorale di aprile, il governo di Péter Magyar aveva promesso un'ampia campagna contro la corruzione ereditata dall'era Orbán, avviando diverse indagini su ex ministri ed ex funzionari sospettati di aver ricevuto tangenti durante il precedente governo.",
   "z5e088d67": "Pochettino aveva guidato la nazionale statunitense dal 2024, lavorando alla crescita della squadra in vista del Mondiale 2026. Il Manchester United, reduce da anni di instabilità in panchina dopo il ritiro di Ferguson, aveva di recente esonerato Michael Carrick.",
-  "z106a833f": "Il guasto alle comunicazioni nei centri di controllo del traffico aereo si è verificato venerdì, causando un blocco totale dei decolli su scala nazionale negli Stati Uniti, con migliaia di voli cancellati o ritardati e forte caos negli aeroporti.",
   "z58adf78f": "Il voto in Sud Sudan era originariamente previsto per il 22 dicembre 2026, ma il processo è stato più volte rinviato per difficoltà organizzative e politiche legate all'attuazione dell'accordo di pace del 2018. La Commissione elettorale ha progressivamente aggiornato il calendario elettorale.",
   "z904fac91": "Hubert Aiwanger, vice primo ministro della Baviera e leader dei Freie Wähler, è morto improvvisamente circa dieci giorni prima della cerimonia funebre. La notizia ha suscitato cordoglio diffuso in Baviera e in Germania, con messaggi di vicinanza da parte di numerosi leader politici e istituzionali.",
   "z4b45b15b": "David Walliams, popolare autore di libri per l'infanzia e già giudice di Britain's Got Talent, è stato oggetto negli ultimi anni di accuse relative a commenti inappropriati rivolti a concorrenti del talent show, emerse tramite trascrizioni pubblicate dai media britannici. Le polemiche hanno riacceso il dibattito sulla sua condotta pubblica, spingendo alcune scuole e biblioteche a interrogarsi sull'opportunità di mantenere i suoi libri a disposizione dei bambini, pur trattandosi di opere separate dalla vicenda personale.",
@@ -2681,16 +2381,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
    [
     "2026-11-13",
     "Pochettino annunciato nuovo allenatore del Manchester United"
-   ]
-  ],
-  "z106a833f": [
-   [
-    "2026-11-13",
-    "Guasto alle comunicazioni blocca il traffico aereo negli Usa"
-   ],
-   [
-    "2026-11-14",
-    "La FAA revoca il blocco e i voli riprendono gradualmente"
    ]
   ],
   "z58adf78f": [
@@ -2819,46 +2509,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
     }
    ],
    "divergono": "Deutsche Welle e BBC News riportano con più dettaglio le accuse parallele contro altri ex ministri e il fratello di Orbán, mentre The Guardian si concentra principalmente sul sequestro e sulla cifra totale. Al Jazeera è la sola a citare il sondaggio Median/HVG sul sostegno all'inchiesta anticorruzione, mentre Deutsche Welle aggiunge anche un dato sul crollo dei consensi di Fidesz al 16%, assente nelle altre testate."
-  },
-  "z106a833f": {
-   "voci": [
-    {
-     "n": "RTÉ News",
-     "c": "Dublino",
-     "p": "XX",
-     "t": "Riporta cifre dettagliate sui voli cancellati (quasi 10.000, oltre 2.200 per Delta e American), attribuisce le cause a router e switch sovraccarichi secondo Duffy, e cita il network L3Harris Technologies come possibile punto di guasto. Riferisce anche l'impatto sull'aeroporto di Dublino e il calo in Borsa dei titoli delle compagnie aeree.",
-     "b": "a"
-    },
-    {
-     "n": "The Kathmandu Post",
-     "c": "Kathmandu",
-     "p": "XX",
-     "t": "Fornisce cifre diverse (6.600 cancellazioni, 8.600 ritardi) e aggiunge testimonianze dirette di passeggeri bloccati, come Edward Kargbo e Louise Maher. Riporta le stesse dichiarazioni di Duffy e Mullin su guasto meccanico e assenza di prove di attacco informatico, citando anch'esso L3Harris Technologies.",
-     "b": "a"
-    },
-    {
-     "n": "Bangkok Post",
-     "c": "Bangkok",
-     "p": "XX",
-     "t": "Usa la cifra di quasi 6.000 cancellazioni secondo FlightAware e descrive la confusione agli aeroporti con interviste a passeggeri (Joseph Anderson, Tiara Johnson, Susan Sardina, Kathy Sommers). Riporta la frase di Duffy sul sistema \"incredibly old\" con \"1980s little copper lines\" e la precisazione di Mullin che esclude un collegamento con il guasto Microsoft.",
-     "b": "a"
-    },
-    {
-     "n": "Middle East Eye",
-     "c": "Londra",
-     "p": "XX",
-     "t": "Collega la vicenda al contemporaneo blackout globale di Microsoft, pur riportando la smentita ufficiale di un legame tra i due eventi. Cita la cifra di 3.500 aerei in volo al momento del blocco e dà ampio spazio alle conseguenze del guasto Microsoft su servizi pubblici in Gran Bretagna.",
-     "b": "a"
-    },
-    {
-     "n": "Condé Nast Traveler",
-     "c": "New York",
-     "p": "US",
-     "t": "Articolo pubblicato a caldo, con dati provvisori (481 cancellazioni, 600 dirottamenti) attribuiti a Cirium, e riferisce l'ipotesi, citata da CNBC e Alaska Airlines, di un guasto ai server delle telecomunicazioni. Riporta le dichiarazioni ufficiali di FAA, Duffy, Mullin e il comunicato di United Airlines.",
-     "b": "a"
-    }
-   ],
-   "divergono": "Le cifre sui voli cancellati variano molto: RTÉ News parla di quasi 10.000, The Kathmandu Post di 6.600, Bangkok Post di quasi 6.000, mentre Condé Nast Traveler riporta dati provvisori e parziali (481) raccolti a caldo. Middle East Eye è l'unica a collegare esplicitamente la vicenda al blackout Microsoft dello stesso periodo, pur citando la smentita ufficiale del nesso; le altre testate non menzionano Microsoft o lo fanno solo di passaggio (Bangkok Post). RTÉ News e The Kathmandu Post indicano L3Harris Technologies come possibile responsabile tecnico, aspetto assente in Bangkok Post, Middle East Eye e Condé Nast Traveler. Bangkok Post e The Kathmandu Post arricchiscono il racconto con testimonianze dirette di passeggeri, mentre RTÉ News, Middle East Eye e Condé Nast Traveler restano più istituzionali e asciutti."
   }
  },
  "luoghi": {
@@ -2891,13 +2541,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
    "pt": []
   },
   "z5e088d67": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z106a833f": {
    "n": "Stati Uniti",
    "p": [
     "United States of America"
@@ -3170,13 +2813,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
    ],
    "pt": []
   },
-  "z21d3103d": {
-   "n": "Filippine",
-   "p": [
-    "Philippines"
-   ],
-   "pt": []
-  },
   "zf15801f9": {
    "n": "Santa Cruz",
    "p": [
@@ -3315,7 +2951,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z83eb20d4": 1,
   "zfb465cac": 1,
   "z5e088d67": 1,
-  "z106a833f": 3,
   "zeccc7f2a": 1,
   "z4b45b15b": 3,
   "z62ebc649": 1,
@@ -3328,7 +2963,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z93dbcdcd": 1,
   "zc2401cde": 2,
   "z27daf495": 1,
-  "zd8f6b67e": 1,
   "z60fc8a0a": 1,
   "z99f7561f": 2,
   "zf2129875": 1,
@@ -3358,7 +2992,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z969469a4": 2,
   "zdb7ebcdb": 1,
   "z9d8be4c0": 1,
-  "z21d3103d": 1,
   "zf15801f9": 2,
   "zd3b3e96b": 2,
   "zac909b08": 2,
