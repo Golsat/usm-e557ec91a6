@@ -346,66 +346,6 @@ window.EDIZIONI["2026-11-14"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z2afae927",
-   "sez": "viaggi",
-   "titolo": "Il ground stop della Faa paralizza i viaggi del weekend di Nba, Nhl e football universitario",
-   "orig": "FAA ground stop disrupts NBA, NHL and college football weekend travel",
-   "lead": "Lo stop ai voli imposto dalla Federal Aviation Administration (FAA) ha causato disagi a oltre 1,5 milioni di passeggeri negli Stati Uniti durante un fine settimana denso di eventi sportivi, tra partite di Nba, Nhl e football universitario. Le compagnie aeree nazionali e internazionali hanno avvertito di possibili ritardi a catena anche nei giorni successivi. Il provvedimento ha colpito in particolare i viaggiatori diretti verso le sedi delle competizioni sportive. Lo riferisce Al Jazeera.",
-   "more": [
-    "Un ground stop è una misura temporanea con cui la FAA sospende i decolli da uno o più aeroporti, spesso per problemi tecnici o di sicurezza nel sistema di controllo del traffico aereo. Gli effetti possono propagarsi a catena su tutta la rete dei voli nazionali, causando ritardi anche a distanza di giorni."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-14T05:42+00:00"
-    },
-    {
-     "n": "Billboard",
-     "p": "US",
-     "c": "Los Angeles",
-     "u": "https://www.billboard.com/music/music-news/las-vegas-college-football-champship-music-festival-summit-1236382125/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-13T23:16+00:00"
-    },
-    {
-     "n": "NPR",
-     "p": "US",
-     "c": "Washington",
-     "u": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-13T17:36-05:00"
-    },
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/us-politics/article-us-grounds-departing-flights-air-traffic-control-communication-issues/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-11-13T22:05+00:00"
-    },
-    {
-     "n": "Skift",
-     "p": "US",
-     "c": "New York",
-     "u": "https://skift.com/2026/11/13/nationwide-ground-stop-lifted-delays-to-last/",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-13T22:00+00:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "07:47",
-   "uscita": "mattino"
-  },
-  {
    "id": "z2dff7681",
    "sez": "mondo",
    "titolo": "I leader europei chiedono un ruolo nei negoziati di pace sull'Ucraina, temono di essere esclusi",
@@ -1798,41 +1738,6 @@ window.EDIZIONI["2026-11-14"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zd0034790",
-   "sez": "prima",
-   "titolo": "USA, levato lo stop ai voli dopo disservizio nelle telecomunicazioni",
-   "orig": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-   "lead": "La Federal Aviation Administration ha revocato lo stop nazionale ai voli causato da un'interruzione nelle telecomunicazioni. Migliaia di voli erano fermi negli USA e i ritardi hanno colpito anche partenze da Sydney e Melbourne. Lo riferisce Al Jazeera.",
-   "more": [
-    "Il guasto ha esposto le vulnerabilità di un sistema di controllo del traffico obsoleto, creando disservizi che si sono propagati globalmente."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-14T03:32+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-14T04:56+00:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "07:47",
-   "uscita": "mattino",
-   "sez_prima": "mondo",
-   "riempimento": true
-  },
-  {
    "id": "zd148ac41",
    "sez": "mondo",
    "titolo": "Bhutan torna in semifinale del Campionato SAFF dopo 18 anni",
@@ -2057,39 +1962,6 @@ window.EDIZIONI["2026-11-14"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-11-13T16:59+00:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "07:47",
-   "uscita": "mattino"
-  },
-  {
-   "id": "ze3c4832a",
-   "sez": "mondo",
-   "titolo": "Guasto aereo USA colpisce 18mila passeggeri in Messico",
-   "orig": "Fallo en el sistema aéreo de EE. UU. afecta a 18.000 pasajeros en México",
-   "lead": "Il guasto del sistema di controllo del traffico aereo americano ha impattato quasi 18mila passeggeri in Messico attraverso 193 cancellazioni e ritardi. La disruption è stata causata da problemi nelle comunicazioni telefoniche. Le restrizioni sono state successivamente revocate. Lo riferisce Clarín.",
-   "more": [
-    "Il disservizio si è propagato globalmente con conseguenze per i passeggeri nei paesi confinanti."
-   ],
-   "fonti": [
-    {
-     "n": "Clarín",
-     "p": "XX",
-     "c": "Buenos Aires",
-     "u": "https://www.clarin.com/estados-unidos/fallo-en-el-sistema-aereo-de-ee-uu-afecta-a-18-000-pasajeros-en-mexico_0_BZcCMG9gXo.html",
-     "angolo": "",
-     "atlas": "Argentina",
-     "t": "2026-11-14T05:10+00:00"
-    },
-    {
-     "n": "ABC Color",
-     "p": "XX",
-     "c": "Asunción",
-     "u": "https://www.abc.com.py/internacionales/2026/11/14/fallo-en-el-sistema-aereo-de-ee-uu-afecta-a-18000-pasajeros-en-mexico/",
-     "angolo": "",
-     "atlas": "Paraguay",
-     "t": "2026-11-14T05:05+00:00"
     }
    ],
    "data": "14 nov",
@@ -2741,6 +2613,87 @@ window.EDIZIONI["2026-11-14"] = {
      "angolo": "",
      "atlas": "United States of America",
      "t": "2026-11-13T17:27-05:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-14T05:42+00:00"
+    },
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/music/music-news/las-vegas-college-football-champship-music-festival-summit-1236382125/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T23:16+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T17:36-05:00"
+    },
+    {
+     "n": "The Globe and Mail",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.theglobeandmail.com/world/us-politics/article-us-grounds-departing-flights-air-traffic-control-communication-issues/",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-13T22:05+00:00"
+    },
+    {
+     "n": "Skift",
+     "p": "US",
+     "c": "New York",
+     "u": "https://skift.com/2026/11/13/nationwide-ground-stop-lifted-delays-to-last/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-13T22:00+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-14T03:32+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-14T04:56+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/fallo-en-el-sistema-aereo-de-ee-uu-afecta-a-18-000-pasajeros-en-mexico_0_BZcCMG9gXo.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-14T05:10+00:00"
+    },
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/internacionales/2026/11/14/fallo-en-el-sistema-aereo-de-ee-uu-afecta-a-18000-pasajeros-en-mexico/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-11-14T05:05+00:00"
     }
    ],
    "data": "14 nov",
@@ -2803,7 +2756,6 @@ window.EDIZIONI["2026-11-14"] = {
   "z8f9e9595": "I media argentini e uruguaiani si concentrano sulla prestazione della squadra senza Messi e sulla reazione del pubblico.",
   "zfc4ae764": "France 24 e Le Monde evidenziano la vulnerabilità europea verso i grandi fornitori tecnologici americani.",
   "zd7c064c4": "Il Financial Times suggerisce opportunità di investimento nella filiera cinese dell'IA, mentre altre testate si concentrano sul calo di Wall Street.",
-  "z2afae927": "Al Jazeera evidenzia l'impatto economico e logistico del blocco sui grandi eventi sportivi del weekend.",
   "z2dff7681": "Vatican News riporta le preoccupazioni europee di essere escluse dalle trattative guidate da Washington.",
   "zd1bf9fa9": "Radio Okapi sottolinea la scarsa consapevolezza della popolazione sulla propria condizione di salute.",
   "zebc340a6": "Universe Today presenta lo studio come un nuovo strumento teorico per future verifiche sperimentali.",
@@ -2846,7 +2798,6 @@ window.EDIZIONI["2026-11-14"] = {
   "z4ea9f7a3": "La testata riferisce il comportamento spontaneo dei vertici australiani catturato da microfono non spento.",
   "zd66bbd83": "Radio Okapi celebra il riconoscimento della nazionale quale eccellenza sportiva nazionale.",
   "z9d1589f6": "BBC News evidenzia gli ostacoli burocratici per i concorrenti internazionali in gara negli USA.",
-  "zd0034790": "Al Jazeera inquadra il disservizio come sintomo dell'antiquatezza dell'infrastruttura aeroportuale statunitense.",
   "zd148ac41": "La televisione nazionale bhutanese celebra il ritorno del calcio nazionale alle fasi avanzate della competizione continentale.",
   "zd10d178b": "The Kyiv Independent evidenzia le implicazioni di sicurezza nazionale della decisione di Musk su servizi satellitari critici.",
   "z04d208f0": "Rappler sottolinea il carattere spirituale e devozionale della visita presidenziale.",
@@ -2854,7 +2805,6 @@ window.EDIZIONI["2026-11-14"] = {
   "z122d6d62": "Le Soleil celebra il riconoscimento internazionale del creator e sottolinea la sua influenza nel continente africano.",
   "zfc0bf29f": "South China Morning Post riporta il dibattito accademico sulla strategia internazionale di attrazione studentesca.",
   "z29cfdce9": "NZZ offre una prospettiva rassicurante dai vertici della finanza mondiale sulla volatilità del settore tech.",
-  "ze3c4832a": "Clarín descrive gli effetti regionali della disruption infrastrutturale statunitense.",
   "z10f96f0c": "El Observador riporta il conflitto commerciale tra operatori di trasporti marittimi e autorità portuarie regionali."
  },
  "contesti": {
@@ -2877,8 +2827,7 @@ window.EDIZIONI["2026-11-14"] = {
   "z4bf4c618": "Nelle settimane scorse la legge di bilancio 2026 ha incontrato forti resistenze da sindacati e categorie sociali, in particolare per i tagli al personale scolastico. Le proteste sindacali si sono intensificate, portando a un confronto diretto tra governo e parti sociali. Restavano aperti anche i nodi su Superbonus, exit tax, sanità e pensioni, mentre l'iter parlamentare della manovra procedeva tra tensioni e richieste di modifica.",
   "za7a44ed8": "La manovra finanziaria italiana è ancora in fase di definizione, con il governo che nelle ultime settimane ha dovuto rivedere più punti sotto la pressione di sindacati, categorie professionali e opposizioni. Dopo il ritiro dei tagli alla scuola, l'attenzione si è spostata su altre misure controverse, come gli sconti fiscali per i giovani, le pensioni delle forze dell'ordine e i bonus sociali, ancora oggetto di trattativa interna.",
   "ze582ea6e": "Dal 2019 il prezzo del gas naturale in Europa e in Italia ha subito un forte aumento, aggravato dalla crisi energetica legata alla guerra in Ucraina e alle tensioni sui mercati internazionali. Le industrie energivore, tra cui il settore vetrario, hanno progressivamente denunciato l'insostenibilità dei costi produttivi, chiedendo interventi pubblici contro la speculazione sui prezzi dell'energia per salvaguardare competitività e occupazione.",
-  "zab7b79ed": "Il leader dell'opposizione tanzaniana Tundu Lissu, del partito CHADEMA, è stato sottoposto a un procedimento giudiziario che ha suscitato forti preoccupazioni sui diritti umani e sullo stato dello spazio politico nel paese. La sua vicenda si inserisce in un contesto di crescenti tensioni tra governo e opposizione in Tanzania, con accuse di repressione del dissenso politico nei mesi precedenti alla sentenza.",
-  "zd0034790": "Negli ultimi giorni un'interruzione nei sistemi di telecomunicazione ha colpito le infrastrutture aeree statunitensi, causando la sospensione temporanea dei voli su scala nazionale da parte della Federal Aviation Administration. Il disservizio ha generato ritardi a catena, estendendosi anche a scali internazionali come Sydney e Melbourne, prima che le autorità riuscissero a ripristinare il normale funzionamento del traffico aereo."
+  "zab7b79ed": "Il leader dell'opposizione tanzaniana Tundu Lissu, del partito CHADEMA, è stato sottoposto a un procedimento giudiziario che ha suscitato forti preoccupazioni sui diritti umani e sullo stato dello spazio politico nel paese. La sua vicenda si inserisce in un contesto di crescenti tensioni tra governo e opposizione in Tanzania, con accuse di repressione del dissenso politico nei mesi precedenti alla sentenza."
  },
  "cronologie": {
   "z956ec5fe": [
@@ -3110,20 +3059,6 @@ window.EDIZIONI["2026-11-14"] = {
     "Dopo la condanna",
     "La Commissione CHRAGG invita al dialogo e al rispetto dei diritti umani"
    ]
-  ],
-  "zd0034790": [
-   [
-    "Giorni scorsi",
-    "Guasto alle telecomunicazioni blocca migliaia di voli negli USA"
-   ],
-   [
-    "Stessi giorni",
-    "Ritardi si estendono a Sydney e Melbourne"
-   ],
-   [
-    "Oggi",
-    "La FAA revoca lo stop nazionale ai voli"
-   ]
   ]
  },
  "confronti": {
@@ -3342,13 +3277,6 @@ window.EDIZIONI["2026-11-14"] = {
   },
   "zd7c064c4": {
    "n": "New York",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
-  "z2afae927": {
-   "n": "Stati Uniti",
    "p": [
     "United States of America"
    ],
@@ -3646,13 +3574,6 @@ window.EDIZIONI["2026-11-14"] = {
    ],
    "pt": []
   },
-  "zd0034790": {
-   "n": "Stati Uniti d'America",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zd148ac41": {
    "n": "Bhutan",
    "p": [
@@ -3702,13 +3623,6 @@ window.EDIZIONI["2026-11-14"] = {
    ],
    "pt": []
   },
-  "ze3c4832a": {
-   "n": "Messico",
-   "p": [
-    "Mexico"
-   ],
-   "pt": []
-  },
   "z10f96f0c": {
    "n": "Montevideo",
    "p": [
@@ -3736,7 +3650,6 @@ window.EDIZIONI["2026-11-14"] = {
   "z8f9e9595": 1,
   "zfc4ae764": 2,
   "zd7c064c4": 2,
-  "z2afae927": 2,
   "z2dff7681": 2,
   "zd1bf9fa9": 1,
   "zebc340a6": 1,
@@ -3779,7 +3692,6 @@ window.EDIZIONI["2026-11-14"] = {
   "z4ea9f7a3": 1,
   "zd66bbd83": 1,
   "z9d1589f6": 1,
-  "zd0034790": 2,
   "zd148ac41": 1,
   "zd10d178b": 1,
   "z04d208f0": 1,
@@ -3787,7 +3699,6 @@ window.EDIZIONI["2026-11-14"] = {
   "z122d6d62": 1,
   "zfc0bf29f": 1,
   "z29cfdce9": 1,
-  "ze3c4832a": 1,
   "z10f96f0c": 1
  },
  "video": {},
