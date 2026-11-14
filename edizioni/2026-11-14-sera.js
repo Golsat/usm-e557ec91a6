@@ -3,41 +3,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "zb0b65356",
-   "sez": "prima",
-   "titolo": "Negli Usa prosegue il caos nei cieli, oltre 4.000 voli soppressi",
-   "orig": "Prosegue il caos nei cieli Usa, soppressi oggi oltre 4.000 voli",
-   "lead": "Negli Stati Uniti prosegue il caos nei cieli, con oltre 4.000 voli cancellati sabato dopo la sospensione dei decolli imposta venerdì dalle autorità aeronautiche. Il segretario ai Trasporti Sean Duffy ha dichiarato che i voli stanno tornando gradualmente alla normalità, ma restano migliaia di ritardi e passeggeri bloccati a terra. La misura straordinaria, durata diverse ore venerdì, ha coinvolto aeroporti in tutto il territorio statunitense, provocando ripercussioni su centinaia di migliaia di viaggiatori nel fine settimana.",
-   "more": [
-    "Sospensioni dei decolli su larga scala sono rare negli Stati Uniti e vengono decise dalla Federal Aviation Administration in casi eccezionali, spesso legati a problemi tecnici o di sicurezza nei sistemi di controllo del traffico aereo; le conseguenze si propagano per giorni per l'elevato numero di collegamenti da riorganizzare."
-   ],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/mondo/2026/11/14/prosegue-il-caos-nei-cieli-usa-soppressi-oggi-oltre-4.000-voli_d2a6ded1-a075-4399-8855-8bc69e436c24.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T16:51+01:00"
-    },
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/-usa-ancora-caos-voli-3800-cancellati-fa2b3c6f-7423-47de-bc8f-d1bfe5657d1e.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-14T15:22+00:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "17:04",
-   "uscita": "17",
-   "sez_prima": "mondo",
-   "riempimento": true
-  },
-  {
    "id": "zd128e28f",
    "sez": "mondo",
    "titolo": "Spagna, udienza sull'estradizione dell'attivista Chambers chiesta dagli Usa per accuse legate ad Hamas",
@@ -450,7 +415,7 @@ window.EDIZIONI["2026-11-14-sera"] = {
   },
   {
    "id": "z53ca7695",
-   "sez": "tech",
+   "sez": "mondo",
    "titolo": "Pakistan, l'agenzia anticrimine informatico avverte contro i call center illegali",
    "orig": "NCCIA warns youth against joining illegal call centres for lucrative salaries",
    "lead": "L'Agenzia nazionale pakistana per le investigazioni sui crimini informatici (NCCIA) ha avvertito i giovani di non farsi coinvolgere in call center illegali, operatori di scommesse online e reti di frode internazionali che promettono stipendi elevati. Secondo il funzionario Muhammad Shoaib Khan, false aziende vengono registrate con verifiche deboli e conti bancari aperti a loro nome vengono poi utilizzati per il riciclaggio di denaro. Lo riferisce Dawn.",
@@ -1169,7 +1134,7 @@ window.EDIZIONI["2026-11-14-sera"] = {
   },
   {
    "id": "z7494d262",
-   "sez": "economia",
+   "sez": "ingegneria",
    "titolo": "Tallinn, inaugurato il nuovo edificio della scuola Reaalkool, costato 32,7 milioni",
    "orig": "Tallinn's Reaalkool opens €32.7 million building, €10 million over budget",
    "lead": "A Tallinn è stato inaugurato sabato il nuovo edificio didattico della prestigiosa scuola Reaalkool, nel centro della capitale estone, in occasione del 145esimo anniversario dell'istituto. Il progetto ha avuto un costo complessivo di 32,7 milioni di euro, con un superamento del budget iniziale di circa 10 milioni di euro. Lo riferisce ERR News.",
@@ -1263,7 +1228,7 @@ window.EDIZIONI["2026-11-14-sera"] = {
   },
   {
    "id": "z21382622",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Caccia di sesta generazione, il Financial Times: \"l'Italia frena sulla Germania\"",
    "orig": "Caccia di sesta generazione, l’Ft: «L’Italia frena sulla Germania». La Difesa: «Ricostruzione fuorviante»",
    "lead": "Secondo il Financial Times, citato dal Sole 24 Ore, l'Italia frenerebbe sul coinvolgimento della Germania nel programma del caccia di sesta generazione Gcap, dopo il fallimento del progetto franco-tedesco Fcas nell'estate scorsa, quando Parigi e Berlino non trovarono un accordo sulle condizioni dopo anni di preparativi. Da allora la Germania cerca un'alternativa e il Gcap, il programma anglo-italo-giapponese, potrebbe essere una delle opzioni. Il ministero della Difesa italiano ha definito la ricostruzione del Financial Times \"fuorviante\". Lo riferisce Il Sole 24 Ore.",
@@ -1815,39 +1780,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zbc1b28da",
-   "sez": "mondo",
-   "titolo": "Usa: quattro ore di stop ai decolli, il più grave dal settembre 2001",
-   "orig": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
-   "lead": "Il sistema aereo americano è stato paralizzato per quattro ore a causa di un'interruzione nelle comunicazioni dovuta a tecnologia obsoleta, il più lungo fermo nazionale dalla tragedia dell'11 settembre 2001. Il governo Trump attribuisce la responsabilità a infrastrutture antiquate.",
-   "more": [
-    "L'interruzione ha coinvolto circa un quarto dei 45mila voli quotidiani americani. Secondo Tagesschau, evidenzia vulnerabilità critiche."
-   ],
-   "fonti": [
-    {
-     "n": "Tagesschau",
-     "p": "DE",
-     "c": "Amburgo",
-     "u": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-14T16:22+01:00"
-    },
-    {
-     "n": "Der Standard",
-     "p": "XX",
-     "c": "Vienna",
-     "u": "https://www.derstandard.at/story/3000000349223/was-ueber-den-laengsten-flug-shutdown-in-den-usa-seit-911-bisher-bekannt-ist?ref=rss",
-     "angolo": "",
-     "atlas": "Austria",
-     "t": "2026-11-14T11:30+00:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
    "id": "z6c2d815a",
    "sez": "mondo",
    "titolo": "Ricerca: i gatti non miagolano a caso, comunicano specificamente con umani",
@@ -1872,55 +1804,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
      "angolo": "",
      "atlas": "Bosnia and Herz.",
      "t": "2026-11-14T16:41+01:00"
-    }
-   ],
-   "data": "14 nov",
-   "ora": "17:04",
-   "uscita": "17"
-  },
-  {
-   "id": "zc4043f87",
-   "sez": "mondo",
-   "titolo": "Voli Usa in ripresa dopo lo stop, disagi e cancellazioni persistono",
-   "orig": "US flights resume after rare hours-long nationwide grounding but delays persist",
-   "lead": "I voli riprendono negli aeroporti americani sabato dopo quattro ore di paralisi nazionale dovuta a interruzione nei sistemi di comunicazione, mentre viaggiatori esausti si preparano a ulteriori ritardi con centinaia di migliaia bloccati. Lo riferisce Dawn.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Dawn",
-     "p": "XX",
-     "c": "Karachi",
-     "u": "https://www.dawn.com/news/2044466/us-flights-resume-after-rare-hours-long-nationwide-grounding-but-delays-persist",
-     "angolo": "",
-     "atlas": "Pakistan",
-     "t": "2026-11-14T20:55+05:00"
-    },
-    {
-     "n": "Bangkok Post",
-     "p": "XX",
-     "c": "Bangkok",
-     "u": "https://www.bangkokpost.com/world/3354570/flights-resume-in-us-after-nationwide-grounding",
-     "angolo": "",
-     "atlas": "Thailand",
-     "t": "2026-11-14T14:30+07:00"
-    },
-    {
-     "n": "The Globe and Mail",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.theglobeandmail.com/world/article-faa-nationwide-ground-stop-flight-cancellations/",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-11-14T15:37+00:00"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-14T23:59+08:00"
     }
    ],
    "data": "14 nov",
@@ -4961,7 +4844,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z7736f12c": "La testata kazaka evidenzia la cooperazione regionale per la conservazione della fauna selvatica dell'Asia centrale.",
   "z5acf766f": "La testata zambiana riporta il pareggio deludente della nazionale nel percorso verso le qualificazioni continentali.",
   "zf5096c10": "La testata curda riferisce della valutazione dei danni alle proprietà private causati dalle alluvioni.",
-  "zb0b65356": "ANSA riporta le parole del segretario Duffy sul graduale ritorno alla normalità.",
   "zd128e28f": "Il Guardian evidenzia le irregolarità contestate dalla difesa nella richiesta statunitense.",
   "z29afe770": "Il Guardian sottolinea che il bilancio delle vittime è una stima prudente destinata a crescere.",
   "z3e84b19d": "La Repubblica mette in evidenza i prezzi dei biglietti e l'attesa mediatica internazionale.",
@@ -5018,9 +4900,7 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z7f685c86": "Un'espansione geografica del format musicale europeo verso l'Asia.",
   "zb5f41cbe": "Un conflitto tra priorità aziendali e necessità militari di uno stato sotto assedio.",
   "zded90234": "Un'osservazione sulla mobilità intra-regionale e i fattori di attrazione migratori.",
-  "zbc1b28da": "Un'indagine sulle fragilità tecnologiche dell'infrastruttura aerea mondiale.",
   "z6c2d815a": "Uno studio etologico che documenta la comunicazione felino-umana.",
-  "zc4043f87": "Una narrazione dei disagi passeggeri nella lenta normalizzazione.",
   "z4999038d": "Una partecipazione istituzionale marocchina agli equilibri della comunità francofona.",
   "z910463f0": "Un contributo solidale internazionale all'istruzione tecnica in Africa orientale.",
   "z936cd2ce": "Un appello dell'Ue su protezione civile e diritti umanitari.",
@@ -5052,7 +4932,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "zaf9a29d0": "Nelle settimane scorse l'Italia è stata attraversata da una serie di cortei e manifestazioni che in diverse città si sono trasformati in episodi di violenza, scontri con le forze dell'ordine, danneggiamenti e feriti. Le indagini della Digos, coordinate con le procure competenti, hanno puntato a identificare organizzatori e istigatori dei disordini, portando a un'attività investigativa culminata nelle perquisizioni di oggi in tredici città italiane.",
   "z72106c3e": "Il Garante italiano per la privacy ha indagato per mesi sulle pratiche di Facebook relative all'accesso ai contenuti multimediali degli smartphone Android. L'inchiesta ha evidenziato che l'app avrebbe scansionato foto e video degli utenti senza un consenso informato ed esplicito, ipotizzando una funzione pensata per suggerire contenuti da condividere, configurando una violazione del regolamento europeo sulla protezione dei dati (GDPR).",
   "zd6a76ce2": "Negli ultimi mesi gli Stati Uniti hanno condotto una campagna militare contro obiettivi legati all'Iran e ai suoi alleati in Yemen, con conseguenze sui prezzi globali del petrolio. Il conflitto è diventato un tema controverso nella politica interna statunitense, contribuendo alla sconfitta elettorale dei repubblicani al Congresso.",
-  "zb0b65356": "Venerdì la Federal Aviation Administration ha imposto una sospensione straordinaria dei decolli su gran parte del territorio statunitense, citando problemi legati a carenza di personale nel controllo del traffico aereo, aggravata dallo shutdown governativo. La misura ha causato migliaia di cancellazioni e ritardi, con ripercussioni a catena su aeroporti e compagnie aeree in tutto il paese durante il fine settimana.",
   "z835a0648": "Da anni la Tplf, che governò il Tigrai e fu protagonista della guerra civile 2020-2022 contro il governo centrale etiope, mantiene tensioni con Addis Abeba nonostante l'accordo di pace di Pretoria del 2022. Negli ultimi mesi si sono moltiplicati i segnali di riarmo e nuove milizie, mentre i rapporti tra Etiopia ed Eritrea, alleate durante il conflitto, si sono deteriorati per dispute territoriali e di accesso al mare.",
   "zd3b3e96b": "Re Carlo III e Elton John intrattengono da decenni un rapporto di amicizia, nato negli ambienti della famiglia reale britannica e consolidato nel tempo attraverso apparizioni pubbliche congiunte. Il cantante conduce regolarmente il programma radiofonico 'Rocket Hour' su Apple Music, in cui ha più volte ospitato figure di spicco. Il sovrano, 78 anni, continua gli impegni pubblici nonostante le note vicende di salute degli ultimi tempi."
  },
@@ -5147,20 +5026,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
    [
     "2026-11-14",
     "Trump valuta di sospendere nuovi attacchi contro l'Iran"
-   ]
-  ],
-  "zb0b65356": [
-   [
-    "Ottobre",
-    "Shutdown federale prolungato aggrava carenza controllori di volo"
-   ],
-   [
-    "Venerdì",
-    "FAA ordina sospensione decolli in diversi aeroporti"
-   ],
-   [
-    "Sabato",
-    "Oltre 4.000 voli soppressi, Duffy annuncia graduale ripresa"
    ]
   ],
   "z72106c3e": [
@@ -5798,13 +5663,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
    ],
    "pt": []
   },
-  "zb0b65356": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zd128e28f": {
    "n": "Madrid",
    "p": [
@@ -6187,24 +6045,10 @@ window.EDIZIONI["2026-11-14-sera"] = {
    ],
    "pt": []
   },
-  "zbc1b28da": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "z6c2d815a": {
    "n": "Belgrado",
    "p": [
     "Serbia"
-   ],
-   "pt": []
-  },
-  "zc4043f87": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -6413,7 +6257,6 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z7736f12c": 1,
   "z5acf766f": 1,
   "zf5096c10": 1,
-  "zb0b65356": 2,
   "zd128e28f": 1,
   "z29afe770": 1,
   "z3e84b19d": 1,
@@ -6470,9 +6313,7 @@ window.EDIZIONI["2026-11-14-sera"] = {
   "z7f685c86": 1,
   "zb5f41cbe": 1,
   "zded90234": 1,
-  "zbc1b28da": 1,
   "z6c2d815a": 1,
-  "zc4043f87": 2,
   "z4999038d": 1,
   "z910463f0": 1,
   "z936cd2ce": 1,
