@@ -1,1 +1,1 @@
-window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z101d2a80":[["2026-11-14-sera","zee5ea547","14 nov","Le Filippine vincono la prima edizione dell'Eurovision Song Contest Asia con Carmelle"]]});
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z101d2a80":[["2026-11-14-sera","zee5ea547","14 nov","Le Filippine vincono la prima edizione dell'Eurovision Song Contest Asia con Carmelle"]],"z6e93bb95":[["2026-11-04-sera","z1544ba8d","4 nov","Putin conferisce l'Ordine d'Onore al leader della Transnistria"]]});
