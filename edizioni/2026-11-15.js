@@ -145,28 +145,6 @@ window.EDIZIONI["2026-11-15"] = {
    "uscita": "mattino"
   },
   {
-   "id": "z25380948",
-   "sez": "dibattito",
-   "titolo": "In Francia continuano le proteste nelle città, quinto fine settimana",
-   "orig": "Tens of thousands continue to protest across France",
-   "lead": "In Francia circa 106.000 persone hanno manifestato nelle città del paese nel quinto fine settimana consecutivo di proteste, il numero più basso di partecipanti registrato nelle ultime settimane. Le fonti non specificano le ragioni della mobilitazione né eventuali risposte del governo. Lo riferisce Deutsche Welle.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-15T00:55+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
    "id": "z2c775917",
    "sez": "mondo",
    "titolo": "In Nigeria cresce la disinformazione con l'intelligenza artificiale in vista del voto",
@@ -1646,7 +1624,7 @@ window.EDIZIONI["2026-11-15"] = {
   },
   {
    "id": "z6d043237",
-   "sez": "cultura",
+   "sez": "mondo",
    "titolo": "L'università marocchina UM6P, modello per l'istruzione superiore in Africa",
    "orig": "Enseignement supérieur en Afrique : l'UM6P, un modèle d'excellence à suivre ?",
    "lead": "In Marocco, l'Università Mohammed VI Polytechnique (UM6P) si è affermata tra gli istituti africani meglio classificati a livello internazionale, puntando su ricerca, intelligenza artificiale, robotica e agricoltura per rispondere alle sfide del continente. La testata si interroga se l'Africa possa formare le proprie élite senza inviarle a studiare all'estero e se l'eccellenza dell'UM6P sia accessibile a tutti o possa essere replicata altrove nel continente. Lo riferisce France 24.",
@@ -1862,6 +1840,15 @@ window.EDIZIONI["2026-11-15"] = {
      "angolo": "",
      "atlas": "Dem. Rep. Congo",
      "t": "2026-11-14T17:56+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-15T00:55+00:00"
     }
    ],
    "data": "14 nov",
@@ -2024,7 +2011,7 @@ window.EDIZIONI["2026-11-15"] = {
   },
   {
    "id": "zabde460f",
-   "sez": "economia",
+   "sez": "ambiente",
    "titolo": "Fiji, El Niño mette sotto pressione le piccole imprese",
    "orig": "El Niño puts small businesses under pressure",
    "lead": "A Fiji le piccole imprese iniziano a subire gli effetti di un clima secco prolungato, legato al fenomeno El Niño, con crescenti preoccupazioni per le forniture, l'aumento dei costi e i mezzi di sussistenza. Secondo quanto riportato da venditori del mercato mensile ROC, organizzato in collaborazione con Gold FM, la mancanza di pioggia sta già creando difficoltà, ad esempio ai venditori di fiori che faticano a mantenere i propri prodotti. Lo riferisce FBC News.",
@@ -2879,7 +2866,6 @@ window.EDIZIONI["2026-11-15"] = {
   "z7606ffc0": "ANSA riporta la sanzione record del Garante e l'intenzione di Meta di contestarla in giudizio",
   "zeb8c4e43": "Rai News riporta le dichiarazioni della premier sul trattamento riservato ai lavoratori autonomi",
   "z9d8be4c0": "Rai News riprende l'elaborazione della Cgia sui dati Istat relativi all'inflazione",
-  "z25380948": "Deutsche Welle segnala il calo dei partecipanti rispetto alle settimane precedenti di protesta",
   "z2c775917": "Deutsche Welle pone l'accento sui rischi per la fiducia democratica legati all'uso dell'IA",
   "z95a5f52a": "Deutsche Welle sottolinea i cicli di violenza che hanno finora impedito elezioni nel paese",
   "zfcd3c5fb": "El Mundo riporta la posizione del presidente di EY Spagna sul tema della redistribuzione dei profitti dell'IA",
@@ -3374,13 +3360,6 @@ window.EDIZIONI["2026-11-15"] = {
    ],
    "pt": []
   },
-  "z25380948": {
-   "n": "Francia",
-   "p": [
-    "France"
-   ],
-   "pt": []
-  },
   "z2c775917": {
    "n": "Nigeria",
    "p": [
@@ -3830,7 +3809,6 @@ window.EDIZIONI["2026-11-15"] = {
   "z7606ffc0": 1,
   "zeb8c4e43": 1,
   "z9d8be4c0": 1,
-  "z25380948": 1,
   "z2c775917": 1,
   "z95a5f52a": 1,
   "zfcd3c5fb": 2,
