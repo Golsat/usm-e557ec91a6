@@ -1,0 +1,1 @@
+window.COLLEGAMENTI = Object.assign(window.COLLEGAMENTI||{}, {"z101d2a80":[["2026-11-14-sera","zee5ea547","14 nov","Le Filippine vincono la prima edizione dell'Eurovision Song Contest Asia con Carmelle"]]});
