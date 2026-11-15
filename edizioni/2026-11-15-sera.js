@@ -3,30 +3,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "z439a8f28",
-   "sez": "mondo",
-   "titolo": "Al voto a Capo Verde, per la prima volta una donna candidata alla presidenza",
-   "orig": "Polls open in Cape Verde in race with first female presidential candidate",
-   "lead": "Si sono aperte le urne a Capo Verde per le elezioni presidenziali, che vedono per la prima volta nella storia del paese una candidata donna, Joana Rosa, affiancata da altri tre candidati dell'opposizione. Il presidente uscente Jose Maria Neves punta invece a un secondo mandato. Il voto si svolge nell'arcipelago africano al largo delle coste del Senegal, dove la carica presidenziale è in gran parte rappresentativa mentre il potere esecutivo è affidato al primo ministro. Lo riferisce Al Jazeera.",
-   "more": [
-    "Capo Verde è una repubblica semi-presidenziale indipendente dal Portogallo dal 1975. Il presidente ha funzioni soprattutto di rappresentanza e garanzia istituzionale, mentre il governo è guidato dal primo ministro espressione della maggioranza parlamentare."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-15T10:03+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "12:34",
-   "uscita": "13"
-  },
-  {
    "id": "z695c9766",
    "sez": "mondo",
    "titolo": "Sudan, attacchi con drone alle centrali elettriche lasciano le città al buio",
@@ -1452,7 +1428,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
   },
   {
    "id": "za4a6a197",
-   "sez": "economia",
+   "sez": "ambiente",
    "titolo": "Agricoltori indigeni di Taiwan riportano in auge il miglio resistente al clima",
    "orig": "Taiwan Indigenous farmer revives climate-resilient millet",
    "lead": "In Taiwan, agricoltori indigeni hanno negli ultimi dieci anni riportato in auge una coltura quasi dimenticata, il miglio da olio, apprezzato per la sua resistenza ai cambiamenti climatici. La coltivazione, un tempo diffusa tra le comunità indigene dell'isola, era caduta in disuso con la modernizzazione agricola, ma ora viene recuperata come alternativa sostenibile in un contesto di crescenti difficoltà climatiche per l'agricoltura tradizionale. Lo riferisce The Japan Times.",
@@ -2399,6 +2375,15 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Cabo Verde",
      "t": "2026-11-13T18:58+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-15T10:03+00:00"
     }
    ],
    "data": "15 nov",
@@ -2503,7 +2488,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
  ],
  "quiz": [],
  "sguardi": {
-  "z439a8f28": "Al Jazeera sottolinea la novità della prima candidatura femminile alla presidenza del paese.",
   "z695c9766": "Al Jazeera documenta l'impatto degli attacchi alle infrastrutture energetiche sulle città sudanesi.",
   "z377a6a44": "Al Jazeera segnala le proteste contro gli Stati Uniti in concomitanza con l'apertura del summit.",
   "z04de0159": "la Repubblica riporta i dati di Consumers' Forum sul rischio di attacchi informatici nelle case italiane.",
@@ -2775,11 +2759,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   }
  },
  "luoghi": {
-  "z439a8f28": {
-   "n": "Praia",
-   "p": [],
-   "pt": []
-  },
   "z695c9766": {
    "n": "Khartoum",
    "p": [
@@ -3295,7 +3274,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   }
  },
  "rilievo": {
-  "z439a8f28": 1,
   "z695c9766": 1,
   "z377a6a44": 1,
   "z04de0159": 1,
