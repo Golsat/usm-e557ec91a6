@@ -3,41 +3,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
-   "id": "zc7d26295",
-   "sez": "prima",
-   "titolo": "Papa Leone visita un remoto villaggio andino e parla delle sofferenze della comunità",
-   "orig": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-   "lead": "Il Papa Leone, originario di Chicago, ha visitato Santa Cruz de Succhabamba, villaggio dell'Alta Ande appartenente alla diocesi di Chiclayo, in Perù, dove è stato vescovo dal 2015 al 2023. Nella tappa finale del suo viaggio in Sud America, il pontefice ha parlato delle difficoltà vissute dalla comunità locale. Il viaggio punta i riflettori sui diritti delle popolazioni indigene e sulla tutela dell'ambiente nella regione andina.",
-   "more": [
-    "Chiclayo è una diocesi del nord del Perù dove Robert Prevost ha svolto il ministero episcopale prima di essere eletto Papa. Le comunità andine affrontano da anni problemi di povertà, isolamento geografico e impatti ambientali, temi su cui la Chiesa cattolica richiama spesso l'attenzione internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-15T09:57+00:00"
-    },
-    {
-     "n": "Deutsche Welle",
-     "p": "DE",
-     "c": "Bonn",
-     "u": "https://www.dw.com/en/pope-leo-heads-to-high-andes-on-final-leg-of-south-america-tour/a-79952884",
-     "angolo": "",
-     "atlas": "Germany",
-     "t": "2026-11-15T15:23+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "17:06",
-   "uscita": "17",
-   "sez_prima": "mondo",
-   "riempimento": true
-  },
-  {
    "id": "z6fe1a6f3",
    "sez": "prima",
    "titolo": "\"Corri Libera\", oltre 10mila persone a Roma contro la violenza sulle donne",
@@ -753,30 +718,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-15T15:30+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z7eb1d548",
-   "sez": "mondo",
-   "titolo": "L'Iran lancia un attacco con drone contro una base militare statunitense in Bahrein",
-   "orig": "Iran targets US military base in Bahrain with drone attack",
-   "lead": "L'Iran ha colpito con un drone una base militare statunitense in Bahrein, nel secondo attacco al paese in tre giorni. L'episodio avviene mentre Stati Uniti e Iran restano in una fase di stallo sullo Stretto di Hormuz. Lo riferisce BBC News.",
-   "more": [
-    "Il Bahrein ospita la Quinta Flotta della Marina statunitense, un punto strategico nella regione del Golfo Persico. Le tensioni tra Washington e Teheran si sono intensificate negli ultimi mesi attorno al controllo dello Stretto di Hormuz, una via marittima fondamentale per il trasporto mondiale di petrolio."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-15T13:42+00:00"
     }
    ],
    "data": "15 nov",
@@ -1673,6 +1614,24 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Thailand",
      "t": "2026-11-15T15:37+07:00"
+    },
+    {
+     "n": "Myanmar Now",
+     "p": "XX",
+     "c": "Yangon",
+     "u": "https://myanmar-now.org/en/news/myanmars-min-aung-hlaing-remains-barred-from-asean-summit-despite-assuming-presidency/",
+     "angolo": "",
+     "atlas": "Myanmar",
+     "t": "2026-11-11T09:53+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T14:00+00:00"
     }
    ],
    "data": "15 nov",
@@ -1768,70 +1727,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "China",
      "t": "2026-11-15T11:31+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z9436bcf1",
-   "sez": "mondo",
-   "titolo": "Il capo della giunta birmana Min Aung Hlaing rimane escluso dal vertice ASEAN",
-   "orig": "Myanmar’s Min Aung Hlaing remains barred from ASEAN summit despite assuming presidency",
-   "lead": "Nonostante abbia assunto la presidenza della Birmania, il capo della giunta Min Aung Hlaing non ha ricevuto un invito al vertice ASEAN di Manila. La decisione rappresenta un significativo colpo ai suoi sforzi di guadagnare accettazione internazionale.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Myanmar Now",
-     "p": "XX",
-     "c": "Yangon",
-     "u": "https://myanmar-now.org/en/news/myanmars-min-aung-hlaing-remains-barred-from-asean-summit-despite-assuming-presidency/",
-     "angolo": "",
-     "atlas": "Myanmar",
-     "t": "2026-11-11T09:53+00:00"
-    },
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-15T14:00+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z1e8e8508",
-   "sez": "mondo",
-   "titolo": "Wenger non si candida alla presidenza della FIFA",
-   "orig": "Wenger ætlar ekki í framboð til forseta FIFA",
-   "lead": "Arsène Wenger, 77 anni, ha annunciato che non si presenterà come candidato alla presidenza della FIFA nel marzo 2027, nonostante avesse precedentemente considerato la possibilità. L'ex allenatore dell'Arsenal lavora per la FIFA dal 2019 come capo dello sviluppo del calcio mondiale.",
-   "more": [
-    "La presidenza FIFA andrà al voto a marzo 2027 dopo la Coppa del Mondo estiva 2026. Attualmente è presidente Gianni Infantino."
-   ],
-   "fonti": [
-    {
-     "n": "RÚV",
-     "p": "XX",
-     "c": "Reykjavík",
-     "u": "https://www.ruv.is/frettir/ithrottir/2026-11-15-wenger-aetlar-ekki-i-frambod-til-forseta-fifa-492839/",
-     "angolo": "",
-     "atlas": "Iceland",
-     "t": "2026-11-15T14:28+00:00"
-    },
-    {
-     "n": "NZZ",
-     "p": "XX",
-     "c": "Zurigo",
-     "u": "https://www.nzz.ch/sport/fussball/die-investorenplaene-der-fifa-die-wichtigsten-fragen-und-antworten-ld.10017724",
-     "angolo": "",
-     "atlas": "Switzerland",
-     "t": "2026-11-15T11:25+00:00"
     }
    ],
    "data": "15 nov",
@@ -2716,6 +2611,15 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Azerbaijan",
      "t": "2026-11-15T12:02+04:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T13:42+00:00"
     }
    ],
    "data": "15 nov",
@@ -4367,6 +4271,24 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-15T01:00+01:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T09:57+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/pope-leo-heads-to-high-andes-on-final-leg-of-south-america-tour/a-79952884",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-15T15:23+00:00"
     }
    ],
    "data": "15 nov",
@@ -4995,7 +4917,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "za9ad102c": "La testata focalizza l'attenzione sulla prossima sessione invernale del Parlamento indiano e sulla legge sulla delimitazione circondariale",
   "z5e3e8da3": "La testata sottolinea l'istituzione locale di mediatori per potenziare i sistemi di giustizia comunitaria",
   "zc765efe0": "La testata sottolinea l'estensione dell'allerta meteo e i danni specifici alla viabilità in Campania",
-  "zc7d26295": "la BBC segnala che il Papa ha parlato delle sofferenze della comunità locale",
   "z6fe1a6f3": "ANSA sottolinea la partecipazione di oltre 10.000 persone",
   "z09d55647": "The Guardian segue la partita di Zverev minuto per minuto",
   "z39d9c0dd": "Le Soleil evidenzia gli incontri bilaterali del presidente senegalese",
@@ -5014,7 +4935,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "zdaebdc74": "The Korea Herald evidenzia la crescita del turismo medico legato ai controlli preventivi.",
   "z6b84e061": "Wallpaper* interpreta il fenomeno come un segnale di nostalgia per la vita notturna newyorkese.",
   "ze36cff84": "Orizzonte Scuola riporta il confronto tra esperti sul tema della responsabilità dirigenziale legata all'uso dell'IA.",
-  "z7eb1d548": "BBC News inquadra l'attacco nel contesto dello scontro in corso tra Stati Uniti e Iran per lo Stretto di Hormuz.",
   "z37400a20": "Rai News riporta la posizione del ministro Tajani a sostegno dell'autonomia decisionale di Kiev.",
   "z4a04b6f9": "Daily Maverick sottolinea la capacità dello spettacolo di esplorare razzismo e riconciliazione attraverso un confronto personale.",
   "z7609bb72": "Wallpaper* valorizza i pregi del cavo rispetto ai limiti ancora presenti nella tecnologia wireless.",
@@ -5045,8 +4965,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z04873489": "L'emittente sammarinese sottolinea il dominio del brasiliano nel circuito e l'emergere di nuovi talenti femminili.",
   "z6b2f8c56": "L'emittente americana fornisce contesto tecnico sulle conseguenze operative del fermo aereo sulla rete nazionale.",
   "z05b87f9f": "L'agenzia di Singapore presenta i progressi diplomatici come significativi, pur evidenziando i negoziati ancora in corso.",
-  "z9436bcf1": "L'emittente birmana sottolinea il significato del rifiuto del vertice nel contesto degli sforzi di legittimazione internazionale della giunta.",
-  "z1e8e8508": "L'emittente islandese rilancia la decisione di Wenger di ritirarsi dalla contesa per il massimo incarico calcistico.",
   "z06cc4b43": "L'emittente congolese denuncia come lo sciopero possa minare il contrasto a una delle epidemie più gravi del paese.",
   "z35c480f0": "Il Financial Times presenta il ritiro come un'inversione degli equilibri di potere nella guerra civile yemenita.",
   "z325031cd": "The Punch riporta un procedimento amministrativo nazionale su un tema di sicurezza delicato per le istituzioni nigeriane.",
@@ -5078,7 +4996,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z82ff8b58": "Da 28 anni ItaliaOggi e l'Università La Sapienza pubblicano una classifica annuale sulla qualità della vita nelle province italiane, basata su indicatori economici, sociali e ambientali. Le edizioni precedenti hanno spesso visto Milano ai vertici della classifica, mentre persiste storicamente un marcato divario tra le regioni del Nord, più dinamiche, e quelle del Sud, in difficoltà su diversi indicatori.",
   "z4a26b64f": "Venerdì 13 novembre le autorità statunitensi hanno bloccato i decolli per diverse ore in tutto il paese, causando una paralisi del traffico aereo interno e internazionale. L'episodio ha generato polemiche politiche e interrogativi sulle cause del blocco, con alcune fonti che ipotizzano un possibile coinvolgimento di sistemi di intelligenza artificiale.",
   "z2bf6e3e9": "Negli ultimi anni diversi grandi gruppi immobiliari di Hong Kong hanno affrontato crescenti difficoltà finanziarie legate all'elevato indebitamento e al calo del mercato immobiliare locale, spingendo alcuni a cercare operazioni di ricapitalizzazione per evitare il default.",
-  "zc7d26295": "Papa Leone XIV, primo pontefice statunitense, ha compiuto un viaggio apostolico in Sud America toccando Perù, paese dove per anni ha svolto il ministero episcopale come vescovo di Chiclayo. Il viaggio ha incluso tappe istituzionali e incontri con comunità indigene, con un'attenzione costante ai temi della giustizia sociale, dei diritti delle popolazioni andine e della salvaguardia dell'ambiente amazzonico e andino.",
   "z6fe1a6f3": "Negli ultimi anni in Italia le iniziative pubbliche contro la violenza sulle donne si sono moltiplicate, coinvolgendo istituzioni, sport e società civile, anche in concomitanza con la Giornata internazionale contro la violenza di genere del 25 novembre. Eventi come corse e manifestazioni cittadine sono diventati strumenti ricorrenti per sensibilizzare l'opinione pubblica e promuovere un cambiamento culturale sul tema.",
   "z39d9c0dd": "Il vertice della Francofonia, che riunisce periodicamente i paesi membri dell'organizzazione internazionale legata alla lingua francese, si svolge quest'anno a Phnom Penh in un contesto segnato dalle tensioni nella regione dei Grandi Laghi africani, con il conflitto tra Ruanda e Repubblica Democratica del Congo che pesa sui lavori. I capi di Stato presenti hanno intensificato gli incontri bilaterali a margine dell'evento.",
   "z9edac1bc": "Nei territori della Cisgiordania occupata, Israele ha progressivamente intensificato restrizioni amministrative e militari su aree produttive palestinesi, incluse zone industriali vicine a centri come Hebron. Tali misure, denunciate da osservatori e media come Al Jazeera, si inseriscono in un contesto di crescente pressione economica sulle comunità palestinesi, aggravata dall'espansione di insediamenti e checkpoint nella regione."
@@ -5176,20 +5093,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    [
     "2026-11-15",
     "Trump attribuisce la responsabilità del blocco all'amministrazione Biden"
-   ]
-  ],
-  "zc7d26295": [
-   [
-    "giorni scorsi",
-    "Il Papa arriva in Perù per il viaggio in Sud America"
-   ],
-   [
-    "giorni scorsi",
-    "Incontri istituzionali e con il clero locale a Chiclayo"
-   ],
-   [
-    "domenica",
-    "Visita a Santa Cruz de Succhabamba, tappa finale del viaggio"
    ]
   ],
   "z6fe1a6f3": [
@@ -5942,13 +5845,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "pt": []
   },
-  "zc7d26295": {
-   "n": "Santa Cruz de Succhabamba",
-   "p": [
-    "Peru"
-   ],
-   "pt": []
-  },
   "z6fe1a6f3": {
    "n": "Roma",
    "p": [
@@ -6065,13 +5961,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "n": "Italia",
    "p": [
     "Italy"
-   ],
-   "pt": []
-  },
-  "z7eb1d548": {
-   "n": "Bahrein",
-   "p": [
-    "Bahrain"
    ],
    "pt": []
   },
@@ -6284,20 +6173,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
     "Vietnam",
     "Malaysia",
     "Brunei"
-   ],
-   "pt": []
-  },
-  "z9436bcf1": {
-   "n": "Manila",
-   "p": [
-    "Philippines"
-   ],
-   "pt": []
-  },
-  "z1e8e8508": {
-   "n": "Islanda",
-   "p": [
-    "Iceland"
    ],
    "pt": []
   },
@@ -6515,7 +6390,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "za9ad102c": 1,
   "z5e3e8da3": 1,
   "zc765efe0": 1,
-  "zc7d26295": 2,
   "z6fe1a6f3": 2,
   "z09d55647": 2,
   "z39d9c0dd": 2,
@@ -6534,7 +6408,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "zdaebdc74": 1,
   "z6b84e061": 1,
   "ze36cff84": 1,
-  "z7eb1d548": 2,
   "z37400a20": 1,
   "z4a04b6f9": 1,
   "z7609bb72": 1,
@@ -6565,8 +6438,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z04873489": 1,
   "z6b2f8c56": 1,
   "z05b87f9f": 1,
-  "z9436bcf1": 1,
-  "z1e8e8508": 1,
   "z06cc4b43": 1,
   "z35c480f0": 1,
   "z325031cd": 1,
