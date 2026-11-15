@@ -3,6 +3,1261 @@ window.EDIZIONI["2026-11-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zf35bf31c",
+   "sez": "mondo",
+   "titolo": "Capo Verde al voto per le presidenziali: affluenza in aumento nel pomeriggio",
+   "orig": "18h Presidenciais em Cabo Verde, a afluência de manhã foi fraca mas à tarde votaram mais eleitores",
+   "lead": "In Capo Verde si sono svolte le elezioni presidenziali per scegliere il nuovo capo di Stato tra sei candidati, con un'affluenza in crescita nel pomeriggio rispetto al mattino. Il presidente uscente José Maria Neves e lo sfidante Casimiro de Pina hanno espresso fiducia e invitato i cittadini alla partecipazione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/18h-presidenciais-em-cabo-verde-a-afluencia-de-manha-foi-fraca-mas-a-tarde-votaram-mais-eleitores_a1_1779357",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-15T18:34+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/mundo/cabo-verde-eleitores-em-portugal-satisfeitos-por-cumprirem-dever-civico_n1779344",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-15T17:39+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/11/15/presidenciais-2026-jose-maria-neves-vota-convicto-de-que-os-eleitores-vao-escolher-o-melhor-candidato001/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-15T18:00+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/11/15/presidenciais-2026-casimiro-de-pina-vota-apelando-a-participacao-dos-cabo-verdianos/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-15T17:52+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/11/15/eleitores-cabo-verdianos-votam-este-domingo-15-de-novembro-nas-oitavas-eleicoes-presidenciais-do-pais/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-15T01:01+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf483d623",
+   "sez": "mondo",
+   "titolo": "India: il cantante Diljit Dosanjh si esibisce a Indore nonostante le minacce",
+   "orig": "Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’",
+   "lead": "L'artista punjabi Diljit Dosanjh ha inaugurato il suo tour nazionale a Indore, salendo sul palco davanti ai sostenitori nonostante forti opposizioni politiche e minacce. Nel corso dell'esibizione, il cantante ha risposto con versi determinati contro chi ha tentato di impedire lo svolgimento del concerto nel Madhya Pradesh indiano.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-16T00:25+05:30"
+    },
+    {
+     "n": "Times of India",
+     "p": "XX",
+     "c": "Mumbai",
+     "u": "https://timesofindia.indiatimes.com/city/indore/agar-khilaaf-hain-hone-do-kisi-ke-baap-ka-hindustan-thodi-hai-diljit-dosanjh-takes-stage-in-indore-despite-threats-opposition/articleshow/135860821.cms",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-15T22:32+05:30"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbf0afce3",
+   "sez": "mondo",
+   "titolo": "Germania: la papera di gomma armata dell'esercito accende le polemiche",
+   "orig": "The gun-toting rubber duck dividing Germany",
+   "lead": "Una papera di gomma mimetica dotata di un fucile d'assalto, messa in vendita nello store promozionale dell'esercito tedesco, è andata esaurita in poche ore causando il blocco del sito web. L'iniziativa di merchandising della Bundeswehr ha tuttavia diviso l'opinione pubblica in Germania, scatenando accese polemiche per la militarizzazione del giocattolo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/the-gun-toting-rubber-duck-dividing-germany/UNSQTACCINHJXEQY4ORYRPCCL4/",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-15T18:12+00:00"
+    },
+    {
+     "n": "Stuff NZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.stuff.co.nz/world-news/361059584/guntoting-rubber-duck-dividing-germany",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-15T17:05+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z031532aa",
+   "sez": "mondo",
+   "titolo": "Gli Stati Uniti accusano l'Iran di depredare le risorse petrolifere dell'Iraq",
+   "orig": "US accuses Iran of plundering Iraq’s resources",
+   "lead": "Il Dipartimento di Stato americano ha accusato Teheran di impiegare milizie armate affiliate, tra cui Kataib Hezbollah, per sottrarre e contrabbandare illegalmente risorse energetiche irachene. Il gruppo filo-iraniano ha respinto con forza le accuse di contrabbando petrolifero, denunciando pressioni statunitensi sul primo ministro di Baghdad in merito alla gestione delle armi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/us-accuses-iran-of-plundering-iraqs-resources/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-15T13:04+00:00"
+    },
+    {
+     "n": "Kurdistan24",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.kurdistan24.net/en/story/953249/kataeb-hezbollah-accuses-iraqs-pm-of-yielding-to-us-and-gulf-pressure-over-weapons-dispute",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-15T20:06+03:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0a8b361a",
+   "sez": "mondo",
+   "titolo": "Spagna: il PSOE propone l'uno per cento del PIL per l'edilizia popolare",
+   "orig": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+   "lead": "Il Partito Socialista spagnolo ha presentato il proprio programma elettorale, proponendo di destinare l'uno per cento del PIL alla casa e di introdurre un assegno statale per i figli. Il piano include una tassa contro la speculazione dei grandi proprietari e il riconoscimento giuridico dell'unione d'amicizia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-15T13:44+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-15T16:48+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af99b29e9cf4a7a4b8b456e.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-15T15:05+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6edc908d",
+   "sez": "mondo",
+   "titolo": "Spagna: Feijóo fa campagna nei Paesi Baschi dopo l'aggressione ai giovani del PP",
+   "orig": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
+   "lead": "Il leader del Partito Popolare Alberto Núñez Feijóo ha annunciato una tappa elettorale a Guipúzcoa per sostenere i militanti giovanili aggrediti a Hernani con sassi, uova e petardi. Feijóo ha chiesto a Pedro Sánchez di intervenire affinché gli alleati di governo non ricorrano a violenze durante la campagna elettorale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-15T18:48+00:00"
+    },
+    {
+     "n": "El Mundo",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af98b45fdddff16668b457e.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-15T19:36+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z49a0c1a1",
+   "sez": "mondo",
+   "titolo": "Andorra: il sindacato della casa conferma il blocco della frontiera a dicembre",
+   "orig": "El Sindicat d’Habitatge puntualitza que manté el Tall de Frontera per la Puríssima",
+   "lead": "Il sindacato per il diritto all'alloggio di Andorra ha confermato l'intenzione di bloccare il valico di frontiera durante il ponte dell'Immacolata. L'organizzazione ha precisato di non cercare percorsi alternativi alla protesta e ha avvertito che aumenterà la pressione sulle autorità qualora non giungano adeguate garanzie sulle politiche abitative.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261115/sindicat-d-habitatge-puntualitza-mante-tall-frontera-per-purissima_208828.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-15T13:38+01:00"
+    },
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/societat/el-sindicat-d-habitatge-mante-l-amenaca-de-tallar-la-frontera",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-15T19:18+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9cf773a7",
+   "sez": "mondo",
+   "titolo": "Vertice della Francofonia: il premier andorrano Espot promuove dialogo e multilateralismo",
+   "orig": "Espot reivindica el diàleg i la prevenció per consolidar la pau a la Cimera de la Francofonia",
+   "lead": "Al vertice dell'Organizzazione internazionale della Francofonia, il capo di governo andorrano Xavier Espot ha rivendicato il ruolo centrale dell'educazione e del multilateralismo per prevenire i conflitti internazionali e costruire una pace durevole. A margine dell'evento, Espot ha incontrato il primo ministro del Québec per rafforzare la cooperazione economica e culturale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261115/espot-reivindica-dialeg-i-prevencio-per-consolidar-pau-phnom-penh_208827.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-15T12:58+01:00"
+    },
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/politica/espot-defensa-a-la-francofonia-el-dialeg-i-compromis-per-la-pau",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-15T17:44+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z707e8d79",
+   "sez": "economia",
+   "titolo": "Guinea: investimenti e diversificazione al Simandou Mining Summit",
+   "orig": "Simandou Mining Summit: la Guinée rassure et ouvre de nouvelles perspectives aux investisseurs",
+   "lead": "Sull'isola di Kassa si è svolto il Simandou Mining Summit, rassegna promossa dalle autorità della Guinea per rassicurare gli investitori globali e attirare capitali privati. L'obiettivo governativo consiste nello sfruttare le risorse minerarie per sviluppare settori chiave come agricoltura, energia e infrastrutture, favorendo al contempo la crescita delle imprese locali.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/simandou-mining-summit-la-guinee-rassure-et-ouvre-de-nouvelles-perspectives-aux-investisseurs/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-15T17:32+00:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/simandou-mining-summit-waf-et-ndc-recoivent-un-satisfecit-pour-leur-participation-remarquable-au-fonasem-2026/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-15T12:57+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/15/simandou-mining-summit-la-guinee-rassure-et-ouvre-de-nouvelles-perspectives-aux-investisseurs/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-15T17:39+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "za288a227",
+   "sez": "mondo",
+   "titolo": "Ucraina: Zelensky esorta gli Stati Uniti e Musk a revocare i limiti a Starlink",
+   "orig": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "lead": "Il presidente ucraino Volodymyr Zelensky ha invitato gli Stati Uniti ed Elon Musk a rimuovere le restrizioni all'utilizzo della rete satellitare Starlink, chiedendo di stare dalla parte giusta della storia. Secondo il leader di Kiev, i vincoli operativi ancora in vigore ostacolano le difese contro gli attacchi russi. Lo riferisce BBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T18:08+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3486f4c1",
+   "sez": "mondo",
+   "titolo": "Capo Verde: circa 420mila cittadini chiamati alle urne per le presidenziali",
+   "orig": "Cape Verde goes to the polls in presidential vote",
+   "lead": "Circa quattrocentoventimila elettori sono chiamati a votare in Capo Verde per eleggere il nuovo presidente della Repubblica, in un Paese insulare riconosciuto a livello internazionale per la sua stabilità democratica e la buona governance. I cittadini scelgono la nuova guida istituzionale per il prossimo mandato presidenziale. Lo riferisce Deutsche Welle.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/cape-verde-goes-to-the-polls-in-presidential-vote/a-79952606",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-15T16:47+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z925422b8",
+   "sez": "mondo",
+   "titolo": "Sacerdote cristiano di Betlemme denuncia: visto per gli Usa negato per le origini",
+   "orig": "Christian priest says US denied him a visa for being Palestinian",
+   "lead": "Un sacerdote cristiano originario di Betlemme ha denunciato che le autorità degli Stati Uniti gli hanno negato il visto d'ingresso a causa della sua identità palestinese. Il religioso ha espresso amarezza per il respingimento della richiesta da parte del consolato americano, collegando la decisione alle sue origini. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-15T18:07+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf24bd546",
+   "sez": "prima",
+   "titolo": "Yemen: le forze governative si ridispiegano da Bab al-Mandeb per difendere Aden",
+   "orig": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+   "lead": "Le forze armate governative yemenite hanno iniziato a ritirarsi dall'aeroporto di Dhubab e dalle postazioni strategiche intorno allo stretto di Bab al-Mandeb per ridisporsi a protezione della città meridionale di Aden. Il portavoce militare ha confermato il riposizionamento dei reparti nell'ambito della riorganizzazione delle linee difensive. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-15T17:33+00:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/yemeni-ypoxorisi-ton-kyvernitikon-dynameon-kai-anadiataksi-tous-gyro-apo-to-anten-ypo-tin-apeili-neas-proelasis-ton-xouthi/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-15T18:49+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z30ee5f2d",
+   "sez": "mondo",
+   "titolo": "Somalia: appello agli aiuti internazionali contro la ribellione di al-Shabaab",
+   "orig": "Somalia: We would not have recovered without the international community",
+   "lead": "Le autorità della Somalia hanno ribadito l'importanza vitale del sostegno fornito dalla comunità internazionale per la stabilizzazione del Paese. Il governo somalo continua infatti ad affrontare la sanguinosa insurrezione del gruppo jihadista al-Shabaab e complesse frizioni politiche interne, chiedendo ai partner esteri di non interrompere gli aiuti. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-15T16:47+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z72e45ba0",
+   "sez": "mondo",
+   "titolo": "Irlanda: comitato di Belfast contesta la sepoltura di Roger Casement a Dublino",
+   "orig": "Burial of Casement in Glasnevin 'wrong' - campaign group",
+   "lead": "Un comitato di attivisti a Belfast ha dichiarato che la sepoltura del patriota irlandese Roger Casement nel cimitero di Glasnevin a Dublino costituisce un errore storico da correggere. Il gruppo chiede che le spoglie del rivoluzionario siano traslate in Irlanda del Nord, rispettando le sue originarie volontà. Lo riferisce RTÉ News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/ireland/2026/1115/1599297-roger-casement/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-15T16:35+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4a8832c3",
+   "sez": "mondo",
+   "titolo": "Lituania: la garante per le pari opportunità critica il referendum sulla famiglia",
+   "orig": "Sabatauskaitė: referendumo dėl šeimos tikslai neaiškūs, tai visuomenės skaldymas",
+   "lead": "La garante per le pari opportunità lituana Birutė Sabatauskaitė ha criticato la proposta di indire un referendum consultivo sulla definizione giuridica della famiglia sostenuta dai partiti rurali della coalizione di governo. Secondo Sabatauskaitė, la consultazione presenta obiettivi poco chiari e rischia unicamente di polarizzare e dividere la società. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3115049/sabatauskaite-referendumo-del-seimos-tikslai-neaiskus-tai-visuomenes-skaldymas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-15T20:54+02:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8c419857",
+   "sez": "mondo",
+   "titolo": "L'artista Rosalind Nashashibi racconta l'occupazione palestinese in un film a Vilnius",
+   "orig": "Menininkė, kuri palestiniečių patiriamą okupaciją pateikia kitaip: viltis ir sustingimas",
+   "lead": "L'artista britannica di origini palestinesi Rosalind Nashashibi presenta al festival del documentario di Vilnius il cortometraggio intitolato L'occupazione della vita interiore. L'opera affronta la condizione dell'attesa sotto l'occupazione in Palestina tra speranza e immobilità, proponendo una riflessione psicologica e poetica sull'esperienza quotidiana delle comunità coinvolte. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/kultura/12/3106388/menininke-kuri-palestinieciu-patiriama-okupacija-pateikia-kitaip-viltis-ir-sustingimas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-15T20:11+02:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z314cb876",
+   "sez": "mondo",
+   "titolo": "Egitto: scoperte con i satelliti le rovine di un complesso antico di 2.600 anni",
+   "orig": "Egipte rastas po žeme palaidotas milžiniškas 2 600 metų senumo kompleksas",
+   "lead": "Le indagini satellitari condotte nell'area nord-orientale del delta del Nilo hanno rivelato l'esistenza di un vasto complesso sotterraneo risalente a duemilaseicento anni fa. La struttura monumentale sepolta è stata individuata sotto le rovine di un'antica città sacra egizia, svelando nuovi elementi sul passato della regione. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/3112145/egipte-rastas-po-zeme-palaidotas-milziniskas-2-600-metu-senumo-kompleksas",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-15T19:57+02:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z18114e01",
+   "sez": "ambiente",
+   "titolo": "Il Canada stanzia 560 milioni di dollari per tutelare le foreste pluviali",
+   "orig": "Carney pledges $560M to Brazil-led fund to protect rainforests",
+   "lead": "Il Canada ha annunciato un contributo fino a cinquecentosessanta milioni di dollari in quattro anni a favore del fondo internazionale per la protezione delle foreste pluviali guidato da Brasile e Norvegia. Lo stanziamento mira a preservare la biodiversità e contrastare la deforestazione globale nelle aree tropicali. Lo riferisce CBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "CBC News",
+     "p": "XX",
+     "c": "Toronto",
+     "u": "https://www.cbc.ca/news/politics/carney-pledge-brazil-led-tropical-forest-fund-9.7422859?cmp=rss",
+     "angolo": "",
+     "atlas": "Canada",
+     "t": "2026-11-15T13:20-05:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "za5d6b073",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda: torna a volare nei cieli di Nelson un raro aereo di linea del 1941",
+   "orig": "Rare 1941 plane returns to Nelson skies",
+   "lead": "Uno storico velivolo di linea in stile art déco risalente al 1941, caratterizzato da una lucida livrea cromata, è tornato a solcare i cieli di Nelson in Nuova Zelanda. L'aereo d'epoca rappresenta uno degli unici due esemplari di questo modello tuttora funzionanti e operativi nel mondo. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/regional/2618241/rare-1941-plane-returns-to-nelson-skies",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-16T07:26+13:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z513c5ecd",
+   "sez": "ambiente",
+   "titolo": "Il ciclone Xavier minaccia le Isole Cook settentrionali con venti distruttivi",
+   "orig": "Tropical Cyclone Xavier to bring damaging winds to Northern Cook Islands",
+   "lead": "Il ciclone tropicale Xavier minaccia le Isole Cook settentrionali con venti distruttivi. Il servizio meteorologico locale ha diramato un'allerta tempesta per gli atolli di Manihiki e Rakahanga, revocando invece l'allarme precedentemente emesso per Penrhyn, mentre le comunità dell'arcipelago monitorano l'evoluzione del fenomeno meteo. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2620097/tropical-cyclone-xavier-to-bring-damaging-winds-to-northern-cook-islands",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-16T07:13+13:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf12a40b5",
+   "sez": "tech",
+   "titolo": "La Victoria University frena sull'uso dell'intelligenza artificiale tra gli studenti",
+   "orig": "Victoria University lecturers steer students away from AI use in education",
+   "lead": "I docenti della Victoria University in Nuova Zelanda stanno disincentivando l'uso dell'intelligenza artificiale tra gli studenti. Per ripensare la didattica universitaria nell'era dell'AI, gli accademici hanno reintrodotto test in presenza ed esami orali, con l'obiettivo di garantire valutazioni autentiche e tutelare l'integrità accademica. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/education/2618219/victoria-university-lecturers-steer-students-away-from-ai-use-in-education",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-16T07:06+13:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2957fc17",
+   "sez": "ambiente",
+   "titolo": "Clima, per il Pacifico superare 1,5 gradi non è un'opzione",
+   "orig": "COP31 hears 1.5°C overshoot not an option for Pacific",
+   "lead": "Superare la soglia di riscaldamento di 1,5 gradi non è un'opzione per i Paesi del Pacifico: lo ha dichiarato la presidente delle Isole Marshall, Hilda Heine, durante i lavori per la Cop31, avvertendo che ogni frazione di grado in più provocherebbe una catastrofe per le isole. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2591454/cop31-hears-1-point-5-degreesc-overshoot-not-an-option-for-pacific",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-16T06:43+13:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z4410a968",
+   "sez": "mondo",
+   "titolo": "Gagauzia, sospetti trasporti illeciti di elettori ai seggi",
+   "orig": "Individuals suspected of illegally transporting voters identified in Comrat and Ceadar-Lunga",
+   "lead": "Durante la giornata elettorale in Gagauzia, la polizia moldava ha individuato diverse persone sospettate di trasportare illegalmente elettori verso i seggi a Comrat e Ceadar-Lunga. Le autorità hanno intercettato veicoli privati impiegati per condizionare l'affluenza, avviando gli opportuni accertamenti sul rispetto delle normative elettorali vigenti. Lo riferisce IPN.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/individuals-suspected-of-illegally-transporting-voters-identified-in-comrat-and-ceadar-lunga/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-15T16:34+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z86bf7214",
+   "sez": "mondo",
+   "titolo": "Elezioni in Gagauzia, Promo-LEX segnala decine di irregolarità",
+   "orig": "Promo-LEX: Nearly 60 incidents confirmed out of 80 reported during the election in Gagauzia",
+   "lead": "Gli osservatori dell'organizzazione Promo-LEX hanno confermato quasi sessanta irregolarità su ottanta segnalazioni ricevute durante le elezioni in Gagauzia. La violazione più frequente ha riguardato il voto di gruppo non giustificato, con ventuno episodi accertati, oltre a presenze indebite nei seggi e anomalie procedurali durante le operazioni. Lo riferisce IPN.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/promo-lex-nearly-60-incidents-confirmed-out-of-80-reported-during-the-election-in-gagauzia/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-15T16:21+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z97a5ddf2",
+   "sez": "mondo",
+   "titolo": "Il Papa all'Angelus di Cusco: la malattia è cammino per crescere nell'amore",
+   "orig": "Pope at Angelus in Cusco: Illness is a path to grow in God’s love",
+   "lead": "Durante la visita pastorale a Cusco, in Perù, papa Leone XIV ha guidato la preghiera dell'Angelus riflettendo sul significato cristiano della malattia. Il pontefice ha sottolineato come la debolezza umana possa trasformarsi in forza divina attraverso l'amore di Dio, offrendo conforto ai malati e alle loro famiglie. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-angelus-cusco-peru-illness-lord-earthquakes.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-15T18:24+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc1174b0d",
+   "sez": "mondo",
+   "titolo": "A Zaña il cuore missionario di papa Leone XIV per san Turibio",
+   "orig": "Pope Leo’s missionary heart",
+   "lead": "A Zaña, in Perù, papa Leone XIV ha concluso l'anno giubilare di san Turibio di Mogrovejo con un discorso incentrato sulla vocazione missionaria della Chiesa. L'intervento papale ha richiamato l'impegno per l'evangelizzazione e la vicinanza alle popolazioni locali, evidenziando il valore pastorale del santo arcivescovo. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/vatican-city/news/2026-11/editorial-apostolic-journey-zana-peru-pope-leo-xiv.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-15T17:36+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z8b740fc7",
+   "sez": "mondo",
+   "titolo": "Il Papa a Cusco: la pietà popolare rivela la ricerca di Dio",
+   "orig": "Pope in Cusco: Every expression of popular piety reveals a community seeking God",
+   "lead": "Nel sito archeologico di Saqsaywaman a Cusco, papa Leone XIV ha elogiato la pietà popolare come viva espressione di fede comunitaria. Il pontefice ha affermato che la devozione tradizionale unisce le persone, favorisce la fraternità e consente di trasmettere il Vangelo alle generazioni future, valorizzando la cultura locale. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (inglese)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-cusco-peru-popular-devotion-meeting.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-15T17:20+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc9882af4",
+   "sez": "mondo",
+   "titolo": "Leone XIV a Cusco ricorda l'arcivescovo scomparso e dona un sudario",
+   "orig": "Il Papa: la malattia non sminuisce una persona, ma moltiplica i talenti dell’amore",
+   "lead": "A Cusco, papa Leone XIV ha reso omaggio all'arcivescovo Alarcón Urrutia, scomparso recentemente, sottolineandone la testimonianza nella malattia e ricordando che il dolore moltiplica i talenti dell'amore. Ai religiosi ha chiesto dedizione assoluta per Cristo, donando inoltre un sudario per la venerata effigie del Signore dei Terremoti. Lo riferisce Vatican News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/papa/news/2026-11/papa-leonexiv-peru-angelus-cusco-malati-devozione-terremoti.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-15T18:35+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5ef7730d",
+   "sez": "salute",
+   "titolo": "Le Figi approvano la revisione delle leggi sulla sicurezza alimentare",
+   "orig": "Cabinet approves review of food safety laws",
+   "lead": "Il governo delle Figi ha approvato la revisione della legge sulla sicurezza alimentare del 2003 per aggiornare gli standard sanitari nazionali. La riforma intende rafforzare la tutela dei consumatori e affrontare nuove problematiche, quali l'aumento del commercio alimentare online, le attività dei venditori informali e i prodotti alimentari importati. Lo riferisce FBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/cabinet-approves-review-of-food-safety-laws/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-11-15T18:05+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z63c89a3d",
+   "sez": "mondo",
+   "titolo": "Figi e Nuova Zelanda firmano un'intesa da 2,3 milioni per la parità di genere",
+   "orig": "Fiji and NZ sign $2.3m gender equality agreement",
+   "lead": "I governi di Figi e Nuova Zelanda hanno sottoscritto un accordo da 2,3 milioni di dollari per finanziare la seconda fase di un programma istituzionale dedicato alla parità di genere. L'intesa mira a rafforzare le competenze delle istituzioni figiane e a promuovere politiche inclusive nella pubblica amministrazione. Lo riferisce FBC News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FBC News",
+     "p": "XX",
+     "c": "Suva",
+     "u": "https://www.fbcnews.com.fj/news/fiji-and-nz-sign-2-3m-gender-equality-agreement/",
+     "angolo": "",
+     "atlas": "Fiji",
+     "t": "2026-11-15T18:03+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "za23ada3a",
+   "sez": "mondo",
+   "titolo": "Varsavia, graffiti sui monumenti: Kiev accusa Mosca di voler dividere Polonia e Ucraina",
+   "orig": "Ukraine's embassy blames Russia for Warsaw monument graffiti, calls it bid to ‘sow hostility’ between Ukrainians, Poles",
+   "lead": "L'ambasciata ucraina a Varsavia ha accusato la Russia di essere dietro le scritte ingiuriose comparse su due monumenti polacchi, con slogan attribuiti all'esercito insurrezionale ucraino. Secondo la diplomazia di Kiev, l'atto vandalico rappresenta una provocazione orchestrata da Mosca per seminare discordia e ostilità tra ucraini e polacchi. Lo riferisce The Kyiv Independent.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Kyiv Independent",
+     "p": "XX",
+     "c": "Kyiv",
+     "u": "https://kyivindependent.com/ukraines-embassy-blames-russia-for-warsaw-monument-graffiti-calls-it-bid-to-sow-hostility-between-ukrainians-poles/",
+     "angolo": "",
+     "atlas": "Ukraine",
+     "t": "2026-11-15T16:07+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z60b6e640",
+   "sez": "salute",
+   "titolo": "L'OMS sollecita azioni concrete globali contro la resistenza antimicrobica",
+   "orig": "WHO urges concrete action on antimicrobial resistance worldwide",
+   "lead": "L'Organizzazione Mondiale della Sanità ha sollecitato i governi ad adottare misure concrete e tempestive per contrastare la resistenza antimicrobica globale. L'appello fa seguito agli impegni sottoscritti all'Assemblea Generale delle Nazioni Unite, mirati a ridurre del dieci per cento entro il 2030 i decessi provocati da infezioni batteriche resistenti ai farmaci. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/news/top-news/925375-who-urges-concrete-action-on-antimicrobial-resistance-worldwide.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-15T18:32+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3c19166b",
+   "sez": "mondo",
+   "titolo": "Elezioni 2027 a Zamfara, l'APC vara un comitato elettorale di novecento membri",
+   "orig": "2027 Poll: Zamfara APC constitutes 900-member gubernatorial campaign council",
+   "lead": "Nello Stato nigeriano di Zamfara, il partito di governo All Progressives Congress ha istituito un comitato elettorale di novecento membri in vista delle elezioni governative del 2027. La decisione è stata resa nota dal segretario del governo statale Nakwada per organizzare la campagna elettorale sul territorio. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/promoted/925362-2027-poll-zamfara-apc-constitutes-900-member-gubernatorial-campaign-council.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-15T17:07+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5e8365a5",
+   "sez": "economia",
+   "titolo": "Minerali in Africa, per l'AMDC le risorse naturali non bastano senza strategie mirate",
+   "orig": "Endowment alone is not a guarantee, says AMDC’s Tunde Muritala Arisekola",
+   "lead": "Avere risorse minerarie non basta a garantire prosperità economica senza adeguate strategie di sviluppo: lo ha affermato Tunde Muritala Arisekola, consulente del Centro per lo sviluppo minerario dell'Unione Africana. L'esperto ha invitato i cinquantaquattro Paesi membri a elaborare politiche lungimiranti per valorizzare il settore estrattivo continentale. Lo riferisce Premium Times.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Premium Times",
+     "p": "XX",
+     "c": "Abuja",
+     "u": "https://www.premiumtimesng.com/promoted/925351-endowment-alone-is-not-a-guarantee-says-amdcs-tunde-muritala-arisekola.html",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-15T16:29+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfd6f3e22",
+   "sez": "tech",
+   "titolo": "L'intelligenza artificiale genera schemi fallati e inganna gli appassionati di uncinetto",
+   "orig": "L’AI sta rendendo impossibile la vita agli appassionati di uncinetto",
+   "lead": "La diffusione di schemi generati dall'intelligenza artificiale sta creando forti disagi nella comunità degli appassionati di uncinetto. Molti modelli venduti o condivisi in rete presentano istruzioni incoerenti o impossibili da realizzare, ingannando gli utenti con immagini accattivanti e inducendoli a sprecare tempo e materiali preziosi prima di accorgersene. Lo riferisce Il Post.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/15/lavoro-a-maglia-ai/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-15T16:22+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2de154df",
+   "sez": "mondo",
+   "titolo": "Sudafrica: la testimonianza dei servizi segreti svela un presunto piano per far implodere il Paese",
+   "orig": "STATES OF CAPTURE: ‘SA was close to gone’ — evidence outlines alleged plot to implode country",
+   "lead": "In Sudafrica, una testimonianza di un capo dell'intelligence rivela come il Paese sia stato vicino a essere del tutto catturato da una vasta rete di collusione. Il quadro è aggravato da attacchi a funzionari di polizia e manovre sospette nell'organo anticorruzione. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-15-sa-was-close-to-gone-evidence-outlines-alleged-plot-to-implode-country/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z340b0a04",
+   "sez": "mondo",
+   "titolo": "Città del Capo: protesta legale dei residenti di St James contro gli alloggi per anziani di Prasa",
+   "orig": "CAPE SEASIDE BACKLASH: ‘Outraged’ St James residents vow legal fight over Prasa’s retirement apartments plan",
+   "lead": "I residenti di St James, vicino a Città del Capo, hanno annunciato un'azione legale contro il piano dell'agenzia ferroviaria Prasa per costruire appartamenti per pensionati su una striscia di 1,1 ettari. I cittadini denunciano irregolarità nelle gare e impatti negativi su patrimonio storico e ambiente. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-15-outraged-st-james-residents-vow-legal-fight-over-prasas-retirement-apartments-plan/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z67ef2da0",
+   "sez": "economia",
+   "titolo": "Sudafrica: le difficoltà di Woolworths e Metair riflettono la crisi industriale e dei consumi",
+   "orig": "WHERE TO INVEST: Woolworths and Metair reflect SA’s mounting retail and industrial struggles",
+   "lead": "Le difficoltà economiche del Sudafrica colpiscono duramente i settori del commercio e dell'industria. La pressione sui bilanci familiari danneggia la divisione alimentare di Woolworths, mentre il degrado delle infrastrutture e l'aumento dei costi aggravano la crisi del fornitore automobilistico Metair. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-15-woolworths-and-metair-reflect-sas-mounting-retail-and-industrial-struggles/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb044569b",
+   "sez": "economia",
+   "titolo": "Sudafrica: l'uscita dalla borsa di Tongaat Hulett offuscata da un'indagine di polizia sul salvataggio",
+   "orig": "FINAL EXIT: A bitter pill — SAPS probe clouds delisted Tongaat Hulett’s rescue deal",
+   "lead": "Mentre la società sudafricana Tongaat Hulett esce dalle contrattazioni pubbliche, un'indagine della polizia sul piano di salvataggio concepito per evitarne la liquidazione getta nuove ombre sul futuro dell'azienda. L'inchiesta giudiziaria rischia di compromettere la ristrutturazione del gruppo zuccheriero. Lo riferisce Daily Maverick.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Maverick",
+     "p": "XX",
+     "c": "Città del Capo",
+     "u": "https://www.dailymaverick.co.za/article/2026-11-15-a-bitter-pill-saps-probe-clouds-delisted-tongaat-huletts-rescue-deal/",
+     "angolo": "",
+     "atlas": "South Africa"
+    }
+   ],
+   "data": "",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z81e75413",
+   "sez": "mondo",
+   "titolo": "L'Explorers Club inaugura una sezione per l'Asia centrale con sede in Kazakistan",
+   "orig": "Explorers Club Launches Kazakhstan-Based Central Asia Chapter",
+   "lead": "L'Explorers Club ha celebrato il 12 novembre, presso la propria sede centrale di New York, l'apertura ufficiale di una nuova sezione regionale dedicata all'Asia centrale, la cui base operativa sarà situata in Kazakistan. Lo riferisce The Times of Central Asia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Times of Central Asia",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://timesca.com/explorers-club-launches-kazakhstan-based-central-asia-chapter/",
+     "angolo": "",
+     "atlas": "Kazakhstan",
+     "t": "2026-11-15T18:03+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9d0ec548",
+   "sez": "mondo",
+   "titolo": "Romania: il sindaco di Buzău accusa il ministro dei fondi europei di attacco politico interno",
+   "orig": "Primarul Buzăului îl acuză pe ministrul fondurilor europene, colegul său de partid, că „a venit să execute un atac politic”",
+   "lead": "In Romania, il sindaco socialdemocratico di Buzău Constantin Toma ha accusato il ministro dei fondi europei Mihai Ghigiu, compagno di partito nel PSD, di essersi recato nella città per compiere un attacco politico su mandato dei vertici della formazione. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/primarul-buzaului-il-acuza-pe-ministrul-fondurilor-europene-colegul-sau-de-partid-ca-a-venit-sa-execute-un-atac-politic-2405069",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-15T18:17+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z040cc6cf",
+   "sez": "mondo",
+   "titolo": "Romania: pubblicati i punteggi record dell'esame per la specializzazione medica",
+   "orig": "Rezidențiat 2026. Cele mai mari punctaje obținute în fiecare centru universitar",
+   "lead": "In Romania, i punteggi massimi per l'ammissione alla specializzazione medica hanno toccato quota 943 per Medicina, 936 per Odontoiatria e 925 per Farmacia. A renderlo noto è stato il ministro della Salute Alexandru Rogobete, dopo la correzione degli elaborati di quasi diecimila candidati. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/rezidentiat-2026-cele-mai-mari-punctaje-obtinute-in-fiecare-centru-universitar-2405055",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-15T18:01+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze33671a5",
+   "sez": "mondo",
+   "titolo": "Bucarest: partono le pattuglie di cittadini nel Settore 4 tra uniformi scure e vetture dedicate",
+   "orig": "Girofaruri galbene, bodycam și uniforme negre: ce pot și ce nu pot face patrulele stradale din Sectorul 4. De unde au mașinile care seamănă cu cele de poliție",
+   "lead": "Nel Settore 4 di Bucarest hanno iniziato il servizio le nuove pattuglie civiche istituite dal sindaco Daniel Băluță. Gli operatori, dotati di lampeggianti gialli, bodycam e veicoli simili a quelli della polizia, sono stati istruiti dalle forze dell'ordine per presidiare le strade. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/girofaruri-galbene-bodycam-si-uniforme-negre-ce-pot-si-ce-nu-pot-face-patrulele-stradale-din-sectorul-4-de-unde-au-masinile-care-seamana-cu-cele-de-politie-2404870",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-15T17:15+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z539d46fb",
+   "sez": "mondo",
+   "titolo": "Usa: il Pentagono frena sui tagli alle truppe in Europa e punta a rafforzare il fianco est",
+   "orig": "Schimbare de optică la Pentagon: Reduceri mai mici de trupe în Europa și consolidarea flancului estic",
+   "lead": "Fonti informate rivelano che il Pentagono intende ridurre la presenza militare in Europa in misura molto più contenuta rispetto al paventato ritiro di 25.000 unità su 80.000. La nuova strategia statunitense punta a consolidare la difesa lungo il fianco orientale del continente. Lo riferisce HotNews.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/schimbare-de-optica-la-pentagon-reduceri-mai-mici-de-trupe-in-europa-si-consolidarea-flancului-estic-2405038",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-15T17:04+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf989d01c",
+   "sez": "mondo",
+   "titolo": "Montenegro: cantiere sigillato a Petrovac, rimangono dubbi sul progetto edilizio",
+   "orig": "Zapečaćeno gradilište u Petrovcu, ostaju pitanja o investitoru,...",
+   "lead": "A Petrovac, in Montenegro, i sigilli dell'ispettorato hanno fermato i macchinari in un cantiere locale, senza tuttavia chiarire le incognite sugli investitori e sul controverso progetto di sviluppo sulla collina Brdo zdravlja. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/tv/emisije/836440/zapecaceno-gradiliste-u-petrovcu-ostaju-pitanja-o-investitoru-planiranoj-gradnji-i-dokumentaciji",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-15T19:53+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zac7184a8",
+   "sez": "mondo",
+   "titolo": "Montenegro: bocciata la nuova strada da 1,3 milioni di euro nel villaggio di Tepca",
+   "orig": "Selo Tepca se opisuje kao dragulj durmitorskog kraja i raj za...",
+   "lead": "Nel villaggio montenegrino di Tepca, nell'area del Durmitor, i lavori di asfaltatura costati 1,33 milioni di euro a Governo e Comune non sono stati collaudati a causa di gravi difetti. L'opera, che scende fino a Radovan Luka, presenta numerose carenze costruttive. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/tv/emisije/836439/selo-tepca-se-opisuje-kao-dragulj-durmitorskog-kraja-i-raj-za-turiste-jos-samo-da-se-ima-kuda-doci",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-15T19:47+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5f55cc14",
+   "sez": "mondo",
+   "titolo": "Montenegro: polemiche sull'aumento di razzismo e intolleranza tra società civile e difensore civico",
+   "orig": "Rasističke uvrede, pozivi na protjerivanje i simboli mržnje -...",
+   "lead": "In Montenegro cresce il dibattito su insulti razzisti e simboli d'odio. Le organizzazioni civiche denunciano un rafforzamento di estremismo e xenofobia, mentre l'ufficio dell'Ombudsman ridimensiona il fenomeno a casi isolati, pur ammettendo che le sole condanne non bastano ad arginare l'intolleranza. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/tv/emisije/836438/rasisticke-uvrede-pozivi-na-protjerivanje-i-simboli-mrznje-sporadicni-incidenti-ili-upozorenje-na-dublji-problem",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-15T19:40+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6d133315",
+   "sez": "mondo",
+   "titolo": "Montenegro: polemiche sulle spese per cinquantacinque viaggi di Stato tra settembre e ottobre",
+   "orig": "Pedeset pet službenih putovanja tokom septembra i oktobra građane...",
+   "lead": "In Montenegro le istituzioni hanno registrato cinquantacinque viaggi ufficiali tra settembre e ottobre a carico dei contribuenti. Il governo non ha fornito chiarimenti precisi sull'elenco dei partecipanti né sull'ammontare totale delle risorse pubbliche impiegate per le missioni. Lo riferisce Vijesti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Vijesti",
+     "p": "XX",
+     "c": "Podgorica",
+     "u": "https://www.vijesti.me/tv/emisije/836434/pedeset-pet-sluzbenih-putovanja-tokom-septembra-i-oktobra-gradjane-kostalo-najmanje-oko-180000-eura",
+     "angolo": "",
+     "atlas": "Montenegro",
+     "t": "2026-11-15T19:21+01:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zfea37061",
+   "sez": "salute",
+   "titolo": "Chirurgia: eseguita la prima operazione robotica al pancreas in Africa",
+   "orig": "Vincentian surgeon leads team in Africa’s first robotic pancreatic cancer operation",
+   "lead": "Il chirurgo Lee Cummings, originario di Saint Vincent e Grenadine, ha guidato con successo il primo intervento robotico di duodenocefalopancreasectomia in Africa. La complessa procedura è stata realizzata per trattare un tumore al pancreas, segnando un traguardo storico per la medicina continentale. Lo riferisce iWitness News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "iWitness News",
+     "p": "XX",
+     "c": "Kingstown",
+     "u": "https://www.iwnsvg.com/2026/11/15/vincentian-surgeon-leads-team-in-africas-first-robotic-pancreatic-cancer-operation/",
+     "angolo": "",
+     "atlas": "St. Vin. and Gren.",
+     "t": "2026-11-15T18:45+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd8ec289a",
+   "sez": "mondo",
+   "titolo": "Israele: trattative in stallo per la formazione del nuovo governo tra Likud e Yashar",
+   "orig": "En Israël, la formation d'un gouvernement piétine",
+   "lead": "In Israele si intensificano i negoziati per dare vita a un nuovo esecutivo, ma il confronto resta bloccato. Le delegazioni del Likud e di Yashar si sono riunite per discutere l'intesa e definire la futura coalizione senza raggiungere al momento un accordo definitivo. Lo riferisce France 24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/vid%C3%A9o/20261115-en-isra%C3%ABl-la-formation-d-un-gouvernement-pi%C3%A9tine",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-15T17:31+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:23",
+   "uscita": "sera"
+  },
+  {
    "id": "z901de22f",
    "sez": "prima",
    "titolo": "L'Estonia chiude i confini con la Russia dopo un attacco a una fabbrica di droni",
@@ -74,6 +1329,69 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-11-15T18:02+00:00"
+    },
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-11-15T16:13+01:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/varlden/estland-stanger-gransen-flera-gripna-for-sabotage/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-11-15T17:06+01:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%86%D0%B0%D1%85%D0%BA%D0%BD%D0%B0-%D0%B5%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%98%D0%B0-%D0%BD%D0%B0-1-%D0%B4%D0%B5%D0%BA%D0%B5%D0%BC%D0%B2%D1%80%D0%B8-%D1%9C%D0%B5-%D1%98%D0%B0-%D0%B7%D0%B0%D1%82%D0%B2%D0%BE%D1%80%D0%B8-%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%D1%82%D0%B0-%D1%81%D0%BE-%D1%80%D1%83%D1%81%D0%B8%D1%98%D0%B0%C2%A0",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-11-15T19:11+01:00"
+    },
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/europe/20261115-estonie-accuse-russie-tentative-sabotage-et-d%C3%A9cide-de-fermer-fronti%C3%A8re",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-15T17:12+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-les-restrictions-d-acces-a-starshield-persistent-et-empechent-kiev-de-se-proteger-des-attaques-russes-dit-volodymyr-zelensky_6810982_3210.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-15T14:48+01:00"
+    },
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/international/l-estonie-va-fermer-sa-frontiere-avec-la-russie-apres-une-nouvelle-tentative-de-sabotage-20261115",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-15T17:39+01:00"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/estonian-dektemberi-1-its-kpaki-rousastani-het-sahmany/33899068.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-15T20:44+04:00"
     }
    ],
    "data": "15 nov",
@@ -140,13 +1458,29 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-15T18:26+00:00"
+    },
+    {
+     "n": "ORF",
+     "p": "XX",
+     "c": "Vienna",
+     "u": "https://orf.at/stories/3448263/",
+     "angolo": "",
+     "atlas": "Austria",
+     "t": "2026-11-15T17:57+01:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/international/migrationskrise-in-europa-die-wichtigsten-fakten-und-news-ld.1535949",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-15T16:07+00:00"
     }
    ],
    "data": "15 nov",
    "ora": "20:08",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z7eb1d548",
@@ -334,6 +1668,15 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Austria",
      "t": "2026-11-15T18:00+00:00"
+    },
+    {
+     "n": "Iran International",
+     "p": "XX",
+     "c": "Londra (in esilio)",
+     "u": "https://www.iranintl.com/202611153406",
+     "angolo": "",
+     "atlas": "Iran",
+     "t": "2026-11-15T18:36+00:00"
     }
    ],
    "data": "15 nov",
@@ -2299,7 +3642,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
   },
   {
    "id": "zfbb8a918",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Il Papa visita Cusco sulle Ande: prova fisica impegnativa dopo l'intervento al polmone",
    "orig": "Pope visits high Andes, testing cancer recovery",
    "lead": "Nel corso dell'ultima giornata del suo viaggio pastorale in Sudamerica, il Papa ha fatto tappa nella città peruviana di Cusco, situata a oltre 3.400 metri di altitudine sulla cordigliera delle Ande. La visita ad alta quota ha rappresentato la prova fisica più impegnativa dopo il recente intervento chirurgico per un tumore al polmone, che aveva comportato l'asportazione di una parte dell'organo un mese fa. Nonostante le rigide condizioni ambientali, il pontefice settantunenne ha completato gli impegni previsti dalla delegazione papale nell'antica capitale inca.",
@@ -2333,15 +3676,35 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Singapore",
      "t": "2026-11-16T01:59+08:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/15/news/papa_leone_peru_accolto_da_500mila_persone_a_cusco_la_citta_inca_tradizioni_popolari-425725414/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-15T16:58+00:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/15/news/papa_leone_peru_accolto_da_500mila_persone_a_cusco_la_citta_inca_tradizioni_popolari-425725414/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-15T17:58+01:00"
     }
    ],
    "data": "15 nov",
    "ora": "20:08",
-   "uscita": "sera"
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zd16422e0",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Il principe Harry a sorpresa a Leopoli incontra i veterani ucraini per gli Invictus Games",
    "orig": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
    "lead": "Il principe Harry si è recato in visita a sorpresa a Leopoli, in Ucraina, compiendo il suo quarto viaggio nel Paese dal 2022. Durante la permanenza, il reale britannico ha assistito a gare di rugby in carrozzina e ha incontrato diversi veterani ucraini feriti che si stanno preparando per le selezioni degli Invictus Games del 2027. Harry ha dichiarato di essersi assunto un rischio personale per testimoniare la propria vicinanza ai soldati, molti dei quali utilizzano lo sport adattato come percorso di riabilitazione dalle gravi lesioni subite in guerra.",
@@ -2370,9 +3733,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "data": "15 nov",
    "ora": "20:08",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z6e93bb95",
@@ -2608,6 +3969,24 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Russia",
      "t": "2026-11-15T21:25+03:00"
+    },
+    {
+     "n": "SVT Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.svt.se/sport/ishockey/bekraftat-ryssland-stoppas-fran-jvm",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-11-15T18:51+01:00"
+    },
+    {
+     "n": "Dagens Nyheter",
+     "p": "XX",
+     "c": "Stoccolma",
+     "u": "https://www.dn.se/sport/vandningen-ryssland-stoppas-fran-jvm/",
+     "angolo": "",
+     "atlas": "Sweden",
+     "t": "2026-11-15T19:15+01:00"
     }
    ],
    "data": "15 nov",
@@ -2702,7 +4081,58 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z6c163088": "La testata sottolinea l'allarme del presidente kirghiso sul rischio di strumentalizzazioni etniche prima del voto.",
   "z3e031877": "France 24 pone l'accento sulla corsa al terzo mandato di Barrow e sul confronto elettorale con quattro sfidanti.",
   "zd595a9fd": "VRT NWS sottolinea il viaggio in pullman dei tifosi italo-belgi di Genk per sostenere la nazionale italiana a Bruxelles.",
-  "z92d6aa9e": "I media mettono in risalto la conferma ufficiale dell'assenza della Russia dai Mondiali giovanili a causa delle restrizioni canadesi."
+  "z92d6aa9e": "I media mettono in risalto la conferma ufficiale dell'assenza della Russia dai Mondiali giovanili a causa delle restrizioni canadesi.",
+  "zf35bf31c": "RTP evidenzia l'andamento della partecipazione elettorale nel corso della giornata e il voto della comunità all'estero.",
+  "zf483d623": "The Hindu sottolinea il tono di sfida dell'artista contro l'opposizione politica al suo tour musicale.",
+  "zbf0afce3": "NZ Herald illustra la controversia culturale e politica scaturita dal successo del gadget militare tedesco.",
+  "z031532aa": "Iraqi News evidenzia le contestazioni formali di Washington sul saccheggio delle risorse naturali a Baghdad.",
+  "z0a8b361a": "El País mette a fuoco le misure sociali ed economiche del piano presentato dal partito del premier Sánchez.",
+  "z6edc908d": "El País evidenzia la determinazione del leader dell'opposizione di presidiare il territorio basco dopo le violenze.",
+  "z49a0c1a1": "Diari d'Andorra riporta la fermezza dell'associazione nel mantenere la mobilitazione di protesta al confine.",
+  "z9cf773a7": "Diari d'Andorra valorizza l'intervento diplomatico del capo di governo a sostegno della cooperazione internazionale.",
+  "z707e8d79": "Mosaïque Guinée segue l'evento sottolineando le prospettive di partenariato economico offerte ai gruppi minerari internazionali.",
+  "za288a227": "BBC News mette a fuoco l'appello diretto del leader ucraino verso Washington e il proprietario della rete satellitare.",
+  "z3486f4c1": "Deutsche Welle pone in risalto la reputazione di stabilità istituzionale e trasparenza elettorale dell'arcipelago atlantico.",
+  "z925422b8": "Al Jazeera dà voce alla denuncia del sacerdote palestinese evidenziando il presunto motivo discriminatorio del rifiuto consolare.",
+  "zf24bd546": "Al Jazeera sottolinea i movimenti tattici delle forze lealiste yemenite lungo lo snodo strategico marittimo.",
+  "z30ee5f2d": "Al Jazeera evidenzia la vulnerabilità politica somala e la richiesta di cooperazione militare ed economica internazionale.",
+  "z72e45ba0": "RTÉ News dà spazio alla rivendicazione storica del comitato nordirlandese sulle spoglie dell'eroe nazionale.",
+  "z4a8832c3": "LRT illustra le riserve istituzionali della garante verso un quesito referendario ritenuto divisivo.",
+  "z8c419857": "LRT approfondisce la dimensione artistica e psicologica con cui l'autrice racconta la realtà palestinese.",
+  "z314cb876": "LRT riporta i dettagli della scoperta archeologica nel delta del Nilo effettuata grazie al telerilevamento satellitare.",
+  "z18114e01": "CBC News pone l'accento sull'impegno finanziario canadese a sostegno del fondo multinazionale sulle foreste.",
+  "za5d6b073": "RNZ racconta il ripristino in volo del velivolo storico rimasto tra gli ultimissimi esemplari al mondo.",
+  "z513c5ecd": "La testata neozelandese evidenzia gli allarmi meteorologici e i potenziali impatti del ciclone sulle isole del Pacifico.",
+  "zf12a40b5": "L'emittente neozelandese approfondisce le contromisure didattiche adottate dalle università contro l'uso improprio dell'AI.",
+  "z2957fc17": "L'emittente del Pacifico dà voce all'allarme climatico espresso dai leader delle nazioni insulari più vulnerabili.",
+  "z4410a968": "L'agenzia moldava pone l'accento sui controlli di polizia e sui tentativi di frode durante il voto in Gagauzia.",
+  "z86bf7214": "L'agenzia di Chișinău si concentra sul monitoraggio civico indipendente e sulle criticità riscontrate ai seggi.",
+  "z97a5ddf2": "La testata vaticana sottolinea il messaggio pastorale e spirituale del Papa rivolto a chi affronta la sofferenza.",
+  "zc1174b0d": "Il mezzo di informazione vaticano mette a fuoco la dimensione missionaria e biografica del discorso papale.",
+  "z8b740fc7": "La testata vaticana valorizza il legame tra tradizione comunitaria andina e trasmissione della fede cattolica.",
+  "zc9882af4": "La redazione vaticana riporta i passaggi salienti dell'incontro del pontefice con il clero e la comunità peruviana.",
+  "z5ef7730d": "L'emittente figiana illustra l'adeguamento normativo promosso dall'esecutivo per modernizzare i controlli alimentari.",
+  "z63c89a3d": "La testata figiana evidenzia la cooperazione bilaterale con Wellington per lo sviluppo delle pari opportunità.",
+  "za23ada3a": "Il giornale ucraino punta l'attenzione sui tentativi di destabilizzazione russa nei rapporti tra Kiev e Varsavia.",
+  "z60b6e640": "Il quotidiano nigeriano richiama l'allarme internazionale dell'OMS sui crescenti pericoli legati all'antibiotico-resistenza.",
+  "z3c19166b": "La testata nigeriana riporta i primi assetti organizzativi interni del partito in vista delle consultazioni future.",
+  "z5e8365a5": "Il quotidiano nigeriano riporta le raccomandazioni degli analisti per trasformare le ricchezze minerarie africane in sviluppo duraturo.",
+  "zfd6f3e22": "La testata online approfondisce con tono brillante le conseguenze inattese dell'intelligenza artificiale generativa negli hobby manuali.",
+  "z2de154df": "Analisi allarmata sui rischi istituzionali e sulla tenuta democratica in Sudafrica.",
+  "z340b0a04": "Attenzione alle rimostranze civiche locali e alla tutela del territorio costiero.",
+  "z67ef2da0": "Focalizzazione sulle vulnerabilità economiche e infrastrutturali del mercato sudafricano.",
+  "zb044569b": "Monitoraggio critico dei salvataggi societari e delle implicazioni giudiziarie in Sudafrica.",
+  "z81e75413": "Rilievo dato alle nuove iniziative internazionali di esplorazione e ricerca nella regione centroasiatica.",
+  "z9d0ec548": "Cronaca delle crescenti tensioni interne ai partiti di governo romeni.",
+  "z040cc6cf": "Dati ufficiali sui risultati accademici e sulla formazione medica nel Paese.",
+  "ze33671a5": "Approfondimento sulle competenze e sui limiti dei nuovi corpi di vigilanza urbana nella capitale romena.",
+  "z539d46fb": "Rilievo strategico sul posizionamento delle forze statunitensi a tutela della sicurezza europea.",
+  "zf989d01c": "Attenzione all'urbanistica e alla vigilanza sui progetti costieri in Montenegro.",
+  "zac7184a8": "Denuncia sulla gestione dei fondi pubblici e sulla qualità delle infrastrutture montane.",
+  "z5f55cc14": "Focus sui diritti civili, la coesione sociale e il contrasto all'odio nel Paese balcanico.",
+  "z6d133315": "Vigilanza sulla trasparenza amministrativa e sull'impiego del denaro pubblico in Montenegro.",
+  "zfea37061": "Valorizzazione dei progressi sanitari e del ruolo dei professionisti caraibici all'estero.",
+  "zd8ec289a": "Analisi delle complesse dinamiche politiche e delle negoziazioni parlamentari israeliane."
  },
  "contesti": {
   "z901de22f": "Nelle ultime settimane i Paesi dell'area baltica e della NATO hanno intensificato le misure di vigilanza contro presunte operazioni di disturbo e sabotaggio attribuite ai servizi segreti di Mosca. L'episodio di Viimsi rappresenta una delle azioni più dirette contro stabilimenti legati alla difesa, spingendo le istituzioni estoni a innalzare i livelli di sicurezza e a riconsiderare i transiti frontalieri.",
@@ -2710,7 +4140,9 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z0b23417b": "Nelle scorse settimane le candidature per l'edizione 2026 avevano acceso un ampio dibattito tra gli appassionati di musica per via di esclusioni eccellenti e annunci di boicottaggio. In particolare, i fratelli Gallagher avevano ribadito pubblicamente il disinteresse degli Oasis per il premio, mentre si attendeva con curiosità la partecipazione di Phil Collins dopo i problemi di salute degli ultimi anni.",
   "z311b4fcf": "Nelle ultime settimane la rotta migratoria atlantica verso le Canarie ha registrato una forte ripresa di partenze dalle coste dell'Africa occidentale. L'instabilità politica nel Sahel e le dure condizioni socioeconomiche in Senegal e Guinea hanno spinto migliaia di persone a imbarcarsi. Parallelamente, l'enclave spagnola di Ceuta ha subito crescenti tentativi di ingresso, aumentando la pressione su Madrid e spingendo le autorità locali a denunciare il sovraffollamento dei centri.",
   "zb6d75b77": "Nelle settimane precedenti all'apertura dell'annuale kermesse di Fratelli d'Italia, i vertici del partito di maggioranza hanno inviato gli inviti ai principali leader delle opposizioni. Il dibattito interno al fronte progressista ha riacceso le divisioni tattiche tra le varie forze: mentre il Partito Democratico ha scelto di disertare l'evento, il Movimento 5 Stelle e Italia Viva hanno optato per confrontarsi sul palco romano.",
-  "zd16422e0": "Negli ultimi mesi la Invictus Games Foundation ha intensificato le iniziative a sostegno del personale militare ucraino rimasto ferito al fronte. Il principe Harry, fondatore dei giochi, ha mantenuto un dialogo continuo con Kiev fin dall'inizio dell'invasione russa. Con l'avvicinarsi delle selezioni per le prossime edizioni, la fondazione ha rafforzato i progetti di riabilitazione psicofisica attraverso lo sport adattato."
+  "zd16422e0": "Negli ultimi mesi la Invictus Games Foundation ha intensificato le iniziative a sostegno del personale militare ucraino rimasto ferito al fronte. Il principe Harry, fondatore dei giochi, ha mantenuto un dialogo continuo con Kiev fin dall'inizio dell'invasione russa. Con l'avvicinarsi delle selezioni per le prossime edizioni, la fondazione ha rafforzato i progetti di riabilitazione psicofisica attraverso lo sport adattato.",
+  "zf24bd546": "Negli ultimi mesi il conflitto yemenita ha registrato forti tensioni lungo la costa meridionale e attorno alla capitale provvisoria Aden. L'aumento della pressione militare dei ribelli Houthi sulle rotte marittime e le persistenti frizioni interne tra le fazioni lealiste e il Consiglio di Transizione del Sud hanno spinto i vertici militari a rivedere gli assetti. Per consolidare il perimetro difensivo di Aden, è scattato il riposizionamento delle truppe.",
+  "zfbb8a918": "Il viaggio apostolico in America Latina ha visto il pontefice impegnato in un fitto calendario di celebrazioni e incontri istituzionali, seguito con apprensione dall'équipe medica. Circa un mese prima della partenza, il Papa aveva subito una delicata operazione per l'asportazione parziale di un polmone a causa di un tumore. La risalita sulle Ande a Cusco ha rappresentato il momento più critico e impegnativo dell'intero itinerario."
  },
  "cronologie": {
   "z901de22f": [
@@ -2787,6 +4219,34 @@ window.EDIZIONI["2026-11-15-sera"] = {
    [
     "Vigilia della visita",
     "Pianificazione logistica riservata per la presenza di Harry alle selezioni ucraine"
+   ]
+  ],
+  "zf24bd546": [
+   [
+    "Settimane scorse",
+    "Crescenti timori per la sicurezza e la tenuta difensiva della capitale provvisoria Aden"
+   ],
+   [
+    "Giorni scorsi",
+    "Valutazione dello stato maggiore governativo sulle priorità strategiche e costiere"
+   ],
+   [
+    "Vigilia del ritiro",
+    "Avvio delle manovre di sgombero delle postazioni di Dhubab e ripiegamento dei reparti"
+   ]
+  ],
+  "zfbb8a918": [
+   [
+    "Un mese fa",
+    "Intervento chirurgico al polmone con asportazione parziale dell'organo per un tumore"
+   ],
+   [
+    "Inizio settimana",
+    "Avvio delle tappe del viaggio pastorale in Sudamerica a quote ordinarie"
+   ],
+   [
+    "Vigilia della tappa",
+    "Via libera dello staff medico per la salita agli oltre 3.400 metri di altitudine a Cusco"
    ]
   ]
  },
@@ -2870,6 +4330,79 @@ window.EDIZIONI["2026-11-15-sera"] = {
     }
    ],
    "divergono": "The Punch non presenta il corpo della notizia, limitandosi alla biografia del reporter. Nei numeri si riscontrano divergenze: RTÉ News e NZ Herald contano 1.460 cancellazioni mattutine, The Straits Times ne riporta oltre 1.600 su 5.200 voli impattati, mentre AKIpress quantifica oltre 6.400 cancellazioni il sabato e 9.200 il venerdì. L'angolo politico oppone RTÉ News e NZ Herald, che mettono in primo piano l'attacco di Trump a Biden, ad AKIpress e The Straits Times, che privilegiano la spiegazione tecnica del malfunzionamento dei router installati da L3Harris, dando spazio anche al sindacato PASS."
+  },
+  "z311b4fcf": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Articolo non accessibile: il giudizio è parziale ed è limitato a titolo e occhiello. La testata riporta in modo neutro l'arrivo di quasi 1.500 migranti nelle Canarie in un solo giorno, senza fornire ulteriori dettagli, fonti o attribuzioni di responsabilità.",
+     "b": "t"
+    },
+    {
+     "n": "Deutsche Welle",
+     "c": "Bonn",
+     "p": "DE",
+     "t": "Con tono informativo, riporta quasi 1.600 arrivi sabato citando l'agenzia EFE e il soccorso marittimo. Sottolinea la visita del ministro Torres Pérez a El Hierro, il calo generale del 5,5% nel 2024 e le critiche politiche al premier Sánchez in vista del voto.",
+     "b": "a"
+    },
+    {
+     "n": "ORF",
+     "c": "Vienna",
+     "p": "XX",
+     "t": "Riferisce, citando la tv pubblica RTVE e il soccorso marittimo, l'arrivo di oltre 1.500 persone, definendolo un «triste record». Evidenzia la presenza di almeno 120 minori, la provenienza dall'Africa occidentale e il confronto con il precedente primato del novembre 2020.",
+     "b": "a"
+    },
+    {
+     "n": "NZZ",
+     "c": "Zurigo",
+     "p": "XX",
+     "t": "A partire dal titolo sui 1.500 arrivi alle Canarie, il testo offre una panoramica più ampia sulla crisi migratoria europea, citando Grecia, Germania e Ungheria. Si interroga se l'Africa stia diventando un deposito per respinti e se incomba una nuova ondata.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le cifre e il contesto presentano differenze marcate. Deutsche Welle quantifica gli sbarchi di sabato in circa 1.600 persone e oltre 2.300 nel fine settimana, citando l'agenzia EFE, e inserisce il fatto nelle tensioni politiche interne spagnole. ORF riporta invece la cifra di oltre 1.500 citando RTVE, segnala almeno 120 minori e rievoca il record del 2020, omettendo la politica nazionale. NZZ inserisce la notizia in un quadro generale sulle politiche d'asilo europee, mentre Al Jazeera si limita al dato numerico essenziale nel titolo."
+  },
+  "zfbb8a918": {
+   "voci": [
+    {
+     "n": "CNA",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "Con tono descrittivo e neutro, racconta la visita di papa Leone XIV a Cusco a oltre 3.400 metri dopo l'operazione al polmone. Cita fedeli locali, descrive la tappa andina come la prova più dura e anticipa l'impegno in Amazzonia contro la deforestazione.",
+     "b": "a"
+    },
+    {
+     "n": "South China Morning Post",
+     "c": "Hong Kong",
+     "p": "XX",
+     "t": "Articolo non accessibile: il giudizio è parziale e basato solo su titolo e occhiello. La testata riferisce in modo fattuale della visita del Papa a oltre 3.400 metri a Cusco come prova impegnativa dopo l'operazione per un tumore al polmone.",
+     "b": "t"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "Riprendendo un dispaccio di agenzia con tono informativo, documenta la tappa andina del pontefice a 3.400 metri d'altitudine. Riporta le testimonianze dei fedeli, il passato missionario del Papa in Perù e la successiva visita nella regione amazzonica colpita dal disboscamento illegale.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Articolo non accessibile: il giudizio è parziale ed è limitato a titolo e occhiello. Pone al centro la folla di 500mila persone a Cusco, la quota di 3.339 metri e le parole del Papa sulle tradizioni popolari come «tesoro inestimabile».",
+     "b": "t"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Articolo non accessibile: la valutazione è parziale e vincolata a titolo e occhiello. Evidenzia la partecipazione di 500mila fedeli a Cusco, la quota altimetrica di 3.339 metri, il volo in Amazzonia e la valorizzazione papale delle tradizioni popolari.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Emergono alcune discrepanze sulle cifre e sulla narrazione. la Repubblica e la Repubblica – Esteri indicano un'altitudine di 3.339 metri e stimano la folla in 500mila fedeli, citando la frase sulle tradizioni come «tesoro inestimabile». Al contrario, CNA e The Straits Times collocano Cusco a oltre 3.400 metri, parlano genericamente di centinaia di migliaia di presenti e collegano la sosta al successivo viaggio in Amazzonia contro la deforestazione. South China Morning Post si limita invece alla sintesi iniziale sull'altitudine e la salute del pontefice."
   }
  },
  "luoghi": {
@@ -3474,6 +5007,357 @@ window.EDIZIONI["2026-11-15-sera"] = {
     "Canada"
    ],
    "pt": []
+  },
+  "zf35bf31c": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
+  },
+  "zf483d623": {
+   "n": "Indore",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zbf0afce3": {
+   "n": "Berlino",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z031532aa": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "z0a8b361a": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z6edc908d": {
+   "n": "Hernani",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z49a0c1a1": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z9cf773a7": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "z707e8d79": {
+   "n": "Isola di Kassa",
+   "p": [
+    "Guinea"
+   ],
+   "pt": []
+  },
+  "za288a227": {
+   "n": "Kiev",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z3486f4c1": {
+   "n": "Praia",
+   "p": [],
+   "pt": []
+  },
+  "z925422b8": {
+   "n": "Betlemme",
+   "p": [],
+   "pt": []
+  },
+  "zf24bd546": {
+   "n": "Stretto di Bab el-Mandeb",
+   "p": [
+    "Yemen"
+   ],
+   "pt": []
+  },
+  "z30ee5f2d": {
+   "n": "Mogadiscio",
+   "p": [
+    "Somalia"
+   ],
+   "pt": []
+  },
+  "z72e45ba0": {
+   "n": "Belfast",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z4a8832c3": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z8c419857": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z314cb876": {
+   "n": "Delta del Nilo",
+   "p": [
+    "Egypt"
+   ],
+   "pt": []
+  },
+  "z18114e01": {
+   "n": "Ottawa",
+   "p": [
+    "Canada"
+   ],
+   "pt": []
+  },
+  "za5d6b073": {
+   "n": "Nelson",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z513c5ecd": {
+   "n": "Isole Cook settentrionali",
+   "p": [
+    "Cook Is."
+   ],
+   "pt": []
+  },
+  "zf12a40b5": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z2957fc17": {
+   "n": "Majuro",
+   "p": [
+    "Marshall Is."
+   ],
+   "pt": []
+  },
+  "z4410a968": {
+   "n": "Comrat",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z86bf7214": {
+   "n": "Comrat",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z97a5ddf2": {
+   "n": "Cusco",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "zc1174b0d": {
+   "n": "Zaña",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z8b740fc7": {
+   "n": "Cusco",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "zc9882af4": {
+   "n": "Cusco",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z5ef7730d": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "z63c89a3d": {
+   "n": "Suva",
+   "p": [
+    "Fiji"
+   ],
+   "pt": []
+  },
+  "za23ada3a": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z60b6e640": {
+   "n": "Ginevra",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "z3c19166b": {
+   "n": "Gusau",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "z5e8365a5": {
+   "n": "Abuja",
+   "p": [
+    "Nigeria"
+   ],
+   "pt": []
+  },
+  "zfd6f3e22": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z2de154df": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z340b0a04": {
+   "n": "St James",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z67ef2da0": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "zb044569b": {
+   "n": "Sudafrica",
+   "p": [
+    "South Africa"
+   ],
+   "pt": []
+  },
+  "z81e75413": {
+   "n": "Kazakistan",
+   "p": [
+    "Kazakhstan",
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z9d0ec548": {
+   "n": "Buzău",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z040cc6cf": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "ze33671a5": {
+   "n": "Bucarest",
+   "p": [
+    "Romania"
+   ],
+   "pt": []
+  },
+  "z539d46fb": {
+   "n": "Europa",
+   "p": [
+    "United States of America",
+    "Romania"
+   ],
+   "pt": []
+  },
+  "zf989d01c": {
+   "n": "Petrovac",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "zac7184a8": {
+   "n": "Tepca",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z5f55cc14": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "z6d133315": {
+   "n": "Podgorica",
+   "p": [
+    "Montenegro"
+   ],
+   "pt": []
+  },
+  "zfea37061": {
+   "n": "Africa",
+   "p": [],
+   "pt": []
+  },
+  "zd8ec289a": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3562,7 +5446,58 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z6c163088": 1,
   "z3e031877": 1,
   "zd595a9fd": 2,
-  "z92d6aa9e": 2
+  "z92d6aa9e": 2,
+  "zf35bf31c": 1,
+  "zf483d623": 1,
+  "zbf0afce3": 1,
+  "z031532aa": 1,
+  "z0a8b361a": 1,
+  "z6edc908d": 1,
+  "z49a0c1a1": 1,
+  "z9cf773a7": 1,
+  "z707e8d79": 1,
+  "za288a227": 1,
+  "z3486f4c1": 1,
+  "z925422b8": 1,
+  "zf24bd546": 2,
+  "z30ee5f2d": 1,
+  "z72e45ba0": 1,
+  "z4a8832c3": 1,
+  "z8c419857": 1,
+  "z314cb876": 1,
+  "z18114e01": 1,
+  "za5d6b073": 1,
+  "z513c5ecd": 1,
+  "zf12a40b5": 1,
+  "z2957fc17": 1,
+  "z4410a968": 1,
+  "z86bf7214": 1,
+  "z97a5ddf2": 1,
+  "zc1174b0d": 1,
+  "z8b740fc7": 1,
+  "zc9882af4": 1,
+  "z5ef7730d": 1,
+  "z63c89a3d": 1,
+  "za23ada3a": 1,
+  "z60b6e640": 1,
+  "z3c19166b": 1,
+  "z5e8365a5": 1,
+  "zfd6f3e22": 1,
+  "z2de154df": 1,
+  "z340b0a04": 1,
+  "z67ef2da0": 1,
+  "zb044569b": 1,
+  "z81e75413": 1,
+  "z9d0ec548": 1,
+  "z040cc6cf": 1,
+  "ze33671a5": 1,
+  "z539d46fb": 1,
+  "zf989d01c": 1,
+  "zac7184a8": 1,
+  "z5f55cc14": 1,
+  "z6d133315": 1,
+  "zfea37061": 1,
+  "zd8ec289a": 1
  },
  "video": {},
  "pillole": []
