@@ -3,8 +3,104 @@ window.EDIZIONI["2026-11-15-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "ze217b7ae",
+   "sez": "cultura",
+   "titolo": "Uno studio di design recupera lo stile dell'architettura Tang in un caffè cinese",
+   "orig": "Tant A Temps Design \"restores the visual characteristics of Tang architecture\" in Chinese cafe",
+   "lead": "Lo studio Tant A Temps Design ha progettato gli interni del caffè Laibei 1087, ospitato in un edificio storico di Xi'an, in Cina, con l'obiettivo di richiamare l'estetica della dinastia Tang. Secondo Dezeen, il progetto punta a restituire le caratteristiche visive dell'architettura di quel periodo storico attraverso l'arredamento e la disposizione degli spazi interni del locale. Lo riferisce Dezeen.",
+   "more": [
+    "La dinastia Tang, che governò la Cina tra il VII e il X secolo, è considerata una delle epoche di maggiore splendore culturale e architettonico del paese, con edifici caratterizzati da ampie strutture in legno, tetti curvi e decorazioni elaborate. Progetti contemporanei che si ispirano a questo stile cercano spesso di coniugare tradizione e funzionalità moderna."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/11/15/tant-a-temps-design-tang-architecture-cafe-laibei-1087-china/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T18:00+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:44",
+   "uscita": "sera"
+  },
+  {
+   "id": "z560f4ca4",
+   "sez": "cucina",
+   "titolo": "Bobo Cerea cucina con la brigata di PizzAut per una cena di raccolta fondi",
+   "orig": "Bobo Cerea da PizzAut: una cena per costruire altro lavoro, insieme",
+   "lead": "Lo chef Bobo Cerea del ristorante Da Vittorio cucinerà il 1° dicembre a Monza insieme alla brigata di PizzAut, l'iniziativa che impiega ragazzi autistici in pizzerie. Secondo La Cucina Italiana, il ricavato della cena servirà a sostenere l'apertura di un nuovo locale PizzAut presso l'università IULM e la creazione di 20 nuovi posti di lavoro per persone autistiche. L'evento punta a costruire opportunità lavorative attraverso la collaborazione tra chef professionisti e la brigata del progetto sociale. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "PizzAut è un progetto italiano che gestisce pizzerie dove lavorano giovani con autismo, offrendo loro formazione e inserimento professionale in un ambiente di lavoro reale. L'iniziativa, nata in Lombardia, si è espansa negli anni grazie a raccolte fondi e collaborazioni con chef e ristoratori noti."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/bobo-cerea-da-pizzaut-1-dicembre-2026-cena-raccolta-fondi-come-partecipare/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-15T17:33+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:44",
+   "uscita": "sera"
+  },
+  {
+   "id": "zc7846548",
+   "sez": "manga",
+   "titolo": "Guida all'ordine di visione e agli arc di Mushoku Tensei: Jobless Reincarnation",
+   "orig": "Mushoku Tensei: Jobless Reincarnation Watch Order and Arc Guide",
+   "lead": "Crunchyroll News ha pubblicato una guida dedicata alla serie anime Mushoku Tensei: Jobless Reincarnation, con l'ordine di visione consigliato e una panoramica degli archi narrativi che compongono la storia del protagonista Rudeus Greyrat. La guida intende aiutare gli spettatori a seguire correttamente lo sviluppo della trama attraverso le diverse stagioni e opere collegate alla serie. Lo riferisce Crunchyroll News.",
+   "more": [
+    "Mushoku Tensei: Jobless Reincarnation è una serie anime basata su una light novel giapponese, diventata popolare per aver contribuito a rilanciare il genere delle reincarnazioni in un altro mondo (isekai). La trama segue un uomo giapponese che, dopo la morte, rinasce in un mondo fantasy con i ricordi della vita precedente."
+   ],
+   "fonti": [
+    {
+     "n": "Crunchyroll News",
+     "p": "US",
+     "c": "San Francisco",
+     "u": "https://crunchyroll.com/news/guides/2026/11/15/mushoku-tensei-jobless-reincarnation-watch-order",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-15T17:00+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:44",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1fee02c9",
+   "sez": "cultura",
+   "titolo": "La collezione di oggetti per la casa a tema Disney di Gustaf Westman è disponibile online",
+   "orig": "Gustaf Westman’s brilliantly bonkers Disney homeware is now available online",
+   "lead": "Il designer Gustaf Westman ha lanciato online una collezione di oggetti per la casa a tema Disney, che comprende articoli come carrelli bar e portachiavi. Secondo Wallpaper*, Westman ha costruito attraverso questi prodotti un mondo surreale e cartoonesco, spiegando personalmente come ha dato vita a questa estetica. La collezione unisce lo stile distintivo del designer con i personaggi e l'immaginario Disney in oggetti di uso quotidiano. Lo riferisce Wallpaper*.",
+   "more": [
+    "Gustaf Westman è un designer noto per uno stile colorato e giocoso, caratterizzato da forme arrotondate e superfici lucide, applicato a mobili e complementi d'arredo. Le collaborazioni tra designer indipendenti e grandi marchi d'intrattenimento come Disney permettono di portare estetiche sperimentali a un pubblico più ampio attraverso prodotti commerciali."
+   ],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/design-interiors/gustaf-westman-disney-collection-interview",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T17:10+00:00"
+    }
+   ],
+   "data": "15 nov",
+   "ora": "20:44",
+   "uscita": "sera"
+  },
+  {
    "id": "zf35bf31c",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Capo Verde al voto per le presidenziali: affluenza in aumento nel pomeriggio",
    "orig": "18h Presidenciais em Cabo Verde, a afluência de manhã foi fraca mas à tarde votaram mais eleitores",
    "lead": "In Capo Verde si sono svolte le elezioni presidenziali per scegliere il nuovo capo di Stato tra sei candidati, con un'affluenza in crescita nel pomeriggio rispetto al mattino. Il presidente uscente José Maria Neves e lo sfidante Casimiro de Pina hanno espresso fiducia e invitato i cittadini alla partecipazione.",
@@ -63,6 +159,60 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-15T16:47+00:00"
+    },
+    {
+     "n": "RTP",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.rtp.pt/noticias/noticiario-antena1/10h-cabo-verde-escolhe-presidente_a1_1779294",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-15T10:42+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/11/15/presidenciais-2026-cabo-verde-elege-este-domingo-15-de-novembro-o-sexto-presidente-da-republica/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-15T01:01+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/11/14/da-analise-politica-a-reforma-do-estado-de-cabo-verde-e-o-papel-do-pecado-original/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-14T01:15+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/11/14/direito-de-propriedade-como-direito-fundamental-e-a-crise-da-habitacao-em-cabo-verde-das-garantias-constitucionais-a-reforma-do-cadastro-predial/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-14T01:15+00:00"
+    },
+    {
+     "n": "A Nação",
+     "p": "XX",
+     "c": "Praia",
+     "u": "https://www.anacao.cv/noticia/2026/11/13/qualificacao-can-2027-cabo-verde-vence-liberia-por-4-2-actualizado1/",
+     "angolo": "",
+     "atlas": "Cabo Verde",
+     "t": "2026-11-13T18:58+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-15T10:03+00:00"
     }
    ],
    "data": "15 nov",
@@ -265,37 +415,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z9cf773a7",
-   "sez": "mondo",
-   "titolo": "Vertice della Francofonia: il premier andorrano Espot promuove dialogo e multilateralismo",
-   "orig": "Espot reivindica el diàleg i la prevenció per consolidar la pau a la Cimera de la Francofonia",
-   "lead": "Al vertice dell'Organizzazione internazionale della Francofonia, il capo di governo andorrano Xavier Espot ha rivendicato il ruolo centrale dell'educazione e del multilateralismo per prevenire i conflitti internazionali e costruire una pace durevole. A margine dell'evento, Espot ha incontrato il primo ministro del Québec per rafforzare la cooperazione economica e culturale.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Diari d'Andorra",
-     "p": "XX",
-     "c": "Andorra la Vella",
-     "u": "https://www.diariandorra.ad/nacional/261115/espot-reivindica-dialeg-i-prevencio-per-consolidar-pau-phnom-penh_208827.html",
-     "angolo": "",
-     "atlas": "Andorra",
-     "t": "2026-11-15T12:58+01:00"
-    },
-    {
-     "n": "Bondia",
-     "p": "XX",
-     "c": "Andorra la Vella",
-     "u": "https://www.bondia.ad/politica/espot-defensa-a-la-francofonia-el-dialeg-i-compromis-per-la-pau",
-     "angolo": "",
-     "atlas": "Andorra",
-     "t": "2026-11-15T17:44+01:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "20:23",
-   "uscita": "sera"
-  },
-  {
    "id": "z707e8d79",
    "sez": "economia",
    "titolo": "Guinea: investimenti e diversificazione al Simandou Mining Summit",
@@ -336,28 +455,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "za288a227",
-   "sez": "mondo",
-   "titolo": "Ucraina: Zelensky esorta gli Stati Uniti e Musk a revocare i limiti a Starlink",
-   "orig": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "lead": "Il presidente ucraino Volodymyr Zelensky ha invitato gli Stati Uniti ed Elon Musk a rimuovere le restrizioni all'utilizzo della rete satellitare Starlink, chiedendo di stare dalla parte giusta della storia. Secondo il leader di Kiev, i vincoli operativi ancora in vigore ostacolano le difese contro gli attacchi russi. Lo riferisce BBC News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-15T18:08+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "20:23",
-   "uscita": "sera"
-  },
-  {
    "id": "z925422b8",
    "sez": "mondo",
    "titolo": "Sacerdote cristiano di Betlemme denuncia: visto per gli Usa negato per le origini",
@@ -381,7 +478,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
   },
   {
    "id": "zf24bd546",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Yemen: le forze governative si ridispiegano da Bab al-Mandeb per difendere Aden",
    "orig": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
    "lead": "Le forze armate governative yemenite hanno iniziato a ritirarsi dall'aeroporto di Dhubab e dalle postazioni strategiche intorno allo stretto di Bab al-Mandeb per ridisporsi a protezione della città meridionale di Aden. Il portavoce militare ha confermato il riposizionamento dei reparti nell'ambito della riorganizzazione delle linee difensive. Lo riferisce Al Jazeera.",
@@ -408,9 +505,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "data": "15 nov",
    "ora": "20:23",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z30ee5f2d",
@@ -1025,28 +1120,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z9d0ec548",
-   "sez": "mondo",
-   "titolo": "Romania: il sindaco di Buzău accusa il ministro dei fondi europei di attacco politico interno",
-   "orig": "Primarul Buzăului îl acuză pe ministrul fondurilor europene, colegul său de partid, că „a venit să execute un atac politic”",
-   "lead": "In Romania, il sindaco socialdemocratico di Buzău Constantin Toma ha accusato il ministro dei fondi europei Mihai Ghigiu, compagno di partito nel PSD, di essersi recato nella città per compiere un attacco politico su mandato dei vertici della formazione. Lo riferisce HotNews.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "HotNews",
-     "p": "XX",
-     "c": "Bucarest",
-     "u": "https://hotnews.ro/primarul-buzaului-il-acuza-pe-ministrul-fondurilor-europene-colegul-sau-de-partid-ca-a-venit-sa-execute-un-atac-politic-2405069",
-     "angolo": "",
-     "atlas": "Romania",
-     "t": "2026-11-15T18:17+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "20:23",
-   "uscita": "sera"
-  },
-  {
    "id": "z040cc6cf",
    "sez": "mondo",
    "titolo": "Romania: pubblicati i punteggi record dell'esame per la specializzazione medica",
@@ -1379,6 +1452,33 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Armenia",
      "t": "2026-11-15T20:44+04:00"
+    },
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610196794/estonia-prepares-to-close-border-with-russia-after-gru-linked-sabotage-attacks",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-15T16:08+02:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/estonia-foils-russian-sabotage-at-drone-factory",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-15T23:01+08:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/11/15/estonian-drone-maker-targeted-by-gru-ordered-sabotage-attempt-pm-says",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-15T15:52+01:00"
     }
    ],
    "data": "15 nov",
@@ -1430,6 +1530,24 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Switzerland",
      "t": "2026-11-15T16:07+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-15T15:16+00:00"
+    },
+    {
+     "n": "Euronews",
+     "p": "XX",
+     "c": "Lione",
+     "u": "https://www.euronews.com/2026/11/15/record-immigration-day-in-el-hierro-as-1488-arrive-in-canary-islands",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-15T14:38+01:00"
     }
    ],
    "data": "15 nov",
@@ -1745,7 +1863,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
   },
   {
    "id": "zb6d75b77",
-   "sez": "prima",
+   "sez": "italia",
    "titolo": "Atreju, Conte accetta l'invito di Fratelli d'Italia mentre Schlein rifiuta",
    "orig": "Atreju: Conte va alla festa di FdI, Schlein no",
    "lead": "Il leader del Movimento 5 Stelle Giuseppe Conte ha confermato la propria presenza ad Atreju, la tradizionale festa organizzata da Fratelli d'Italia, spiegando di voler intervenire per contestare pubblicamente l'operato dell'esecutivo Meloni negli ultimi quattro anni. Al contrario, la segretaria del Partito Democratico Elly Schlein ha respinto l'invito, ribadendo che il confronto tra maggioranza e opposizione deve svolgersi all'interno delle aule parlamentari. Decisione negativa anche da Fratoianni e Bonelli, mentre Matteo Renzi parteciperà al dibattito politico romano.",
@@ -1774,9 +1892,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "data": "15 nov",
    "ora": "20:08",
-   "uscita": "sera",
-   "sez_prima": "italia",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "z8dadc199",
@@ -2609,30 +2725,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z22e59be6",
-   "sez": "dibattito",
-   "titolo": "Regno Unito: lavoro garantito per i giovani disoccupati da oltre un anno",
-   "orig": "Young Britons out of work or training for a year to be guaranteed jobs",
-   "lead": "Nel Regno Unito il ministro del Lavoro e delle Pensioni ha presentato un piano per contrastare la dispersione professionale della cosiddetta generazione perduta, introducendo una garanzia occupazionale per i giovani che risultano senza impiego o fuori dai percorsi di formazione da almeno un anno. Il provvedimento interviene prima di un riordino generale dei sostegni alla disoccupazione, con l'obiettivo di reinserire i giovani nel mercato del lavoro e prevenire l'inattività prolungata. Il piano punta a ridurre la dipendenza dai sussidi attraverso percorsi diretti verso l'occupazione. Lo riferisce Financial Times.",
-   "more": [
-    "La disoccupazione giovanile di lunga durata è considerata un rischio sociale ed economico rilevante nei Paesi occidentali, poiché riduce lo sviluppo di competenze e pesa sui bilanci pubblici del welfare. I programmi di garanzia lavorativa cercano di offrire occupazione o tirocini retribuiti combinando incentivi statali e collaborazioni aziendali."
-   ],
-   "fonti": [
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/7fa20d99-0085-445d-95c9-b2cfe80cd8e1?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-15T18:52+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "20:08",
-   "uscita": "sera"
-  },
-  {
    "id": "za036a279",
    "sez": "cultura",
    "titolo": "Jeremy Irons premiato a Lecce: riflessioni sulla carriera e sui tempi difficili",
@@ -3225,29 +3317,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "uscita": "sera"
   },
   {
-   "id": "z9a9b2c4b",
-   "sez": "tech",
-   "titolo": "Le limitazioni al sistema satellitare Starshield favoriscono gli attacchi russi alle reti energetiche",
-   "orig": "Russia’s energy attacks helped by Starshield restrictions",
-   "lead": "Gli attacchi condotti dalla Russia contro le infrastrutture energetiche ucraine hanno tratto vantaggio dalle restrizioni applicate alla rete satellitare Starshield. La limitazione dell'uso dei sistemi di comunicazione satellitare per scopi operativi ha inciso sulle capacità difensive e di monitoraggio sul campo, favorendo indirettamente l'efficacia delle offensive aeree mirate contro le reti elettriche e le forniture di energia. La questione evidenzia il peso strategico delle tecnologie private nello scontro bellico in corso. Lo riferisce Taipei Times.",
-   "more": [
-    "Starshield rappresenta la versione militare e governativa della costellazione satellitare Starlink, sviluppata da SpaceX per fornire telecomunicazioni sicure, osservazione terrestre e supporto operativo ad agenzie statali. L'impiego della connettività satellitare commerciale in zone di guerra ha aperto complessi dilemmi sulle regole di ingaggio e sui limiti d'uso imposti dai fornitori privati."
-   ],
-   "fonti": [
-    {
-     "n": "Taipei Times",
-     "p": "XX",
-     "c": "Taipei",
-     "u": "https://www.taipeitimes.com/News/front/archives/2026/11/16/2003867807",
-     "angolo": "",
-     "atlas": "Taiwan"
-    }
-   ],
-   "data": "",
-   "ora": "20:08",
-   "uscita": "sera"
-  },
-  {
    "id": "zdaee8c0b",
    "sez": "economia",
    "titolo": "Sri Lanka, la realtà sociale contrasta con lo status di reddito medio-alto della Banca Mondiale",
@@ -3396,6 +3465,24 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "New Zealand",
      "t": "2026-11-15T17:33+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/7fa20d99-0085-445d-95c9-b2cfe80cd8e1?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T18:52+00:00"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T13:06+00:00"
     }
    ],
    "data": "15 nov",
@@ -3931,6 +4018,24 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Germany",
      "t": "2026-11-15T08:12+00:00"
+    },
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261115/espot-reivindica-dialeg-i-prevencio-per-consolidar-pau-phnom-penh_208827.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-15T12:58+01:00"
+    },
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/politica/espot-defensa-a-la-francofonia-el-dialeg-i-compromis-per-la-pau",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-15T17:44+01:00"
     }
    ],
    "data": "15 nov",
@@ -4040,50 +4145,8 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "zc2fe0254",
-   "sez": "mondo",
-   "titolo": "L'Estonia si prepara a chiudere il confine con la Russia dopo un sabotaggio attribuito al GRU",
-   "orig": "Estonia prepares to close border with Russia after GRU-linked sabotage attacks",
-   "lead": "Il primo ministro estone Kristen Michal ha chiesto di avviare le procedure necessarie per chiudere il confine orientale dell'Estonia con la Russia, dopo un tentativo di incendio avvenuto sabato in una fabbrica di drone, attribuito ai servizi segreti militari russi (GRU). Le forze di sicurezza hanno arrestato otto persone residenti in Lettonia. La chiusura del confine è prevista per dicembre, secondo il premier, per ridurre i rischi alla sicurezza nazionale.",
-   "more": [
-    "Negli ultimi anni diversi paesi baltici hanno denunciato episodi di sabotaggio e spionaggio attribuiti ai servizi di intelligence russi, in un contesto di crescenti tensioni con Mosca legate alla guerra in Ucraina e al sostegno occidentale a Kyiv."
-   ],
-   "fonti": [
-    {
-     "n": "ERR News",
-     "p": "XX",
-     "c": "Tallinn",
-     "u": "https://news.err.ee/1610196794/estonia-prepares-to-close-border-with-russia-after-gru-linked-sabotage-attacks",
-     "angolo": "",
-     "atlas": "Estonia",
-     "t": "2026-11-15T16:08+02:00"
-    },
-    {
-     "n": "The Straits Times",
-     "p": "XX",
-     "c": "Singapore",
-     "u": "https://www.straitstimes.com/world/europe/estonia-foils-russian-sabotage-at-drone-factory",
-     "angolo": "",
-     "atlas": "Singapore",
-     "t": "2026-11-15T23:01+08:00"
-    },
-    {
-     "n": "Euronews",
-     "p": "XX",
-     "c": "Lione",
-     "u": "https://www.euronews.com/2026/11/15/estonian-drone-maker-targeted-by-gru-ordered-sabotage-attempt-pm-says",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-11-15T15:52+01:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
    "id": "zfc0efa4d",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Zelensky: le restrizioni su Starshield favoriscono gli attacchi russi all'energia ucraina",
    "orig": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
    "lead": "Il presidente ucraino Volodymyr Zelensky ha affermato che le restrizioni di velocità imposte ai terminali Starshield lungo il fronte e nei territori occupati stanno facilitando gli attacchi russi con drone Shahed contro le sottostazioni elettriche ucraine. Starlink ha negato di aver limitato la velocità internet, mentre Elon Musk ha ipotizzato un possibile coinvolgimento del Pentagono nella decisione.",
@@ -4108,6 +4171,23 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Ukraine",
      "t": "2026-11-15T13:09+00:00"
+    },
+    {
+     "n": "Taipei Times",
+     "p": "XX",
+     "c": "Taipei",
+     "u": "https://www.taipeitimes.com/News/front/archives/2026/11/16/2003867807",
+     "angolo": "",
+     "atlas": "Taiwan"
+    },
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-15T18:08+00:00"
     }
    ],
    "data": "15 nov",
@@ -4795,30 +4875,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "ze5f643ec",
-   "sez": "dibattito",
-   "titolo": "Nel Regno Unito si discute un diritto legale al sostegno lavorativo per i giovani",
-   "orig": "Minister backs legal right to job support for young people",
-   "lead": "Il ministro britannico del Lavoro e delle Pensioni ha proposto di introdurre un diritto legale al sostegno nella ricerca di un lavoro per i giovani, sostenendo che il livello di aiuto attualmente offerto sia troppo vago. Secondo BBC News, la proposta punta a garantire regole più chiare e vincolanti per l'assistenza ai giovani che cercano un'occupazione. Lo riferisce BBC News.",
-   "more": [
-    "Nel Regno Unito, come in altri paesi europei, la disoccupazione giovanile resta un tema centrale delle politiche sociali. I programmi di sostegno all'occupazione per i giovani includono generalmente consulenza, formazione e incentivi alle aziende, ma la loro efficacia è spesso dibattuta per la mancanza di criteri uniformi e vincolanti."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-15T13:06+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
    "id": "zae1b73f2",
    "sez": "mondo",
    "titolo": "L'Iraq punta a disarmare le milizie con la repressione del contrabbando di petrolio",
@@ -5095,6 +5151,51 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Bahamas",
      "t": "2026-11-13T14:30-05:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/us/2026/1115/1599251-us-flight-chaos/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-15T03:37+00:00"
+    },
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/us-flight-disruptions-may-continue-until-monday-trump-administration/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria",
+     "t": "2026-11-15T19:05+00:00"
+    },
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/united-states/us-air-travel-disruptions-continue-into-third-day",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-16T00:49+08:00"
+    },
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/trump-warns-of-further-flight-problems-after-stop-order-and-blames-biden-for-mess/65FH53DVZFGCLC6GCGTK4TTDTM/",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-15T17:24+00:00"
+    },
+    {
+     "n": "AKIpress",
+     "p": "XX",
+     "c": "Bishkek",
+     "u": "https://akipress.com/news:931451",
+     "angolo": "",
+     "atlas": "Kyrgyzstan",
+     "t": "2026-11-15T18:49+06:00"
     }
    ],
    "data": "15 nov",
@@ -5344,7 +5445,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
   },
   {
    "id": "ze2e4da27",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "ASEAN offre ai leader birmani marginalizzati un percorso di reintegrazione, ma mantiene restrizioni",
    "orig": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
    "lead": "I leader del Sud-Est asiatico hanno concordato di impegnarsi con la Birmania a fasi successive dopo anni di esclusione dagli alti vertici. L'ASEAN ha tuttavia chiarito che il ritorno alla piena rappresentazione dipenderà dai progressi nel piano di pace per il paese.",
@@ -5607,6 +5708,15 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Namibia",
      "t": "2026-11-15T12:51+00:00"
+    },
+    {
+     "n": "HotNews",
+     "p": "XX",
+     "c": "Bucarest",
+     "u": "https://hotnews.ro/primarul-buzaului-il-acuza-pe-ministrul-fondurilor-europene-colegul-sau-de-partid-ca-a-venit-sa-execute-un-atac-politic-2405069",
+     "angolo": "",
+     "atlas": "Romania",
+     "t": "2026-11-15T18:17+00:00"
     }
    ],
    "data": "15 nov",
@@ -6090,39 +6200,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-15T15:06+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "17:06",
-   "uscita": "17"
-  },
-  {
-   "id": "z9e84bab5",
-   "sez": "mondo",
-   "titolo": "Record di migranti raggiungono le Isole Canarie spagnole",
-   "orig": "Record number of migrants arrive in Spain’s Canary Islands",
-   "lead": "Un numero record di migranti ha raggiunto le Isole Canarie della Spagna, nonostante i nuovi criteri dell'UE su migrazione e asilo. In un solo giorno hanno toccato terra a El Hierro 1.488 persone su 12 imbarcazioni, con arrivi anche a Gran Canaria e Tenerife. Lo riferisce Al Jazeera.",
-   "more": [
-    "Il flusso migratorio verso le Canarie continua a crescere intensamente, con gli ultimi numeri che indicano oltre 2.300 arrivi in quarantotto ore, spingendo le autorità locali a dichiarare lo stato di emergenza."
-   ],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-15T15:16+00:00"
-    },
-    {
-     "n": "Euronews",
-     "p": "XX",
-     "c": "Lione",
-     "u": "https://www.euronews.com/2026/11/15/record-immigration-day-in-el-hierro-as-1488-arrive-in-canary-islands",
-     "angolo": "",
-     "atlas": "",
-     "t": "2026-11-15T14:38+01:00"
     }
    ],
    "data": "15 nov",
@@ -8459,75 +8536,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z4c846881",
-   "sez": "mondo",
-   "titolo": "Capo Verde: elezioni presidenziali oggi",
-   "orig": "10h Cabo Verde escolhe presidente",
-   "lead": "Capo Verde si reca alle urne il 15 novembre per eleggere il sesto presidente della Repubblica dalla indipendenza del 1975. Sono sei i candidati in corsa: Antero Tavares, Casimiro de Pina, José Maria Neves, Gilson Alves, Joana Rosa e Loisito Tavares per il più importante incarico dello Stato.",
-   "more": [
-    "Capo Verde, arcipelago dell'Oceano Atlantico al largo della costa occidentale africana, è indipendente dal 1975."
-   ],
-   "fonti": [
-    {
-     "n": "RTP",
-     "p": "XX",
-     "c": "Lisbona",
-     "u": "https://www.rtp.pt/noticias/noticiario-antena1/10h-cabo-verde-escolhe-presidente_a1_1779294",
-     "angolo": "",
-     "atlas": "Portugal",
-     "t": "2026-11-15T10:42+00:00"
-    },
-    {
-     "n": "A Nação",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://www.anacao.cv/noticia/2026/11/15/presidenciais-2026-cabo-verde-elege-este-domingo-15-de-novembro-o-sexto-presidente-da-republica/",
-     "angolo": "",
-     "atlas": "Cabo Verde",
-     "t": "2026-11-15T01:01+00:00"
-    },
-    {
-     "n": "A Nação",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://www.anacao.cv/noticia/2026/11/14/da-analise-politica-a-reforma-do-estado-de-cabo-verde-e-o-papel-do-pecado-original/",
-     "angolo": "",
-     "atlas": "Cabo Verde",
-     "t": "2026-11-14T01:15+00:00"
-    },
-    {
-     "n": "A Nação",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://www.anacao.cv/noticia/2026/11/14/direito-de-propriedade-como-direito-fundamental-e-a-crise-da-habitacao-em-cabo-verde-das-garantias-constitucionais-a-reforma-do-cadastro-predial/",
-     "angolo": "",
-     "atlas": "Cabo Verde",
-     "t": "2026-11-14T01:15+00:00"
-    },
-    {
-     "n": "A Nação",
-     "p": "XX",
-     "c": "Praia",
-     "u": "https://www.anacao.cv/noticia/2026/11/13/qualificacao-can-2027-cabo-verde-vence-liberia-por-4-2-actualizado1/",
-     "angolo": "",
-     "atlas": "Cabo Verde",
-     "t": "2026-11-13T18:58+00:00"
-    },
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-15T10:03+00:00"
-    }
-   ],
-   "data": "15 nov",
-   "ora": "12:34",
-   "uscita": "13"
-  },
-  {
    "id": "za9ad102c",
    "sez": "mondo",
    "titolo": "India: sessione invernale del Parlamento in prima settimana di dicembre",
@@ -8693,7 +8701,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "zf746b3b0": "Le testate portoghesi e capoverdiane seguono l'uscita del primo documentario del regista",
   "zf6686282": "La testata costaricana segnala i dati ufficiali sul sovraffollamento delle carceri nazionali",
   "z383868e2": "La testata evidenzia la posizione negoziale russa e il richiamo ironico alle pressioni europee per un accordo",
-  "z4c846881": "La testata sottolinea l'importanza della consultazione elettorale per il sesto presidente dalla indipendenza",
   "za9ad102c": "La testata focalizza l'attenzione sulla prossima sessione invernale del Parlamento indiano e sulla legge sulla delimitazione circondariale",
   "z5e3e8da3": "La testata sottolinea l'istituzione locale di mediatori per potenziare i sistemi di giustizia comunitaria",
   "zc765efe0": "La testata sottolinea l'estensione dell'allerta meteo e i danni specifici alla viabilità in Campania",
@@ -8702,7 +8709,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z39d9c0dd": "Le Soleil evidenzia gli incontri bilaterali del presidente senegalese",
   "z3e942f32": "Daily News riporta le dichiarazioni del direttore delle comunicazioni presidenziali",
   "z1b6a6373": "Croatia Week sottolinea la proiezione del film vincitore a Cannes",
-  "zc2fe0254": "ERR News riporta le dichiarazioni del primo ministro Michal",
   "zfc0efa4d": "Al Jazeera riporta le dichiarazioni di Zelensky sulle restrizioni di Starshield",
   "zc9ae714d": "Asia-Plus torna a raccontare la storia della famiglia dopo cinque anni",
   "z82ff8b58": "ANSA segnala il sorpasso di Bolzano su Milano al primo posto",
@@ -8727,7 +8733,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z3ae63c1d": "Entrambe le testate riportano la posizione del segretario Bessent sulla necessità di una scelta esterna per la nuova guida di Nvidia.",
   "z18036256": "France 24 collega il blackout Microsoft a una riflessione più ampia sulla dipendenza digitale europea.",
   "zd3b9836f": "Entrambe le testate pakistane riportano la partecipazione di numerosi paesi e organizzazioni regionali al vertice.",
-  "ze5f643ec": "BBC News riporta la posizione del ministro favorevole a rendere vincolante il sostegno ai giovani in cerca di lavoro.",
   "zae1b73f2": "Al Jazeera si interroga sulle conseguenze politiche della repressione del contrabbando petrolifero.",
   "z889f5c46": "Daily News Tanzania riporta l'iniziativa come parte degli sforzi per aumentare la diffusione dell'assicurazione nel paese.",
   "z32695a91": "Daily News Tanzania presenta i dati come un segnale di progresso della campagna di energia pulita del governo.",
@@ -8763,7 +8768,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "zd18cfe58": "Africaguinee riporta una critica alla contraddizione tra sviluppo minerario e transizione energetica in Guinea.",
   "z880d2e06": "ORF e Der Spiegel enfatizzano il messaggio politico sulla memoria storica come strumento di insegnamento dal passato",
   "z8307a648": "La Repubblica dà voce al comandante sulla situazione critica della mega nave progettata per lunghe crociere internazionali",
-  "z9e84bab5": "Al Jazeera sottolinea l'insufficienza delle nuove leggi europee nel contenere i flussi migratori verso il territorio spagnolo",
   "zae3b284e": "Radio Tamazuj riporta il disagio degli studenti sud sudanesi ostacolati nel loro accesso ai test nazionali",
   "z901de22f": "The Guardian evidenzia l'accusa diretta al GRU russo e il legame esplicito con gli aiuti estoni all'Ucraina.",
   "z311b4fcf": "Al Jazeera mette in luce l'eccezionale concentrazione degli arrivi nell'arco di appena ventiquattro ore.",
@@ -8805,7 +8809,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z4132f9f2": "I commentatori sportivi inglesi accolgono con favore il rientro dei titolari per affrontare una Nuova Zelanda in cerca di riscatto.",
   "ze1d1252d": "Il quotidiano economico propone suggerimenti e stime per gestire le spese in modo consapevole durante la settimana degli sconti.",
   "zbe70edfe": "Dawn sottolinea l'apertura formale delle indagini a Islamabad nei confronti dei rimpatriati.",
-  "z22e59be6": "Financial Times mette l'accento sulla risposta governativa al problema della generazione perduta prima della riforma dei sussidi.",
   "za036a279": "Il Fatto Quotidiano evidenzia sia il riconoscimento tributato all'attore sia le sue considerazioni personali sulle emergenze globali.",
   "ze676a20d": "Daily Maverick pone l'attenzione sulla responsabilità delle multinazionali committenti rispetto all'impatto dei data center sul territorio.",
   "z76fdbaf0": "Financial Times mette in risalto il valore miliardario dell'acquisizione nel bacino Permiano in un quadro energetico volatile.",
@@ -8830,7 +8833,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z9e1dfdf0": "La testata evidenzia le garanzie fornite dall'applicazione sulla tutela dei fondi degli utenti e l'azzeramento delle commissioni di prelievo.",
   "z3e6b8481": "La testata rimarca l'urgenza espressa dal nuovo direttivo nel riconquistare la fiducia dei mercati interni ed esteri.",
   "zeaae0258": "Il quotidiano mette in risalto il monito del cardinale Martínez in difesa dei cittadini contro le pratiche dell'istituto bancario.",
-  "z9a9b2c4b": "La testata mette in correlazione le restrizioni sul sistema satellitare con l'impatto dei raid russi sulle infrastrutture energetiche.",
   "zdaee8c0b": "La testata pone l'accento sulla distanza tra gli indicatori macroeconomici internazionali e le effettive difficoltà quotidiane dei cittadini.",
   "z2641a633": "La testata segnala il forte incremento percentuale del controvalore delle vendite registrato sulle contrattazioni energetiche a Teheran.",
   "z1be435cb": "Il quotidiano mette a fuoco la richiesta ecclesiastica di chiarire la gestione della privacy e delle informazioni personali dei clienti.",
@@ -8852,9 +8854,7 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z0a8b361a": "El País mette a fuoco le misure sociali ed economiche del piano presentato dal partito del premier Sánchez.",
   "z6edc908d": "El País evidenzia la determinazione del leader dell'opposizione di presidiare il territorio basco dopo le violenze.",
   "z49a0c1a1": "Diari d'Andorra riporta la fermezza dell'associazione nel mantenere la mobilitazione di protesta al confine.",
-  "z9cf773a7": "Diari d'Andorra valorizza l'intervento diplomatico del capo di governo a sostegno della cooperazione internazionale.",
   "z707e8d79": "Mosaïque Guinée segue l'evento sottolineando le prospettive di partenariato economico offerte ai gruppi minerari internazionali.",
-  "za288a227": "BBC News mette a fuoco l'appello diretto del leader ucraino verso Washington e il proprietario della rete satellitare.",
   "z925422b8": "Al Jazeera dà voce alla denuncia del sacerdote palestinese evidenziando il presunto motivo discriminatorio del rifiuto consolare.",
   "zf24bd546": "Al Jazeera sottolinea i movimenti tattici delle forze lealiste yemenite lungo lo snodo strategico marittimo.",
   "z30ee5f2d": "Al Jazeera evidenzia la vulnerabilità politica somala e la richiesta di cooperazione militare ed economica internazionale.",
@@ -8885,7 +8885,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z67ef2da0": "Focalizzazione sulle vulnerabilità economiche e infrastrutturali del mercato sudafricano.",
   "zb044569b": "Monitoraggio critico dei salvataggi societari e delle implicazioni giudiziarie in Sudafrica.",
   "z81e75413": "Rilievo dato alle nuove iniziative internazionali di esplorazione e ricerca nella regione centroasiatica.",
-  "z9d0ec548": "Cronaca delle crescenti tensioni interne ai partiti di governo romeni.",
   "z040cc6cf": "Dati ufficiali sui risultati accademici e sulla formazione medica nel Paese.",
   "ze33671a5": "Approfondimento sulle competenze e sui limiti dei nuovi corpi di vigilanza urbana nella capitale romena.",
   "z539d46fb": "Rilievo strategico sul posizionamento delle forze statunitensi a tutela della sicurezza europea.",
@@ -8894,7 +8893,11 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z5f55cc14": "Focus sui diritti civili, la coesione sociale e il contrasto all'odio nel Paese balcanico.",
   "z6d133315": "Vigilanza sulla trasparenza amministrativa e sull'impiego del denaro pubblico in Montenegro.",
   "zfea37061": "Valorizzazione dei progressi sanitari e del ruolo dei professionisti caraibici all'estero.",
-  "zd8ec289a": "Analisi delle complesse dinamiche politiche e delle negoziazioni parlamentari israeliane."
+  "zd8ec289a": "Analisi delle complesse dinamiche politiche e delle negoziazioni parlamentari israeliane.",
+  "ze217b7ae": "Dezeen presenta il progetto come un recupero estetico dell'architettura storica cinese applicato a uno spazio commerciale contemporaneo.",
+  "z560f4ca4": "La testata presenta l'evento come un'occasione di solidarietà e inclusione lavorativa attraverso la cucina.",
+  "zc7846548": "La testata offre ai lettori uno strumento pratico per orientarsi tra le stagioni e gli archi narrativi della serie.",
+  "z1fee02c9": "La testata presenta la collezione come un esempio dello stile surreale e riconoscibile del designer applicato all'universo Disney."
  },
  "contesti": {
   "z5e448a8f": "Dall'inizio di settembre si sono già verificati episodi simili, con droni iraniani che avevano colpito una base statunitense negli Emirati Arabi Uniti. Da allora le tensioni tra Iran e Stati Uniti nel Golfo sono proseguite, con ripetuti attacchi attribuiti a forze alleate di Teheran contro obiettivi americani e saudi nella regione.",
@@ -8915,7 +8918,10 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "zb6d75b77": "Nelle settimane precedenti all'apertura dell'annuale kermesse di Fratelli d'Italia, i vertici del partito di maggioranza hanno inviato gli inviti ai principali leader delle opposizioni. Il dibattito interno al fronte progressista ha riacceso le divisioni tattiche tra le varie forze: mentre il Partito Democratico ha scelto di disertare l'evento, il Movimento 5 Stelle e Italia Viva hanno optato per confrontarsi sul palco romano.",
   "zd16422e0": "Negli ultimi mesi la Invictus Games Foundation ha intensificato le iniziative a sostegno del personale militare ucraino rimasto ferito al fronte. Il principe Harry, fondatore dei giochi, ha mantenuto un dialogo continuo con Kiev fin dall'inizio dell'invasione russa. Con l'avvicinarsi delle selezioni per le prossime edizioni, la fondazione ha rafforzato i progetti di riabilitazione psicofisica attraverso lo sport adattato.",
   "zf24bd546": "Negli ultimi mesi il conflitto yemenita ha registrato forti tensioni lungo la costa meridionale e attorno alla capitale provvisoria Aden. L'aumento della pressione militare dei ribelli Houthi sulle rotte marittime e le persistenti frizioni interne tra le fazioni lealiste e il Consiglio di Transizione del Sud hanno spinto i vertici militari a rivedere gli assetti. Per consolidare il perimetro difensivo di Aden, è scattato il riposizionamento delle truppe.",
-  "zfbb8a918": "Il viaggio apostolico in America Latina ha visto il pontefice impegnato in un fitto calendario di celebrazioni e incontri istituzionali, seguito con apprensione dall'équipe medica. Circa un mese prima della partenza, il Papa aveva subito una delicata operazione per l'asportazione parziale di un polmone a causa di un tumore. La risalita sulle Ande a Cusco ha rappresentato il momento più critico e impegnativo dell'intero itinerario."
+  "zfbb8a918": "Il viaggio apostolico in America Latina ha visto il pontefice impegnato in un fitto calendario di celebrazioni e incontri istituzionali, seguito con apprensione dall'équipe medica. Circa un mese prima della partenza, il Papa aveva subito una delicata operazione per l'asportazione parziale di un polmone a causa di un tumore. La risalita sulle Ande a Cusco ha rappresentato il momento più critico e impegnativo dell'intero itinerario.",
+  "zf35bf31c": "Il presidente uscente José Maria Neves, eletto nel 2021, giunge a fine mandato in un clima politico stabile per l'arcipelago, tra le democrazie più solide dell'Africa. La campagna elettorale ha visto sei candidati confrontarsi, con Casimiro de Pina come principale sfidante. Le autorità capoverdiane hanno organizzato il voto garantendo trasparenza e partecipazione, in un paese noto per la continuità istituzionale.",
+  "zfc0efa4d": "Da mesi la Russia intensifica gli attacchi con drone Shahed contro le infrastrutture energetiche ucraine, aggravando i blackout invernali. I terminali Starlink, forniti da SpaceX, sono cruciali per le comunicazioni militari ucraine lungo il fronte. Negli ultimi tempi Kyiv ha segnalato rallentamenti sospetti della connessione proprio nelle aree più colpite, alimentando accuse verso restrizioni imposte da Starlink o da attori terzi come il Pentagono.",
+  "ze2e4da27": "Dal golpe militare del 2021 in Myanmar, l'ASEAN ha progressivamente escluso i generali birmani dai vertici di alto livello, in applicazione del 'Consenso in cinque punti' mai attuato dalla giunta. Negli anni successivi il conflitto interno si è aggravato, mentre il blocco regionale ha mantenuto pressioni diplomatiche senza risultati concreti sul piano di pace, cercando comunque canali di dialogo limitato con Naypyidaw."
  },
  "cronologie": {
   "z5e448a8f": [
@@ -9160,6 +9166,52 @@ window.EDIZIONI["2026-11-15-sera"] = {
    [
     "Vigilia della tappa",
     "Via libera dello staff medico per la salita agli oltre 3.400 metri di altitudine a Cusco"
+   ]
+  ],
+  "zf35bf31c": [
+   [
+    "Ottobre 2021",
+    "Elezione di José Maria Neves alla presidenza"
+   ],
+   [
+    "Settimane scorse",
+    "Campagna elettorale con sei candidati in corsa"
+   ],
+   [
+    "15 novembre",
+    "Apertura delle urne per le presidenziali"
+   ]
+  ],
+  "zfc0efa4d": [
+   [
+    "Ottobre 2026",
+    "Intensificazione degli attacchi russi con drone Shahed sulle sottostazioni elettriche"
+   ],
+   [
+    "Novembre 2026",
+    "Zelensky denuncia rallentamenti dei terminali Starshield al fronte"
+   ],
+   [
+    "Giorni scorsi",
+    "Starlink nega restrizioni, Musk ipotizza coinvolgimento del Pentagono"
+   ]
+  ],
+  "ze2e4da27": [
+   [
+    "Febbraio 2021",
+    "Colpo di stato militare in Myanmar"
+   ],
+   [
+    "Aprile 2021",
+    "ASEAN adotta il Consenso in cinque punti"
+   ],
+   [
+    "Anni successivi",
+    "Esclusione dei leader birmani dai summit ASEAN"
+   ],
+   [
+    "Novembre 2026",
+    "Accordo per un reinserimento graduale condizionato ai progressi di pace"
    ]
   ]
  },
@@ -9467,6 +9519,119 @@ window.EDIZIONI["2026-11-15-sera"] = {
     }
    ],
    "divergono": "Emergono alcune discrepanze sulle cifre e sulla narrazione. la Repubblica e la Repubblica – Esteri indicano un'altitudine di 3.339 metri e stimano la folla in 500mila fedeli, citando la frase sulle tradizioni come «tesoro inestimabile». Al contrario, CNA e The Straits Times collocano Cusco a oltre 3.400 metri, parlano genericamente di centinaia di migliaia di presenti e collegano la sosta al successivo viaggio in Amazzonia contro la deforestazione. South China Morning Post si limita invece alla sintesi iniziale sull'altitudine e la salute del pontefice."
+  },
+  "zf35bf31c": {
+   "voci": [
+    {
+     "n": "RTP",
+     "c": "Lisbona",
+     "p": "XX",
+     "t": "Primo articolo: solo titolo e occhiello leggibili, giudizio parziale. Riporta affluenza debole al mattino e maggiore nel pomeriggio.",
+     "b": "a"
+    },
+    {
+     "n": "RTP",
+     "c": "Lisbona",
+     "p": "XX",
+     "t": "Racconta il voto della diaspora a Lisbona, con testimonianze di elettori cabo-verdiani sulla democrazia e il \"dovere civico\". Cita cifre ufficiali (419.400 elettori, 76.400 all'estero) e i sei candidati, ricordando l'astensione del 52% nel 2021.",
+     "b": "a"
+    },
+    {
+     "n": "A Nação",
+     "c": "Praia",
+     "p": "XX",
+     "t": "Riporta le dichiarazioni del candidato-presidente José Maria Neves dopo il voto, che si dice \"orgoglioso\" e punta alla vittoria al primo turno. Fornisce dati su elettori (419.448) e seggi (1.302), citando osservatori internazionali di CEDEAO, UA e CPLP.",
+     "b": "a"
+    },
+    {
+     "n": "A Nação",
+     "c": "Praia",
+     "p": "XX",
+     "t": "Si concentra sulle dichiarazioni del candidato Casimiro de Pina dopo il voto, che chiede \"maggiore elevazione morale\" e trasparenza istituzionale. Ripete i dati ufficiali su elettori e seggi già citati in altri articoli della stessa testata.",
+     "b": "a"
+    },
+    {
+     "n": "A Nação",
+     "c": "Praia",
+     "p": "XX",
+     "t": "Articolo di sintesi che presenta tutti i sei candidati e i loro programmi, dalla \"continuità\" di Neves alla \"rottura col sistema\" di Gilson Alves. Riporta cifre elettorali e il contesto storico delle presidenziali capoverdiane dal 1991.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le due testate capoverdiane A Nação dedicano spazio diretto alle dichiarazioni dei singoli candidati dopo il voto (Neves, Casimiro de Pina), mentre RTP si concentra sull'esperienza di voto della diaspora in Portogallo, con testimonianze di elettori comuni. RTP cita un'astensione del 52% nel 2021 come riferimento storico, dato assente negli articoli di A Nação, che invece forniscono il dettaglio completo del numero di seggi (1.302) e della composizione dell'elettorato per zona geografica."
+  },
+  "zfc0efa4d": {
+   "voci": [
+    {
+     "n": "Al Jazeera",
+     "c": "Doha",
+     "p": "QA",
+     "t": "Centra il pezzo sulle accuse di Zelensky a Starshield e sugli attacchi russi a infrastrutture energetiche, citando vittime a Koriukivka e Odesa. Riporta anche la risposta del ministro ucraino Sybiha su Putin e un parallelo con \"Yalta 1945\", citando SpaceX che nega le restrizioni.",
+     "b": "a"
+    },
+    {
+     "n": "The Kyiv Independent",
+     "c": "Kyiv",
+     "p": "XX",
+     "t": "Dà ampio spazio tecnico alla questione Starshield, spiegando che il limite di 161 km/h impedisce ai drone intercettori ucraini di raggiungere i Shahed russi. Cita cifre dettagliate su attacchi settimanali (2.300 drone, 1.590 bombe plananti) e il Congressional Ukraine Caucus che chiede spiegazioni a SpaceX.",
+     "b": "a"
+    },
+    {
+     "n": "Taipei Times",
+     "c": "Taipei",
+     "p": "XX",
+     "t": "Riporta sinteticamente le parole di Zelensky su Starshield e sugli attacchi a otto regioni ucraine, collegandole alla proposta USA di cessione del Donbas in cambio della NATO. L'articolo prosegue poi con notizie scollegate su Taiwan, segno di un taglio agenzia breve.",
+     "b": "a"
+    },
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Si concentra sullo scontro Musk-Trump sulle restrizioni Starshield, con Musk che attribuisce la responsabilità al governo USA e Trump che nega. Cita Zelensky che invita a essere \"dalla parte giusta della storia\" e riporta anche la chiusura del confine Estonia-Russia per un sabotaggio.",
+     "b": "a"
+    }
+   ],
+   "divergono": "The Kyiv Independent è la più dettagliata sui dati tecnici (soglia di 161 km/h, numero di drone e bombe russe nella settimana) e sulle reazioni politiche USA, mentre Al Jazeera aggiunge l'elemento del vertice Putin-Trump-Xi paragonato a Yalta, assente negli altri articoli. BBC News approfondisce lo scontro pubblico tra Musk e Trump sulle responsabilità delle restrizioni, dettaglio non centrale negli altri pezzi, e unisce la notizia alla chiusura del confine Estonia-Russia. Taipei Times tratta la notizia più brevemente, accostandola a notizie locali su Taiwan senza approfondire il contesto Starshield."
+  },
+  "z4a26b64f": {
+   "voci": [
+    {
+     "n": "Kapitalis",
+     "c": "Tunisi",
+     "p": "XX",
+     "t": "Centra l'analisi sul conflitto tecnico tra l'IA appena introdotta e infrastrutture di rete \"risalenti alla guerra fredda\". Cita 3.000 aerei bloccati e il blackout Microsoft del giorno prima come coincidenza sospetta, ma esclude l'ipotesi di un'IA autonoma fuori controllo.",
+     "b": "a"
+    },
+    {
+     "n": "L'Express de Madagascar",
+     "c": "Antananarivo",
+     "p": "XX",
+     "t": "Il titolo riguarda un accordo di cooperazione militare Madagascar-USA; il testo non era leggibile, quindi il giudizio resta parziale e non riferibile alla notizia sul blocco aereo.",
+     "b": "t"
+    },
+    {
+     "n": "The Globe and Mail",
+     "c": "Toronto",
+     "p": "XX",
+     "t": "Riporta le dichiarazioni di Trump e del segretario ai Trasporti Sean Duffy, che indicano due router installati di recente in Arkansas e Texas come causa tecnica, legata alla sostituzione di cavi in rame con fibra. Cita cifre (12,5 e 25 miliardi di dollari) su finanziamenti FAA e lo scambio di accuse tra amministrazione Trump e Biden; esclude un attacco informatico citando le agenzie di intelligence.",
+     "b": "a"
+    },
+    {
+     "n": "South China Morning Post",
+     "c": "Hong Kong",
+     "p": "XX",
+     "t": "Solo titolo e occhiello disponibili, quindi giudizio parziale: riferisce che Trump ha rotto il silenzio sul blocco e chiede fondi al Congresso per aggiornare il sistema di controllo del traffico aereo, definendolo \"conspicuously quiet\" fino a quel momento.",
+     "b": "t"
+    },
+    {
+     "n": "The Tribune (Bahamas)",
+     "c": "Nassau",
+     "p": "XX",
+     "t": "Articolo non pertinente alla notizia sul blocco aereo americano: tratta di una vicenda politica locale bahamense su contratti pubblici per riparazioni domestiche non completate.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Solo Kapitalis e The Globe and Mail trattano effettivamente la notizia, con cornici diverse: Kapitalis privilegia la tesi di un conflitto tecnologico tra IA e vecchie infrastrutture di rete, lasciando aperta l'ipotesi di un attacco informatico; The Globe and Mail riporta invece la spiegazione ufficiale dell'amministrazione Trump, incentrata su due router guasti in Arkansas e Texas durante lavori di sostituzione cavi, escludendo l'attacco hacker ed enfatizzando lo scontro politico Trump-Biden sui fondi. South China Morning Post, disponibile solo parzialmente, conferma la cornice politica sulla richiesta di fondi ma non permette un confronto completo. L'Express de Madagascar e The Tribune non trattano la notizia."
   }
  },
  "luoghi": {
@@ -9943,11 +10108,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "pt": []
   },
-  "z4c846881": {
-   "n": "Capo Verde",
-   "p": [],
-   "pt": []
-  },
   "za9ad102c": {
    "n": "India",
    "p": [
@@ -10001,13 +10161,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "n": "Zagabria",
    "p": [
     "Croatia"
-   ],
-   "pt": []
-  },
-  "zc2fe0254": {
-   "n": "Tallinn",
-   "p": [
-    "Estonia"
    ],
    "pt": []
   },
@@ -10169,13 +10322,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "n": "Islamabad",
    "p": [
     "Pakistan"
-   ],
-   "pt": []
-  },
-  "ze5f643ec": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
    ],
    "pt": []
   },
@@ -10424,13 +10570,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z8307a648": {
    "n": "Mare aperto",
    "p": [],
-   "pt": []
-  },
-  "z9e84bab5": {
-   "n": "Isole Canarie",
-   "p": [
-    "Spain"
-   ],
    "pt": []
   },
   "zae3b284e": {
@@ -10721,13 +10860,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "pt": []
   },
-  "z22e59be6": {
-   "n": "Londra",
-   "p": [
-    "United Kingdom"
-   ],
-   "pt": []
-  },
   "za036a279": {
    "n": "Lecce",
    "p": [
@@ -10897,13 +11029,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "pt": []
   },
-  "z9a9b2c4b": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
-   ],
-   "pt": []
-  },
   "zdaee8c0b": {
    "n": "Colombo",
    "p": [
@@ -11047,24 +11172,10 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "pt": []
   },
-  "z9cf773a7": {
-   "n": "Andorra la Vella",
-   "p": [
-    "Andorra"
-   ],
-   "pt": []
-  },
   "z707e8d79": {
    "n": "Isola di Kassa",
    "p": [
     "Guinea"
-   ],
-   "pt": []
-  },
-  "za288a227": {
-   "n": "Kiev",
-   "p": [
-    "Ukraine"
    ],
    "pt": []
   },
@@ -11277,13 +11388,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
    ],
    "pt": []
   },
-  "z9d0ec548": {
-   "n": "Buzău",
-   "p": [
-    "Romania"
-   ],
-   "pt": []
-  },
   "z040cc6cf": {
    "n": "Bucarest",
    "p": [
@@ -11343,6 +11447,34 @@ window.EDIZIONI["2026-11-15-sera"] = {
    "n": "Israele",
    "p": [
     "Israel"
+   ],
+   "pt": []
+  },
+  "ze217b7ae": {
+   "n": "Xi'an",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z560f4ca4": {
+   "n": "Monza",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "zc7846548": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "z1fee02c9": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
    ],
    "pt": []
   }
@@ -11416,7 +11548,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "zf746b3b0": 1,
   "zf6686282": 1,
   "z383868e2": 3,
-  "z4c846881": 1,
   "za9ad102c": 1,
   "z5e3e8da3": 1,
   "zc765efe0": 1,
@@ -11425,7 +11556,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z39d9c0dd": 2,
   "z3e942f32": 2,
   "z1b6a6373": 1,
-  "zc2fe0254": 2,
   "zfc0efa4d": 2,
   "zc9ae714d": 1,
   "z82ff8b58": 2,
@@ -11450,7 +11580,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z3ae63c1d": 2,
   "z18036256": 1,
   "zd3b9836f": 1,
-  "ze5f643ec": 1,
   "zae1b73f2": 1,
   "z889f5c46": 1,
   "z32695a91": 1,
@@ -11464,14 +11593,14 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z19d4d76d": 1,
   "z56748813": 1,
   "ze489f6cf": 1,
-  "ze2e4da27": 1,
+  "ze2e4da27": 2,
   "z04873489": 1,
   "z6b2f8c56": 1,
   "z05b87f9f": 1,
   "z06cc4b43": 1,
   "z35c480f0": 1,
   "z325031cd": 1,
-  "z52f688b0": 1,
+  "z52f688b0": 2,
   "zaa66a7e4": 1,
   "z0f3dbe94": 1,
   "z0ca10d14": 2,
@@ -11486,7 +11615,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "zd18cfe58": 1,
   "z880d2e06": 1,
   "z8307a648": 1,
-  "z9e84bab5": 1,
   "zae3b284e": 1,
   "z901de22f": 3,
   "z311b4fcf": 2,
@@ -11528,7 +11656,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z4132f9f2": 1,
   "ze1d1252d": 1,
   "zbe70edfe": 1,
-  "z22e59be6": 1,
   "za036a279": 2,
   "ze676a20d": 1,
   "z76fdbaf0": 1,
@@ -11553,7 +11680,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z9e1dfdf0": 1,
   "z3e6b8481": 1,
   "zeaae0258": 1,
-  "z9a9b2c4b": 1,
   "zdaee8c0b": 1,
   "z2641a633": 1,
   "z1be435cb": 1,
@@ -11568,16 +11694,14 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z3e031877": 1,
   "zd595a9fd": 2,
   "z92d6aa9e": 2,
-  "zf35bf31c": 1,
+  "zf35bf31c": 2,
   "zf483d623": 1,
   "zbf0afce3": 1,
   "z031532aa": 1,
   "z0a8b361a": 1,
   "z6edc908d": 1,
   "z49a0c1a1": 1,
-  "z9cf773a7": 1,
   "z707e8d79": 1,
-  "za288a227": 1,
   "z925422b8": 1,
   "zf24bd546": 2,
   "z30ee5f2d": 1,
@@ -11608,7 +11732,6 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z67ef2da0": 1,
   "zb044569b": 1,
   "z81e75413": 1,
-  "z9d0ec548": 1,
   "z040cc6cf": 1,
   "ze33671a5": 1,
   "z539d46fb": 1,
@@ -11617,7 +11740,11 @@ window.EDIZIONI["2026-11-15-sera"] = {
   "z5f55cc14": 1,
   "z6d133315": 1,
   "zfea37061": 1,
-  "zd8ec289a": 1
+  "zd8ec289a": 1,
+  "ze217b7ae": 1,
+  "z560f4ca4": 1,
+  "zc7846548": 1,
+  "z1fee02c9": 1
  },
  "video": {},
  "pillole": []
