@@ -761,30 +761,6 @@ window.EDIZIONI["2026-11-16"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zd78db7c8",
-   "sez": "ambiente",
-   "titolo": "Negoziati sul clima all'ultima settimana, divisioni su questioni di sempre",
-   "orig": "Climate ministers start final week of talks deeply divided over age-old issues",
-   "lead": "I ministri impegnati nei negoziati internazionali sul clima sono entrati nell'ultima settimana di trattative, ancora divisi su nodi irrisolti da anni. Secondo il Financial Times, alcuni paesi dipendenti dai combustibili fossili si oppongono persino alla necessità di raggiungere un accordo finale, rendendo incerto l'esito del vertice. Le discussioni riguardano temi ricorrenti nei negoziati climatici, come la riduzione delle emissioni e i finanziamenti ai paesi più poveri. Lo riferisce Financial Times.",
-   "more": [
-    "I negoziati internazionali sul clima, nell'ambito delle conferenze Onu (COP), cercano ogni anno accordi su riduzione delle emissioni, finanziamenti climatici e abbandono dei combustibili fossili. Le posizioni restano spesso distanti tra paesi industrializzati, paesi in via di sviluppo e produttori di petrolio e gas, che temono l'impatto economico di impegni vincolanti."
-   ],
-   "fonti": [
-    {
-     "n": "Financial Times",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.ft.com/content/69862257-85c7-4dce-b246-a726df5ff0cb?syn-25a6b1a6=1",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-16T05:00+00:00"
-    }
-   ],
-   "data": "16 nov",
-   "ora": "07:46",
-   "uscita": "mattino"
-  },
-  {
    "id": "zacbf49b9",
    "sez": "dibattito",
    "titolo": "Adolescenti e manifestazioni: come educarli al dissenso consapevole",
@@ -1990,6 +1966,15 @@ window.EDIZIONI["2026-11-16"] = {
      "angolo": "",
      "atlas": "Paraguay",
      "t": "2026-11-16T06:20+00:00"
+    },
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/69862257-85c7-4dce-b246-a726df5ff0cb?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-16T05:00+00:00"
     }
    ],
    "data": "16 nov",
@@ -2091,7 +2076,7 @@ window.EDIZIONI["2026-11-16"] = {
   },
   {
    "id": "z322f8e5f",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "Rangers Talca vandalizzato dopo retrocessione in terza categoria",
    "orig": "Tras el descenso a Segunda División: vandalizan la Fortaleza Rojinegra, el complejo deportivo de Rangers",
    "lead": "Il complesso sportivo dei Rangers di Talca è stato vandalizzato domenica dopo la retrocessione della squadra in terza categoria del campionato di calcio cileno. Video mostrano l'accesso di presunti tifosi al centro d'allenamento. Lo riferisce La Tercera.",
@@ -2782,7 +2767,6 @@ window.EDIZIONI["2026-11-16"] = {
   "zba7b124e": "Orizzonte Scuola si concentra sul rischio tecnico del collasso dei modelli, mentre la Repubblica evidenzia la dimensione geopolitica dell'accordo tra Usa e alleati sui chip.",
   "z49202220": "Nippon.com presenta il lavoro di ricercatori giapponesi impegnati negli scavi di Pompei.",
   "z06593287": "Good News Network presenta il caso come un primato medico mai riportato prima.",
-  "zd78db7c8": "Il Financial Times sottolinea le profonde divisioni tra i paesi nell'ultima fase dei negoziati.",
   "zacbf49b9": "Orizzonte Scuola riporta i consigli di un'esperta di comunicazione rivolti ai genitori.",
   "z9c305dbb": "Il Messaggero riporta la conclusione della vicenda giudiziaria a distanza di anni dall'incidente.",
   "z4eed6e5c": "L'Aiea presenta nel rapporto gli scenari futuri e le sfide finanziarie della fusione nucleare.",
@@ -3391,11 +3375,6 @@ window.EDIZIONI["2026-11-16"] = {
    ],
    "pt": []
   },
-  "zd78db7c8": {
-   "n": "non specificato",
-   "p": [],
-   "pt": []
-  },
   "zacbf49b9": {
    "n": "non specificato",
    "p": [
@@ -3734,7 +3713,6 @@ window.EDIZIONI["2026-11-16"] = {
   "zba7b124e": 1,
   "z49202220": 1,
   "z06593287": 1,
-  "zd78db7c8": 1,
   "zacbf49b9": 1,
   "z9c305dbb": 1,
   "z4eed6e5c": 1,
