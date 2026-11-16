@@ -1393,30 +1393,6 @@ window.EDIZIONI["2026-11-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z98ef5838",
-   "sez": "dibattito",
-   "titolo": "Proteste in Czechia contro il governo Babiš alla vigilia dell'anniversario della Velvet Revolution",
-   "orig": "‘It is about the arrogance of power’: What is driving the massive protests in Czechia?",
-   "lead": "Migliaia di persone manifestano nelle strade della Repubblica Ceca contro il governo guidato da Andrej Babiš, in un clima di crescente malcontento pubblico. Le proteste, secondo Radio Prague International, riguardano modifiche proposte alle politiche sui media, sulla cultura e su altri ambiti dell'azione di governo. Le manifestazioni avvengono alla vigilia del 37° anniversario delle proteste studentesche del 17 novembre che innescarono la Rivoluzione di Velluto e portarono alla fine del comunismo in Cecoslovacchia. I manifestanti denunciano, secondo la testata, 'l'arroganza del potere'.",
-   "more": [
-    "La Rivoluzione di Velluto del novembre 1989 pose fine pacificamente al regime comunista in Cecoslovacchia, dopo proteste studentesche partite il 17 novembre. Ogni anno quella data viene commemorata come simbolo della transizione democratica. Andrej Babiš, imprenditore ed ex primo ministro, è tornato al governo dopo le elezioni, suscitando critiche da parte di chi vede nelle sue politiche un rischio per il pluralismo mediatico e culturale."
-   ],
-   "fonti": [
-    {
-     "n": "Radio Prague International",
-     "p": "XX",
-     "c": "Praga",
-     "u": "https://english.radio.cz/it-about-arrogance-power-what-driving-massive-protests-czechia-8902686",
-     "angolo": "",
-     "atlas": "Czechia",
-     "t": "2026-11-16T11:50+01:00"
-    }
-   ],
-   "data": "16 nov",
-   "ora": "13:01",
-   "uscita": "13"
-  },
-  {
    "id": "z67c9ffae",
    "sez": "italia",
    "titolo": "Un nido di vespe orientali a 20 metri d'altezza a Roma, davanti al carcere di Rebibbia",
@@ -2470,46 +2446,6 @@ window.EDIZIONI["2026-11-16-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zcf69f6d3",
-   "sez": "mondo",
-   "titolo": "Jay Shah riconfermato presidente dell'ICC",
-   "orig": "Jay Shah reappointed as ICC Chair; BCCI hails leadership ahead of cricket's Oly return",
-   "lead": "Jay Shah è stato riconfermato presidente dell'ICC per un secondo mandato, in una decisione unanime. Il nuovo mandato coinciderà con il ritorno del cricket alle Olimpiadi di Los Angeles 2028. L'organismo mondiale del cricket ha elogiato i suoi contributi al gioco. Lo riferisce Times of India.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Times of India",
-     "p": "XX",
-     "c": "Mumbai",
-     "u": "https://timesofindia.indiatimes.com/sports/cricket/news/jay-shah-gets-second-term-as-icc-chair-bcci-hails-leadership-as-cricket-prepares-for-olympic-return/articleshow/135886162.cms",
-     "angolo": "",
-     "atlas": "India",
-     "t": "2026-11-16T16:54+05:30"
-    },
-    {
-     "n": "The Indian Express",
-     "p": "XX",
-     "c": "Nuova Delhi",
-     "u": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-november-17-2026-china-us-russia-to-hold-their-first-trilateral-summit-on-november-19-10965249/",
-     "angolo": "",
-     "atlas": "India",
-     "t": "2026-11-16T11:30+00:00"
-    },
-    {
-     "n": "Ada Derana",
-     "p": "XX",
-     "c": "Colombo",
-     "u": "https://adaderana.lk/news/251745",
-     "angolo": "",
-     "atlas": "Sri Lanka",
-     "t": "2026-11-16T05:51+00:00"
-    }
-   ],
-   "data": "16 nov",
-   "ora": "13:01",
-   "uscita": "13"
-  },
-  {
    "id": "z2659958b",
    "sez": "prima",
    "titolo": "Nuovi allarmi bomba in circa cento scuole italiane, nessuna evacuazione",
@@ -2884,7 +2820,6 @@ window.EDIZIONI["2026-11-16-sera"] = {
   "z024702ec": "Il Consiglio europeo comunica l'adozione di nuove sanzioni mirate ai settori finanziario ed energetico russo.",
   "z50ada93c": "La testata spiega come il clima stia alterando la sincronia storica delle migrazioni aviarie.",
   "z7da066e8": "La testata riporta la cancellazione dell'azione sindacale precedentemente annunciata dai consulenti ospedalieri.",
-  "z98ef5838": "La testata descrive un clima di malcontento crescente verso le politiche del governo su media e cultura, alla vigilia dell'anniversario della Rivoluzione di Velluto.",
   "z67c9ffae": "Il quotidiano romano segnala la presenza insolita dell'insetto in piena attività nel mese di novembre.",
   "z6e33d286": "La testata sottolinea l'impegno finanziario del governo per la sicurezza medicinale del paese.",
   "ze549de13": "La testata evidenzia la varietà di stili degli artisti partecipanti alla rassegna.",
@@ -2912,7 +2847,6 @@ window.EDIZIONI["2026-11-16-sera"] = {
   "z934d6536": "Vatican News riporta l'appello del cardinale sull'urgenza della pace per il futuro dei cristiani nella regione.",
   "z90674a1a": "Le testate kazake e regionali collegano la sostituzione agli arresti recenti per corruzione.",
   "z671b75ad": "L'agenzia brasiliana sottolinea i progressi nella politica climatica e alimentare come risultato di strumenti normativi statali.",
-  "zcf69f6d3": "L'agenzia indiana enfatizza i contributi di Shah al cricket femminile e l'espansione globale dello sport.",
   "z2659958b": "L'emittente pubblica italiana riferisce l'allarme e le direttive governative applicate dalle scuole.",
   "z0446b4f2": "La BBC sottolinea l'iniziativa congiunta europea sulla gestione migrante e il ruolo strategico del Ruanda.",
   "z36d750c9": "La BBC riporta il sequestro di droga da parte delle autorità nigeriane.",
@@ -3416,13 +3350,6 @@ window.EDIZIONI["2026-11-16-sera"] = {
    ],
    "pt": []
   },
-  "z98ef5838": {
-   "n": "Praga",
-   "p": [
-    "Czechia"
-   ],
-   "pt": []
-  },
   "z67c9ffae": {
    "n": "Roma",
    "p": [
@@ -3612,11 +3539,6 @@ window.EDIZIONI["2026-11-16-sera"] = {
    ],
    "pt": []
   },
-  "zcf69f6d3": {
-   "n": "International",
-   "p": [],
-   "pt": []
-  },
   "z2659958b": {
    "n": "Italia",
    "p": [
@@ -3722,7 +3644,6 @@ window.EDIZIONI["2026-11-16-sera"] = {
   "z024702ec": 1,
   "z50ada93c": 1,
   "z7da066e8": 1,
-  "z98ef5838": 1,
   "z67c9ffae": 1,
   "z6e33d286": 1,
   "ze549de13": 1,
@@ -3750,7 +3671,6 @@ window.EDIZIONI["2026-11-16-sera"] = {
   "z934d6536": 1,
   "z90674a1a": 2,
   "z671b75ad": 1,
-  "zcf69f6d3": 1,
   "z2659958b": 2,
   "z0446b4f2": 1,
   "z36d750c9": 1,
