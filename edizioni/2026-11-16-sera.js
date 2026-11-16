@@ -534,7 +534,7 @@ window.EDIZIONI["2026-11-16-sera"] = {
   },
   {
    "id": "z55e863bf",
-   "sez": "ingegneria",
+   "sez": "cultura",
    "titolo": "La Galleria nazionale armena apre la prima mostra con arte generata dall'IA",
    "orig": "Armenian National Gallery opens first exhibition with AI-generated art",
    "lead": "La Galleria nazionale armena ha inaugurato la sua prima esposizione con opere generate dall'intelligenza artificiale, come parte dell'iniziativa AI Days 2026. L'evento rappresenta un passo nell'uso dell'IA nel campo artistico e culturale armeno. Lo riferisce OC Media.",
@@ -2381,7 +2381,7 @@ window.EDIZIONI["2026-11-16-sera"] = {
   },
   {
    "id": "zc6f3cee0",
-   "sez": "mondo",
+   "sez": "sport",
    "titolo": "NPFL, Finidi esalta l'importanza del risultato della Rivers United a Ilorin",
    "orig": "NPFL Title Race: Finidi highlights importance of Rivers United’s point in Ilorin",
    "lead": "L'allenatore della Rivers United Finidi ha commentato positivamente il risultato ottenuto in trasferta a Ilorin nella lotta al titolo NPFL, riconoscendo le difficoltà di giocare in quella città e lodando la risposta della squadra dopo il gol subito. Lo riferisce Premium Times.",
