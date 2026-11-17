@@ -809,6 +809,15 @@ window.EDIZIONI["2026-11-17-sera"] = {
      "angolo": "",
      "atlas": "Burkina Faso",
      "t": "2026-11-17T15:06+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T11:18+00:00"
     }
    ],
    "data": "17 nov",
@@ -1100,30 +1109,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    "data": "17 nov",
    "ora": "17:08",
    "uscita": "17"
-  },
-  {
-   "id": "z8c6132c7",
-   "sez": "mondo",
-   "titolo": "Il vertice Apec a Shenzhen mette in mostra l'ascesa tecnologica della Cina",
-   "orig": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
-   "lead": "Il summit Apec 2026 si svolge a Shenzhen, città scelta dalla Cina come vetrina della propria crescita tecnologica e del ruolo di potenza innovativa nell'economia globale. Secondo il Guardian, la città ha illuminato i grattacieli con i colori nazionali e la scritta \"Apec 2026\" davanti a cittadini e turisti. Il presidente cinese Xi Jinping partecipa al summit, che riunisce le economie dell'area Asia-Pacifico. Lo riferisce The Guardian.",
-   "more": [
-    "L'Apec (Asia-Pacific Economic Cooperation) è un forum che riunisce 21 economie della regione Asia-Pacifico per discutere commercio e cooperazione economica. Shenzhen, vicina a Hong Kong, è diventata negli ultimi decenni uno dei principali centri tecnologici cinesi, ospitando aziende di elettronica, telecomunicazioni e intelligenza artificiale."
-   ],
-   "fonti": [
-    {
-     "n": "The Guardian",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-17T11:18+00:00"
-    }
-   ],
-   "data": "17 nov",
-   "ora": "12:37",
-   "uscita": "13"
   },
   {
    "id": "z4381afc3",
@@ -3475,7 +3460,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
  ],
  "quiz": [],
  "sguardi": {
-  "z8c6132c7": "The Guardian descrive Shenzhen come vetrina della potenza economica e tecnologica cinese voluta da Xi Jinping.",
   "z4381afc3": "The Guardian riporta il numero di arresti e le previsioni degli organizzatori sulla partecipazione.",
   "z6bff0098": "The Guardian riporta le critiche dei parlamentari indipendenti alle modifiche introdotte dal governo.",
   "ze694647f": "Rai News segnala la scadenza dei termini per gli emendamenti in giornata.",
@@ -3943,13 +3927,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   }
  },
  "luoghi": {
-  "z8c6132c7": {
-   "n": "Shenzhen",
-   "p": [
-    "China"
-   ],
-   "pt": []
-  },
   "z4381afc3": {
    "n": "Manila",
    "p": [
@@ -4630,7 +4607,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   }
  },
  "rilievo": {
-  "z8c6132c7": 1,
   "z4381afc3": 2,
   "z6bff0098": 1,
   "ze694647f": 1,
