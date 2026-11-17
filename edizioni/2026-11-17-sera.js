@@ -306,66 +306,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zf3f18438",
-   "sez": "economia",
-   "titolo": "Documenti riservati: Deutsche Bank coinvolta in finanziamenti legati all'esercito del Myanmar e a oligarchi russi",
-   "orig": "Deutsche Bank’s Halliburton financing linked to Myanmar military ‘should have been rejected’: leaked documents",
-   "lead": "Documenti interni trapelati da Deutsche Bank rivelano che la banca ha finanziato nel 2022 un progetto di gas offshore legato all'esercito del Myanmar, nonostante il parere contrario del proprio team sanzioni, e che ha mantenuto rapporti con oligarchi russi, usando anche Cipro come porta d'ingresso verso l'Unione europea. I documenti, oltre 15 milioni, mostrano anche legami passati con il finanziere condannato Jeffrey Epstein e con Donald Trump. Lo riferisce Myanmar Now.",
-   "more": [
-    "Le sanzioni internazionali vengono spesso imposte contro regimi militari o individui legati a violazioni dei diritti umani, per limitarne l'accesso ai finanziamenti; le banche hanno team interni dedicati a valutare la conformità delle operazioni a tali regole. Le fughe di documenti bancari permettono di verificare se le norme vengono effettivamente rispettate."
-   ],
-   "fonti": [
-    {
-     "n": "Myanmar Now",
-     "p": "XX",
-     "c": "Yangon",
-     "u": "https://myanmar-now.org/en/news/deutsche-banks-halliburton-financing-linked-to-myanmar-military-should-have-been-rejected-leaked-documents/",
-     "angolo": "",
-     "atlas": "Myanmar",
-     "t": "2026-11-17T06:47+00:00"
-    },
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-17T07:00+01:00"
-    },
-    {
-     "n": "France 24",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.france24.com/fr/europe/20261117-russie-trump-epstein-une-fuite-massive-de-documents-secoue-deutsche-bank",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-17T08:27+00:00"
-    },
-    {
-     "n": "The New York Times",
-     "p": "US",
-     "c": "New York",
-     "u": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-17T06:00+00:00"
-    },
-    {
-     "n": "Cyprus Mail",
-     "p": "XX",
-     "c": "Nicosia",
-     "u": "https://cyprus-mail.com/2026/11/17/deutsche-bank-leaks-cyprus-used-as-back-door-to-eu-for-russian-oligarchs",
-     "angolo": "",
-     "atlas": "Cyprus",
-     "t": "2026-11-17T11:57+02:00"
-    }
-   ],
-   "data": "17 nov",
-   "ora": "12:37",
-   "uscita": "13"
-  },
-  {
    "id": "zb58f823b",
    "sez": "mondo",
    "titolo": "Proteste da settimane nel settore dell'abbigliamento in Bangladesh",
@@ -785,28 +725,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z446338dc",
-   "sez": "italia",
-   "titolo": "Mattarella: il Papa apre orizzonti di speranza",
-   "orig": "Mattarella: Papa apre orizzonti di speranza",
-   "lead": "Il presidente della Repubblica Sergio Mattarella ha inviato un messaggio per salutare il ritorno di Papa Francesco dal viaggio in America Latina, affermando che il pontefice apre orizzonti di speranza. Il messaggio arriva nello stesso giorno in cui il Papa è rientrato in Vaticano dopo le tappe del suo viaggio, la più lunga delle quali si è svolta in Perù, paese d'origine del pontefice. Lo riferisce Rai News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/mattarella-papa-apre-orizzonti-di-speranza-fbc8c019-365a-4eae-9004-4a357e0b771e.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-17T08:54+00:00"
-    }
-   ],
-   "data": "17 nov",
-   "ora": "12:37",
-   "uscita": "13"
-  },
-  {
    "id": "z471bfde2",
    "sez": "dibattito",
    "titolo": "I medici attivisti che soccorrono i manifestanti in Italia",
@@ -992,28 +910,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-17T11:07+00:00"
-    }
-   ],
-   "data": "17 nov",
-   "ora": "12:37",
-   "uscita": "13"
-  },
-  {
-   "id": "za964f6c7",
-   "sez": "italia",
-   "titolo": "Il Papa è rientrato in Vaticano dal viaggio in America Latina",
-   "orig": "Il Papa rientrato in Vaticano dall'America Latina Perù",
-   "lead": "Papa Francesco è rientrato in Vaticano al termine del suo viaggio in America Latina, articolato in tre tappe, la più lunga delle quali si è svolta in Perù, paese d'origine del pontefice. Il rientro è stato salutato da un messaggio del presidente della Repubblica Sergio Mattarella. Lo riferisce Rai News.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/il-papa-rientrato-in-vaticano-dallamerica-latina-peru--181ad608-c1fa-443b-a1ad-44ba03e2b0f0.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-17T08:17+00:00"
     }
    ],
    "data": "17 nov",
@@ -1781,57 +1677,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "zf5864d94",
-   "sez": "mondo",
-   "titolo": "Si è costituito il nuovo Parlamento della Serbia",
-   "orig": "Konstituisan novi saziv Skupštine Srbije",
-   "lead": "A Belgrado si è riunito per la prima volta il nuovo Parlamento serbo dopo le elezioni, con i deputati che hanno giurato una volta confermati i mandati. Nella seduta costitutiva si procederà all'elezione del presidente e del vicepresidente dell'Assemblea, del segretario generale e dei membri delle commissioni e delegazioni parlamentari. La seduta segna l'inizio del quindicesimo mandato parlamentare, nel quale il Partito progressista serbo (SNS) affronta per la prima volta gli effetti della vittoria elettorale della lista studentesca.",
-   "more": [
-    "In Serbia le elezioni parlamentari determinano la composizione dell'Assemblea nazionale, che poi elegge gli organi di guida interna. Negli ultimi anni il paese ha vissuto mesi di proteste studentesche contro il governo del presidente Aleksandar Vučić, e la vittoria della lista legata agli studenti rappresenta un cambiamento significativo negli equilibri parlamentari."
-   ],
-   "fonti": [
-    {
-     "n": "Vijesti",
-     "p": "XX",
-     "c": "Podgorica",
-     "u": "https://www.vijesti.me/svijet/balkan/836640/konstituisan-novi-saziv-skupstine-srbije",
-     "angolo": "",
-     "atlas": "Montenegro",
-     "t": "2026-11-17T08:35+01:00"
-    },
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/vesti/blog-konstitutivna-sednica-skupstine-srbije-uzivo-2026/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-11-17T12:26+01:00"
-    },
-    {
-     "n": "N1 Serbia",
-     "p": "XX",
-     "c": "Belgrado",
-     "u": "https://n1info.rs/vesti/ap-veliko-interesovanje-za-konstitutivnu-sednicu-skupstine-srbije-nakon-neverovatne-pobede-studentske-liste/",
-     "angolo": "",
-     "atlas": "Serbia",
-     "t": "2026-11-17T12:22+01:00"
-    },
-    {
-     "n": "N1 Bosnia",
-     "p": "XX",
-     "c": "Sarajevo",
-     "u": "https://n1info.ba/regija/polaganjem-svecane-zakletve-konstituisan-novi-saziv-narodne-skupstine-srbije/",
-     "angolo": "",
-     "atlas": "Bosnia and Herz.",
-     "t": "2026-11-17T12:07+01:00"
-    }
-   ],
-   "data": "17 nov",
-   "ora": "12:37",
-   "uscita": "13"
-  },
-  {
    "id": "z1ffb7b5f",
    "sez": "mondo",
    "titolo": "Polonia, fermati adolescenti neonazisti sospettati di un piano terroristico",
@@ -1987,6 +1832,24 @@ window.EDIZIONI["2026-11-17-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-17T11:29+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/mattarella-papa-apre-orizzonti-di-speranza-fbc8c019-365a-4eae-9004-4a357e0b771e.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T08:54+00:00"
+    },
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/il-papa-rientrato-in-vaticano-dallamerica-latina-peru--181ad608-c1fa-443b-a1ad-44ba03e2b0f0.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T08:17+00:00"
     }
    ],
    "data": "17 nov",
@@ -2565,7 +2428,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z0a64d3f8": "BBC News descrive l'episodio come un incidente avvenuto durante i saluti alla folla.",
   "z2e91f8b9": "Billboard presenta l'accordo come una sinergia tra il catalogo artistico di HYBE e i servizi di CAA.",
   "zba60623e": "Al Jazeera riporta le dichiarazioni di Vance sul rifiuto di una guerra permanente con l'Iran.",
-  "zf3f18438": "Myanmar Now evidenzia il contrasto tra il parere del team sanzioni interno e l'approvazione del finanziamento.",
   "zb58f823b": "VRT NWS riporta le difficoltà economiche degli operai attraverso la voce della propria corrispondente in Asia.",
   "z6967841e": "Rai News sottolinea l'impatto dei prezzi energetici sull'accelerazione dell'inflazione.",
   "zeb7ae8c8": "Asia-Plus evidenzia le conseguenze per il Tagikistan del passaggio da sussidi a prestiti.",
@@ -2576,14 +2438,12 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "zf73a7135": "BBC News riporta la reazione del governo britannico e l'apertura di un'indagine sul comportamento di Brand in carcere.",
   "z0aec4e36": "Rolling Stone Italia presenta la notizia come la fine di una lunga attesa dei fan.",
   "z2060ce77": "NPR offre consigli pratici ai viaggiatori sulla vaccinazione antinfluenzale in vista delle festività.",
-  "z446338dc": "Rai News riporta il messaggio del presidente Mattarella in occasione del ritorno del Papa dal viaggio in America Latina.",
   "z471bfde2": "Il Post descrive la crescita dei gruppi di medici volontari attivi nelle manifestazioni pro-Palestina in Italia.",
   "z58eb15c3": "Più testate internazionali riportano l'annuncio di un accordo commerciale tra Canada e Cina, osservato come segnale di un riavvicinamento tra Ottawa e Pechino.",
   "z3f6b0980": "Yonhap segnala la conclusione dell'incarico temporaneo di Robert Moreno alla guida della nazionale sudcoreana.",
   "z4ff52b75": "Haaretz descrive il progetto di mappatura laser degli alberi urbani di Gerusalemme.",
   "za72693e2": "RTHK riporta l'errore chirurgico avvenuto in un ospedale privato di Hong Kong, confermato dalle autorità sanitarie locali.",
   "z432640c9": "la Repubblica e Il Fatto Quotidiano seguono le polemiche politiche che hanno portato alla cancellazione del festival del cinema russo a Roma.",
-  "za964f6c7": "Rai News segue il rientro del Papa in Vaticano dopo il viaggio in America Latina.",
   "z63e1b045": "OndaRock recensisce l'album d'esordio di June McDoom, sottolineando l'intreccio tra folk e reggae.",
   "z9c9386bf": "Fumettologica segnala l'eccezionale successo commerciale anticipato del nuovo fumetto di Daniel Warren Johnson.",
   "zc91749b5": "Designboom descrive il progetto architettonico che unisce minimalismo contemporaneo ed elementi storici nel nuovo hotel madrileno.",
@@ -2608,7 +2468,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z6b128f81": "il Financial Times definisce Sözcü l'ultima tv di opposizione rimasta in Turchia.",
   "ze018b471": "Africaguinee definisce il risultato elettorale \"senza appello\" a favore di Neves.",
   "zf8e9c4f6": "San Marino RTV sottolinea la crescente partecipazione internazionale al concorso.",
-  "zf5864d94": "N1 Serbia sottolinea la vittoria della lista studentesca come elemento di novità del nuovo Parlamento.",
   "z1ffb7b5f": "Notes from Poland riporta l'arresto di adolescenti sospettati di progettare attentati.",
   "z4a52fd35": "la Repubblica definisce il ponte \"l'asse vitale per la Crimea\" nuovamente colpito.",
   "z6b0559dd": "la Repubblica evidenzia la denuncia papale sulla concentrazione della ricchezza e la polarizzazione da algoritmi.",
@@ -2630,7 +2489,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "za958338b": "Hong Kong Free Press riporta il rifiuto della amministrazione di tutele sul lavoro fuori orario per i funzionari pubblici."
  },
  "contesti": {
-  "zf3f18438": "Negli ultimi anni Deutsche Bank è stata più volte oggetto di inchieste su rapporti con clienti sensibili, tra cui oligarchi russi e figure legate a regimi sotto sanzioni internazionali. La nuova fuga di documenti, pubblicata da diverse testate internazionali, aggiunge dettagli su operazioni specifiche risalenti agli ultimi anni.",
   "z6967841e": "Nei giorni scorsi l'Istat aveva pubblicato una stima preliminare dell'inflazione di ottobre, poi rivista al rialzo con dati definitivi.",
   "z6b128f81": "Nelle settimane precedenti le autorità turche avevano già colpito un'altra emittente critica del governo, Halk TV, in un contesto di crescenti pressioni sui media di opposizione legate anche a un'indagine su un fondo di investimento che coinvolge ambienti vicini all'esecutivo.",
   "z4a52fd35": "Il ponte di Crimea è già stato oggetto di diversi attacchi ucraini dall'inizio del conflitto, incluso un grave attentato nel 2022 e successivi raid mirati a danneggiare le infrastrutture logistiche russe verso la penisola annessa.",
@@ -2639,16 +2497,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z45993322": "L'Italia è sottoposta dal 2024 alla procedura Ue per deficit eccessivo dopo lo sforamento del rapporto deficit/Pil oltre il 3%. Il governo ha adottato manovre di correzione dei conti pubblici, puntando a ridurre gradualmente lo squilibrio. Le ultime previsioni economiche della Commissione confermano un percorso di miglioramento, pur segnalando un debito pubblico ancora ai massimi storici e un nuovo peggioramento del deficit previsto nel 2027."
  },
  "cronologie": {
-  "zf3f18438": [
-   [
-    "gennaio 2022",
-    "Deutsche Bank riceve ed elabora una richiesta di finanziamento legata a un progetto di gas in Myanmar"
-   ],
-   [
-    "17 novembre 2026",
-    "Pubblicazione di documenti riservati che rivelano i dettagli dell'operazione e altri rapporti della banca"
-   ]
-  ],
   "z6967841e": [
    [
     "inizio novembre 2026",
@@ -2902,13 +2750,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "pt": []
   },
-  "zf3f18438": {
-   "n": "Francoforte",
-   "p": [
-    "Germany"
-   ],
-   "pt": []
-  },
   "zb58f823b": {
    "n": "Dacca",
    "p": [
@@ -2979,13 +2820,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "pt": []
   },
-  "z446338dc": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z471bfde2": {
    "n": "Milano",
    "p": [
@@ -3019,11 +2853,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    "p": [
     "Italy"
    ],
-   "pt": []
-  },
-  "za964f6c7": {
-   "n": "Città del Vaticano",
-   "p": [],
    "pt": []
   },
   "z63e1b045": {
@@ -3179,13 +3008,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "pt": []
   },
-  "zf5864d94": {
-   "n": "Belgrado",
-   "p": [
-    "Serbia"
-   ],
-   "pt": []
-  },
   "z1ffb7b5f": {
    "n": "Polonia",
    "p": [
@@ -3328,7 +3150,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z0a64d3f8": 2,
   "z2e91f8b9": 1,
   "zba60623e": 2,
-  "zf3f18438": 1,
   "zb58f823b": 2,
   "z6967841e": 3,
   "zeb7ae8c8": 1,
@@ -3339,14 +3160,12 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "zf73a7135": 1,
   "z0aec4e36": 1,
   "z2060ce77": 1,
-  "z446338dc": 1,
   "z471bfde2": 1,
   "z58eb15c3": 1,
   "z3f6b0980": 1,
   "z4ff52b75": 1,
   "za72693e2": 1,
   "z432640c9": 2,
-  "za964f6c7": 1,
   "z63e1b045": 1,
   "z9c9386bf": 1,
   "zc91749b5": 1,
@@ -3371,7 +3190,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z6b128f81": 1,
   "ze018b471": 2,
   "zf8e9c4f6": 1,
-  "zf5864d94": 2,
   "z1ffb7b5f": 1,
   "z4a52fd35": 2,
   "z6b0559dd": 3,
