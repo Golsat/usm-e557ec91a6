@@ -3,6 +3,1105 @@ window.EDIZIONI["2026-11-17-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "z6b9c3c08",
+   "sez": "cultura",
+   "titolo": "The Hunger Games: Sunrise on the Reaping, la recensione del nuovo prequel",
+   "orig": "The Hunger Games: Sunrise on the Reaping review – recast prequel lacks emotional edge",
+   "lead": "La testata South China Morning Post pubblica una recensione del nuovo film della saga Hunger Games, \"Sunrise on the Reaping\", prequel basato sui romanzi di Suzanne Collins e diretto da Francis Lawrence. La pellicola si inserisce dopo il prequel del 2023 \"Ballad of Songbirds and Snakes\" e la conclusione in due parti di Mockingjay, allontanandosi ulteriormente dalla storia originale di Katniss Everdeen interpretata da Jennifer Lawrence. La recensione assegna al film un punteggio di 2,5 stelle su 5, segnalando come il cast rinnovato non riesca a dare profondità emotiva alla narrazione. Lo riferisce South China Morning Post.",
+   "more": [
+    "Hunger Games è una saga young adult di Suzanne Collins ambientata in un futuro distopico diviso in distretti sottoposti al regime di Panem. Dal 2012 è diventata un franchise cinematografico di grande successo commerciale, con Jennifer Lawrence protagonista dei primi film nel ruolo di Katniss Everdeen."
+   ],
+   "fonti": [
+    {
+     "n": "South China Morning Post – Cultura",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/lifestyle/entertainment/article/3374535/hunger-games-sunrise-reaping-review-recast-prequel-lacks-emotional-edge",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-17T14:00+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/culture/cinema/hunger-games-lever-de-soleil-sur-la-moisson-souffrez-vous-etes-filmes-20261117_WCJGQW2BNJE77JQPGMBO74USPI/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-17T15:48+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z82f2a6af",
+   "sez": "mondo",
+   "titolo": "Trump promette di raggiungere la Cina sulle terre rare in 10 mesi",
+   "orig": "Trump says US will catch China on rare earths in 10 months. Data suggests it’s far behind",
+   "lead": "Il presidente statunitense Donald Trump ha dichiarato martedì che la produzione di terre rare negli Stati Uniti raggiungerà quella della Cina entro il prossimo anno, affermando che il paese sta producendo questi minerali \"a un livello mai raggiunto prima\". Trump ha detto ai giornalisti che gli Usa \"raggiungeranno la Cina in 10 mesi\", in un'uscita avvenuta a Manila prima di un incontro con il Quad, il gruppo che riunisce Stati Uniti, Giappone, India e Australia. Secondo i dati citati dalle fonti, però, la produzione statunitense resta molto indietro rispetto a quella cinese. La visita di Trump a Manila fa parte di un giro asiatico di tre giorni.",
+   "more": [
+    "Le terre rare sono un gruppo di minerali essenziali per tecnologie come batterie, motori elettrici e componenti militari. La Cina controlla da anni la maggior parte dell'estrazione e della raffinazione mondiale, un vantaggio strategico che gli Stati Uniti cercano di contrastare investendo in produzione interna e alleanze come il Quad."
+   ],
+   "fonti": [
+    {
+     "n": "Egypt Independent",
+     "p": "XX",
+     "c": "Il Cairo",
+     "u": "https://www.egyptindependent.com/trump-says-us-will-catch-china-on-rare-earths-in-10-months-data-suggests-its-far-behind/",
+     "angolo": "",
+     "atlas": "Egypt",
+     "t": "2026-11-17T13:30+00:00"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/china/diplomacy/article/3374794/trade-deal-rare-earths-and-quad-revival-day-1-trumps-asia-trip",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-17T14:49+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z2fb41d0a",
+   "sez": "musica",
+   "titolo": "L'industria musicale britannica raggiunge un record di 8,4 miliardi di sterline",
+   "orig": "UK music industry hits record high of £8.4bn – but are working musicians being left behind?",
+   "lead": "L'industria musicale del Regno Unito ha raggiunto nel 2025 un fatturato record di 8,4 miliardi di sterline, spinto dai grandi tour di artisti come Oasis, Robbie Williams, Dua Lipa e Coldplay e dal successo di album come quelli di Olivia Dean. I ricavi dall'export musicale hanno toccato 4,8 miliardi di sterline. Nonostante il risultato positivo, cresce la preoccupazione per il divario di guadagni tra gli artisti di grande fama e la maggior parte dei musicisti meno conosciuti, che secondo le fonti rischiano di restare indietro nonostante la crescita complessiva del settore. Il dato emerge dal report \"This Is Music\" sull'industria musicale britannica.",
+   "more": [
+    "Il Regno Unito è uno dei principali esportatori mondiali di musica, grazie a un'industria che comprende discografia, concerti e diritti d'autore. I grandi tour internazionali generano gran parte dei ricavi, ma artisti emergenti e indipendenti faticano spesso a trarre profitto dallo streaming e dai live di piccola scala."
+   ],
+   "fonti": [
+    {
+     "n": "The Guardian – Musica",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/music/2026/nov/17/uk-music-industry-hits-record-high-of-84bn-this-is-music-report",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T11:12+00:00"
+    },
+    {
+     "n": "Billboard",
+     "p": "US",
+     "c": "Los Angeles",
+     "u": "https://www.billboard.com/pro/uk-music-this-is-music-report-2026-oasis-dua-lipa-coldplay/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-17T15:17+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "ze33e7d24",
+   "sez": "organizzazioni",
+   "titolo": "Briefing stampa sul Consiglio Agricoltura e Pesca dell'Ue del 23 novembre",
+   "orig": "Press briefing - Agriculture and Fisheries Council of 23 November 2026",
+   "lead": "Il Consiglio dell'Unione europea ha annunciato un briefing stampa in vista della riunione del Consiglio Agricoltura e Pesca prevista per il 23 novembre 2026. L'incontro preparatorio con i giornalisti si terrà il 20 novembre 2026 alle ore 13:00 a Bruxelles. Il Consiglio Agricoltura e Pesca riunisce periodicamente i ministri competenti degli Stati membri per discutere le politiche agricole e della pesca dell'Unione europea. Lo riferisce il Consiglio dell'Unione europea.",
+   "more": [
+    "Il Consiglio Agricoltura e Pesca è una delle configurazioni del Consiglio dell'Unione europea in cui si riuniscono i ministri nazionali competenti per definire politiche comuni su temi come i prezzi agricoli, le quote di pesca e le normative ambientali legate a questi settori."
+   ],
+   "fonti": [
+    {
+     "n": "Consiglio dell'Unione europea",
+     "p": "XX",
+     "c": "Bruxelles",
+     "u": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/17/press-briefing-agriculture-and-fisheries-council-of-23-november-2026/",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-17T16:30+01:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z5932dfc8",
+   "sez": "salute",
+   "titolo": "L'Ue aggiorna le raccomandazioni sul vaccino antinfluenzale 2026/2027",
+   "orig": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
+   "lead": "L'Agenzia europea per i medicinali (Ema) ha pubblicato il 17 novembre 2026 un aggiornamento delle raccomandazioni sulla composizione del vaccino antinfluenzale stagionale per il periodo 2026/2027. La novità principale riguarda l'inclusione di una raccomandazione specifica per i vaccini antinfluenzali a mRNA, basati sulla tecnologia dell'acido nucleico. Il documento, allegato alle linee guida ufficiali dell'agenzia, serve come riferimento per i produttori e le autorità sanitarie europee nella preparazione dei vaccini per la prossima stagione influenzale. Lo riferisce l'Agenzia europea per i medicinali.",
+   "more": [
+    "I vaccini antinfluenzali vengono aggiornati ogni anno perché i virus dell'influenza mutano rapidamente. Le autorità sanitarie internazionali analizzano i ceppi circolanti per indicare quali varianti includere nei vaccini della stagione successiva. I vaccini a mRNA, già usati contro il Covid-19, rappresentano una tecnologia più recente rispetto ai vaccini antinfluenzali tradizionali."
+   ],
+   "fonti": [
+    {
+     "n": "Agenzia europea per i medicinali (Ema)",
+     "p": "XX",
+     "c": "Amsterdam",
+     "u": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
+     "angolo": "",
+     "atlas": "",
+     "t": "2026-11-17T14:00+01:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z6907c625",
+   "sez": "italia",
+   "titolo": "Famiglie italiane adottive bloccate in Congo, Tajani scrive al ministro",
+   "orig": "Famiglie adottive bloccate in Congo",
+   "lead": "Il ministro degli Esteri italiano Antonio Tajani ha scritto al ministro congolese chiedendo di trovare \"una soluzione immediata\" per alcune famiglie italiane che hanno adottato bambini in Congo e si trovano bloccate nel paese. Non sono specificati i motivi del blocco né il numero delle famiglie coinvolte, ma la vicenda ha spinto la diplomazia italiana a intervenire direttamente presso le autorità congolesi per sollecitare una risoluzione rapida della situazione. Lo riferisce Rai News.",
+   "more": [
+    "Le adozioni internazionali richiedono spesso lunghe procedure burocratiche sia nel paese di origine del bambino che in quello della famiglia adottiva. Ritardi o blocchi amministrativi nei paesi d'origine, come in questo caso in Congo, possono protrarre per mesi la permanenza delle famiglie prima del rimpatrio con il minore adottato."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/famiglie-adottive-bloccate-in-congo-a5a67b8c-2312-4892-b853-69a4c451f6d5.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T13:30+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z31724a6d",
+   "sez": "ambiente",
+   "titolo": "L'associazione dei produttori rinnovabili moldova nega di aver appoggiato il taglio alla produzione",
+   "orig": "APEEEF clarifies that it neither signed nor supported the proposal to reduce or halt electricity generation from renewable sources",
+   "lead": "L'Associazione dei Produttori di Elettricità da Fonti Rinnovabili (APEEEF) della Moldova ha chiarito di non aver né firmato né sostenuto una proposta per ridurre o fermare la produzione di elettricità da fonti rinnovabili, dopo che l'organizzazione era stata inclusa tra i firmatari dell'iniziativa. La precisazione arriva in risposta alla pubblicazione di un elenco di sostenitori della proposta, nel quale APEEEF sarebbe stata citata senza che l'associazione avesse effettivamente dato il proprio consenso. Lo riferisce IPN.",
+   "more": [
+    "La Moldova sta ampliando la propria capacità di produzione di energia da fonti rinnovabili come parte dei piani di diversificazione energetica e riduzione della dipendenza da importazioni, in un contesto regionale segnato dalle tensioni legate alle forniture di gas ed elettricità dalla Russia."
+   ],
+   "fonti": [
+    {
+     "n": "IPN (inglese)",
+     "p": "XX",
+     "c": "Chisinau",
+     "u": "https://ipn.md/en/apeeef-clarifies-that-it-neither-signed-nor-supported-the-proposal-to-reduce-or-halt-electricity-generation-from-renewable-sources/",
+     "angolo": "",
+     "atlas": "Moldova",
+     "t": "2026-11-17T15:24+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z668cd983",
+   "sez": "mondo",
+   "titolo": "New York, al via la più grande flotta di scuolabus elettrici in un quartiere del Bronx",
+   "orig": "Largest Electric Bus Fleet in New York to Serve Bronx Neighborhood Elevated Asthma Rates",
+   "lead": "Nello stato di New York è entrata in funzione la più grande flotta di scuolabus elettrici dello stato, operativa in un quartiere del South Bronx dove i tassi di asma infantile sono più del doppio della media nazionale. La società a conduzione familiare GVC, che da oltre 30 anni serve studenti con bisogni speciali nel Bronx, ha lavorato per realizzare il progetto nell'area considerata particolarmente colpita dall'inquinamento atmosferico. L'iniziativa punta a ridurre le emissioni inquinanti legate al trasporto scolastico in una zona con alti livelli di problemi respiratori tra i bambini. Lo riferisce Good News Network.",
+   "more": [
+    "Il South Bronx è storicamente tra i quartieri più colpiti dall'inquinamento atmosferico negli Stati Uniti, a causa della concentrazione di traffico veicolare e impianti industriali. L'asma infantile è legata all'esposizione a smog e polveri sottili, e la sostituzione dei bus diesel con mezzi elettrici è considerata una misura efficace per ridurre le emissioni locali."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-17T14:00+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "good": true,
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z91361202",
+   "sez": "ingegneria",
+   "titolo": "Dezeen lancia il progetto 20x20 per individuare gli architetti del futuro",
+   "orig": "Dezeen launches 20x20 project to identify the architects and designers to watch over the next 20 years",
+   "lead": "La rivista di design e architettura Dezeen festeggia il suo ventesimo anniversario lanciando il progetto \"20x20\": ha chiesto a venti architetti e designer che hanno avuto un impatto rilevante negli ultimi vent'anni di indicare ciascuno un collega che, secondo loro, avrà il maggiore impatto nei prossimi venti anni. L'iniziativa mira a individuare le nuove figure emergenti del settore attraverso le scelte di professionisti già affermati. Lo riferisce Dezeen.",
+   "more": [
+    "Dezeen è una delle testate online di riferimento internazionale per architettura e design, seguita da professionisti del settore in tutto il mondo. Iniziative come il progetto 20x20 servono a mappare le tendenze e i nomi emergenti che potrebbero orientare il futuro della disciplina."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T12:26+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z550d119a",
+   "sez": "cucina",
+   "titolo": "Salmone affumicato e rischio listeria: un nuovo richiamo riporta l'attenzione sul batterio",
+   "orig": "Salmone affumicato e listeria: cosa sapere",
+   "lead": "Un nuovo richiamo di salmone affumicato ha riportato l'attenzione sul rischio legato alla listeria, un batterio che può annidarsi in diversi alimenti e causare infezioni pericolose. La testata La Cucina Italiana spiega quali sono gli alimenti più a rischio di contaminazione e quali precauzioni adottare per prevenire il contagio, in seguito al richiamo che ha coinvolto prodotti a base di salmone affumicato. Lo riferisce La Cucina Italiana.",
+   "more": [
+    "La listeria monocytogenes è un batterio che può contaminare alimenti come salumi, formaggi molli, pesce affumicato e prodotti non pastorizzati. L'infezione, chiamata listeriosi, è particolarmente rischiosa per donne in gravidanza, anziani e persone immunodepresse, e può causare sintomi gastrointestinali fino a complicazioni più gravi. Per prevenirla si raccomanda la corretta conservazione e cottura degli alimenti a rischio."
+   ],
+   "fonti": [
+    {
+     "n": "La Cucina Italiana",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.lacucinaitaliana.it/article/batterio-listeria-come-proteggerci/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T15:42+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z5d72154e",
+   "sez": "mondo",
+   "titolo": "William e Kate iniziano la visita in India con cricket di strada e metropolitana",
+   "orig": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+   "lead": "Il principe William e la principessa Kate hanno iniziato la loro visita ufficiale in India giocando a cricket di strada con una leggenda dello sport locale e prendendo la metropolitana di Mumbai, prima di proseguire con gli impegni ufficiali legati all'Earthshot Prize, previsti nei prossimi giorni nella città. La coppia reale britannica si trova in India per una visita che include anche incontri culturali e ambientali, oltre alla cerimonia del premio dedicato a progetti per la sostenibilità ambientale. Lo riferisce BBC News.",
+   "more": [
+    "L'Earthshot Prize è un premio istituito dal principe William nel 2020 per premiare progetti e innovazioni che contribuiscono a risolvere le principali sfide ambientali del pianeta, come il cambiamento climatico e la perdita di biodiversità, con una cerimonia annuale che si tiene in città diverse del mondo."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-16T15:08+00:00"
+    },
+    {
+     "n": "El Universo",
+     "p": "XX",
+     "c": "Guayaquil",
+     "u": "https://eluniverso.com/entretenimiento/gente/principe-william-y-kate-middleton-sorprenden-en-su-visita-a-mumbai-nota/",
+     "angolo": "",
+     "atlas": "Ecuador",
+     "t": "2026-11-17T15:41+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "zd3f84e9e",
+   "sez": "economia",
+   "titolo": "I servizi bancari negli Usa tornano alla normalità dopo un guasto diffuso",
+   "orig": "US bank services returning to normal after major outage",
+   "lead": "I servizi di Chase Bank, la più grande banca degli Stati Uniti, stanno tornando alla normalità dopo un guasto diffuso che ha colpito le operazioni bancarie. L'istituto ha spiegato che il problema potrebbe essere stato causato da un bug software, precisando che non si è trattato di un guasto \"sistemico\" né legato a un attacco informatico. Il malfunzionamento è avvenuto a pochi giorni dalla settimana del Giorno del Ringraziamento, un periodo di grande afflusso di spostamenti e transazioni finanziarie negli Stati Uniti. Lo riferisce BBC News.",
+   "more": [
+    "Chase Bank, parte del gruppo JPMorgan Chase, è una delle maggiori banche retail degli Stati Uniti con decine di milioni di clienti. I guasti ai sistemi informatici bancari possono causare l'interruzione temporanea di pagamenti, prelievi e altre operazioni, generando preoccupazione soprattutto nei periodi di maggiore attività come le festività."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T15:04+00:00"
+    },
+    {
+     "n": "Condé Nast Traveler",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.cntraveler.com/story/are-us-flight-schedules-returning-to-normal-what-thanksgiving-travelers-need-to-know",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-16T22:26+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z33b1ac25",
+   "sez": "dibattito",
+   "titolo": "Polemica nel Regno Unito per il trasferimento dell'Istituto Shakespeare da Stratford a Birmingham",
+   "orig": "MP to challenge 'ill-thought' Shakespeare move",
+   "lead": "Nel Regno Unito è in corso una polemica sulla decisione di trasferire lo Shakespeare Institute, centro di studi su Shakespeare parte dell'Università di Birmingham, dalla sede storica di Stratford-upon-Avon a Edgbaston, quartiere di Birmingham. La parlamentare Manuela Perteghella ha definito la scelta \"scioccante\" e ha annunciato di voler contestare quella che chiama una decisione \"poco ponderata\". Secondo diverse voci critiche citate dalle fonti, il trasferimento rappresenterebbe un atto di \"vandalismo culturale\" nei confronti di un centro di studi di rilievo internazionale legato alla città natale del drammaturgo.",
+   "more": [
+    "Stratford-upon-Avon è la città natale di William Shakespeare e sede storica di istituzioni dedicate al suo studio e alla sua eredità culturale, incluso il Royal Shakespeare Theatre. Lo Shakespeare Institute, fondato per approfondire lo studio delle opere del drammaturgo, è parte dell'Università di Birmingham, che ha deciso di concentrare le proprie attività accademiche nel campus principale di Edgbaston."
+   ],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cm3wgejy5qq8o",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T12:29+00:00"
+    },
+    {
+     "n": "The Guardian – Istruzione",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/education/2026/nov/16/near-philistine-fury-shakespeare-institute-plan-leave-stratford-upon-avon-edgbaston",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-16T17:45+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "zd0b6fd70",
+   "sez": "prima",
+   "titolo": "Mattarella alla Cattolica di Milano: i giovani sono chiamati a cambiare il mondo",
+   "orig": "Colle: giovani chiamati a cambiare mondo",
+   "lead": "Il presidente della Repubblica Sergio Mattarella, intervenendo all'Università Cattolica di Milano, ha detto che i giovani non sono \"contenitori da riempire\" ma sono chiamati a contribuire a cambiare il mondo. Le parole del capo dello Stato sono state pronunciate durante una visita all'ateneo milanese, nel quadro di un intervento dedicato al ruolo delle nuove generazioni nella società. Lo riferisce Rai News.",
+   "more": [
+    "Il presidente della Repubblica interviene periodicamente in contesti universitari e formativi per richiamare l'attenzione sul ruolo educativo e sociale delle nuove generazioni, un tema ricorrente nei discorsi pubblici di Sergio Mattarella durante il suo mandato."
+   ],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/colle-giovani-chiamati-a-cambiare-mondo-e19adb91-3adc-48a4-8183-ddd655ce749c.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T12:30+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/dirette_live/2026/11/16/mattarella-alla-cerimonia-di-inaugurazione-dellanno-accademico-delluniversita-cattolica-del-sacro_0ea6247c-d33b-4f17-aa34-be08e30c2c3d.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T11:35+01:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17",
+   "sez_prima": "italia",
+   "riempimento": true
+  },
+  {
+   "id": "z45f32779",
+   "sez": "tech",
+   "titolo": "Nuova Zelanda, cresce la domanda di competenze in intelligenza artificiale negli annunci di lavoro",
+   "orig": "Increasing demand for AI skills in job listings",
+   "lead": "In Nuova Zelanda gli ultimi dati del portale di lavoro SEEK mostrano che il numero totale di annunci di lavoro è calato dello 0,6% nell'ultimo mese, ma la domanda di assunzioni è aumentata del 4,6% su base annua. Tra i settori in crescita emerge in particolare la richiesta di competenze legate all'intelligenza artificiale, segnale di un cambiamento nelle esigenze delle aziende rispetto a un anno fa. Lo riferisce RNZ.",
+   "more": [
+    "I portali di annunci di lavoro come SEEK vengono spesso usati per monitorare l'andamento del mercato occupazionale. Un aumento della domanda di competenze in intelligenza artificiale riflette una tendenza globale, legata alla diffusione crescente di strumenti basati su questa tecnologia in diversi settori produttivi."
+   ],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/business/2646502/increasing-demand-for-ai-skills-in-job-listings",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-18T04:40+13:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "zf1bdd860",
+   "sez": "dibattito",
+   "titolo": "Regno Unito, un rapporto chiede riforme per aiutare i giovani a trovare lavoro",
+   "orig": "New report wants big changes to help young people get skills and jobs",
+   "lead": "Nel Regno Unito il Millburn Review, un rapporto guidato dall'ex ministro della Sanità Alan Milburn, chiede cambiamenti significativi per sostenere i giovani nell'acquisizione di competenze e nell'accesso al lavoro, durante e dopo il periodo scolastico. Secondo il rapporto, servono riforme per aiutare i giovani a trovare un impiego, una formazione o a restare nel percorso di istruzione quando diventano più grandi, in un contesto segnato da preoccupazioni per la disoccupazione giovanile nel paese. Il documento è stato presentato nella sede londinese di Google.",
+   "more": [
+    "La disoccupazione giovanile è un tema ricorrente nelle politiche sociali europee: i governi cercano di ridurre il numero di giovani che non studiano, non lavorano e non sono in formazione (i cosiddetti NEET), attraverso programmi di orientamento, apprendistato e incentivi alle imprese per l'assunzione di under 25."
+   ],
+   "fonti": [
+    {
+     "n": "BBC Newsround",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/newsround/articles/cvx2xwzj86dro",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T13:42+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "zf82d3499",
+   "sez": "salute",
+   "titolo": "I medici indiani chiedono il divieto di un film di Bollywood per la rappresentazione della sanità",
+   "orig": "Indian doctors seek Bollywood ban over portrayal of violence and corruption in healthcare",
+   "lead": "L'Associazione Medica Indiana (IMA) ha chiesto all'ente di censura cinematografica del paese di bloccare la proiezione del film di Bollywood \"Suryaa: Ant se Aarambh Tak\", un thriller criminale, per la sua rappresentazione della corruzione medica e della violenza contro i medici. Secondo l'IMA, il film rischia di rafforzare l'ostilità del pubblico verso il personale sanitario, e l'associazione ha chiesto che ai produttori venga ordinato di interrompere le attività promozionali legate alla pellicola. Lo riferisce The BMJ.",
+   "more": [
+    "In India le aggressioni contro il personale medico sono un problema diffuso, legato spesso a episodi di sfiducia verso il sistema sanitario pubblico. Le associazioni medi­che indiane hanno più volte chiesto leggi più severe di tutela per i sanitari e una rappresentazione mediatica più equilibrata del settore."
+   ],
+   "fonti": [
+    {
+     "n": "The BMJ",
+     "p": "UK",
+     "c": "Londra",
+     "u": "http://www.bmj.com/content/395/bmj-2026-101470.short?rss=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T04:41-08:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "zc0047e07",
+   "sez": "cultura",
+   "titolo": "Annunciati i vincitori del Weather Photographer of the Year nel Regno Unito",
+   "orig": "A Waterfall of Fog and Lots of Lighting, These Images Won the UK’s Weather Photography Awards",
+   "lead": "Sono stati annunciati i vincitori del concorso fotografico Weather Photographer of the Year 2026, organizzato dalla Royal Meteorological Society nel Regno Unito. Il concorso ha attirato oltre 5.500 partecipanti da tutto il mondo, con scatti che vanno da una cascata di nebbia a tempeste e alba, selezionati da una giuria internazionale di esperti di meteorologia e clima. Lo riferisce Good News Network.",
+   "more": [
+    "La Royal Meteorological Society è un'organizzazione scientifica britannica dedicata allo studio della meteorologia. Il concorso fotografico, giunto a diverse edizioni, premia immagini che raccontano fenomeni atmosferici ed è diventato un appuntamento seguito a livello internazionale dagli appassionati di fotografia naturalistica."
+   ],
+   "fonti": [
+    {
+     "n": "Good News Network",
+     "p": "US",
+     "c": "Stati Uniti",
+     "u": "https://www.goodnewsnetwork.org/a-waterfall-of-fog-and-almighty-storms-these-images-won-the-uks-weather-photography-awards/",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-17T12:30+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "good": true,
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "zec09d02a",
+   "sez": "ingegneria",
+   "titolo": "Harry Nuriev scelto da Bjarke Ingels come designer più influente dei prossimi 20 anni",
+   "orig": "Meet Harry Nuriev, Bjarke Ingels' pick for the most influential designer of the next 20 years",
+   "lead": "Il fondatore dello studio BIG, Bjarke Ingels, ha scelto il designer Harry Nuriev, basato a Parigi, come la figura che secondo lui avrà il maggiore impatto nel design nei prossimi vent'anni, nell'ambito del progetto 20x20 lanciato da Dezeen. In un'intervista, Nuriev ha spiegato come punti costantemente a reinventare se stesso e il proprio lavoro. La scelta rientra nell'iniziativa con cui la rivista Dezeen celebra il proprio ventesimo anniversario. Lo riferisce Dezeen.",
+   "more": [
+    "Harry Nuriev è un designer e architetto noto per un approccio sperimentale che mescola arte, moda e design d'interni, con progetti che hanno attirato l'attenzione del settore negli ultimi anni. Bjarke Ingels è il fondatore dello studio di architettura danese BIG, noto per progetti innovativi in tutto il mondo."
+   ],
+   "fonti": [
+    {
+     "n": "Dezeen",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.dezeen.com/2026/11/17/harry-nuriev-20-20-bjarke-ingels/",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T12:20+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z805c0eb1",
+   "sez": "mondo",
+   "titolo": "Il Brasile batte 7-0 Singapore con una tripletta di Vinicius nel primo tempo",
+   "orig": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
+   "lead": "Il Brasile ha sconfitto 7-0 Singapore in un'amichevole giocata allo stadio nazionale della città-stato, con l'attaccante Vinicius Junior che ha segnato una tripletta nel primo tempo in appena 12 minuti. Hanno segnato anche Endrick, Estevao, Rayan e il subentrato Allan, in una prestazione dominante dei campioni del mondo sudamericani contro i padroni di casa. Lo riferisce Al Jazeera.",
+   "more": [
+    "Il Brasile è la nazionale con il maggior numero di titoli mondiali di calcio e disputa periodicamente amichevoli in Asia e altre regioni per promuovere il gioco e generare introiti commerciali. Vinicius Junior, attaccante del Real Madrid, è considerato tra i calciatori più in forma del momento a livello internazionale."
+   ],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-17T12:54+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/vinicius-nets-first-half-hat-trick-as-brazil-crush-singapore-7-0-n394066",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-17T12:49+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "zbac55f4a",
+   "sez": "economia",
+   "titolo": "La banca centrale polacca congela i conti della Corte costituzionale in una disputa sulla leadership",
+   "orig": "Poland’s central bank freezes constitutional court’s accounts amid leadership dispute",
+   "lead": "La banca centrale polacca ha congelato i conti della Corte costituzionale del paese nel contesto di una disputa sulla guida dell'istituzione, in cui giudici nominati sotto il governo attuale e quello precedente si contendono il controllo della Corte. Non sono specificati ulteriori dettagli sulle ragioni tecniche della decisione della banca centrale, ma la vicenda si inserisce in un più ampio scontro politico-istituzionale polacco legato alla composizione della Corte costituzionale. Lo riferisce Notes from Poland.",
+   "more": [
+    "In Polonia la Corte costituzionale è al centro di tensioni politiche da anni, legate alle riforme giudiziarie promosse dai governi succedutisi e alle accuse reciproche di nomine irregolari dei giudici. Il controllo dell'istituzione ha un peso rilevante perché la Corte decide sulla legittimità delle leggi approvate dal parlamento."
+   ],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/11/17/polands-central-bank-freezes-constitutional-courts-accounts-amid-leadership-dispute/",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-11-17T10:28+00:00"
+    },
+    {
+     "n": "Nyasa Times",
+     "p": "XX",
+     "c": "Lilongwe",
+     "u": "https://www.nyasatimes.com/sleaze-row-deepens-govt-freezes-accounts-after-k2-6bn-egenco-legal-fee-sparks-outrage/?utm_source=rss&utm_medium=rss&utm_campaign=sleaze-row-deepens-govt-freezes-accounts-after-k2-6bn-egenco-legal-fee-sparks-outrage",
+     "angolo": "",
+     "atlas": "Malawi",
+     "t": "2026-11-17T14:08+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z17279bf3",
+   "sez": "dibattito",
+   "titolo": "Condono edilizio, pronti gli emendamenti di Fratelli d'Italia ma Meloni frena",
+   "orig": "Ecco gli emendamenti di FdI per il condono, ma ora Meloni frena: “Rischiamo un boomerang”",
+   "lead": "Fratelli d'Italia ha preparato un pacchetto di 12 emendamenti alla manovra per ampliare il condono edilizio, con misure che vanno dall'estensione agli abusi minori e alle pertinenze alla riattivazione di vecchie domande già presentate ma non ancora definite. La premier Giorgia Meloni avrebbe però frenato sulla proposta, dicendo ai suoi di voler evitare che la manovra diventi \"quella dei condoni\" per il rischio, secondo le sue parole, di un \"boomerang\" politico. La vicenda apre una discussione interna alla maggioranza sul contenuto definitivo della legge di bilancio. Lo riferisce la Repubblica.",
+   "more": [
+    "Il condono edilizio è una misura che permette di sanare irregolarità urbanistiche commesse in passato, pagando una sanzione, evitando demolizioni o procedimenti penali. In Italia è un tema politicamente sensibile, spesso oggetto di dibattito perché criticato da chi lo considera un incentivo a nuove violazioni e sostenuto da chi lo vede come una soluzione a situazioni irrisolte da anni."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/politica/2026/11/17/news/condono_emendamenti_fdi_meloni_frena-425729786/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T14:06+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z5c98bbcc",
+   "sez": "salute",
+   "titolo": "Negli Usa cresce il sostegno all'idea di estendere Medicare",
+   "orig": "STAT+: ‘Medicare for More’ gains traction",
+   "lead": "Negli Stati Uniti i Democratici si stanno coalizzando attorno a una nuova proposta di politica sanitaria chiamata \"Medicare for More\", mentre il nuovo capo di gabinetto della Casa Bianca di Donald Trump abbraccia posizioni legate al movimento MAHA (Make America Healthy Again). La proposta democratica punta a estendere la copertura del programma pubblico Medicare a una platea più ampia di cittadini rispetto a quella attuale, in un contesto di crescente attenzione politica ai temi della sanità pubblica negli Stati Uniti. Lo riferisce STAT.",
+   "more": [
+    "Medicare è il programma sanitario pubblico statunitense riservato principalmente agli over 65 e ad alcune categorie di persone con disabilità. Negli ultimi anni diverse proposte democratiche hanno puntato ad ampliarne la copertura come alternativa a una riforma sanitaria universale, mentre il movimento MAHA, legato a Robert F. Kennedy Jr., promuove un approccio alla salute pubblica incentrato su alimentazione e prevenzione."
+   ],
+   "fonti": [
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-17T15:27+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z39c96b27",
+   "sez": "economia",
+   "titolo": "Tunisia, 404 milioni di dinari per gli Affari Esteri nel bilancio 2027",
+   "orig": "Budget 2027 : 404,15 millions de dinars alloués aux Affaires étrangères",
+   "lead": "Il bilancio della missione degli Affari Esteri, della Migrazione e dei Tunisini all'estero per l'anno 2027 è stimato in 404,15 milioni di dinari, secondo il rapporto della Commissione per le relazioni estere, la cooperazione internazionale e le questioni dei tunisini all'estero dell'Assemblea tunisina. La cifra riguarda le risorse destinate alla diplomazia e ai servizi per i cittadini tunisini residenti fuori dal paese per il prossimo anno. Lo riferisce La Presse de Tunisie.",
+   "more": [
+    "I bilanci annuali dei ministeri degli Esteri comprendono tipicamente le spese per il funzionamento delle ambasciate e dei consolati, la cooperazione internazionale e i servizi dedicati ai cittadini all'estero, una voce particolarmente rilevante per la Tunisia data l'ampia diaspora tunisina in Europa e altrove."
+   ],
+   "fonti": [
+    {
+     "n": "La Presse de Tunisie",
+     "p": "XX",
+     "c": "Tunisi",
+     "u": "https://www.lapresse.tn/2026/11/17/budget-2027-40415-millions-de-dinars-alloues-aux-affaires-etrangeres/",
+     "angolo": "",
+     "atlas": "Tunisia",
+     "t": "2026-11-17T14:10+00:00"
+    },
+    {
+     "n": "Gabonactu",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://gabonactu.com/blog/2026/11/16/hotellerie-le-ministere-des-affaires-etrangeres-nest-associe-a-aucun-recrutement/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-16T15:32+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z47b7ec56",
+   "sez": "italia",
+   "titolo": "Chieti, identificato un minorenne come autore dei falsi allarmi bomba nelle scuole",
+   "orig": "Falsi allarmi bomba nelle scuole a Chieti: identificato l’autore delle mail minatorie, è un minorenne non imputabile",
+   "lead": "A Chieti è stato identificato l'autore dei falsi allarmi bomba che avevano messo in allerta diverse scuole della città, inviati tramite email agli indirizzi istituzionali per annunciare la presenza di ordigni. Si tratta di un ragazzo minorenne, risultato non imputabile per la sua età. A individuarlo sono stati gli investigatori della Digos della questura di Chieti, in collaborazione con il Centro operativo per la sicurezza cibernetica Abruzzo di Pescara. Lo riferisce Orizzonte Scuola.",
+   "more": [
+    "I falsi allarmi bomba nelle scuole sono un fenomeno che può causare evacuazioni e allerta tra studenti e famiglie, pur non comportando un pericolo reale. In Italia i minori sotto i 14 anni non sono penalmente imputabili, ma possono essere sottoposti a misure educative o di responsabilizzazione da parte delle autorità competenti."
+   ],
+   "fonti": [
+    {
+     "n": "Orizzonte Scuola",
+     "p": "IT",
+     "c": "Italia",
+     "u": "https://www.orizzontescuola.it/scuola-falsi-allarmi-bomba-a-chieti-identificato-lautore-delle-mail-minatorie-e-un-minorenne-non-imputabile/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T15:52+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z20893976",
+   "sez": "italia",
+   "titolo": "Roma, nuovo open day per la carta d'identità elettronica il 21 e 22 novembre",
+   "orig": "Carta d'identità elettronica a Roma: sabato 21 e domenica 22 novembre nuovo open day. Tutte le indicazioni",
+   "lead": "A Roma torna l'open day dedicato alla carta d'identità elettronica nei giorni di sabato 21 e domenica 22 novembre, rivolto ai cittadini che possiedono ancora la versione in formato cartaceo del documento e devono convertirla nel nuovo formato elettronico. L'iniziativa fornisce indicazioni specifiche su orari e modalità per ottenere il nuovo documento durante il fine settimana. Lo riferisce Il Messaggero.",
+   "more": [
+    "La carta d'identità elettronica ha progressivamente sostituito in Italia il documento in formato cartaceo, offrendo funzioni aggiuntive come l'identificazione digitale per l'accesso ai servizi online della pubblica amministrazione. I comuni organizzano periodicamente giornate dedicate per facilitare la conversione del documento ai cittadini che non l'hanno ancora richiesta."
+   ],
+   "fonti": [
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/roma/montesacro/carta_d_identita_elettronica_roma_sabato_21_domenica_22_novembre_dove-9895794.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T15:19+01:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "za3273f77",
+   "sez": "economia",
+   "titolo": "L'Iraq riprende le esportazioni di petrolio verso la Turchia dopo 12 anni",
+   "orig": "Iraq resumes oil flows via rehabilitated Kirkuk–Ceyhan pipeline",
+   "lead": "L'Iraq ha ripreso martedì le esportazioni di petrolio grezzo attraverso l'oleodotto riabilitato Kirkuk-Ceyhan verso la Turchia, dopo un'interruzione durata 12 anni. Il pompaggio è ripartito con un ritmo iniziale di 120.000 barili al giorno. La riattivazione della storica infrastruttura rappresenta un passo importante per Baghdad nel riportare in funzione le vie di esportazione del petrolio curdo e federale verso i mercati internazionali attraverso la Turchia. Lo riferisce Iraqi News.",
+   "more": [
+    "L'oleodotto Kirkuk-Ceyhan collega i giacimenti petroliferi del nord dell'Iraq al porto turco di Ceyhan sul Mediterraneo, da dove il petrolio viene esportato verso i mercati internazionali. L'infrastruttura era rimasta bloccata per anni a causa di dispute tra il governo federale iracheno e il governo regionale del Kurdistan sulla gestione dei proventi petroliferi."
+   ],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/iraq-resumes-oil-flows-via-rehabilitated-kirkuk-ceyhan-pipeline/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-17T14:09+00:00"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/economy/2219823",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-17T18:25+03:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "za185a527",
+   "sez": "mondo",
+   "titolo": "Lucky Luke compie 80 anni con nuovo album di Jul",
+   "orig": "Lucky Luke, 80 ans et bien vivant sous la plume de Jul",
+   "lead": "Lucky Luke, il celebre fumetto western creato da Morris 80 anni fa e proseguito da Goscinny, festeggia il compleanno con un nuovo album \"Saint Lucky Luke\" di Jul pubblicato da Dargaud a Parigi che affronta il fanatismo religioso. L'autore ha regalato l'opera al papa Léon XIV. Lo riferisce France 24.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261117-lucky-luke-80-ans-et-bien-vivant-sous-la-plume-de-jul",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-17T15:11+00:00"
+    },
+    {
+     "n": "Meta.mk",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://meta.mk/en/lucky-luke-and-gaston-live-on-in-new-comic-albums-by-contemporary-authors/",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-11-16T17:59+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z3b12ed48",
+   "sez": "mondo",
+   "titolo": "APEC riunita a Shenzhen su economia e innovazione",
+   "orig": "APEC : Shenzhen au cœur des enjeux d’intégration économique et d’innovation",
+   "lead": "La 33ª riunione dei capi economici dell'APEC si svolge il 18-19 novembre 2026 a Shenzhen, in Cina, ponendo focus su connettività regionale, integrazione commerciale e intelligenza artificiale, tre pilastri della cooperazione economica nell'area Asia-Pacifico. Lo riferisce Le Soleil.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/apec-shenzhen-au-coeur-des-enjeux-dintegration-economique-et-dinnovation/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-17T11:03+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150848",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-17T15:06+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z75f39a3b",
+   "sez": "mondo",
+   "titolo": "Australia: divario retributivo di genere sotto il 20% per la prima volta",
+   "orig": "Australia’s gender pay gap falls below 20% for first time",
+   "lead": "Il divario retributivo di genere in Australia è sceso sotto il 20% per la prima volta nel 2025-26, con le donne che guadagnano in media 80 centesimi per ogni dollaro rispetto ai colleghi maschi secondo il rapporto dell'agenzia australiana per l'uguaglianza di genere nel lavoro. Lo riferisce The Guardian.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T14:00+00:00"
+    },
+    {
+     "n": "Sydney Morning Herald",
+     "p": "XX",
+     "c": "Sydney",
+     "u": "https://www.smh.com.au/business/workplace/gender-pay-gap-drops-below-20-per-cent-but-women-still-fall-short-of-the-top-job-20261118-p61etu.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+     "angolo": "",
+     "atlas": "Australia",
+     "t": "2026-11-18T00:01+11:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z265014a6",
+   "sez": "mondo",
+   "titolo": "Biden rivela di aver dissuaso Netanyahu da attacco a Hezbollah dopo il 7 ottobre",
+   "orig": "Biden advised Netanyahu to abort massive attack on Hezbollah after Oct. 7",
+   "lead": "L'ex presidente americano Joe Biden ha rivelato nelle sue memorie \"Promise Me, America\" di aver consigliato al primo ministro israeliano Benjamin Netanyahu di rinunciare a un massiccio attacco a Hezbollah subito dopo gli attacchi del 7 ottobre 2023. Lo riferisce Naharnet.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://www.naharnet.com/stories/en/323841-biden-advised-netanyahu-to-abort-massive-attack-on-hezbollah-after-oct-7",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-11-17T15:16+02:00"
+    },
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/11/17/mundo/noticia/zelensky-teimoso-putin-petulante-netanyahu-trumpista-memorias-biden-2195251",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-17T14:01+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z991825d1",
+   "sez": "prima",
+   "titolo": "Aston Martin Dreadnought alla Dakar 2027 con Alonso e Loeb",
+   "orig": "The Aston Martin Dreadnought goes from video game sidekick to competitive dune basher",
+   "lead": "Aston Martin Racing e Prodrive portano l'Aston Martin Dreadnought alla Dakar 2027, in programma dal 9 al 23 gennaio, con una squadra di lusso che include Fernando Alonso e Sébastien Loeb per affrontare il rallye di resistenza più impegnativo del mondo. Lo riferisce Wallpaper*.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Wallpaper*",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.wallpaper.com/transportation/the-aston-martin-dreadnought-goes-from-video-game-sidekick-to-competitive-dune-basher",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-17T09:00+00:00"
+    },
+    {
+     "n": "El Deber",
+     "p": "XX",
+     "c": "Santa Cruz",
+     "u": "https://eldeber.com.bo/deportes/fernando-alonso-correra-segunda-vez-rally-dakar-aston-martin_1794924286",
+     "angolo": "",
+     "atlas": "Bolivia",
+     "t": "2026-11-17T14:04+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-17T10:42+00:00"
+    },
+    {
+     "n": "Il Post",
+     "p": "IT",
+     "c": "Milano",
+     "u": "https://www.ilpost.it/2026/11/17/fernando-alonso-rally-dakar-aston-martin/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-17T10:47+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z3ac6789a",
+   "sez": "mondo",
+   "titolo": "Ministro Difesa indiano Rajnath Singh in visita in Giappone",
+   "orig": "Rajnath Singh to visit Japan for Ministerial dialogue on defence cooperation",
+   "lead": "Il ministro della Difesa indiano Rajnath Singh visita il Giappone per colloqui ministeriali sulla cooperazione difensiva, esaminando l'intera gamma della cooperazione strategica bilaterale e scambiando vedute su sviluppi regionali e globali. Lo riferisce The Hindu.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Hindu",
+     "p": "XX",
+     "c": "Chennai",
+     "u": "https://www.thehindu.com/news/national/rajnath-singh-to-visit-japan-for-ministerial-dialogue-on-defence-cooperation/article71711927.ece",
+     "angolo": "",
+     "atlas": "India",
+     "t": "2026-11-17T21:25+05:30"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2045178/pakistan-discusses-avenues-for-enhancing-bilateral-defence-cooperation-with-uk-turkiye",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-17T18:16+05:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "za311d75a",
+   "sez": "mondo",
+   "titolo": "Waltz: USA proseguiranno dialogo sul Sahara nonostante veto russo",
+   "orig": "Waltz vows to press ahead with Sahara talks despite Russian veto and MINURSO closure",
+   "lead": "L'ambasciatore americano all'ONU Mike Waltz dichiara che Washington continuerà a spingere per una soluzione della disputa del Sahara occidentale basata sulla proposta di autonomia marocchina, nonostante il veto russo a una risoluzione del Consiglio di Sicurezza e la chiusura della missione MINURSO. Lo riferisce Hespress English.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/149356-waltz-vows-to-press-ahead-with-sahara-talks-despite-russian-veto-and-minurso-closure.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-17T15:27+00:00"
+    },
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://www.naharnet.com/stories/en/323840-waltz-praises-aoun-s-courageous-decision-to-enter-trilateral-israel-talks",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-11-17T15:04+02:00"
+    },
+    {
+     "n": "Fox News",
+     "p": "US",
+     "c": "New York",
+     "u": "https://www.foxnews.com/world/after-un-peacekeeping-mission-ends-morocco-says-western-sahara-dispute-enters-new-phase",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-17T09:59-05:00"
+    },
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/149364-bourita-reveals-joint-morocco-us-proposals-aimed-at-ending-sahara-dispute.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-17T15:49+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z7f9eea77",
+   "sez": "mondo",
+   "titolo": "Francia pianifica dispiegamento di truppe in Libano per pattugliamenti congiunti",
+   "orig": "France to send troops to Lebanon for joint patrols with army",
+   "lead": "La Francia pianifica di dispiegare centinaia, potenzialmente migliaia di truppe in Libano per condurre pattugliamenti congiunti con l'esercito libanese, nell'ambito di un'iniziativa per rafforzare la stabilità in una delle aree critiche del Medio Oriente. Lo riferisce Naharnet.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Naharnet",
+     "p": "XX",
+     "c": "Beirut",
+     "u": "https://www.naharnet.com/stories/en/323850-france-to-send-troops-to-lebanon-for-joint-patrols-with-army",
+     "angolo": "",
+     "atlas": "Lebanon",
+     "t": "2026-11-17T16:09+02:00"
+    },
+    {
+     "n": "Somali Guardian",
+     "p": "XX",
+     "c": "Mogadiscio",
+     "u": "https://www.somaliguardian.com/news/somalia-news/turkey-denies-15000-troops-somalia/",
+     "angolo": "",
+     "atlas": "Somalia",
+     "t": "2026-11-12T16:28+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z82b7d027",
+   "sez": "mondo",
+   "titolo": "Haiti chiede estensione della missione salvadoregna contro le gang",
+   "orig": "International News: Haiti seeks extension of El Salvador’s troop deployment to fight gangs",
+   "lead": "Haiti chiede l'estensione del dispiegamento di oltre 2.000 truppe salvadoregne per combattere le gang armate, con il ministro della Sicurezza di Port-au-Prince che elogia la missione per aver rinnovato la speranza e invertito il corso della lotta alla violenza criminale. Lo riferisce Breaking Belize News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Breaking Belize News",
+     "p": "XX",
+     "c": "Belmopan",
+     "u": "https://www.breakingbelizenews.com/2026/11/17/international-news-haiti-seeks-extension-of-el-salvadors-troop-deployment-to-fight-gangs/",
+     "angolo": "",
+     "atlas": "Belize",
+     "t": "2026-11-17T14:40+00:00"
+    },
+    {
+     "n": "Le Nouvelliste",
+     "p": "XX",
+     "c": "Port-au-Prince",
+     "u": "https://lenouvelliste.com/article/273967/el-salvador-and-haiti-between-skeptics-and-enthusiasts",
+     "angolo": "",
+     "atlas": "Haiti",
+     "t": "2026-11-16T21:17+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
+   "id": "z99213067",
+   "sez": "mondo",
+   "titolo": "Cuba promette agevolazioni fiscali alle MIPYME per finanziare servizi pubblici",
+   "orig": "El régimen cubano promete beneficios fiscales a las mipymes que financien servicios públicos",
+   "lead": "Il regime cubano ha promesso agevolazioni fiscali alle piccole e medie imprese che finanziano servizi pubblici, con una nuova risoluzione che stabilisce bonus del 20% per investimenti in infrastrutture sociali e del 10% per donazioni a enti statali. Lo riferisce 14ymedio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "14ymedio",
+     "p": "XX",
+     "c": "Madrid (in esilio)",
+     "u": "https://www.14ymedio.com/cuba/regimen-cubano-promete-beneficios-fiscales_1_1133345.html",
+     "angolo": "",
+     "atlas": "Cuba",
+     "t": "2026-11-16T20:01+00:00"
+    },
+    {
+     "n": "Clarín",
+     "p": "XX",
+     "c": "Buenos Aires",
+     "u": "https://www.clarin.com/estados-unidos/la-produccion-industrial-de-ee-uu-cae-un-0-4-en-octubre-lastrada-por-servicios-publicos_0_OMoNJkcmKR.html",
+     "angolo": "",
+     "atlas": "Argentina",
+     "t": "2026-11-17T15:40+00:00"
+    }
+   ],
+   "data": "17 nov",
+   "ora": "17:08",
+   "uscita": "17"
+  },
+  {
    "id": "z8c6132c7",
    "sez": "mondo",
    "titolo": "Il vertice Apec a Shenzhen mette in mostra l'ascesa tecnologica della Cina",
@@ -100,7 +1199,7 @@ window.EDIZIONI["2026-11-17-sera"] = {
   },
   {
    "id": "z0a64d3f8",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Il Papa colpito al volto da un rosario durante la messa d'addio in Perù",
    "orig": "Pope Leo hit by flying rosary while waving to crowds in Peru",
    "lead": "Papa Leone XIV è stato colpito vicino all'occhio da quello che sembra essere un rosario lanciato da qualcuno tra la folla, mentre viaggiava sulla papamobile a Lima per celebrare la messa d'addio al termine del suo viaggio in Sud America. Il pontefice ha continuato la celebrazione nonostante l'episodio. Il tour di 12 giorni ha incluso Uruguay, Argentina e Perù, dopo l'intervento chirurgico per un tumore ai polmoni subito 24 giorni prima della partenza. Lo riferisce BBC News.",
@@ -165,7 +1264,9 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "data": "17 nov",
    "ora": "12:37",
-   "uscita": "13"
+   "uscita": "13",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "z2e91f8b9",
@@ -238,7 +1339,7 @@ window.EDIZIONI["2026-11-17-sera"] = {
   },
   {
    "id": "zba60623e",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Vance accusa i 'neoconservatori' di voler prolungare la guerra in Iran",
    "orig": "Vance calls out ‘neoconservatives’ over Iran war",
    "lead": "Il vicepresidente americano JD Vance ha dichiarato a Fox News che i \"neoconservatori\" vorrebbero trasformare la guerra con l'Iran in un conflitto permanente, assicurando che l'amministrazione Trump non lo permetterà e respingendo richieste di una presenza militare prolungata. Le sue dichiarazioni arrivano mentre si segnalano incidenti con petroliere nello stretto di Hormuz. Lo riferisce Al Jazeera.",
@@ -303,7 +1404,9 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "data": "17 nov",
    "ora": "12:37",
-   "uscita": "13"
+   "uscita": "13",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "zb58f823b",
@@ -750,7 +1853,7 @@ window.EDIZIONI["2026-11-17-sera"] = {
   },
   {
    "id": "z58eb15c3",
-   "sez": "economia",
+   "sez": "prima",
    "titolo": "Canada e Cina accordo per ridurre i dazi commerciali",
    "orig": "Canada, China agree to ease tariffs amid trade rows with US",
    "lead": "Il primo ministro canadese Mark Carney e il presidente cinese Xi Jinping hanno annunciato un accordo per ridurre ulteriormente i dazi commerciali tra i due paesi, in un contesto di crescenti tensioni commerciali tra Canada e Stati Uniti. Il governo canadese ha confermato l'intesa su una serie di prodotti, mentre i due leader hanno espresso l'intenzione di rafforzare la cooperazione bilaterale. L'incontro, avvenuto a margine di un summit asiatico, segna un contrasto con i rapporti attualmente tesi tra Ottawa e Washington.",
@@ -788,7 +1891,9 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "data": "17 nov",
    "ora": "12:37",
-   "uscita": "13"
+   "uscita": "13",
+   "sez_prima": "economia",
+   "riempimento": true
   },
   {
    "id": "z3f6b0980",
@@ -1095,28 +2200,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-17T08:26+00:00"
-    }
-   ],
-   "data": "17 nov",
-   "ora": "12:37",
-   "uscita": "13"
-  },
-  {
-   "id": "z712df537",
-   "sez": "italia",
-   "titolo": "Mattarella a Milano per l'inaugurazione dell'anno accademico della Cattolica",
-   "orig": "Mattarella a Milano per l'inaugurazione dell'anno accademico della Cattolica",
-   "lead": "Il presidente della Repubblica Sergio Mattarella sarà a Milano per l'inaugurazione dell'anno accademico dell'Università Cattolica, con l'appuntamento fissato alle ore 11.30. Lo riferisce ANSA.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/sito/notizie/dirette_live/2026/11/16/mattarella-alla-cerimonia-di-inaugurazione-dellanno-accademico-delluniversita-cattolica-del-sacro_0ea6247c-d33b-4f17-aa34-be08e30c2c3d.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-17T11:35+01:00"
     }
    ],
    "data": "17 nov",
@@ -1525,7 +2608,7 @@ window.EDIZIONI["2026-11-17-sera"] = {
   },
   {
    "id": "z6b128f81",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "La Turchia pone sotto controllo statale l'ultima tv di opposizione, Sözcü",
    "orig": "Turkish authorities raid opposition Sozcu news channel, appoint new management",
    "lead": "Le autorità turche hanno fatto irruzione all'alba negli uffici di Istanbul dell'emittente di opposizione Sözcü TV, sospendendo le trasmissioni, nominando un commissario e aprendo un'indagine per terrorismo, mentre alcuni dirigenti sono stati fermati. L'operazione arriva un mese dopo un raid simile contro un'altra tv critica del governo e mentre l'esecutivo affronta uno scandalo legato a un fondo di investimento. Sözcü era l'ultima importante televisione di opposizione ancora attiva nel paese.",
@@ -1572,7 +2655,9 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "data": "17 nov",
    "ora": "12:37",
-   "uscita": "13"
+   "uscita": "13",
+   "sez_prima": "mondo",
+   "riempimento": true
   },
   {
    "id": "ze018b471",
@@ -2097,37 +3182,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z48bd68a1",
-   "sez": "mondo",
-   "titolo": "Fernando Alonso parteciperà al Rally Dakar 2027",
-   "orig": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
-   "lead": "L'ex campione mondiale di Formula 1 Fernando Alonso correrà al Rally Dakar 2027 in Marocco con il team Aston Martin e Sébastien Loeb. Il pilota spagnolo tornerà alla gara su una vettura innovativa, affiancato da un ex campione del mondo.",
-   "more": [],
-   "fonti": [
-    {
-     "n": "Al Jazeera",
-     "p": "QA",
-     "c": "Doha",
-     "u": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027",
-     "angolo": "",
-     "atlas": "Qatar",
-     "t": "2026-11-17T10:42+00:00"
-    },
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/11/17/fernando-alonso-rally-dakar-aston-martin/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-17T10:47+00:00"
-    }
-   ],
-   "data": "17 nov",
-   "ora": "12:37",
-   "uscita": "13"
-  },
-  {
    "id": "ze77b9ac5",
    "sez": "mondo",
    "titolo": "Israele, l'opposizione anti-Netanyahu detiene le chiavi per l'elezione del presidente della Knesset",
@@ -2451,7 +3505,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z31cadc1c": "The Guardian racconta l'impegno benefico di Bukayo Saka premiato con il riconoscimento Sócrates.",
   "z37cdf3fd": "NPR analizza vantaggi e criticità dell'uso crescente di assistenti IA durante le visite medicali.",
   "z03396b0d": "BBC Newsround celebra il nuovo record di presenze di Andy Robertson con la nazionale scozzese.",
-  "z712df537": "ANSA segnala l'agenda del presidente Mattarella per l'inaugurazione dell'anno accademico alla Cattolica di Milano.",
   "z45993322": "Diverse testate italiane riportano le nuove previsioni della Commissione Ue su deficit, Pil e debito dell'Italia.",
   "z99760634": "The BMJ descrive il modello di sanità integrata di un centro comunitario nell'East End di Londra.",
   "zaff67bb5": "VRT NWS presenta la nuova rassegna cinematografica in programma ad Anversa a dicembre.",
@@ -2477,7 +3530,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z62fb7c63": "Keep Talking Greece dettaglia le misure di viabilità adottate dalla polizia.",
   "zb955123e": "FrontPage Africa riporta le critiche del deputato Quioh alla mossa politica di Koon.",
   "z4e72326c": "RNZ Pacific sottolinea l'impegno neozelandese a coprire gli sforamenti di costo.",
-  "z48bd68a1": "Al Jazeera e Il Post sottolineano il ritorno di una star della Formula 1 al raid desertico.",
   "ze77b9ac5": "Al Jazeera e Haaretz evidenziano il ruolo-chiave dell'opposizione negli equilibri politici israeliani.",
   "z788f6ed5": "Al Jazeera e Taipei Times riportano la critica del premier britannico alla Brexit come linea politica fallimentare.",
   "za8691589": "Al Jazeera e La Nouvelle Tribune riportano il conflitto tra l'allenatore e il circolo di Ronaldo nella nazionale portoghese.",
@@ -2486,7 +3538,44 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "zf37a8cbf": "RNZ sottolinea la pericolosità della tempesta e l'autodeterminazione dei residenti nell'affrontarla.",
   "z2b9f7c7d": "Daily Maverick e Taipei Times evidenziano il bilanciamento diplomatico che Papua Nuova Guinea deve affrontare tra Pechino e Taipei.",
   "z19de3df4": "Hong Kong Free Press mette in evidenza la crescente minaccia cibernetica e le richieste di misure più stringenti per la protezione dati.",
-  "za958338b": "Hong Kong Free Press riporta il rifiuto della amministrazione di tutele sul lavoro fuori orario per i funzionari pubblici."
+  "za958338b": "Hong Kong Free Press riporta il rifiuto della amministrazione di tutele sul lavoro fuori orario per i funzionari pubblici.",
+  "z6b9c3c08": "La testata sottolinea la mancanza di profondità emotiva del nuovo prequel nonostante il cast rinnovato.",
+  "z82f2a6af": "La testata mette in evidenza il divario tra le affermazioni di Trump e i dati reali sulla produzione.",
+  "z2fb41d0a": "La testata evidenzia il contrasto tra i record di fatturato e le difficoltà economiche dei musicisti meno noti.",
+  "ze33e7d24": "La testata informa sulla procedura istituzionale in preparazione del vertice ministeriale.",
+  "z5932dfc8": "La testata segnala l'estensione delle raccomandazioni ai nuovi vaccini a mRNA.",
+  "z6907c625": "La testata riporta l'intervento diplomatico italiano per sollecitare le autorità congolesi.",
+  "z31724a6d": "La testata riporta la smentita dell'associazione rispetto a un'iniziativa a cui sarebbe stata erroneamente associata.",
+  "z668cd983": "La testata presenta l'iniziativa come un passo positivo per la salute respiratoria dei bambini del quartiere.",
+  "z91361202": "La testata presenta il progetto come un modo per individuare i talenti emergenti del design attraverso lo sguardo di chi ha già segnato il settore.",
+  "z550d119a": "La testata fornisce indicazioni pratiche per riconoscere e prevenire il rischio di contaminazione da listeria.",
+  "z5d72154e": "La testata sottolinea il lato informale e popolare della visita reale, accanto agli impegni ufficiali.",
+  "zd3f84e9e": "La testata sottolinea le rassicurazioni della banca sulla natura non sistemica del guasto.",
+  "z33b1ac25": "La testata riporta le critiche dei parlamentari e del mondo accademico contrario al trasferimento.",
+  "zd0b6fd70": "La testata riporta l'invito del presidente ai giovani a un ruolo attivo nella società.",
+  "z45f32779": "La testata evidenzia il contrasto tra il calo generale degli annunci e la crescita della domanda di competenze digitali.",
+  "zf1bdd860": "La testata presenta il rapporto come un appello a riforme urgenti per i giovani.",
+  "zf82d3499": "La testata riporta la richiesta dei medici di bloccare la proiezione del film ritenuto dannoso per la loro immagine.",
+  "zc0047e07": "La testata presenta la selezione dei vincitori come riconoscimento della qualità delle immagini meteorologiche.",
+  "zec09d02a": "La testata presenta la scelta di Ingels come un riconoscimento al potenziale innovativo di Nuriev.",
+  "z805c0eb1": "La testata sottolinea la prestazione dominante della nazionale brasiliana e la tripletta record di Vinicius.",
+  "zbac55f4a": "La testata descrive la vicenda come parte di uno scontro istituzionale ancora in corso sulla guida della Corte.",
+  "z17279bf3": "La testata riporta la tensione interna alla maggioranza tra chi propone l'ampliamento del condono e chi, come la premier, chiede cautela.",
+  "z5c98bbcc": "La testata segnala il crescente consenso attorno alla proposta democratica e l'adesione del nuovo capo di gabinetto al movimento MAHA.",
+  "z39c96b27": "La testata riporta i dettagli del rapporto parlamentare sulla spesa prevista per la diplomazia tunisina.",
+  "z47b7ec56": "La testata dà conto dell'esito delle indagini e della non imputabilità del responsabile per la sua età.",
+  "z20893976": "La testata fornisce informazioni pratiche sull'iniziativa comunale per il rilascio del documento.",
+  "za3273f77": "La testata sottolinea il valore simbolico e economico della riattivazione dell'oleodotto dopo oltre un decennio di stop.",
+  "za185a527": "La testata celebra l'anniversario del fumetto con focus sulla continuità della serie attraverso autori contemporanei.",
+  "z3b12ed48": "La testata senegalese sottolinea l'importanza della riunione per l'integrazione economica asiatica.",
+  "z75f39a3b": "Il quotidiano britannico riporta il progresso sulla parità di genere enfatizzando le decisioni consapevoli delle imprese.",
+  "z265014a6": "La testata libanese riporta rivelazioni dalle memorie di Biden su dinamiche decisionali strategiche post-7 ottobre.",
+  "z991825d1": "La rivista celebra il passaggio dell'Aston Martin Dreadnought dal videogioco al rally di resistenza reale.",
+  "z3ac6789a": "La testata indiana enfatizza il dialogo strategico tra India e Giappone sulla cooperazione difensiva bilaterale.",
+  "za311d75a": "La testata marocchina riporta la determinazione diplomatica americana a proseguire il dialogo sul Sahara nonostante gli ostacoli internazionali.",
+  "z7f9eea77": "La testata libanese riferisce il piano francese di rafforzare la stabilità in Libano tramite cooperazione militare diretta.",
+  "z82b7d027": "La testata beliziana riporta la valutazione positiva haitiana del ruolo salvadoregno nel contrasto alla criminalità organizzata.",
+  "z99213067": "La testata cubana in esilio riferisce il ricorso del regime a incentivi fiscali per coinvolgere le MIPYME nei servizi pubblici."
  },
  "contesti": {
   "z6967841e": "Nei giorni scorsi l'Istat aveva pubblicato una stima preliminare dell'inflazione di ottobre, poi rivista al rialzo con dati definitivi.",
@@ -2494,7 +3583,12 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z4a52fd35": "Il ponte di Crimea è già stato oggetto di diversi attacchi ucraini dall'inizio del conflitto, incluso un grave attentato nel 2022 e successivi raid mirati a danneggiare le infrastrutture logistiche russe verso la penisola annessa.",
   "z6b0559dd": "Papa Leone XIV aveva compiuto un viaggio apostolico in America Latina, con tappe che hanno incluso momenti di forte partecipazione popolare, prima di ripartire da Lima verso Roma.",
   "za7254909": "Da mesi diversi governi europei cercano soluzioni per esternalizzare la gestione dei migranti irregolari, seguendo il modello discusso in passato tra Regno Unito e Ruanda, poi abbandonato da Londra dopo il cambio di governo. Parallelamente il Regno Unito ha avviato con la Francia l'accordo 'one in, one out' per i rimpatri attraverso la Manica, generando critiche da Ong e associazioni per i rischi legati ai trafficanti.",
-  "z45993322": "L'Italia è sottoposta dal 2024 alla procedura Ue per deficit eccessivo dopo lo sforamento del rapporto deficit/Pil oltre il 3%. Il governo ha adottato manovre di correzione dei conti pubblici, puntando a ridurre gradualmente lo squilibrio. Le ultime previsioni economiche della Commissione confermano un percorso di miglioramento, pur segnalando un debito pubblico ancora ai massimi storici e un nuovo peggioramento del deficit previsto nel 2027."
+  "z45993322": "L'Italia è sottoposta dal 2024 alla procedura Ue per deficit eccessivo dopo lo sforamento del rapporto deficit/Pil oltre il 3%. Il governo ha adottato manovre di correzione dei conti pubblici, puntando a ridurre gradualmente lo squilibrio. Le ultime previsioni economiche della Commissione confermano un percorso di miglioramento, pur segnalando un debito pubblico ancora ai massimi storici e un nuovo peggioramento del deficit previsto nel 2027.",
+  "zd0b6fd70": "Il presidente Mattarella ha intensificato negli ultimi mesi gli interventi pubblici dedicati ai giovani, visitando università e atenei italiani per sottolineare il loro ruolo attivo nella società. Le sue uscite si inseriscono in un filone di discorsi istituzionali sul valore della formazione, della cittadinanza attiva e della responsabilità delle nuove generazioni nel contesto di un paese segnato da sfide economiche e sociali.",
+  "z991825d1": "Aston Martin e Prodrive hanno negli ultimi mesi lavorato alla progettazione e ai test del nuovo prototipo Dreadnought, pensato per affrontare i terreni estremi della Dakar. Il coinvolgimento di piloti di fama internazionale come Alonso e Loeb, già protagonisti in rally e endurance, ha generato crescente attesa mediatica per l'edizione 2027 della competizione.",
+  "z0a64d3f8": "Papa Leone XIV, operato per un tumore ai polmoni circa tre settimane prima della partenza, ha compiuto un lungo viaggio apostolico di dodici giorni in Sud America, visitando Uruguay, Argentina e Perù. Il tour, seguito con attenzione per le condizioni di salute del pontefice, si è concentrato su celebrazioni pubbliche e incontri con i fedeli, culminando nella messa d'addio a Lima.",
+  "zba60623e": "Dopo l'intervento militare statunitense contro siti nucleari iraniani nel giugno 2025, l'amministrazione Trump ha mantenuto una linea ambigua tra deterrenza e disimpegno, mentre settori repubblicani vicini ai neoconservatori hanno spinto per una presenza militare prolungata nella regione. Le tensioni sono riemerse con segnalazioni di incidenti a petroliere nello stretto di Hormuz, riaccendendo il dibattito interno sulla strategia americana verso Teheran.",
+  "z58eb15c3": "Le relazioni commerciali tra Canada e Stati Uniti si sono deteriorate negli ultimi mesi per nuovi dazi imposti da Washington, spingendo Ottawa a diversificare i propri partner economici. Il governo Carney ha intensificato i contatti con Pechino, culminati in colloqui bilaterali a margine di un summit asiatico, nel tentativo di ridurre la dipendenza dal mercato statunitense e rilanciare gli scambi con la Cina."
  },
  "cronologie": {
   "z6967841e": [
@@ -2575,6 +3669,88 @@ window.EDIZIONI["2026-11-17-sera"] = {
    [
     "Novembre 2026",
     "Dombrovskis annuncia la possibile uscita dell'Italia dalla procedura in primavera"
+   ]
+  ],
+  "zd0b6fd70": [
+   [
+    "Settembre 2026",
+    "Mattarella interviene in diverse cerimonie di apertura anno accademico"
+   ],
+   [
+    "Ottobre 2026",
+    "Il capo dello Stato ribadisce il ruolo dei giovani in vari discorsi pubblici"
+   ],
+   [
+    "17 novembre 2026",
+    "Visita all'Università Cattolica di Milano e discorso sui giovani"
+   ]
+  ],
+  "z991825d1": [
+   [
+    "2025",
+    "Annuncio del progetto Dreadnought da parte di Aston Martin e Prodrive"
+   ],
+   [
+    "2026",
+    "Test e sviluppo del veicolo per terreni estremi"
+   ],
+   [
+    "17 novembre 2026",
+    "Ufficializzata la partecipazione di Alonso e Loeb alla Dakar 2027"
+   ]
+  ],
+  "z0a64d3f8": [
+   [
+    "Fine ottobre 2026",
+    "Intervento chirurgico ai polmoni del Papa"
+   ],
+   [
+    "Inizio novembre 2026",
+    "Partenza per il viaggio in Sud America"
+   ],
+   [
+    "Giorni precedenti",
+    "Visite in Uruguay e Argentina"
+   ],
+   [
+    "17 novembre 2026",
+    "Messa d'addio a Lima e incidente del rosario"
+   ]
+  ],
+  "zba60623e": [
+   [
+    "Giugno 2025",
+    "Attacchi statunitensi contro siti nucleari iraniani"
+   ],
+   [
+    "2025-2026",
+    "Dibattito interno sulla presenza militare USA in Medio Oriente"
+   ],
+   [
+    "Novembre 2026",
+    "Nuovi incidenti con petroliere nello stretto di Hormuz"
+   ],
+   [
+    "17 novembre 2026",
+    "Vance attacca i neoconservatori su Fox News"
+   ]
+  ],
+  "z58eb15c3": [
+   [
+    "2025",
+    "Nuove tensioni tariffarie tra Canada e Stati Uniti"
+   ],
+   [
+    "2026",
+    "Carney intensifica i rapporti diplomatici con Pechino"
+   ],
+   [
+    "Novembre 2026",
+    "Summit asiatico con incontro Carney-Xi"
+   ],
+   [
+    "17 novembre 2026",
+    "Annuncio dell'accordo per ridurre i dazi tra Canada e Cina"
    ]
   ]
  },
@@ -2698,6 +3874,72 @@ window.EDIZIONI["2026-11-17-sera"] = {
     }
    ],
    "divergono": "ANSA e Il Messaggero riportano entrambi i dati puntuali sull'Italia (deficit 2,9%, debito 138,8%), ma solo Il Messaggero amplia il confronto con Germania e Francia e con la classifica di tutti i Paesi Ue. Sky TG24 si limita alle dichiarazioni di Dombrovskis senza le cifre italiane specifiche. Per la Repubblica, disponibili solo titolo e occhiello, il giudizio resta parziale: l'accento sembra posto sul Pil all'1% e sul debito record più che sull'uscita dalla procedura."
+  },
+  "z0a64d3f8": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "Giudizio parziale: solo titolo e occhiello disponibili. Riporta che il pontefice è stato colpito al volto da quello che si ritiene fosse un rosario mentre salutava la folla dal papamobile verso la messa d'addio.",
+     "b": "t"
+    },
+    {
+     "n": "Fox News",
+     "c": "New York",
+     "p": "US",
+     "t": "Centra l'episodio con video a supporto: il rosario colpisce Leone XIV vicino all'occhio mentre cercava di afferrarlo; il Papa si tocca il volto ma prosegue senza segni di ferite. Riporta la cifra di 1,5 milioni di presenti alla messa e ricorda precedenti episodi simili con doni lanciati verso il papamobile, citando Reuters come fonte.",
+     "b": "a"
+    },
+    {
+     "n": "Vatican News (inglese)",
+     "c": "Città del Vaticano",
+     "p": "XX",
+     "t": "Articolo pubblico vaticano, voce della Santa Sede: non menziona l'episodio del rosario, ma riporta i telegrammi di ringraziamento e benedizione inviati dal Papa a sei capi di Stato durante il volo di ritorno, inclusa la presidente del Perù.",
+     "b": "a"
+    },
+    {
+     "n": "PBS NewsHour",
+     "c": "Arlington",
+     "p": "US",
+     "t": "Racconta l'episodio come un momento tra i tanti del viaggio: il Papa viene colpito da un presunto rosario, si tocca la tempia ma prosegue la messa. Cita la cifra di 1,5 milioni di fedeli (fonte Vaticano) e contestualizza l'evento nel racconto più ampio del tour di 12 giorni dopo l'operazione per cancro ai polmoni.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Fox News e PBS NewsHour descrivono l'episodio con dettagli fisici diversi: Fox parla di un colpo \"vicino all'occhio\", PBS di un colpo che fa toccare al Papa \"la tempia\". Fox cita Reuters come fonte del video, PBS cita l'Associated Press come propria fonte diretta sul campo. Vatican News non riporta affatto l'episodio, concentrandosi solo sui messaggi diplomatici del Papa. BBC, pur minima nei contenuti disponibili, conferma la versione generale ma non fornisce dettagli ulteriori per giudizio completo."
+  },
+  "z6b0559dd": {
+   "voci": [
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale: solo titolo e occhiello. Riporta la frase del Papa sulle midterm e la volontà di \"meno guerre\", oltre a una dichiarazione sulle sue condizioni di salute (\"sto abbastanza bene\") e l'esclusione di dimissioni preventive.",
+     "b": "t"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale: solo titolo e occhiello. Riporta la citazione del Papa \"non sto al 100% ma sto bene\" e il suo auspicio di \"meno polemiche e guerre\" dopo le midterm; segnala inoltre dichiarazioni su concentrazione di ricchezza, algoritmi e preti sposati.",
+     "b": "t"
+    },
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale: solo titolo e occhiello. Riporta un messaggio del presidente Mattarella che parla di \"orizzonti di speranza\" apertI dal Papa in occasione del rientro dall'America Latina.",
+     "b": "t"
+    },
+    {
+     "n": "Rai News",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Giudizio parziale: solo titolo e occhiello. Informa semplicemente del rientro del Papa in Vaticano dal viaggio in America Latina, indicando tre tappe con il Perù come la più lunga.",
+     "b": "t"
+    }
+   ],
+   "divergono": "la Repubblica aggiunge temi assenti negli articoli di Rai News disponibili, come la concentrazione di ricchezza, gli algoritmi di polarizzazione e la questione dei preti sposati. Rai News, in uno dei suoi articoli, riporta invece la reazione del presidente Mattarella, assente nel testo di la Repubblica. Le citazioni sulle condizioni di salute del Papa variano leggermente nella formulazione riportata (\"sto abbastanza bene\" in Rai News, \"non sto al 100% ma sto bene\" in la Repubblica), ma il giudizio resta parziale per tutti gli articoli essendo disponibili solo titolo e occhiello."
   }
  },
  "luoghi": {
@@ -2898,13 +4140,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "pt": []
   },
-  "z712df537": {
-   "n": "Milano",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z99760634": {
    "n": "Londra",
    "p": [
@@ -3071,13 +4306,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
    ],
    "pt": []
   },
-  "z48bd68a1": {
-   "n": "Marocco",
-   "p": [
-    "Morocco"
-   ],
-   "pt": []
-  },
   "ze77b9ac5": {
    "n": "Israele",
    "p": [
@@ -3140,6 +4368,265 @@ window.EDIZIONI["2026-11-17-sera"] = {
     "Hong Kong"
    ],
    "pt": []
+  },
+  "z6b9c3c08": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z82f2a6af": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z2fb41d0a": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "ze33e7d24": {
+   "n": "Bruxelles",
+   "p": [
+    "Belgium"
+   ],
+   "pt": []
+  },
+  "z5932dfc8": {
+   "n": "Amsterdam",
+   "p": [
+    "Netherlands"
+   ],
+   "pt": []
+  },
+  "z6907c625": {
+   "n": "Congo",
+   "p": [
+    "Dem. Rep. Congo"
+   ],
+   "pt": []
+  },
+  "z31724a6d": {
+   "n": "Chisinau",
+   "p": [
+    "Moldova"
+   ],
+   "pt": []
+  },
+  "z668cd983": {
+   "n": "Bronx, New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z91361202": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z550d119a": {
+   "n": "Italia",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5d72154e": {
+   "n": "Mumbai",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zd3f84e9e": {
+   "n": "Stati Uniti",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z33b1ac25": {
+   "n": "Stratford-upon-Avon",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zd0b6fd70": {
+   "n": "Milano",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z45f32779": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "zf1bdd860": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zf82d3499": {
+   "n": "India",
+   "p": [
+    "India"
+   ],
+   "pt": []
+  },
+  "zc0047e07": {
+   "n": "Londra",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "zec09d02a": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z805c0eb1": {
+   "n": "Singapore",
+   "p": [
+    "Singapore"
+   ],
+   "pt": []
+  },
+  "zbac55f4a": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z17279bf3": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z5c98bbcc": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z39c96b27": {
+   "n": "Tunisi",
+   "p": [
+    "Tunisia"
+   ],
+   "pt": []
+  },
+  "z47b7ec56": {
+   "n": "Chieti",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z20893976": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za3273f77": {
+   "n": "Kirkuk",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "za185a527": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "z3b12ed48": {
+   "n": "Shenzhen",
+   "p": [
+    "China"
+   ],
+   "pt": []
+  },
+  "z75f39a3b": {
+   "n": "Australia",
+   "p": [
+    "Australia"
+   ],
+   "pt": []
+  },
+  "z265014a6": {
+   "n": "Israele",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z991825d1": {
+   "n": "Arabia Saudita",
+   "p": [
+    "Saudi Arabia"
+   ],
+   "pt": []
+  },
+  "z3ac6789a": {
+   "n": "Giappone",
+   "p": [
+    "Japan"
+   ],
+   "pt": []
+  },
+  "za311d75a": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z7f9eea77": {
+   "n": "Libano",
+   "p": [
+    "Lebanon"
+   ],
+   "pt": []
+  },
+  "z82b7d027": {
+   "n": "Haiti",
+   "p": [
+    "Haiti"
+   ],
+   "pt": []
+  },
+  "z99213067": {
+   "n": "Cuba",
+   "p": [
+    "Cuba"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3161,7 +4648,7 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z0aec4e36": 1,
   "z2060ce77": 1,
   "z471bfde2": 1,
-  "z58eb15c3": 1,
+  "z58eb15c3": 2,
   "z3f6b0980": 1,
   "z4ff52b75": 1,
   "za72693e2": 1,
@@ -3173,7 +4660,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z31cadc1c": 1,
   "z37cdf3fd": 1,
   "z03396b0d": 1,
-  "z712df537": 1,
   "z45993322": 3,
   "z99760634": 1,
   "zaff67bb5": 1,
@@ -3187,7 +4673,7 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z13dbcd80": 1,
   "zcfd9dded": 1,
   "zfe05bbf9": 1,
-  "z6b128f81": 1,
+  "z6b128f81": 2,
   "ze018b471": 2,
   "zf8e9c4f6": 1,
   "z1ffb7b5f": 1,
@@ -3199,7 +4685,6 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "z62fb7c63": 1,
   "zb955123e": 1,
   "z4e72326c": 1,
-  "z48bd68a1": 1,
   "ze77b9ac5": 1,
   "z788f6ed5": 1,
   "za8691589": 1,
@@ -3208,7 +4693,44 @@ window.EDIZIONI["2026-11-17-sera"] = {
   "zf37a8cbf": 1,
   "z2b9f7c7d": 1,
   "z19de3df4": 1,
-  "za958338b": 1
+  "za958338b": 1,
+  "z6b9c3c08": 1,
+  "z82f2a6af": 2,
+  "z2fb41d0a": 2,
+  "ze33e7d24": 1,
+  "z5932dfc8": 1,
+  "z6907c625": 1,
+  "z31724a6d": 1,
+  "z668cd983": 1,
+  "z91361202": 1,
+  "z550d119a": 1,
+  "z5d72154e": 2,
+  "zd3f84e9e": 2,
+  "z33b1ac25": 2,
+  "zd0b6fd70": 2,
+  "z45f32779": 1,
+  "zf1bdd860": 1,
+  "zf82d3499": 1,
+  "zc0047e07": 1,
+  "zec09d02a": 1,
+  "z805c0eb1": 2,
+  "zbac55f4a": 1,
+  "z17279bf3": 1,
+  "z5c98bbcc": 1,
+  "z39c96b27": 1,
+  "z47b7ec56": 1,
+  "z20893976": 1,
+  "za3273f77": 2,
+  "za185a527": 1,
+  "z3b12ed48": 1,
+  "z75f39a3b": 1,
+  "z265014a6": 1,
+  "z991825d1": 2,
+  "z3ac6789a": 1,
+  "za311d75a": 2,
+  "z7f9eea77": 1,
+  "z82b7d027": 1,
+  "z99213067": 1
  },
  "video": {},
  "pillole": []
