@@ -64,6 +64,15 @@ window.EDIZIONI["2026-11-17"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-16T18:04+00:00"
+    },
+    {
+     "n": "Vatican News (italiano)",
+     "p": "XX",
+     "c": "Città del Vaticano",
+     "u": "https://www.vaticannews.va/it/papa/news/2026-11/papa-grazie-peru-casa-famiglia-ricordi-fede-missione-chiesa.html",
+     "angolo": "",
+     "atlas": "Vatican",
+     "t": "2026-11-16T18:40+01:00"
     }
    ],
    "data": "16 nov",
@@ -2218,39 +2227,6 @@ window.EDIZIONI["2026-11-17"] = {
    "uscita": "mattino"
   },
   {
-   "id": "zd148498a",
-   "sez": "mondo",
-   "titolo": "Papa Leone XIV saluta il Perù con l'ultima messa a Lima davanti a un milione e mezzo di fedeli",
-   "orig": "Il Papa saluta il Perù nell'ultima Messa a Lima",
-   "lead": "Papa Leone XIV ha celebrato l'ultima messa del suo viaggio in Perù nella Base Aerea Las Palmas di Lima, davanti a un milione e mezzo di fedeli secondo Rai News. Il Pontefice ha detto di voler portare sempre con sé il popolo peruviano, definendolo anche il suo popolo. Si è conclusa così la sesta visita apostolica di Leone XIV, durata undici giorni e seguita, secondo l'ANSA, da circa 15 milioni di fedeli, un risultato definito un successo sulle tracce di papa Francesco.",
-   "more": [
-    "Leone XIV è stato arcivescovo in Perù prima di diventare Papa, un legame personale che ha reso questo viaggio particolarmente significativo. Le visite apostoliche nei Paesi dell'America Latina riscuotono tradizionalmente grande partecipazione popolare, data la forte presenza cattolica nella regione."
-   ],
-   "fonti": [
-    {
-     "n": "Rai News",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.rainews.it/articoli/ultimora/il-papa-saluta-il-peru-lultima-messa-17d58d0a-a38b-4b5e-8fbd-bf04e378bc31.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-16T18:04+00:00"
-    },
-    {
-     "n": "Vatican News (italiano)",
-     "p": "XX",
-     "c": "Città del Vaticano",
-     "u": "https://www.vaticannews.va/it/papa/news/2026-11/papa-grazie-peru-casa-famiglia-ricordi-fede-missione-chiesa.html",
-     "angolo": "",
-     "atlas": "Vatican",
-     "t": "2026-11-16T18:40+01:00"
-    }
-   ],
-   "data": "16 nov",
-   "ora": "07:47",
-   "uscita": "mattino"
-  },
-  {
    "id": "z8a98e4f5",
    "sez": "mondo",
    "titolo": "Papua Nuova Guinea annuncia una politica per limitare a tre figli per famiglia",
@@ -3050,7 +3026,6 @@ window.EDIZIONI["2026-11-17"] = {
   "z9065877f": "CNA riporta i dettagli dell'indagine statunitense sull'azienda Megaspeed di Singapore",
   "zf884e065": "la Repubblica e Haaretz riportano le accuse contro l'ufficio di Netanyahu per un presunto dossier anti-arabo alla vigilia del voto",
   "z65e599dd": "Vatican News racconta la visita del Papa a una casa per anziani nella periferia povera di Lima",
-  "zd148498a": "Rai News e Vatican News raccontano la chiusura del viaggio del Papa in Perù con l'ultima messa a Lima",
   "z8a98e4f5": "RNZ Pacific riporta le reazioni contrastanti degli esperti sanitari alla nuova politica demografica della Papua Nuova Guinea",
   "zdf92b851": "Moscow Times riporta la sconfitta della Russia nel voto per la leadership dell'agenzia Onu delle telecomunicazioni",
   "z2ca17594": "The Kyiv Independent racconta la strategia difensiva di funzionari ucraini indagati per corruzione",
@@ -3860,13 +3835,6 @@ window.EDIZIONI["2026-11-17"] = {
    ],
    "pt": []
   },
-  "zd148498a": {
-   "n": "Lima",
-   "p": [
-    "Peru"
-   ],
-   "pt": []
-  },
   "z8a98e4f5": {
    "n": "Port Moresby",
    "p": [
@@ -3982,7 +3950,6 @@ window.EDIZIONI["2026-11-17"] = {
   "z9065877f": 1,
   "zf884e065": 2,
   "z65e599dd": 1,
-  "zd148498a": 2,
   "z8a98e4f5": 1,
   "zdf92b851": 1,
   "z2ca17594": 1,
