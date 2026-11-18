@@ -82,30 +82,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
    "riempimento": true
   },
   {
-   "id": "z1fc32b7a",
-   "sez": "mondo",
-   "titolo": "Rubio: \"Nessuna prova di un attacco sistemico\" dopo i guasti tecnologici negli Usa",
-   "orig": "Rubio says US not 'under systemic attack' after series of tech outages",
-   "lead": "Il segretario di Stato americano Marco Rubio ha dichiarato il 18 novembre 2026 che gli Stati Uniti non sono \"sotto attacco sistemico\", respingendo le teorie circolate online secondo cui i recenti guasti tecnologici che hanno colpito Microsoft, banche e voli aerei sarebbero collegati tra loro. Rubio ha affermato che non esiste \"zero evidenza\" a supporto di tali ipotesi. Le dichiarazioni arrivano dopo una serie di interruzioni che hanno coinvolto servizi informatici e infrastrutture critiche statunitensi, generando preoccupazione pubblica. Lo riferisce BBC News.",
-   "more": [
-    "Negli ultimi mesi diversi disservizi informatici hanno colpito grandi aziende tecnologiche e servizi finanziari statunitensi, alimentando sospetti online su possibili attacchi informatici coordinati. Le autorità americane tendono però a trattare questi episodi come guasti tecnici indipendenti, legati alla complessità delle infrastrutture digitali moderne."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-18T04:57+00:00"
-    }
-   ],
-   "data": "18 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "zd35e8c7d",
    "sez": "mondo",
    "titolo": "Timori di sanzioni Usa contro i giudici della Corte internazionale di giustizia prima della sentenza su Myanmar",
@@ -611,7 +587,7 @@ window.EDIZIONI["2026-11-18-sera"] = {
   },
   {
    "id": "z4106fae4",
-   "sez": "ingegneria",
+   "sez": "economia",
    "titolo": "L'Iraq riapre lo storico oleodotto verso la Turchia dopo oltre un decennio di stop",
    "orig": "Iraq reopens long-idle oil pipeline to Turkey as war disrupts Gulf exports: report",
    "lead": "L'Iraq ha ripreso a pompare petrolio verso la Turchia attraverso l'oleodotto Kirkuk-Ceyhan, fermo da più di dieci anni, secondo quanto riportato da Reuters e ripreso da Turkish Minute il 18 novembre 2026. Il ministro del Petrolio iracheno Basim Mohammed Khudair ha dichiarato che i flussi iniziali si attestano a 120mila barili al giorno, con l'obiettivo di aumentarli gradualmente fino a 500mila barili al giorno. La riapertura arriva mentre la guerra in corso sta interrompendo le esportazioni petrolifere dal Golfo. Lo riferisce Turkish Minute.",
@@ -1618,48 +1594,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
    "uscita": "13"
   },
   {
-   "id": "z0a993a64",
-   "sez": "mondo",
-   "titolo": "L'Iran attacca obiettivi in Bahrein e Kuwait dopo un bombardamento statunitense",
-   "orig": "L’Iran attaque des cibles à Bahreïn et au Koweït après un bombardement américain sur l’île de Qechm",
-   "lead": "L'Iran ha lanciato attacchi con droni da combattimento e droni kamikaze contro obiettivi in Bahrein e Kuwait, secondo quanto riferito da Teheran. Gli attacchi sono avvenuti dopo che l'esercito statunitense ha colpito un sito missilistico sull'isola iraniana di Qechm. L'escalation si inserisce in un contesto di crescenti tensioni militari tra Stati Uniti e Iran nella regione del Golfo Persico. Lo riferisce Le Monde.",
-   "more": [
-    "Le tensioni tra Stati Uniti e Iran si inseriscono in un contesto regionale segnato da rivalità di lunga data, con il Golfo Persico come area strategica per il transito di petrolio e gas; attacchi reciproci tra le due potenze rischiano di coinvolgere i paesi vicini come Bahrein e Kuwait, ospitanti basi militari statunitensi."
-   ],
-   "fonti": [
-    {
-     "n": "Le Monde",
-     "p": "XX",
-     "c": "Parigi",
-     "u": "https://www.lemonde.fr/international/article/2026/11/18/bahrein-et-koweit-cibles-par-des-attaques-de-drones-iraniens_6813084_3210.html",
-     "angolo": "",
-     "atlas": "France",
-     "t": "2026-11-18T07:57+01:00"
-    },
-    {
-     "n": "La Nouvelle Tribune",
-     "p": "XX",
-     "c": "Cotonou",
-     "u": "https://lanouvelletribune.info/2026/11/globe-soccer-awards-2026-cristiano-ronaldo-en-lice-pour-un-nouveau-sacre-au-moyen-orient/",
-     "angolo": "",
-     "atlas": "Benin",
-     "t": "2026-11-18T10:59+00:00"
-    },
-    {
-     "n": "Defimedia",
-     "p": "XX",
-     "c": "Port Louis",
-     "u": "https://defimedia.info/tensions-au-moyen-orient-le-chef-du-commandement-central-americain-en-visite-en-israel-sur-fond-de",
-     "angolo": "",
-     "atlas": "Mauritius",
-     "t": "2026-11-18T14:51+04:00"
-    }
-   ],
-   "data": "18 nov",
-   "ora": "12:36",
-   "uscita": "13"
-  },
-  {
    "id": "zc4d49b38",
    "sez": "sport",
    "titolo": "Il centrocampista spagnolo Juan Mata annuncia il ritiro a 38 anni",
@@ -2348,7 +2282,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
  "sguardi": {
   "z6b5c75c7": "la Repubblica racconta con enfasi il momento emotivo dell'addio di Fiano e le sue motivazioni politiche",
   "z75a98421": "Rai News e Deutsche Welle riportano gli attacchi come parte della strategia ucraina contro l'apparato energetico russo",
-  "z1fc32b7a": "BBC News riporta le rassicurazioni del segretario di Stato sull'assenza di un attacco coordinato",
   "zd35e8c7d": "The Guardian sottolinea le implicazioni politiche della sentenza anche per il caso Israele-Gaza",
   "zf0abc904": "The Guardian presenta l'iniziativa di Lammy come una spinta interna al Labour sul tema europeo",
   "z7f59bc00": "Al Jazeera denuncia l'aggravarsi delle conseguenze psicologiche della guerra sulla popolazione giovane",
@@ -2393,7 +2326,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
   "z7d77e307": "Premium Times riporta i dettagli dell'operazione militare contro il traffico di munizioni",
   "zb0e3dd60": "ABC News Australia e The Guardian riportano la sanzione sportiva dopo il test antidroga",
   "z9c7ca99b": "Bhutan Broadcasting Service descrive la composizione e il funzionamento delle nuove squadre",
-  "z0a993a64": "Le Monde riporta la versione di Teheran sugli attacchi e la risposta statunitense",
   "zc4d49b38": "Diverse testate internazionali ricordano la carriera e i successi di Juan Mata",
   "z53946304": "UN News chiede maggiore protezione dei civili durante le operazioni anti-gang",
   "z2050e73a": "Haaretz riporta la reazione positiva delle comunità religiose all'ordine del sindaco",
@@ -2614,13 +2546,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
    "n": "Krasnodar",
    "p": [
     "Russia"
-   ],
-   "pt": []
-  },
-  "z1fc32b7a": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -2919,14 +2844,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
    ],
    "pt": []
   },
-  "z0a993a64": {
-   "n": "Bahrein e Kuwait",
-   "p": [
-    "Bahrain",
-    "Kuwait"
-   ],
-   "pt": []
-  },
   "zc4d49b38": {
    "n": "Spagna",
    "p": [
@@ -3057,7 +2974,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
  "rilievo": {
   "z6b5c75c7": 3,
   "z75a98421": 2,
-  "z1fc32b7a": 1,
   "zd35e8c7d": 1,
   "zf0abc904": 1,
   "z7f59bc00": 1,
@@ -3102,7 +3018,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
   "z7d77e307": 1,
   "zb0e3dd60": 2,
   "z9c7ca99b": 1,
-  "z0a993a64": 2,
   "zc4d49b38": 2,
   "z53946304": 1,
   "z2050e73a": 1,
