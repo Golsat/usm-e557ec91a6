@@ -106,6 +106,24 @@ window.EDIZIONI["2026-11-18-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-18T15:01+00:00"
+    },
+    {
+     "n": "RTÉ News",
+     "p": "XX",
+     "c": "Dublino",
+     "u": "https://www.rte.ie/news/middle-east/2026/1118/1599720-gaza-israel-attack/",
+     "angolo": "",
+     "atlas": "Ireland",
+     "t": "2026-11-18T15:55+00:00"
+    },
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/11/18/israeli-military-begins-a-new-offensive-in-gaza",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-11-18T17:10+02:00"
     }
    ],
    "data": "18 nov",
@@ -757,7 +775,7 @@ window.EDIZIONI["2026-11-18-sera"] = {
   },
   {
    "id": "z9592a89c",
-   "sez": "cucina",
+   "sez": "economia",
    "titolo": "«La cucina italiana vale il 15% del Pil»: il governo cerca nuovi mercati per l'agroalimentare",
    "orig": "“La cucina italiana vale il 15% del Pil”. Ecco come il governo cerca nuovi mercati per il settore agroalimentare",
    "lead": "Durante la Settimana della Cucina Italiana nel Mondo, i ministri Francesco Lollobrigida e Antonio Tajani hanno presentato iniziative per sostenere l'export agroalimentare italiano e aprire nuovi mercati internazionali. Secondo quanto riportato, la cucina italiana vale il 15% del Pil nazionale. L'iniziativa punta a valorizzare i prodotti agroalimentari italiani all'estero. Lo riferisce Gambero Rosso.",
@@ -1486,57 +1504,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
    "uscita": "17"
   },
   {
-   "id": "z1fc32b7a",
-   "sez": "tech",
-   "titolo": "Rubio: gli Stati Uniti non sono \"sotto attacco sistemico\" dopo i guasti tecnologici",
-   "orig": "Rubio says US not 'under systemic attack' after series of tech outages",
-   "lead": "Il segretario di Stato americano Marco Rubio ha dichiarato che non ci sono prove di un attacco coordinato dietro i recenti guasti tecnologici che hanno colpito Microsoft, alcune banche e il traffico aereo negli Stati Uniti, definendo \"zero\" le evidenze a supporto delle teorie circolate online su un collegamento tra gli episodi. Nei giorni scorsi Microsoft Outlook ha subito un'interruzione, i voli sono stati bloccati per un problema di comunicazione e i clienti di tre grandi banche statunitensi non sono riusciti ad accedere ai propri conti online. Lo riferisce BBC News.",
-   "more": [
-    "Negli ultimi anni i guasti informatici simultanei a più infrastrutture critiche hanno alimentato timori di attacchi cibernetici coordinati, anche se spesso si tratta di problemi tecnici indipendenti legati alla complessità dei sistemi digitali interconnessi usati da banche, compagnie aeree e aziende tecnologiche."
-   ],
-   "fonti": [
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-18T04:57+00:00"
-    },
-    {
-     "n": "BBC News",
-     "p": "UK",
-     "c": "Londra",
-     "u": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o",
-     "angolo": "",
-     "atlas": "United Kingdom",
-     "t": "2026-11-18T05:10+00:00"
-    },
-    {
-     "n": "PBS NewsHour",
-     "p": "US",
-     "c": "Arlington",
-     "u": "https://www.pbs.org/newshour/politics/watch-live-dhs-secretary-mullin-testifies-on-worldwide-threats-amid-tech-outages-iran-warnings",
-     "angolo": "",
-     "atlas": "United States of America",
-     "t": "2026-11-18T09:56-05:00"
-    },
-    {
-     "n": "CBC News",
-     "p": "XX",
-     "c": "Toronto",
-     "u": "https://www.cbc.ca/news/world/outages-faa-banks-microsoft-nsa-are-they-related-9.7425366?cmp=rss",
-     "angolo": "",
-     "atlas": "Canada",
-     "t": "2026-11-17T17:18-05:00"
-    }
-   ],
-   "data": "18 nov",
-   "ora": "17:07",
-   "uscita": "17"
-  },
-  {
    "id": "zedd8c252",
    "sez": "prima",
    "titolo": "La Corte internazionale di giustizia decide sul genocidio dei Rohingya in Myanmar",
@@ -1909,39 +1876,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
      "angolo": "",
      "atlas": "Palestine",
      "t": "2026-11-17T11:17+00:00"
-    }
-   ],
-   "data": "18 nov",
-   "ora": "17:07",
-   "uscita": "17"
-  },
-  {
-   "id": "z01f289ac",
-   "sez": "mondo",
-   "titolo": "Le forze israeliane lanciano un raid nel centro di Gaza nonostante la tregua",
-   "orig": "Israeli forces launch raid on central Gaza despite truce",
-   "lead": "Mezzi militari israeliani sono avanzati mercoledì in un'area del centro della Striscia di Gaza, secondo testimoni oculari, mentre l'esercito israeliano ha dichiarato che le proprie forze stavano colpendo infrastrutture di Hamas fuori dalle aree sotto controllo israeliano nell'enclave. L'operazione avviene nonostante la tregua in vigore tra Israele e Hamas. Lo riferisce RTÉ News.",
-   "more": [
-    "Dopo l'accordo di tregua raggiunto tra Israele e Hamas, la Striscia di Gaza è rimasta divisa in aree sotto controllo israeliano e aree sotto controllo palestinese, con episodi sporadici di scontri che hanno più volte messo in discussione la tenuta del cessate il fuoco negoziato con la mediazione internazionale."
-   ],
-   "fonti": [
-    {
-     "n": "RTÉ News",
-     "p": "XX",
-     "c": "Dublino",
-     "u": "https://www.rte.ie/news/middle-east/2026/1118/1599720-gaza-israel-attack/",
-     "angolo": "",
-     "atlas": "Ireland",
-     "t": "2026-11-18T15:55+00:00"
-    },
-    {
-     "n": "Cyprus Mail",
-     "p": "XX",
-     "c": "Nicosia",
-     "u": "https://cyprus-mail.com/2026/11/18/israeli-military-begins-a-new-offensive-in-gaza",
-     "angolo": "",
-     "atlas": "Cyprus",
-     "t": "2026-11-18T17:10+02:00"
     }
    ],
    "data": "18 nov",
@@ -4650,7 +4584,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
   "z77dbd824": "Meduza riprende i dati di BBC Russia sulla chiusura delle maternità.",
   "z3c226a6c": "The Kyiv Independent sottolinea le condizioni di riforma legate all'aiuto.",
   "zbc1e8932": "BBC News mette in evidenza la rapidità della transizione solare rispetto alla capacità della rete.",
-  "z1fc32b7a": "BBC News riporta le rassicurazioni di Rubio sull'assenza di un collegamento tra i guasti.",
   "zedd8c252": "Deutsche Welle spiega la posta in gioco della sentenza per la minoranza Rohingya.",
   "z74fd2a4d": "The Straits Times riporta la conferma del divieto da parte del ministro ceco.",
   "z40317c07": "Rai News riporta la precisazione sull'identità dell'utente coinvolto.",
@@ -4659,7 +4592,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
   "z9af0220f": "Deutsche Welle riprende l'allarme di Grossi sull'espansione dell'impianto.",
   "z9882dcba": "Al Jazeera analizza gli scenari futuri per la Siria secondo vari analisti.",
   "zac5f48a3": "Al Jazeera mette in evidenza i punti di stallo sugli impegni di sicurezza.",
-  "z01f289ac": "RTÉ News riporta la versione dei testimoni e quella dell'esercito israeliano.",
   "z96efc478": "Radio Prague International riporta l'arresto come parte di un'indagine più ampia sulle minacce alle scuole.",
   "z79f4beea": "LSM e Luxembourg Times confrontano la posizione dei rispettivi paesi nella classifica europea.",
   "zb297e700": "CNA e Antara riportano la firma degli accordi durante la visita di Prabowo in Cina.",
@@ -5769,13 +5701,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
    ],
    "pt": []
   },
-  "z1fc32b7a": {
-   "n": "Washington",
-   "p": [
-    "United States of America"
-   ],
-   "pt": []
-  },
   "zedd8c252": {
    "n": "L'Aia",
    "p": [
@@ -5830,13 +5755,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
    "p": [
     "Rwanda",
     "Dem. Rep. Congo"
-   ],
-   "pt": []
-  },
-  "z01f289ac": {
-   "n": "Striscia di Gaza",
-   "p": [
-    "Palestine"
    ],
    "pt": []
   },
@@ -6035,7 +5953,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
   "z77dbd824": 1,
   "z3c226a6c": 1,
   "zbc1e8932": 1,
-  "z1fc32b7a": 2,
   "zedd8c252": 3,
   "z74fd2a4d": 1,
   "z40317c07": 3,
@@ -6044,7 +5961,6 @@ window.EDIZIONI["2026-11-18-sera"] = {
   "z9af0220f": 1,
   "z9882dcba": 1,
   "zac5f48a3": 1,
-  "z01f289ac": 2,
   "z96efc478": 2,
   "z79f4beea": 1,
   "zb297e700": 1,
