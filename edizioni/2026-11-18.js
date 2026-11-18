@@ -1070,7 +1070,7 @@ window.EDIZIONI["2026-11-18"] = {
   },
   {
    "id": "z34914d6e",
-   "sez": "ingegneria",
+   "sez": "tech",
    "titolo": "Il Leica Leitzphone di Xiaomi si impone come la fotocamera per smartphone da battere",
    "orig": "The Leica Leitzphone from Xiaomi has become the smartest smartphone camera to beat",
    "lead": "I marchi storici della fotografia e dell'ottica come Leica, Sony, Zeiss e Hasselblad stanno mettendo la propria esperienza al servizio dei dispositivi mobili di fascia alta per migliorare la qualità delle immagini. In questo contesto, il Leica Leitzphone realizzato da Xiaomi si è affermato come il punto di riferimento da superare nel settore della tecnologia per smartphone. Lo riferisce Wallpaper*.",
@@ -1756,7 +1756,7 @@ window.EDIZIONI["2026-11-18"] = {
   },
   {
    "id": "z2f1147aa",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Il presidente brasiliano Lula da Silva incontra José Maria Neves per rafforzare la cooperazione con Capo Verde",
    "orig": "Lula da Silva e José Maria Neves reforçam a cooperação entre o Brasil e Cabo Verde",
    "lead": "Nel quadro del suo tour internazionale successivo alla vittoria elettorale, il presidente del Brasile Lula da Silva ha fatto tappa a Capo Verde, unico Paese africano visitato dopo la sua rielezione per il quarto mandato presidenziale. Durante l'incontro con il presidente capoverdiano José Maria Neves, i due leader hanno discusso le modalità per consolidare e rafforzare la cooperazione bilaterale tra i due Paesi. Lo riferisce Téla Nón.",
@@ -2285,7 +2285,7 @@ window.EDIZIONI["2026-11-18"] = {
   },
   {
    "id": "zc3a15bba",
-   "sez": "mondo",
+   "sez": "salute",
    "titolo": "Scienziati mettono in guardia contro i crescenti rischi per la salute derivanti da sostanze chimiche onnipresenti",
    "orig": "Scientists warn of growing health threats of chemicals found everywhere",
    "lead": "Un rapporto scientifico ha evidenziato la pericolosità delle sostanze chimiche interferenti endocrine presenti in una vasta gamma di prodotti di consumo quotidiano, dai giocattoli ai materiali da costruzione, stimando costi sanitari e ambientali miliardari. Lo riferisce Citizen Digital.",
@@ -2824,7 +2824,7 @@ window.EDIZIONI["2026-11-18"] = {
   },
   {
    "id": "ze9275de4",
-   "sez": "mondo",
+   "sez": "viaggi",
    "titolo": "Zanzibar pianifica la creazione di una compagnia aerea statale per rilanciare il turismo e ridurre le tariffe",
    "orig": "Z’bar to introduce airline to boost tourism, cut fares",
    "lead": "Il governo di Zanzibar ha annunciato l'intenzione di istituire una propria compagnia aerea per incrementare la concorrenza nel settore aeronautico, abbassare il costo dei biglietti e migliorare i collegamenti tra le isole e Arusha. Lo riferisce Daily News (Tanzania).",
