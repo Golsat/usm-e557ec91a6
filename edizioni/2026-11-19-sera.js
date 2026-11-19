@@ -3,6 +3,1587 @@ window.EDIZIONI["2026-11-19-sera"] = {
  "tipo": "sera",
  "news": [
   {
+   "id": "zb5e9db3c",
+   "sez": "economia",
+   "titolo": "In Nepal gli investitori potranno scambiare i diritti di opzione in borsa",
+   "orig": "Nepal plans to let investors trade rights entitlements on stock exchange",
+   "lead": "In Nepal le autorità finanziarie hanno predisposto una misura per consentire la negoziazione dei diritti di opzione direttamente sui mercati azionari. Il provvedimento permetterà agli azionisti che non hanno la possibilità o l'intenzione di sottoscrivere ulteriori azioni di vendere le proprie quote sul mercato, traendo così un beneficio economico anziché lasciare scadere i diritti non utilizzati. L'obiettivo dell'iniziativa è favorire la liquidità complessiva del mercato azionario locale e offrire nuovi strumenti agli investitori individuali e istituzionali. Lo riferisce The Kathmandu Post.",
+   "more": [
+    "I diritti di opzione rappresentano la facoltà concessa ai soci di una società di sottoscrivere nuove azioni in occasione di un aumento di capitale, proporzionalmente alle quote già possedute. Consentire la compravendita di tali diritti tutela gli investitori dalla diluizione del capitale, permettendo loro di monetizzare il valore del diritto qualora non intendano esercitarlo per acquistare nuovi titoli."
+   ],
+   "fonti": [
+    {
+     "n": "The Kathmandu Post",
+     "p": "XX",
+     "c": "Kathmandu",
+     "u": "https://kathmandupost.com/money/2026/11/19/nepal-plans-to-let-investors-trade-rights-entitlements-on-stock-exchange",
+     "angolo": "",
+     "atlas": "Nepal"
+    }
+   ],
+   "data": "",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z04025e81",
+   "sez": "economia",
+   "titolo": "Fitch segnala rischi crescenti per le banche filippine con le nuove regole sul capitale",
+   "orig": "Fitch warns of higher bank risks under BSP capital plan",
+   "lead": "L'agenzia Fitch Ratings ha avvertito che il piano della banca centrale delle Filippine, la Bangko Sentral ng Pilipinas, volto ad allentare le regole sul rischio di credito per settori chiave comporterà maggiori rischi per il sistema bancario. La riforma intende ridurre i requisiti patrimoniali per i prestiti destinati a consumatori, piccole e medie imprese e amministrazioni locali, liberando capitale che gli istituti potranno impiegare per erogare nuovo credito e accrescere i propri utili operativi, ma esponendoli a potenziali insolvenze. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "I requisiti patrimoniali bancari stabiliscono la quantità minima di capitale di riserva che gli istituti devono detenere a fronte dei prestiti concessi, ponderati in base al rischio di insolvenza. Ridurre questi vincoli incentiva la concessione di credito e stimola le attività produttive locali, ma riduce i margini di sicurezza degli istituti di credito in caso di congiunture macroeconomiche negative o di mancati rimborsi."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://business.inquirer.net/621809/fitch-warns-of-higher-bank-risks-under-bsp-capital-plan",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-20T02:32+08:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z859180bb",
+   "sez": "economia",
+   "titolo": "Prestito di cento milioni di pesos della banca pubblica filippina a una cooperativa agricola",
+   "orig": "DBP lends P100M to Cagayan Valley farmers’ cooperative",
+   "lead": "La Development Bank of the Philippines, istituto finanziario statale filippino, ha concesso un finanziamento di cento milioni di pesos a favore di una cooperativa agricola locale per sostenere il capitale circolante dei piccoli coltivatori nella Valle di Cagayan. Il prestito è stato destinato alla Unified Tillers Agriculture Cooperative, organizzazione partner commerciale del Dipartimento dell'Agricoltura dal 2022. I fondi erogati serviranno a finanziare le spese operative correnti degli agricoltori, facilitando la gestione delle forniture e delle attività quotidiane nei campi. Lo riferisce Philippine Daily Inquirer.",
+   "more": [
+    "Il credito rurale erogato da istituti di sviluppo statali è uno strumento fondamentale per sostenere i produttori agricoli di piccola scala, che spesso incontrano ostacoli nell'accesso ai canali bancari ordinari. Il finanziamento del capitale circolante consente di acquistare sementi, fertilizzanti e attrezzature, garantendo la continuità dei cicli di coltivazione e stabilizzando i redditi delle comunità rurali."
+   ],
+   "fonti": [
+    {
+     "n": "Philippine Daily Inquirer",
+     "p": "XX",
+     "c": "Manila",
+     "u": "https://business.inquirer.net/621801/dbp-lends-p100m-to-cagayan-valley-farmers-cooperative",
+     "angolo": "",
+     "atlas": "Philippines",
+     "t": "2026-11-20T02:26+08:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z526178c7",
+   "sez": "economia",
+   "titolo": "L'Agenzia internazionale dell'energia esclude un ritorno al passato dopo lo shock energetico",
+   "orig": "No going back ‘to the way it was’ before the Iran war’s energy shock, IEA says",
+   "lead": "L'Agenzia internazionale dell'energia ha dichiarato che i mercati energetici globali non potranno tornare alla situazione precedente allo shock energetico provocato dalla guerra in Iran. Secondo l'organizzazione multilaterale, la portata della crisi in corso costituisce la più grave perturbazione energetica della storia recente e sta ridefinendo in maniera permanente le modalità con cui il pianeta alimenta le abitazioni, i trasporti e i comparti industriali, accelerando modifiche strutturali nelle catene di approvvigionamento di combustibili e nei modelli di consumo a livello mondiale. Lo riferisce The Straits Times.",
+   "more": [
+    "I conflitti nelle regioni ricche di idrocarburi provocano spesso impennate immediate delle quotazioni del greggio e del gas, spingendo governi e industrie a diversificare le fonti di approvvigionamento. Eventi storici analoghi, come le crisi petrolifere del Novecento, hanno dimostrato come gli shock dell'offerta stimolino politiche di efficienza energetica e transizioni verso fonti alternative per ridurre la dipendenza geopolitica."
+   ],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/europe/no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-20T02:21+08:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zb22555fa",
+   "sez": "italia",
+   "titolo": "Indagato per corruzione e falso il presidente della Camera di Commercio di Napoli Ciro Fiola",
+   "orig": "“Corruzione e falso nelle elezioni della Camera di Commercio di Napoli”: indagato e perquisito il presidente Ciro Fiola. Era stato votato all’unanimità",
+   "lead": "La magistratura ha avviato un'indagine nei confronti di Ciro Fiola, presidente della Camera di Commercio di Napoli, disponendo perquisizioni a suo carico con le accuse di corruzione e falsità elettorale. Secondo gli elementi contenuti nel decreto giudiziario, le votazioni per i vertici dell'ente camerale sarebbero state alterate mediante l'iscrizione fittizia di circa diecimila imprese sotto il controllo del presidente. Fiola era stato riconfermato alla guida dell'istituzione partenopea nell'aprile del 2025 con il voto favorevole e unanime di tutti i ventidue consiglieri. Lo riferisce Il Fatto Quotidiano.",
+   "more": [
+    "Le Camere di Commercio sono enti pubblici autonomi che rappresentano e promuovono gli interessi generali delle imprese sul territorio, gestendo albi, registri e servizi di sviluppo economico. La composizione dei loro organi direttivi dipende dal peso associativo e dal numero di iscritti delle varie organizzazioni imprenditoriali, motivo per cui la veridicità delle liste associative risulta essenziale per la regolarità elettorale."
+   ],
+   "fonti": [
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/19/corruzione-e-falso-nelle-elezioni-della-camera-di-commercio-di-napoli-indagato-e-perquisito-il-presidente-ciro-fiola-era-stato-votato-allunanimita/8577849/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T18:01+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z809407b9",
+   "sez": "economia",
+   "titolo": "La bassa produttività limita stipendi e margini nella ristorazione italiana",
+   "orig": "Ristorazione, la produttività frena salari e margini",
+   "lead": "Secondo i dati diffusi dall'Osservatorio Restworld, la limitata crescita della produttività nel settore della ristorazione italiana continua a comprimere la redditività delle imprese e le retribuzioni dei lavoratori. L'indagine rileva che il margine operativo lordo delle attività del comparto si attesta a una media dell'undici virgola due per cento del fatturato complessivo. Al contempo, il settore alberghiero nazionale mostra un andamento differente, registrando livelli di valore aggiunto per singolo occupato comparabili e vicini a quelli rilevati nel mercato francese. Lo riferisce la Repubblica – Economia.",
+   "more": [
+    "Il margine operativo lordo misura la redditività di un'azienda derivante dalla sola gestione operativa, al lordo di imposte, interessi e ammortamenti. Nei comparti a forte intensità di lavoro come la ristorazione, un basso valore aggiunto limita la capacità di aumentare i salari senza erodere i margini d'impresa, ostacolando gli investimenti necessari per l'innovazione tecnologica e gestionale."
+   ],
+   "fonti": [
+    {
+     "n": "la Repubblica – Economia",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/economia/rapporti/osserva-italia/osservacibo/2026/11/19/news/ristorazione_la_produttivita_frena_salari_e_margini-425735727/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T17:37+01:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z108f5ba9",
+   "sez": "economia",
+   "titolo": "Il governo del Marocco riunisce la coalizione su prezzi dei carburanti e potere d'acquisto",
+   "orig": "Governing coalition to discuss fuel prices and purchasing power next week",
+   "lead": "La coalizione di governo in Marocco ha in programma una riunione all'inizio della prossima settimana per esaminare l'andamento dei prezzi dei carburanti e l'impatto sul potere d'acquisto delle famiglie. Il portavoce del governo Samir Belfqih ha annunciato l'iniziativa nel corso di una conferenza stampa al termine della seduta settimanale del gabinetto dei ministri a Rabat. L'incontro vedrà riunite le forze politiche della maggioranza per valutare possibili misure a tutela dei consumatori di fronte alle recenti pressioni inflazionistiche. Lo riferisce Hespress English.",
+   "more": [
+    "L'andamento dei prezzi energetici incide direttamente sui bilanci familiari e sul tasso d'inflazione complessivo, poiché determina rincari sia sui trasporti sia sui costi logistici dei generi alimentari. Nei Paesi che importano la maggior parte dei combustibili fossili, i governi ricorrono frequentemente a revisioni fiscali o sussidi mirati per attenuare le fluttuazioni dei prezzi internazionali e sostenere i consumi interni."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/149491-governing-coalition-to-discuss-fuel-prices-and-purchasing-power-next-week.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-19T18:07+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z895d5d9f",
+   "sez": "economia",
+   "titolo": "Tribunale commerciale di Casablanca vieta la vendita di prodotti contraffatti a marchio FIFA",
+   "orig": "Casablanca Court orders company to stop selling counterfeit FIFA-branded products",
+   "lead": "Il Tribunale di commercio di primo grado di Casablanca ha ingiunto a un'azienda marocchina di interrompere immediatamente l'importazione, l'esposizione e la vendita di beni contraffatti con marchi della FIFA. I giudici hanno stabilito che la società ha violato le norme sulla proprietà intellettuale impiegando senza alcuna autorizzazione il logo ufficiale dell'organo di governo del calcio mondiale e l'emblema della Coppa del Mondo. Il verdetto dispone il blocco di qualsiasi operazione commerciale legata a tali articoli sul territorio nazionale. Lo riferisce Hespress English.",
+   "more": [
+    "La tutela dei marchi registrati protegge il titolare dallo sfruttamento commerciale non autorizzato dei propri segni distintivi e garantisce i consumatori sull'origine e gli standard qualitativi dei prodotti. Le organizzazioni sportive internazionali registrano e difendono rigorosamente i propri loghi, poiché i proventi delle licenze ufficiali costituiscono una parte rilevante delle entrate generate dai grandi tornei mondiali."
+   ],
+   "fonti": [
+    {
+     "n": "Hespress English",
+     "p": "XX",
+     "c": "Rabat",
+     "u": "https://en.hespress.com/149480-casablanca-court-orders-company-to-stop-selling-counterfeit-fifa-branded-products.html",
+     "angolo": "",
+     "atlas": "Morocco",
+     "t": "2026-11-19T16:10+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zaa99de1e",
+   "sez": "economia",
+   "titolo": "L'autorità fiscale della Namibia non riesce a quantificare il gettito sulle vincite da scommesse",
+   "orig": "Namra cannot quantify tax from betting winnings",
+   "lead": "L'autorità tributaria della Namibia ha dichiarato di non essere in grado di calcolare con precisione l'ammontare delle imposte derivanti dalle vincite sulle scommesse nel Paese. La questione dell'imponibilità delle somme ottenute tramite giochi d'azzardo richiama un contenzioso fiscale risalente a settantasei anni fa, quando il caso giudiziario Morrison contro il commissario per le entrate interne affrontò il principio dell'obbligo fiscale per gli scommettitori fortunati. La difficoltà nell'inquadramento delle vincite continua a ostacolare le stime delle entrate erariali. Lo riferisce The Namibian.",
+   "more": [
+    "Il trattamento tributario delle vincite derivanti dal gioco d'azzardo varia ampiamente tra le diverse giurisdizioni fiscali. In molti ordinamenti le vincite occasionali sono esenti da imposte sul reddito o soggette a ritenute alla fonte operate dai concessionari, mentre in altri contesti l'assenza di meccanismi di tracciamento automatizzato rende particolarmente complesso per le agenzie delle entrate accertare le somme effettivamente incassate dai giocatori."
+   ],
+   "fonti": [
+    {
+     "n": "The Namibian",
+     "p": "XX",
+     "c": "Windhoek",
+     "u": "https://www.namibian.com.na/namra-cannot-quantify-tax-from-betting-winnings/",
+     "angolo": "",
+     "atlas": "Namibia",
+     "t": "2026-11-19T17:00+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0f4762ce",
+   "sez": "economia",
+   "titolo": "Nuove rotte nel Golfo per salvaguardare il progetto di gas naturale liquefatto in Iraq",
+   "orig": "Gulf alternatives may save Excelerate Energy’s LNG project in Iraq",
+   "lead": "Il progetto per lo sviluppo del gas naturale liquefatto promosso da Excelerate Energy in Iraq registra progressi sul campo, sostenuto dalla ricerca di rotte alternative nel Golfo per evitare le crescenti tensioni geopolitiche. L'iniziativa infrastrutturale mira a superare i pericoli per la navigazione commerciale legati ai blocchi e ai rischi nello Stretto di Hormuz. L'individuazione di percorsi logistici secondari intende garantire la prosecuzione delle attività energetiche e la futura fornitura di gas liquefatto alle reti nazionali. Lo riferisce Iraqi News.",
+   "more": [
+    "Il gas naturale liquefatto viene raffreddato a temperature estremamente basse per consentirne il trasporto via mare tramite navi metaniere senza la necessità di gasdotti terrestri. In aree soggette a instabilità geopolitica o strozzature marittime, disporre di terminali flessibili e vie d'accesso alternative risulta cruciale per assicurare la continuità delle forniture energetiche e lo sviluppo industriale regionale."
+   ],
+   "fonti": [
+    {
+     "n": "Iraqi News",
+     "p": "XX",
+     "c": "Baghdad",
+     "u": "https://www.iraqinews.com/iraq/gulf-alternatives-may-save-excelerate-energys-lng-project-in-iraq/",
+     "angolo": "",
+     "atlas": "Iraq",
+     "t": "2026-11-19T18:38+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "ze849296a",
+   "sez": "economia",
+   "titolo": "Munizioni fabbricate in Svizzera giunte all'esercito russo eludendo l'embargo",
+   "orig": "Guerre en Ukraine : plus de 100.000 munitions fabriquées en Suisse sont arrivées dans les stocks de l’armée russe au mépris de l’embargo",
+   "lead": "Oltre centomila munizioni di precisione prodotte da un'azienda svizzera sono confluite negli arsenali militari delle forze armate russe, violando le sanzioni internazionali in vigore. Un'inchiesta ha rivelato che i proiettili per fucili di precisione sono stati trasportati fino a Mosca attraverso canali di intermediazione, eludendo l'embargo formale imposto dalla Confederazione Elvetica sulle esportazioni di materiale bellico. La scoperta documenta l'aggiramento delle restrizioni commerciali istituite per impedire la fornitura di armamenti nel quadro della guerra in Ucraina. Lo riferisce Le Figaro.",
+   "more": [
+    "La Svizzera applica una tradizionale politica di neutralità che vieta per legge la vendita e la riesportazione di armi ed equipaggiamenti bellici verso Paesi coinvolti in conflitti armati. Per aggirare tali divieti, i flussi commerciali illeciti fanno spesso ricorso a triangolazioni attraverso nazioni terze e società di facciata, rendendo difficile il controllo sulle destinazioni finali dei rifornimenti militari."
+   ],
+   "fonti": [
+    {
+     "n": "Le Figaro",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lefigaro.fr/international/guerre-en-ukraine-plus-de-100-000-munitions-fabriquees-en-suisse-sont-arrivees-dans-les-stocks-de-l-armee-russe-au-mepris-de-l-embargo-20261119",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-19T19:22+01:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z937a63b8",
+   "sez": "mondo",
+   "titolo": "Il ritorno del concerto delle grandi potenze e il silenzio dell'Europa",
+   "orig": "O regresso do concerto das grandes potências e o silêncio da Europa",
+   "lead": "In un'analisi geopolitica sui nuovi equilibri internazionali, il politologo Pedro Ponte e Sousa ha evidenziato come il ritorno del concerto diplomatico tra le maggiori potenze globali stia mettendo a nudo l'assenza strategica dell'Europa. Secondo l'autore, la subordinazione e la mancanza di una voce autonoma sulla scena mondiale impongono costi elevati ai cittadini europei, costretti a convivere con una logica di economia di guerra priva di prospettive definite e senza una reale capacità di orientare gli sviluppi internazionali. Lo riferisce Público.",
+   "more": [
+    "L'espressione concerto delle grandi potenze richiama il modello diplomatico ottocentesco in cui i destini globali venivano decisi esclusivamente dai vertici delle nazioni militarmente dominanti. Nel contesto attuale, l'Unione Europea persegue una maggiore autonomia strategica comune, affrontando tuttavia storiche divergenze interne tra gli Stati membri sulla politica estera, sulla difesa comunitaria e sulla gestione delle spese per la sicurezza."
+   ],
+   "fonti": [
+    {
+     "n": "Público",
+     "p": "XX",
+     "c": "Lisbona",
+     "u": "https://www.publico.pt/2026/11/19/mundo/opiniao/regresso-concerto-potencias-silencio-europa-2195569",
+     "angolo": "",
+     "atlas": "Portugal",
+     "t": "2026-11-19T16:31+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z38b804c8",
+   "sez": "economia",
+   "titolo": "Critiche all'intervento della banca centrale del Brasile sul tasso di cambio del dollaro",
+   "orig": "BC erra ao intervir na cotação do dólar, diz ex-chefe de departamento da autarquia",
+   "lead": "L'ex capo del dipartimento di mercato aperto della banca centrale brasiliana, Sérgio Goldstein, ha espresso una dura critica verso la decisione dell'istituto monetario di intervenire sul mercato dei cambi per frenare la svalutazione della moneta locale. Secondo l'economista, l'intervento della banca centrale è stato un errore strategico, poiché l'aumento recente della quotazione del dollaro statunitense riflette l'inerzia del presidente Luiz Inácio Lula da Silva nel definire chiaramente le linee programmatiche ed economiche del proprio mandato governativo. Lo riferisce Folha de S.Paulo.",
+   "more": [
+    "Gli interventi sui mercati valutari vengono effettuati dalle banche centrali mediante la vendita di riserve in valuta estera o contratti derivati per calmierare eccessive oscillazioni del tasso di cambio. Tuttavia, tali operazioni possono rivelarsi inefficaci se il deprezzamento della moneta è alimentato da incertezze fiscali o da dubbi degli operatori economici sulla sostenibilità delle politiche economiche adottate dal governo."
+   ],
+   "fonti": [
+    {
+     "n": "Folha de S.Paulo",
+     "p": "XX",
+     "c": "San Paolo",
+     "u": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bc-erra-ao-intervir-na-cotacao-do-dolar-diz-ex-chefe-de-departamento-da-autarquia.shtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-19T15:45-03:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z97ecfa8c",
+   "sez": "mondo",
+   "titolo": "Scadenza del periodo di adattamento per il pedaggio elettronico nello stato del Paraná",
+   "orig": "Motiva Paraná orienta sobre fim do prazo do pedágio eletrônico",
+   "lead": "La concessionaria autostradale Motiva Paraná ha invitato gli automobilisti a regolarizzare i pagamenti arretrati in seguito alla conclusione del periodo di duecento giorni concesso dal governo federale per l'adeguamento al sistema di pedaggio elettronico. Il termine utile per saldare i transiti senza incorrere nelle sanzioni previste dalla normativa è scaduto il sedici novembre. La società gestisce due varchi di rilevamento automatico collocati lungo la strada statale PR-445 a Tamarana e sulla statale BR-376 a Mauá da Serra. Lo riferisce G1.",
+   "more": [
+    "I sistemi di pedaggio elettronico a flusso libero eliminano le barriere fisiche dei caselli, registrando il passaggio dei veicoli attraverso telecamere e sensori che identificano la targa o i dispositivi di bordo. Questo meccanismo riduce i rallentamenti del traffico e i consumi di carburante, ma richiede canali informativi efficaci per consentire agli utenti di pagare tempestivamente le tariffe dovute."
+   ],
+   "fonti": [
+    {
+     "n": "G1",
+     "p": "XX",
+     "c": "Rio de Janeiro",
+     "u": "https://g1.globo.com/pr/parana/especial-publicitario/motiva-parana-pedagio-eletronico/noticia/2026/11/19/motiva-parana-orienta-sobre-fim-do-prazo-do-pedagio-eletronico.ghtml",
+     "angolo": "",
+     "atlas": "Brazil",
+     "t": "2026-11-19T18:37+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5bd798b3",
+   "sez": "cultura",
+   "titolo": "Moneta d'argento commemorativa della banca centrale peruviana per il collegio di Puno",
+   "orig": "BCR pone en circulación moneda de plata conmemorativa del Bicentenario del Glorioso Colegio Nacional de San Carlos de Puno",
+   "lead": "Il Banco Central de Reserva del Perù ha annunciato l'emissione e la messa in circolazione di una moneta d'argento commemorativa per celebrare il bicentenario della fondazione del Glorioso Colegio Nacional de San Carlos di Puno. L'iniziativa numismatica, operativa a partire dal diciannove novembre, intende rendere omaggio al valore storico e culturale della centenaria istituzione scolastica peruviana, offrendo al pubblico e ai collezionisti un pezzo metallico celebrativo che ricorda l'anniversario della fondazione dell'istituto educativo andino. Lo riferisce El Comercio.",
+   "more": [
+    "L'emissione di monete commemorative rappresenta una consolidata tradizione degli istituti di emissione per valorizzare ricorrenze storiche, monumenti o istituzioni rilevanti per l'identità civile di un Paese. Pur avendo corso legale e valore nominale stabilito, questi conii speciali vengono prodotti in tirature limitate e sono destinati principalmente al mercato numismatico e alla conservazione patrimoniale."
+   ],
+   "fonti": [
+    {
+     "n": "El Comercio",
+     "p": "XX",
+     "c": "Lima",
+     "u": "https://elcomercio.pe/economia/peru/bcr-pone-en-circulacion-moneda-de-plata-conmemorativa-del-bicentenario-del-glorioso-colegio-nacional-de-san-carlos-de-puno-l-ultimas-noticia/",
+     "angolo": "",
+     "atlas": "Peru",
+     "t": "2026-11-19T18:06+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z550adf71",
+   "sez": "economia",
+   "titolo": "Sequestrati il telefono del presidente della previdenza paraguaiana e documenti su Ueno Bank",
+   "orig": "Fiscalía incauta celular del titular del IPS y documentos sobre depósitos en Ueno Bank",
+   "lead": "Gli inquirenti della procura di Asunción hanno eseguito un provvedimento di sequestro del telefono cellulare del presidente dell'Instituto de Previsión Social nell'ambito di un'indagine giudiziaria in corso. Nel corso delle perquisizioni svolte presso la sede amministrativa dell'ente previdenziale statale, i magistrati hanno requisito documentazione contabile e amministrativa riguardante depositi finanziari effettuati presso l'istituto di credito Ueno Bank, con l'obiettivo di fare piena luce sulla regolarità della gestione dei fondi pensionistici paraguaiani. Lo riferisce ABC Color.",
+   "more": [
+    "Gli istituti previdenziali pubblici gestiscono i contributi versati dai lavoratori e dai datori di lavoro per garantire l'erogazione delle pensioni e delle prestazioni sanitarie. La collocazione delle loro disponibilità liquide presso banche commerciali richiede rigidi criteri di trasparenza, rating di affidabilità e diversificazione del rischio, per salvaguardare la stabilità patrimoniale del fondo da possibili conflitti d'interesse o speculazioni finanziarie."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/nacionales/2026/11/19/fiscalia-incauta-celular-del-titular-del-ips-y-documentos-sobre-depositos-en-ueno-bank/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-11-19T18:52+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z325d5174",
+   "sez": "economia",
+   "titolo": "Allerta degli importatori paraguaiani sulla gestione statale delle società legate a Ueno Bank",
+   "orig": "Empresas vinculadas a Ueno Bank: CIP advierte sobre desafíos del manejo estatal",
+   "lead": "Il Centro de Importadores del Paraguay ha diffuso un avviso formale sui rischi e sulle complessità legate alla gestione statale delle aziende collegate a Ueno Bank. Durante una protesta svoltasi davanti al Palazzo di Giustizia da parte dei dipendenti dell'organo di stampa La Tribuna in occasione di un'udienza correlata alla banca, l'associazione imprenditoriale ha sottolineato come l'intervento pubblico nel controllo di entità societarie richieda rigore amministrativo per evitare distorsioni nel mercato e tutelare l'occupazione. Lo riferisce ABC Color.",
+   "more": [
+    "L'amministrazione straordinaria o l'intervento diretto dello Stato in imprese e banche in difficoltà rappresenta una misura volta a tutelare la stabilità economica e i posti di lavoro. Tuttavia, la gestione fiduciaria di attività private da parte di soggetti pubblici comporta sfide gestionali complesse, relative al mantenimento della competitività, alla separazione dalle influenze politiche e al rispetto della concorrenza."
+   ],
+   "fonti": [
+    {
+     "n": "ABC Color",
+     "p": "XX",
+     "c": "Asunción",
+     "u": "https://www.abc.com.py/economia/2026/11/19/empresas-vinculadas-a-ueno-bank-cip-advierte-sobre-desafios-del-manejo-estatal/",
+     "angolo": "",
+     "atlas": "Paraguay",
+     "t": "2026-11-19T18:46+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z5444f6a0",
+   "sez": "economia",
+   "titolo": "Il modello finanziario offshore divide l'economia nazionale delle Mauritius",
+   "orig": "[Blog] Comment le modèle offshore de Maurice divise l'économie en deux",
+   "lead": "Un'analisi economica evidenzia come il modello societario offshore delle Mauritius stia creando una profonda frattura all'interno dell'economia nazionale dell'isola. Il settore delle società commerciali globali gestisce attività finanziarie per un valore complessivo di settecentoquarantuno miliardi di dollari, ma genera soltanto l'otto virgola quattro per cento del prodotto interno lordo dell'arcipelago. Inoltre, dal 1994 a oggi la rupia mauriziana ha perso il sessantaquattro per cento del proprio valore, penalizzata dal disallineamento dei tassi d'interesse rispetto alle banche centrali mondiali. Lo riferisce Defimedia.",
+   "more": [
+    "I distretti finanziari offshore attraggono capitali internazionali e società multinazionali attraverso regimi di tassazione agevolata, riservatezza bancaria e normative societarie semplificate. Sebbene questi poli concentrino enormi volumi di attività finanziarie fiduciarie, la loro ricaduta diretta sull'economia reale interna e sull'occupazione locale rimane sovente circoscritta, esponendo al contempo la valuta domestica a pressioni svalutative."
+   ],
+   "fonti": [
+    {
+     "n": "Defimedia",
+     "p": "XX",
+     "c": "Port Louis",
+     "u": "https://defimedia.info/blog-comment-le-modele-offshore-de-maurice-divise-leconomie-en-deux",
+     "angolo": "",
+     "atlas": "Mauritius",
+     "t": "2026-11-19T21:20+04:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z51b82fd8",
+   "sez": "mondo",
+   "titolo": "Incontro in Finlandia tra il ministro degli Esteri senegalese e la comunità della diaspora",
+   "orig": "Finlande : le ministre Cheikh Niang rencontre la communauté sénégalaise",
+   "lead": "Il ministro dell'Integrazione africana, degli Affari esteri e dei senegalesi all'estero, Cheikh Niang, ha incontrato la comunità dei cittadini senegalesi residenti in Finlandia a margine della sua visita ufficiale nel Paese scandinavo. L'incontro istituzionale, reso noto attraverso un comunicato ufficiale, ha permesso di affrontare le principali questioni consolari e di integrazione che riguardano la diaspora senegalese in territorio nordico, rafforzando il dialogo e la vicinanza tra i rappresentanti diplomatici e i connazionali all'estero.",
+   "more": [
+    "La tutela e il coinvolgimento delle comunità all'estero costituiscono un pilastro strategico della diplomazia di molti Paesi africani, per i quali le rimesse economiche della diaspora rappresentano una fonte fondamentale di entrate e di investimenti. I contatti regolari tra i membri dei governi e i residenti espatriati facilitano la risoluzione di problematiche amministrative e l'inclusione sociale nei Paesi d'accoglienza."
+   ],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/politique/diplomatie/finlande-le-ministre-cheikh-niang-rencontre-la-communaute-senegalaise/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-19T18:00+00:00"
+    },
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/pixels/article/2026/11/19/anne-le-henanff-en-matiere-de-cybersecurite-il-y-a-urgence-pour-la-resilience-de-la-nation_6813364_4408996.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-19T19:00+01:00"
+    },
+    {
+     "n": "Mosaïque Guinée",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://mosaiqueguinee.com/2026/11/la-fepap-gui-rencontre-avec-le-ministre-de-la-communication-de-leconomie-numerique-et-de-linnovation/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-19T14:53+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9eb2276a",
+   "sez": "mondo",
+   "titolo": "Condannati nel Regno Unito quattro uomini per violenze sessuali su una donna sedata dal marito",
+   "orig": "Four convicted of sexually abusing woman drugged by husband in UK",
+   "lead": "La corte della corona di Winchester ha riconosciuto quattro uomini colpevoli di abusi sessuali e violenze ai danni di Joanne Young, una donna che veniva sedata dal marito Philip Young, il quale ne pubblicizzava poi segretamente le violenze su internet. Si tratta del primo processo di questo genere celebrato nel Regno Unito, un procedimento penale che ha suscitato ampia eco internazionale per le forti analogie con il noto caso francese di Gisèle Pelicot. I giudici hanno emesso il verdetto di colpevolezza al termine del dibattimento.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Punch",
+     "p": "XX",
+     "c": "Lagos",
+     "u": "https://punchng.com/four-convicted-of-sexually-abusing-woman-drugged-by-husband-in-uk/?utm_source=rss.punchng.com&utm_medium=web",
+     "angolo": "",
+     "atlas": "Nigeria"
+    },
+    {
+     "n": "South China Morning Post",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/news/world/europe/article/3375127/4-uk-men-guilty-sex-crimes-against-drugged-woman-case-echoes-pelicot",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-19T17:46+00:00"
+    },
+    {
+     "n": "MyJoyOnline",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://www.myjoyonline.com/men-guilty-of-abusing-woman-drugged-and-advertised-for-sex-by-husband/",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-11-19T18:59+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z7e2b53ba",
+   "sez": "mondo",
+   "titolo": "La Camera di Commercio di Tripoli avvia un programma per giovani imprenditori con una fondazione tedesca",
+   "orig": "Tripoli Chamber of Commerce meets Germany’s Konrad Adenauer Foundation to support young entrepreneurs",
+   "lead": "Il presidente della Camera di Commercio di Tripoli, Anwar Abu Sitta, ha incontrato Michael Bauer, rappresentante per la Tunisia della fondazione tedesca Konrad Adenauer, per avviare una collaborazione a sostegno dei giovani imprenditori libici. L'incontro istituzionale è stato finalizzato a definire programmi congiunti di cooperazione, formazione professionale e assistenza tecnica per favorire la nascita di nuove iniziative commerciali e promuovere lo sviluppo dell'imprenditorialità giovanile nel contesto della ripresa economica e istituzionale della Libia.",
+   "more": [
+    "La cooperazione internazionale a favore dell'imprenditoria rappresenta uno strumento fondamentale per la stabilizzazione dei Paesi che affrontano complesse transizioni politiche. Il supporto a favore delle giovani generazioni mediante formazione manageriale e accesso al credito incentiva la diversificazione produttiva, riducendo la dipendenza dal settore pubblico e contribuendo a creare occupazione stabile nel tessuto economico locale."
+   ],
+   "fonti": [
+    {
+     "n": "Libya Herald",
+     "p": "XX",
+     "c": "Tripoli",
+     "u": "https://libyaherald.com/2026/11/tripoli-chamber-of-commerce-meets-germanys-konrad-adenauer-foundation-to-support-young-entrepreneurs/",
+     "angolo": "",
+     "atlas": "Libya",
+     "t": "2026-11-18T13:35+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150898",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-19T18:17+00:00"
+    },
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150897",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-19T18:11+00:00"
+    },
+    {
+     "n": "Gabonreview",
+     "p": "XX",
+     "c": "Libreville",
+     "u": "https://www.gabonreview.com/cooperation-economique-deja-une-association-des-entrepreneurs-italo-gabonais-bientot-la-creation-dune-chambre-de-commerce/",
+     "angolo": "",
+     "atlas": "Gabon",
+     "t": "2026-11-19T09:56+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z6dba49ae",
+   "sez": "mondo",
+   "titolo": "Burkina Faso: sciolto il sindacato dei farmacisti e stanziati fondi per quattro ospedali regionali",
+   "orig": "Burkina : Le Syndicat des pharmaciens dissous, 324 milliards FCFA pour construire des CHR-U dans 4 régions",
+   "lead": "Il Consiglio dei ministri del Burkina Faso, presieduto dal capitano Ibrahim Traoré, ha decretato lo scioglimento del Sindacato dei farmacisti e approvato uno stanziamento di 324 miliardi di franchi Cfa per la costruzione di quattro centri ospedalieri universitari regionali, annunciando inoltre il rilancio della miniera di zinco di Perkoa.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Lefaso.net",
+     "p": "XX",
+     "c": "Ouagadougou",
+     "u": "https://lefaso.net/spip.php?article150901",
+     "angolo": "",
+     "atlas": "Burkina Faso",
+     "t": "2026-11-19T18:47+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Video/immobilier-a-kedougou-ecobank-et-la-sicap-mobilisent-74-milliards-de-fcfa-pour-200-logements-a-bandafassi_n_999004133.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-19T18:55+00:00"
+    },
+    {
+     "n": "Actu Cameroun",
+     "p": "XX",
+     "c": "Yaoundé",
+     "u": "https://actucameroun.com/2026/11/19/detournements-bancaires-shanda-tonme-interpelle-dion-ngute-sur-un-vol-de-6-milliards-de-fcfa/",
+     "angolo": "",
+     "atlas": "Cameroon",
+     "t": "2026-11-19T10:42+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zff021949",
+   "sez": "prima",
+   "titolo": "Elezioni di metà mandato negli Stati Uniti: la democratica Mary Peltola conquista il Senato in Alaska",
+   "orig": "Democrats win Alaska Senate race two weeks after midterms counting began",
+   "lead": "A due settimane dall'inizio dello spoglio delle elezioni di metà mandato, la democratica Mary Peltola ha vinto il seggio al Senato per l'Alaska, diventando la prima nativa dello Stato eletta alla Camera alta, mentre i democratici consolidano i risultati contro i repubblicani dopo lo storico successo di Scott Colom in Mississippi.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-18T10:23+00:00"
+    },
+    {
+     "n": "The Guardian",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-18T04:25+00:00"
+    },
+    {
+     "n": "NPR",
+     "p": "US",
+     "c": "Washington",
+     "u": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-19T12:03-05:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera",
+   "sez_prima": "mondo",
+   "riempimento": true
+  },
+  {
+   "id": "z991a60cf",
+   "sez": "mondo",
+   "titolo": "Kenya: l'Alta Corte condanna per oltraggio il ministro Mbadi e la procuratrice generale Oduor",
+   "orig": "Mbadi and AG Oduor found in contempt, to appear in court for sentencing",
+   "lead": "L'Alta Corte di Nairobi ha dichiarato colpevoli di oltraggio alla corte il ministro delle Finanze John Mbadi e la procuratrice generale Dorcas Oduor per non aver rispettato gli ordini giudiziari che imponevano di rivelare i dettagli sugli accordi relativi ai titoli sovrani e sull'utilizzo dei fondi pubblici presi a prestito.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily Nation",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://nation.africa/kenya/news/mbadi-and-ag-oduor-found-in-contempt-to-appear-in-court-for-sentencing-5677264",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-19T15:35+00:00"
+    },
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/high-court-finds-mbadi-attorney-general-guilty-of-contempt-over-public-debt-disclosure-n394215",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-19T17:51+00:00"
+    },
+    {
+     "n": "FrontPage Africa",
+     "p": "XX",
+     "c": "Monrovia",
+     "u": "https://frontpageafricaonline.com/ministry-of-justice-in-contempt-trouble-as-court-summons-ag-betty-lamin-blamo-over-defiance-of-release-order/",
+     "angolo": "",
+     "atlas": "Liberia",
+     "t": "2026-11-19T14:16+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbae1e037",
+   "sez": "mondo",
+   "titolo": "Burundi: governo e Onu lanciano la strategia per il commercio transfrontaliero",
+   "orig": "Programme REST-GLR 2027-2033 : le Burundi affine sa feuille de route pour faire du commerce transfrontalier un levier de paix durable",
+   "lead": "In un seminario nazionale con il Programma di sviluppo delle Nazioni Unite, il governo del Burundi ha definito la tabella di marcia per il progetto regionale Rest-Glr, mirato a trasformare le aree di confine attorno al lago Tanganica e al fiume Rusizi in poli economici per favorire la pace duratura.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Iwacu",
+     "p": "XX",
+     "c": "Gitega",
+     "u": "https://www.iwacu-burundi.org/programme-rest-glr-2027-2033-le-burundi-affine-sa-feuille-de-route-pour-faire-du-commerce-transfrontalier-un-levier-de-paix-durable/",
+     "angolo": "",
+     "atlas": "Burundi",
+     "t": "2026-11-17T10:39+00:00"
+    },
+    {
+     "n": "Guinée News",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://guineenews.org/2026/11/19/conakry-fin-du-seminaire-international-sur-lextension-de-la-couverture-sociale/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-19T16:38+00:00"
+    },
+    {
+     "n": "Africaguinee",
+     "p": "XX",
+     "c": "Conakry",
+     "u": "https://www.africaguinee.com/conakry-la-cipres-trace-sa-feuille-de-route-pour-etendre-la-couverture-sociale-a-93-dactifs-exclus/",
+     "angolo": "",
+     "atlas": "Guinea",
+     "t": "2026-11-19T17:24+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z678b42cf",
+   "sez": "mondo",
+   "titolo": "Ucraina: le forze di Kiev combattono la guerra sotterranea nei vecchi gasdotti",
+   "orig": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+   "lead": "Lungo la linea del fronte in Ucraina, le forze di Kiev combattono nei vecchi gasdotti sotterranei per sottrarsi alla sorveglianza e agli attacchi dei droni russi, spostando lo scontro nel sottosuolo mentre Mosca continua la mobilitazione patriottica interna con monumenti ai soldati caduti persino nei complessi scolastici dell'infanzia.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "BBC News",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-18T17:00+00:00"
+    },
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/19/russian-preschool-unveils-memorial-to-troops-fighting-in-ukraine",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-19T20:13+03:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z42fa1619",
+   "sez": "mondo",
+   "titolo": "Sicurezza europea: l'Estonia mette in guardia contro i negoziati proposti da Mosca",
+   "orig": "Estonian PM warns Europe against falling for 'security' talks with Russia",
+   "lead": "Il primo ministro estone Kristen Michal ha avvertito i partner europei di non cedere alle richieste di negoziati sulla sicurezza avanzate da Mosca, temendo che Paesi baltici e Polonia diventino merce di scambio, mentre il cancelliere tedesco Friedrich Merz ha definito irrealistiche le richieste russe pur ammettendo la necessità del dialogo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERR News",
+     "p": "XX",
+     "c": "Tallinn",
+     "u": "https://news.err.ee/1610200870/estonian-pm-warns-europe-against-falling-for-security-talks-with-russia",
+     "angolo": "",
+     "atlas": "Estonia",
+     "t": "2026-11-19T18:51+02:00"
+    },
+    {
+     "n": "TASS",
+     "p": "XX",
+     "c": "Mosca",
+     "u": "https://tass.com/world/2222069",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-19T21:31+03:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z46079339",
+   "sez": "mondo",
+   "titolo": "Russia e Georgia riprendono il dialogo diretto con un vertice ufficiale a Minsk",
+   "orig": "Russia and Georgia Resume Direct Dialogue With Official Meeting in Minsk, Moscow Says",
+   "lead": "A Minsk, in Bielorussia, il viceministro degli Esteri russo Mikhail Galuzin e il primo viceministro georgiano George Zurabashvili hanno tenuto il primo incontro ufficiale per riprendere il dialogo diretto tra i due Paesi, che avevano interrotto formalmente ogni relazione diplomatica dopo la guerra breve combattuta nel 2008.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/19/russia-and-georgia-resume-direct-dialogue-with-official-meeting-in-minsk-moscow-says-a94323",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-19T21:23+03:00"
+    },
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/761208",
+     "angolo": "",
+     "atlas": "Georgia",
+     "t": "2026-11-19T14:14+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "za491a33b",
+   "sez": "mondo",
+   "titolo": "Energia: la Polonia rafforza la cooperazione sul gas con Ungheria, Cechia, Slovacchia e Lituania",
+   "orig": "Poland deepens regional gas cooperation with Hungary, Czech Republic, Slovakia and Lithuania",
+   "lead": "La Polonia ha consolidato la cooperazione energetica regionale sul gas naturale con Ungheria, Repubblica Ceca, Slovacchia e Lituania, perseguendo l'obiettivo strategico di affermarsi come snodo per le forniture nell'Europa centro-orientale, mentre a Budapest il ministro polacco Radosław Sikorski ha discusso anche di mediazioni di pace con la controparte ungherese.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Notes from Poland",
+     "p": "XX",
+     "c": "Varsavia",
+     "u": "https://notesfrompoland.com/2026/11/19/poland-deepens-regional-gas-cooperation-hungary-czech-republic-slovakia-and-lithuania/",
+     "angolo": "",
+     "atlas": "Poland",
+     "t": "2026-11-19T13:59+00:00"
+    },
+    {
+     "n": "Telex English",
+     "p": "XX",
+     "c": "Budapest",
+     "u": "https://telex.hu/english/2026/11/19/sikorski-poland-will-also-represent-hungary-at-russian-ukrainian-talks",
+     "angolo": "",
+     "atlas": "Hungary",
+     "t": "2026-11-19T19:46+01:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2b4f1ed0",
+   "sez": "mondo",
+   "titolo": "Turchia: deputati di opposizione fondano un gruppo di amicizia con l'Abkhazia",
+   "orig": "Turkish Opposition MPs Form ‘Abkhazia Friendship Group’ in Ankara",
+   "lead": "Un gruppo di parlamentari dell'opposizione turca ha costituito ad Ankara il Gruppo di amicizia per l'Abkhazia nel quadro di una campagna volta a rompere l'isolamento della regione separatista della Georgia, suscitando reazioni per il coinvolgimento diretto di esponenti politici turchi nelle questioni legate al Caucaso meridionale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Civil.ge",
+     "p": "XX",
+     "c": "Tbilisi",
+     "u": "https://civil.ge/archives/761104",
+     "angolo": "",
+     "atlas": "Georgia",
+     "t": "2026-11-19T08:57+00:00"
+    },
+    {
+     "n": "Turkish Minute",
+     "p": "XX",
+     "c": "Istanbul",
+     "u": "https://www.turkishminute.com/2026/11/19/ankara-urges-eu-to-include-turkish-built-vehicles-in-made-in-eu-incentives/",
+     "angolo": "",
+     "atlas": "Turkey",
+     "t": "2026-11-19T16:17+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z78fcd0b8",
+   "sez": "mondo",
+   "titolo": "Corea del Nord: riprende l'importazione di automobili usate cinesi dalla dogana di Hyesan",
+   "orig": "Chinese used cars flow back into North Korea through Hyesan",
+   "lead": "Le importazioni di veicoli usati provenienti dalla Cina sono riprese attraverso la dogana nordcoreana di Hyesan, nella provincia di Ryanggang, ponendo fine a un lungo blocco delle spedizioni oltrefrontiera che aveva congelato le transazioni dei commercianti locali e paralizzato il mercato automobilistico nella regione di confine. Lo riferisce Daily NK.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Daily NK",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://www.dailynk.com/english/chinese-used-cars-hyesan-customs-yuan-exchange-rate/",
+     "angolo": "",
+     "atlas": "North Korea",
+     "t": "2026-11-16T14:35+00:00"
+    },
+    {
+     "n": "3News",
+     "p": "XX",
+     "c": "Accra",
+     "u": "https://3news.com/business/togo-cuts-used-car-customs-value-20-percent",
+     "angolo": "",
+     "atlas": "Ghana",
+     "t": "2026-11-19T18:40+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1d1a72c8",
+   "sez": "economia",
+   "titolo": "Wall Street: crollano le azioni di Amd e Nvidia sotto la pressione delle vendite allo scoperto",
+   "orig": "AMD shares fall after short seller report on China links",
+   "lead": "I titoli del produttore di chip Amd hanno perso fino all'undici per cento a Wall Street dopo un rapporto della società di analisi Hunterbrook sui legami con la Cina, mentre anche la rivale Nvidia affronta nuove scommesse al ribasso da parte del fondo ribassista Muddy Waters.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Financial Times",
+     "p": "UK",
+     "c": "Londra",
+     "u": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+     "angolo": "",
+     "atlas": "United Kingdom",
+     "t": "2026-11-19T18:40+00:00"
+    },
+    {
+     "n": "South China Morning Post – Tecnologia",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://www.scmp.com/tech/big-tech/article/3374920/nvidia-faces-questions-over-former-no-3s-china-ties-after-short-seller-report",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-18T13:30+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z1dc92edb",
+   "sez": "mondo",
+   "titolo": "Spagna: scontro televisivo tra Sánchez e Feijóo a caccia degli indecisi nei sondaggi",
+   "orig": "Elezioni Spagna, Sanchez sfida Feijoo nel duello in tv per completare la rimonta nei sondaggi. E spuntano gli arbitri di basket per dettare i tempi",
+   "lead": "In vista delle elezioni politiche in Spagna, il premier socialista Pedro Sánchez e il leader del Partito Popolare Alberto Núñez Feijóo si affrontano in un atteso duello televisivo di novanta minuti regolato da arbitri di basket per i tempi, mentre i popolari mantengono un vantaggio di circa due punti.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Il Messaggero",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/mondo/elezioni_spagna_duello_tv_sanchez_feijoo_regole_orario_dove_vederlo_sondaggi_politici-9900692.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T19:45+01:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-19T04:30+00:00"
+    },
+    {
+     "n": "El País",
+     "p": "XX",
+     "c": "Madrid",
+     "u": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-ira-a-la-yugular-sin-arriesgar-el-perfil-presidencial-en-un-debate-preparado-con-su-equipo-gallego-y-sin-miguel-angel-rodriguez.html",
+     "angolo": "",
+     "atlas": "Spain",
+     "t": "2026-11-19T04:30+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z373ffdd6",
+   "sez": "mondo",
+   "titolo": "Usa: commissione del Congresso chiede il bando degli aerei cinesi e stop agli investimenti",
+   "orig": "US should not certify Chinese aircraft, restrict investments in China’s aerospace sector, lawmakers say",
+   "lead": "Una commissione del Congresso degli Stati Uniti ha chiesto a Washington di rifiutare la certificazione dei velivoli prodotti in Cina e di revocare i contratti pubblici agli appaltatori della difesa che investono nel comparto aerospaziale cinese, con l'obiettivo di frenare l'avanzata tecnologica e industriale di Pechino nel settore.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "The Straits Times",
+     "p": "XX",
+     "c": "Singapore",
+     "u": "https://www.straitstimes.com/world/united-states/us-should-not-certify-chinese-aircraft-restrict-investments-in-chinas-aerospace-sector-lawmakers-say",
+     "angolo": "",
+     "atlas": "Singapore",
+     "t": "2026-11-20T01:05+08:00"
+    },
+    {
+     "n": "STAT",
+     "p": "US",
+     "c": "Boston",
+     "u": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-19T17:04+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z2c26b756",
+   "sez": "mondo",
+   "titolo": "Cipro: il parlamento impone l'indicazione di tasse e costi del carburante sugli scontrini",
+   "orig": "House mandates fuel price breakdown on receipts",
+   "lead": "Il parlamento di Cipro ha approvato una legge che impone a tutti i distributori di carburante di indicare chiaramente sulle ricevute fiscali la scomposizione del prezzo finale di vendita, specificando il costo netto del prodotto e l'ammontare delle tasse, con l'obbligo che entrerà in vigore a partire dal primo febbraio.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Cyprus Mail",
+     "p": "XX",
+     "c": "Nicosia",
+     "u": "https://cyprus-mail.com/2026/11/19/house-mandates-fuel-price-breakdown-on-receipts",
+     "angolo": "",
+     "atlas": "Cyprus",
+     "t": "2026-11-19T19:13+02:00"
+    },
+    {
+     "n": "Antigua Observer",
+     "p": "XX",
+     "c": "St. John's",
+     "u": "https://antiguaobserver.com/defreitas-vows-to-continue-fuel-price-protests-despite-low-turnout/",
+     "angolo": "",
+     "atlas": "Antigua and Barb.",
+     "t": "2026-11-19T01:19+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z46708917",
+   "sez": "mondo",
+   "titolo": "Germania: l'AfD candida Siegmund alla guida della Sassonia-Anhalt prima del previsto",
+   "orig": "Deutschland Liveblog: Siegmund stellt sich früher zur Wahl als geplant",
+   "lead": "In Germania, il deputato dell'AfD Ulrich Siegmund ha annunciato l'intenzione di candidarsi anticipatamente alla carica di ministro presidente della Sassonia-Anhalt nella seduta speciale del parlamento regionale dell'otto dicembre, mentre in Bassa Sassonia si registrano scossoni politici con le dimissioni della ministra della Giustizia regionale Kathrin Wahlmann.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-siegmund-stellt-sich-frueher-zur-wahl-als-geplant-faz-110093143.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-19T17:27+00:00"
+    },
+    {
+     "n": "NZZ",
+     "p": "XX",
+     "c": "Zurigo",
+     "u": "https://www.nzz.ch/der-andere-blick/deutschland-praesentiert-sich-als-leuchtendes-vorbild-in-der-welt-doch-seine-klimapolitik-ist-gescheitert-ld.10068518",
+     "angolo": "",
+     "atlas": "Switzerland",
+     "t": "2026-11-19T17:08+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9e9111b4",
+   "sez": "mondo",
+   "titolo": "Uzbekistan e Oman concordano viaggi senza visto per soggiorni fino a 30 giorni",
+   "orig": "Uzbekistan and Oman agree on visa-free travel for stays of up to 30 days",
+   "lead": "Uzbekistan e Oman hanno concordato un regime di esenzione dal visto che consentirà ai cittadini uzbeki di soggiornare nel sultanato fino a trenta giorni consecutivi per visita. L'intesa bilaterale è stata definita a margine della visita ufficiale di Stato del presidente uzbeko Shavkat Mirziyoyev a Mascate lo scorso 17 novembre.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Kun.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://kun.uz/en/news/2026/11/19/uzbekistan-and-oman-agree-on-visa-free-travel-for-stays-of-up-to-30-days-61445",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-19T18:52+05:00"
+    },
+    {
+     "n": "Gazeta.uz (inglese)",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://www.gazeta.uz/en/2026/11/19/visa/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-19T16:52+00:00"
+    },
+    {
+     "n": "Daryo",
+     "p": "XX",
+     "c": "Tashkent",
+     "u": "https://daryo.uz/en/2026/11/19/kyrgyzstan-proposes-visa-free-entry-for-18-additional-countries-and-longer-stays-for-foreign-visitors/",
+     "angolo": "",
+     "atlas": "Uzbekistan",
+     "t": "2026-11-19T16:59+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zd279aa1b",
+   "sez": "prima",
+   "titolo": "Naufragio al largo di Lampedusa: dispersa una bambina di sei anni",
+   "orig": "Barchino affonda, dispersa bimba 6 anni",
+   "lead": "Un barchino carico di migranti si è ribaltato nelle acque al largo di Lampedusa, causando la scomparsa di una bambina di sei anni. Le squadre di soccorso sono riuscite a trarre in salvo cinquanta persone, mentre altri cinquantacinque naufraghi sono stati soccorsi nel porto di Pozzallo in una parallela operazione.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/barchino-affonda-dispersa-bimba-6-anni-697f89f4-fda0-4947-a366-fc23c1cdee71.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T10:36+00:00"
+    },
+    {
+     "n": "ANSA",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ansa.it/sito/notizie/cronaca/2026/11/19/si-ribalta-barca-con-migranti-a-lampedusa-dispersa-bimba-di-6-anni_51f568ca-d4cd-48b4-ab1b-8a71222fe119.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T19:15+01:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera",
+   "sez_prima": "italia",
+   "riempimento": true
+  },
+  {
+   "id": "za63c8ac3",
+   "sez": "mondo",
+   "titolo": "Russia: condannato a 10 anni per corruzione l'ex viceministro della Difesa Tsalikov",
+   "orig": "Russia’s former deputy defense minister gets 10 years for corruption",
+   "lead": "Il tribunale distrettuale Zamoskvoreckij di Mosca ha condannato a dieci anni di colonia penale a regime severo l'ex primo viceministro della Difesa russo Ruslan Tsalikov. L'ex dirigente è stato riconosciuto colpevole di corruzione, riciclaggio e appropriazione indebita di fondi pubblici per un valore complessivo di oltre sei miliardi e mezzo di rubli.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Meduza",
+     "p": "XX",
+     "c": "Riga (in esilio)",
+     "u": "https://meduza.io/en/news/2026/11/19/russia-s-former-deputy-defense-minister-gets-10-years-for-corruption",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-19T21:40+03:00"
+    },
+    {
+     "n": "Moscow Times",
+     "p": "XX",
+     "c": "Amsterdam (in esilio)",
+     "u": "https://www.themoscowtimes.com/2026/11/19/ex-deputy-defense-minister-ruslan-tsalikov-jailed-10-years-for-corruption-a94317",
+     "angolo": "",
+     "atlas": "Russia",
+     "t": "2026-11-19T19:31+03:00"
+    },
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/rd-pashtpanoutyan-nakhkin-pokhnakharar-tsalikov-10-tari-azatazrkum/33902070.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-19T22:02+04:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zf5c128ff",
+   "sez": "mondo",
+   "titolo": "Francia: l'Arcom impone il rispetto del pluralismo ai creator per le presidenziali 2027",
+   "orig": "Présidentielle : les créateurs de contenus sommés de respecter le pluralisme par l'Arcom",
+   "lead": "In Francia, i creatori di contenuti sul web e gli influencer dovranno rispettare gli obblighi di pluralismo politico durante la campagna elettorale per le presidenziali del 2027. La decisione è stata comunicata dall'Arcom, l'autorità di regolazione audiovisiva e digitale, che potrà comminare sanzioni pecuniarie ai canali digitali in caso di violazioni reiterate.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "France 24",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.france24.com/fr/france/20261119-pr%C3%A9sidentielle-cr%C3%A9ateurs-contenus-somm%C3%A9s-respecter-pluralisme-arcom",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-19T18:07+00:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/politique/presidentielle-2027-les-createurs-de-contenus-devront-pour-la-premiere-fois-respecter-le-pluralisme-annonce-larcom-20261119_DNP6YZIHU5AWDK4OWE4OMSCQSE/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-19T18:05+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "za17424ba",
+   "sez": "mondo",
+   "titolo": "Senegal: il governo difende l'entrata in vigore per decreto della legge di bilancio",
+   "orig": "LFR 2026 : les autorités sénégalaises exposent les fondements juridiques de la mise en vigueur par décret",
+   "lead": "Il governo del Senegal ha illustrato i fondamenti giuridici e costituzionali della scelta del presidente Bassirou Diomaye Faye di approvare tramite decreto la legge finanziaria rettificativa per il 2026. Il provvedimento era stato respinto dall'Assemblea nazionale il 3 novembre, spingendo l'esecutivo di Dakar a invocare i poteri conferiti dalla Carta fondamentale.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Soleil",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://lesoleil.sn/actualites/politique/lfr-2026-les-autorites-senegalaises-exposent-les-fondements-juridiques-de-la-mise-en-vigueur-par-decret/",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-19T18:59+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/mise-en-vigueur-de-la-lfr-par-decret-ce-que-precisait-lexpert-alioune-souare-sur-le-recours-a-larticle-68-de-la-constitution_n_999004131.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-19T18:46+00:00"
+    },
+    {
+     "n": "Seneweb",
+     "p": "XX",
+     "c": "Dakar",
+     "u": "https://www.seneweb.com/fr/news/Politique/lfr-moussa-tine-explique-pourquoi-il-sera-difficile-dattaquer-le-decret-de-diomaye_n_999004130.html",
+     "angolo": "",
+     "atlas": "Senegal",
+     "t": "2026-11-19T18:42+00:00"
+    },
+    {
+     "n": "La Nouvelle Tribune",
+     "p": "XX",
+     "c": "Cotonou",
+     "u": "https://lanouvelletribune.info/2026/11/senegal-apres-le-decret-budgetaire-diomaye-faye-peut-il-dissoudre-lassemblee-de-sonko/",
+     "angolo": "",
+     "atlas": "Benin",
+     "t": "2026-11-19T16:03+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z0fff4611",
+   "sez": "mondo",
+   "titolo": "Kenya: Ruto attacca l'opposizione per l'abbandono del dialogo sulle riforme elettorali",
+   "orig": "‘Wacheni kusumbua IEBC, haipigi kura!’ Ruto slams opposition over dramatic walkout",
+   "lead": "Il presidente keniota William Ruto ha criticato duramente l'opposizione politica dopo l'abbandono del confronto sulle riforme elettorali, sottolineando che l'organismo elettorale indipendente non determina i vincitori delle consultazioni. Ruto ha ribadito che il potere di scegliere i rappresentanti appartiene unicamente agli elettori, sollecitando gli avversari a indicare il candidato presidenziale per il 2027.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Citizen Digital",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://citizen.digital/article/wacheni-kusumbua-iebc-haipigi-kura-ruto-slams-opposition-over-dramatic-walkout-n394205",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-19T16:30+00:00"
+    },
+    {
+     "n": "The Standard (Kenya)",
+     "p": "XX",
+     "c": "Nairobi",
+     "u": "https://www.standardmedia.co.ke/article/2001562646/ruto-sustains-attacks-on-gachagua-dares-opposition-to-name-2027-flagbearer",
+     "angolo": "",
+     "atlas": "Kenya",
+     "t": "2026-11-19T20:38+03:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z57fbdb0f",
+   "sez": "mondo",
+   "titolo": "Francia: aperta inchiesta su fughe di notizie dal ministero dell'Interno verso il RN",
+   "orig": "Une enquête ouverte sur des fuites en provenance du ministère de l’intérieur vers le RN",
+   "lead": "La procura francese ha avviato un'indagine giudiziaria per violazione del segreto d'ufficio e dell'istruttoria su presunte fughe di notizie dal ministero dell'Interno verso esponenti del Rassemblement National. Gli investigatori hanno disposto perquisizioni nella sede del partito di opposizione e negli uffici di Beauvau, concentrandosi sul ruolo di un ex alto funzionario.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Le Monde",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.lemonde.fr/societe/article/2026/11/19/une-enquete-ouverte-sur-des-fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn_6813316_3224.html",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-19T15:31+01:00"
+    },
+    {
+     "n": "Libération",
+     "p": "XX",
+     "c": "Parigi",
+     "u": "https://www.liberation.fr/societe/police-justice/des-perquisitions-au-siege-du-rn-et-au-ministere-de-linterieur-pour-des-soupcons-de-violation-du-secret-de-linstruction-20261119_6GA46AAFMNBSTNRTK2JUTI7BKQ/",
+     "angolo": "",
+     "atlas": "France",
+     "t": "2026-11-19T16:45+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zef6d86c9",
+   "sez": "mondo",
+   "titolo": "Andorra: annunciato un sussidio di 200 euro per il riscaldamento a famiglie vulnerabili",
+   "orig": "Marín anuncia ajuts de 200 euros per a famílies vulnerables per pagar la calefacció",
+   "lead": "Il governo di Andorra ha annunciato lo stanziamento di un contributo straordinario di duecento euro destinato alle famiglie economicamente vulnerabili per sostenere le spese di riscaldamento a gasolio. I criteri per accedere alle agevolazioni statali saranno formalizzati e approvati dal consiglio dei ministri nella seduta prevista per mercoledì prossimo.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Diari d'Andorra",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.diariandorra.ad/nacional/261119/govern-donara-200-euros-per-familia-per-pagar-calefaccio_209137.html",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-19T11:09+01:00"
+    },
+    {
+     "n": "Bondia",
+     "p": "XX",
+     "c": "Andorra la Vella",
+     "u": "https://www.bondia.ad/politica/ajut-de-200-euros-per-fer-front-al-cost-del-gasoil-de-calefaccio",
+     "angolo": "",
+     "atlas": "Andorra",
+     "t": "2026-11-19T19:46+01:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zbb95d334",
+   "sez": "mondo",
+   "titolo": "Stati Uniti: Hegseth resta sotto esame al Pentagono dopo il fallito impeachment",
+   "orig": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
+   "lead": "A una settimana dal fallimento del procedimento di impeachment nei suoi confronti, il segretario alla Difesa degli Stati Uniti Pete Hegseth rimane al centro di forti polemiche per la sua guida del Pentagono. Secondo gli osservatori politici, il voto parlamentare non ha affatto dissipato le critiche. Lo riferisce Al Jazeera.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-19T17:15+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zae2c3baa",
+   "sez": "mondo",
+   "titolo": "Israele: presentato un disegno di legge per fissare un limite ai mandati del premier",
+   "orig": "Israele, Ddl per limite mandato premier",
+   "lead": "In Israele è stata presentata una proposta di legge volta a stabilire un tetto massimo ai mandati del primo ministro. L'iniziativa parlamentare mira a scongiurare l'eccessiva concentrazione di potere nelle mani del capo dell'esecutivo e a garantire un fisiologico ricambio democratico alla guida del Paese. Lo riferisce Rai News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Rai News",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.rainews.it/articoli/ultimora/-israele-ddl-per-limite-mandato-premier-cae59468-e46e-405c-8df5-ff2769a39077.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T16:40+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z9c7d9597",
+   "sez": "mondo",
+   "titolo": "Lituania: Nausėda conferma l'obiettivo di istituire una divisione nazionale entro il 2030",
+   "orig": "Nausėda ragina neabejoti tikslu nacionalinę diviziją išvystyti iki 2030 metų",
+   "lead": "Il presidente lituano Gitanas Nausėda ha esortato l'opinione pubblica e la classe politica a non dubitare dell'obiettivo di completare la creazione di una divisione militare nazionale entro il 2030. Per centrare il traguardo, Nausėda ha chiesto di velocizzare le procedure degli appalti della difesa e garantire finanziamenti stabili. Lo riferisce LRT.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "LRT",
+     "p": "XX",
+     "c": "Vilnius",
+     "u": "https://www.lrt.lt/naujienos/lietuvoje/2/3119452/nauseda-ragina-neabejoti-tikslu-nacionaline-divizija-isvystyti-iki-2030-metu",
+     "angolo": "",
+     "atlas": "Lithuania",
+     "t": "2026-11-19T20:16+02:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z01c2a870",
+   "sez": "tech",
+   "titolo": "USA: la Casa Bianca esclude l'azione di cybercriminali dietro i recenti disservizi tech",
+   "orig": "Are tech disruptions and and outages the new normal?",
+   "lead": "L'amministrazione Trump ha affermato che non sussiste alcun elemento per attribuire a cybercriminali o attori malevoli i recenti disservizi tecnologici che hanno colpito le piattaforme informatiche. La Casa Bianca ha escluso collegamenti tra le diverse interruzioni, intervenendo nel dibattito sulla fragilità delle reti digitali negli Stati Uniti. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/nation/are-tech-disruptions-and-and-outages-the-new-normal",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-19T13:21-05:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z3db0b982",
+   "sez": "mondo",
+   "titolo": "Alaska, il repubblicano Nick Begich vince il seggio alla Camera",
+   "orig": "Republican Rep. Nick Begich wins reelection for Alaska House seat",
+   "lead": "Il deputato repubblicano Nick Begich ha ottenuto la rielezione per il seggio della Camera dei Rappresentanti in Alaska attraverso il sistema di voto per preferenze ordinate. Il successo elettorale di mercoledì rappresenta una vittoria rara e significativa per il Partito Repubblicano dopo le recenti difficoltà parlamentari. Lo riferisce PBS NewsHour.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/politics/republican-rep-nick-begich-wins-reelection-for-alaska-house-seat",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-19T11:16-05:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z04d481c0",
+   "sez": "mondo",
+   "titolo": "Isole Marianne Settentrionali, dubbi sulle consultazioni dell'aviazione Usa",
+   "orig": "Groups question timing of US military consultations in Northern Marianas",
+   "lead": "Nelle Isole Marianne Settentrionali diversi gruppi comunitari hanno contestato la tempistica delle consultazioni avviate dall'Aeronautica militare degli Stati Uniti per ampliare le esercitazioni belliche nell'arcipelago del Pacifico. I cittadini sollevano perplessità sull'opportunità e le modalità del confronto pubblico promosso dalle forze armate americane sul futuro territorio locale. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/pacific/2698643/groups-question-timing-of-us-military-consultations-in-northern-marianas",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-20T07:44+13:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z364137a1",
+   "sez": "mondo",
+   "titolo": "Nuova Zelanda, denunce per reati minori di droga ai massimi da dieci anni",
+   "orig": "Charges for low-level drug offending reach highest level in a decade",
+   "lead": "In Nuova Zelanda le accuse formali per reati minori legati alla droga hanno raggiunto il livello più alto dell'ultimo decennio. I dati diffusi emergono nonostante la riforma legislativa del 2019 imponesse alla polizia di evitare il perseguimento giudiziario salvo nei casi di dimostrato interesse pubblico generale per la collettività. Lo riferisce RNZ.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "RNZ",
+     "p": "XX",
+     "c": "Wellington",
+     "u": "https://www.rnz.co.nz/news/crime-and-justice/2693667/charges-for-low-level-drug-offending-reach-highest-level-in-a-decade",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-20T07:39+13:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z142bfb36",
+   "sez": "mondo",
+   "titolo": "Calcio, nuovo scontro tra Uefa e Infantino sui documenti della Fifa",
+   "orig": "Νέα επίθεση της UEFA σε Ινφαντίνο για τη μη προσκόμιση εγγράφων",
+   "lead": "Si riaccende lo scontro istituzionale tra la UEFA e il presidente della FIFA Gianni Infantino per la mancata trasmissione di documenti riguardanti l'ormai abbandonato progetto «FIFA Forward Enterprise». L'iniziativa mirava ad aprire a investitori privati le attività commerciali dei Mondiali, scatenando l'opposizione formale degli otto delegati europei nel Consiglio federale. Lo riferisce ERT News.",
+   "more": [],
+   "fonti": [
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/athlitismos/nea-epithesi-tis-uefa-se-infantino-gia-ti-mi-proskomisi-eggrafon/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-19T18:59+00:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "zcc3171fb",
+   "sez": "mondo",
+   "titolo": "Armenia, a Erevan una conferenza internazionale sulle persone scomparse",
+   "orig": "«Հակառակորդի հետ խոսելուց պետք չէ վախենալ». 34 տարի եղբորը սպասող բոսնիացի կնոջ ուղերձը",
+   "lead": "Si è aperta a Erevan una conferenza internazionale incentrata sulla questione delle persone scomparse nei conflitti armati. Lo riferisce Azatutyun (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33902022.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-19T21:13+04:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
+   "id": "z115b921f",
+   "sez": "mondo",
+   "titolo": "Armenia, l'opposizione respinge l'offerta di dimissioni di Pashinian",
+   "orig": "Armenian Opposition Spurns Pashinian’s Resignation Offer Over Constitutional Referendum",
+   "lead": "In Armenia l'opposizione parlamentare ha respinto la proposta del primo ministro Nikol Pashinian, che si era detto disposto a dimettersi in cambio del sostegno dei voti necessari a indire il referendum costituzionale richiesto dall'Azerbaigian. I partiti contrari hanno bloccato il tentativo di compromesso politico sulle riforme istituzionali del Paese. Lo riferisce Azatutyun (inglese).",
+   "more": [],
+   "fonti": [
+    {
+     "n": "Azatutyun (inglese)",
+     "p": "XX",
+     "c": "Erevan",
+     "u": "https://www.azatutyun.am/a/33902034.html",
+     "angolo": "",
+     "atlas": "Armenia",
+     "t": "2026-11-19T20:46+04:00"
+    }
+   ],
+   "data": "19 nov",
+   "ora": "20:36",
+   "uscita": "sera"
+  },
+  {
    "id": "zb4a88b33",
    "sez": "mondo",
    "titolo": "Intesa in Iraq tra governo e Kataib Hezbollah sulle postazioni della milizia",
@@ -224,6 +1805,150 @@ window.EDIZIONI["2026-11-19-sera"] = {
      "angolo": "",
      "atlas": "United Kingdom",
      "t": "2026-11-19T17:38+00:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261119001358315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-19T22:54+09:00"
+    },
+    {
+     "n": "Yonhap",
+     "p": "XX",
+     "c": "Seul",
+     "u": "https://en.yna.co.kr/view/AEN20261119001357315",
+     "angolo": "",
+     "atlas": "South Korea",
+     "t": "2026-11-19T20:45+09:00"
+    },
+    {
+     "n": "Dawn",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://www.dawn.com/news/2045691/president-pm-agree-on-resolving-all-matters-through-dialogue-amid-rising-political-temperatures",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-19T23:37+05:00"
+    },
+    {
+     "n": "The Express Tribune",
+     "p": "XX",
+     "c": "Karachi",
+     "u": "https://tribune.com.pk/story/2641205/pm-president-resolve-to-solve-all-issues-through-dialogue-after-bilawals-remarks-whip-up-storm",
+     "angolo": "",
+     "atlas": "Pakistan",
+     "t": "2026-11-19T13:55+05:00"
+    },
+    {
+     "n": "la Repubblica",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T12:51+00:00"
+    },
+    {
+     "n": "Il Fatto Quotidiano",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilfattoquotidiano.it/2026/11/19/vertice-shenzhen-trump-xi-putin-ordine-mondiale-notizie/8577282/",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T17:10+00:00"
+    },
+    {
+     "n": "Il Messaggero – Roma",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.ilmessaggero.it/vaticano/san_pietro_ravasi_lectio_petri_cortile_gentili_giovanni_grasso_vaticano-9900515.html",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T17:35+01:00"
+    },
+    {
+     "n": "la Repubblica – Esteri",
+     "p": "IT",
+     "c": "Roma",
+     "u": "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/?rss",
+     "angolo": "",
+     "atlas": "Italy",
+     "t": "2026-11-19T19:26+01:00"
+    },
+    {
+     "n": "Der Spiegel",
+     "p": "DE",
+     "c": "Amburgo",
+     "u": "https://www.spiegel.de/politik/dreiergipfel-in-shenzhen-warum-europa-doch-nicht-wehrlos-ist-a-81057fa6-b177-4d70-b634-bea34f98f138#ref=rss",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-19T19:57+01:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-und-nvidia-wie-jensen-huangs-abgang-die-partnerschaft-veraendert-accg-201694752.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-19T12:12+00:00"
+    },
+    {
+     "n": "FAZ",
+     "p": "DE",
+     "c": "Francoforte",
+     "u": "https://www.faz.net/aktuell/politik/ausland/die-europaeer-sollten-xi-fuer-den-gipfel-mit-trump-und-putin-dankbar-sein-201698661.html",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-19T14:55+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-19T17:52+00:00"
+    },
+    {
+     "n": "Hong Kong Free Press",
+     "p": "XX",
+     "c": "Hong Kong",
+     "u": "https://hongkongfp.com/2026/11/19/trump-says-summit-with-xi-putin-making-history/",
+     "angolo": "",
+     "atlas": "China",
+     "t": "2026-11-19T10:54+00:00"
+    },
+    {
+     "n": "PBS NewsHour",
+     "p": "US",
+     "c": "Arlington",
+     "u": "https://www.pbs.org/newshour/world/for-putin-sharing-a-spotlight-with-trump-and-xi-boosts-his-profile-on-the-global-stage",
+     "angolo": "",
+     "atlas": "United States of America",
+     "t": "2026-11-19T11:51-05:00"
+    },
+    {
+     "n": "NZ Herald",
+     "p": "XX",
+     "c": "Auckland",
+     "u": "https://www.nzherald.co.nz/world/what-xi-putin-and-trump-wanted-and-what-they-got/HQ7S6RUULZBMREVRSS4KEYWLBQ/",
+     "angolo": "",
+     "atlas": "New Zealand",
+     "t": "2026-11-19T18:23+00:00"
+    },
+    {
+     "n": "Al Jazeera",
+     "p": "QA",
+     "c": "Doha",
+     "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit",
+     "angolo": "",
+     "atlas": "Qatar",
+     "t": "2026-11-19T17:02+00:00"
     }
    ],
    "data": "19 nov",
@@ -232,7 +1957,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
   },
   {
    "id": "z784198d1",
-   "sez": "prima",
+   "sez": "mondo",
    "titolo": "Pentagono: la guerra in Iran è costata agli Stati Uniti oltre 48 miliardi",
    "orig": "Guerra Iran, Pentagono: costata finora 48 miliardi. LIVE",
    "lead": "Il dipartimento della Difesa degli Stati Uniti ha comunicato che le operazioni militari legate al conflitto contro l'Iran hanno comportato finora una spesa complessiva pari a 48,3 miliardi di dollari. Il dato è stato reso noto dal vice responsabile finanziario del Pentagono, Arthur Miller, il quale ha precisato che il totale delle uscite è stato calcolato con riferimento alla data del 13 novembre, registrando un ulteriore incremento rispetto ai 47,1 miliardi rendicontati a fine ottobre. Contestualmente al prolungamento dello scontro armato e alla lievitazione dei costi operativi, continuano a susseguirsi allarmi e segnalazioni relative a incidenti a carico di petroliere in transito nello Stretto di Hormuz.",
@@ -297,9 +2022,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
    ],
    "data": "19 nov",
    "ora": "20:12",
-   "uscita": "sera",
-   "sez_prima": "mondo",
-   "riempimento": true
+   "uscita": "sera"
   },
   {
    "id": "zed48fccc",
@@ -391,6 +2114,15 @@ window.EDIZIONI["2026-11-19-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-19T14:00+00:00"
+    },
+    {
+     "n": "MIA (inglese)",
+     "p": "XX",
+     "c": "Skopje",
+     "u": "https://mia.mk/story/%D1%82%D1%80%D0%B0%D0%BC%D0%BF-%D0%B5-%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD-%D0%B7%D0%B0-%D0%B8%D0%B4%D0%B5%D1%98%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B1%D0%B5%D0%B7%D0%B1%D0%B5%D0%B4%D0%BD%D0%BE%D1%81%D0%BD%D0%B8-%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8-%D0%B7%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-%D0%B8%D0%B7%D1%98%D0%B0%D0%B2%D0%B8-%D1%9F%D0%B0%D1%80%D0%B5%D0%B4-%D0%BA%D1%83%D1%88%D0%BD%D0%B5%D1%80",
+     "angolo": "",
+     "atlas": "Macedonia",
+     "t": "2026-11-19T19:49+01:00"
     }
    ],
    "data": "19 nov",
@@ -399,7 +2131,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
   },
   {
    "id": "z46c3aafd",
-   "sez": "mondo",
+   "sez": "prima",
    "titolo": "Vertice di Berlino: Macron rilancia l'adesione di Kiev alla Nato e un tavolo a quattro",
    "orig": "Liveticker zu Gipfeln: ++ Macron: NATO-Beitritt der Ukraine neu verhandeln ++",
    "lead": "Durante il vertice di Berlino a sostegno dell'Ucraina, il presidente francese Emmanuel Macron ha proposto di riaprire formalmente il dibattito sull'adesione di Kiev alla Nato, definendo la presenza delle forze armate ucraine nell'Alleanza un elemento rilevante per la stabilità a lungo termine della sicurezza europea. Macron ha ribadito che ogni trattativa di pace dovrà coinvolgere in modo paritario quattro soggetti imprescindibili: Ucraina, Russia, Stati Uniti ed Europa, escludendo accordi bilaterali isolati. Anche il primo ministro britannico Andy Burnham ha espresso determinazione dopo i confronti, affermando che il continente europeo è compatto e preparato ad affrontare negoziati di pace credibili con tutte le parti.",
@@ -451,6 +2183,24 @@ window.EDIZIONI["2026-11-19-sera"] = {
      "angolo": "",
      "atlas": "Albania",
      "t": "2026-11-19T18:52+00:00"
+    },
+    {
+     "n": "Deutsche Welle",
+     "p": "DE",
+     "c": "Bonn",
+     "u": "https://www.dw.com/en/european-leaders-present-united-front-in-push-for-peace-in-ukraine/live-79986520",
+     "angolo": "",
+     "atlas": "Germany",
+     "t": "2026-11-19T18:44+00:00"
+    },
+    {
+     "n": "ERT News",
+     "p": "XX",
+     "c": "Atene",
+     "u": "https://www.ertnews.gr/eidiseis/diethni/poutin-pros-eyropaious-igetes-elate-sti-mosxa/",
+     "angolo": "",
+     "atlas": "Greece",
+     "t": "2026-11-19T18:49+00:00"
     }
    ],
    "data": "19 nov",
@@ -2882,7 +4632,61 @@ window.EDIZIONI["2026-11-19-sera"] = {
   "zaaa51fcc": "La testata mette in luce il ruolo del Queensland come vivaio dei Wallabies e la presenza tra i talenti del figlio del capo del rugby.",
   "zfa059abf": "Viene sottolineato l'acquisto azionario compiuto da Trump poco prima che emergessero le contestazioni sui rapporti del vertice di Nvidia.",
   "z26715f51": "L'attenzione si concentra sulla prudenza degli operatori dell'intrattenimento coreano nonostante l'intesa tra Lee e Xi.",
-  "z5f8af423": "La testata segnala l'interruzione della serie di ribassi con l'aumento della benzina mentre il diesel resta stabile."
+  "z5f8af423": "La testata segnala l'interruzione della serie di ribassi con l'aumento della benzina mentre il diesel resta stabile.",
+  "zb5e9db3c": "La testata sottolinea l'opportunità di guadagno offerta ai piccoli azionisti dalla vendita dei diritti inoptati.",
+  "z04025e81": "La testata mette in luce il bilanciamento tra l'aumento dei profitti bancari e la maggiore vulnerabilità creditizia.",
+  "z859180bb": "La testata pone l'accento sul supporto finanziario governativo per le esigenze operative dei coltivatori diretti.",
+  "z526178c7": "La testata rimarca il carattere irreversibile dei cambiamenti nei consumi energetici mondiali causati dal conflitto.",
+  "zb22555fa": "La testata evidenzia il contrasto tra l'elezione all'unanimità dell'indagato e le accuse di manipolazione del tesseramento.",
+  "z809407b9": "La testata mette a confronto i margini ristretti della ristorazione con le migliori performance del settore alberghiero.",
+  "z108f5ba9": "La testata sottolinea l'attenzione dell'esecutivo verso la tutela della spesa delle famiglie marocchine.",
+  "z895d5d9f": "La testata pone l'accento sulla decisione giudiziaria a tutela dei diritti di proprietà intellettuale della federazione calcistica.",
+  "zaa99de1e": "La testata evidenzia l'incertezza storica e contabile dell'amministrazione fiscale nella gestione delle vincite da gioco.",
+  "z0f4762ce": "La testata mette in evidenza i progressi nei cantieri e le soluzioni per superare i blocchi marittimi.",
+  "ze849296a": "La testata sottolinea i meccanismi con cui sono state aggirate le restrizioni elvetiche sull'export di armi.",
+  "z937a63b8": "La testata mette in luce la critica alla dipendenza strategica europea e ai costi per la cittadinanza.",
+  "z38b804c8": "La testata sottolinea l'attribuzione delle oscillazioni valutarie all'incertezza politica del governo.",
+  "z97ecfa8c": "La testata richiama l'attenzione degli automobilisti sulla fine delle tolleranze per le multe stradali.",
+  "z5bd798b3": "La testata pone l'accento sulla ricorrenza storica dell'istituto andino celebrata dalla banca centrale.",
+  "z550adf71": "La testata evidenzia il sequestro del dispositivo del presidente dell'ente e delle carte sui depositi bancari.",
+  "z325d5174": "La testata segnala le preoccupazioni degli importatori e le manifestazioni dei lavoratori davanti al tribunale.",
+  "z5444f6a0": "La testata sottolinea lo squilibrio tra l'enorme massa di attivi finanziari gestiti e il contributo reale al PIL.",
+  "z51b82fd8": "La testata sottolinea l'attenzione del governo di Dakar verso le condizioni e le richieste della diaspora all'estero.",
+  "z9eb2276a": "I media internazionali evidenziano le somiglianze tra il processo britannico e il procedimento penale francese sul caso Pelicot.",
+  "z7e2b53ba": "La testata pone l'accento sulla cooperazione tra istituzioni libiche e partner internazionali a favore dei giovani.",
+  "z6dba49ae": "Lefaso.net evidenzia le principali delibere del Consiglio dei ministri burkinabè nei settori della sanità e dell'economia estrattiva.",
+  "zff021949": "BBC News mette l'accento sulla vittoria dei democratici in Alaska a completamento del successo elettorale al Senato.",
+  "z991a60cf": "Daily Nation pone l'accento sulla mancata esecuzione degli ordini giudiziari da parte dei vertici dello Stato keniota.",
+  "zbae1e037": "Iwacu illustra i piani governativi per rafforzare l'integrazione commerciale transfrontaliera come strumento di stabilizzazione regionale.",
+  "z678b42cf": "BBC News propone un reportage ravvicinato sulle tattiche di guerra sotterranea adottate dai soldati ucraini per sfuggire ai droni nemici.",
+  "z42fa1619": "ERR News dà rilievo all'allarme di Tallinn sui rischi strategici che compromessi con Mosca comporterebbero per il fianco orientale della Nato.",
+  "z46079339": "The Moscow Times evidenzia la prima riapertura formale dei contatti diplomatici diretti tra Mosca e Tbilisi dalla rottura del 2008.",
+  "za491a33b": "Notes from Poland punta l'attenzione sull'ambizione di Varsavia di diventare il principale hub di distribuzione del gas per l'Europa centro-orientale.",
+  "z2b4f1ed0": "Civil.ge pone l'accento sui tentativi promossi da ambienti parlamentari di Ankara per allacciare contatti politici formali con la regione separatista georgiana.",
+  "z78fcd0b8": "Daily NK analizza la riapertura dei flussi commerciali transfrontalieri tra Cina e Corea del Nord attraverso le testimonianze locali.",
+  "z1d1a72c8": "Il Financial Times pone l'accento sulla forte volatilità del comparto dei semiconduttori scatenata dai timori sui rapporti commerciali con la Cina.",
+  "z1dc92edb": "Il Messaggero evidenzia le singolari regole organizzative del faccia a faccia televisivo decisivo per le sorti della campagna elettorale.",
+  "z373ffdd6": "The Straits Times riferisce le pressioni bipartisan del Congresso statunitense per isolare l'industria aerospaziale cinese dalle catene di fornitura occidentali.",
+  "z2c26b756": "Cyprus Mail sottolinea il voto unanime del parlamento a favore della trasparenza dei prezzi e dei tributi sui carburanti.",
+  "z46708917": "La Frankfurter Allgemeine Zeitung segue con un liveblog le manovre dell'AfD nei parlamenti regionali e i rimpasti nei governi dei Länder.",
+  "z9e9111b4": "I media dell'Asia centrale evidenziano la facilitazione degli spostamenti e il consolidamento dei rapporti bilaterali con il Golfo.",
+  "zd279aa1b": "La stampa italiana pone l'accento sulla drammaticità della sparizione e sull'intensificarsi delle operazioni di salvataggio marittimo.",
+  "za63c8ac3": "Le testate indipendenti russe rimarcano la durezza della condanna inflitta all'ex alto vertice della Difesa per i reati finanziari.",
+  "zf5c128ff": "I media francesi analizzano l'estensione inedita delle norme sul pluralismo radiotelevisivo ai canali digitali e agli influencer.",
+  "za17424ba": "Gli organi di informazione senegalesi si concentrano sulla disputa istituzionale tra presidenza e parlamento sull'approvazione del bilancio.",
+  "z0fff4611": "La stampa keniota mette in rilievo la fermezza del capo dello Stato nel respingere le manovre dell'opposizione sul voto.",
+  "z57fbdb0f": "Le testate parigine sottolineano la gravità delle presunte fughe di documenti riservati da apparati dello Stato verso forze politiche.",
+  "zef6d86c9": "I quotidiani andorrani evidenziano le misure di sostegno economico varate dal governo contro il rincaro dei combustibili domestici.",
+  "zbb95d334": "La testata araba evidenzia il persistere delle tensioni politiche attorno alla nomina del capo del Pentagono nonostante il voto parlamentare.",
+  "zae2c3baa": "Il servizio pubblico italiano si focalizza sui tentativi normativi di limitare la permanenza al vertice del potere esecutivo a Tel Aviv.",
+  "z9c7d9597": "L'emittente pubblica di Vilnius evidenzia la priorità strategica assegnata dalla presidenza al potenziamento delle forze armate nazionali.",
+  "z01c2a870": "La rete televisiva pubblica statunitense mette in luce le rassicurazioni federali sull'assenza di attacchi cibernetici sistematici.",
+  "z3db0b982": "L'emittente pubblica statunitense evidenzia l'importanza del risultato per gli equilibri della Camera.",
+  "z04d481c0": "L'emittente pubblica neozelandese evidenzia le preoccupazioni delle comunità locali del Pacifico.",
+  "z364137a1": "La testata neozelandese mette a confronto i dati della polizia con gli obiettivi della legge del 2019.",
+  "z142bfb36": "L'emittente pubblica greca pone l'accento sulle tensioni tra i vertici europei e la presidenza Fifa.",
+  "zcc3171fb": "La testata armena mette in risalto le testimonianze umane e la cooperazione internazionale sui dispersi.",
+  "z115b921f": "L'emittente armena sottolinea le tensioni politiche interne legate ai colloqui di pace con Baku."
  },
  "contesti": {
   "z56dcb616": "Prima del vertice con Trump e Putin a Shenzhen, Xi Jinping ha pronunciato un discorso sull'integrazione economica nell'area Asia-Pacifico. Nelle ore successive all'incontro si sono moltiplicate in rete clip manipolate sul protocollo ufficiale, inducendo testate e analisti a verificare le registrazioni integrali per chiarire la dinamica reale dei colloqui trilaterali.",
@@ -2893,7 +4697,9 @@ window.EDIZIONI["2026-11-19-sera"] = {
   "zd172a6e9": "Negli ultimi mesi gli ingegneri del Jet Propulsion Laboratory hanno risolto complesse anomalie informatiche nei computer di bordo di Voyager 1, ripristinando la trasmissione coerente dei dati scientifici. Il superamento del confine simbolico di ventiquattro ore-luce segna un altro traguardo eccezionale per la missione più longeva della Nasa.",
   "zb76eb1db": "Il Manchester United ha attraversato un avvio di stagione molto difficile in Premier League, precipitando nei bassifondi della classifica. La dirigenza ha quindi deciso di affidare la panchina a Mauricio Pochettino, inducendolo a lasciare il proprio incarico di commissario tecnico della nazionale maschile degli Stati Uniti per guidare la risalita del club inglese.",
   "z784198d1": "L'escalation militare in Medio Oriente e il confronto diretto con l'Iran hanno provocato un massiccio dispiegamento di forze statunitensi nell'area del Golfo Persico. Nelle ultime settimane, il prolungamento delle ostilità ha fatto lievitare esponenzialmente le spese operative di Washington, mentre le crescenti tensioni lungo le rotte strategiche marittime, in particolare nello Stretto di Hormuz, continuano a minacciare la sicurezza dei trasporti petroliferi internazionali e ad alimentare l'instabilità geopolitica regionale.",
-  "z3ddbd60b": "Negli ultimi giorni, le riflessioni sul ruolo del giornalismo e della divulgazione culturale hanno suscitato un ampio interesse nel dibattito pubblico italiano. Diversi esponenti dell'informazione e della cultura hanno condiviso testimonianze e aneddoti sul valore del confronto intellettuale contemporaneo. Tra questi, l'intervento di Roberto D'Agostino ha offerto uno spaccato inedito sul legame personale con Corrado Augias, celebrandone l'approccio laico, la curiosità umanistica e il dialogo oltre le divisioni ideologiche."
+  "z3ddbd60b": "Negli ultimi giorni, le riflessioni sul ruolo del giornalismo e della divulgazione culturale hanno suscitato un ampio interesse nel dibattito pubblico italiano. Diversi esponenti dell'informazione e della cultura hanno condiviso testimonianze e aneddoti sul valore del confronto intellettuale contemporaneo. Tra questi, l'intervento di Roberto D'Agostino ha offerto uno spaccato inedito sul legame personale con Corrado Augias, celebrandone l'approccio laico, la curiosità umanistica e il dialogo oltre le divisioni ideologiche.",
+  "zff021949": "Le elezioni di metà mandato negli Stati Uniti hanno visto uno scrutinio lungo e complesso, in particolare in Alaska a causa del sistema di voto a scelta ordinata. Nelle settimane successive al voto, il conteggio delle schede si è protratto per definire i seggi ancora incerti. I democratici hanno progressivamente consolidato la propria rappresentanza con risultati significativi in diversi Stati dell'Unione.",
+  "zd279aa1b": "Negli ultimi giorni la rotta del Mediterraneo centrale ha registrato un forte incremento di traversate a causa delle condizioni meteorologiche favorevoli. Numerose imbarcazioni di fortuna sono salpate dalle coste nordafricane verso l'Italia. La Guardia Costiera e le navi di soccorso sono state impegnate in molteplici interventi di emergenza al largo delle isole Pelagie e della Sicilia per mettere in salvo centinaia di migranti."
  },
  "cronologie": {
   "z56dcb616": [
@@ -3002,6 +4808,34 @@ window.EDIZIONI["2026-11-19-sera"] = {
    [
     "Recentemente",
     "D'Agostino racconta su la Repubblica i dialoghi privati con Augias"
+   ]
+  ],
+  "zff021949": [
+   [
+    "8 novembre",
+    "Apertura dei seggi per le elezioni di metà mandato negli Stati Uniti"
+   ],
+   [
+    "16 novembre",
+    "Prosegue lo scrutinio delle schede con il sistema di voto ordinale in Alaska"
+   ],
+   [
+    "23 novembre",
+    "Completamento delle operazioni di spoglio e conferma dei risultati definitivi"
+   ]
+  ],
+  "zd279aa1b": [
+   [
+    "Giorni precedenti",
+    "Odata di partenze dalle coste nordafricane verso il Mediterraneo centrale"
+   ],
+   [
+    "24 ore prima",
+    "Avvistamento di diverse imbarcazioni sovraffollate in difficoltà al largo delle coste siciliane"
+   ],
+   [
+    "Nelle ultime ore",
+    "Operazioni di salvataggio a Lampedusa e Pozzallo a seguito del ribaltamento del barchino"
    ]
   ]
  },
@@ -3125,6 +4959,105 @@ window.EDIZIONI["2026-11-19-sera"] = {
     }
    ],
    "divergono": "Le Monde e Le Figaro evidenziano l'assenso di Mosca al «concetto» di una protezione modellata sull'articolo 5, nozione descritta da PBS NewsHour con la formula russa «a suo agio». Al contrario TASS, la voce della Russia, omette qualunque concessione del Cremlino e circoscrive la vicenda all'iter interno statunitense presso il Congresso e ai piani finanziari postbellici con BlackRock. Sul fronte diplomatico, Le Monde ed El Tiempo pongono l'accento sulla proposta di Macron di ridiscutere l'effettiva adesione all'Alleanza atlantica, mentre PBS NewsHour privilegia il rischio di marginalizzazione dei leader europei rispetto alle trattative condotte da Trump con Putin e Xi Jinping, inserendo il quadro delle operazioni militari sul ponte di Kerch."
+  },
+  "zff021949": {
+   "voci": [
+    {
+     "n": "BBC News",
+     "c": "Londra",
+     "p": "UK",
+     "t": "BBC News evidenzia il significato politico generale: il seggio di Mary Peltola porta i Democratici a 56 seggi al Senato. Riferisce del conteggio durato due settimane, della sconfitta di Dan S Sullivan e analizza la controversia sul presunto candidato \"disturbatore\", definita ininfluente grazie al voto per preferenza ordinata.",
+     "b": "a"
+    },
+    {
+     "n": "NPR",
+     "c": "Washington",
+     "p": "US",
+     "t": "L'articolo non era leggibile, quindi il giudizio è parziale basandosi solo su titolo e occhiello. NPR non menziona l'Alaska, ma si focalizza sull'elezione in Mississippi di Scott Colom, primo senatore afroamericano dello Stato dopo circa 150 anni, definendola \"più grande dell'elezione di Barack Obama\".",
+     "b": "t"
+    },
+    {
+     "n": "The Guardian",
+     "c": "Londra",
+     "p": "UK",
+     "t": "The Guardian celebra la valenza storica e culturale per i nativi dell'Alaska, aprendo con il grido di festa \"Aarigaa\". Mette in risalto le radici yup'ik di Peltola, la campagna incentrata sul salmone e sulle comunità remote, oltre a denunciare gli attacchi razzisti della campagna repubblicana avversaria.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Mentre BBC News inquadra la vittoria sul piano degli equilibri al Senato e analizza la controversia legale sul candidato omonimo, The Guardian adotta una prospettiva socio-culturale, concentrandosi sulla rappresentanza delle comunità indigene e sulle questioni ambientali ed economiche locali. NPR diverge completamente dall'argomento principale: il suo sommario tralascia l'Alaska per trattare la storica elezione senatoriale in Mississippi. Sul piano dei dati, BBC News fornisce dettagli sul margine di voto (Peltola sopra il 50%, Sullivan sotto il 46%), assenti nel resoconto di The Guardian."
+  },
+  "z46c3aafd": {
+   "voci": [
+    {
+     "n": "Tagesschau",
+     "c": "Amburgo",
+     "p": "DE",
+     "t": "In una cronaca dettagliata e neutrale, Tagesschau riassume il vertice di Berlino della \"coalizione dei volenterosi\". Riporta l'apertura di Macron sulla NATO, ma dà ampio spazio al cancelliere Merz, all'ottimismo del ministro Wadephul, alle dichiarazioni dei mediatori statunitensi Kushner e Witkoff e alle reazioni parallele dal vertice di Shenzhen.",
+     "b": "a"
+    },
+    {
+     "n": "Ukrinform",
+     "c": "Kyiv",
+     "p": "XX",
+     "t": "La voce dell'Ucraina mette al centro la richiesta di Emmanuel Macron di colloqui di pace a quattro e la riapertura del fascicolo NATO di fronte alle richieste \"massimaliste\" russe. Descrive l'architettura delle garanzie di sicurezza con forze internazionali sul terreno dopo la fine delle ostilità.",
+     "b": "a"
+    },
+    {
+     "n": "The Straits Times",
+     "c": "Singapore",
+     "p": "XX",
+     "t": "L'articolo, neutro e puramente informativo basato su agenzia Reuters, si limita a riportare le parole di Macron a Berlino. Il presidente francese giudica \"rilevante\" l'adesione di Kiev alla NATO per la sicurezza europea e riferisce di scambi con gli inviati speciali di Donald Trump.",
+     "b": "a"
+    },
+    {
+     "n": "Euronews Albania",
+     "c": "Tirana",
+     "p": "XX",
+     "t": "Con un approccio neutro ed essenziale, la testata riferisce la dichiarazione di Macron sulla necessità di riaprire il tema dell'ingresso di Kiev nella NATO in virtù del suo esercito ben equipaggiato, confermando la presenza a Berlino degli emissari statunitensi Kushner e Witkoff.",
+     "b": "a"
+    },
+    {
+     "n": "ERT News",
+     "c": "Atene",
+     "p": "XX",
+     "t": "ERT News sposta l'asse su Vladimir Putin da Shenzhen: il leader russo invita gli europei a Mosca e liquida i timori di un'aggressione russa come \"diarrea politica\". Il testo documenta inoltre le minacce di ritorsione per il ponte di Crimea e i droni russi caduti su Kiev.",
+     "b": "a"
+    }
+   ],
+   "divergono": "Le testate differiscono radicalmente sulla cornice dell'evento. Tagesschau, Ukrinform, The Straits Times ed Euronews Albania focalizzano l'attenzione sul vertice di Berlino e sull'apertura di Macron all'adesione dell'Ucraina alla NATO. Al contrario, ERT News ignora quasi del tutto il vertice tedesco e Macron, ponendo in primo piano la posizione di Putin da Shenzhen e le sue pesanti dichiarazioni contro i timori europei. Inoltre, mentre Ukrinform enfatizza il formato negoziale a quattro e la futura presenza di truppe occidentali sul territorio ucraino, le agenzie sintetizzate da The Straits Times ed Euronews Albania si limitano a registrare la battuta di Macron sul valore dell'esercito ucraino per la sicurezza comune."
+  },
+  "z3ddbd60b": {
+   "voci": [
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "Mette al centro il ricordo di Roberto D’Agostino per Corrado Augias, focalizzandosi su un'amicizia cinquantennale e su conversazioni riguardanti fede, cultura e musica classica anziché la politica. D’Agostino descrive Augias come persona «aperta» al confronto e al dialogo.",
+     "b": "t"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "L'articolo non è leggibile, quindi il giudizio è parziale. Titolo e occhiello riportano il ricordo di Andrea Salerno, direttore di La7, che descrive Augias come «entusiasta, curioso e umile», citando le conversazioni fino a mercoledì sulla puntata commemorativa.",
+     "b": "t"
+    },
+    {
+     "n": "ANSA",
+     "c": "Roma",
+     "p": "IT",
+     "t": "L'articolo non è accessibile per paywall, pertanto il giudizio è parziale. Il titolo riporta la riflessione di Corrado Augias nell’ultima puntata de «La Torre di Babele», in cui viene citato Calvino.",
+     "b": "a"
+    },
+    {
+     "n": "la Repubblica",
+     "c": "Roma",
+     "p": "IT",
+     "t": "L'articolo non è leggibile, dunque il giudizio è parziale. Titolo e occhiello mettono in primo piano la passione di Augias per la musica classica e la lirica fin dall'adolescenza, ricordando i suoi incontri all’Accademia Nazionale di Santa Cecilia.",
+     "b": "t"
+    }
+   ],
+   "divergono": "Le testate e i relativi articoli analizzati mettono in luce aspetti diversi della figura di Corrado Augias. Un articolo di la Repubblica evidenzia la testimonianza di Roberto D’Agostino sul loro dialogo cinquantennale su fede e cultura. Un secondo articolo di la Repubblica si concentra sulle dichiarazioni di Andrea Salerno e la puntata televisiva commemorativa, mentre un terzo testo di la Repubblica evidenzia la passione per la musica classica. ANSA mette invece al centro la citazione di Calvino nell'ultima puntata de «La Torre di Babele». Non emergono contraddizioni su fatti specifici."
   }
  },
  "luoghi": {
@@ -3777,6 +5710,387 @@ window.EDIZIONI["2026-11-19-sera"] = {
     "Pakistan"
    ],
    "pt": []
+  },
+  "zb5e9db3c": {
+   "n": "Katmandu",
+   "p": [
+    "Nepal"
+   ],
+   "pt": []
+  },
+  "z04025e81": {
+   "n": "Manila",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z859180bb": {
+   "n": "Valle di Cagayan",
+   "p": [
+    "Philippines"
+   ],
+   "pt": []
+  },
+  "z526178c7": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zb22555fa": {
+   "n": "Napoli",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z809407b9": {
+   "n": "Roma",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "z108f5ba9": {
+   "n": "Rabat",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "z895d5d9f": {
+   "n": "Casablanca",
+   "p": [
+    "Morocco"
+   ],
+   "pt": []
+  },
+  "zaa99de1e": {
+   "n": "Windhoek",
+   "p": [
+    "Namibia"
+   ],
+   "pt": []
+  },
+  "z0f4762ce": {
+   "n": "Baghdad",
+   "p": [
+    "Iraq"
+   ],
+   "pt": []
+  },
+  "ze849296a": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "z937a63b8": {
+   "n": "Lisbona",
+   "p": [
+    "Portugal"
+   ],
+   "pt": []
+  },
+  "z38b804c8": {
+   "n": "San Paolo",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z97ecfa8c": {
+   "n": "Paraná",
+   "p": [
+    "Brazil"
+   ],
+   "pt": []
+  },
+  "z5bd798b3": {
+   "n": "Lima",
+   "p": [
+    "Peru"
+   ],
+   "pt": []
+  },
+  "z550adf71": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z325d5174": {
+   "n": "Asunción",
+   "p": [
+    "Paraguay"
+   ],
+   "pt": []
+  },
+  "z5444f6a0": {
+   "n": "Port Louis",
+   "p": [
+    "Mauritius"
+   ],
+   "pt": []
+  },
+  "z51b82fd8": {
+   "n": "Helsinki",
+   "p": [
+    "Finland"
+   ],
+   "pt": []
+  },
+  "z9eb2276a": {
+   "n": "Winchester",
+   "p": [
+    "United Kingdom"
+   ],
+   "pt": []
+  },
+  "z7e2b53ba": {
+   "n": "Tripoli",
+   "p": [
+    "Libya"
+   ],
+   "pt": []
+  },
+  "z6dba49ae": {
+   "n": "Ouagadougou",
+   "p": [
+    "Burkina Faso"
+   ],
+   "pt": []
+  },
+  "zff021949": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z991a60cf": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "zbae1e037": {
+   "n": "Gitega",
+   "p": [
+    "Burundi"
+   ],
+   "pt": []
+  },
+  "z678b42cf": {
+   "n": "Ucraina",
+   "p": [
+    "Ukraine"
+   ],
+   "pt": []
+  },
+  "z42fa1619": {
+   "n": "Tallinn",
+   "p": [
+    "Estonia"
+   ],
+   "pt": []
+  },
+  "z46079339": {
+   "n": "Minsk",
+   "p": [
+    "Belarus",
+    "Georgia",
+    "Russia"
+   ],
+   "pt": []
+  },
+  "za491a33b": {
+   "n": "Varsavia",
+   "p": [
+    "Poland"
+   ],
+   "pt": []
+  },
+  "z2b4f1ed0": {
+   "n": "Ankara",
+   "p": [
+    "Turkey"
+   ],
+   "pt": []
+  },
+  "z78fcd0b8": {
+   "n": "Hyesan",
+   "p": [
+    "North Korea"
+   ],
+   "pt": []
+  },
+  "z1d1a72c8": {
+   "n": "New York",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z1dc92edb": {
+   "n": "Madrid",
+   "p": [
+    "Spain"
+   ],
+   "pt": []
+  },
+  "z373ffdd6": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z2c26b756": {
+   "n": "Nicosia",
+   "p": [
+    "Cyprus"
+   ],
+   "pt": []
+  },
+  "z46708917": {
+   "n": "Magdeburgo",
+   "p": [
+    "Germany"
+   ],
+   "pt": []
+  },
+  "z9e9111b4": {
+   "n": "Mascate",
+   "p": [
+    "Oman",
+    "Uzbekistan"
+   ],
+   "pt": []
+  },
+  "zd279aa1b": {
+   "n": "Lampedusa",
+   "p": [
+    "Italy"
+   ],
+   "pt": []
+  },
+  "za63c8ac3": {
+   "n": "Mosca",
+   "p": [
+    "Russia"
+   ],
+   "pt": []
+  },
+  "zf5c128ff": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "za17424ba": {
+   "n": "Dakar",
+   "p": [
+    "Senegal"
+   ],
+   "pt": []
+  },
+  "z0fff4611": {
+   "n": "Nairobi",
+   "p": [
+    "Kenya"
+   ],
+   "pt": []
+  },
+  "z57fbdb0f": {
+   "n": "Parigi",
+   "p": [
+    "France"
+   ],
+   "pt": []
+  },
+  "zef6d86c9": {
+   "n": "Andorra la Vella",
+   "p": [
+    "Andorra"
+   ],
+   "pt": []
+  },
+  "zbb95d334": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "zae2c3baa": {
+   "n": "Gerusalemme",
+   "p": [
+    "Israel"
+   ],
+   "pt": []
+  },
+  "z9c7d9597": {
+   "n": "Vilnius",
+   "p": [
+    "Lithuania"
+   ],
+   "pt": []
+  },
+  "z01c2a870": {
+   "n": "Washington",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z3db0b982": {
+   "n": "Alaska",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z04d481c0": {
+   "n": "Isole Marianne Settentrionali",
+   "p": [
+    "United States of America"
+   ],
+   "pt": []
+  },
+  "z364137a1": {
+   "n": "Wellington",
+   "p": [
+    "New Zealand"
+   ],
+   "pt": []
+  },
+  "z142bfb36": {
+   "n": "Zurigo",
+   "p": [
+    "Switzerland"
+   ],
+   "pt": []
+  },
+  "zcc3171fb": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
+  },
+  "z115b921f": {
+   "n": "Erevan",
+   "p": [
+    "Armenia"
+   ],
+   "pt": []
   }
  },
  "rilievo": {
@@ -3787,7 +6101,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
   "z56dcb616": 3,
   "z784198d1": 2,
   "zed48fccc": 3,
-  "z46c3aafd": 1,
+  "z46c3aafd": 2,
   "z41fde4d4": 1,
   "z5c482e74": 1,
   "zd172a6e9": 1,
@@ -3871,7 +6185,61 @@ window.EDIZIONI["2026-11-19-sera"] = {
   "zaaa51fcc": 1,
   "zfa059abf": 1,
   "z26715f51": 1,
-  "z5f8af423": 1
+  "z5f8af423": 1,
+  "zb5e9db3c": 1,
+  "z04025e81": 1,
+  "z859180bb": 1,
+  "z526178c7": 1,
+  "zb22555fa": 1,
+  "z809407b9": 1,
+  "z108f5ba9": 1,
+  "z895d5d9f": 1,
+  "zaa99de1e": 1,
+  "z0f4762ce": 1,
+  "ze849296a": 1,
+  "z937a63b8": 1,
+  "z38b804c8": 1,
+  "z97ecfa8c": 1,
+  "z5bd798b3": 1,
+  "z550adf71": 1,
+  "z325d5174": 1,
+  "z5444f6a0": 1,
+  "z51b82fd8": 1,
+  "z9eb2276a": 2,
+  "z7e2b53ba": 1,
+  "z6dba49ae": 1,
+  "zff021949": 3,
+  "z991a60cf": 1,
+  "zbae1e037": 1,
+  "z678b42cf": 1,
+  "z42fa1619": 1,
+  "z46079339": 1,
+  "za491a33b": 1,
+  "z2b4f1ed0": 1,
+  "z78fcd0b8": 1,
+  "z1d1a72c8": 1,
+  "z1dc92edb": 1,
+  "z373ffdd6": 1,
+  "z2c26b756": 1,
+  "z46708917": 1,
+  "z9e9111b4": 1,
+  "zd279aa1b": 2,
+  "za63c8ac3": 2,
+  "zf5c128ff": 1,
+  "za17424ba": 2,
+  "z0fff4611": 1,
+  "z57fbdb0f": 1,
+  "zef6d86c9": 1,
+  "zbb95d334": 1,
+  "zae2c3baa": 1,
+  "z9c7d9597": 1,
+  "z01c2a870": 1,
+  "z3db0b982": 1,
+  "z04d481c0": 1,
+  "z364137a1": 1,
+  "z142bfb36": 1,
+  "zcc3171fb": 1,
+  "z115b921f": 1
  },
  "video": {},
  "pillole": []
