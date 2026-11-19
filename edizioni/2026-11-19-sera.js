@@ -156,20 +156,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
      "angolo": "",
      "atlas": "Italy",
      "t": "2026-11-19T09:55+00:00"
-    }
-   ],
-   "data": "19 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
-   "id": "zaf68c8cc",
-   "sez": "italia",
-   "titolo": "Addio ad Augias, firma storica di Repubblica e protagonista della cultura italiana",
-   "orig": "Addio Augias, protagonista della cultura italiana e grande firma di Repubblica",
-   "lead": "Già inviato e corrispondente a New York e Parigi, Augias ha contribuito fino all'ultimo come opinionista ed editorialista alle pagine del giornale. Lo riferisce la Repubblica.",
-   "more": [],
-   "fonti": [
+    },
     {
      "n": "la Repubblica",
      "p": "IT",
@@ -279,7 +266,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
   },
   {
    "id": "z4dc32b44",
-   "sez": "tech",
+   "sez": "mondo",
    "titolo": "La Tanzania presenta una nuova carta d'identità con dati integrati e funzioni per viaggi internazionali",
    "orig": "Tanzania unveils new national ID with integrated personal records, cross-border travel features",
    "lead": "Il governo della Tanzania ha presentato una nuova carta d'identità nazionale che integra i dati personali dei cittadini e include funzioni pensate per facilitare i viaggi oltre confine. Secondo le autorità, l'obiettivo è ridurre la necessità per i cittadini di portare con sé più documenti diversi. Lo riferisce The Citizen.",
@@ -372,7 +359,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
   },
   {
    "id": "z2e6fe919",
-   "sez": "tech",
+   "sez": "viaggi",
    "titolo": "In Lettonia crescita moderata delle prenotazioni negli hotel nel terzo trimestre",
    "orig": "Latvian hotels saw modest booking growth in third quarter",
    "lead": "Secondo i dati pubblicati dall'Ufficio centrale di statistica della Lettonia il 19 novembre, gli arrivi nelle strutture turistiche del Paese hanno raggiunto 1,07 milioni nel terzo trimestre del 2026, con un aumento del 2,3% rispetto allo stesso periodo del 2025. Lo riferisce LSM.",
@@ -802,39 +789,6 @@ window.EDIZIONI["2026-11-19-sera"] = {
      "angolo": "",
      "atlas": "Bangladesh",
      "t": "2026-11-19T08:54+00:00"
-    }
-   ],
-   "data": "19 nov",
-   "ora": "12:35",
-   "uscita": "13"
-  },
-  {
-   "id": "z42936250",
-   "sez": "cultura",
-   "titolo": "GTA VI accolto dalla critica come uno dei migliori videogiochi di sempre",
-   "orig": "GTA VI è uno dei migliori videogiochi di tutti i tempi",
-   "lead": "Il nuovo capitolo della saga Grand Theft Auto, GTA VI, è stato accolto dalla critica come uno dei migliori videogiochi di tutti i tempi, superando aspettative già altissime dopo anni di attesa dal pubblico. Secondo quanto riportato, il gioco ha ricevuto recensioni entusiastiche che ne esaltano la qualità produttiva e narrativa. La pubblicazione arriva dopo un lungo periodo di anticipazione da parte dei fan della serie, uno dei franchise videoludici più venduti e discussi al mondo. Lo riferisce Il Post.",
-   "more": [
-    "Grand Theft Auto è una delle serie di videogiochi più vendute e influenti della storia, prodotta da Rockstar Games. Ogni nuovo capitolo genera attesa enorme nel settore per l'impatto commerciale e culturale, oltre che per le discussioni legate ai contenuti violenti o controversi che spesso li accompagnano."
-   ],
-   "fonti": [
-    {
-     "n": "Il Post",
-     "p": "IT",
-     "c": "Milano",
-     "u": "https://www.ilpost.it/2026/11/19/gta-vi-recensioni/",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-19T11:27+00:00"
-    },
-    {
-     "n": "ANSA",
-     "p": "IT",
-     "c": "Roma",
-     "u": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
-     "angolo": "",
-     "atlas": "Italy",
-     "t": "2026-11-18T23:12+01:00"
     }
    ],
    "data": "19 nov",
@@ -2417,7 +2371,6 @@ window.EDIZIONI["2026-11-19-sera"] = {
   "z635ec7c5": "Al Jazeera riporta la sanzione comunicata dall'Athletics Integrity Unit.",
   "z592f9b60": "La Repubblica sceglie di riproporre le ultime riflessioni di Augias sul presente, nel giorno della sua morte.",
   "z280504e6": "La Repubblica riporta le reazioni istituzionali, in particolare quella della segretaria del Pd Schlein.",
-  "zaf68c8cc": "La Repubblica ricorda il legame storico di Augias con il giornale, di cui è stato firma fin dalla fondazione.",
   "z41f1d510": "Deutsche Welle riporta la decisione della Corte suprema e il rinvio del caso a un tribunale inferiore.",
   "z7f7cc359": "Le Soleil riporta l'apprezzamento della Federazione internazionale per le prestazioni del Senegal, Paese ospitante.",
   "z4dc32b44": "The Citizen presenta il nuovo documento come un passo verso la semplificazione burocratica.",
@@ -2435,7 +2388,6 @@ window.EDIZIONI["2026-11-19-sera"] = {
   "z0c49d268": "La testata evidenzia il cambiamento nei gusti dei consumatori americani verso vini italiani più freschi.",
   "z0040859b": "Il Guardian segue la serata di Champions League femminile con un racconto in diretta delle partite.",
   "zf91872e1": "RNZ sottolinea il valore storico della serie come celebrazione di cento anni di legami sportivi.",
-  "z42936250": "Il Post riporta il giudizio della critica che definisce il gioco superiore alle aspettative.",
   "z30ba38e9": "Il Consiglio presenta l'adozione come semplificazione amministrativa per il mercato interno.",
   "z692116f1": "La BBC racconta il caso attraverso la testimonianza di una famiglia colpita dai ritardi.",
   "z877374ec": "La testata segnala l'aumento degli incidenti come dato rilevante per la sicurezza nazionale.",
@@ -2632,13 +2584,6 @@ window.EDIZIONI["2026-11-19-sera"] = {
    ],
    "pt": []
   },
-  "zaf68c8cc": {
-   "n": "Roma",
-   "p": [
-    "Italy"
-   ],
-   "pt": []
-  },
   "z41f1d510": {
    "n": "Seoul",
    "p": [
@@ -2755,13 +2700,6 @@ window.EDIZIONI["2026-11-19-sera"] = {
    "n": "Auckland",
    "p": [
     "New Zealand"
-   ],
-   "pt": []
-  },
-  "z42936250": {
-   "n": "Stati Uniti",
-   "p": [
-    "United States of America"
    ],
    "pt": []
   },
@@ -3086,7 +3024,6 @@ window.EDIZIONI["2026-11-19-sera"] = {
   "z635ec7c5": 1,
   "z592f9b60": 1,
   "z280504e6": 1,
-  "zaf68c8cc": 2,
   "z41f1d510": 1,
   "z7f7cc359": 1,
   "z4dc32b44": 1,
@@ -3104,7 +3041,6 @@ window.EDIZIONI["2026-11-19-sera"] = {
   "z0c49d268": 1,
   "z0040859b": 1,
   "zf91872e1": 1,
-  "z42936250": 1,
   "z30ba38e9": 1,
   "z692116f1": 1,
   "z877374ec": 1,
