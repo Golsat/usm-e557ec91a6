@@ -376,7 +376,7 @@ window.EDIZIONI["2026-11-19"] = {
   },
   {
    "id": "zdd4a1c78",
-   "sez": "tech",
+   "sez": "cultura",
    "titolo": "Grand Theft Auto VI debutta con recensioni entusiastiche in tutto il mondo",
    "orig": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
    "lead": "Il videogioco Grand Theft Auto VI ha iniziato il suo lancio globale, arrivando sul mercato dopo 13 anni di sviluppo e un costo di produzione stimato in almeno un miliardo di dollari. Il gioco, ambientato nella fittizia Vice City, è considerato il lancio videoludico più atteso della storia e ha ottenuto recensioni entusiastiche nelle prime valutazioni. Il rilascio è iniziato in Nuova Zelanda e si sta estendendo progressivamente in tutto il mondo. Lo riferisce Reuters.",
