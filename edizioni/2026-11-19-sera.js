@@ -1198,7 +1198,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
   },
   {
    "id": "z04a39dca",
-   "sez": "economia",
+   "sez": "mondo",
    "titolo": "Uzbekistan, oltre 1.500 contratti di lavoro risolti dopo indagini anticorruzione",
    "orig": "Uzbekistan terminates 1,565 employment contracts following anti-corruption investigations",
    "lead": "Le unità anticorruzione dell'Uzbekistan hanno condotto 5.368 indagini interne negli uffici governativi nei primi dieci mesi del 2026, portando alla risoluzione di 1.565 contratti di lavoro, 594 sanzioni penali e 160 sanzioni amministrative. Le revisioni degli appalti pubblici e le iniziative di monitoraggio digitale hanno inoltre generato risparmi per miliardi di soum nelle casse pubbliche. Lo riferisce Daryo.",
@@ -1321,7 +1321,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
   },
   {
    "id": "zbf7660fd",
-   "sez": "ambiente",
+   "sez": "ingegneria",
    "titolo": "Dieci scuole moldave saranno ristrutturate per l'efficienza energetica",
    "orig": "Ten schools in Moldova will undergo energy-efficiency upgrades with support from international partners",
    "lead": "Dieci scuole secondarie della Moldova saranno interessate da interventi di efficientamento energetico grazie al supporto di partner internazionali. I lavori comprenderanno l'isolamento degli edifici, la sostituzione di finestre e porte e la modernizzazione degli impianti. Lo riferisce IPN.",
@@ -1894,7 +1894,7 @@ window.EDIZIONI["2026-11-19-sera"] = {
   },
   {
    "id": "zb1588542",
-   "sez": "ambiente",
+   "sez": "cultura",
    "titolo": "Hong Kong espone fossili di dinosauro di 100 milioni di anni",
    "orig": "Roaring back: Hong Kong’s 100-million-year-old dinosaur fossil makes its debut",
    "lead": "I primi fossili di dinosauro scoperti a Hong Kong, rinvenuti sull'isola di Port, appartengono a un sauropode di oltre 20 metri di lunghezza risalente a 100 milioni di anni fa. I reperti sono stati esposti al pubblico venerdì al Centro di Scoperta del Patrimonio di Hong Kong. Lo riferisce South China Morning Post.",
